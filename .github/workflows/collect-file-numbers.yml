@@ -1,0 +1,49 @@
+name: Collect Competition Law file numbers
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Optional backfill start date (YYYY-MM-DD). Leave blank to search only for new filings since the last run."
+        required: false
+        default: ""
+  schedule:
+    - cron: "17 19 * * 0" # weekly, Monday ~6am AEDT
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-file-numbers
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect file numbers (90-day windows)
+        env:
+          START: ${{ github.event.inputs.start }}
+        run: |
+          args=(--output data/competition_law_file_numbers.json)
+          if [ -n "$START" ]; then args+=(--start "$START"); fi
+          python scripts/collect_file_numbers.py "${args[@]}"
+
+      - name: Commit results if changed
+        run: |
+          if git diff --quiet -I '"generated_at"' -- data/; then
+            echo "No new file numbers."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git add data/competition_law_file_numbers.json
+          git commit -m "Update Competition Law file numbers"
+          git push
