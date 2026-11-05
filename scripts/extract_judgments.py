@@ -55,7 +55,7 @@ JUDGMENTS_JSON = os.path.join(ROOT, "data", "judgments.json")
 OUT_DIR = os.path.join(ROOT, "data", "extracted")
 
 # Bump when the output format changes.
-EXTRACTOR_VERSION = 1
+EXTRACTOR_VERSION = 2
 
 FILE_NAME_RE = re.compile(r"^(\d{4})(FCAFC|FCA)(\d{4})$")
 FILE_NUMBER_RE = re.compile(r"\b([A-Z]{3})\s*(\d{1,5})\s*(?:of|/)\s*(\d{4})\b")
@@ -713,6 +713,11 @@ def parse_reasons(reasons, fn: Footnotes, expected_total: int | None, contents: 
                 numbered_label_styles[b.style] = numbered_label_styles.get(b.style, 0) + 1
     main_styles = {"ParaNumbering"} if "ParaNumbering" in numbered_label_styles else (
         {max(numbered_label_styles, key=numbered_label_styles.get)} if numbered_label_styles else set())
+    # Word's own list for those paragraphs: a paragraph in the same list is a
+    # numbered paragraph whatever its style (e.g. a last paragraph left in
+    # "Body Text" but still numbered 156).
+    main_lists = {b.num_id for b in reasons if isinstance(b, Para) and b.style in main_styles
+                  and b.num_id is not None and b.label}
 
     judge_heading = None
     for b in reasons:
@@ -722,7 +727,8 @@ def parse_reasons(reasons, fn: Footnotes, expected_total: int | None, contents: 
                 continue
             label, body = split_label(b)
             n = None
-            if b.style in main_styles and re.fullmatch(r"\d+\.?", label or "") and (b.level in (None, 0)):
+            in_main = b.style in main_styles or (b.num_id is not None and b.num_id in main_lists)
+            if in_main and re.fullmatch(r"\d+\.?", label or "") and (b.level in (None, 0)):
                 cand = int(label.rstrip("."))
                 if cand == expected or b.style == "ParaNumbering" or (expected < cand <= expected + 5):
                     n = cand
@@ -1021,7 +1027,6 @@ def extract(path: str, index_entry: dict | None) -> tuple[dict, str]:
         "schedules": after_info["schedules"],
         "footnotes": notes,
         "warnings": warnings,
-        "text": markdown,
     }
     return record, markdown
 
@@ -1093,6 +1098,7 @@ def main(argv=None):
             log(f"{stem}: FAILED: {e}")
             continue
         record["source_sha256"] = digest
+        record["markdown_file"] = os.path.relpath(md_path, ROOT)
         os.makedirs(out_dir, exist_ok=True)
         with open(json_path, "w") as f:
             json.dump(record, f, ensure_ascii=False, indent=1)

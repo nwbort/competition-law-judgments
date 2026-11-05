@@ -117,7 +117,7 @@ have them typed in (`12<tab>...`). Both forms are handled.
 | `metadata` | Normalised cover-sheet fields: `citation`, `name`, `court`, `year`, `number`, `date_of_judgment`, `file_numbers` (`NSD702/2006` form, as in `judgments.json`), `judges` (`["ALLSOP CJ", "BEACH J", "COLVIN J"]`), `registry`, `division`, `national_practice_area`, `sub_area`, `category`, `hearing_dates` (ISO dates, with ranges such as "5-9 September" expanded), `hearing_raw`, `last_submissions`, `number_of_paragraphs`, `catchwords`, `legislation`, `cases_cited`, `texts_cited` (one list item per line on the cover sheet), `appeal_from`/`review_of`, `parties` (`{name, role}` from the BETWEEN/AND tables), `representation` (`{role: counsel/solicitor, for, name, proceeding?}`), and the portal's `url`, `portal_file_numbers`, `portal_event`, `portal_event_date`. Fields that are absent are left out. |
 | `cover_sheet` | Every cover-sheet row verbatim, as `{label, value}`. Labels vary over the years ("Judge:", "Judgment of:", "Judge(s):"), and `metadata` maps them to fixed keys. |
 | `orders` | One block per file number: `file_number`, `parties`, `judges`, `date`, `place`, `registry`, the headings ("THE COURT DECLARES THAT:", "THE COURT ORDERS THAT:") and the numbered `orders` (`{label, text, level}`). |
-| `reasons.paragraphs` | The numbered paragraphs in order: `{n, headings, text, judge?, footnotes?}`. `text` includes the quotes, lists and tables that belong to the paragraph. `headings` is the path of headings it sits under, and `judge` is set in judgments with separate reasons ("BEACH J:"). Material between a heading and the next numbered paragraph is kept in place as an entry with `"n": null`. |
+| `reasons.paragraphs` | The numbered paragraphs in order: `{n, headings, text, judge?, footnotes?}`. A paragraph counts as numbered if it is in the same Word list as the judgment's ParaNumbering paragraphs, whatever its own style. `text` includes the quotes, lists and tables that belong to the paragraph. `headings` is the path of headings it sits under, and `judge` is set in judgments with separate reasons ("BEACH J:"). Material between a heading and the next numbered paragraph is kept in place as an entry with `"n": null`. |
 | `reasons.preamble` | Anything before paragraph 1, such as "(Revised from the transcript)". |
 | `contents` | The table of contents, if there is one: `{heading, paragraph}`. |
 | `corrigenda` | The text of any corrigendum bound in at the front. |
@@ -125,7 +125,7 @@ have them typed in (`12<tab>...`). Both forms are handled.
 | `schedules` | Whatever follows the certificate (schedules of parties, annexures, appendices), as `{title, text}`. |
 | `footnotes` | `{n, text}`, numbered as Word shows them. References appear in the text as `[^n]`. |
 | `warnings` | Checks that failed, e.g. the cover sheet's "Number of paragraphs" not matching the last paragraph found, gaps in the numbering, or a portal file number the judgment does not name. |
-| `text` | The whole judgment as Markdown (the same as the `.md` file). |
+| `markdown_file` | The `.md` file holding the whole judgment as Markdown. The JSON does not repeat the full text. |
 
 The `Collect judgments` workflow runs the extractor after downloading and commits
 `data/extracted/` with the judgments.

@@ -1,5 +1,5 @@
 {
- "extractor_version": 1,
+ "extractor_version": 2,
  "count": 204,
  "judgments": [
   {
@@ -5282,13 +5282,10 @@
     "Competition and Consumer Act 2010 (Cth), ss 50, 80"
    ],
    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1295",
-   "paragraphs_found": 155,
+   "paragraphs_found": 156,
    "source_file": "data/judgments/2021/2021FCA1295.docx",
    "json": "data/extracted/2021/2021FCA1295.json",
-   "markdown": "data/extracted/2021/2021FCA1295.md",
-   "warnings": [
-    "cover sheet says 156 paragraphs, last numbered paragraph is 155"
-   ]
+   "markdown": "data/extracted/2021/2021FCA1295.md"
   },
   {
    "citation": "[2021] FCA 1322",
