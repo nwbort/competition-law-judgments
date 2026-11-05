@@ -1,0 +1,3112 @@
+{
+  "source": "https://www.comcourts.gov.au/file/FEDERAL/P/{file_number}/order_list",
+  "generated_at": "2026-11-05T02:58:12+00:00",
+  "files_checked": 840,
+  "files_with_judgments": 102,
+  "judgment_count": 204,
+  "downloaded_count": 204,
+  "judgments": {
+    "NSD29/1990": [],
+    "NSD90/1990": [],
+    "NSD133/1990": [],
+    "NSD156/1990": [],
+    "NSD239/1990": [],
+    "NSD243/1990": [],
+    "NSD247/1990": [],
+    "NSD735/1990": [],
+    "QUD109/1990": [],
+    "QUD119/1990": [],
+    "QUD141/1990": [],
+    "SAD104/1990": [],
+    "TAD12/1990": [],
+    "VID200/1990": [],
+    "VID216/1990": [],
+    "VID222/1990": [],
+    "VID309/1990": [],
+    "VID313/1990": [],
+    "VID354/1990": [],
+    "VID363/1990": [],
+    "WAD37/1990": [],
+    "WAD43/1990": [],
+    "WAD86/1990": [],
+    "WAD87/1990": [],
+    "WAD126/1990": [],
+    "WAD153/1990": [],
+    "ACD45/1991": [],
+    "NSD17/1991": [],
+    "NSD36/1991": [],
+    "NSD58/1991": [],
+    "NSD77/1991": [],
+    "NSD179/1991": [],
+    "NSD196/1991": [],
+    "NSD282/1991": [],
+    "NSD300/1991": [],
+    "NSD318/1991": [],
+    "NSD333/1991": [],
+    "NSD345/1991": [],
+    "NSD404/1991": [],
+    "NSD420/1991": [],
+    "NSD616/1991": [],
+    "NSD698/1991": [],
+    "NSD783/1991": [],
+    "NSD811/1991": [],
+    "NSD826/1991": [],
+    "NSD827/1991": [],
+    "NSD828/1991": [],
+    "QUD22/1991": [],
+    "QUD42/1991": [],
+    "QUD98/1991": [],
+    "QUD161/1991": [],
+    "SAD52/1991": [],
+    "SAD54/1991": [],
+    "SAD62/1991": [],
+    "SAD67/1991": [],
+    "VID4/1991": [],
+    "VID112/1991": [],
+    "VID267/1991": [],
+    "VID405/1991": [],
+    "WAD83/1991": [],
+    "ACD48/1992": [],
+    "ACD49/1992": [],
+    "ACD86/1992": [],
+    "NSD41/1992": [],
+    "NSD231/1992": [],
+    "NSD308/1992": [],
+    "NSD309/1992": [],
+    "NSD310/1992": [],
+    "NSD458/1992": [],
+    "NSD460/1992": [],
+    "NSD502/1992": [],
+    "NSD537/1992": [],
+    "NSD575/1992": [],
+    "NSD607/1992": [],
+    "NSD628/1992": [],
+    "NSD671/1992": [],
+    "NSD738/1992": [],
+    "NSD828/1992": [],
+    "NSD863/1992": [],
+    "NSD890/1992": [],
+    "NSD898/1992": [],
+    "NSD970/1992": [],
+    "QUD39/1992": [],
+    "QUD60/1992": [],
+    "QUD99/1992": [],
+    "QUD126/1992": [],
+    "QUD166/1992": [],
+    "QUD171/1992": [],
+    "QUD178/1992": [],
+    "QUD203/1992": [],
+    "QUD3012/1992": [],
+    "SAD7/1992": [],
+    "SAD13/1992": [],
+    "SAD23/1992": [],
+    "TAD11/1992": [],
+    "TAD14/1992": [],
+    "VID37/1992": [],
+    "VID78/1992": [],
+    "VID193/1992": [],
+    "VID345/1992": [],
+    "VID377/1992": [],
+    "VID392/1992": [],
+    "VID413/1992": [],
+    "VID418/1992": [],
+    "VID419/1992": [],
+    "VID420/1992": [],
+    "VID447/1992": [],
+    "WAD175/1992": [],
+    "WAD182/1992": [],
+    "WAD183/1992": [],
+    "NSD92/1993": [],
+    "NSD113/1993": [],
+    "NSD224/1993": [],
+    "NSD257/1993": [],
+    "NSD265/1993": [],
+    "NSD291/1993": [],
+    "NSD322/1993": [],
+    "NSD337/1993": [],
+    "NSD378/1993": [],
+    "NSD419/1993": [],
+    "NSD421/1993": [],
+    "NSD431/1993": [],
+    "NSD462/1993": [],
+    "NSD492/1993": [],
+    "NSD507/1993": [],
+    "NSD513/1993": [],
+    "NSD559/1993": [],
+    "NSD575/1993": [],
+    "NSD597/1993": [],
+    "NSD623/1993": [],
+    "NSD648/1993": [],
+    "NSD656/1993": [],
+    "NSD657/1993": [],
+    "NSD658/1993": [],
+    "NSD659/1993": [],
+    "NSD663/1993": [],
+    "NSD687/1993": [],
+    "NSD699/1993": [],
+    "NSD704/1993": [],
+    "NSD787/1993": [],
+    "NSD794/1993": [],
+    "NSD799/1993": [],
+    "NSD811/1993": [],
+    "NSD879/1993": [],
+    "NSD897/1993": [],
+    "NSD947/1993": [],
+    "NSD953/1993": [],
+    "NSD965/1993": [],
+    "NSD3183/1993": [],
+    "QUD44/1993": [],
+    "QUD79/1993": [],
+    "QUD182/1993": [],
+    "QUD191/1993": [],
+    "SAD12/1993": [],
+    "SAD97/1993": [],
+    "TAD5/1993": [],
+    "TAD9/1993": [],
+    "VID60/1993": [],
+    "VID62/1993": [],
+    "VID102/1993": [],
+    "VID174/1993": [],
+    "VID333/1993": [],
+    "VID368/1993": [],
+    "VID379/1993": [],
+    "VID532/1993": [],
+    "VID540/1993": [],
+    "VID552/1993": [],
+    "WAD70/1993": [],
+    "WAD109/1993": [],
+    "WAD133/1993": [],
+    "WAD134/1993": [],
+    "WAD135/1993": [],
+    "WAD137/1993": [],
+    "ACD49/1994": [],
+    "ACD50/1994": [],
+    "NSD153/1994": [],
+    "NSD154/1994": [],
+    "NSD229/1994": [],
+    "NSD242/1994": [],
+    "NSD258/1994": [],
+    "NSD505/1994": [],
+    "NSD537/1994": [],
+    "NSD613/1994": [],
+    "NSD676/1994": [],
+    "NSD728/1994": [],
+    "NSD731/1994": [],
+    "NSD810/1994": [],
+    "NSD847/1994": [],
+    "NSD877/1994": [],
+    "NSD888/1994": [],
+    "QUD48/1994": [],
+    "QUD92/1994": [],
+    "QUD152/1994": [],
+    "QUD178/1994": [],
+    "SAD16/1994": [],
+    "SAD39/1994": [],
+    "SAD51/1994": [],
+    "TAD12/1994": [],
+    "TAD13/1994": [],
+    "TAD15/1994": [],
+    "VID134/1994": [],
+    "VID166/1994": [],
+    "VID180/1994": [],
+    "VID181/1994": [],
+    "VID356/1994": [],
+    "VID411/1994": [],
+    "VID443/1994": [],
+    "WAD42/1994": [],
+    "WAD83/1994": [],
+    "WAD114/1994": [],
+    "NSD5/1995": [],
+    "NSD305/1995": [],
+    "NSD318/1995": [],
+    "NSD349/1995": [],
+    "NSD391/1995": [],
+    "NSD471/1995": [],
+    "NSD480/1995": [],
+    "NSD483/1995": [],
+    "NSD572/1995": [],
+    "NSD573/1995": [],
+    "NSD613/1995": [],
+    "NSD686/1995": [],
+    "NSD773/1995": [],
+    "NSD774/1995": [],
+    "NSD785/1995": [],
+    "NSD791/1995": [],
+    "NSD862/1995": [],
+    "NSD964/1995": [],
+    "QUD19/1995": [],
+    "QUD98/1995": [],
+    "QUD109/1995": [],
+    "QUD150/1995": [],
+    "QUD190/1995": [],
+    "SAD77/1995": [],
+    "VID12/1995": [],
+    "VID115/1995": [],
+    "VID119/1995": [],
+    "VID192/1995": [],
+    "VID567/1995": [],
+    "VID568/1995": [],
+    "VID569/1995": [],
+    "VID608/1995": [],
+    "VID611/1995": [],
+    "VID749/1995": [],
+    "VID873/1995": [],
+    "VID937/1995": [],
+    "VID948/1995": [],
+    "WAD33/1995": [],
+    "WAD71/1995": [],
+    "WAD136/1995": [],
+    "WAD150/1995": [],
+    "NSD20/1996": [],
+    "NSD38/1996": [],
+    "NSD380/1996": [],
+    "NSD526/1996": [],
+    "NSD551/1996": [],
+    "NSD866/1996": [],
+    "NSD910/1996": [],
+    "NSD962/1996": [],
+    "NSD994/1996": [],
+    "NSD1024/1996": [],
+    "QUD164/1996": [],
+    "QUD174/1996": [],
+    "QUD190/1996": [],
+    "QUD194/1996": [],
+    "QUD212/1996": [],
+    "SAD25/1996": [],
+    "SAD73/1996": [],
+    "SAD74/1996": [],
+    "SAD106/1996": [],
+    "TAD15/1996": [],
+    "TAD19/1996": [],
+    "TAD20/1996": [],
+    "TAD21/1996": [],
+    "TAD22/1996": [],
+    "TAD29/1996": [],
+    "VID33/1996": [],
+    "VID114/1996": [],
+    "VID233/1996": [],
+    "VID240/1996": [],
+    "VID312/1996": [],
+    "VID504/1996": [],
+    "VID555/1996": [],
+    "VID590/1996": [],
+    "VID602/1996": [],
+    "VID633/1996": [],
+    "VID687/1996": [],
+    "VID762/1996": [],
+    "WAD13/1996": [],
+    "WAD54/1996": [],
+    "WAD64/1996": [],
+    "WAD74/1996": [],
+    "WAD83/1996": [],
+    "WAD104/1996": [],
+    "WAD155/1996": [],
+    "WAD181/1996": [],
+    "ACD56/1997": [],
+    "NSD41/1997": [],
+    "NSD99/1997": [],
+    "NSD212/1997": [],
+    "NSD375/1997": [],
+    "NSD449/1997": [],
+    "NSD459/1997": [],
+    "NSD462/1997": [],
+    "NSD515/1997": [],
+    "NSD532/1997": [],
+    "NSD547/1997": [],
+    "NSD551/1997": [],
+    "NSD731/1997": [],
+    "NSD851/1997": [],
+    "NSD1103/1997": [],
+    "NSD1124/1997": [],
+    "QUD78/1997": [],
+    "QUD114/1997": [],
+    "QUD116/1997": [],
+    "QUD124/1997": [],
+    "QUD151/1997": [],
+    "QUD163/1997": [],
+    "QUD164/1997": [],
+    "QUD178/1997": [],
+    "SAD87/1997": [],
+    "SAD97/1997": [],
+    "VID58/1997": [],
+    "VID311/1997": [],
+    "VID312/1997": [],
+    "VID313/1997": [],
+    "VID475/1997": [],
+    "VID522/1997": [],
+    "VID541/1997": [],
+    "VID576/1997": [],
+    "VID579/1997": [],
+    "VID659/1997": [],
+    "VID671/1997": [],
+    "VID705/1997": [],
+    "VID746/1997": [],
+    "WAD19/1997": [],
+    "WAD20/1997": [],
+    "WAD70/1997": [],
+    "WAD96/1997": [],
+    "WAD104/1997": [],
+    "ACD20/1998": [],
+    "NSD222/1998": [],
+    "NSD292/1998": [],
+    "NSD296/1998": [],
+    "NSD328/1998": [],
+    "NSD459/1998": [],
+    "NSD1157/1998": [],
+    "NSD1244/1998": [],
+    "NSD1245/1998": [],
+    "NSD1288/1998": [],
+    "NSD1308/1998": [],
+    "NSD1438/1998": [],
+    "QUD7/1998": [],
+    "QUD22/1998": [],
+    "SAD67/1998": [],
+    "SAD127/1998": [],
+    "VID25/1998": [],
+    "VID48/1998": [],
+    "VID79/1998": [],
+    "VID119/1998": [],
+    "VID126/1998": [],
+    "VID141/1998": [],
+    "VID221/1998": [],
+    "VID225/1998": [],
+    "VID226/1998": [],
+    "VID250/1998": [],
+    "VID356/1998": [],
+    "VID363/1998": [],
+    "VID536/1998": [],
+    "VID553/1998": [],
+    "VID555/1998": [],
+    "VID580/1998": [],
+    "VID583/1998": [],
+    "VID652/1998": [],
+    "WAD47/1998": [],
+    "WAD56/1998": [],
+    "WAD71/1998": [],
+    "WAD84/1998": [],
+    "WAD132/1998": [],
+    "WAD148/1998": [],
+    "WAD156/1998": [],
+    "WAD159/1998": [],
+    "NSD7/1999": [],
+    "NSD355/1999": [],
+    "NSD374/1999": [],
+    "NSD646/1999": [],
+    "NSD774/1999": [],
+    "NSD816/1999": [],
+    "NSD924/1999": [],
+    "NSD925/1999": [],
+    "NSD926/1999": [],
+    "NSD966/1999": [],
+    "NSD1095/1999": [],
+    "NSD1103/1999": [],
+    "NSD1209/1999": [],
+    "NSD1225/1999": [],
+    "NSD1295/1999": [],
+    "NSD1477/1999": [],
+    "NTD5/1999": [],
+    "NTD8/1999": [],
+    "NTD16/1999": [],
+    "QUD121/1999": [],
+    "QUD202/1999": [],
+    "QUD279/1999": [],
+    "SAD75/1999": [],
+    "TAD17/1999": [],
+    "VID62/1999": [],
+    "VID74/1999": [],
+    "VID189/1999": [],
+    "VID195/1999": [],
+    "VID206/1999": [],
+    "VID359/1999": [],
+    "VID397/1999": [],
+    "VID457/1999": [],
+    "VID553/1999": [],
+    "VID566/1999": [],
+    "VID623/1999": [],
+    "WAD20/1999": [],
+    "WAD64/1999": [],
+    "WAD71/1999": [],
+    "WAD73/1999": [],
+    "WAD77/1999": [],
+    "WAD89/1999": [],
+    "WAD114/1999": [],
+    "WAD152/1999": [],
+    "NSD132/2000": [],
+    "NSD171/2000": [],
+    "NSD410/2000": [],
+    "NSD496/2000": [],
+    "NSD826/2000": [],
+    "NSD992/2000": [],
+    "QUD15/2000": [],
+    "QUD67/2000": [],
+    "SAD6/2000": [],
+    "SAD131/2000": [],
+    "SAD135/2000": [],
+    "VID35/2000": [],
+    "VID180/2000": [],
+    "VID227/2000": [],
+    "VID265/2000": [],
+    "VID326/2000": [],
+    "VID641/2000": [],
+    "WAD13/2000": [],
+    "WAD14/2000": [],
+    "WAD90/2000": [],
+    "WAD119/2000": [],
+    "WAD121/2000": [],
+    "WAD123/2000": [],
+    "WAD131/2000": [],
+    "WAD141/2000": [],
+    "WAD150/2000": [],
+    "WAD177/2000": [],
+    "WAD191/2000": [],
+    "WAD196/2000": [],
+    "WAD201/2000": [],
+    "WAD243/2000": [],
+    "ACD7/2001": [],
+    "NSD162/2001": [],
+    "NSD477/2001": [],
+    "NSD858/2001": [],
+    "NSD977/2001": [],
+    "NSD1077/2001": [],
+    "NSD1140/2001": [],
+    "NSD1579/2001": [],
+    "NSD1618/2001": [],
+    "NSD1672/2001": [],
+    "QUD63/2001": [],
+    "QUD114/2001": [],
+    "QUD151/2001": [],
+    "QUD157/2001": [],
+    "QUD173/2001": [],
+    "QUD228/2001": [],
+    "QUD277/2001": [],
+    "SAD70/2001": [],
+    "TAD23/2001": [],
+    "TAD34/2001": [],
+    "VID204/2001": [],
+    "VID321/2001": [],
+    "VID839/2001": [],
+    "VID1049/2001": [],
+    "VID1051/2001": [],
+    "VID1057/2001": [],
+    "VID1081/2001": [],
+    "VID1159/2001": [],
+    "VID1295/2001": [],
+    "VID1296/2001": [],
+    "WAD62/2001": [],
+    "WAD100/2001": [],
+    "WAD153/2001": [],
+    "WAD158/2001": [],
+    "NSD116/2002": [],
+    "NSD275/2002": [],
+    "NSD408/2002": [],
+    "NSD509/2002": [],
+    "NSD851/2002": [],
+    "NSD926/2002": [],
+    "NSD953/2002": [],
+    "NSD1016/2002": [],
+    "NSD1153/2002": [],
+    "NSD1223/2002": [],
+    "NSD1251/2002": [],
+    "NSD1295/2002": [],
+    "NSD1336/2002": [],
+    "NTD18/2002": [],
+    "QUD104/2002": [],
+    "SAD118/2002": [],
+    "VID184/2002": [],
+    "VID192/2002": [],
+    "VID314/2002": [],
+    "VID410/2002": [],
+    "VID417/2002": [],
+    "VID481/2002": [],
+    "VID794/2002": [],
+    "VID834/2002": [],
+    "VID835/2002": [],
+    "VID852/2002": [],
+    "VID909/2002": [],
+    "VID910/2002": [],
+    "NSD426/2003": [],
+    "NSD472/2003": [],
+    "NSD740/2003": [],
+    "NSD769/2003": [],
+    "NSD900/2003": [],
+    "NSD1524/2003": [],
+    "SAD10/2003": [],
+    "SAD851/2003": [],
+    "TAD2/2003": [],
+    "VID253/2003": [],
+    "VID254/2003": [],
+    "VID880/2003": [
+      {
+        "citation": "[2012] FCA 566",
+        "court": "FCA",
+        "year": 2012,
+        "number": 566,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0566",
+        "event_date": "2012-05-30",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2012/2012FCA0566.docx"
+      }
+    ],
+    "VID898/2003": [],
+    "VID904/2003": [],
+    "VID1067/2003": [],
+    "VID1140/2003": [],
+    "WAD143/2003": [],
+    "ACD9/2004": [],
+    "NSD172/2004": [],
+    "NSD580/2004": [],
+    "NSD1045/2004": [],
+    "NSD1151/2004": [],
+    "NSD1432/2004": [],
+    "NTD14/2004": [],
+    "QUD203/2004": [],
+    "SAD139/2004": [],
+    "SAD199/2004": [],
+    "SAD206/2004": [],
+    "VID331/2004": [],
+    "VID699/2004": [],
+    "VID878/2004": [],
+    "VID889/2004": [],
+    "VID974/2004": [],
+    "VID1094/2004": [],
+    "VID1097/2004": [],
+    "WAD289/2004": [],
+    "QUD75/2005": [],
+    "QUD130/2005": [],
+    "QUD493/2005": [],
+    "SAD179/2005": [],
+    "SAD230/2005": [],
+    "SAD316/2005": [],
+    "VID106/2005": [],
+    "VID138/2005": [],
+    "VID191/2005": [],
+    "VID543/2005": [],
+    "VID545/2005": [],
+    "VID1212/2005": [],
+    "VID1235/2005": [],
+    "VID1236/2005": [],
+    "VID1418/2005": [],
+    "WAD1/2005": [],
+    "WAD38/2005": [],
+    "WAD39/2005": [],
+    "WAD351/2005": [],
+    "NSD702/2006": [
+      {
+        "citation": "[2011] FCA 1402",
+        "court": "FCA",
+        "year": 2011,
+        "number": 1402,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1402",
+        "event_date": "2011-12-06",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2011/2011FCA1402.docx"
+      },
+      {
+        "citation": "[2011] FCA 1115",
+        "court": "FCA",
+        "year": 2011,
+        "number": 1115,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1115",
+        "event_date": "2011-09-07",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2011/2011FCA1115.docx"
+      }
+    ],
+    "NSD725/2006": [],
+    "NSD2394/2006": [],
+    "NSD2395/2006": [],
+    "QUD314/2006": [],
+    "SAD77/2006": [],
+    "SAD114/2006": [],
+    "SAD234/2006": [],
+    "VID103/2006": [],
+    "VID1330/2006": [],
+    "VID1377/2006": [],
+    "VID1388/2006": [],
+    "WAD46/2006": [],
+    "WAD312/2006": [],
+    "NSD368/2007": [],
+    "NSD369/2007": [],
+    "NSD370/2007": [],
+    "NSD371/2007": [],
+    "NSD372/2007": [],
+    "NSD373/2007": [],
+    "NSD377/2007": [],
+    "NSD378/2007": [],
+    "NSD393/2007": [],
+    "NSD1703/2007": [],
+    "NSD2030/2007": [],
+    "NSD2132/2007": [],
+    "NSD2136/2007": [],
+    "NSD2371/2007": [],
+    "NSD2545/2007": [],
+    "NTD10/2007": [],
+    "NTD17/2007": [],
+    "QUD30/2007": [],
+    "QUD313/2007": [],
+    "SAD145/2007": [],
+    "SAD167/2007": [],
+    "VID12/2007": [
+      {
+        "citation": "[2015] FCA 979",
+        "court": "FCA",
+        "year": 2015,
+        "number": 979,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0979",
+        "event_date": "2015-10-08",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0979.docx"
+      },
+      {
+        "citation": "[2012] FCA 1241",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1241,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1241",
+        "event_date": "2012-11-09",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1241.docx"
+      }
+    ],
+    "VID64/2007": [],
+    "VID215/2007": [],
+    "VID238/2007": [],
+    "VID291/2007": [],
+    "VID563/2007": [],
+    "VID578/2007": [],
+    "VID742/2007": [],
+    "VID882/2007": [],
+    "NSD69/2008": [],
+    "NSD70/2008": [],
+    "NSD72/2008": [],
+    "NSD73/2008": [],
+    "NSD75/2008": [],
+    "NSD77/2008": [],
+    "NSD78/2008": [],
+    "NSD105/2008": [],
+    "NSD529/2008": [],
+    "NSD531/2008": [],
+    "NSD533/2008": [],
+    "NSD713/2008": [],
+    "NSD717/2008": [],
+    "NSD718/2008": [],
+    "NSD719/2008": [],
+    "NSD1252/2008": [],
+    "NSD1473/2008": [
+      {
+        "citation": "[2012] FCA 348",
+        "court": "FCA",
+        "year": 2012,
+        "number": 348,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0348",
+        "event_date": "2012-03-08",
+        "event": "Part Heard",
+        "file": "data/judgments/2012/2012FCA0348.docx"
+      }
+    ],
+    "NSD1474/2008": [],
+    "NSD1694/2008": [],
+    "NSD1695/2008": [],
+    "NSD1720/2008": [],
+    "NSD1980/2008": [
+      {
+        "citation": "[2012] FCA 1395",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1395,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1395",
+        "event_date": "2012-12-06",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1395.docx"
+      },
+      {
+        "citation": "[2012] FCA 1111",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1111,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1111",
+        "event_date": "2012-10-11",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2012/2012FCA1111.docx"
+      }
+    ],
+    "QUD295/2008": [
+      {
+        "citation": "[2016] FCA 968",
+        "court": "FCA",
+        "year": 2016,
+        "number": 968,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0968",
+        "event_date": "2016-08-17",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2016/2016FCA0968.docx"
+      },
+      {
+        "citation": "[2016] FCA 536",
+        "court": "FCA",
+        "year": 2016,
+        "number": 536,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0536",
+        "event_date": "2016-05-16",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2016/2016FCA0536.docx"
+      },
+      {
+        "citation": "[2014] FCA 1268",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1268,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1268",
+        "event_date": "2014-12-05",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1268.docx"
+      },
+      {
+        "citation": "[2014] FCA 689",
+        "court": "FCA",
+        "year": 2014,
+        "number": 689,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0689",
+        "event_date": "2014-06-27",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2014/2014FCA0689.docx"
+      },
+      {
+        "citation": "[2014] FCA 148",
+        "court": "FCA",
+        "year": 2014,
+        "number": 148,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0148",
+        "event_date": "2014-02-28",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0148.docx"
+      }
+    ],
+    "SAD89/2008": [],
+    "SAD122/2008": [
+      {
+        "citation": "[2011] FCA 1483",
+        "court": "FCA",
+        "year": 2011,
+        "number": 1483,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1483",
+        "event_date": "2011-12-21",
+        "event": "Judgment",
+        "file": "data/judgments/2011/2011FCA1483.docx"
+      }
+    ],
+    "SAD142/2008": [
+      {
+        "citation": "[2013] FCA 859",
+        "court": "FCA",
+        "year": 2013,
+        "number": 859,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0859",
+        "event_date": "2013-08-30",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0859.docx"
+      },
+      {
+        "citation": "[2013] FCA 829",
+        "court": "FCA",
+        "year": 2013,
+        "number": 829,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0829",
+        "event_date": "2013-07-11",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2013/2013FCA0829.docx"
+      },
+      {
+        "citation": "[2012] FCA 25",
+        "court": "FCA",
+        "year": 2012,
+        "number": 25,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0025",
+        "event_date": "2012-01-27",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA0025.docx"
+      }
+    ],
+    "VID425/2008": [],
+    "VID550/2008": [],
+    "VID579/2008": [],
+    "WAD106/2008": [],
+    "WAD113/2008": [],
+    "WAD114/2008": [],
+    "ACD4/2009": [],
+    "NSD30/2009": [],
+    "NSD363/2009": [
+      {
+        "citation": "[2012] FCA 1392",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1392,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1392",
+        "event_date": "2012-12-06",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1392.docx"
+      },
+      {
+        "citation": "[2012] FCA 1101",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1101,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1101",
+        "event_date": "2012-10-09",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1101.docx"
+      }
+    ],
+    "NSD548/2009": [],
+    "NSD588/2009": [],
+    "NSD876/2009": [
+      {
+        "citation": "[2012] FCA 1108",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1108,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1108",
+        "event_date": "2012-10-11",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1108.docx"
+      }
+    ],
+    "NSD955/2009": [
+      {
+        "citation": "[2019] FCA 786",
+        "court": "FCA",
+        "year": 2019,
+        "number": 786,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0786",
+        "event_date": "2019-05-30",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0786.docx"
+      },
+      {
+        "citation": "[2015] FCA 451",
+        "court": "FCA",
+        "year": 2015,
+        "number": 451,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0451",
+        "event_date": "2015-05-13",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0451.docx"
+      },
+      {
+        "citation": "[2015] FCA 378",
+        "court": "FCA",
+        "year": 2015,
+        "number": 378,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0378",
+        "event_date": "2015-04-24",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0378.docx"
+      },
+      {
+        "citation": "[2014] FCA 1157",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1157,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1157",
+        "event_date": "2014-10-31",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1157.docx"
+      },
+      {
+        "citation": "[2013] FCA 577",
+        "court": "FCA",
+        "year": 2013,
+        "number": 577,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0577",
+        "event_date": "2013-06-12",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA0577.docx"
+      },
+      {
+        "citation": "[2013] FCA 533",
+        "court": "FCA",
+        "year": 2013,
+        "number": 533,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0533",
+        "event_date": "2013-05-30",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA0533.docx"
+      },
+      {
+        "citation": "[2013] FCA 323",
+        "court": "FCA",
+        "year": 2013,
+        "number": 323,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0323",
+        "event_date": "2013-04-11",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0323.docx"
+      },
+      {
+        "citation": "[2013] FCA 172",
+        "court": "FCA",
+        "year": 2013,
+        "number": 172,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0172",
+        "event_date": "2013-02-25",
+        "event": "Part Heard",
+        "file": "data/judgments/2013/2013FCA0172.docx"
+      },
+      {
+        "citation": "[2012] FCA 1439",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1439,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1439",
+        "event_date": "2012-12-18",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1439.docx"
+      },
+      {
+        "citation": "[2012] FCA 1429",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1429,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1429",
+        "event_date": "2012-12-14",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1429.docx"
+      },
+      {
+        "citation": "[2012] FCA 1430",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1430,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1430",
+        "event_date": "2012-12-14",
+        "event": "Part Heard",
+        "file": "data/judgments/2012/2012FCA1430.docx"
+      }
+    ],
+    "NSD1187/2009": [
+      {
+        "citation": "[2013] FCA 77",
+        "court": "FCA",
+        "year": 2013,
+        "number": 77,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0077",
+        "event_date": "2013-02-15",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0077.docx"
+      },
+      {
+        "citation": "[2012] FCA 1441",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1441,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1441",
+        "event_date": "2012-12-19",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1441.doc"
+      },
+      {
+        "citation": "[2011] FCA 1136",
+        "court": "FCA",
+        "year": 2011,
+        "number": 1136,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1136",
+        "event_date": "2011-09-30",
+        "event": "Return of Subpoena",
+        "file": "data/judgments/2011/2011FCA1136.docx"
+      },
+      {
+        "citation": "[2012] FCA 1135",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1135,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1135",
+        "event_date": "2011-09-29",
+        "event": "Part Heard",
+        "file": "data/judgments/2012/2012FCA1135.docx"
+      }
+    ],
+    "NSD1213/2009": [
+      {
+        "citation": "[2012] FCA 1434",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1434,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1434",
+        "event_date": "2012-12-14",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1434.docx"
+      }
+    ],
+    "NSD1468/2009": [],
+    "QUD163/2009": [],
+    "QUD236/2009": [],
+    "SAD145/2009": [
+      {
+        "citation": "[2017] FCA 851",
+        "court": "FCA",
+        "year": 2017,
+        "number": 851,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0851",
+        "event_date": "2017-07-28",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA0851.docx"
+      },
+      {
+        "citation": "[2016] FCA 822",
+        "court": "FCA",
+        "year": 2016,
+        "number": 822,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0822",
+        "event_date": "2016-07-20",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA0822.docx"
+      },
+      {
+        "citation": "[2015] FCA 876",
+        "court": "FCA",
+        "year": 2015,
+        "number": 876,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0876",
+        "event_date": "2015-08-19",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0876.docx"
+      },
+      {
+        "citation": "[2015] FCA 623",
+        "court": "FCA",
+        "year": 2015,
+        "number": 623,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0623",
+        "event_date": "2015-06-22",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0623.docx"
+      },
+      {
+        "citation": "[2014] FCA 376",
+        "court": "FCA",
+        "year": 2014,
+        "number": 376,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0376",
+        "event_date": "2014-04-15",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0376.docx"
+      },
+      {
+        "citation": "[2014] FCA 5",
+        "court": "FCA",
+        "year": 2014,
+        "number": 5,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0005",
+        "event_date": "2014-01-17",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0005.docx"
+      },
+      {
+        "citation": "[2013] FCA 1002",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1002,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1002",
+        "event_date": "2013-10-04",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA1002.docx"
+      },
+      {
+        "citation": "[2013] FCA 294",
+        "court": "FCA",
+        "year": 2013,
+        "number": 294,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0294",
+        "event_date": "2013-04-05",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0294.docx"
+      },
+      {
+        "citation": "[2012] FCA 1323",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1323,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1323",
+        "event_date": "2012-11-26",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1323.docx"
+      }
+    ],
+    "VID98/2009": [
+      {
+        "citation": "[2012] FCA 933",
+        "court": "FCA",
+        "year": 2012,
+        "number": 933,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0933",
+        "event_date": "2012-08-27",
+        "event": "Directions",
+        "file": "data/judgments/2012/2012FCA0933.docx"
+      }
+    ],
+    "VID174/2009": [],
+    "VID407/2009": [],
+    "VID467/2009": [],
+    "VID610/2009": [],
+    "VID625/2009": [],
+    "WAD69/2009": [],
+    "NSD121/2010": [],
+    "NSD220/2010": [],
+    "NSD271/2010": [],
+    "NSD373/2010": [
+      {
+        "citation": "[2012] FCA 767",
+        "court": "FCA",
+        "year": 2012,
+        "number": 767,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0767",
+        "event_date": "2012-06-14",
+        "event": "Hearing",
+        "file": "data/judgments/2012/2012FCA0767.docx"
+      }
+    ],
+    "NSD534/2010": [
+      {
+        "citation": "[2018] FCA 1166",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1166,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1166",
+        "event_date": "2018-06-27",
+        "event": "Hearing",
+        "file": "data/judgments/2018/2018FCA1166.docx"
+      },
+      {
+        "citation": "[2015] FCA 378",
+        "court": "FCA",
+        "year": 2015,
+        "number": 378,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0378",
+        "event_date": "2015-04-24",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0378.docx"
+      },
+      {
+        "citation": "[2014] FCA 1157",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1157,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1157",
+        "event_date": "2014-10-31",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1157.docx"
+      },
+      {
+        "citation": "[2013] FCA 577",
+        "court": "FCA",
+        "year": 2013,
+        "number": 577,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0577",
+        "event_date": "2013-06-12",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA0577.docx"
+      },
+      {
+        "citation": "[2013] FCA 533",
+        "court": "FCA",
+        "year": 2013,
+        "number": 533,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0533",
+        "event_date": "2013-05-30",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA0533.docx"
+      },
+      {
+        "citation": "[2013] FCA 428",
+        "court": "FCA",
+        "year": 2013,
+        "number": 428,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0428",
+        "event_date": "2013-05-09",
+        "event": "Part Heard",
+        "file": "data/judgments/2013/2013FCA0428.docx"
+      },
+      {
+        "citation": "[2013] FCA 323",
+        "court": "FCA",
+        "year": 2013,
+        "number": 323,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0323",
+        "event_date": "2013-04-11",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0323.docx"
+      },
+      {
+        "citation": "[2013] FCA 322",
+        "court": "FCA",
+        "year": 2013,
+        "number": 322,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0322",
+        "event_date": "2013-04-11",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0322.docx"
+      },
+      {
+        "citation": "[2012] FCA 1439",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1439,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1439",
+        "event_date": "2012-12-18",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1439.docx"
+      },
+      {
+        "citation": "[2012] FCA 1430",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1430,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1430",
+        "event_date": "2012-12-14",
+        "event": "Part Heard",
+        "file": "data/judgments/2012/2012FCA1430.docx"
+      }
+    ],
+    "NSD535/2010": [],
+    "NSD559/2010": [],
+    "NSD1314/2010": [],
+    "NSD1689/2010": [],
+    "NSD1714/2010": [],
+    "NSD1749/2010": [],
+    "QUD9/2010": [],
+    "QUD155/2010": [],
+    "SAD30/2010": [],
+    "SAD70/2010": [],
+    "SAD90/2010": [],
+    "VID616/2010": [],
+    "VID650/2010": [],
+    "VID686/2010": [],
+    "VID687/2010": [],
+    "VID709/2010": [],
+    "WAD218/2010": [
+      {
+        "citation": "[2014] FCA 992",
+        "court": "FCA",
+        "year": 2014,
+        "number": 992,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0992",
+        "event_date": "2014-09-12",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2014/2014FCA0992.docx"
+      },
+      {
+        "citation": "[2014] FCA 203",
+        "court": "FCA",
+        "year": 2014,
+        "number": 203,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0203",
+        "event_date": "2014-03-12",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2014/2014FCA0203.docx"
+      }
+    ],
+    "WAD344/2010": [],
+    "NSD1501/2011": [
+      {
+        "citation": "[2012] FCA 1116",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1116,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1116",
+        "event_date": "2012-10-15",
+        "event": "Judgment",
+        "file": "data/judgments/2012/2012FCA1116.docx"
+      }
+    ],
+    "NSD2166/2011": [],
+    "QUD16/2011": [
+      {
+        "citation": "[2014] FCA 108",
+        "court": "FCA",
+        "year": 2014,
+        "number": 108,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0108",
+        "event_date": "2014-02-20",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0108.docx"
+      },
+      {
+        "citation": "[2013] FCA 1359",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1359,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1359",
+        "event_date": "2013-12-12",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA1359.docx"
+      }
+    ],
+    "QUD620/2011": [],
+    "SAD328/2011": [
+      {
+        "citation": "[2013] FCA 1267",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1267,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1267",
+        "event_date": "2013-11-29",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA1267.docx"
+      },
+      {
+        "citation": "[2013] FCA 350",
+        "court": "FCA",
+        "year": 2013,
+        "number": 350,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0350",
+        "event_date": "2013-04-18",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0350.docx"
+      }
+    ],
+    "VID978/2011": [],
+    "NSD251/2012": [],
+    "NSD1239/2012": [
+      {
+        "citation": "[2014] FCA 1135",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1135,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1135",
+        "event_date": "2014-10-24",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1135.docx"
+      }
+    ],
+    "NSD1322/2012": [
+      {
+        "citation": "[2017] FCA 414",
+        "court": "FCA",
+        "year": 2017,
+        "number": 414,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0414",
+        "event_date": "2017-04-21",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA0414.docx"
+      },
+      {
+        "citation": "[2016] FCA 819",
+        "court": "FCA",
+        "year": 2016,
+        "number": 819,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0819",
+        "event_date": "2016-06-09",
+        "event": "Directions and Interlocutory Hearing",
+        "file": "data/judgments/2016/2016FCA0819.docx"
+      },
+      {
+        "citation": "[2013] FCA 616",
+        "court": "FCA",
+        "year": 2013,
+        "number": 616,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0616",
+        "event_date": "2013-06-20",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0616.docx"
+      }
+    ],
+    "QUD177/2012": [
+      {
+        "citation": "[2014] FCA 292",
+        "court": "FCA",
+        "year": 2014,
+        "number": 292,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0292",
+        "event_date": "2014-03-28",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0292.docx"
+      },
+      {
+        "citation": "[2013] FCA 1313",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1313,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1313",
+        "event_date": "2013-12-06",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA1313.docx"
+      },
+      {
+        "citation": "[2012] FCA 1161",
+        "court": "FCA",
+        "year": 2012,
+        "number": 1161,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1161",
+        "event_date": "2012-10-10",
+        "event": "Part Heard",
+        "file": "data/judgments/2012/2012FCA1161.docx"
+      }
+    ],
+    "SAD70/2012": [
+      {
+        "citation": "[2012] FCA 378",
+        "court": "FCA",
+        "year": 2012,
+        "number": 378,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0378",
+        "event_date": "2012-04-05",
+        "event": "Directions",
+        "file": "data/judgments/2012/2012FCA0378.docx"
+      }
+    ],
+    "SAD321/2012": [
+      {
+        "citation": "[2017] FCA 465",
+        "court": "FCA",
+        "year": 2017,
+        "number": 465,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0465",
+        "event_date": "2017-05-09",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA0465.docx"
+      },
+      {
+        "citation": "[2015] FCA 1304",
+        "court": "FCA",
+        "year": 2015,
+        "number": 1304,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1304",
+        "event_date": "2015-11-24",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA1304.docx"
+      }
+    ],
+    "VID356/2012": [
+      {
+        "citation": "[2013] FCA 283",
+        "court": "FCA",
+        "year": 2013,
+        "number": 283,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0283",
+        "event_date": "2013-03-28",
+        "event": "Publication of Reasons",
+        "file": "data/judgments/2013/2013FCA0283.docx"
+      },
+      {
+        "citation": "[2013] FCA 235",
+        "court": "FCA",
+        "year": 2013,
+        "number": 235,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0235",
+        "event_date": "2013-03-19",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA0235.docx"
+      },
+      {
+        "citation": "[2012] FCA 765",
+        "court": "FCA",
+        "year": 2012,
+        "number": 765,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0765",
+        "event_date": "2012-07-18",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2012/2012FCA0765.docx"
+      }
+    ],
+    "VID1019/2012": [],
+    "WAD363/2012": [
+      {
+        "citation": "[2013] FCA 1438",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1438,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1438",
+        "event_date": "2013-12-23",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2013/2013FCA1438.docx"
+      },
+      {
+        "citation": "[2013] FCA 1042",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1042,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1042",
+        "event_date": "2013-10-15",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA1042.docx"
+      }
+    ],
+    "NSD164/2013": [
+      {
+        "citation": "[2015] FCA 1020",
+        "court": "FCA",
+        "year": 2015,
+        "number": 1020,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1020",
+        "event_date": "2015-09-04",
+        "event": "Part Heard",
+        "file": "data/judgments/2015/2015FCA1020.docx"
+      }
+    ],
+    "NSD2510/2013": [
+      {
+        "citation": "[2021] FCA 246",
+        "court": "FCA",
+        "year": 2021,
+        "number": 246,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0246",
+        "event_date": "2021-03-19",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0246.docx"
+      },
+      {
+        "citation": "[2017] FCA 1590",
+        "court": "FCA",
+        "year": 2017,
+        "number": 1590,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca1590",
+        "event_date": "2017-12-22",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA1590.docx"
+      },
+      {
+        "citation": "[2016] FCA 676",
+        "court": "FCA",
+        "year": 2016,
+        "number": 676,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0676",
+        "event_date": "2016-06-03",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2016/2016FCA0676.docx"
+      },
+      {
+        "citation": "[2015] FCA 1520",
+        "court": "FCA",
+        "year": 2015,
+        "number": 1520,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1520",
+        "event_date": "2015-10-15",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2015/2015FCA1520.docx"
+      }
+    ],
+    "NSD2524/2013": [
+      {
+        "citation": "[2014] FCA 453",
+        "court": "FCA",
+        "year": 2014,
+        "number": 453,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0453",
+        "event_date": "2014-05-13",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0453.docx"
+      }
+    ],
+    "QUD602/2013": [],
+    "QUD626/2013": [],
+    "SAD336/2013": [
+      {
+        "citation": "[2013] FCA 1413",
+        "court": "FCA",
+        "year": 2013,
+        "number": 1413,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1413",
+        "event_date": "2013-12-19",
+        "event": "Judgment",
+        "file": "data/judgments/2013/2013FCA1413.docx"
+      }
+    ],
+    "WAD49/2013": [],
+    "NSD202/2014": [
+      {
+        "citation": "[2014] FCA 363",
+        "court": "FCA",
+        "year": 2014,
+        "number": 363,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0363",
+        "event_date": "2014-04-14",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0363.docx"
+      }
+    ],
+    "NSD203/2014": [
+      {
+        "citation": "[2014] FCA 364",
+        "court": "FCA",
+        "year": 2014,
+        "number": 364,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0364",
+        "event_date": "2014-04-14",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA0364.docx"
+      }
+    ],
+    "NSD431/2014": [
+      {
+        "citation": "[2014] FCA 431",
+        "court": "FCA",
+        "year": 2014,
+        "number": 431,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0431",
+        "event_date": "2014-05-01",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2014/2014FCA0431.docx"
+      }
+    ],
+    "NSD579/2014": [],
+    "NSD1295/2014": [
+      {
+        "citation": "[2015] FCA 1144",
+        "court": "FCA",
+        "year": 2015,
+        "number": 1144,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1144",
+        "event_date": "2015-10-26",
+        "event": "Hearing",
+        "file": "data/judgments/2015/2015FCA1144.docx"
+      }
+    ],
+    "SAD103/2014": [
+      {
+        "citation": "[2015] FCA 55",
+        "court": "FCA",
+        "year": 2015,
+        "number": 55,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0055",
+        "event_date": "2015-02-09",
+        "event": "Judgment",
+        "file": "data/judgments/2015/2015FCA0055.docx"
+      }
+    ],
+    "SAD121/2014": [
+      {
+        "citation": "[2016] FCA 447",
+        "court": "FCA",
+        "year": 2016,
+        "number": 447,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0447",
+        "event_date": "2016-04-29",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA0447.docx"
+      },
+      {
+        "citation": "[2016] FCA 69",
+        "court": "FCA",
+        "year": 2016,
+        "number": 69,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0069",
+        "event_date": "2016-02-10",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA0069.docx"
+      },
+      {
+        "citation": "[2014] FCA 1010",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1010,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1010",
+        "event_date": "2014-09-18",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1010.docx"
+      }
+    ],
+    "SAD170/2014": [
+      {
+        "citation": "[2014] FCA 1422",
+        "court": "FCA",
+        "year": 2014,
+        "number": 1422,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1422",
+        "event_date": "2014-12-23",
+        "event": "Judgment",
+        "file": "data/judgments/2014/2014FCA1422.docx"
+      }
+    ],
+    "VID239/2014": [],
+    "VID396/2014": [],
+    "VID682/2014": [],
+    "VID698/2014": [
+      {
+        "citation": "[2018] FCA 684",
+        "court": "FCA",
+        "year": 2018,
+        "number": 684,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca0684",
+        "event_date": "2018-06-01",
+        "event": "Judgment",
+        "file": "data/judgments/2018/2018FCA0684.docx"
+      },
+      {
+        "citation": "[2017] FCA 1279",
+        "court": "FCA",
+        "year": 2017,
+        "number": 1279,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca1279",
+        "event_date": "2017-11-01",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2017/2017FCA1279.docx"
+      },
+      {
+        "citation": "[2016] FCA 504",
+        "court": "FCA",
+        "year": 2016,
+        "number": 504,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0504",
+        "event_date": "2016-05-11",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA0504.docx"
+      }
+    ],
+    "VID725/2014": [
+      {
+        "citation": "[2017] FCA 222",
+        "court": "FCA",
+        "year": 2017,
+        "number": 222,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0222",
+        "event_date": "2017-03-09",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA0222.docx"
+      }
+    ],
+    "VID666/2015": [],
+    "VID932/2015": [],
+    "NSD557/2016": [
+      {
+        "citation": "[2017] FCA 454",
+        "court": "FCA",
+        "year": 2017,
+        "number": 454,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0454",
+        "event_date": "2017-05-08",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCA0454.docx"
+      }
+    ],
+    "NSD2035/2016": [
+      {
+        "citation": "[2016] FCA 1516",
+        "court": "FCA",
+        "year": 2016,
+        "number": 1516,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca1516",
+        "event_date": "2016-12-14",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA1516.docx"
+      }
+    ],
+    "NSD2036/2016": [
+      {
+        "citation": "[2016] FCA 1516",
+        "court": "FCA",
+        "year": 2016,
+        "number": 1516,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca1516",
+        "event_date": "2016-12-14",
+        "event": "Judgment",
+        "file": "data/judgments/2016/2016FCA1516.docx"
+      }
+    ],
+    "QUD236/2016": [],
+    "QUD252/2016": [],
+    "QUD257/2016": [],
+    "QUD478/2016": [
+      {
+        "citation": "[2018] FCA 1472",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1472,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1472",
+        "event_date": "2018-09-28",
+        "event": "Judgment",
+        "file": "data/judgments/2018/2018FCA1472.docx"
+      },
+      {
+        "citation": "[2018] FCA 1170",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1170,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1170",
+        "event_date": "2018-08-13",
+        "event": "Judgment",
+        "file": "data/judgments/2018/2018FCA1170.docx"
+      }
+    ],
+    "QUD883/2016": [
+      {
+        "citation": "[2021] FCA 1546",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1546,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1546",
+        "event_date": "2021-12-08",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2021/2021FCA1546.docx"
+      },
+      {
+        "citation": "[2021] FCA 1219",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1219,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1219",
+        "event_date": "2021-10-08",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA1219.docx"
+      },
+      {
+        "citation": "[2019] FCA 1258",
+        "court": "FCA",
+        "year": 2019,
+        "number": 1258,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca1258",
+        "event_date": "2019-08-09",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2019/2019FCA1258.docx"
+      },
+      {
+        "citation": "[2018] FCA 1607",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1607,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1607",
+        "event_date": "2018-10-24",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2018/2018FCA1607.docx"
+      },
+      {
+        "citation": "[2018] FCA 1479",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1479,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1479",
+        "event_date": "2018-09-28",
+        "event": "Judgment",
+        "file": "data/judgments/2018/2018FCA1479.docx"
+      }
+    ],
+    "VID626/2016": [],
+    "VID674/2016": [
+      {
+        "citation": "[2021] FCA 983",
+        "court": "FCA",
+        "year": 2021,
+        "number": 983,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0983",
+        "event_date": "2021-08-19",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2021/2021FCA0983.docx"
+      },
+      {
+        "citation": "[2021] FCA 739",
+        "court": "FCA",
+        "year": 2021,
+        "number": 739,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0739",
+        "event_date": "2021-07-02",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0739.docx"
+      },
+      {
+        "citation": "[2019] FCA 1187",
+        "court": "FCA",
+        "year": 2019,
+        "number": 1187,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca1187",
+        "event_date": "2019-08-02",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA1187.docx"
+      },
+      {
+        "citation": "[2019] FCA 412",
+        "court": "FCA",
+        "year": 2019,
+        "number": 412,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0412",
+        "event_date": "2019-03-27",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0412.docx"
+      }
+    ],
+    "WAD55/2016": [],
+    "NSD628/2017": [
+      {
+        "citation": "[2020] FCA 308",
+        "court": "FCA",
+        "year": 2020,
+        "number": 308,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca0308",
+        "event_date": "2020-03-12",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA0308.docx"
+      }
+    ],
+    "NSD1000/2017": [],
+    "QUD40/2017": [],
+    "QUD239/2017": [],
+    "QUD727/2017": [],
+    "VID751/2017": [
+      {
+        "citation": "[2017] FCAFC 150",
+        "court": "FCAFC",
+        "year": 2017,
+        "number": 150,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2017/2017fcafc0150",
+        "event_date": "2017-09-20",
+        "event": "Judgment",
+        "file": "data/judgments/2017/2017FCAFC0150.docx"
+      }
+    ],
+    "NSD406/2018": [
+      {
+        "citation": "[2022] FCA 1390",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1390,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1390",
+        "event_date": "2022-11-23",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA1390.docx"
+      },
+      {
+        "citation": "[2019] FCA 462",
+        "court": "FCA",
+        "year": 2019,
+        "number": 462,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0462",
+        "event_date": "2019-04-04",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0462.docx"
+      },
+      {
+        "citation": "[2018] FCA 2057",
+        "court": "FCA",
+        "year": 2018,
+        "number": 2057,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca2057",
+        "event_date": "2018-12-07",
+        "event": "Case Management Hearing",
+        "file": "data/judgments/2018/2018FCA2057.docx"
+      }
+    ],
+    "NSD2289/2018": [
+      {
+        "citation": "[2021] FCA 1040",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1040,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1040",
+        "event_date": "2021-08-31",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA1040.docx"
+      },
+      {
+        "citation": "[2021] FCA 720",
+        "court": "FCA",
+        "year": 2021,
+        "number": 720,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0720",
+        "event_date": "2021-06-29",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0720.docx"
+      },
+      {
+        "citation": "[2020] FCA 1766",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1766,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1766",
+        "event_date": "2020-12-09",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1766.docx"
+      },
+      {
+        "citation": "[2020] FCA 1542",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1542,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1542",
+        "event_date": "2020-10-23",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1542.docx"
+      },
+      {
+        "citation": "[2020] FCA 1232",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1232,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1232",
+        "event_date": "2020-08-27",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1232.docx"
+      }
+    ],
+    "QUD66/2018": [
+      {
+        "citation": "[2019] FCA 925",
+        "court": "FCA",
+        "year": 2019,
+        "number": 925,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0925",
+        "event_date": "2019-06-20",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0925.docx"
+      },
+      {
+        "citation": "[2019] FCA 64",
+        "court": "FCA",
+        "year": 2019,
+        "number": 64,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0064",
+        "event_date": "2019-02-07",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0064.docx"
+      }
+    ],
+    "VID830/2018": [
+      {
+        "citation": "[2019] FCA 116",
+        "court": "FCA",
+        "year": 2019,
+        "number": 116,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0116",
+        "event_date": "2019-02-13",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0116.docx"
+      }
+    ],
+    "VID864/2018": [
+      {
+        "citation": "[2019] FCA 866",
+        "court": "FCA",
+        "year": 2019,
+        "number": 866,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0866",
+        "event_date": "2019-06-06",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2019/2019FCA0866.docx"
+      },
+      {
+        "citation": "[2019] FCA 669",
+        "court": "FCA",
+        "year": 2019,
+        "number": 669,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0669",
+        "event_date": "2019-05-15",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA0669.docx"
+      },
+      {
+        "citation": "[2018] FCA 1221",
+        "court": "FCA",
+        "year": 2018,
+        "number": 1221,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca1221",
+        "event_date": "2018-08-13",
+        "event": "Judgment",
+        "file": "data/judgments/2018/2018FCA1221.docx"
+      }
+    ],
+    "NSD60/2019": [],
+    "NSD112/2019": [
+      {
+        "citation": "[2019] FCA 350",
+        "court": "FCA",
+        "year": 2019,
+        "number": 350,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0350",
+        "event_date": "2019-03-15",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2019/2019FCA0350.docx"
+      }
+    ],
+    "NSD818/2019": [
+      {
+        "citation": "[2020] FCA 117",
+        "court": "FCA",
+        "year": 2020,
+        "number": 117,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca0117",
+        "event_date": "2020-02-13",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA0117.docx"
+      }
+    ],
+    "NSD862/2019": [
+      {
+        "citation": "[2024] FCA 538",
+        "court": "FCA",
+        "year": 2024,
+        "number": 538,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0538",
+        "event_date": "2024-05-22",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA0538.docx"
+      },
+      {
+        "citation": "[2023] FCA 713",
+        "court": "FCA",
+        "year": 2023,
+        "number": 713,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0713",
+        "event_date": "2023-06-22",
+        "event": "Case Management Hearing",
+        "file": "data/judgments/2023/2023FCA0713.docx"
+      },
+      {
+        "citation": "[2020] FCA 260",
+        "court": "FCA",
+        "year": 2020,
+        "number": 260,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca0260",
+        "event_date": "2020-03-05",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA0260.docx"
+      }
+    ],
+    "NSD922/2019": [
+      {
+        "citation": "[2021] FCA 1670",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1670,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1670",
+        "event_date": "2021-12-13",
+        "event": "Hearing",
+        "file": "data/judgments/2021/2021FCA1670.docx"
+      },
+      {
+        "citation": "[2021] FCA 826",
+        "court": "FCA",
+        "year": 2021,
+        "number": 826,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0826",
+        "event_date": "2021-07-23",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0826.docx"
+      },
+      {
+        "citation": "[2021] FCA 561",
+        "court": "FCA",
+        "year": 2021,
+        "number": 561,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0561",
+        "event_date": "2021-05-20",
+        "event": "Case Management Hearing & Interlocutory Hearing",
+        "file": "data/judgments/2021/2021FCA0561.docx"
+      }
+    ],
+    "NSD1445/2019": [],
+    "NSD1766/2019": [],
+    "NSD1905/2019": [],
+    "NSD1971/2019": [
+      {
+        "citation": "[2024] FCA 1525",
+        "court": "FCA",
+        "year": 2024,
+        "number": 1525,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1525",
+        "event_date": "2024-12-24",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2024/2024FCA1525.docx"
+      }
+    ],
+    "NSD1986/2019": [
+      {
+        "citation": "[2020] FCAFC 145",
+        "court": "FCAFC",
+        "year": 2020,
+        "number": 145,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2020/2020fcafc0145",
+        "event_date": "2020-08-24",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCAFC0145.docx"
+      }
+    ],
+    "QUD177/2019": [],
+    "VID369/2019": [
+      {
+        "citation": "[2021] FCA 1322",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1322,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1322",
+        "event_date": "2021-10-27",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA1322.docx"
+      },
+      {
+        "citation": "[2020] FCA 1846",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1846,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1846",
+        "event_date": "2020-12-22",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1846.docx"
+      }
+    ],
+    "VID567/2019": [
+      {
+        "citation": "[2021] FCA 36",
+        "court": "FCA",
+        "year": 2021,
+        "number": 36,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0036",
+        "event_date": "2021-01-29",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0036.docx"
+      }
+    ],
+    "VID932/2019": [
+      {
+        "citation": "[2023] FCA 1140",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1140,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1140",
+        "event_date": "2023-09-25",
+        "event": "Directions",
+        "file": "data/judgments/2023/2023FCA1140.docx"
+      },
+      {
+        "citation": "[2023] FCA 1029",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1029,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1029",
+        "event_date": "2023-08-29",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA1029.docx"
+      },
+      {
+        "citation": "[2022] FCA 1475",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1475,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1475",
+        "event_date": "2022-12-09",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA1475.docx"
+      },
+      {
+        "citation": "[2021] FCA 1147",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1147,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1147",
+        "event_date": "2021-09-23",
+        "event": "Part Heard",
+        "file": "data/judgments/2021/2021FCA1147.docx"
+      },
+      {
+        "citation": "[2020] FCA 625",
+        "court": "FCA",
+        "year": 2020,
+        "number": 625,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca0625",
+        "event_date": "2020-05-12",
+        "event": "Publication of Reasons",
+        "file": "data/judgments/2020/2020FCA0625.docx"
+      },
+      {
+        "citation": "[2019] FCA 1532",
+        "court": "FCA",
+        "year": 2019,
+        "number": 1532,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca1532",
+        "event_date": "2019-09-18",
+        "event": "Judgment",
+        "file": "data/judgments/2019/2019FCA1532.docx"
+      }
+    ],
+    "VID1328/2019": [],
+    "NSD330/2020": [
+      {
+        "citation": "[2020] FCA 1503",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1503,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1503",
+        "event_date": "2020-10-19",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1503.docx"
+      },
+      {
+        "citation": "[2020] FCA 1100",
+        "court": "FCA",
+        "year": 2020,
+        "number": 1100,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1100",
+        "event_date": "2020-08-05",
+        "event": "Judgment",
+        "file": "data/judgments/2020/2020FCA1100.docx"
+      }
+    ],
+    "NSD899/2020": [
+      {
+        "citation": "[2023] FCA 1496",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1496,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1496",
+        "event_date": "2023-11-29",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA1496.docx"
+      },
+      {
+        "citation": "[2023] FCA 1148",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1148,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1148",
+        "event_date": "2023-09-29",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA1148.docx"
+      },
+      {
+        "citation": "[2022] FCA 681",
+        "court": "FCA",
+        "year": 2022,
+        "number": 681,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0681",
+        "event_date": "2022-06-10",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0681.docx"
+      }
+    ],
+    "NSD951/2020": [
+      {
+        "citation": "[2025] FCA 697",
+        "court": "FCA",
+        "year": 2025,
+        "number": 697,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0697",
+        "event_date": "2025-06-26",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0697.docx"
+      },
+      {
+        "citation": "[2025] FCA 534",
+        "court": "FCA",
+        "year": 2025,
+        "number": 534,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0534",
+        "event_date": "2025-05-23",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0534.docx"
+      },
+      {
+        "citation": "[2021] FCA 1120",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1120,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1120",
+        "event_date": "2021-09-16",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA1120.docx"
+      },
+      {
+        "citation": "[2021] FCA 801",
+        "court": "FCA",
+        "year": 2021,
+        "number": 801,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0801",
+        "event_date": "2021-07-16",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0801.docx"
+      },
+      {
+        "citation": "[2021] FCA 341",
+        "court": "FCA",
+        "year": 2021,
+        "number": 341,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0341",
+        "event_date": "2021-04-13",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0341.docx"
+      }
+    ],
+    "NSD1144/2020": [
+      {
+        "citation": "[2022] FCA 1383",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1383,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1383",
+        "event_date": "2022-11-23",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA1383.docx"
+      },
+      {
+        "citation": "[2021] FCA 1270",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1270,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1270",
+        "event_date": "2021-10-20",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA1270.docx"
+      }
+    ],
+    "NSD1236/2020": [
+      {
+        "citation": "[2026] FCA 1552",
+        "court": "FCA",
+        "year": 2026,
+        "number": 1552,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+        "event_date": "2026-10-22",
+        "event": "Judgment",
+        "file": "data/judgments/2026/2026FCA1552.docx"
+      },
+      {
+        "citation": "[2025] FCA 900",
+        "court": "FCA",
+        "year": 2025,
+        "number": 900,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0900",
+        "event_date": "2025-08-12",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0900.docx"
+      },
+      {
+        "citation": "[2022] FCA 341",
+        "court": "FCA",
+        "year": 2022,
+        "number": 341,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0341",
+        "event_date": "2022-04-04",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0341.docx"
+      },
+      {
+        "citation": "[2021] FCA 338",
+        "court": "FCA",
+        "year": 2021,
+        "number": 338,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0338",
+        "event_date": "2021-04-09",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0338.docx"
+      },
+      {
+        "citation": "[2021] FCA 165",
+        "court": "FCA",
+        "year": 2021,
+        "number": 165,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0165",
+        "event_date": "2021-03-02",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0165.docx"
+      }
+    ],
+    "QUD316/2020": [
+      {
+        "citation": "[2021] FCA 260",
+        "court": "FCA",
+        "year": 2021,
+        "number": 260,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0260",
+        "event_date": "2021-03-24",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0260.docx"
+      }
+    ],
+    "QUD374/2020": [
+      {
+        "citation": "[2022] FCA 1007",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1007,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1007",
+        "event_date": "2022-08-30",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA1007.docx"
+      },
+      {
+        "citation": "[2022] FCA 98",
+        "court": "FCA",
+        "year": 2022,
+        "number": 98,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0098",
+        "event_date": "2022-02-14",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0098.docx"
+      }
+    ],
+    "VID644/2020": [
+      {
+        "citation": "[2021] FCA 409",
+        "court": "FCA",
+        "year": 2021,
+        "number": 409,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0409",
+        "event_date": "2021-04-23",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0409.docx"
+      },
+      {
+        "citation": "[2021] FCA 172",
+        "court": "FCA",
+        "year": 2021,
+        "number": 172,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0172",
+        "event_date": "2021-03-05",
+        "event": "Judgment",
+        "file": "data/judgments/2021/2021FCA0172.docx"
+      }
+    ],
+    "VID738/2020": [
+      {
+        "citation": "[2022] FCA 308",
+        "court": "FCA",
+        "year": 2022,
+        "number": 308,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0308",
+        "event_date": "2022-03-25",
+        "event": "Hearing",
+        "file": "data/judgments/2022/2022FCA0308.docx"
+      }
+    ],
+    "ACD32/2021": [
+      {
+        "citation": "[2024] FCA 580",
+        "court": "FCA",
+        "year": 2024,
+        "number": 580,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0580",
+        "event_date": "2024-06-04",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA0580.docx"
+      },
+      {
+        "citation": "[2023] FCA 880",
+        "court": "FCA",
+        "year": 2023,
+        "number": 880,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0880",
+        "event_date": "2023-08-01",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA0880.docx"
+      }
+    ],
+    "NSD190/2021": [
+      {
+        "citation": "[2025] FCA 901",
+        "court": "FCA",
+        "year": 2025,
+        "number": 901,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0901",
+        "event_date": "2025-08-12",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0901.docx"
+      },
+      {
+        "citation": "[2022] FCA 341",
+        "court": "FCA",
+        "year": 2022,
+        "number": 341,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0341",
+        "event_date": "2022-04-04",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0341.docx"
+      },
+      {
+        "citation": "[2022] FCA 66",
+        "court": "FCA",
+        "year": 2022,
+        "number": 66,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0066",
+        "event_date": "2022-02-04",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0066.docx"
+      }
+    ],
+    "NSD708/2021": [],
+    "NSD935/2021": [],
+    "NSD1118/2021": [
+      {
+        "citation": "[2022] FCA 1093",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1093,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1093",
+        "event_date": "2022-09-14",
+        "event": "Hearing",
+        "file": "data/judgments/2022/2022FCA1093.docx"
+      }
+    ],
+    "NSD1213/2021": [],
+    "NSD1220/2021": [
+      {
+        "citation": "[2023] FCA 1574",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1574,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1574",
+        "event_date": "2023-12-12",
+        "event": "Publication of Reasons",
+        "file": "data/judgments/2023/2023FCA1574.docx"
+      }
+    ],
+    "NSD1342/2021": [
+      {
+        "citation": "[2023] FCA 66",
+        "court": "FCA",
+        "year": 2023,
+        "number": 66,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0066",
+        "event_date": "2023-02-08",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA0066.docx"
+      }
+    ],
+    "QUD19/2021": [
+      {
+        "citation": "[2025] FCA 1660",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1660,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1660",
+        "event_date": "2025-12-22",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA1660.docx"
+      },
+      {
+        "citation": "[2025] FCA 1433",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1433,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1433",
+        "event_date": "2025-11-13",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2025/2025FCA1433.docx"
+      },
+      {
+        "citation": "[2025] FCA 316",
+        "court": "FCA",
+        "year": 2025,
+        "number": 316,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0316",
+        "event_date": "2025-04-07",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0316.docx"
+      },
+      {
+        "citation": "[2024] FCA 1382",
+        "court": "FCA",
+        "year": 2024,
+        "number": 1382,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1382",
+        "event_date": "2024-12-04",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA1382.docx"
+      }
+    ],
+    "QUD36/2021": [],
+    "QUD179/2021": [
+      {
+        "citation": "[2022] FCA 891",
+        "court": "FCA",
+        "year": 2022,
+        "number": 891,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0891",
+        "event_date": "2022-08-01",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0891.docx"
+      }
+    ],
+    "QUD257/2021": [
+      {
+        "citation": "[2022] FCA 564",
+        "court": "FCA",
+        "year": 2022,
+        "number": 564,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0564",
+        "event_date": "2022-05-17",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0564.docx"
+      },
+      {
+        "citation": "[2022] FCA 225",
+        "court": "FCA",
+        "year": 2022,
+        "number": 225,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0225",
+        "event_date": "2022-03-11",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2022/2022FCA0225.docx"
+      },
+      {
+        "citation": "[2022] FCA 112",
+        "court": "FCA",
+        "year": 2022,
+        "number": 112,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0112",
+        "event_date": "2022-02-17",
+        "event": "Judgment",
+        "file": "data/judgments/2022/2022FCA0112.docx"
+      }
+    ],
+    "VID253/2021": [],
+    "VID587/2021": [
+      {
+        "citation": "[2021] FCA 1295",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1295,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1295",
+        "event_date": "2021-11-03",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2021/2021FCA1295.docx"
+      },
+      {
+        "citation": "[2021] FCA 1266",
+        "court": "FCA",
+        "year": 2021,
+        "number": 1266,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1266",
+        "event_date": "2021-10-14",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2021/2021FCA1266.docx"
+      }
+    ],
+    "NSD180/2022": [
+      {
+        "citation": "[2023] FCAFC 60",
+        "court": "FCAFC",
+        "year": 2023,
+        "number": 60,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2023/2023fcafc0060",
+        "event_date": "2023-04-24",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCAFC0060.docx"
+      }
+    ],
+    "NSD401/2022": [
+      {
+        "citation": "[2026] FCA 516",
+        "court": "FCA",
+        "year": 2026,
+        "number": 516,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca0516",
+        "event_date": "2026-04-16",
+        "event": "Case Management Hearing",
+        "file": "data/judgments/2026/2026FCA0516.docx"
+      },
+      {
+        "citation": "[2025] FCA 1043",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1043,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1043",
+        "event_date": "2025-08-29",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA1043.docx"
+      },
+      {
+        "citation": "[2025] FCA 1004",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1004,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1004",
+        "event_date": "2025-08-22",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA1004.docx"
+      }
+    ],
+    "NSD461/2022": [
+      {
+        "citation": "[2023] FCA 875",
+        "court": "FCA",
+        "year": 2023,
+        "number": 875,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0875",
+        "event_date": "2023-07-31",
+        "event": "Judgment",
+        "file": "data/judgments/2023/2023FCA0875.docx"
+      }
+    ],
+    "NSD1016/2022": [],
+    "NSD1060/2022": [
+      {
+        "citation": "[2026] FCA 356",
+        "court": "FCA",
+        "year": 2026,
+        "number": 356,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca0356",
+        "event_date": "2026-03-26",
+        "event": "Judgment",
+        "file": "data/judgments/2026/2026FCA0356.docx"
+      },
+      {
+        "citation": "[2025] FCA 371",
+        "court": "FCA",
+        "year": 2025,
+        "number": 371,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0371",
+        "event_date": "2025-04-17",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0371.docx"
+      }
+    ],
+    "NSD1074/2022": [],
+    "QUD242/2022": [],
+    "QUD466/2022": [],
+    "VID341/2022": [
+      {
+        "citation": "[2025] FCA 902",
+        "court": "FCA",
+        "year": 2025,
+        "number": 902,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0902",
+        "event_date": "2025-08-12",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0902.docx"
+      }
+    ],
+    "VID342/2022": [
+      {
+        "citation": "[2025] FCA 902",
+        "court": "FCA",
+        "year": 2025,
+        "number": 902,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0902",
+        "event_date": "2025-08-12",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0902.docx"
+      }
+    ],
+    "VID567/2022": [
+      {
+        "citation": "[2023] FCA 351",
+        "court": "FCA",
+        "year": 2023,
+        "number": 351,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0351",
+        "event_date": "2023-04-13",
+        "event": "Hearing",
+        "file": "data/judgments/2023/2023FCA0351.docx"
+      }
+    ],
+    "VID585/2022": [],
+    "VID633/2022": [],
+    "VID677/2022": [
+      {
+        "citation": "[2022] FCA 1500",
+        "court": "FCA",
+        "year": 2022,
+        "number": 1500,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1500",
+        "event_date": "2022-11-28",
+        "event": "Interlocutory Hearing",
+        "file": "data/judgments/2022/2022FCA1500.docx"
+      }
+    ],
+    "NSD227/2023": [],
+    "NSD500/2023": [],
+    "NSD949/2023": [],
+    "NSD1538/2023": [
+      {
+        "citation": "[2026] FCA 1309",
+        "court": "FCA",
+        "year": 2026,
+        "number": 1309,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1309",
+        "event_date": "2026-09-04",
+        "event": "Judgment",
+        "file": "data/judgments/2026/2026FCA1309.docx"
+      },
+      {
+        "citation": "[2026] FCA 6",
+        "court": "FCA",
+        "year": 2026,
+        "number": 6,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca0006",
+        "event_date": "2026-01-16",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2026/2026FCA0006.docx"
+      }
+    ],
+    "NSD1579/2023": [],
+    "QUD147/2023": [],
+    "TAD22/2023": [],
+    "VID71/2023": [
+      {
+        "citation": "[2023] FCA 665",
+        "court": "FCA",
+        "year": 2023,
+        "number": 665,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0665",
+        "event_date": "2023-06-19",
+        "event": "Publication of Reasons",
+        "file": "data/judgments/2023/2023FCA0665.docx"
+      }
+    ],
+    "VID392/2023": [
+      {
+        "citation": "[2025] FCA 338",
+        "court": "FCA",
+        "year": 2025,
+        "number": 338,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0338",
+        "event_date": "2025-04-10",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0338.docx"
+      }
+    ],
+    "VID862/2023": [
+      {
+        "citation": "[2024] FCA 579",
+        "court": "FCA",
+        "year": 2024,
+        "number": 579,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0579",
+        "event_date": "2024-06-04",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA0579.docx"
+      }
+    ],
+    "WAD36/2023": [
+      {
+        "citation": "[2023] FCA 1064",
+        "court": "FCA",
+        "year": 2023,
+        "number": 1064,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1064",
+        "event_date": "2023-09-07",
+        "event": "Hearing",
+        "file": "data/judgments/2023/2023FCA1064.docx"
+      }
+    ],
+    "NSD869/2024": [],
+    "NSD1595/2024": [
+      {
+        "citation": "[2025] FCA 914",
+        "court": "FCA",
+        "year": 2025,
+        "number": 914,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0914",
+        "event_date": "2025-08-08",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0914.docx"
+      }
+    ],
+    "NSD1798/2024": [],
+    "QUD16/2024": [
+      {
+        "citation": "[2025] FCA 1512",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1512,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1512",
+        "event_date": "2025-11-17",
+        "event": "Hearing",
+        "file": "data/judgments/2025/2025FCA1512.docx"
+      },
+      {
+        "citation": "[2024] FCA 564",
+        "court": "FCA",
+        "year": 2024,
+        "number": 564,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0564",
+        "event_date": "2024-05-28",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA0564.docx"
+      }
+    ],
+    "QUD39/2024": [
+      {
+        "citation": "[2025] FCA 1512",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1512,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1512",
+        "event_date": "2025-11-17",
+        "event": "Hearing",
+        "file": "data/judgments/2025/2025FCA1512.docx"
+      },
+      {
+        "citation": "[2024] FCA 564",
+        "court": "FCA",
+        "year": 2024,
+        "number": 564,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca0564",
+        "event_date": "2024-05-28",
+        "event": "Judgment",
+        "file": "data/judgments/2024/2024FCA0564.docx"
+      }
+    ],
+    "QUD108/2024": [],
+    "VID1375/2024": [
+      {
+        "citation": "[2025] FCA 895",
+        "court": "FCA",
+        "year": 2025,
+        "number": 895,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0895",
+        "event_date": "2025-08-06",
+        "event": "Judgment",
+        "file": "data/judgments/2025/2025FCA0895.docx"
+      }
+    ],
+    "NSD489/2025": [],
+    "NSD1070/2025": [],
+    "NSD1215/2025": [],
+    "NSD1509/2025": [
+      {
+        "citation": "[2026] FCA 1231",
+        "court": "FCA",
+        "year": 2026,
+        "number": 1231,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1231",
+        "event_date": "2026-08-27",
+        "event": "Judgment",
+        "file": "data/judgments/2026/2026FCA1231.docx"
+      }
+    ],
+    "NSD1570/2025": [
+      {
+        "citation": "[2026] FCA 1256",
+        "court": "FCA",
+        "year": 2026,
+        "number": 1256,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1256",
+        "event_date": "2026-08-27",
+        "event": "Administrative Listing",
+        "file": "data/judgments/2026/2026FCA1256.docx"
+      }
+    ],
+    "NSD2360/2025": [],
+    "QUD335/2025": [],
+    "VID636/2025": [],
+    "VID1055/2025": [
+      {
+        "citation": "[2025] FCA 1554",
+        "court": "FCA",
+        "year": 2025,
+        "number": 1554,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1554",
+        "event_date": "2025-12-02",
+        "event": "Hearing",
+        "file": "data/judgments/2025/2025FCA1554.docx"
+      }
+    ],
+    "VID1143/2025": [],
+    "VID1552/2025": [],
+    "NSD2002/2026": [],
+    "VID244/2026": [],
+    "VID338/2026": [],
+    "VID441/2026": [],
+    "VID1069/2026": [],
+    "VID1141/2026": [],
+    "VID1229/2026": [],
+    "WAD91/2026": [
+      {
+        "citation": "[2026] FCA 964",
+        "court": "FCA",
+        "year": 2026,
+        "number": 964,
+        "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca0964",
+        "event_date": "2026-07-22",
+        "event": "Publication of Reasons",
+        "file": "data/judgments/2026/2026FCA0964.docx"
+      }
+    ]
+  }
+}

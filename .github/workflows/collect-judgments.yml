@@ -1,0 +1,78 @@
+name: Collect judgments
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Optional cap on the number of judgments downloaded this run (blank = all outstanding)."
+        required: false
+        default: ""
+  # Run after the file number collector has committed any new file numbers.
+  workflow_run:
+    workflows: ["Collect Competition Law file numbers"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-judgments
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # judgments.fedcourt.gov.au sits behind a Cloudflare challenge, so the
+      # documents are fetched with a real Chrome, headful under Xvfb (both are
+      # normally pre-installed on ubuntu-latest).
+      - name: Install Chrome and Xvfb
+        run: |
+          need_update=1
+          apt_install() {
+            if [ -n "$need_update" ]; then sudo apt-get update; need_update=; fi
+            sudo apt-get install -y "$@"
+          }
+          command -v xvfb-run >/dev/null 2>&1 || apt_install xvfb
+          if ! command -v google-chrome >/dev/null 2>&1; then
+            apt_install chromium-browser || apt_install chromium
+          fi
+          CHROME_PATH=$(command -v google-chrome || command -v google-chrome-stable || command -v chromium-browser || command -v chromium || true)
+          "$CHROME_PATH" --version || true
+          echo "CHROME_PATH=$CHROME_PATH" >> "$GITHUB_ENV"
+
+      - name: Find and download judgments
+        env:
+          LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          args=()
+          if [ -n "$LIMIT" ]; then args+=(--limit "$LIMIT"); fi
+          xvfb-run -a python scripts/collect_judgments.py "${args[@]}"
+
+      # Commit whatever succeeded even if the run was cut short or failed.
+      - name: Commit results if changed
+        if: ${{ !cancelled() }}
+        run: |
+          git add -A data/
+          if git diff --cached --quiet -I '"generated_at"'; then
+            echo "No new judgments."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update judgments"
+          git pull --rebase
+          git push
