@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       start:
-        description: "Earliest filing date to search (YYYY-MM-DD)"
+        description: "Optional backfill start date (YYYY-MM-DD). Leave blank to search only for new filings since the last run."
         required: false
-        default: "2000-01-01"
+        default: ""
   schedule:
     - cron: "17 19 * * 0" # weekly, Monday ~6am AEDT
 
@@ -29,10 +29,12 @@ jobs:
           python-version: "3.12"
 
       - name: Collect file numbers (90-day windows)
+        env:
+          START: ${{ github.event.inputs.start }}
         run: |
-          python scripts/collect_file_numbers.py \
-            --start "${{ github.event.inputs.start || '2000-01-01' }}" \
-            --output data/competition_law_file_numbers.json
+          args=(--output data/competition_law_file_numbers.json)
+          if [ -n "$START" ]; then args+=(--start "$START"); fi
+          python scripts/collect_file_numbers.py "${args[@]}"
 
       - name: Commit results if changed
         run: |

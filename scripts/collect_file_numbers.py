@@ -117,26 +117,57 @@ def collect_window(client: Client, start: date, end: date) -> set:
     return found
 
 
+def load_existing(path):
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+
+
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--years", type=float, default=5)
-    ap.add_argument("--start", help="YYYY-MM-DD (overrides --years)")
+    ap = argparse.ArgumentParser(
+        description="By default only searches for new filings since the last run "
+        "(re-checking the last --overlap-days) and merges them into --output."
+    )
+    ap.add_argument("--start", help="YYYY-MM-DD: search from this date instead of incrementally")
     ap.add_argument("--end", help="YYYY-MM-DD (default: today)")
+    ap.add_argument("--years", type=float, help="search this many years back instead of incrementally")
+    ap.add_argument("--overlap-days", type=int, default=30,
+                    help="in incremental mode, re-search this many days before the last run's end date")
+    ap.add_argument("--default-start", default="1990-01-01",
+                    help="start date used when there is no existing output file")
+    ap.add_argument("--replace", action="store_true",
+                    help="overwrite the output instead of merging with existing file numbers")
     ap.add_argument("--output", default="data/competition_law_file_numbers.json")
     ap.add_argument("--delay", type=float, default=1.0)
     args = ap.parse_args()
 
+    existing = None if args.replace else load_existing(args.output)
     end = date.fromisoformat(args.end) if args.end else date.today()
-    start = (
-        date.fromisoformat(args.start)
-        if args.start
-        else end - timedelta(days=round(365.25 * args.years))
-    )
+    if args.start:
+        start = date.fromisoformat(args.start)
+    elif args.years:
+        start = end - timedelta(days=round(365.25 * args.years))
+    elif existing:
+        start = date.fromisoformat(existing["filed_before"]) - timedelta(days=args.overlap_days)
+    else:
+        start = date.fromisoformat(args.default_start)
+    print(f"Searching {start} -> {end}", file=sys.stderr)
 
     client = Client(delay=args.delay)
     all_nums = set()
     for w_start, w_end in windows(start, end):
         all_nums |= collect_window(client, w_start, w_end)
+
+    covered_from, covered_to = start, end
+    if existing:
+        before = set(existing["file_numbers"])
+        new = all_nums - before
+        print(f"{len(new)} new file numbers: {sorted(new)}", file=sys.stderr)
+        all_nums |= before
+        covered_from = min(start, date.fromisoformat(existing["filed_after"]))
+        covered_to = max(end, date.fromisoformat(existing["filed_before"]))
 
     def sort_key(n):
         m = re.match(r"([A-Z]+)(\d+)/(\d{4})", n)
@@ -145,8 +176,8 @@ def main():
     out = {
         "source": BASE + QUERY_PATH,
         "action_type": "Competition_Law",
-        "filed_after": start.isoformat(),
-        "filed_before": end.isoformat(),
+        "filed_after": covered_from.isoformat(),
+        "filed_before": covered_to.isoformat(),
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "count": len(all_nums),
         "file_numbers": sorted(all_nums, key=sort_key),
