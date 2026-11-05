@@ -59,6 +59,9 @@ list means none were found:
 ]
 ```
 
+Only judgments the portal links to are found. Older files (2008, for example) list "Judgment"
+events with no link, so they come back with an empty list even though judgments exist.
+
 If a download fails, `file` is `null` and `download_error` says why. A common reason is a
 judgment that the portal links to but that has no document yet ("unpublished?"). Failed
 downloads are retried on the next run. If a file's order list can't be fetched, its previous
