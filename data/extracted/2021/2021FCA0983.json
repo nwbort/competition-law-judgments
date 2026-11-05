@@ -1,0 +1,268 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2021/2021FCA0983.docx",
+ "metadata": {
+  "citation": "[2021] FCA 983",
+  "name": "Aucare Dairy (Aust) Pty Ltd v Huang (No 6)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 983,
+  "date_of_judgment": "2021-08-19",
+  "file_numbers": [
+   "VID674/2016"
+  ],
+  "judges": [
+   "DAVIES J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2021-07-16",
+  "number_of_paragraphs": 8,
+  "catchwords": [
+   "COSTS – where non-party applicant unsuccessful on an application against the second applicant to the proceeding – whether departure from costs following the event justified – whether disentitling conduct of the second applicant in relation to the application – costs order against non-party and the other entities it represented"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 43"
+  ],
+  "cases_cited": [
+   "Aucare Dairy (Aust) Pty Ltd v Huang (No 5) [2021] FCA 739"
+  ],
+  "parties": [
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Applicant"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "YUNLING HUANG",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ZHIXIN GUO",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "GRANDTRA INVESTMENTS PTY LTD",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "Grandtra Investments Pty Ltd",
+    "name": "Mr C Robinson"
+   },
+   {
+    "role": "solicitor",
+    "for": "Grandtra Investments Pty Ltd",
+    "name": "Tahota Law"
+   },
+   {
+    "role": "counsel",
+    "for": "Yanfeng Bai",
+    "name": "Mr C Munt"
+   },
+   {
+    "role": "solicitor",
+    "for": "Yanfeng Bai",
+    "name": "Xiao Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0983",
+  "portal_file_numbers": [
+   "VID674/2016"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2021-08-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "VID 674 of 2016"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DAVIES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 August 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – where non-party applicant unsuccessful on an application against the second applicant to the proceeding – whether departure from costs following the event justified – whether disentitling conduct of the second applicant in relation to the application – costs order against non-party and the other entities it represented"
+  },
+  {
+   "label": "Legislation cited",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 43"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Aucare Dairy (Aust) Pty Ltd v Huang (No 5) [2021] FCA 739"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "8"
+  },
+  {
+   "label": "Date of last submission/s",
+   "value": "16 July 2021"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Counsel for Grandtra Investments Pty Ltd",
+   "value": "Mr C Robinson"
+  },
+  {
+   "label": "Solicitor for Grandtra Investments Pty Ltd",
+   "value": "Tahota Law"
+  },
+  {
+   "label": "Counsel for Yanfeng Bai",
+   "value": "Mr C Munt"
+  },
+  {
+   "label": "Solicitor for Yanfeng Bai",
+   "value": "Xiao Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "parties": [
+    {
+     "name": "GRANDTRA INVESTMENTS PTY LTD",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUCARE DAIRY (AUST) PTY LTD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "YANFENG BAI",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "DAVIES J"
+   ],
+   "date": "2021-08-19",
+   "date_raw": "19 August 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Grandtra Investments Pty Ltd, China Global Investments Pty Ltd, Global Fortune Investment Group Pty Ltd, Global Fortune Investment Ltd and Yuting Huang pay the costs of Yanfeng Bai of the interlocutory application filed on 12 November 2019 and ruled on 2 July 2021 as taxed, agreed or assessed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "In Aucare Dairy (Aust) Pty Ltd v Huang (No 5) [2021] FCA 739 (the compensation claim judgment), I dismissed an application brought by a non-party, Grandtra Investments Pty Ltd (Grandtra) on behalf of itself and China Global Investments Pty Ltd, Global Fortune Investment Pty Ltd and Yuting Huang (the minority shareholders) for compensation payable by the second applicant, Mr Bai. Although the application was unsuccessful, Grandtra and the minority shareholders oppose the making of a costs order against them for the costs of Mr Bai. In addressing Grandtra’s arguments, I do not repeat the background to the application for compensation, which is set out in the compensation claim judgment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Grandtra contended that it should not have to pay Mr Bai’s costs or that there should only be a partial costs order against it for the following reasons:\nthe applicants were saved considerable expense, time and uncertainty in the primary proceedings as a result of Nutritional Choice Australia Pty Ltd’s (NCA) consent to the proprietary and other relief against it in the final orders made in the primary proceeding;\nsenior counsel for the applicants expressly encouraged Grandtra to seek compensation from the applicants without reference to any other basis to make a claim for compensation other than NCA satisfying the prerequisite of order 13.3;\nMr Bai’s conduct in response to Grandtra’s application was unreasonable, entailing unnecessary costs being incurred. It was submitted that the applicants served some 1,000 pages of evidence on Grandtra in opposition to the compensation claim, much of which dealt with whether the pre-requisite of order 16.1 had been complied with, which did not have any bearing on the issues before the Court and, as it turned out, was largely otiose as Mr Bai successfully resisted the compensation application on the basis that Grandtra failed on its own evidence to establish its right to recover against Mr Bai.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "By s 43 of the Federal Court of Australia Act 1976 (Cth), the Court has a wide discretion in relation to costs. Nonetheless the discretion must be exercised judicially and the general rule is that costs follow the event unless there is some reason or special circumstance justifying some other order. In that regard, it is well accepted that a successful party may be deprived of their costs, wholly or partly, where that party’s conduct has “done something connected with the institution or the conduct of the suit calculated to occasion unnecessary litigation and expense”: G E Dal Pont, Law of Costs (LexisNexis Australia, 2nd ed, 2008) [8.42] 234. That is not this case.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "First, the proposition that Grandtra’s application for compensation was a direct consequence of the conduct of the applicants cannot be accepted. Unlike order 16.1, which provided for an amount of compensation to be paid by the applicants to another third party, upon a prescribed event happening, order 16.2, in contrast to order 16.1, did no more than preserve the ability of Grandtra and the minority shareholders to seek compensation from the applicants in the event that NCA complied with the requirements of order 13.3. Even if it be accepted that what senior counsel said when explaining proposed order 16.2 to the Court reasonably created the belief in Grandtra and the minority shareholders that the applicants would pay them compensation if order 13.3 was complied with, the finding, nevertheless, was that NCA had not complied with order 13.3. Critically, there was no suggestion that the applicants at any time led Grandtra or the minority shareholders to believe that the applicants would pay them compensation, even if order 13.3 was not complied with by NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Secondly, Grandtra’s argument on the proper construction of order 16.2 also failed and, in the circumstances, the benefit to the applicants occasioned by NCA’s consent to proprietary and other relief being granted against it in the final orders is not a reason to depart from the usual costs order.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Thirdly, I reject the claim that Mr Bai should be deprived of his costs, or part of his costs, because the evidentiary case he advanced to support his claim that it would not be just and equitable for Grandtra and the minority shareholders to receive any compensation pursuant to order 16.2 was “largely otiose”. That evidentiary case was “largely otiose” because, as events turned out, Grandtra failed to establish that it was entitled to an order for compensation so that the Court did not need to address Mr Bai’s just and equitable argument. That argument only arose for consideration had Grandtra been successful in establishing that it had a right to compensation. It does not follow from the fact that Grandtra’s application lacked merit that Mr Bai should be denied some or all of his costs because it was unnecessary for the Court to deal with Mr Bai’s just and equitable argument nor does it follow that it was unreasonable for Mr Bai to have put a case in answer to Grandtra’s compensation claim that arose for determination only if Grandtra succeeded in establishing that it had the right to compensation. The course taken by Mr Bai was in response to the claim brought against him and there was nothing in the conduct of Mr Bai that makes it appropriate to depart from the usual order. Mr Bai was entitled to put forward all arguments and all evidentiary material in support on which he would rely to contest his liability to pay any amount of compensation to Grandtra. It was not for Mr Bai to second guess that Grandtra would be unsuccessful in establishing its right to compensation and on that basis not proceed with an argument that was otherwise open to be put in opposition to the making of a compensation order against him.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Grandtra also contended that any costs order in favour of Mr Bai should be made against Grandtra alone and not also against the minority shareholders on whose behalf it brought the compensation application. It was submitted that it would be unjust to impose an order for costs on the minority shareholders where their investments have been lost by reason of the primary proceedings and they have done no more than authorise Grandtra to make the application for compensation. I do not accept that submission. Whilst the minority shareholders took no active role in these proceedings, Grandtra was acting in a representative capacity and on their behalf, with their authority, in bringing the application for compensation and were in every sense parties to the application, albeit represented through Grandtra. They were not merely “submitting parties” and the usual order for costs following the event should apply to them as the unsuccessful parties to the compensation application.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Accordingly, there will be an order that Grandtra and the minority shareholders pay Mr Bai’s costs of the interlocutory application filed on 12 November 2019.",
+    "judge": "DAVIES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eight (8) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Davies.",
+ "associate": null,
+ "dated": "2021-08-19",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 674 of 2016\nRespondents\nFourth Respondent: | NOYIER DAIRY AUSTRALIA PTY LTD\nFifth Respondent: | CFM ASSOCIATES PTY LTD (ACN 601 042 595)\nSixth Respondent: | AUSTRALIA GREEN DAIRY PTY LTD\nSeventh Respondent: | NUTRITIONAL CHOICE AUSTRALIA PTY LTD\nEighth Respondent: | HUANG QIONG"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "9176205adf2cb42854f775346dc9d2c948c923301168511343d544569464989c",
+ "markdown_file": "data/extracted/2021/2021FCA0983.md"
+}

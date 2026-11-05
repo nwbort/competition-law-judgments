@@ -1,0 +1,1253 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2013/2013FCA1413.docx",
+ "metadata": {
+  "citation": "[2013] FCA 1413",
+  "name": "Australian Competition and Consumer Commission v Mitsubishi Electric Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2013,
+  "number": 1413,
+  "date_of_judgment": "2013-12-19",
+  "file_numbers": [
+   "SAD336/2013"
+  ],
+  "judges": [
+   "MANSFIELD J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2013-12-12"
+  ],
+  "hearing_raw": "12 December 2013",
+  "number_of_paragraphs": 125,
+  "catchwords": [
+   "COMPETITION LAW – resale price maintenance – contraventions admitted – pecuniary penalties imposed"
+  ],
+  "legislation": [
+   "Trade Practices Act 1974 (Cth)",
+   "Competition and Consumer Act 2010 (Cth) ss 48, 76, 96, 98, 100, 155",
+   "Evidence Act 1995 (Cth) s 191"
+  ],
+  "cases_cited": [
+   "Trade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091 referred to",
+   "Trade Practices Commission v CSR Ltd [1991] ATPR 41-076 followed",
+   "Trade Practices Commission v Mobil Oil Australia Ltd (1984) 4 FCR 296 cited",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 followed",
+   "Trade Practices Commission v Sony (Australia) Pty Ltd [1990] ATPR 41-053 cited",
+   "Australian Competition and Consumer Commission v Navman Australia Pty Ltd [2007] ATPR 42-208 cited",
+   "Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20 cited",
+   "J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532 followed",
+   "Trade Practices Commission v TNT Australia Pty Ltd [1995] ATPR 41-375 referred to",
+   "Trade Practices Commission v Allied Mills Industries Pty Ltd (No 5) (1981) 37 ALR 256 cited",
+   "Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993 cited",
+   "Australian Competition and Consumer Commission v Netti Atom Pty Ltd [2007] FCA 1945 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "MITSUBISHI ELECTRIC AUSTRALIA PTY LTD",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v MITSUBISHI ELECTRIC AUSTRALIA PTY LTD",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "P Neskovcin"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "T Duggan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Baker & McKenzie"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1413",
+  "portal_file_numbers": [
+   "SAD336/2013"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-12-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Mitsubishi Electric Australia Pty Ltd [2013] FCA 1413"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v MITSUBISHI ELECTRIC AUSTRALIA PTY LTD"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 336 of 2013"
+  },
+  {
+   "label": "Judge",
+   "value": "MANSFIELD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 December 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION LAW – resale price maintenance – contraventions admitted – pecuniary penalties imposed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Trade Practices Act 1974 (Cth)\nCompetition and Consumer Act 2010 (Cth) ss 48, 76, 96, 98, 100, 155\nEvidence Act 1995 (Cth) s 191"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Trade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091 referred to\nTrade Practices Commission v CSR Ltd [1991] ATPR 41-076 followed\nTrade Practices Commission v Mobil Oil Australia Ltd (1984) 4 FCR 296 cited\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 followed\nTrade Practices Commission v Sony (Australia) Pty Ltd [1990] ATPR 41-053 cited\nAustralian Competition and Consumer Commission v Navman Australia Pty Ltd [2007] ATPR 42-208 cited\nSingtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20 cited\nJ McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532 followed\nTrade Practices Commission v TNT Australia Pty Ltd [1995] ATPR 41-375 referred to\nTrade Practices Commission v Allied Mills Industries Pty Ltd (No 5) (1981) 37 ALR 256 cited\nMinister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993 cited\nAustralian Competition and Consumer Commission v Netti Atom Pty Ltd [2007] FCA 1945 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "12 December 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "125"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "P Neskovcin"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "T Duggan SC"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Baker & McKenzie"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD336/2013",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "MITSUBISHI ELECTRIC AUSTRALIA PTY LTD",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "MANSFIELD J"
+   ],
+   "date": "2013-12-19",
+   "date_raw": "19 DECEMBER 2013",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "On and around 6 October 2009, Mitsubishi Electric Australia Pty Ltd (the Respondent) engaged in the practice of resale price maintenance within the meaning of s 96(1) of the Trade Practices Act 1974 (Cth) (known from 1 January 2011 as the Competition and Consumer Act 2010 (Cth)) (the Act) in contravention of s 48 of the Act in that the Respondent attempted to induce Mannix Electrical Pty Ltd (Reseller) not to sell the Respondent’s products at a price less than a price specified by the Respondent, having regard to s 96(4)(c), within the meaning of s 96(3)(b) of the Act by reason of the following conduct:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "On or around 6 October 2009, a representative of the Respondent spoke to a representative of the Reseller and informed the Reseller that the Reseller’s price for the 7.1kW MEA product was $200 lower than it should be and attempted to induce the Reseller to increase its price for the 7.1kw MEA product by $200 (the October 2009 Contravention).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "On and around 11 October 2010, the Respondent engaged in the practice of resale price maintenance within the meaning of s 96(1) of the Act in contravention of s 48 of the Act in that the Respondent induced the Reseller not to sell the Respondent’s products at a price less than a price specified by the Respondent within the meaning of s 96(3)(b) of the Act by reason of the following conduct:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "On 11 October 2010, a representative of the Respondent sent two emails to a representative of the Reseller which:",
+     "level": 0
+    },
+    {
+     "label": "(1)",
+     "text": "observed that the Reseller was denigrating its brand by selling it at cheaper prices than other brands in the market;",
+     "level": 1
+    },
+    {
+     "label": "(2)",
+     "text": "attached two spreadsheets which listed recommended trade prices for the Respondent’s products; and",
+     "level": 1
+    },
+    {
+     "label": "(3)",
+     "text": "were intended to induce the Reseller to price the Respondent’s products at the recommended trade prices set out in the two spreadsheets (the October 2010 Contravention).",
+     "level": 1
+    },
+    {
+     "label": "3.",
+     "text": "On and around 7 September 2011, the Respondent engaged in the practice of resale price maintenance within the meaning of s 96(1) of the Act in contravention of s 48 of the Act in that, having regard to s 100 of the Act, the Respondent withheld the supply of goods to the Reseller for the reason that the Reseller had sold, or was likely to sell goods supplied by the Respondent at a price less than a price specified by the Respondent within the meaning of s 96(3)(d)(ii) of the Act by reason of the following conduct:",
+     "level": 0
+    },
+    {
+     "label": "(1)",
+     "text": "on 7 September 2011, a representative of the Respondent, informed representatives of the Reseller in a meeting that the Respondent would be terminating the Reseller’s status as diamond dealer and instead classifying the Reseller as a contractor with the effect that the Reseller would no longer have available to it the level of discounts provided by the Respondent to diamond dealers; and",
+     "level": 1
+    },
+    {
+     "label": "(2)",
+     "text": "a substantial reason for the decision set out in the above sub-paragraphs was that the Reseller had sold the Respondent’s products, or was likely to sell the Respondent’s products, or both, at a price less than the price specified by the Respondent as the price below which the goods were not to be sold (the September 2011 Contravention).",
+     "level": 1
+    },
+    {
+     "label": "",
+     "text": "THE COURT ORDERS BY CONSENT THAT:",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The Respondent pay to the Commonwealth of Australia within 30 days a pecuniary penalty in the sum of $500,000 in respect of the October 2009 Contravention.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The Respondent pay to the Commonwealth of Australia within 30 days a pecuniary penalty in the sum of $500,000 in respect of the October 2010 Contravention.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The Respondent pay to the Commonwealth of Australia within 30 days a pecuniary penalty in the sum of $1,200,000 in respect of the September 2011 Contravention.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The Respondent be restrained, for a period of three years, from:",
+     "level": 0
+    },
+    {
+     "label": "(1)",
+     "text": "inducing, or attempting to induce, a person not to sell, at a price less than a price specified by the Respondent, goods supplied to that person, directly or indirectly, by the Respondent; and",
+     "level": 1
+    },
+    {
+     "label": "(2)",
+     "text": "withholding the supply of goods to a person for the reason that that person has sold, or is likely to sell, goods supplied to that person, directly or indirectly, by the Respondent, at a price less than a price specified by the Respondent as the price below which the goods are not to be sold.",
+     "level": 1
+    },
+    {
+     "label": "8.",
+     "text": "The Respondent pay to the Applicant within 14 days of the date of this order a contribution towards the Applicant’s costs of and incidental to these proceedings in the sum of $50,000.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The Australian Competition and Consumer Commission (the ACCC) and the respondent, Mitsubishi Electric Australia Pty Ltd (MEA) jointly ask the Court to make findings and declaratory orders, and to impose pecuniary penalties, by reason of three contraventions by MEA of s 48 of the Competition and Consumer Act 2010 (Cth) (known until 31 December 2010 as the Trade Practices Act 1974 (Cth)) (the Act)."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The parties have set out the agreed facts that they consider material to the Court’s findings in the Statement of Agreed Facts and Admissions. For the purpose of this proceeding only, pursuant to s 191 of the Evidence Act 1995 (Cth) (Evidence Act) MEA has made the admissions set out in the Statement of Agreed Facts and Admissions."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "There is no real issue as to the applicable legal principles. It is therefore not necessary to refer to them in any detail. Counsel for the parties focussed in their submissions on the principles applicable to the determination of a penalty under s 76 of the Act. I consider that focus was appropriate."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "It has long been accepted that a principal object of a penalty under s 76 of the Act is deterrence (see Trade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091 at 17,896 per Smithers J). In Trade Practices Commission v CSR Ltd [1991] ATPR 41-076 (CSR) at 52,152 French J stated:\nThe principal, and I think probably the only, object of the penalties imposed by s 76 is to attempt to put a price on contravention that is sufficiently high to deter repetition by the contravenor and by others who might be tempted to contravene the Act."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Deterrence has two aspects: specific deterrence in respect of the actual contravener and general deterrence of others “who may be disposed to engage in prohibited conduct of a similar kind”: Trade Practices Commission v Mobil Oil Australia Ltd (1984) 4 FCR 296 at 297-298, per Toohey J. The Full Court in NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 (NW Frozen Foods) made it clear at 294-295 that:\nThe Court should not leave room for any impression of weakness in its resolve to impose penalties sufficient to ensure the deterrence, not only of the parties actually before it, but also of others who might be tempted to think that contravention would pay …"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "In relation to general deterrence, the comments by Pincus J in Trade Practices Commission v Sony (Australia) Pty Ltd [1990] ATPR 41-053 at 51,691 are apposite, concerning the resale price maintenance provisions of the Act:\nWhen one finds deliberate breaches of the price maintenance provisions of the Trade Practices Act … after years of attempts to enforce compliance with these provisions, one can only suspect that the penalties have not been taken very seriously. Their deterrence effect has been insufficient …."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "I accept the submission of the ACCC that deterrence is of paramount importance in the present case. There is a need for a significant level of penalty in respect of resale price maintenance to deter large corporate groups from engaging in such conduct in the future. In this regard, Jacobson J made specific reference to general deterrence in the context of resale price maintenance in Australian Competition and Consumer Commission v Navman Australia Pty Ltd [2007] ATPR 42-208, stating at [135]-[136] that:\nNavman’s changes in ownership and the subsequent sale of its business reduce the significance of specific deterrence. However, general deterrence remains important. A significant penalty is warranted against Navman to deter other suppliers from engaging in this type of conduct.\nThe amount of $1.25 million is a significant sum. But in view of the seriousness of the conduct, it seems to me that it is at the very bottom of the permissible range."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The Full Federal Court has observed that the punishment must be sufficient to avoid it being viewed as an acceptable cost of doing business, stating in Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20 at [62] that:\n… the punishment must be fixed with a view to ensuring that the penalty is not such as to be regarded by that offender or others as an acceptable cost of doing business. The primary judge was right to proceed on the basis that the claims of deterrence in this case were so strong as to warrant a penalty that would upset any calculations of profitability."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Section 76 of the Act provides that the Court should have regard, in determining an appropriate level of penalty, to all relevant matters including the nature and extent of the act or omission and any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under Part IV or Part XIB of the Act to have engaged in any similar conduct."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "A number of principles relevant to the assessment of a pecuniary penalty were identified by French J (as he then was) in CSR at 52,152-52,153. They are:\n(a) the nature and extent of the contravening conduct;\n(b) the amount of loss or damage caused;\n(c) the circumstances in which the conduct took place;\n(d) the size of the contravening company;\n(e) the degree of power it has, as evidenced by its market share and ease of entry into the market;\n(f) the deliberateness of the contravention and the period over which it extended;\n(g) whether the contravention arose out of the conduct of senior management or at a lower level;\n(h) whether the company has a corporate culture conducive to compliance with the Act as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention; and\n(i) whether the company has shown a disposition to cooperate with the authorities responsible for the enforcement of the Act in relation to the contravention."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "At a slightly different level of focus in some respects, the Full Court of the Federal Court in NW Frozen Foods and J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532 said it was also appropriate to consider:\n(j) whether the contravener has engaged in similar conduct in the pasts;\n(k) the effect of the conduct on the functioning of the market and other economic effects of the conduct;\n(l) the financial position of the contravening company; and\n(m) whether the conduct was systematic, deliberate or covert."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "The ACCC and MEA have reached agreement as to the pecuniary penalty to be imposed by the Court for its consideration as being within an appropriate range in all the circumstances."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "Litigation to establish contraventions of Part IV of the Act can be very complex, time consuming and costly. It is in the public interest for litigation under Part IV of the Act (as with other litigation) to be concluded in the shortest time frame that is consistent with justice being done between the parties, freeing the Court and the regulator to deal with other matters. To that end, the Court has looked with favour upon negotiated settlements, provided that their terms recognise that the ultimate responsibility for the terms and making of the orders that resolve the proceedings lies with the Court (see Trade Practices Commission v TNT Australia Pty Ltd [1995] ATPR 41-375; NW Frozen Foods)."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "Provided that the Court is satisfied that the terms of the orders are appropriate, generally it will be in the public interest for judgment to be given on the terms that have been agreed between parties so as to encourage parties to assist the ACCC in its investigations and achieve negotiated settlements. The Court has recognised that, in addition to savings in time and costs, there is a public benefit in imposing agreed pecuniary penalties where appropriate as parties would not be disposed to reach such agreements were there unpredictable risks involved: NW Frozen Foods."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "It is also a relevant general consideration that the public be aware of the manner in which co-operation and assistance by parties is recognised (such as by making joint submissions to the Court for a reduction of penalty) so as to encourage parties in breach to come forward to assist the ACCC in its enforcement activities."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "The principles governing whether a Court should accept a penalty that has been agreed between the ACCC and a respondent were considered in Trade Practices Commission v Allied Mills Industries Pty Ltd (No 5) (1981) 37 ALR 256 by Sheppard J, who stated at 259:\nIt is, of course, true that the penalty has been suggested to me by the agreement of the parties. Uninformed of their agreement, I may have selected a different figure, but I am satisfied that it would not have been very different from theirs. There is from time to time, amongst members of the profession and amongst the public, discussion concerning plea bargaining. Sometimes it is suggested that it involves disreputable conduct. It is my opinion that that is so if it at all implicates the Court in private discussions as to what the Court’s attitude will or would be likely to be if a particular course is taken. In this case nothing of that kind has occurred. The parties have made their own agreement and put it to the Court for approval, not knowing what its attitude was likely to be … This, of course, is not a criminal case; the liability is civil only. But, even in the most serious criminal cases, it is not unusual for the prosecution to accept a plea to a lesser charge, subject always to the approval of the Court. I have said what I have only to explain that the course which the parties have adopted is both proper and not uncommon, even though perhaps novel in the comparatively new field of trade practices.\nSee also NW Frozen Foods at 298-299 and at 291 and Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993 (Mobil Oil)."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "In Mobil Oil at [53], the Full Court of the Federal Court also said that:\n… the views of the regulator on matters within its expertise (such as the ACCC’s views as to the deterrent effect of a proposed penalty in a given market) will usually be given greater weight than its views on more “subjective” matters."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "The essential question for the Court exercising power under s 76 of the Act is thus whether the amount is “within the permissible range” in all the circumstances. This may be approached by the Court either by considering first the proposed penalty and then whether it falls within the permissible range, or by considering first the appropriate range and then determining whether the proposed penalty falls within that range: Mobil Oil at 48,627 [54]."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "INTRODUCTION",
+     "Agreement on Appropriate Penalty"
+    ],
+    "text": "In applying the above principles to the conduct of MEA, and having regard to the factors and circumstances outlined below, the ACCC and MEA submitted that penalties of:\n(1) $500,000 for each of the two instances in 2009 and 2010 of inducing or attempting to induce Mannix Electrical Pty Ltd (Mannix) not to sell at a price less than prices which MEA specified; and\n(2) $1.2 million for withholding the supply of heating, ventilation and air conditioning products (HVAC products) to Mannix in 2011 for the reason that Mannix had sold or was likely to sell HVAC products supplied by MEA at a price less than a price specified by MEA.\nare appropriate and within the range of penalties a Court would order in these circumstances."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "The Statement of Agreed Facts and Admissions pursuant to s 191(3)(a) of the Evidence Act, in my view, provides an appropriate basis for the following findings."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "MEA supplies throughout Australia electrical heating and air conditioning products known as Heating, Ventilation and Air Conditioning products (HVAC products) to dealers, distributors and retailers."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Mannix is a distributor and reseller of electrical products that operates outlets under trading names including Mannix Airconditioning and Airconditioning Warehouse Sales (or AWS)."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "MEA is a wholly owned subsidiary of Mitsubishi Electric Corporation of Japan (MELCO). MELCO achieved consolidated revenue of 3,567.1 billion yen (approximately AUD$36 billion) and income before income taxes of 65.1 billion yen (approximately AUD$663 million) in the financial year ended March 2013."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "MEA is a supplier of HVAC, refrigeration and visual information system products, as well as industrial automation, switchgear and automotive equipment. In the financial year ended 31 March 2009 MEA’s sales revenue was approximately $254 million, for the financial year ended 31 March 2010 it was approximately $264 million and for the financial year ended 31 March 2011 it was approximately $296 million. MEA is one of the top five leading brands of HVAC products within Australia. MEA’s revenue from the sale of HVAC products and estimated HVAC market shares are set out in Confidential Annexure 1. MEA’s sales revenue in the 12 months leading up to the end of October 2009, October 2010 and September 2011 is set out in Confidential Annexure 1."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant period, MEA carried on business in Australia, including in Victoria, South Australia and Queensland, as a supplier of HVAC products to dealers, distributors, resellers and retailers."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant period, Mr Tony Hirst was an Executive Director of MEA and the General Manager of HVAC, MEA. He has been an Executive Director of MEA since October 2007. Throughout the relevant period, he was the most senior manager of MEA’s HVAC division, one of only three Executive Directors of MEA based in Australia and was the direct supervisor of Regional Managers, including Mr Michael Johnson and Mr Kevin James."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the period October 2009 to May 2010, Mr Johnson was the Regional Manager for Victoria, South Australia and Western Australia, HVAC, MEA, and reported directly to Mr Hirst."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the period from May 2011 to September 2011, Mr James was the Regional Manager for Victoria, South Australia and Western Australia, HVAC, MEA and reported directly to Mr Hirst."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant period, Mr Zane Barron was the Regional Manager for New South Wales, Queensland and Northern Territory, HVAC, MEA and reported directly to Mr Hirst."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant period, Mr Scott Petrie was the Sales Manager for South Australia, HVAC, MEA and reported directly to Mr Johnson throughout the period October 2009 to May 2010, Mr Hirst throughout the period May 2010 to May 2011, and Mr James throughout the period May 2011 to September 2011."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant Mr Graham O’Meara was the Sales Manager for Victoria and Tasmania, HVAC, MEA, and Mr Andrew Sutherland was a Sales Executive for Victoria and Tasmania, HVAC, MEA."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Mannix has operated outlets selling electrical goods in South Australia since around 1988."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Mannix commenced operating wholesale distribution centres under the trading name Airconditioning Warehouse Sales (AWS) in South Australia in around November 2002, in Victoria in late 2008, and in Queensland in about 2009. AWS was an on-seller of HVAC products, selling HVAC products to tradespersons who supplied and installed those products for end-use consumers. During the relevant period Mannix operated approximately 15 outlets across Victoria, South Australia and Queensland and was one of the largest HVAC suppliers in South Australia."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the period from July 2008 until September 2011, Mr Alan Larke was employed by Mannix as Group General Manager and Mr Glenn Sax was employed by Mannix as General Manager of AWS."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout the relevant period Mannix sold products that it had purchased from MEA through outlets including its AWS outlets in South Australia, Victoria and Queensland. At this time, Mannix also sold HVAC products purchased from other HVAC suppliers, including Fujitsu, LG and Panasonic."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "In approximately September 2008, Mannix became an MEA “diamond dealer”. Prior to this, MEA had supplied YVAC products to Mannix at “contractor’ pricing and Mannix had resold those products through its various outlets. The effect of Mannix’s appointment as a “diamond dealer” was that Mannix was entitled to purchase MEA products at discounts from the recommended trade prices."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "The discounts available to Mannix as a result of being an MEA “diamond dealer” were set out in Sales Target and Price Agreements (STP Agreements). These agreements were in effect for six month periods and were reviewed at the end of each period. The discount levels Mannix was allowed in the STP Agreements in effect over the relevant period are set out in the Confidential Annexure 1."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "In addition to the discounts set out in STP Agreements, from time to time MEA offered Mannix further discounts which were notified by various means including email."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "INTRODUCTION",
+     "The Facts"
+    ],
+    "text": "Throughout its time as an MEA dealer, Mannix won a number of awards from MEA indicating a level of satisfaction with the relationship between MEA and Mannix."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "INTRODUCTION",
+     "6 October 2009 Contravention"
+    ],
+    "text": "During 2009, Mr Petrie of MEA spoke to employees of Mannix, including Mr Sax and Mr Larke, on a number of occasions regarding the prices at which Mannix stores were selling MEA HVAC products in Victoria and Queensland. During those conversations, Mr Petrie informed Mannix that its prices for MEA HVAC products were too low."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "INTRODUCTION",
+     "6 October 2009 Contravention"
+    ],
+    "text": "On or around 6 October 2009, Mr Johnson of MEA received a complaint from another MEA dealer (who was a competitor of Mannix) about the prices at which Mannix was selling the 7.1kW MEA HVAC product. Mr Johnson sent an email to Mr Petrie asking him to inform Mannix that the price at which Mannix was selling the 7.1kW MEA HVAC product was too low. Mr Petrie spoke to employees of Mannix, including at least Mr Larke to tell them that Mannix’s price for the 7.1kW MEA HVAC product was $200 lower than it should be. He intended to persuade Mannix to increase its price for the 7.1 kW MEA HVAC product by $200. Following his discussion with the employees of Mannix, Mr Petrie sent an email to Mr Johnson which stated:\nThey will make an adjustment.\nI have told them that they are somewhere around $200 off the current market recognised sell price. Of course this has all been of a verbal nature as we cannot be seen to be price fixing ($500K personal fine)."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "INTRODUCTION",
+     "6 October 2009 Contravention"
+    ],
+    "text": "It is a significant communication, signifying Mr Petrie’s awareness of what he was doing and that it contravened s 48 of the Act. MEA admits that the email from Mr Petrie to Mr Johnson confirmed that MEA had informed employees of Mannix that Mannix’s price for the 7.1kW MEA HVAC product was around $200 below the price at which MEA believed that it should be sold; and that MEA had attempted to induce Mannix to increase the price at which it sold the 7.1kW MEA HVAC product to the price specified by MEA."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "INTRODUCTION",
+     "6 October 2009 Contravention"
+    ],
+    "text": "MEA also admits that by that conduct MEA specified a formula by reference to which a specified price may be obtained within the meaning of s 96(4)(c) of the Act."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "INTRODUCTION",
+     "6 October 2009 Contravention"
+    ],
+    "text": "MEA further admits that, by reason of those matters, it engaged in the practice of resale price maintenance by attempting to induce Mannix not to sell at a price less than the price specified by MEA within the meaning of s 96(3)(b) of the Act; and thereby contravened s 48 of the Act."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On 24 March 2010, Mr Larke and Mr Sax of Mannix met with representatives of MEA, including Mr O’Meara and Mr Johnson, at MEA’s offices in Melbourne. At that meeting, MEA told Mannix that there was an issue with Mannix’s prices for MEA HVAC products being too low and expressed a view as to where MEA HVAC products should sit in the market compared with other brands such as LG, Panasonic, Fujitsu and Daikin."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "MEA considers that the quality of its products is above LG and Fujitsu and equivalent to Daikin."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On 31 March 2010, Mr Johnson sent an email to Mr Barron of MEA which was subsequently copied to Mr O’Meara and Mr Petrie of MEA, stating:\nZane, it’s a combination of issues, primarily the current wholesale/trade prices being offered for M/E product by the various dealer and non dealer wholesale outlets, i.e. AirDirect, Australian Air Conditioning Distributors (Coldflow), Air Conditioning Showroom Sales (Mannix), Climat & the Victorian HVAC wholesale outlets Metalflex and Air Plus.\nWe are looking to introduce some stability via the creation of a recommended trade price."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On or about 16 September 2010, Mr Sutherland of MEA travelled to the Mannix store in Deer Park, Victoria to speak with Mr Sax. After locating Mr Sax, Mr Sutherland raised with Mr Sax that certain MEA dealers were concerned about AWS’s aggressive pricing."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On 6 October 2010, Mr O’Meara sent an email to Mr Petrie, copied to persons including Mr Hirst and Mr Sutherland, containing the following text:\nHi Scott\nWe seem to be getting a lot of flack from Mannix offshoot AWS. Please see the attached price list straight off their website. They have our prices Below LG for goodness sake …\nCan you please raise this with Glenn and Alan and ask them why are they need to go to market so low [sic]. It will cause a price war in Melbourne this season if they keep this up."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On 11 October 2010, Mr Petrie sent an email to Mr Sax of Mannix that included the following text:\nGlenn,\nCan you please let me know why Mitsubishi Electric are being sold into the market as the bottom end brand in the market when we clearly hold ourselves up as one of the top 2 brands available in Australia today. I am getting a lot of Flak from our Senior Management on pricing and how our brand is presented into the marketplace.\nThe attached 2 spreadsheets shows our current position in your Victorian offices and SA locations which clearly put us down at the bottom – price wise of the brands being offered into the market …\nI have included on this spreadsheet the RRP prices used by our Retail division for Retail prices and Trade Prices – This may help you to understand our position and give you an idea of where to position yourself.\nOur prices are comparable to our main competition, being that of Daikin.\nMr Petrie’s email did not attach any spreadsheets."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "Later on 11 October 2010, Mr Petrie sent an email to Mr Sax which attached two spreadsheets that set out the recommended retail prices and recommended retail trade prices for seven MEA HVAC products for Victoria and South Australia. This email and Mr Petrie’s earlier email of 11 October 2010 are collectively referred to as the “11 October Email”."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "Following the 11 October Email, Mr Larke of Mannix spoke to Mr Petrie of MEA regarding the contents of the email. During that call, Mr Petrie stated that Mannix was selling MEA products at a price which was too low."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "Following the 11 October Email, Mr Sax of Mannix spoke to Mr Petrie regarding the contents of the email. During that call, Mr Petrie stated that Mannix was selling MEA products at a price which was too low and made reference to special prices at which Mannix was selling MEA products at its Dandenong store."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "Later on 11 October 2010, Mr Petrie sent an email to Mr Sax that included the following text:\nGlenn\nI believe the pricing was offered by the Dandenong branch (someone called Tim)\nHe gave out pricing without flinching offering the standard price first and then suggesting that he can do a special at:\nStandard Price MSZ-GE2S - $758\nStandard Price MSZial at $1,565\nStandard Price MSZ-GE80 at $1,932 – special at $1,892\nPlease do not drop us, Mitsubishi Electric in it, if reprimanding the person involved."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "MEA intended that the 11 October Email would induce Mannix to price MEA HVAC products at prices equivalent to the recommended trade prices set out in the spreadsheets."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "MEA admits that the 11 October Email conveyed that MEA considered that Mannix was denigrating its brand by selling HVAC products at cheaper prices than Mannix was selling other brands in the market. It attached two spreadsheets which listed the recommended trade prices for MEA products. MEA accepts that it was intended to induce Mannix to price MEA HVAC products at the recommended trade prices set out in the spreadsheets."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "On about 12 October 2010, Mr Sax sent a facsimile to each AWS store in Victoria and Queensland which listed revised prices to be charged for MEA HVAC products which were higher than the previous prices and reflected Mannix’s decision to cease promoting MEA HVAC products at discounted prices."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "INTRODUCTION",
+     "11 October 2010 Contravention"
+    ],
+    "text": "MEA admits that by reason of those matters, it engaged in the practice of resale price maintenance within the meaning of s 96(1) of the Act by inducing Mannix not to sell at a price less than the price specified by Mannix within the meaning of s 96(3)(b) of the Act, and thereby contravened s 48 of the Act."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 9 February 2011, Mr Barron of MEA sent an email to Mr Petrie copied to another employee of MEA containing the following text:\nHello Scott\nI need a complete review of the Mannix discount/rebate structure.\nThey have commenced emailing to the trade and are creating a little havoc.\nDon’t worry it is not exclusive to MEA, they have also gone aggressive on Fujitsu.\nI understand the importance of the account to us, however, they have instantly devalued our product in the market by around 10-15%."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "In or about June 2011, MEA offered selected diamond dealers, including Mannix, an additional ten per cent rebate for M-Series (MSZ-GE) models invoiced in July or August 2011 (July/August Special). The rebate was to be paid via adjustment note at the conclusion of the offer."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Following the announcement by MEA of the July/August Special, Mannix decreased its prices for certain HVAC products to some customers by an additional amount of approximately 10%."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On about 5 July 2011, Ms Lynn Hope, the manager of a Mannix outlet in Brisbane, sent an email to a number of Mannix trade customers, some of whom were also customers of MEA. The subject of that email was “URGENT!!!!!! SPECIAL PRICING FORM 1ST jULY UNTIL 31ST jULY 2011”. The email contained a list of “new” pricing for MEA products sold through Mannix."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On or about 14 July 2011, Mr Petrie became aware of the 5 July 2011 email and the discounted prices advertised in the email as a result of MEA receiving a complaint from a competitor of Mannix that Mannix’s prices advertised in the email were too low."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 14 July 2011, Mr Petrie forwarded a copy of Ms Hope’s 5 July 2011 email to Mr Larke and Mr Sax of Mannix. The subject of Mr Petrie’s email was “Queensland Promotion” and it contained the following text:\nGuys\nGreat to catch up yesterday, if only briefly\nCan you please check the attached email and comment."
+   },
+   {
+    "n": 65,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 2 August 2011, Mr Sutherland of MEA sent an email to Mr James of MEA copied to Mr O’Meara containing the following text:\nI have also had customers raising their concerns (even AAD) regarding AWS trade pricing. It would appear they have deducted the extra 10% straight off their sell price, rather than pursue an additional profit opportunity."
+   },
+   {
+    "n": 66,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 3 August 2011, Mr O’Meara sent an email to Mr James and Mr Sutherland containing the following text:\nHi Kevin\nBut why the whole 10% off? And I thought Scott said to Mannix that the extra 10% was for advertising and not to be used off the price?"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 4 August 2011, Mr James sent an email to Mr Petrie with the subject “AWS” and attaching a copy of a Mannix invoice showing the price at which Mannix had sold three MEA HVAC products. The email contained the following text:\nHave a look at the attached – never again!!\nRegards\nKevin James"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Mr James’ email of 4 August 2011 records MEA’s dissatisfaction with the behaviour of Mannix, and its approach to pricing, during a period in which MEA was supplying certain products to selected MEA diamond dealers with an additional 10% rebate off the price. Mr James was concerned about Mannix discounting by the amount of the rebate rather than pursuing an additional profit opportunity and by accepting a promotional support rebate and not promoting the products."
+   },
+   {
+    "n": 69,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "In the circumstances referred to above, Mr Petrie’s intention in his communications with Mannix was to persuade Mannix to increase its prices for the selected MEA HVAC products to a level which was 10% above the prices set out in the trade price list from Mannix’s website, being the prices which Mannix had been charging prior to the announcement of the July/August Special."
+   },
+   {
+    "n": 70,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 9 August 2011, Mr James of MEA met with Mr Sax at MEA’s offices in Notting Hill, Victoria. At that meeting, Mr James gave to Mr Sax a copy of the Mannix invoice that had been attached to Mr James’ email dated 4 August 2011; and a copy of a trade price list from Mannix’s website. He said words to the effect that he believed the margin at which Mannix was selling MEA’s HVAC products was less than the margin Mannix needed to earn in order for its business selling MEA HVAC products to be commercially viable on an ongoing basis and conducted himself in a manner with the intention of giving Mr Sax the impression that Mr James was not happy with Mannix’s approach to pricing and behaviour, including in using as a pricing discount a rebate offered for promotion purposes, and suggested that Mannix adopt a greater marketing focus."
+   },
+   {
+    "n": 71,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 29 August 2011, Mr Larke advised Mr Petrie that Mannix wanted to place an order for around $200,000 worth of stock, but that Mannix would need an extra 30 days payment terms."
+   },
+   {
+    "n": 72,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 29 August 2011, Mr Petrie sent an email to Mr James and Mr Hirst which contained the following text:\nMannix would like to take up the opportunity of placing a $200,000 order of SRAC capturing the 10% additional rebate paid in Sept.\nThey have suggested 2 alternatives for us to consider\n1. $200,000 order placed today for delivery this month to selected stores with an extra 30 days to pay on that one order.\n2. $200,000 order placed in September with additional 10% rebate paid in October.\nThe acronym “SRAC” is used in the industry to refer to split room air-conditioning products."
+   },
+   {
+    "n": 73,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Later on 29 August 2011, Mr James sent an email to Mr Hirst containing the following text:\nNothing was offered to Mannix. Scott has been chasing Alan since early last week to get an August order to take advantage of the 10% and Alan’s response was that Cash was tight and needed either an extra 30 days on an August invoice or take the same deal but with a September invoice.\nWhilst I would love to see another 200 SRAC this month, I think we should be wary. I suggest a call to Scott tomorrow to discuss as he has reservations about the ideas we tossed around on Friday and the Metalflex issue will cause him some trouble elsewhere."
+   },
+   {
+    "n": 74,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On or about 31 August 2011, Mr Larke telephoned Mr Petrie to discuss Mannix’s request of 29 August 2011 and was informed by Mr Petrie that MEA senior managers had rejected Mannix’s request for extended payment terms."
+   },
+   {
+    "n": 75,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 7 September 2011, Mr James and Mr Petrie of MEA met with Mr Darren Mannix and Mr Larke of Mannix at Mannix’s head office in South Australia."
+   },
+   {
+    "n": 76,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "At that meeting, MEA advised Mannix that it would be terminating Mannix’s status as diamond dealer and instead classifying Mannix as a contractor. Mr James of MEA made statements in words to the following effect:\nThe reason that we are here is that we have decided to make some changes to our dealer network, and unfortunately Mannix is not going to be playing a part. We are going to be relinquishing your diamond dealership …\nIt is in Mitsubishi’s best interest, we are restructuring the business to go down different channels. Mannix can still buy Mitsubishi products as a contractor, just not at your dealer prices …\nWe have realised that our biggest dealers are not promoting us as their number one brand, so we are restructuring our dealer network. We will be making this change to Mannix’s stores in SA and Victoria. We’ve also had discussions with Rite Price, and we will be supporting Rite Price as a dealer in its own right moving forward."
+   },
+   {
+    "n": 77,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Throughout the period leading up to 7 September 2011, MEA had regularly supplied HVAC products to Mannix in Victoria, South Australia and Queensland."
+   },
+   {
+    "n": 78,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "The effect of terminating Mannix’s status as diamond dealer and instead classifying Mannix as a contractor was that Mannix would no longer have available to it the discounts offered to diamond dealers."
+   },
+   {
+    "n": 79,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 8 September 2011, Mr James sent an email to employees of MEA including Mr Hirst, which contained the following text:\nBelow is a summary of my visit to Adelaide yesterday.\n…\nMannix\nMet with Alan Lark and Darren Mannix and advised them of our decision to appoint Rite Price and alter the price agreement for Mannix to contractor status. They were understandably upset … They asked for a number of concessions … I did agree to consider the possibility of accepting stock for return and they are to advise me of the quantities etc. Ideally we will be able to have the stock re-sold to Climate and/or Rite Price in the same month as we need to avoid giving Mannix the opportunity to “dump” our products into the market, thereby upsetting the rest of the Dealer network. Alan asked for letter confirming our actions so I will draft something and sent it through for approval.\nWord is rapidly growing through the marketplace of our decision to appoint Rite Price and drop Mannix from the Dealer Group and is being very well received. We are quietly confident that we will see an increase from many of our other Dealers in both SA and VIC as word spreads."
+   },
+   {
+    "n": 80,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On 9 September 2011, Mr James sent an email to employees of MEA, including Mr O’Meara and Mr Hirst, and copying Mr Petrie, which contained the following text:\nWith the very recent upheaval in the SA Dealer group still fresh in our minds, I can understand where Scott is coming from and I too have some reservations about bringing Metalflex on board in SA from October 1 which we understand is the date that Metalflex takeover the SA operations. More than anything else, the problem exists due to the market perception of Metalflex in SA. They have a history of price cutting and there is a lot of bad blood with a number of our customers. Many will construe that we dumped Mannix to take on Metalflex and it’s a case of jumping out of the frying pan and into the fire …\nMetalflex will continue to expand their distribution throughout NSW, WA and QLD so we need to make a decision as to whether or not we want this type of distribution."
+   },
+   {
+    "n": 81,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Later the same day, Mr Petrie sent an email to Mr James copying other MEA employees including Mr O’Meara and Mr Hirst which contained the following text:\nIf we release our products through Metalflex in SA we will look like absolute fools given that we have removed Mannix/Airware sales from our business …"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "These emails record the view of Mr Petrie and Mr James that Metalflex was a discounter and there was therefore a risk that it would discount MEA HVAC products in South Australia in the way that Mannix had done. It also reflects Mr James’ concern that Metalflex was an on-seller and, with minor exceptions, as MEA had just removed itself from that channel in South Australia it would be inconsistent to add an on-selling channel through Metalflex."
+   },
+   {
+    "n": 83,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "On or about 19 September 2011, Mr James of MEA sent a letter to Mr Mannix dated 19 September 2011 which contained the following text:\nWe confirm our decision to re-classify the Mannix and associated trading accounts from Dealer status to Contractor pricing.\nThis decision has been taken as part of the strategic review of our distribution channels …\nThe attached pricing agreement is effective from 1 October 2011. …\nWe confirm that the Queensland and Victorian accounts will be updated to attract the same discounts as per the attached agreement."
+   },
+   {
+    "n": 84,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "The pricing schedule attached to the letter dated 19 September 2011 (19 September Pricing Schedule) sets out various discount levels being discount percentages off the trade price list to apply from 1 October 2011. The reduced discount levels for the HVAC products sold by Mannix are set out in the Confidential Annexure 1 to the Statement of Agreed Facts and Admissions. They are not insubstantial."
+   },
+   {
+    "n": 85,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "Having admitted that conduct, it is perhaps not surprising that MEA also accepts its character as contravening s 48 of the Act."
+   },
+   {
+    "n": 86,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA admits that during the period after 7 September 2011 to at least 31 December 2011 it supplied HVAC products to multiple resellers who operated in one or more of Victoria, South Australia and Queensland at prices which were discounted because those distributors and resellers had “diamond dealer status”. The resellers included Coldflow (including AAD), Rite Price Heating and Cooling, DJK Airconditioning, Snowdonia Airconditioning, Airconditioning Direct, Jadair Electrical, All Seasons Airconditioning, West End Breeze, AFA Airconditioning, Bradmac, Metalflex, Airfour Airconditioning and Climat. It also admits that it refused to sell HVAC products to Mannix after 1 October 2011 on terms equivalent to resellers that had diamond dealer status; and that from 1 October 2011 it would only supply MEA products to Mannix on the terms set out in the 19 September Pricing Schedule, which were less advantageous than the terms offered to resellers with diamond dealer status and therefore, in a comparative sense, disadvantageous to Mannix."
+   },
+   {
+    "n": 87,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA also admits that in light of the discounts available to the MEA dealers who had diamond dealer status, the prices in the 19 September Pricing Schedule at which MEA offered to sell HVAC products to Mannix would make it difficult for Mannix to effectively compete on price with the resellers that had “diamond dealer” status, and made it unlikely that Mannix would continue to stock, or sell, MEA HVAC products."
+   },
+   {
+    "n": 88,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA then admits that Mannix was viewed by MEA and in the industry as a “discounter” in that it aggressively competed with other resellers on price and often sold MEA products at lower prices than other resellers."
+   },
+   {
+    "n": 89,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "It follows that on or shortly before 7 September 2011, MEA made a decision, which was communicated to Mannix on 7 September 2011, that it would terminate Mannix’s status as diamond dealer and instead classify Mannix as a contractor in respect of Mannix’s outlets in at least South Australia and Victoria, and that it made a decision, which was communicated to Mannix on or about 16 September 2011, that it would terminate Mannix’s status as diamond dealer and instead classify Mannix as a contractor in respect of Mannix’s outlets in at least Queensland."
+   },
+   {
+    "n": 90,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "The decision to terminate Mannix’s status as diamond dealer and instead classify Mannix as a contractor in respect of South Australia, Victoria and Queensland was made following complaints being received by MEA from Mannix’s competitors about Mannix’s low prices for HVAC products and a number of communications from MEA to Mannix regarding Mannix’s prices including the communications on 9 August 2011 referred to above."
+   },
+   {
+    "n": 91,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA accepts that one of the reasons for this decision was that Mannix had sold MEA HVAC products at a price less than the price specified by MEA as the price below which its HVAC products were not to be sold."
+   },
+   {
+    "n": 92,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "It is appropriate to note that MEA had other reasons for terminating Mannix’s status as diamond dealer and instead classifying Mannix as a contractor. They included that MEA wished to re-focus the distribution of its products through traditional air-conditioning dealers, such as Rite Price Heating and Cooling, rather than on-sellers, such as AWS; that Mannix had during the period January to September 2011 experienced a decline in its sales of MEA products; that three stores in the Adelaide metropolitan area branded “Rite Price Heating and Cooling” (Rite Price), which had accounted for a significant proportion of Mannix’s sales in that State had left the Mannix Group in around June or July 2011, and that following a review of its distribution network in late August 2011, MEA decided to appoint Rite Price as a diamond dealer in the place of Mannix."
+   },
+   {
+    "n": 93,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "However, the relevant conduct took place in a context where MEA became aware that certain Mannix outlets were decreasing their prices for certain HVAC products by some or all of the additional ten per cent rebate the subject of the July/August Special on a number of occasions during July and August 2011. The fact that Mr Petrie and Mr James, on about 14 July 2011, saw the email sent by Ms Hope on 5 July 2011, that they knew of the concerns raised by MEA customers that are the subject of Mr Sutherland’s email dated 2 August 2011 (which was sent to Mr James and copied to Mr O’Meara), and that the Mannix invoice provided to MEA on or about 4 August 2011 and which is the subject of Mr James’ email to Mr Petrie on that day confirms that awareness. MEA accepts that Mannix was therefore selling HVAC products at a price below the price specified by MEA as the price below which those products were not to be sold."
+   },
+   {
+    "n": 94,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA admits that, following the July/August Special, and the pricing by Mannix, its conduct concerned the advertising of HVAC products for sale at a price less than the price specified by MEA as the price below which those products were not to be advertised for sale within the meaning of s 96(7)(a) of the Act."
+   },
+   {
+    "n": 95,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA further admits that its conduct then involved MEA refusing to supply HVAC products except on terms that were disadvantageous to Mannix within the meaning of s 98(1)(b) of the Act."
+   },
+   {
+    "n": 96,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "MEA also admits that for the purposes of s 100(1) of the Act on and around 7 September 2011, it refused to supply MEA HVAC products to Mannix except on terms that were disadvantageous to Mannix within the meaning of paragraph 98(1)(b) of the Act. During the period immediately before 7 September 2011, MEA had been supplying HVAC products to Mannix; and during the period of six months immediately before 7 September 2011, MEA became aware of the price at which Mannix was advertising and selling, either individually or collectively, a circumstance capable of constituting a reason for withholding supply for the purposes of s 96(3)(d)(ii) of the Act."
+   },
+   {
+    "n": 97,
+    "headings": [
+     "INTRODUCTION",
+     "August/September 2011 Contraventions"
+    ],
+    "text": "The consequence is a significant contravention of the Act. MEA admits that for the purposes of the Act, and having regard to s 100 of the Act, a substantial reason for the decision to terminate Mannix’s status as a diamond dealer and classify Mannix as a contractor was that Mannix had sold MEA HVAC products at a price less than the price specified by MEA as the price below which its HVAC products were not to be sold."
+   },
+   {
+    "n": 98,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "By reason of the matters set out above, including the termination of Mannix’s status as diamond dealer and classification of Mannix as a contractor, MEA engaged in the practice of resale price maintenance within the meaning of s 96(1) of the Act by withholding the supply of HVAC products to Mannix for the reason that Mannix had sold similar products, and was likely to sell those products, at a price less than the price specified by MEA as the price below which those products were not to be sold within the meaning of s 96(3)(d)(ii) of the Act, and thereby contravened s 48 of the Act."
+   },
+   {
+    "n": 99,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "As noted above, there is no dispute about the appropriateness of the proposed declaratory orders. Having regard to the conduct of MEA, there is no doubt in my mind that they are both appropriate and desirable. They declare the fact of the three contraventions in successive selling periods leading up to Christmas in each of three years. They are precisely expressed. The conduct was not accidental. It was not a consequence of any misunderstanding of the law. It was conduct in which the upper level of management of MEA was involved."
+   },
+   {
+    "n": 100,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "For the same reasons, I accept also that the proposed injunctive order is also both appropriate and desirable. The material shows that MEA had a trade practices compliance program. In these instances, extending over three periods in successive years, it did not inhibit its employees from contravening the Act. The contraventions were conscious and deliberate. The awareness of MEA engaging consciously in contravention of the Act appears from Mr Petrie’s internal email of 6 October 2009 to Mr Johnson, the then Regional Manager of MEA. Mr Petrie was directly involved in the contraventions in 2009 and 2011, and in 2011 when the “diamond dealer” status of Mannix was terminated relevant internal communications extended as high within MEA as Mr Hirst. The relevant officers of MEA are no doubt aware that their role in the admitted contraventions might well have exposed them also to significant pecuniary penalties. That has not occurred in this instance."
+   },
+   {
+    "n": 101,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The proposed pecuniary penalties are set out at [19] above."
+   },
+   {
+    "n": 102,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I consider they fall within the range of appropriate pecuniary penalties. Consequently, applying the principles to which I have referred, I will also impose pecuniary penalties in the terms proposed by the ACCC and MEA. I shall explain briefly why I have reached that view."
+   },
+   {
+    "n": 103,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Section 76(1A)(b) of the Act provides that the maximum penalty in respect of a contravention by a corporation of the resale price maintenance provisions is the greater of $10 million, three times the relevant benefit gained from the contravening conduct or, in the event that the relevant benefit cannot be determined, 10% of the turnover of the body corporate during the applicable twelve month “turnover period”."
+   },
+   {
+    "n": 104,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In the present case, the turnover period is the twelve months ending on October 2009, October 2010 and September 2011 respectively. MEA’s turnover during those three turnover periods is set out in Confidential Annexure 1 of the Statement of Agreed Facts and Admissions. In consequence, the maximum penalty for each contravention would be in the range of approximately $25 million to $30 million. Those maximum penalties are applicable because they are greater than the figure of $10 million set out in s 76(1A)(aa)(i) of the Act and it is not reasonably possible to determine the total value of the benefits (if any) that may have been obtained by MEA that are reasonably attributable to the relevant acts."
+   },
+   {
+    "n": 105,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Clearly, it is necessary to have particular regard to deterrence, both general and specific in deciding whether the proposed pecuniary penalties are neither inadequate nor excessive, having regard to all the relevant matters."
+   },
+   {
+    "n": 106,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "MEA deliberately engaged in three episodes of conduct occurring during the lead in to summer, a busy period of the year for HVAC products, in each of three consecutive years, 2009, 2010 and 2011. In the first two years, an objective of those episodes of conduct was to induce Mannix, a reseller that competed vigorously on price, to increase the prices at which it sold MEA HVAC products. Those episodes of conduct were partly driven by complaints from Mannix’s competitors that its prices for HVAC products were too low. I infer that the intended effect of the conduct in each of the first two years was to increase the price at which MEA HVAC products were sold by Mannix."
+   },
+   {
+    "n": 107,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In the third year, MEA terminated Mannix’s diamond dealer status and instead classified Mannix as a contractor which had the effect that MEA reduced the discounts available to Mannix and, as such, Mannix decided to cease supplying MEA HVAC products. While MEA had other reasons for reclassifying Mannix, for the purposes of the Act and having regard to s 100 of the Act, a substantial reason for doing so was because Mannix had sold MEA products at a discounted level."
+   },
+   {
+    "n": 108,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Resale price maintenance is a serious contravention. Finkelstein J noted in Australian Competition and Consumer Commission v Netti Atom Pty Ltd [2007] FCA 1945, at [7] that:\n… Parliament has taken the view that resale price maintenance amounts to serious misconduct. It is a per se contravention under the Trade Practices Act. It is therefore illegal regardless of its effect on competition or its impact on the market."
+   },
+   {
+    "n": 109,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The conduct included withholding supply of HVAC products within the meaning of s 96(3)(d)(ii) of the Act. This type of conduct is considered to be at the serious end of the scale of resale price maintenance conduct because it involved MEA taking action, partly driven by complaints from Mannix’s competitors, to prevent Mannix from acting as an effective competitor in the market."
+   },
+   {
+    "n": 110,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In financial year 2010/11, Mannix purchased HVAC products from MEA for approximately $3.65 million. As a result of the conduct, Mannix lost its diamond dealer status and ceased supplying MEA products. The impact of that decision is not easy to assess as its effects upon Mannix would continue after the conduct occurred. In addition, the market was potentially distorted, both during the relevant conduct and afterwards. The precise nature of any distortion cannot be calculated. I am satisfied on the material that the proposed pecuniary penalties are significantly in excess of any direct detriment by the contravening conduct."
+   },
+   {
+    "n": 111,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "MEA is a company of significant size. It achieved total turnover of $296 million in financial year 2010/11. It currently has 231 employees, and its products are distributed to consumers in all Australian States and Territories by around 1000 dealers, retailers, resellers and contractors."
+   },
+   {
+    "n": 112,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Having regard to MEA’s size and profitability, the proposed pecuniary penalties are high enough to achieve both specific and general deterrence."
+   },
+   {
+    "n": 113,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The conduct involved three episodes of conduct, occurring in three consecutive years, being in October 2009, October 2010 and September 2011. However, it is difficult to place a time bound around the conduct involving the decision to terminate Mannix’s diamond dealer status and instead classify Mannix as a contractor because the impact of such a decision for Mannix is likely to have continued well after it was made. Moreover, the conduct occurred at a busy period of the year for HVAC products – in or around October of each year. MEA’s conduct relevantly occurred at or around the lead in to the busy season in each of 2009, 2010 and 2011."
+   },
+   {
+    "n": 114,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The HVAC market is competitive with a large number of suppliers. While MEA considers itself to be at least one of the five leading brands of HVAC products within Australia, it does not have a large market share."
+   },
+   {
+    "n": 115,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I have noted above that the conduct of MEA was not at a junior level, and in particular the decision to terminate Mannix’s diamond dealer status and instead classify Mannix as a contractor was a decision taken by senior management including an Executive Director and General Manager of MEA."
+   },
+   {
+    "n": 116,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I take into account that throughout the relevant period, MEA had a trade practices compliance training program in place including an online learning program which staff were required to undertake upon commencing employment. MEA has demonstrated to the ACCC a commitment to ongoing review and improvement of its compliance training program, including additional training for employees on resale price maintenance."
+   },
+   {
+    "n": 117,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The Court has not previously found contraventions against MEA in relation to any provision of the Act."
+   },
+   {
+    "n": 118,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "MEA is also entitled to significant credit for its response to the ACCC inquiry. MEA’s response to the notice issued to it pursuant to s 155 of the Act dated 16 March 2012 was provided in at least five tranches over a long time period. However, since that time, MEA has through its legal representatives, participated in a series of discussions with the ACCC to bring an agreed resolution of the matter before the Court. As a result of those discussions, MEA and the ACCC have reached agreement as to the appropriate penalty to be recommended to the Court. MEA also assisted the ACCC in the preparation of the relevant settlement documents including the admissions."
+   },
+   {
+    "n": 119,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The authorities established that MEA is entitled to credit for having co-operated with the ACCC from an early stage in the investigation and for having admitted contravening the Act, and agreeing with the ACCC on the appropriate penalty to put to the Court. Its co-operation with the ACCC has saved the ACCC and the Court (and ultimately the community) the cost and burden of litigating the case."
+   },
+   {
+    "n": 120,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It is obviously of benefit to the ACCC’s investigations that respondents are encouraged to co-operate in appropriate cases. In these circumstances, I have roughly allowed for a discount of 25 per cent on the penalty that otherwise would have been appropriate. It is important that the discount for MEA’s co-operation and MEA’s acknowledgment of liability should be meaningful so that it can be seen that, were it not for its admissions and co-operation, the ACCC would have sought, and the Court may have imposed, a significantly increased penalty if liability was established following a contested trial."
+   },
+   {
+    "n": 121,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The proposed penalty is at the higher end of penalties previously imposed in resale price maintenance cases. It is nevertheless appropriate as MEA is a corporation of significant size and turnover; the conduct was serious and concerned three episodes of conduct occurring over three consecutive years; and the conduct in the third year involved a withholding of supply. MEA’s annual revenues during the conduct were significantly larger than those of the respondents in previous resale price maintenance cases involving similar conduct."
+   },
+   {
+    "n": 122,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In addition, as the submissions point out, the facts of one case should not be compared with the facts of another case in order to derive the appropriate penalty amount. The Court observed in NW Frozen Foods at 295 that penalties in one case are rarely of assistance in later cases."
+   },
+   {
+    "n": 123,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The need for the total penalty to achieve specific and general deterrence, where the size and turnover of MEA is significant and where MEA engaged in three episodes of conduct over three consecutive years, warrants the imposition of a significant penalty in order to satisfy the totality principle."
+   },
+   {
+    "n": 124,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In summary, I am satisfied having regard to the fact that the conduct is a serious case of resale price maintenance, was deliberate and, in the case of the third contravention, involved a withholding of supply to an effective competitor in the relevant markets and involved senior officers of a large corporation, the penalty should be at a level sufficient to deter repetition by both MEA and by other equally large corporations. In my view, the proposed penalties are appropriate in all the circumstances, and take into account the entirety of the conduct."
+   },
+   {
+    "n": 125,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "For those reasons, I will make the orders as agreed."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and twenty-five (125) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Mansfield.",
+ "associate": null,
+ "dated": "2013-12-19",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "34d45aae4be36f87d97905001fb5b54a29cfe3687b5a042438fcf3ccb864eee7",
+ "markdown_file": "data/extracted/2013/2013FCA1413.md"
+}

@@ -1,0 +1,341 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA0933.docx",
+ "metadata": {
+  "citation": "[2012] FCA 933",
+  "name": "Wilson v Microsoft Corporation",
+  "court": "FCA",
+  "year": 2012,
+  "number": 933,
+  "date_of_judgment": "2012-08-27",
+  "file_numbers": [
+   "VID98/2009"
+  ],
+  "judges": [
+   "TRACEY J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Melbourne",
+  "hearing_dates": [
+   "2012-08-27"
+  ],
+  "hearing_raw": "27 August 2012",
+  "number_of_paragraphs": 11,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE– application for further discovery – application for self-executing order in the event of failure to comply with procedural deadline – no self-executing order made as applicant unrepresented – any further failure to comply with orders made may result in proceeding being struck out"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 s 37M"
+  ],
+  "cases_cited": [
+   "AON Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 referred to"
+  ],
+  "parties": [
+   {
+    "name": "ERIC CAMERON WILSON",
+    "role": "Applicant"
+   },
+   {
+    "name": "MICROSOFT PTY LTD",
+    "role": "Cross-Claimant"
+   },
+   {
+    "name": "MICROSOFT CORPORATION",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MICROSOFT AUSTRALIA PTY LTD",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "MICROSOFT US SUBSIDIARY",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "ERIC CAMERON WILSON",
+    "role": "Cross-Respondent"
+   }
+  ],
+  "parties_summary": "ERIC CAMERON WILSON v MICROSOFT CORPORATION, MICROSOFT AUSTRALIA PTY LTD and MICROSOFT US SUBSIDIARY; MICROSOFT PTY LTD; ERIC CAMERON WILSON",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant/Cross-Respondent",
+    "name": "The Applicant was self-represented"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Respondents/Cross-Claimant",
+    "name": "Mr P Creighton-Selvay"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First, Second and Respondents/Cross-Claimant",
+    "name": "King & Wood Mallesons"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0933",
+  "portal_file_numbers": [
+   "VID98/2009"
+  ],
+  "portal_event": "Directions",
+  "portal_event_date": "2012-08-27"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Wilson v Microsoft Corporation [2012] FCA 933"
+  },
+  {
+   "label": "Parties",
+   "value": "ERIC CAMERON WILSON v MICROSOFT CORPORATION, MICROSOFT AUSTRALIA PTY LTD and MICROSOFT US SUBSIDIARY; MICROSOFT PTY LTD; ERIC CAMERON WILSON"
+  },
+  {
+   "label": "File number",
+   "value": "VID 98 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "TRACEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "27 August 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE– application for further discovery – application for self-executing order in the event of failure to comply with procedural deadline – no self-executing order made as applicant unrepresented – any further failure to comply with orders made may result in proceeding being struck out"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 s 37M"
+  },
+  {
+   "label": "Cases cited",
+   "value": "AON Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 referred to"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "27 August 2012"
+  },
+  {
+   "label": "Date of publication of reasons",
+   "value": "31 August 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Melbourne"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "11"
+  },
+  {
+   "label": "Counsel for the Applicant/Cross-Respondent",
+   "value": "The Applicant was self-represented"
+  },
+  {
+   "label": "Counsel for the First, Second and Respondents/Cross-Claimant",
+   "value": "Mr P Creighton-Selvay"
+  },
+  {
+   "label": "Solicitor for the First, Second and Respondents/Cross-Claimant",
+   "value": "King & Wood Mallesons"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID98/2009",
+   "parties": [
+    {
+     "name": "ERIC CAMERON WILSON",
+     "role": "Applicant"
+    },
+    {
+     "name": "MICROSOFT PTY LTD",
+     "role": "Cross-Claimant"
+    },
+    {
+     "name": "MICROSOFT CORPORATION",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MICROSOFT AUSTRALIA PTY LTD",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "MICROSOFT US SUBSIDIARY",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "ERIC CAMERON WILSON",
+     "role": "Cross-Respondent"
+    }
+   ],
+   "judges": [
+    "TRACEY J"
+   ],
+   "date": "2012-08-27",
+   "date_raw": "27 AUGUST 2012",
+   "place": "MELBOURNE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Orders 3, 4, 5, 6 and 7 of the Orders made herein on 10 February 2012 be vacated.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "If they have not already done so the Respondents discover the documents falling within the categories identified in paragraph 12 of the affidavit of the Applicant dated 22 August 2012 on or before 11 September 2012.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "On or before 12 November 2012 the Applicant file and serve:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "his evidence-in-chief; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "an affidavit made by him which states that the evidence filed and served comprises all of the evidence-in-chief on which he proposes to rely at trial.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "In the event that the Applicant does not comply with Order 3, the Respondents have leave to apply for further or other relief.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "If the Applicant files and serves evidence-in-chief which supports only part of his claims, the Respondents have leave to apply for the remaining parts of the claim to be dismissed with costs.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Subject to the Applicant complying with Order 3 above:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "the Respondents file and serve any evidence in reply in relation to the claim, and any evidence-in-chief in relation to the cross-claim on or before 28 January 2013;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the Applicant file and serve any evidence in answer in relation to the claim, and evidence in reply in relation to the cross-claim on or before 28 March 2013;",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the Respondents file and serve any evidence in answer in relation to the cross-claim on or before 9 May 2013.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Each party have liberty to apply to the Court on three days notice.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The directions hearing be adjourned to 10 May 2013 at 9:30 am.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The Applicant pay the Respondents’ costs of this directions hearing, to be taxed if not agreed.",
+     "level": 0
+    }
+   ],
+   "registry": "Victoria",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011"
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "This proceeding was commenced early in 2009. Procedural progress has been glacial. The applicant has yet to file any evidence on which he proposes to rely at trial."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The reasons for the delay are many. They include the fact that, for the most part, the applicant has been unrepresented, the need to rectify inadequate pleadings and failures (mainly on the part of the applicant) to comply with agreed procedural timetables."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "There are presently before the Court applications by the applicant for further discovery and by the respondents for a self-executing order which would bring the proceeding to a conclusion if the applicant fails again to comply with a procedural deadline."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "These applications have been made following a failure by the applicant to comply with a series of procedural orders which I made on 10 February 2012. They required him to file and serve all his evidence-in-chief by way of affidavit on or before 8 June 2012."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The applicant attributed his failure to comply with this order to a number of factors. They included disputes over a confidentiality regime, the alleged failure of the respondents to provide the applicant’s proposed expert witness with a road map to enable him to steer a course through some 10 million files which had been discovered using computer discs and disagreement about the provision of particulars."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The two applications are related. The applicant also attributes his failure to comply with the orders I made in February in part to what he says is inadequate discovery. He should not, he submitted, be prejudiced by the making of a self-executing order in circumstances in which he was unable to comply with the procedural timetable because of a failure by the respondents to meet their discovery obligations."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The senior solicitor who is acting for the respondents has deposed, on instructions, that the respondents have conducted diligent searches for documents and have discovered all relevant documents which the searches have yielded. Counsel for the respondents advised the Court that a responsible officer of the company would depose to this effect on affidavit within a relatively short period. He stressed that much of the delay in complying with earlier orders was unexplained and that the delay was imposing a considerable burden on the respondents. He noted that the applicant had not sought to be relieved of any of the obligations imposed on him by the orders made in February when he had found himself unable to comply with them."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "In order to ensure that the delay in readying the proceeding for trial can be overcome the applicant proposed that he be given until 12 November 2012 to file his evidence-in-chief. He proposed this date on the assumption that there would be further discovery by the respondents and, in particular, discovery of source code which would enable his expert witness more speedily to examine the already discovered material."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "In the light of the respondents’ intimation that no further discovery would be forthcoming I gave the applicant the opportunity of consulting his expert to ensure that the proposed date of 12 November 2012 remained realistic. After an adjournment the applicant advised the Court that the response was equivocal – the expert could not advise as to what a realistic timeframe for filing of expert evidence could be until he had examined the further discovered material."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The applicant did not seek to contend that his evidence-in-chief (other than his expert evidence) could not be filed by the proposed date. I consider that the applicant should be required to file all his evidence in chief by the date which he has proposed. If for good reason, an extension is needed to file his expert evidence, he may apply to vary the filing date before that requirement falls to be met."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "This proceeding has languished for far too long. It must be brought to trial as soon as possible. Having regard to the provisions of s 37M of the Federal Court of Australia Act 1976, to the principles expounded by the High Court in AON Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 and to the matters to which I have adverted I determined to make the foregoing orders. I have not made a self-executing order of the kind sought by the respondents because the applicant is unrepresented and unfamiliar with the practice or procedure of the Court but I stress that any failure to comply with the new deadline for the filing of his evidence in chief may well result in the proceeding being struck out."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eleven (11) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tracey.",
+ "associate": null,
+ "dated": "2012-08-31",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "85914785e48bd4e32b137389385a7aafea49e2c22ea99e3fef8e8da4740b0634",
+ "markdown_file": "data/extracted/2012/2012FCA0933.md"
+}

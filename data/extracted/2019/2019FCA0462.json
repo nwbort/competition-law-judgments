@@ -1,0 +1,647 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2019/2019FCA0462.docx",
+ "metadata": {
+  "citation": "[2019] FCA 462",
+  "name": "Abbott v Zoetis Australia Pty Ltd (No 2)",
+  "court": "FCA",
+  "year": 2019,
+  "number": 462,
+  "date_of_judgment": "2019-04-04",
+  "file_numbers": [
+   "NSD406/2018"
+  ],
+  "judges": [
+   "LEE J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2019-03-14"
+  ],
+  "hearing_raw": "14 March 2019",
+  "last_submissions": "2019-03-20",
+  "number_of_paragraphs": 51,
+  "catchwords": [
+   "REPRESENTATIVE PROCEEDINGS – security for costs in open unfunded class action – principled approach to such applications and the central importance of context including the nature of the litigation – relevance of the characteristics of the group members, including the likelihood of them being willing to provide security – position of group members being entitled to take a passive role in litigation prior to common issues being determined – intrusive and expensive process proposed for interrogating group members prior to any opt-out – although power exists to award security an order should not be made in the exercise of discretion notwithstanding the consideration of prejudice to the respondent"
+  ],
+  "legislation": [
+   "Evidence Act 1995 (Cth) ss 43(1A), 140, 144",
+   "Federal Court of Australia Act 1976 (Cth) Pt IVA, ss 33E, 33J, 33ZB",
+   "Federal Court Rules 2011 (Cth)"
+  ],
+  "cases_cited": [
+   "Acohs Pty Ltd v Ucorp Pty Ltd [2006] FCA 1279; (2006) 155 FCR 181",
+   "Australian Securities and Investments Commission v Richards [2013] FCAFC 89",
+   "Bell Wholesale Co Ltd v Gates Export Corporation (1984) 2 FCR 1",
+   "Bray v F Hoffman-La Roche Ltd [2002] FCA 1405; (2003) ATPR 41-906",
+   "Bray v F Hoffmann-La Roche Ltd [2003] FCAFC 153; (2003) 130 FCR 317",
+   "Capic v Ford Motor Company (No 2) [2016] FCA 1178",
+   "Gill v Ethicon Sàrl (No 2) [2019] FCA 177",
+   "Kelly v Willmott Forests Ltd (in liq) [2012] FCA 1446; (2012) 300 ALR 675",
+   "Madgwick v Kelly [2013] FCAFC 61; (2013) 212 FCR 1",
+   "Merribee Pastoral Industries Pty Limited v Australia and New Zealand Banking Group Limited [1998] HCA 41; (1998) 193 CLR 502",
+   "De Jong v Carnival PLC [2016] NSWSC 347",
+   "Morris v Hanley [2000] NSWSC 957",
+   "Regent Holdings Pty Ltd v State of Victoria [2012] VSCA 221; (2012) 36 VR 424",
+   "Southern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (1985) 1 NSWLR 114",
+   "Australian Law Reform Commission, Grouped Proceedings in the Federal Court, Report 46 (Australian Government Publishing Service, 1998)",
+   "Commonwealth Hansard, Parliamentary Debates, House of Representatives, 26 November 1991, 3299",
+   "V Morabito and N Hatcher, Security for costs in unfunded federal class actions: back to the future (2018) 92 ALJ 105"
+  ],
+  "parties": [
+   {
+    "name": "RACHAEL ABBOTT",
+    "role": "Applicant"
+   },
+   {
+    "name": "ZOETIS AUSTRALIA PTY LTD",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr C Barry QC with Mr J Rowe"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "LHD Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr L Gyles SC with Mr S Fitzpatrick"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Piper Alderman"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0462",
+  "portal_file_numbers": [
+   "NSD406/2018"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2019-04-04"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 406 of 2018"
+  },
+  {
+   "label": "Judge",
+   "value": "LEE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "4 April 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "REPRESENTATIVE PROCEEDINGS – security for costs in open unfunded class action – principled approach to such applications and the central importance of context including the nature of the litigation – relevance of the characteristics of the group members, including the likelihood of them being willing to provide security – position of group members being entitled to take a passive role in litigation prior to common issues being determined – intrusive and expensive process proposed for interrogating group members prior to any opt-out – although power exists to award security an order should not be made in the exercise of discretion notwithstanding the consideration of prejudice to the respondent"
+  },
+  {
+   "label": "Legislation",
+   "value": "Evidence Act 1995 (Cth) ss 43(1A), 140, 144\nFederal Court of Australia Act 1976 (Cth) Pt IVA, ss 33E, 33J, 33ZB\nFederal Court Rules 2011 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Acohs Pty Ltd v Ucorp Pty Ltd [2006] FCA 1279; (2006) 155 FCR 181\nAustralian Securities and Investments Commission v Richards [2013] FCAFC 89\nBell Wholesale Co Ltd v Gates Export Corporation (1984) 2 FCR 1\nBray v F Hoffman-La Roche Ltd [2002] FCA 1405; (2003) ATPR 41-906\nBray v F Hoffmann-La Roche Ltd [2003] FCAFC 153; (2003) 130 FCR 317\nCapic v Ford Motor Company (No 2) [2016] FCA 1178\nGill v Ethicon Sàrl (No 2) [2019] FCA 177\nKelly v Willmott Forests Ltd (in liq) [2012] FCA 1446; (2012) 300 ALR 675\nMadgwick v Kelly [2013] FCAFC 61; (2013) 212 FCR 1\nMerribee Pastoral Industries Pty Limited v Australia and New Zealand Banking Group Limited [1998] HCA 41; (1998) 193 CLR 502\nDe Jong v Carnival PLC [2016] NSWSC 347\nMorris v Hanley [2000] NSWSC 957\nRegent Holdings Pty Ltd v State of Victoria [2012] VSCA 221; (2012) 36 VR 424\nSouthern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (1985) 1 NSWLR 114\nAustralian Law Reform Commission, Grouped Proceedings in the Federal Court, Report 46 (Australian Government Publishing Service, 1998)\nCommonwealth Hansard, Parliamentary Debates, House of Representatives, 26 November 1991, 3299\nV Morabito and N Hatcher, Security for costs in unfunded federal class actions: back to the future (2018) 92 ALJ 105"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "14 March 2019"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "20 March 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "51"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr C Barry QC with Mr J Rowe"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "LHD Lawyers"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr L Gyles SC with Mr S Fitzpatrick"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Piper Alderman"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD406/2018",
+   "parties": [
+    {
+     "name": "RACHAEL ABBOTT",
+     "role": "Applicant"
+    },
+    {
+     "name": "ZOETIS AUSTRALIA PTY LTD",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2019-04-04",
+   "date_raw": "4 April 2019",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondent’s interlocutory application for security for costs be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "If an order for costs is sought in relation to the interlocutory application, then such an application is to be argued and determined at the next case management hearing.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "A Introduction"
+    ],
+    "text": "Class actions come in an array of shapes and sizes. They might be open or closed, funded or unfunded. Group membership may be very limited or exceedingly vast. The individual claims may be modest, or they may be significant. The subject of the claim may be of signal public importance, or no more significant than a joint enterprise seeking to use litigation as a means to make money. The claim may be advanced in the context of a “no costs” jurisdiction, or where “ordinary” costs rules apply. The claims advanced may be dodgy, or they may be dripping in merit. The group members may be the poor and dispossessed, or as rich as Croesus, they may be natural persons, or artificial (or a combination of both).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "A Introduction"
+    ],
+    "text": "Given the heterogeneity of class actions, to speak in definitive and broad terms about how principles of practice and procedure should generally be applied is to court danger. Of course, there are some rules, largely statutory in nature, which necessarily apply to all proceedings, but there is a real danger of elevating statements concerning practice and procedure made in one context into statements of Talmudic significance which must be invariably or uncritically applied. Case management and the application of the practice and procedure provisions of both Part IVA of the Federal Court of Australia Act 1976 (Cth) (Act) and the provisions of the Federal Court Rules 2011 (Cth) (FCR) is a task to be performed on a bespoke basis depending upon the particular facts and circumstances that present themselves. Put another way, care must be taken to “avoid reading judgments on fact specific interlocutory issues of practice and procedure as if they were determinative of precepts and principles of general application”: see Regent Holdings Pty Ltd v State of Victoria [2012] VSCA 221; (2012) 36 VR 424 at 429 [19] (Nettle, Redlich and Osborn JJA); Gill v Ethicon Sàrl (No 2) [2019] FCA 177 at [6] (Lee J).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "A Introduction"
+    ],
+    "text": "This case is a good example of this fallacy. In this application for security for costs, the respondent to the substantive proceeding contends that security must be ordered if the Court is to remain faithful to the application of two Full Court precedents: Bray v F Hoffmann-La Roche Ltd [2003] FCAFC 153; (2003) 130 FCR 317 and Madgwick v Kelly [2013] FCAFC 61; (2013) 212 FCR 1. By way of contrast, the applicant contends that the Court is devoid of power to award security for costs in any class action. For reasons that follow, the true position is that neither approach is correct.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "A Introduction"
+    ],
+    "text": "I do not propose to order security notwithstanding there is power to do so. I will explain my reasons for reaching this conclusion under the following headings:\n• B Security for Costs in Class Actions: The Law\n• C The Hendra Class Action & Findings\n• D The Application\n• E The Exercise of Discretion\n• F Conclusion & Orders",
+    "judge": "LEE J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "The decisions in Bray and Madgwick are controversial among some class action commentators. In a recent article lead-authored by one of Australia’s foremost class action academics, Professor Vince Morabito, it was argued that these two Full Court decisions authorising judges who case-manage class actions to award security for costs against representative applicants (on the expectation that such security can be provided through contributions from group members), undermines the attainment of the desirable goal of encouraging class actions being filed without the necessity of support of commercial litigation funders: see V Morabito and N Hatcher, Security for costs in unfunded federal class actions: back to the future (2018) 92 ALJ 105.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "The authors of the article drew attention to a proposed (but subsequently defeated) amendment to the bill that was eventually enacted as Part IVA, which would have provided an express power to the Court, on the application of the respondent to the proceeding, to order that the applicant or the group members provide security for the costs of the respondent and that the proceedings as against that respondent be stayed until the security is given: Commonwealth Hansard, Parliamentary Debates, House of Representatives, 26 November 1991, 3299. A cri de coeur then followed, expressed in the following terms (at 126):\nThe [proposed amendment]…was one of the many provisions that the Opposition suggested should be added to Pt IVA when the Pt IVA Bill was debated in Parliament. This proposed addition was rejected by the government of the day.\nBut over 25 years later we have a scenario which is similar to what the Opposition sought to achieve, through that provision, to the extent that trial judges can – as a result of two rulings by the Full Federal Court – ask group members to make a contribution to security for costs and can then either stay or dismiss the proceedings if an insufficient amount is collected from group members or declare that non-contributing group members lose their rights to seek legal redress with respect to their individual claims, either within the class action or in any legal proceeding.\nIn this article we have posited that this judicial approach to security for costs applications in class action litigation must be abandoned as it is irreconcilable with the access to justice objective of class action regimes. We have advocated a return to the approach that had been applied by the vast majority of trial judges before 2003 together with the legislative establishment of a class action fund or justice fund. Those two steps will enable a greater number of claimants to secure access to the justice system, decrease the costs of class action litigation and ensure that a greater number of class action respondents can recoup some of their legal costs if they secure a positive result in the litigation.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "There may be some (indeed compelling) force in this criticism, but only if authority required individual judges dealing with applications for security for costs in class actions, to exercise their discretion in some routine way in favour of requiring group members in unfunded class actions to make a contribution, at the risk of those group members losing their entitlement to agitate their individual claims. I do not consider that the rationes decidendi of Bray and Madgwick, properly applied, requires such an approach. To explain why this is so, it is necessary to go into the detail of those cases.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "Bray was a class action alleging a price fixing cartel between vitamin manufacturers. The primary judge dismissed an application for security on evidentiary grounds and also because public policy considerations militated against an order for security because it might impede or hinder group members’ claims (Bray v F Hoffman-La Roche Ltd [2002] FCA 1405; (2003) ATPR 41-906 at 46,522 [72]-[75] (Merkel J)). The Full Court allowed an appeal, holding that the primary judge’s reasoning disclosed two errors of principle which were, with respect, usefully summarised by Morabito and Hatcher (at 107) as follows:\nFirst, in relation to the public policy considerations, Carr J held:\n(a) The applicant was not in a position to fund expensive litigation, and therefore someone else must be funding it. The applicant chose not to adduce evidence of the funder’s identity or their means, and the applicant had the onus to do so.\n(b) Given the applicant’s impecuniosity, there was a question of balancing the immunity in s 43(1A) against the risk of injustice to the respondent. Relevantly, Carr J distinguished between a group member being jointly and severally liable for a substantial costs order at the end of a hearing, and having “the choice of contributing what might be a modest amount” to a pool for security.\n(c) The applicant should have adduced, and the trial judge should have considered, the number of group members involved, the group members’ financial circumstances and whether an order for security might stifle the proceedings.\nSecond, the trial judge erred in finding that there were no circumstances to warrant an order for security against an impecunious representative applicant. Carr J held that the trial judge mistakenly elevated an example of circumstances where security might be ordered, to a condition precedent.\nIn a separate judgment, Finkelstein J substantially agreed with Carr J, finding that there was no overlap between ss 33ZG(c)(v) and 43(1A). His Honour considered that the effect of s 33ZG(c)(v) “is to ensure an application for security is not confronted with any special hurdle based on the type of proceeding in which it is made”, whereas the effect of s 43(1A) is to protect group members in relation to any costs order. Finkelstein J also disagreed with the trial judge’s finding that it would be “incongruous and anomalous” to order security in light of the immunity in s 43(1A). Rather, if it is correct that the two sections operate independently of one another, there can be no incongruity or anomaly. Finkelstein J also explained that the individual financial circumstances of group members may be taken into account. Another relevant consideration, according to his Honour, was who was standing behind (funding) the class representative and, where they act on a no win – no fee basis, plaintiff solicitors may be regarded as standing behind the class representative.\nThe remaining member of the Full Court, Branson J, simply noted that she was “in substantial agreement” with what Carr and Finkelstein JJ had said in their judgments with respect to security for costs.\n(citations omitted)",
+    "judge": "LEE J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "The correct application of Bray then fell for consideration in Madgwick. This class action involved claims by over 3,000 investors who had acquired an interest in the “Willmott Forests” managed investment schemes. Proceedings were brought against the former responsible entities of the schemes, the directors, and also lenders who loaned funds to the investors to invest in the schemes. The primary judge considered that the practical effect of ordering security for costs would be to remove or substantially reduce the costs immunity conferred on group members by s 43(1A) of the Act (Kelly v Willmott Forests Ltd (in liq) [2012] FCA 1446; (2012) 300 ALR 675 at 693 [81] (Murphy J)). Additionally, the financial affairs of a proportion of known group members, being those who were represented by the solicitors for the applicant (who numbered around 400), were available to the Court after a survey of a sample of 50 of those group members was conducted. The primary judge concluded that the group members were “relevantly impecunious” and that they would not be able to meet the adverse costs orders likely to be made in the event that their claims were unsuccessful (at 680 [18], 702-703 [130]–[133]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "The Full Court, (Allsop CJ and Middleton J; Jessup J writing separately), upheld an appeal from the primary judge’s refusal of security. Their Honours held that on the evidence, a positive finding that the proceedings would be “stifled” by an order for security for costs could not be drawn. The Court took a differing view as to the financial affairs of the known group members, Chief Justice Allsop and Middleton J finding that that there was a significant number of known group members with what they described as “significant net assets”. Their Honours went on to explain that (at 19 [77]):\n… (t)his, however, when all is said and done, is a piece of commercial litigation. Investors with sufficient income or assets to protect entered commercial arrangements, many for hoped for taxation advantages. They now seek to engage in commercial litigation to repair perceived wrongs attending the entry into the arrangements. It is not unreasonable to want to understand, in the balancing of the interests of the parties, what has been done, if anything, about commercial funding of the litigation. Without that knowledge, at least in a case such as this, one cannot conclude that the proceedings would be stifled by any order for security.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "Their Honours did, however, make it clear that their comments “should not be taken as advocating that a step such as the retention of litigation funding should always be taken to avoid an order for security” (at 19 [77]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "Further, Allsop CJ and Middleton J, in addressing the primary judge’s statement that an order for security would undermine s 43(1A), considered that the primary judge had not undertaken the balancing exercise mandated in Bray, which required taking into account the risk of injustice to the respondents. It was observed that this “balancing was not undertaken, in part, because of the primary judge’s view that an order would undermine the protection provided for in s 43(1A)” (at 11 [38]-[39], 18 [70]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "In effect, although the Full Court agreed the issue of potential stultification of group member claims was relevant, the onus of proving stultification was not made out on the evidence and while the unwillingness of the group members to contribute to security was relevant, it should not have been, in itself, determinative (at 20 [83]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "It follows that in my respectful opinion, Beech-Jones J was correct to observe in De Jong v Carnival PLC [2016] NSWSC 347 at [26] that Bray, in the wake of Madgwick either is, or has come to be treated as, authority for the five following very broad propositions:\nFirst, that an order for security against the representative party does not affect the immunity conferred by s 43(1A) (Bray at [141] per Carr J; Madgwick v Kelly at [81] and [87] per Allsop CJ and Middleton J and at [141] per Jessup J). Second, the fact that an impecunious plaintiff brings proceedings for the benefit of represented persons may be a significant factor in favour of an order for security (Madgwick v Kelly at [21] to [23] per Allsop CJ and Middleton J). Third, that to obtain an order for security it is not necessary to demonstrate that the representative party had been deliberately selected to shield group members with substantial means for whose benefit the proceedings were brought (Bray at [144] per Carr J; Madgwick v Kelly at [21] to [23] per Allsop CJ and Middleton J). Fourth, that the party resisting security on the basis that it will stultify the proceedings bears the onus of proof of that fact (Bray at [142], [144], [214] and [250]; Madgwick v Kelly at [80] and [87] per Allsop CJ and Middleton J and at [141] per Jessup J). Fifth, that the financial circumstances of group members are relevant to an application for security especially the contention that an order for security would stultify the proceedings (Bray at [142] per Carr J; Madgwick v Kelly at [80] to [88] per Allsop CJ and Middleton J and at [141] per Jessup J).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "Critically, however, context is everything, and nothing in Bray or Madgwick should be seen as delimiting or attenuating the broad discretion the Court has to order, or decline to order, security. It is a discretion to be exercised judicially, having regard to a consideration of the particular facts of the case: Merribee Pastoral Industries Pty Limited v Australia and New Zealand Banking Group Limited [1998] HCA 41; (1998) 193 CLR 502. If they are relevant, the factors that may be taken into account are unrestricted, and the weight to be given to them depends upon the fact’s own intrinsic persuasiveness and its impact on other circumstances which have to be weighed: see Southern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (1985) 1 NSWLR 114; Morris v Hanley [2000] NSWSC 957 at [11]–[21]; Acohs Pty Ltd v Ucorp Pty Ltd [2006] FCA 1279; (2006) 155 FCR 181 at 185-186 [12].",
+    "judge": "LEE J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "A good illustration of the practical application of these principles is provided by the decision of Perram J in Capic v Ford Motor Company (No 2) [2016] FCA 1178. This was a Part IVA proceeding commenced against a motor car company alleging it imported, sold, supplied and distributed vehicles with automatic transmissions that were defective, which were in breach of statutory guarantees and that the company had also engaged in misleading or deceptive conduct. Like the present case, it was an open class action run on a “no-win no-fee” basis, with the class being persons who had purchased the allegedly affected vehicles within a specified timeframe.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "In rejecting an application for security, his Honour noted that the outcome of Bray or Madgwick is that the costs protection for group members “is a relevant matter to be taken into account, but does not necessarily provide a basis for refusing an application for security for costs” (at [12]). His Honour then went on to observe at [14]-[19]:\n… once it is accepted that it is permissible to contemplate that the class as a whole might have to put its hand in its pocket, the question then arises whether requiring it to do so in a particular class action might have the effect of stifling the case. An assessment of that issue arises against a backdrop in which traditionally it has been held that it is the party against whom security is sought who bears the onus of proving that a security order will stifle the litigation. This takes on a more complex hue in a class action because it will not necessarily be easy for such a party to prove what might happen if security is ordered. In many cases there may be difficulties in ascertaining the asset position of class members and their willingness to contribute security if asked. In the Madgwick litigation this eventually led to notices being sent to class members informing them of the security order, asking them to contribute and indicating what might happen if they did not … As events transpired, some did contribute and some did not. The primary judge ultimately removed from the class those who had not contributed, and permitted the security which had been pledged by the remaining class members to be put up. A similar course is observable in the judgment of Beech-Jones J in De Jong v Carnival PLC [2016] NSWSC 347. There notices were sent out to gauge the class members’ willingness to pay.\nObviously enough this is a cumbersome and expensive process. It also gives rise to complex issues about what to do if some class members provide security and some do not. One solution, ultimately deployed in Madgwick, is to remove the free-riders from the class. That sounds fair on its face, but it may be seen to have the somewhat undesirable consequence of removing from the class not only those free-riders who are able but unwilling to pay, but also those who are unable to do so. It is not self-evident that Part IVA of the [Act] was intended to operate to permit the well-resourced to pursue their claims whilst debarring those of lesser means. Indeed, the Attorney-General’s remarks on the introduction of the bill introducing Part IVA rather suggest to the contrary:\nSuch a procedure is needed for two purposes. The first is to provide a real remedy where, although many people are affected and the total amount at issue is significant, each person’s loss is small and not economically viable to recover in individual actions. It will thus give access to the courts to those in the community who have been effectively denied justice because of the high cost of taking action.\nOn the other hand, if the step of ‘de-classing’ a free-rider cannot permissibly be taken (or if permissible, is not in fact taken), one is left with the difficulty of an unequal bearing of the burden between different classes of group member. How that is to be reflected when it comes to distributing any compensation eventually won is a question of some subtlety.\nSuperimposed on top of that problem in relation to those members who are removed from the class (assuming that can be done) is the procedural wrinkle that such a removal can create no issue estoppel or res judicata in favour of the respondent …\nBe this as it may, in cases where it is plain that substantial class members are standing behind a lead applicant, this may provide a sufficient reason to run these various gauntlets. But I do not think in this case that I should proceed on the basis that there are such well-resourced class members standing behind [the applicant]. It is, of course, quite possible that there are [group members with substantial means] using the vehicles in question and they may well ultimately benefit from the litigation. But I see no signs that they are opportunistically sheltering behind [the applicant]’s limited means. Indeed, the fact that the class action is presently unfunded and that [the applicant]’s lawyers are working on a no-win no-fee basis suggests little enthusiasm on the part of any such entity (assuming any exist). An additional reason for discounting their role is the one I have already adverted to, which is the difficulty I see for the litigation if some only of the class puts up security.\nFor those reasons, in this case I do not propose to order security.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "B Security for Costs in Class Actions: The Law"
+    ],
+    "text": "With respect, I agree entirely with his Honour’s observations. Having set out the relevant principles, it is appropriate to come to the circumstances of this class action and explain the exercise of my discretion which leads to the refusal of the respondent’s application.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "This proceeding was commenced a year ago. It relates to the use of an equine vaccine for the Hendra virus. The Hendra virus owes its name to the fact it was discovered following an outbreak of illness in a large horseracing stable in the suburb of Hendra in Brisbane in 1994. It has apparently killed at least 77 horses and four people in Australia (Exhibit A at [2.1]-[2.4]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "The vaccine was distributed by the respondent and was developed by a predecessor company, in conjunction with, among others, the Commonwealth Scientific and Industrial Research Organisation. The applicant is the owner of horses vaccinated with the vaccine. She alleges that her horses suffered serious side effects which caused them to lose value and become unsuitable for use in her occupation as a stockwoman. In a representative capacity, she brings the claim on behalf of an open class being other horse owners whose horses have allegedly suffered side effects from the use of the vaccine.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "It is fair to say the interlocutory progression of the claim has been lamentable. To use an equine analogy, this case would not be looked upon as the Winx of class actions. Remarkably, nine iterations of the statement of claim have been served on the respondent (two of which have been filed with the Court). A tenth version of an amended pleading is to be served by the applicant shortly. The respondent is yet to file a defence to any allegation made against it, but submits that it will “vigorously defend” the claims made. Vigorously or otherwise, assuming pleading issues are resolved, the proceeding will likely be contested and will occasion significant legal costs until it is resolved either by a paction (subject to approval by the Court) or determined at a hearing or hearings. Having reached the view that a case is prima facie arguable and can be pleaded, more than once, I have entreated those acting for the applicant to undertake a “root and branch” review of the defective pleading. Hitherto this course seems to have met some resistance, perhaps reflecting a comment made almost a year ago, when Senior Counsel for the applicant said he had “never seen, in 40 years, a case where the pleadings actually make a lot of difference” (Transcript, 19 April 2017, T2.25). I confess my experience is different and the time has now long past for the pleading to undertake its basic function, that is, providing procedural fairness to the respondent and setting out, in comprehensible terms, the material facts relied upon in the individual case of the applicant and pleading, at a high level of generality, the claims of group members.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "It is not in dispute that the applicant does not have the financial capacity to provide security for the respondent’s costs. There is no suggestion whatsoever that the applicant has been chosen because she is impecunious or there are substantial class members standing behind the applicant opportunistically.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "As to the nature of the claims for damages, the claim particularised on behalf of group members is as follows:\nDamages for economic loss caused by the death or sickness of their horses including veterinarian expenses, the loss or diminution in the value of the animals and any consequential losses occasioned as a result of the injury or death of the animals as income producing chattels caused by the product [that is, the vaccine].",
+    "judge": "LEE J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "The applicant asserts that as a result of the injection of the vaccine into her two horses she suffered damage being: (a) a reduction in value of the horses from $46,000 to whatever is their current value given that they cannot be sold; (b) miscellaneous costs of $2,286.36; and (c) a claim for loss of income in an amount of $43,389. It is difficult to be accurate about the total worth of other individual claims and the combined worth of the class action without undertaking the expensive task of interrogating group members, but given the nature of the class composition, leaving aside outliers where a damaged horse had a special value, it seems to me unlikely that many group members would have substantial claims for loss of income. Accordingly, although the overall claim might be significant if liability was established, it is more probable than not that the vast bulk of individual claims would be modest in comparison to the sort of financial claims that would justify individual litigation in a product liability case. This conclusion, which accords with commonsense, also accords with the evidence (limited to the belief of the solicitor for the applicant and 24 group members) of Mr Hyland, who says he believes that claims will be modest in value and relate to the value of a horse allegedly adversely affected; that most claims will be made by individuals; that some claims may be made in relation to valuable horses and some claims could conceivably be made by corporations (but to date he is not aware of any claims other than as made by individuals). The evidence establishes that to the date of the hearing of the interlocutory application, approximately 118 claimants have “registered” their interest in the representative action and it is estimated that there are approximately 500 to 800 group members (although one is unable to be anything like precise about this figure).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "As to legal representation and the way in which the case is being conducted, the applicant’s solicitors are conducting the case on a “no-win no-fee” basis. The unchallenged evidence of Mr Hyland was that both prior to and following the commencement, the applicant’s solicitors were unsuccessful in their attempts to obtain litigation funding, notwithstanding discussions with well-known litigation funders, including: Litigation Funding Solutions, Harbour Litigation Funding, Just Capital and Vannin Capital. The conclusion I would draw is that this arguable but potentially legally and factually complex case is unattractive to litigation funders (an unsurprising conclusion to anyone with an understanding of the usual criteria which drive funding decisions).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "C The Hendra Class Action & Findings"
+    ],
+    "text": "Given the maladroit way the case has been pleaded to date, and its consequent molasses-like progress, the already dim prospects of funding have, I suspect, now faded to black. The only practical and realistic way in which the applicant and group members can run the class action is obtaining legal representatives who are prepared to act on a speculative basis in the time honoured tradition of the common law bar.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "D The Application"
+    ],
+    "text": "The application of the respondent morphed somewhat from the relief that had initially been identified in the interlocutory application dated 13 June 2018. At the commencement of oral argument, the primary relief sought was an order that security be provided in an amount and a form to be determined by the Court following further argument. Eventually, the amount sought by way of security was identified on 20 March 2019 as a total amount of $450,000 (being 20% of the respondent’s solicitor’s estimate of costs of the entire proceeding). This was subject to the qualification that further security might be sought if litigation funding was obtained, or if there was a significant change in the conduct of the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "D The Application"
+    ],
+    "text": "In the alternative, the respondent sought relief in terms of prayers 1-4 in the interlocutory application which had been initially described as “Preliminary Relief”. The Preliminary Relief related to the collection of information concerning the financial capacity of group members to contribute to an amount to be provided as security and was in the following form:\n1 An order that the draft Notice and Questionnaire directed to known class members (Notice and Questionnaire), along with a short form of the Notice (short form Notice), copies of which are annexed to these Orders and marked “A” and “B” respectively are approved for distribution and publication in accordance with Order 2.\n2. An order that by a date to be fixed by the Court, the Applicant cause (at her expense):\n2.1 the Notice and Questionnaire annexed to these to these (sic) Orders and marked with the letter “A” be sent by pre-paid ordinary post to known class members;\n2.2 the Notice and Questionnaire annexed to these to these (sic) Orders and marked with the letter “A” be displayed on the website of LHD Lawyers and remain so displayed until a date to be fixed by the Court;\n2.3 the publication of the short form Notice annexed to these Orders and marked with the letter “B” in the legal notices or equivalent section of ‘The Australian’ and the ‘Australian Financial Review’ newspapers, notifying potential class members that the Notice and Questionnaire are available for download on the website of LHD Lawyers.\n3. An order that by a date to be fixed by the Court, the Applicant file and serve an affidavit annexing any and all responses received from class members to the Questionnaire.\n4. An order that this Application be relisted on a date to be fixed by the Court for further hearing.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "D The Application"
+    ],
+    "text": "The questionnaire itself merits reproduction. It was as follows:\nSECURITY FOR COSTS QUESTIONNAIRE\n(for completion by all affected group members)\nWe ask that you answer the following questions. All of your answers will be kept confidential and will only be used for the purpose of assisting the Federal Court.\nThe Federal Court has directed us to request your response within XX days.\nPLEASE RETURN THIS FORM TO LHD LAWYERS BY XXXX 2018\nPlease answer the following questions:\n1. Details\nI am a:\nIndividual\nCorporation\nPartnership\nOther cooperative\nOther organisational structure\nName of group member:\nContact address for group member:\nEmail for class member:\n2. Financial Circumstances\nTotal Assets:\nTotal Liabilities:\nMonthly Net Income:\nMonthly Expenses:\nNumber of dependants:\n3. Horse details\nNumber of horses said to have been affected:\nPrice paid for horse(s)(where applicable):\nUse of horse: competition (if so, what); farm use; breeding (if so, for what purpose); racing; trail riding/teaching; pleasure/social; other (if so, what):\nExpenses related to claimed side effects diagnosis and treatment (eg vet bills) (in dollars):\nI acknowledge the information I have provided is true and correct.\nSignature:\nName: Date:\nPlease send the completed questionnaire to the following address:\nLHD Lawyers\nAttention: Michael Hyland\nLevel 8/151 Castlereagh St\nSydney NSW 2000\nEmail: mhgroup@lhd.com.au",
+    "judge": "LEE J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "D The Application"
+    ],
+    "text": "As can be seen, the proposed questionnaire process amounts to the administering of detailed interrogatories against non-parties, including as to their private financial information. I will come to this alternative relief in Section E.2 below, after first considering the primary orders sought.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "I accept the submissions of the respondent that an order for security made against Ms Abbott does not directly affect the costs immunity conferred by s 43(1A) of the Act in relation to group members. I also accept the following submissions advanced by the respondent:\nthe class action although arguable and brought bona fide, has thus far has been pleaded and prosecuted in a substandard fashion which has not promoted the overarching purpose (see [21] above);\nthat Ms Abbott is an impecunious applicant and that without an order for security the respondent is unlikely to be able to recover their costs from the applicant should it be successful in resisting the claim advanced at the initial trial;\nthat although I have found that the applicant has not been deliberately selected because of her impecuniosity by group members with substantial means, this fact is not determinative of the application for security;\nthat in accordance with the dictates in Bray, I am required to take into account the real and not insignificant risk of injustice to the respondent which arises in the present circumstances;\nthat the evidentiary and persuasive onus of proving that an order for security would stultify the class action rests upon Ms Abbott;\nthat I cannot conclude on the basis of the evidence adduced by the applicant that all group members would not agree to provide some security; and\nthat it is more probable than not that at least some of the group members are likely to have sufficient assets in order to raise the security sought.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Having accepted these submissions, these factors, although all relevant and fully taken into account by me, are only part of the discretionary mix. Other factors also assume importance.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "First, like in Madgwick, the nature of the claim advanced in this class action is highly relevant. This proceeding is precisely the sort of case contemplated by the Australia Law Reform Commission when it produced its landmark report, Grouped Proceedings in the Federal Court, Report 46 (Australian Government Publishing Service, 1998) at 165. This report, published prior to the development of the modern market of litigation funding, contemplated that the proposed legislative scheme would provide an effective mechanism for persons with small or relatively modest claims to obtain access to justice. The class action procedure was seen as a mechanism to allow small or modest claims to be “bundled together” (at 45 [94], 49 [106]). An obvious example of the type of case which could employ such a procedure was mass torts or product liability cases where there were likely to be a small number of complex common issues, the determination of which, was critical for a large number of small or modest claims. The current proceeding, if properly advanced, is an exemplar of such a case.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Secondly, the applicant and almost all the group members are likely to be individuals normally resident in Australia, are suing for their own benefit and, given the nature of the claims made by the individuals, the respondent could not realistically expect to obtain an order for security in an individual case brought by such claimants. Although power to award security exists, it strikes me as intuitively odd that the applicant should somehow be in a worse position with regard to security because the applicant has taken the step of adopting a procedure which, at least in theory, makes the prosecution of claims feasible and should cause them to be advanced in a way that best promotes the overarching purpose, being the just resolution of the disputes (being all claims against the respondent) according to law and as quickly, inexpensively and efficiently as possible.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Thirdly, a further relevant contextual matter is the role of group members in Part IVA proceedings generally and in a case such as this in particular. Subject to presently irrelevant exceptions, group proceedings can be commenced without the group members’ consent (or without them even knowing a proceeding has been commenced): see s 33E of the Act. Moreover, a particular feature of the statutory scheme is that group members (even where group members have taken a conscious step to be involved in the proceeding by registration or retaining a solicitor), are generally entitled to play a passive role while the claims of the applicant and common issues are determined. This is why, as a general proposition, group member discovery or procuring information from group members prior to an initial trial (except in the context of a Court ordered mediation of all claims) is not allowed. As the Victorian Court of Appeal (Bongiorno and Harper JJA and Bell AJA) noted in National Australia Bank Ltd v Pathway Investments Pty Ltd [2012] VSCA 168; (2012) 265 FLR 247 at 257-258 [49]-[50], 275 [125]:\n…group members are entitled to expect that, in the usual course, the plaintiffs will be responsible for the carriage of the proceeding and group members will not be required to participate as a party or be subject to orders for discovery.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Fourthly, the stage at which the provision of security is proposed is relevant, being close to the commencement of the proceeding and prior to the group members being given an informed choice to opt-out which I would order, in the ordinary course, after a close of pleadings and evidence being served. The final group membership will not be known until after opt-out, a statutory right enjoyed by all persons who have been described by the group definition. The persons from whom the respondent would seek to procure contribution to security may not even be group members following opt-out pursuant to s 33J of the Act. The flippant answer to this concern might be to say that the group member can always opt-out rather than provide security, but they should not be required to make a choice to opt-out by a date earlier than one I would have otherwise fixed if I was guided only by usual case management imperatives.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Fifthly, in this case, an award of security will cause complications (and not only to group members). Given that I think it highly likely that a very large proportion of group members being individuals with modest claims are likely to decline to provide any security to advance a case, the conduct of which they will not control, and on the further assumption (favourable to the respondent) adequate security is provided by others, it will be necessary to deal with “free riders”. On this premise, the most obvious solution seems to be the exclusion of those non-contributing group members from participation. Not only would this have deleterious consequences for access to justice for these persons with claims (a barrier Part IVA was designed to overcome), but it would also undermine the respondent having the benefit of s 33ZB orders which would allow it, if it was successful on the common issues, to have a statutory estoppel running against those excluded group members. The only apparent alternative would be a complicated assessment requiring some form of contribution by those group members who declined to provide security to the costs of those that did. That would be an uncertain exercise and indeed it could create real complications in negotiating a non-curial resolution of the matter.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Sixthly, although I do not consider that the applicant has discharged its burden of proving, in accordance with s 140(1) of the Evidence Act 1995 (Cth) stultification will necessarily occur (as that concept has been understood in the authorities), it would be a mistake, in the context of a class action such as the present, to consider that this is determinative. I accept the Full Court explained in Bell Wholesale Co Ltd v Gates Export Corporation (1984) 2 FCR 1 at 4 that:\n… a court is not justified in declining to order security on the ground that to do so will frustrate the litigation unless a company in the position of the appellant here establishes that those who stand behind it and who will benefit from the litigation if it is successful (whether they be shareholder or creditors or, as in this case, beneficiaries under a trust) are also without means. It is not for the party seeking security to raise the matter; it is an essential part of the case of a company seeking to resist an order for security on the ground that the granting of security will frustrate the litigation to raise the issue of the impecuniosity of those whom the litigation will benefit and to prove the necessary facts.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "But if one was to apply this principle indiscriminately to Part IVA proceedings, then strictly speaking, the only true way of proving stultification with certitude in an open class proceeding would be to prove that no group member had assets sufficient to proffer security or that no group member, with such assets, would pledge them. Whatever be the case in the different context of unfunded closed classes or unfunded commercial class actions, to place that burden on an applicant in an unfunded mass tort or product liability open class action such as the present, would necessarily require a costly and time consuming interrogation of the financial position of a very large number of group members – most of whom, no doubt, have no other connexion with the applicant other than the happenstance of being named as group members (and hence being someone who may benefit from a positive determination in relation to the common questions). To contend that current authority developed in the context of ordinary, inter partes litigation requires such an approach, ignores, or at least diminishes: the breadth of the discretion exercised in security applications; the unusual nature of open class Part IVA proceedings; and the concern of the Court expressed in Madgwick (at 19 [77]) that the Court’s approach in that case should not be taken as advocating that litigation funding should be put in place to avoid an order for security.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Seventhly, and connected to the last point, there is the broader desirable policy outcome of not putting in place obstacles to the ability of applicants to run Part IVA proceedings in a cost effective way by “self-funding”. This is not to downplay the relevance of possible injustice to respondent, but reflects the reality that providing protection against adverse costs and the provision of security has driven the funding market for litigation. Safeguarding against adverse costs and the provision of security can be addressed by litigation funding in a form that has now become common; it could also be addressed by solicitors for class action applicants as part of the basis upon which they would be allowed to charge contingency fees (as recently recommended, as Recommendations 17 and 18, by the Australian Law Reform Commission in its report, Integrity, Fairness and Efficiency—An Inquiry into Class Action Proceedings and Third-Party Litigation Funders (ALRC Report 134) at 205). Experience points to the fact that both forms of “funding” may be accompanied by “After-the-Event” (ATE) insurance, but irrespective of such insurance, the derivation of the benefit from funding litigation in this way, will be accompanied by the concomitant burden of providing protection against adverse costs and provision of security. What is evident is that each of these models involves substantial costs visited, in whole or part, on group members, directly or indirectly, and involves third parties making a profit by the use of public processes of the Court. There is no a priori difficulty with these models properly employed, but the unthinking application of principles developed in a different type of litigation which have the effect of requiring group members to, in effect, put up security, could inadvertently serve to undermine the ability of self-funding of open class actions to develop as an option. The Full Court (Jacobson, Middleton and Gordon JJ) in Australian Securities and Investments Commission v Richards [2013] FCAFC 89 at [53] has explicitly recognised that self-funding of class actions should be perceived as “an important alternative to commercial litigation funders and should, to the extent possible, be encouraged”.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "I noted above that I did not think stultification per se was established by Ms Abbott, but that is not the same thing as saying that I am convinced it would not occur. As noted above, it seems to me commonsense to conclude that it is highly likely that a very large proportion of group members will decline to provide any security, and it is open to real doubt that any group member would consider funding the case. My strong suspicion is that the case will probably not find a group member benefactor or benefactors, but suspicion is not proof. But for reasons I have explained, I do not consider that this conclusion means I should automatically order security.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "For the purpose of clarity, I should note that in determining whether I consider it is likely that a very large proportion of group members would decline to provide any security, I have not taken into account the evidence as to a “survey” undertaken on behalf of Ms Abbott. I should explain why this is so. A solicitor for Ms Abbott deposed to telephoning what was described as “a sample of group member clients” in February 2019 to determine their willingness to remain in the class action in the event that the security for costs application was successful. This involved a teleconference with seven group members who were clients of the solicitors for the applicant. Privilege was expressly waived in relation to these communications. At the commencement of each of the teleconferences, the solicitor deposed to speaking the following words:\nWe are acting for you on a no win no pay basis.\nThe class action is unfunded by a litigation funder.\nIt is our view that in these circumstances under the legislation a Court should not make an order for security for costs. However, there are precedents in the Court for requiring group members to contribute to a security for costs order. Those cases involve group members who have made a commercial commitment to avoid tax that has failed. Nevertheless, in one case, the Court has made an order, wrongly in our view, ordering security for costs and contribution by group members. The obvious result foreseen in earlier cases was that the group members were not prepared to contribute and the case failed thereby defeating the purpose of the class action procedure of giving persons who would otherwise not have access to justice a forum.\nIn the Hendra Case the respondent has made application for Security for Costs. The Court has indicated that it wishes to revisit the earlier cases supporting such an application in unfunded class actions. It is our view that there is a great concern in the Court about the current state of the law on this matter.\nWe have prepared extensive submissions to support the proposition that security for costs orders should never be made in unfunded class actions and it is illegal to do so. As part of the process the Judge has given us to 28 February 2019 to put on any evidence we may wish. We have decided to ask a number of group member clients with us the following question and provide the response to the Court as evidence supporting our submissions:\nQ. If you were required to provide money for security for costs would you\n1. reconsider continuing as a group member; or\n2. cease being a group member; or\n3. contribute to the security?",
+    "judge": "LEE J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Entirely unsurprisingly, in the light of the contentious and loaded introductory remarks, six of the seven group members indicated that they would reconsider being a group member and/or would not provide security. One group member indicated that her mother-in-law had recently passed away and that if she had to provide security, she thought her husband would provide her with “his share of the estate”. One does not need to be a trained statistician to note that the sampling is entirely unscientific and the responses, given the introductory remarks, would not have been unexpected.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Notwithstanding the lack of worth of this evidence, as noted above, I am satisfied that if I was to order security for $450,000, to the extent that any group members were prepared to put up security, an eventuality that is far from assured, it would only be a very small proportion of group members.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.1 The Primary Relief"
+    ],
+    "text": "Given the matters I have identified and after having specifically taken into account the real and not insignificant risk of injustice to the respondent and the other submissions made on behalf of the respondent, including all those I accept at [31] above, I consider that the principled exercise of discretion is to decline to order security.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.2 The Alternative Relief"
+    ],
+    "text": "I now explain why I have decided the issue of principle without granting the respondent the alternative relief it seeks.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.2 The Alternative Relief"
+    ],
+    "text": "I have already said enough to reject the proposition asserted, at a high level of generality, that Bray or Madgwick somehow requires a necessity to obtain information in a certain form from group members in circumstances where the applicant is impecunious. The proposed questionnaire process, which in effect amounts to the administering of detailed interrogatories to non-parties, including as to their private financial information, must be seen in context of the reality that if information was swept up as requested from an open class of current group members, it is tolerably clear what the result would be. I trust it is not unduly pressing the bounds of s 144(1)(a) of the Evidence Act, to conclude that it is not reasonably open to question that if one was to obtain responses from 500 to 800 group members, then it would be possible to discover sufficient unencumbered assets of a combined value well in excess of $450,000.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.2 The Alternative Relief"
+    ],
+    "text": "As would already be obvious, the above relief, including the requirement the questionnaire be sent to group members and published in national newspapers, was sought on the basis that both Bray and Madgwick are authority for the proposition that in circumstances where the applicant is impecunious, a determination of whether security will be ordered and, in particular, an order for security will stifle the proceeding, requires consideration of the characteristics and financial circumstances of group members. The respondent submits that such consideration “is to be based on information obtained from class members (for example, by survey) as to their capacity and willingness to contribute to a fund to meet any order for security made against the representative party”.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "E The Exercise of Discretion",
+     "E.2 The Alternative Relief"
+    ],
+    "text": "Like Perram J in Capic, it seems to me, in the context of this open unfunded class action, given it is not apparent that there are likely to be substantial class members standing behind the applicant opportunistically, the sort of intrusive, expensive and detailed enquiry sought by the respondent directed to non-parties should not go ahead. Particularly, when I consider it likely that it will lead to no conclusion other than group members collectively have sufficient unencumbered assets of a combined value of well in excess of the amount of security sought.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "F Conclusion & Orders"
+    ],
+    "text": "For the reasons I have explained, the appropriate course is to dismiss the whole of the interlocutory application.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "F Conclusion & Orders"
+    ],
+    "text": "I have not heard from the parties in relation to the question of costs. If an order for costs is sought, then such an application can be advanced orally at the next case management hearing when issues including finalisation of the pleading issues and orders providing for the future of the interlocutory progress of the proceeding, can be determined.",
+    "judge": "LEE J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-one (51) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lee.",
+ "associate": null,
+ "dated": "2019-04-04",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "10fd57238754e7033ca31044512af6cf9a43613516995dc2c25dba9db87bec0a",
+ "markdown_file": "data/extracted/2019/2019FCA0462.md"
+}

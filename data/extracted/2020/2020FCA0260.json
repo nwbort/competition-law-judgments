@@ -1,0 +1,427 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2020/2020FCA0260.docx",
+ "metadata": {
+  "citation": "[2020] FCA 260",
+  "name": "Mayfield Development Corporation Pty Ltd v NSW Ports Operations Hold Co Pty Ltd",
+  "court": "FCA",
+  "year": 2020,
+  "number": 260,
+  "date_of_judgment": "2020-03-05",
+  "file_numbers": [
+   "NSD862/2019"
+  ],
+  "judges": [
+   "JAGOT J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2020-02-26"
+  ],
+  "hearing_raw": "26 February 2020",
+  "number_of_paragraphs": 25,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Part VB of the Federal Court of Australia Act 1976 (Cth) – applicant seeking to lift a stay on proceedings – where stay ordered by consent – principles relevant under s 37M of the Federal Court of Australia Act 1976 (Cth) – “overarching purpose of civil litigation practice and procedures” – where the respondent is a party to parallel proceedings – consideration of s 83 of the Competition and Consumer Act 2010 (Cth) – whether material circumstances have changed – where the applicant has now obtained litigation funding – stay maintained – interlocutory application to lift stay dismissed"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 83",
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Federal Court Rules 2011 (Cth) r 30.11"
+  ],
+  "parties": [
+   {
+    "name": "MAYFIELD DEVELOPMENT CORPORATION PTY LTD ACN 154 495 048",
+    "role": "Applicant"
+   },
+   {
+    "name": "NSW PORT OPERATIONS HOLD CO PTY LTD ACN 163 262 351",
+    "role": "First Respondent"
+   },
+   {
+    "name": "PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr M Scott QC with Mr K Stellios"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Holding Redlich"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Dr RCA Higgins SC with Mr B Lim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Gilbert + Tobin"
+   },
+   {
+    "role": "counsel",
+    "for": "Interested Person (Australian Competition and Consumer Commission)",
+    "name": "Mr RA Yezerski"
+   },
+   {
+    "role": "counsel",
+    "for": "Interested Person (State of New South Wales)",
+    "name": "Mr IJM Ahmed"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca0260",
+  "portal_file_numbers": [
+   "NSD862/2019"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2020-03-05"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 862 of 2019"
+  },
+  {
+   "label": "Judge",
+   "value": "JAGOT J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "5 March 2020"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Part VB of the Federal Court of Australia Act 1976 (Cth) – applicant seeking to lift a stay on proceedings – where stay ordered by consent – principles relevant under s 37M of the Federal Court of Australia Act 1976 (Cth) – “overarching purpose of civil litigation practice and procedures” – where the respondent is a party to parallel proceedings – consideration of s 83 of the Competition and Consumer Act 2010 (Cth) – whether material circumstances have changed – where the applicant has now obtained litigation funding – stay maintained – interlocutory application to lift stay dismissed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 83\nFederal Court of Australia Act 1976 (Cth) s 37M\nFederal Court Rules 2011 (Cth) r 30.11"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "26 February 2020"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "25"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr M Scott QC with Mr K Stellios"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Holding Redlich"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Dr RCA Higgins SC with Mr B Lim"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Gilbert + Tobin"
+  },
+  {
+   "label": "Counsel for Interested Person (Australian Competition and Consumer Commission)",
+   "value": "Mr RA Yezerski"
+  },
+  {
+   "label": "Counsel for Interested Person (State of New South Wales)",
+   "value": "Mr IJM Ahmed"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD862/2019",
+   "parties": [
+    {
+     "name": "MAYFIELD DEVELOPMENT CORPORATION PTY LTD ACN 154 495 048",
+     "role": "Applicant"
+    },
+    {
+     "name": "NSW PORT OPERATIONS HOLD CO PTY LTD ACN 163 262 351",
+     "role": "First Respondent"
+    },
+    {
+     "name": "PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "JAGOT J"
+   ],
+   "date": "2020-03-05",
+   "date_raw": "5 March 2020",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application dated 3 May 2020 be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant pay the respondents’ costs of the interlocutory application as agreed or taxed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicant, referred to as MDC, has applied by interlocutory application for an order to the effect that the stay of this proceeding ordered by consent on 19 August 2019 be lifted. The respondents oppose the lifting of the stay.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "I have decided that the stay should not be lifted at this time. My reasons follow.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 10 December 2018 the Australian Competition and Consumer Commission (the ACCC) commenced proceedings against the respondents alleging that in or about May 2013, contracts into which the respondents entered with the State of New South Wales had the purpose and had or were likely to have the effect, of substantially lessening competition in the market for the supply of port services for container cargo in New South Wales in contravention of s 45(2)(a)(ii) of the Competition and Consumer Act 2010 (Cth) (the CCA) as in effect in May 2013. The ACCC proceeding is listed for hearing between 12 October and 18 December 2020.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 31 May 2019 MDC commenced proceedings against the respondents. In the MDC proceeding MDC sought a declaration to the same effect as the order sought by the ACCC in the ACCC proceeding and an order for damages pursuant to s 82 of the CCA. The MDC proceeding has been stayed by consent order since 19 August 2019.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 15 July 2019 the respondents filed an amended interlocutory application seeking an order that the MDC proceeding be stayed until after determination of the ACCC proceeding or in the alternative that MDC be required to give security for the respondents’ costs of the proceeding.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 14 August 2019 the parties notified my Associate that they had agreed consent orders in respect of the respondents’ interlocutory application to the effect that the MDC proceeding be stayed until further order. At my request my Associate asked the parties to provide an agreed statement of the reasons for the agreement reached that the MDC proceeding be stayed. The parties provided that agreed statement which appears as a note to the order made on 19 August 2019 staying the MDC proceeding until further order. The Note states:\n1. The Respondents sought and have accepted the Applicant’s revised consent orders for a stay of NSD862/2019 (Mayfield proceeding) pending determination of proceeding NSD2289/2018 (ACCC proceeding).\n2. The parties have agreed to stay the Mayfield proceeding on the basis that the ACCC proceeding involves several issues for determination that are threshold issues with respect to the Mayfield proceedings, with significant overlap in the factual allegations.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Background"
+    ],
+    "text": "While the MDC proceeding was stayed interlocutory orders were made in the ACCC proceeding to ensure that the ACCC proceeding could be heard from 12 October to 18 December 2020.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 29 January 2020 MDC notified the respondents of its intention to apply to lift the stay of the MDC proceeding. As noted, the application to do so was filed on 3 February 2020.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "MDC’s submissions"
+    ],
+    "text": "MDC observed that the decision to lift a stay order is discretionary and will be governed by the considerations identified in s 37M of the Federal Court of Australia Act 1976 (Cth), being the overarching purpose of the civil practice and procedure provisions, which is to facilitate the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "MDC’s submissions"
+    ],
+    "text": "MDC noted that in July 2019 the respondents had sought a stay or an order for security for costs. At the time the stay was sought, according to the evidence adduced by MDC, it did not have in place funding to conduct the litigation. As MDC put it, as a result, at the time of the stay or security for costs application, it had no choice but to agree to a stay, as a stay would have followed its inability to provide security. Its consent to the stay, it said, had nothing to do with the primary reason the respondents had sought the stay, being the prejudice of concurrent proceedings. Circumstances had now changed and MDC had funding and is able to provide security for costs. Accordingly, the stay should be lifted. MDC submitted:\nthere was no question the stay should be lifted – the relevant issue was the time at which the stay should be lifted, either now or at the conclusion of the ACCC proceeding;\nlifting the stay now is more likely to achieve the overarching purpose as specified in s 37M;\nawaiting the determination of the ACCC proceeding and any subsequent appeal may have the effect of delaying resolution of the MDC proceeding for years;\nthe ACCC proceeding may not resolve the common issues in the MDC proceeding either at all or in a manner that will make the conduct of the MDC proceeding more efficient;\ns 83 of the CCA, which has the effect that any finding of fact or admission in the ACCC proceeding is prima facie evidence of that fact in the MDC proceeding, is likely to be of limited utility to MDC as:\nboth sides to the MDC proceeding can be expected to adduce evidence to displace any such finding or admission as prima facie evidence if there is a sufficient basis to do so;\nno findings of fact or admissions may be made in the ACCC proceeding if, for example, that proceeding is settled or discontinued or is resolved based on a limited statement of agreed facts; and\nwhile there are some common issues of fact and law, there is not an identity of issues between the proceedings;\nthere is an efficiency in lifting the stay now, as much of the work needed in the MDC proceeding is required in the ACCC proceeding and revisiting that work in the future will be inefficient;\nnot lifting the stay now to progress interlocutory steps alongside the ACCC proceeding will be inefficient;\nlifting the stay now gives rise to the distinct possibility that the two proceedings could be heard and determined together, having regard to r 30.11 of the Federal Court Rules 2011 (Cth) which enables the Court to consolidate proceedings or hear them together or sequentially or to stay a proceeding until after the determination of any other proceeding if they involve common questions of law or fact;\nif the two proceedings are not heard together, there is a risk of inconsistent findings on contested issues common to both proceedings, which indicates that it is clear that the two proceedings should be heard together;\nMDC is able to comply with any timetable to meet the dates for the filing of lay and expert evidence as ordered in the ACCC proceeding; and\nany difficulty in ultimately aligning the two proceedings can be addressed through appropriate case management.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents noted that MDC had never said that it consented to the stay in August 2019 because it did not then have litigation funding. To the contrary, the agreed note to the orders records that the parties had agreed to the stay of the MDC proceeding on the basis that the ACCC proceeding involved several issues for determination that are threshold issues with respect to the MDC proceeding, with significant overlap in factual allegations.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The MDC proceeding has been stayed for about six months. In that time, the ACCC proceeding has progressed including the filing of cross claims, provision of particulars, production of some documents, conferral about and orders for discovery, fixing of an interlocutory hearing in relation to contested discovery issues, and a scheduled mediation in April 2020. The ACCC proceeding is fixed for hearing from October to December 2020 and the parties are working to a compressed timetable to ensure the matter can be heard on the allocated dates.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents agreed that the overarching purpose of the civil litigation practice and procedures provided the relevant criteria for the exercise of discretion to lift the stay. They maintained, however, that the circumstances disclosed that the overarching purpose would be best achieved by leaving the stay in place until the determination of the ACCC proceeding.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "As part of the context the respondents also noted s 83 of the CCA, making this submission:\nThe policy objective of s 83, as expressed in the Explanatory Memorandum to the Trade Practices Amendment (Cartel Conduct and Other Measures) Act 2009 (No. 59, 2009), is “to make it easier for individual applicants to prove their case against a respondent” (at [6.23]). It manifests a statutory contemplation that individual applicants who have suffered loss and are entitled to a compensatory remedy might be less well-placed than the ACCC to prove the contravention that has caused the loss. (The availability of compulsory powers and institutional expertise being among the factors that make this so.) In such a case, the CCA contemplates that the ACCC can prosecute the contravention in civil penalty proceedings and the individual applicant can ‘follow on’ with its damages claim.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents noted that the case management considerations on which MDC relies all could have been raised in opposition to the stay. No such matters were raised and the stay was consented to and has remained in place since August 2019 whilst the ACCC proceeding has been case managed so as to be heard in October to December 2020.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "In any event, submitted the respondents, case management considerations favour retention of the stay. In particular:\nany delay in resolution of the MDC proceeding cannot be a weighty consideration in circumstances where it consented to a stay on the basis it did (as recorded in the notice) and its changed position results solely from the securing of litigation funding;\ns 83 of the CCA is directed to precisely this kind of case. It can be assumed that it is unlikely parties will contest findings made in the earlier ACCC proceeding unless they have further or different evidence not called at that proceeding;\non the common issues of market definition, the purpose and effect of the impugned provisions and derivative Crown immunity, MDC has not identified any assistance it will provide in the ACCC proceeding. Rather, the statement of claim in the MDC proceeding relies heavily on the pleading of the ACCC in the ACCC proceeding;\nthe allegation of causation in the MDC proceeding is wholly unparticularised. In the absence of such particularisation, MDC’s interest in co-litigating the alleged contraventions is not sufficiently apparent to justify lifting the stay;\nit is unfair to the respondents to have to progress the MDC proceeding while simultaneously conducting the ACCC proceeding on a different but overlapping timetable. Absent a cogent proposal that would satisfy the Court that the MDC proceeding can be fairly brought into line with the ACCC proceeding, the stay should not be lifted;\nit does not appear that the two proceedings can be brought into line whilst retaining the current hearing dates;\nproposition (6) is supported by the fact that there are numerous preliminary steps that would be required to be addressed in the MDC proceeding including joinder of parties, notices to produce, requests for particulars, and an application to strike out the MDC statement of claim if it remains unparticularised, and the bringing of cross claims;\nthe respondents have a legitimate interest in the expeditious disposition of the ACCC proceeding in which civil penalties are sought, but if the stay is lifted the respondent would be unduly burdened by having to defend two concurrent proceedings with different legal teams advancing parallel damages and civil penalty claims. Further, resources would need to be diverted away from the ACCC proceeding to the prejudice of the proper conduct of that proceeding, noting that the timetable in the ACCC proceeding was agreed at a time before there was any suggestion that MDC might seek to lift the stay; and\nprejudice is also likely to be occasioned to third parties including the ACCC, the Port of Newcastle and the State of New South Wales (the State of NSW) (who are parties to the ACCC proceeding) should the hearing dates in that proceeding be vacated to enable the two proceedings to be heard together.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Third party submissions"
+    ],
+    "text": "The ACCC submitted that it was unrealistic to assume that, at this stage, case management procedures could be used to ensure in a fair and proper manner that the MDC proceeding could be ready for hearing in October to December 2020. Accordingly, it should be accepted that if the stay is to be lifted and the two proceedings heard together, the hearing date of the ACCC proceeding should be immediately vacated and the timetable of the two proceedings made to ensure they can be heard together in an appropriate manner.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Third party submissions"
+    ],
+    "text": "The State of NSW supported the submissions of the respondents.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Decision"
+    ],
+    "text": "In case management, as with so many things in life, timing matters. Had MDC been able to fund the litigation which it commenced and opposed the stay on the grounds that it now advances back in August 2019, then there would have been much to be said in favour of the position that the two proceedings should be heard together insofar as there are common issues and sequentially otherwise as to MDC’s claim for damages. At that time, there would have been ample scope to fashion a timetable which could have resulted in a concurrent hearing of the matters in an orderly and timely manner. As it was, MDC did not have litigation funding in place and thus took the view (not disclosed at the time) that as a result, a stay was inevitable. It thereby consented to the stay and said it did so on the basis that there were overlapping issues with the ACCC proceeding.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Decision"
+    ],
+    "text": "It may be accepted that the securing of litigation funding has changed the circumstances for MDC. It is understandable that in these circumstances it now wishes to lift the stay and attempt to align its proceeding with the ACCC proceeding in the hope that it can place itself in a position to enable a concurrent hearing. If there were a realistic prospect that this could be achieved without imposing an unfair and unreasonable burden on the respondents and the parties to the ACCC proceeding, I would accede to MDC’s request, lift the stay, and in consultation with the parties, frame a timetable enabling the common issues in both proceedings to be heard together in October to December 2020. As it is, however, the main protagonists in the ACCC proceeding – the ACCC and the respondents – both contend that it is simply not possible to align the proceedings and maintain the current hearing dates for the ACCC proceeding. I consider their positions to fairly reflect the reality of the present position.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Decision"
+    ],
+    "text": "In these circumstances, I consider it contrary to the interests of justice to lift the stay. The parties to the ACCC proceeding should not be prejudiced by the vacation of their hearing date to enable the MDC proceeding to be heard at the same time as the ACCC proceeding. It is not the responsibility of those parties that MDC finds itself in the position it is now in. It was MDC which commenced the proceeding when it did not have funding in place. It was MDC that consented to a stay of its proceeding on the basis that there were overlapping issues with the ACCC proceeding. It was MDC that did not secure litigation funding until many months after the stay had been in place, all the while with the ACCC proceeding progressing and being fixed for hearing. Having now secured litigation funding, the interests of MDC nevertheless would have been accommodated if it was reasonably apparent that the proceedings could be aligned and the matters heard together in October to December 2020. It is not reasonably apparent that this is so and while MDC may be able to do what it needs to so it is ready to be heard on those dates, the evidence from the respondents is that they cannot be ready. The ACCC, which is well placed to make a realistic assessment of the likelihood of the two proceedings being able to be heard together in October to December 2020, considers it so unlikely that it has advocated the immediate vacation of those dates if the stay is to be lifted.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Decision"
+    ],
+    "text": "In these circumstances, the prejudice to the respondents and the other parties to the ACCC proceeding if the stay is lifted (the primary purpose of which would be to enable the two proceedings to be heard together) outweighs the prejudice to MDC if the stay is retained. I accept that the resolution of the MDC proceeding will be delayed if the stay is not lifted. But unless the MDC proceeding could be heard in October to December 2020 with the ACCC proceeding (which I am satisfied is a very unlikely prospect) then it would be consistent with the overarching purpose in any event for the MDC proceeding to be adjourned pending resolution of the ACCC proceeding. Further, MDC’s own conduct in not having litigation funding when it commenced the proceeding, has already resulted in delay and is the practical reason why MDC now finds itself in its current position.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Decision"
+    ],
+    "text": "The risk of inconsistent findings is ameliorated to a significant extent by s 83 of the CCA. In particular, I accept the respondents’ submission that s 83 is directed to precisely the current circumstances and evinces a statutory expectation that damages claims which are essentially parasitic on civil penalty proceedings, may be heard and determined after the civil penalty proceedings. While the concurrent hearing of such applications is possible (and indeed has occurred) it is necessary that there be sufficient time before a hearing to ensure that the outcomes of case management is fair to all parties. In the present case, I consider that fairness to the respondents and the other parties to the ACCC proceeding cannot be achieved by case management processes. Rather, to achieve the benefit that lifting the stay could provide of a concurrent hearing of the proceedings would almost certainly require the hearing date of the ACCC proceeding to be vacated to the prejudice of all of the parties to that proceeding. Accordingly, in the present circumstances it cannot be said that any difficulty in aligning the cases can be addressed through appropriate case management. If concurrent hearings are unachievable (which I consider probable) then no case management advantage is to be achieved by subjecting the respondents to the burden of separate but parallel case management procedures for the two proceedings. That is, the stay should be maintained so as to relieve the respondents of that undue burden which would prejudice their preparation for the ACCC proceeding, which should be heard and determined before the MDC proceeding.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Decision"
+    ],
+    "text": "If, as MDC foreshadowed, the ACCC proceeding settles or is otherwise to be resolved on the basis of limited agreed facts, then MDC could apply at that time to lift the stay and the delay it may suffer will not be as great as might otherwise be the case. Similarly, if the hearing of the ACCC proceeding is itself delayed by unforeseen circumstances, it may be possible to achieve the concurrent hearing of the two proceedings. MDC will be able to re-agitate its claim to lift the stay in any of these circumstances.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Decision"
+    ],
+    "text": "For these reasons I consider that the interlocutory application seeking the lifting of the stay should be dismissed, with costs.",
+    "judge": "JAGOT J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-five (25) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.",
+ "associate": null,
+ "dated": "2020-03-05",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 862 of 2019\nInterested Person: | AUSTRALIAN COMPETITION & CONSUMER COMMISSION\nInterested Person: | PORT OF NEWCASTLE OPERATIONS PTY LIMITED ACN 165 332 990\nInterested Person: | PORT OF NEWCASTLE INVESTMENTS (PROPERTY) PTY LIMITED ACN 169 286 024\nInterested Person: | PORT OF NEWCASTLE INVESTMENTS PTY LIMITED ACN 169 132 441\nInterested Person: | STATE OF NEW SOUTH WALES"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "5819d5495157304716291a6b34f95b33e742413e443000317c575784678bdef4",
+ "markdown_file": "data/extracted/2020/2020FCA0260.md"
+}

@@ -1,1 +1,2 @@
 nodriver>=0.38
+lxml>=4.9

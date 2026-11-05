@@ -1,0 +1,1201 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2017/2017FCA0851.docx",
+ "metadata": {
+  "citation": "[2017] FCA 851",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 13)",
+  "court": "FCA",
+  "year": 2017,
+  "number": 851,
+  "date_of_judgment": "2017-07-28",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "BESANKO J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-10-25",
+   "2016-12-01"
+  ],
+  "hearing_raw": "25 October 2016 (Costs Hearing)\n1 December 2016 (Penalty Hearing)",
+  "number_of_paragraphs": 97,
+  "catchwords": [
+   "TRADE PRACTICES – consideration of an application seeking declarations and an injunction against the Respondent – where terms of the declaration are restricted to one particular agreement – where appropriate case for declarations of contravening conduct – whether the Court should exercise its power to grant an injunction against the Respondent – where contravening conduct was giving effect to a significant cartel arrangement – where conduct occurred some time ago.",
+   "TRADE PRACTICES – consideration of s 76 of the Competition and Consumer Act 2010 (Act) and the appropriate penalty or penalties in respect of contraventions – where contravener engaged in cartel conducted related to the supply of land-based electrical cables, submarine-based electrical cables and accessories – determination of maximum penalty – whether maximum penalty will properly reflect the gravity and seriousness of the contravening conduct.",
+   "TRADE PRACTICES – consideration of how many contraventions are subject to the maximum penalty – whether contraventions are to be considered part of the same conduct within s 76(3) of the Act – where the Respondent’s conduct reflects a single course of conduct between the cartel participants.",
+   "TRADE PRACTICES – consideration of the parity principle and the penalty imposed on another respondent – where Court should have regard to the penalty imposed – where circumstances are such that a close approximation with the penalty imposed is not required or appropriate.",
+   "PRACTICE AND PROCEDURE – where contravening conduct was deliberate and premeditated – where the conduct occurred over a relatively short period of time – where Respondent did not secure the contract – where Respondent has not been found guilty of similar conduct before or since the contravening conduct – where Respondent is a large global group with substantial market shares – where conduct engaged in by senior employees of the company – where Respondent has shown no contrition for the contravening conduct and has not cooperated in any relevant sense.",
+   "COSTS – consideration of an application by the Second Respondent seeking costs against the Applicant pursuant to r 25.14(2) of the Federal Court Rules 2011 (Cth) – where the Applicant did not act unreasonably in rejecting the Second Respondent’s offer – where the case was complex and the question of attribution may turn on quite fine factual distinctions."
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 6A, 45, 76, 80",
+   "Evidence Act 1995 (Cth) s 191",
+   "Federal Court of Australia Act 1976 (Cth) 21",
+   "Federal Court Rules 1979 (Cth) O 23 r 11",
+   "Federal Court Rules 2011 (Cth) rr 25.14; 40.04"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Admiral Mechanical Services Pty Ltd [2010] FCA 348",
+   "Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 8) [2011] FCA 153; (2011) 277 ALR 446",
+   "Australian Competition and Consumer Commission v Australian Abalone Pty Ltd [2007] FCA 1834",
+   "Australian Competition and Consumer Commission v Australian Egg Corporation Ltd [2016] FCA 447",
+   "Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2016] FCA 453; (2016) 336 ALR 1",
+   "Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation)and Others (2007) 161 FCR 513",
+   "Australian Competition and Consumer Commission v Dermalogica Pty Ltd [2005] FCA 152; (2005) 215 ALR 482",
+   "Australian Competition and Consumer Commission v Ithaca Ice Works Pty Ltd [2001] FCA 1716; [2002] ATPR 41-851",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 5) [2013] FCA 294",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 12) [2016] FCA 822",
+   "Australian Competition and Consumer Commission v Yazaki Corporation (No 3) [2017] FCA 465",
+   "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate & Ors [2015] HCA 46; (2015) 326 ALR 477",
+   "Construction, Forestry, Mining and Energy Union v Cahill [2010] FCAFC 39; (2010) 269 ALR 1",
+   "Construction, Forestry, Mining, and Energy Union v Williams [2009] FCAFC 171; (2009) 262 ALR 417",
+   "Federal Commissioner of Taxation v Clark and Another (No 2) (2011) 197 FCR 251",
+   "Green v The Queen (2011) 244 CLR 462",
+   "Hazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (2005) 13 VR 435",
+   "Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141",
+   "Lowe v The Queen (1984) 154 CLR 606",
+   "Postiglione v The Queen (1997) 189 CLR 295",
+   "Schneider Electric (Australia) Pty Ltd v Australian Competition and Consumer Commission (2003) 127 FCR 170",
+   "SNF (Australia) Pty Ltd v Ciba Speciality Chemicals Water Treatments Ltd (No 2) [2016] FCAFC 112",
+   "Specsavers Pty Ltd v Luxottica Retail Australia Pty Ltd (No 22) [2013] FCA 807",
+   "SPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356",
+   "Trade Practices Commission v Axive Pty Ltd [1994] ATPR 41-368"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant (Costs Hearing)",
+    "name": "Mr T Duggan SC"
+   },
+   {
+    "role": "counsel",
+    "for": "the Applicant (Penalty Hearing)",
+    "name": "Mr N O’Bryan SC with Mr T Duggan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent (Penalty Hearing)",
+    "name": "Mr C Moore SC with Ms F Roughley"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent (Penalty Hearing)",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent (Costs Hearing)",
+    "name": "Mr M Hoffmann QC"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent (Costs Hearing)",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0851",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2017-07-28"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "BESANKO J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "28 July 2017"
+  },
+  {
+   "label": "Catchwords",
+   "value": "TRADE PRACTICES – consideration of an application seeking declarations and an injunction against the Respondent – where terms of the declaration are restricted to one particular agreement – where appropriate case for declarations of contravening conduct – whether the Court should exercise its power to grant an injunction against the Respondent – where contravening conduct was giving effect to a significant cartel arrangement – where conduct occurred some time ago.\nTRADE PRACTICES – consideration of s 76 of the Competition and Consumer Act 2010 (Act) and the appropriate penalty or penalties in respect of contraventions – where contravener engaged in cartel conducted related to the supply of land-based electrical cables, submarine-based electrical cables and accessories – determination of maximum penalty – whether maximum penalty will properly reflect the gravity and seriousness of the contravening conduct.\nTRADE PRACTICES – consideration of how many contraventions are subject to the maximum penalty – whether contraventions are to be considered part of the same conduct within s 76(3) of the Act – where the Respondent’s conduct reflects a single course of conduct between the cartel participants.\nTRADE PRACTICES – consideration of the parity principle and the penalty imposed on another respondent – where Court should have regard to the penalty imposed – where circumstances are such that a close approximation with the penalty imposed is not required or appropriate.\nPRACTICE AND PROCEDURE – where contravening conduct was deliberate and premeditated – where the conduct occurred over a relatively short period of time – where Respondent did not secure the contract – where Respondent has not been found guilty of similar conduct before or since the contravening conduct – where Respondent is a large global group with substantial market shares – where conduct engaged in by senior employees of the company – where Respondent has shown no contrition for the contravening conduct and has not cooperated in any relevant sense.\nCOSTS – consideration of an application by the Second Respondent seeking costs against the Applicant pursuant to r 25.14(2) of the Federal Court Rules 2011 (Cth) – where the Applicant did not act unreasonably in rejecting the Second Respondent’s offer – where the case was complex and the question of attribution may turn on quite fine factual distinctions."
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 6A, 45, 76, 80\nEvidence Act 1995 (Cth) s 191\nFederal Court of Australia Act 1976 (Cth) 21\nFederal Court Rules 1979 (Cth) O 23 r 11\nFederal Court Rules 2011 (Cth) rr 25.14; 40.04"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Admiral Mechanical Services Pty Ltd [2010] FCA 348\nAustralian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 8) [2011] FCA 153; (2011) 277 ALR 446\nAustralian Competition and Consumer Commission v Australian Abalone Pty Ltd [2007] FCA 1834\nAustralian Competition and Consumer Commission v Australian Egg Corporation Ltd [2016] FCA 447\nAustralian Competition and Consumer Commission v Cement Australia Pty Ltd [2016] FCA 453; (2016) 336 ALR 1\nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation)and Others (2007) 161 FCR 513\nAustralian Competition and Consumer Commission v Dermalogica Pty Ltd [2005] FCA 152; (2005) 215 ALR 482\nAustralian Competition and Consumer Commission v Ithaca Ice Works Pty Ltd [2001] FCA 1716; [2002] ATPR 41-851\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 5) [2013] FCA 294\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 12) [2016] FCA 822\nAustralian Competition and Consumer Commission v Yazaki Corporation (No 3) [2017] FCA 465\nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate & Ors [2015] HCA 46; (2015) 326 ALR 477\nConstruction, Forestry, Mining and Energy Union v Cahill [2010] FCAFC 39; (2010) 269 ALR 1\nConstruction, Forestry, Mining, and Energy Union v Williams [2009] FCAFC 171; (2009) 262 ALR 417\nFederal Commissioner of Taxation v Clark and Another (No 2) (2011) 197 FCR 251\nGreen v The Queen (2011) 244 CLR 462\nHazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (2005) 13 VR 435\nKooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141\nLowe v The Queen (1984) 154 CLR 606\nPostiglione v The Queen (1997) 189 CLR 295\nSchneider Electric (Australia) Pty Ltd v Australian Competition and Consumer Commission (2003) 127 FCR 170\nSNF (Australia) Pty Ltd v Ciba Speciality Chemicals Water Treatments Ltd (No 2) [2016] FCAFC 112\nSpecsavers Pty Ltd v Luxottica Retail Australia Pty Ltd (No 22) [2013] FCA 807\nSPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356\nTrade Practices Commission v Axive Pty Ltd [1994] ATPR 41-368"
+  },
+  {
+   "label": "Dates of hearings",
+   "value": "25 October 2016 (Costs Hearing)\n1 December 2016 (Penalty Hearing)"
+  },
+  {
+   "label": "Registry",
+   "value": "South Australia"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "97"
+  },
+  {
+   "label": "Counsel for the Applicant (Costs Hearing)",
+   "value": "Mr T Duggan SC"
+  },
+  {
+   "label": "Counsel for the Applicant (Penalty Hearing)",
+   "value": "Mr N O’Bryan SC with Mr T Duggan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent (Penalty Hearing)",
+   "value": "Mr C Moore SC with Ms F Roughley"
+  },
+  {
+   "label": "Solicitor for the First Respondent (Penalty Hearing)",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent (Costs Hearing)",
+   "value": "Mr M Hoffmann QC"
+  },
+  {
+   "label": "Counsel for the Second Respondent (Costs Hearing)",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J"
+   ],
+   "date": "2017-07-28",
+   "date_raw": "28 July 2017",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Prysmian Cavi e Sistemi S.r.L (formerly Pirelli Cavi e Sistemi Energia S.p.A.) (Prysmian) by making or arriving at an arrangement or understanding in or about September or October 2003 in relation to the supply of land-based electrical cables (land cables) and accessories containing provisions which had the purpose of restricting or limiting the supply of goods to Snowy Hydro Limited and the purpose, effect or likely effect of controlling prices for goods to be supplied to Snowy Hydro Limited (Snowy Hydro Project Agreement), has contravened ss 45(2)(a)(i) and 45(2)(a)(ii) of the Trade Practices Act 1974 (now known as the Competition and Consumer Act 2010 (Cth)) (Act) and the Competition Codes;",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Prysmian by making or arriving at the Snowy Hydro Project Agreement and thereby giving effect to the provisions of an arrangement or understanding with competitors in relation to the supply, including in Australia, of land cables, submarine-based electrical cables (submarine cables) and accessories (A/R Cartel Agreement), has contravened s 45(2)(b)(ii) of the Act and the Competition Codes; and",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Prysmian by issuing price guidance to competitors in accordance with the provisions of the Snowy Hydro Project Agreement:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "has given effect to the Snowy Hydro Project Agreement and thereby contravened ss 45(2)(b)(i) and 45(2)(b)(ii) of the Act and Competition Codes; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "has given effect to the A/R Cartel Agreement and thereby contravened s 45(2)(b)(ii) of the Act and the Competition Codes.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Within 28 days of these orders, Prysmian pay to the Commonwealth of Australia, pursuant to s 76 of the Act, alternatively s 76 of the Competition Codes, a pecuniary penalty in the amount of $3,500,000 in respect of Prysmian’s contraventions of the Act or the Competition Codes that are the subject of the Court’s declarations.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Save and except as to the following:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "existing costs orders in favour of Prysmian; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the costs of and incidental to the hearing which is the subject of these reasons;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Prysmian pay the Australian Competition and Consumer Commission’s costs of and incidental to the proceeding against it as taxed or agreed.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Subject to any existing orders for costs and the operation of r 40.04 of the Federal Court Rules 2011 (Cth), the Australian Competition and Consumer Commission pay Nexans SA RCS Paris 393 525 852’s costs of the proceeding on a party and party basis.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The Australian Competition and Consumer Commission (ACCC) brought a proceeding against Prysmian Cavi e Sistemi S.r.L (formerly Pirelli Cavi e Sistemi Energia S.p.A.) (Prysmian) and Nexans SA RCS Paris 393 525 852 (Nexans SA) for relief under the Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth) (the Act)) and the Competition Codes of the States of Australia and the Australian Capital Territory. The conduct alleged against Prysmian and Nexans SA may be broadly described as market sharing and price fixing and was alleged by the ACCC to have occurred in September and October 2003. The ACCC alleged that the conduct involved contraventions of s 45(2) of the Act.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC sought an injunction pursuant to s 80 of the Act and the Competition Codes, declarations pursuant to s 21 of the Federal Court of Australia Act 1976 (Cth) and pecuniary penalties under s 76 of the Act or, in the alternative, the Competition Codes.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The issue of whether Prysmian or Nexans SA or either of them had contravened the Act or the Competition Codes went to hearing and, for reasons which I published, I found the following:\n(1) In making the Snowy Hydro Project Agreement, Prysmian contravened s 45(2)(a)(i) and (ii) of the Act and gave effect to the A/R Cartel Agreement in contravention of s 45(2)(b)(ii) of the Act.\n(2) In issuing the Price Guidance, Prysmian gave effect to the Snowy Hydro Project Agreement in contravention of s 45(2)(b)(i) and (ii) of the Act and gave effect to the A/R Cartel Agreement in contravention of s 45(2)(b)(ii) of the Act.\n(3) The application against Nexans SA should be dismissed.\n(Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 12) [2016] FCA 822 (substantive reasons)).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "I have made an order that the proceeding against Nexans SA be dismissed.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "These reasons must be read with the substantive reasons. I use the same terms and descriptions in these reasons as I used in the substantive reasons.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "These reasons address two outstanding issues.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The first outstanding issue is the contest between the ACCC and Prysmian as to the relief which the Court should grant against Prysmian. As to that matter, I have had the benefit of detailed written and oral submissions and the parties have filed a Statement of Facts (Found, Admitted or Agreed) pursuant to s 191(3)(a) of the Evidence Act 1995 (Cth).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC seeks three declarations against Prysmian. As finally settled, the terms of the declarations sought are as follows:\n1.1. Prysmian by making or arriving at an arrangement or understanding in or about September or October 2003 in relation to the supply of land-based electrical cables (land cables) and accessories containing provisions which had the purpose of restricting or limiting the supply of goods to Snowy Hydro Limited and the purpose, effect or likely effect of controlling prices for goods to be supplied to Snowy Hydro Limited (Snowy Hydro Project Agreement), has contravened ss 45(2)(a)(i) and 45(2)(a)(ii) of the Trade Practices Act 1974 (now known as the Competition and Consumer Act 2010) (Act) and the Competition Code (Code);\n1.2. Prysmian by making or arriving at the Snowy Hydro Project Agreement and thereby giving effect to the provisions of an arrangement of [sic] understanding with competitors in relation to the supply, including in Australia, of land cables, submarine-based electrical cables (submarine cables) and accessories (A/R Cartel Agreement), has contravened s 45(2)(b)(ii) of the Act and the Code; and\n1.3. Prysmian by issuing price guidance to competitors in accordance with the provisions of the Snowy Hydro Project Agreement:\n1.3.1. has given effect to the Snowy Hydro Project Agreement and thereby contravened ss 45(2)(b)(i) and 45(2)(b)(ii) of the Act and Code; and\n1.3.2. has given effect to the A/R Cartel Agreement and thereby contravened s 45(2)(b)(ii) of the Act and the Code.\nSubject to one aspect of the terms of paragraph 1.3, Prysmian does not oppose declarations in these terms.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC seeks an injunction against Prysmian. The terms of the injunction sought by the ACCC are as follows:\n2. Prysmian be restrained for a period of seven years from the date of this order from making, arriving at, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of land cables, submarine cables and accessories, containing provisions which have:\n2.1. the purpose, effect or likely effect of fixing, controlling or maintaining the price or any part of the price at which Prysmian or any of its competitors, or related bodies corporate of any of them, will supply land cables, submarine cables and accessories in competition with each other to any customer in Australia; or\n2.2. the purpose of preventing, restricting or limiting the supply of land cables, submarine cables and accessories by Prysmian or its competitors, or Prysmian and its competitors, or related bodies corporate of any of them, to any customer in Australia.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "Prysmian submits that it is not appropriate for the Court to grant an injunction in the circumstances of this case.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC seeks an order that Prysmian pay a pecuniary penalty to the Commonwealth pursuant to s 76 of the Act in respect of the contraventions which are to be the subject of the Court’s declarations. The ACCC’s case is that it is appropriate to approach the question of pecuniary penalty on the basis that there are two separate courses of conduct and each carries a maximum penalty of $10 million (s 76(1A)). The ACCC’s case is that an overall penalty of $7 million is appropriate.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "As I understand Prysmian’s submission, it submitted that all of its conduct was a single course of conduct and, in the circumstances, it was appropriate to approach the question of penalty as if there was one penalty involving a maximum of $10 million. Prysmian’s case is that a penalty of not more than $2 million is appropriate.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The High Court considered the relevance of a regulator’s submissions as to penalty in Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate & Ors [2015] HCA 46; (2015) 326 ALR 477. Chief Justice French and Justices Kiefel, Bell, Nettle and Gordon said that it is to be expected that the regulator will be in a position to offer informed submissions as to the effects of contravention on the industry and the level of penalty necessary to achieve compliance (at [60]). Nevertheless, the regulator’s submissions will be considered on their merits in the same way the respondent’s submissions are considered on their merits (at [61]). Their Honours concluded their analysis by saying that the regulator’s submissions as to the terms and quantum of a civil penalty is a relevant consideration (at [64]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "Finally, the ACCC seeks an order for the costs of the proceedings, other than in respect of any interlocutory application in respect of which Prysmian was successful, as agreed or taxed. Prysmian does not oppose an order for costs providing it does not include any costs incurred by the ACCC in relation to its case against Nexans SA. It also wishes to be heard on the question of costs in relation to penalty.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The second outstanding issue is the order for costs which should be made in favour of Nexans SA. Nexans SA seeks an order that the ACCC pay its costs of the proceeding against it from 23 September 2009 to 10.59 am (AEST) on 2 July 2015 on a party and party basis, and from 11.00 am (AEST) on 2 July 2015 on an indemnity basis. The ACCC contends that the order should be that it pay Nexan SA’s costs of the proceeding on a party and party basis, subject to any existing orders for costs and the operation of r 40.04 of the Federal Court Rules 2011 (Cth) (Rules).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Declarations"
+    ],
+    "text": "This is an appropriate case for declarations of Prysmian’s contravening conduct.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Declarations"
+    ],
+    "text": "The declaration advanced by the ACCC in paragraph 1.3 simply refers to price guidance. Prysmian submits that it should refer to a price guidance to reflect the fact that the issuing of the Price Guidance was “once-off conduct”. In response, the ACCC submits that price guidance is a generic concept and that it would be misleading to refer to it as a price guidance.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Declarations"
+    ],
+    "text": "Counsel for the ACCC referred to the point as a “small matter” and counsel for Prysmian referred to the dispute between the parties as “very minor”.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Declarations"
+    ],
+    "text": "I do not see the difference between the two positions as being of particular significance. I referred in the substantive reasons to the email dated 3 October 2003 as the Price Guidance (at [88]). It seems to me that the significance of the act is that Prysmian was providing price guidance, not a price guidance accepting, as I do, that the latter term has no well-known meaning. The other point to note is that the terms of the declaration itself indicate that it is restricted to one particular agreement. Both of these matters considered together lead me to the view that the declaration formulated by the ACCC is the preferable one.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "The Court has the power to grant an injunction against a person who has engaged or is proposing to engage in conduct that constitutes or would constitute a contravention of a provision of Part IV and the Court may grant an injunction whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind; whether or not the person has previously engaged in conduct of that kind; and whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind (s 80).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "The key submissions made by the ACCC in support of the injunction it claimed are as follows. First, the conduct of Prysmian was, “taken as a whole”, conduct that occurred as part of a longstanding arrangement between Prysmian and its competitors; involved a high degree of premeditation and coordination and was carried out by senior executives of Prysmian. Secondly, Prysmian continues to supply cables, and cable related products. Thirdly, the contraventions are sufficiently serious to warrant injunctive relief. Finally, the ACCC submits that the fact that Prysmian has not expressed any contrition is relevant to whether or not an injunction is granted.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "The key submissions made by Prysmian against the grant of an injunction are as follows.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "First, Prysmian did not seek to dispute the general principles, but sought to gain particular assistance from the following observations of the Full Court of this Court in Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) and Others (2007) 161 FCR 513 at [110-111]:\nWe are inclined to think that in general, a court order requiring a person to conduct themselves in a particular way when a statute requires that conduct in any event, will add little to the statutory prescription or proscription and the statutory sanctions attending non-compliance. We accept that such an order may add the possibility of imprisonment for contempt where the relevant contravention would not otherwise lead to that consequence. However, if Parliament has not provided for imprisonment in connection with a contravention, it may not be appropriate for a court to enjoin such conduct simply in order to create the possibility of imprisonment. While Parliament has provided for an injunction as a possible remedy, it may be doubted that it intended that an injunction would be a remedy granted in the ordinary course in the face of the statutory sanctions Parliament has itself provided. Moreover, a Court has an interest in maintaining the efficacy of injunctive relief which requires that orders be respected. They will only be respected if they consistently serve a useful purpose and if breaches are discovered and punished. It may also be doubted that a court order requiring conduct which a statute otherwise requires will be seen to have some greater or different significance to the statutory requirement.\nMany contraventions simply will not justify injunctive relief. We doubt whether unintentional misconduct in contravention of s 52 would lead to such relief. An isolated intentional breach may also not warrant it. Conduct which occurred many years before the enforcement proceedings may not do so, especially if the offender has not recently infringed the law, or is no longer in a position where contravention is likely. These are obvious cases, but they raise questions as to the relevant factors in considering whether to grant such relief. The discretion is at large. It is for the relevant applicant to demonstrate that the injunction will serve a purpose. That purpose may involve the protection of the public interest or private rights.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "Prysmian points to the fact that the contravening conduct occurred some 13 years ago and that at no time before then, or since, has Prysmian been the subject of any court proceedings by the ACCC or any other person for a contravention of the Act.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "Secondly, Prysmian submits that the injunction does no more than restrain conduct which is already prohibited by the Act, save that it is framed to relate only to contracts, arrangements or understandings “with any of [Prysmian’s] competitors for the supply of land cables, submarine cables and accessories”. The injunction is not necessary to deter Prysmian from a repetition of the conduct because the conduct is already prohibited by statute. Furthermore, Prysmian submits that the seven year period is excessive, particularly when there is a six year time limit for pecuniary penalties.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "I considered the relevant principles for the grant of an injunction restraining the repetition of conduct of the type in issue in this case in my recent decision in Australian Competition and Consumer Commission v Yazaki Corporation (No 3) [2017] FCA 465 (ACCC v Yazaki (No 3)) at [9]-[15]. I will not repeat what I said in those reasons.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Dermalogica Pty Ltd [2005] FCA 152; (2005) 215 ALR 482, Goldberg J said that in determining whether an injunction should be granted, consideration should be given to (at [110]):\n[whether] all the circumstances of the case – including the scale of the prior contravening conduct, any evidence as to the contravener’s future intentions and the likelihood of damage to other persons as a result of further proscribed conduct – call for the contravener being subject to the more onerous burdens, such as contempt of court, in relation to their future conduct. This consideration is required even though the power of the Court to grant an injunction under s 80 is not limited by the requirement of a threat of future contravening conduct.\nI respectfully agree with those observations.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Injunction"
+    ],
+    "text": "There can be no doubt that the A/R Cartel Agreement was a significant cartel arrangement, but it must be borne in mind that the contravening conduct was giving effect to it by making the Snowy Hydro Project Agreement and issuing the Price Guidance. Furthermore, Mr Osada gave evidence that the agreement came to an end in about the middle of 2004 (substantive reasons at [108]). Having regard to those circumstances, and the fact that the conduct occurred some years ago and Prysmian has not been found guilty of similar conduct before or since the Snowy Hydro Project Agreement, I do not think an injunction is either necessary or appropriate.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The ACCC accepted that the contraventions by Prysmian by making the Snowy Hydro Project Agreement, namely, contraventions of ss 45(2)(a)(i) and 45(2)(a)(ii) and of s 45(2)(b)(ii) by giving effect to the A/R Cartel Agreement were based on the same conduct for the purposes of s 76(3) and only one pecuniary penalty is payable for that conduct. It also accepted that the contraventions by Prysmian by issuing the Price Guidance thereby giving effect to the Snowy Hydro Project Agreement in contravention of ss 45(2)(b)(i) and 45(2)(b)(ii) and thereby giving effect to the A/R Cartel Agreement in contravention of s 45(2)(b)(ii) were based on the same conduct for the purposes of s 76(3) and only one pecuniary penalty is payable for that conduct. The ACCC submits that there are two courses of conduct by Prysmian and each is subject to a maximum pecuniary penalty of $10 million.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Prysmian did not dispute this analysis insofar as it related to s 76(3), but it submitted that its conduct should be viewed as a single course of conduct or one transaction and, in those circumstances, it is open to the Court to approach the matter as if for all the contravening conduct there is one maximum pecuniary penalty of $10 million. Prysmian relies on two decisions of this Court, being Construction, Forestry, Mining, and Energy Union v Williams [2009] FCAFC 171; (2009) 262 ALR 417 (Williams); and Construction, Forestry, Mining and Energy Union v Cahill [2010] FCAFC 39; (2010) 269 ALR 1 (Cahill).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The ACCC did not dispute that the Court would consider whether there was a single course of conduct or one transaction as Prysmian submitted, or two courses of conduct as it submitted. The ACCC submitted that, having regard to the circumstances in this case, the contravening conduct was clearly two courses of conduct and should not be viewed as a single course of conduct or one transaction.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The main submissions made by Prysmian in support of its analysis were as follows.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Prysmian referred to important findings in the substantive reasons at [169] (the A/R Cartel Agreement and its provisions), [203] and [288] (Prysmian was a party to the Snowy Hydro Project Agreement and guilty of contraventions of the Act), and [88] and [288] (Prysmian issued the Price Guidance and thereby committed contraventions of the Act). Prysmian referred to the steps which were taken when an inquiry in relation to a project was received (at [57]). These steps are identified in the substantive reasons (at [57]). The first step involved the participants agreeing as to which of them would be allocated the project out of the group of participants who had been asked by a potential purchaser to quote or lodge a tender in relation to the project. This could involve agreement at two levels, first, between the “A” Group and the “R” Group and, secondly, by the participants within a group. Once the allottee was chosen, the Snowy Hydro Project Agreement was made. The second step was that the allottee company would notify the other participants of a price below which the notified party should not tender so as to ensure that the allottee secured the project (at [60]). Prysmian’s submission was that the two steps of making the Snowy Hydro Project Agreement and issuing the Price Guidance were steps in giving effect to the A/R Cartel Agreement and were effectively a single course of conduct in giving effect to the A/R Cartel Agreement in respect of the Snowy Hydro Project. It submitted that “the Snowy Hydro Agreement had no practical operation absent the provision of a Price Guidance, and the issuing of the Price Guidance was entirely directed to the object which motivated the making of the Snowy Hydro Agreement and the course of conduct of which it formed part”.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Prysmian submitted that this case did not involve two acts or instances of conduct in the sense identified by Greenwood J in Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2016] FCA 453; (2016) 336 ALR 1 (ACCC v Cement Australia) at [800]-[802]:\n… There are two separate classes of conduct in relation to this contract.\nThe first is the body of activity, thinking, engagement and completion of arrangements for a contract containing particular provisions which had the purpose and creatively had the effect and likely effect of substantially lessening competition (“making”).\nThe second class of conduct involved embarking upon activities to give voice to the outcome achieved by making the contract. …",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Prysmian also made the point, relying on the decision in Williams, that a single course of conduct analysis may be applied even though the conduct was directed to different people and occurred on different and separate occasions.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The ACCC referred to the general principles. It submitted correctly (see [42] below) that even if conduct was properly characterised as a single course of conduct, the Court was not obliged to apply the analysis if the resulting penalty failed to reflect the seriousness of the contravention. It pointed out that Parliament had created two contraventions, one for making the contravening agreement and the other for giving effect to it. That is true, but it does not take the matter very far. The principle is not relevant unless there are two or more offences and, in any event as I pointed out in ACCC v Yazaki (No 3) (at [42]), there are a number of decisions of this Court where the Court has treated a making and a giving effect to as involving a single course of conduct.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The ACCC relied on all of what Greenwood J said in paragraph 800 in ACCC v Cement Australia as follows:\nIt is true that the conduct of giving effect to the provisions is conduct which bears an inevitable relationship with the making of the provisions. If the conduct is examined in a linear sense rather than a disjunctive sense, the conduct consists of a corporation forming a view about striking an agreement with provisions which have the purpose, effect and likely effect of substantially lessening competition and then, having secured a contract with those provisions, performing the contract which necessarily engages giving effect to the provisions so made. However, in my view, the conduct should not be viewed as simply one class of linear conduct in the context of the Tarong Contract. There are two separate classes of conduct in relation to this contract.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "The ACCC submitted that the Court should consider the terms of the Act and the facts as found and decide whether “distinct contraventions should properly be regarded as part of the same wrongdoing so as to avoid penalising a contravener twice for what in substance amounts to the same conduct”.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "I considered the issue of whether conduct was a single course of conduct or one transaction in ACCC v Yazaki (No 3) at [37]-[43]. The issue can sometimes be a difficult one and fairly finely balanced. That can be seen in ACCC v Cement Australia where Greenwood J held that there were two classes of conduct in relation to the Tarong Contract ([800]-[802]), but only one course of conduct in relation to the Millmerran Contract ([806]-[810]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Prysmian’s submission, which has the A/R Cartel Agreement at the centre of the analysis and making the Snowy Hydro Project Agreement and issuing the Price Guidance as merely giving effect to it, downplays the significance of the making of the Snowy Hydro Project Agreement. It seemed to be implicit in the analysis that two acts of giving effect to an agreement were more likely to be viewed as a single course of conduct than an act of making an agreement and an act of giving effect to the agreement. I reject Prysmian’s analysis because it seems to focus unduly on the legal categories when the focus should be on the facts.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "Nevertheless, I have reached the conclusion that Prysmian’s conduct in this case was a single course of conduct. I do so taking a similar approach to that which I took in ACCC v Yazaki (No 3) (at [43]). The Price Guidance was issued to the other cartel participants and it was part of the activities between the contraveners. It is to be distinguished from the submission of prices to the purchaser, where I think the argument that there are two courses of conduct is stronger. For example, in this case it is to be distinguished from an aspect of the ACCC’s case upon which it was unsuccessful, namely, the issuing of the price direction and the lodging of a tender by Pirelli Australia (substantive reasons at [234]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The number of contraventions and whether the contravening conduct was a single course of conduct"
+    ],
+    "text": "I note that even viewing the conduct as a single course of conduct, I am not bound to proceed on the basis of the maximum penalty of $10 million if I am not satisfied that the resulting penalty will properly reflect the gravity and seriousness of the contravening conduct (Cahill at [42] per Middleton and Gordon JJ).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian submits that by reason of the parity principle, I should have regard to the pecuniary penalty imposed on Viscas Corporation (Viscas). As I mentioned in the substantive reasons (at [4]), that company was a respondent to the proceeding, but the claims against it were resolved. Viscas is mentioned a number of times in the substantive reasons (for example, at [9], [13], [16], [23], [47], [69], [82], [83], [167]). Viscas admitted the contraventions alleged against it and the ACCC and Viscas submitted agreed orders and agreed facts to the sentencing court. For present purposes, the relevant order made by the Court was as follows:\n2 Viscas pay to the Commonwealth of Australia, in respect of its conduct of entering into an arrangement with one or more of its competitors containing provisions:\n2.1 which had the purpose, effect or likely effect of fixing, controlling or maintaining (or providing for the fixing, controlling or maintaining of), the prices for land cables to be supplied to Snowy Hydro Limited; and\n2.2 which had the purpose of preventing, restricting or limiting the supply of land cables on particular conditions by those competitors to Snowy Hydro Limited,\nin contravention of the Act, a pecuniary penalty in the amount of $1,350,000, such penalty to be paid within 28 days of the date of these orders.\n(Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 5) [2013] FCA 294 (Viscas reasons)).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "It is necessary to pay close attention to the basis upon which this penalty was imposed. In the Viscas reasons, the sentencing judge at [12]-[20] described the contravening conduct (based on agreed facts) as follows:\nACCC and Viscas have agreed that between September and October 2003 there was an overarching arrangement or understanding in place between suppliers of land cables, including Viscas, Prysmian and Nexans relating to the allocation of projects in response to customers’ tenders. ACCC and Viscas have not characterised the nature of the overarching arrangement or understanding for the purpose of this hearing. There were two groups; Viscas, Exsym Corporation and JPS were members of a group of Japanese companies known amongst the two groups as the “A Group”, while Prysmian and Nexans were members of a European group known as the “R Group”.\nOn 12 September 2003, Snowy Hydro Limited (Snowy Hydro), an Australian company which had the responsibility for the Snowy Hydro Project in the Snowy Mountains Scheme, issued an invitation to a number of companies including Prysmian, JPS, Mitsui & Co (Australia) Ltd (Mitsui Australia) and Midland Metals Overseas Pte Ltd (Midland Metals) to tender for a contract to supply land cables and accessories for use in the Snowy Mountain Project.\nOn about the same day, JPS sent an email to representatives of the A Group and R Group, including Mr Tsubaki of Viscas, notifying the members that JPS had received an invitation to tender for the Snowy Hydro Project and asking that the members of the R Group tender in such a way so that one of the members of the A Group would obtain the contract for the Snowy Hydro Project (the Snowy Hydro Project Agreement).\nOn 24 September 2003, the representatives of members of the A and R Groups reached an arrangement or understanding, with which Viscas agreed, which contained a provision or provisions that the submission of tenders for the Snowy Hydro Project would occur such that one of the members of the R Group that supplied land cables would obtain preference for the Snowy Hydro Project and that the European companies (Prysmian and Nexans) would allocate amongst themselves the company to be preferred who would submit the lowest priced tender.\nOn 3 October 2003, in an exchange of emails between the members of the A Group and the R Group, Prysmian notified JPS of a price at or above which JPS should price land cables for the Snowy Hydro Project, for the purpose of ensuring that Prysmian’s tender had a lower price than any tender that JPS submitted, or was involved in, in accordance with the Snowy Hydro Project Agreement.\nShortly after 3 October 2003, Prysmian submitted a tender to Snowy Hydro that was below the price guidance and JPS supplied prices to Mitsui Australia that were above the price guidance provided by Prysmian.\nUltimately, Prysmian was not allocated the contract, but the contract was awarded to Midland Metals which had submitted a tender for less than half the price at which Prysmian tendered, and less than a third of the price at which Mitsui Australia tendered.\nIt is agreed between ACCC and Viscas that the Snowy Hydro Project Agreement had:\n22.1 The purpose, effect or likely effect of fixing, controlling and maintaining the price at which land cables were supplied to customers in Australia, in the Australian Cable Market; and\n22.2 The purpose of preventing, restricting or limiting the supply of land cables, or of preventing, restricting or limiting the supply of land cables in particular circumstances or on particular conditions, by the parties to the Snowy Hydro Agreement in competition with each other (or by any bodies corporate related to any of them), to Snowy Hydro.\nViscas admits that by arriving at the Snowy Hydro Project Agreement it contravened s 45(2)(a)(i) and (ii) of the Act and the Codes by operation of s 4D and s 45A.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "After describing the statutory and other well-known factors relevant to the imposition of a pecuniary penalty, the sentencing judge addressed the appropriateness of the agreed penalty in the following way (at [29]-[42]):\nThe appropriate penalty to be determined in any case will be within a range. The fixing of a penalty is not an exact science.\nThe question in this case is whether the proposed penalty is within that range.\nThe penalty must be substantial having regard to the conduct complained of, but it must not be so high as to be oppressive.\nIn considering whether the penalty proposed is appropriate, the Court will be mindful of ACCC’s position as the regulator and its view as to whether the proposed penalty would serve the deterrent purpose for which the penalty is to be imposed.\nIt will also take into account the public interest in the final determination of the proceeding, at least insofar as Viscas is concerned and the concomitant savings in time and expense.\nThe conduct complained of was very serious. It involved a deliberate course of conduct by engaging in anti-competitive behaviour at the expense of customers in that market.\nAlthough no actual damage was caused to Snowy Hydro, but for the tender of the non-collusive party, Midland Metals, Snowy Hydro could have suffered significant damage.\nViscas is one of a number of multi-national companies that compete in the supply of land and submarine cables world wide, including Australia. Viscas is now a substantial company. In the period April 2003 to March 2004, it had a global sales revenue of $69.4 million. In its recent financial year, its global sales revenue was $725 million. The size of Viscas’ share of the market is impossible to define.\nMr Tsubaki was a senior officer of Viscas, who during the relevant time was the General Manager of the Overseas Sales Department with the authority to act and bind the company. The conduct was thus at a high level.\nSince 2007, which is before ACCC initiated this proceeding, Viscas has endeavoured to introduce a culture of compliance in relation to anti-trust behaviour and has introduced the Viscas Anti-Trust Compliance Manual, which requires its employees to comply with foreign law and regulations.\nViscas has cooperated with ACCC to the extent that it has admitted its contravention and reached the agreement, which is the subject of these reasons.\nIts agreement means that the prosecution of the proceeding against Viscas is no longer necessary, which is to the advantage of the public generally and to ACCC, and to the Court.\nViscas has not previously been convicted or found to have engaged in any anti-competitive behaviour.\nIn my opinion, the penalty is within the appropriate range, such that it ought to be imposed by the Court.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian submits that the ACCC’s proposed penalty of $7 million is well above an appropriate penalty having regard to considerations of parity.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian’s main submissions were as follows.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "First, in Postiglione v The Queen (1997) 189 CLR 295 (Postiglione), Dawson and Gaudron JJ said (at 301):\nThe parity principle upon which the argument in this Court was mainly based is an aspect of equal justice. Equal justice requires that like should be treated alike but that, if there are relevant differences, due allowance should be made for them. In the case of co-offenders, different sentences may reflect different degrees of culpability or their different circumstances. If so, the notion of equal justice is not violated. On some occasions, different sentences may indicate that one or other of them is infected with error. Ordinarily, correction of the error will result in there being a due proportion between the sentences and there will then be equal justice. However, the parity principle, as identified and expounded in Lowe v The Queen, recognises that equal justice requires that, as between co-offenders, there should not be a marked disparity which gives rise to “a justifiable sense of grievance”. If there is, the sentence in issue should be reduced, notwithstanding that it is otherwise appropriate and within the permissible range of sentencing options.\n(Footnotes omitted.)\n(see also Lowe v The Queen (1984) 154 CLR 606 at 610 per Gibbs CJ; at 610-612 per Mason J; at 617 per Brennan J; at 623 per Dawson J). It is well-established that this principle applies in the context of fixing pecuniary penalties (Trade Practices Commission v Axive Pty Ltd [1994] ATPR 41-368; Australian Competition and Consumer Commission v Ithaca Ice Works Pty Ltd [2001] FCA 1716; [2002] ATPR 41-851 (ACCC v Ithaca Ice Works)).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Secondly, it is important to bear in mind the distinction between co-offenders in the same criminal enterprise where the parity principle applies and similar cases where reasonable consistency in sentencing is an aspect of sentencing (Green v The Queen (2011) 244 CLR 462 (Green v The Queen) at [29] per French CJ, Crennan and Kiefel JJ).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Thirdly, parity may lead to a lower sentence for an offender who is later sentenced than might otherwise have been appropriate (ACCC v Ithaca Ice Works at [51]-[53]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Fourthly, the parity principle applies in the case of the same criminal enterprise and is not restricted to cases where the co-offenders are charged with the same offence (Green v The Queen at [30] per French CJ, Crennan and Kiefel JJ).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Fifthly, as the passage from Postiglione indicates, due allowance must be made for differences in culpability and circumstances. Prysmian submits that the following have been identified in the authorities as relevant differences: the relative size of the corporations; their relative market power; the relative responsibility of the defendants for the contraventions; the relative effects of the defendants’ behaviour; and the defendants’ relative cooperation with the ACCC and the stage of the proceedings at which they admitted their contraventions (if at all).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Finally, Prysmian pointed to cases which have applied the parity principle (Schneider Electric (Australia) Pty Ltd v Australian Competition and Consumer Commission (2003) 127 FCR 170; Australian Competition and Consumer Commission v Admiral Mechanical Services Pty Ltd [2010] FCA 348; Australian Competition and Consumer Commission v Australian Abalone Pty Ltd [2007] FCA 1834; Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 8) [2011] FCA 153; (2011) 277 ALR 446).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian submitted that on the facts of this case the parity principle should be applied because Viscas was involved in the same conduct. Prysmian accepts that there must be an adjustment, having regard to the fact that Viscas agreed at an earlier stage to a resolution of the matter. Prysmian submits that Viscas was entitled to a reduction for its early plea and cooperation, but that even assuming the penalty of $1.35 million imposed on Viscas reflected the maximum possible discount of 30%, that equates to a penalty of $1.9 million absent the discount.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "The ACCC submits that there were significant differences between the conduct of Viscas and the conduct of Prysmian. First, the ACCC submits that although Viscas made the Snowy Hydro Project Agreement and thereby gave effect to the A/R Cartel Agreement, it did not engage in the further significant conduct engaged in by Prysmian of issuing the Price Guidance. Secondly, the ACCC submits that Viscas cooperated with the ACCC at an early stage of the proceeding and the penalty imposed was an agreed penalty. Thirdly, the ACCC submits that it is a relevant point of difference that Viscas, unlike Prysmian, did not contest service of the proceeding or liability and nor did it participate in the interlocutory applications that protracted the proceeding.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "The agreed facts before the sentencing judge in the Viscas matter, included facts concerning Viscas, its owners and the sales revenue over certain twelve month periods for each of these parties. The agreed facts were as follows:\n40. Viscas is a company that was established to carry out a joint venture between two Japanese companies Furukawa Electric Co Limited and Fujikura Limited, and each of Furukawa Electric Co Limited and Fujikura Limited own 50% of the shares in Viscas.\n41. Viscas’ global sales revenue for the 12 month period ending March 2004 was 5,338 million Yen or $AUD 69.4 million.\n42. Furukawa Electric Co Limited and Fujikura Limited for the 12 month period ending March 2004 was 739,867 million Yen or $AUD 9.62 billion and 331,325 million Yen or $AUD 4.31 billion respectively.\n43. Viscas’ global sales revenue for the 12 month period ending March 2012 was 60,417 million Yen or $AUD 725 million.\n44. Furukawa Electric Co Limited and Fujikura Limited for the 12 month period ending March 2012 was 918,808 million Yen or $AUD 10.77 billion and 509,081 million Yen or $AUD 5.97 billion respectively.\n(Footnotes omitted).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "I set out below under the heading, “The size of the contravening company and its market share or power”, certain facts concerning Prysmian and the Prysmian Group.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian put forward a table which compared sales figures for Prysmian and the Prysmian Group with Viscas and the Viscas Group. The table was prepared based on the agreed facts. It is as follows:",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Prysmian asked me to draw a number of conclusions relevant to penalty based on the differences shown in this table and the figures for Prysmian and the Prysmian Group for the financial year ended 31 December 2015. I take one by way of example. Prysmian submits that if a penalty of $1.35 million for a group earning in the order of $17.5 billion in the financial year before the imposition of penalty is appropriate, then a penalty of $2 million is appropriate for a group earning in the order of $11 billion in the financial year ending 31 December 2015. I put very little weight on this and the other examples advanced by Prysmian because I do not think this degree of precision applies, or should apply, to the sentencing process.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "In my opinion, although I should have regard to the penalty imposed on Viscas, there are three matters which mean a close approximation between the penalty to be imposed on Prysmian and the penalty imposed on Viscas is neither required nor appropriate.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "First, Viscas pleaded guilty at an early stage to the contraventions alleged against it. It was entitled to a discount for that because it enabled the contraventions to be dealt with promptly with a saving in time and expense and because it indicates an element of contrition on the part of Viscas. It is not known what discount the sentencing judge applied. I should make it clear that I do not treat the fact that Prysmian contested a number of issues at and prior to trial as a point of difference between Viscas and Prysmian. That is a matter potentially relevant to costs, not penalty (ACCC v Yazaki (No 3) at [76]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Secondly, as the sentencing judge noted, the question before him was whether the penalty agreed by the parties was within an appropriate range.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The parity principle and the penalty imposed on Viscas Corporation"
+    ],
+    "text": "Thirdly, Prysmian has been found guilty of additional contravening conduct, being the issuing of the Price Guidance. Prysmian submitted that this was not a significant difference because it was simply the result of the fact that it was the allottee. I reject this submission. The fact is that it was the allottee and it did issue the Price Guidance. I should add that, for its part, the ACCC submitted that another point of difference is that Viscas was not invited to tender for the Snowy Hydro Project, whereas Prysmian was invited to tender. I reject that submission. I do not see it as a relevant point of difference because it does not add to the culpability of Prysmian.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The fixing of the appropriate penalty - general"
+    ],
+    "text": "The general approach to fixing a pecuniary penalty, the relevance of the maximum penalty and the primary role to be accorded to deterrence in fixing the appropriate penalty has been considered by this Court on many occasions. I take the liberty of repeating what I said in ACCC v Yazaki (No 3) at [45]-[46]:\nThe nature of the process of fixing a pecuniary penalty and the relevance of the maximum penalty to that process were considered by the Chief Justice of this Court in Australian Competition and Consumer Commission v Coles Supermarkets Australia Pty Limited [2015] FCA 330; (2015) 327 ALR 540 (ACCC v Coles) at [6] (see Markarian v The Queen (2005) 228 CLR 357 at [27]-[39] per Gleeson CJ, Gummow, Hayne and Callinan JJ). I will not repeat what his Honour said. Section 76(1) of the Act requires the Court to impose such a penalty as it considers appropriate having regard to all relevant matters, including the four matters which are identified in the subsection. The authorities in this Court have long recognised a non-exhaustive list of additional relevant matters (see, for example, Trade Practices Commission v CSR Ltd [1990] FCA 762; [1991] ATPR 41-076 at 52,152-153 (TPC v CSR); NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 (NW Frozen Foods v ACCC) at 292-294 per Burchett and Kiefel JJ; J McPhee & Son v ACCC at [150] and following; ACCC v Dermalogica at [60]).\nAt the outset, it is to be noted that the High Court has made it clear that general deterrence and specific deterrence each play a primary role in assessing the appropriate pecuniary penalty in cases of this nature. Although the Court in Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 250 CLR 640 was dealing with the provisions of the Australian Consumer Law, the plurality’s observations as to the significance of general deterrence and specific deterrence at [65] apply equally in this area (see also TPC v CSR at 52-153; NW Frozen Foods v ACCC at 292). As has been said a number of times, it is also important that the penalty acts as a deterrent and is not simply viewed by the contravening company and the third parties as the cost of doing business.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The nature and extent of the contravening conduct, the circumstances in which it occurred and the deliberateness of the conduct"
+    ],
+    "text": "The ACCC emphasised in its submissions the international nature of the A/R Cartel Agreement and the fact that the contravening conduct included giving effect to the agreement. Each of those matters are correct, but two important matters must be borne in mind. First, the contravening conduct does not include making the A/R Cartel Agreement and secondly, the contravening conduct is giving effect to the A/R Cartel Agreement in a particular way associated with a particular project.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The nature and extent of the contravening conduct, the circumstances in which it occurred and the deliberateness of the conduct"
+    ],
+    "text": "The contravening conduct occurred over a relatively short period of time in September and October 2003. It did not involve a large project in terms of financial cost. Prysmian did not secure the contract. I also take into account that although perhaps for reasons which may be described as technical (substantive reasons at [234]), I held that Prysmian had not lodged the tender by its agent, Pirelli Australia.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The nature and extent of the contravening conduct, the circumstances in which it occurred and the deliberateness of the conduct"
+    ],
+    "text": "The circumstances in which the contravening conduct occurred are set out in the substantive reasons. There is nothing in those circumstances which operates to mitigate the seriousness of the offending. The conduct was deliberate. It was also premeditated in the sense it was carried out pursuant to the A/R Cartel Agreement.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The loss and damage caused by the contravening conduct and the profit gleaned from the conduct"
+    ],
+    "text": "The contravening conduct related to the Snowy Hydro Project. Prysmian did not secure the contract. It was secured by Midland Metals Overseas Pte Ltd at a much lower quote (see the substantive reasons for a description of the Snowy Hydro Project Tender Process at [116]-[127]). Snowy Hydro did not suffer a loss by the contravening conduct, and Prysmian did not make a profit as a result of the contravening conduct.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "Previous contraventions of the Act"
+    ],
+    "text": "The parties are agreed that Prysmian has not been found to have contravened the Act or Competition Codes previously.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The size of the contravening company and its market share or power"
+    ],
+    "text": "The parties agreed certain facts concerning the history of Prysmian, the Pirelli Group of which it was a part, and subsequently the Prysmian Group. Those facts (relevantly) are as follows:\n20. During the period 2001 – 2003 the subject of these proceedings, and in the more than 13 years that have elapsed since then, Prysmian and the two corporate groups of which it has formed part, have undergone substantial reorganisation of both their business activities and shareholding arrangements.\n21. During the period 2001 – 2003, Prysmian was part of the Pirelli Group.\n22. During the period 2001 – 2003, the Pirelli Group included the following businesses:\n22.1. An Energy Cables and Systems business, including Prysmian, that, in the financial year ending 31 December 2003:\n22.1.1. had net sales of 2,637 million Euros (being AUD$4.422 billion), of which 8% were in Asia;\n22.1.2. had an operating profit of 83 million Euros; (being AUD$139.19 million)\n22.1.3. had net income of 39 million Euros (being AUD$65.40 million), improving from a net income loss of -120 million Euros (being -AUD$201.24 million) the previous year;\n22.1.4. was 354 million Euros (being AUD$693.66 million) in debt;\n22.1.5. had reduced its staff and employee numbers by 1,733 to 10,746 globally to improve its net indebtedness position;\n22.1.6. had 48 factories, 4 of which were shared with the Telecom Cables and Systems Sector;\n22.2. A Telecom Cables and Systems business, which had an operating loss of -39 million Euros (being AUD$65.40 million), and was 302 million Euros (being AUD$506.45 million) in debt;\n22.3. A Tyre business, with net sales of 297 billion Euros (being AUD$4.98 billion), an operating profit of 220 million Euros (being AUD$368.94 million) and a net debt position of 317 million Euros (being AUD$531.61 million);\n22.4 A Real Estate business, headed by Pirelli & C Real Estate, with an operating profit of 128.1 million Euros (being AUD$214.82 million); and\n22.5. A renewable energy business that reported a 2.1 million Euros (being AUD$3.52 million) loss.\n23. For the financial year ending 31 December 2003, Prysmian had net sales of 74 million Euros (being AUD$124 million).\n(Footnotes omitted).\nIt is clear, I think, that Prysmian is a large global group which has substantial market shares.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "Pecuniary Penalty",
+     "The size of the contravening company and its market share or power"
+    ],
+    "text": "The ACCC pointed out that its proposed pecuniary penalty of $7 million would be approximately 5.6% of Prysmian’s net sales for the financial year in which the contraventions were committed.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management"
+    ],
+    "text": "In the substantive reasons, I set out details of the positions held by the representatives of Prysmian who were involved in the contravening conduct (at [120] and [131]). In the Statement of Facts (Found, Admitted or Agreed), the parties conveniently summarised the position in a table which is as follows:",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management"
+    ],
+    "text": "There is further detail in the substantive reasons (at [231]):\nPrysmian’s answers to interrogatories establish that each of the following was employed by Prysmian: Mr Acquaotta (from 1 March 2002 to October 2003), Mr Corbellini (from 1 December 2001 to October 2003), and Mr Comber (from 1 December 2001 to October 2003). Mr Knowles was employed by Pirelli General plc from 1 January 2002 to October 2003, and Mr Ian Butt was employed by Pirelli General plc and seconded to Pirelli Cables System PTE Ltd. As I understand it, Pirelli General plc and Pirelli Cables Systems PTE Ltd are companies in the United Kingdom and that is the place where the cable for the Snowy Hydro Project would have been manufactured had the contract been secured. Mr Acquaotta was employed as a sales/marketing manager responsible to Mr Alberto Tessari and his duties included responsibility for marketing and sales within the Energy Submarine Systems business at the worldwide level; defining guidelines for sales, including pricing policies, conditions of sales and warranties; and responsibility for sales managers working in different geographical areas. Mr Corbellini was employed as manager HV installation, responsible to Mr Hans Neiman and his duties included responsibility for the installation of high voltage systems in the subsidiaries of the group, including Pirelli Construction Company Ltd. Mr Comber was employed in the sales support tender office responsible to Mr Tiziano Furlan and his duties included responsibility for the development of new markets in relation to high voltage cables and accessories within the HV transmission system business. Mr Knowles was contracts manager responsible to Mr Tiziano Furlan (after 1 January 2002) and his duties were within the Energy Cable business with responsibility for sales activities of the Submarine Energy System and High Voltage in the Far East and Middle East. Mr Butt was HV Systems Area Manager (Asia-Pacific area) responsible to Mr Hans Neiman and his duties included responsibility for sales activities for HV systems in the Asia-Pacific area.\nAs I said in the substantive reasons, the persons listed above had the authority of Prysmian to commit Prysmian to the A/R Cartel Agreement and the Snowy Hydro Project Agreement and to give effect to either or both agreements by issuing the Price Guidance. Mr Acquaotta and Mr Corbellini were senior executives of Prysmian and employees of the company.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management",
+     "A corporate culture conducive to compliance with the Act"
+    ],
+    "text": "At the time the contravening conduct took place, Prysmian did not undertake specific compliance programs or provide training to its personnel in relation to compliance with the Act.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management",
+     "A corporate culture conducive to compliance with the Act"
+    ],
+    "text": "On 12 May 2011, Prysmian’s parent company adopted an Anti-Trust Code of Conduct (Code). As to the Code, the parties have agreed the following:\n36. The Code has been implemented as follows:\n36.1. presented to a worldwide commercial meeting of the Prysmian Group in October 2011;\n36.2. distributed in hard-copy to attendees of the senior management meeting, 18 July 2012, with a signed register maintained of recipients;\n36.3. presented to the senior management of the Prysmian Group again at meeting on 21 September 2012;\n36.4. formal release of the Code to the Prysmian Group on 6 November 2012, including its incorporation within a broader suite of Prysmian Group compliance policies that are available on the intranet and form part of the 6-monthly CEO/Vice President business units compliance certifications;\n36.5. at a meeting of the board of directors on 27 February 2013, an Internal Audit Plan 2013 was adopted which required compliance audits be undertaken measuring awareness of and adherence to all Prysmian Group compliance policies. This was repeated as part of the internal audit plan 2014 (approved by the Board of Directors on 25 February 2014), the internal audit plan 2015 (approved by the board of directors on 25 February 2015) and the internal audit plan 2016 (approved by the Board of Directors on 24 February 2016);\n36.6. from January 2014, it formed part of the Prysmian Group e-learning and training attestation module which was launched in January 2014, and whose target population includes all management and staff.\n36.7. as part of the new whistleblowing policy approved by the board of directors on 28 July 2016 and distributed to all companies in the Prysmian Group.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management",
+     "Contrition and Cooperation"
+    ],
+    "text": "Prysmian has shown no contrition for the contravening conduct and it has not cooperated in any relevant sense.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management",
+     "Totality"
+    ],
+    "text": "The only aspect of the totality principle raised by the parties related to the issue of whether there was one or two courses of conduct. I have already dealt with that issue.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "The Relief to be Granted against Prysmian",
+     "The involvement of senior management",
+     "Conclusion as to the appropriate penalty"
+    ],
+    "text": "In my opinion, having regard to all of the above matters, the appropriate penalty is $3.5 million.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "The Costs Order"
+    ],
+    "text": "Subject to two qualifications, Prysmian should pay the ACCC’s costs of the proceeding against Prysmian. There is no reason to vary existing orders for costs in favour of Prysmian. Prysmian has asked to be heard as to the costs of the penalty hearing and I will give both it and the ACCC the opportunity to be heard.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "For these reasons, I will make the following orders:\nThe Court Declares That:\nPrysmian by making or arriving at an arrangement or understanding in or about September or October 2003 in relation to the supply of land-based electrical cables (land cables) and accessories containing provisions which had the purpose of restricting or limiting the supply of goods to Snowy Hydro Limited and the purpose, effect or likely effect of controlling prices for goods to be supplied to Snowy Hydro Limited (Snowy Hydro Project Agreement), has contravened ss 45(2)(a)(i) and 45(2)(a)(ii) of the Trade Practices Act 1974 (now known as the Competition and Consumer Act 2010 (Cth)) (Act) and the Competition Codes (Competition Codes);\n(4) Prysmian by making or arriving at the Snowy Hydro Project Agreement and thereby giving effect to the provisions of an arrangement or understanding with competitors in relation to the supply, including in Australia, of land cables, submarine-based electrical cables (submarine cables) and accessories (A/R Cartel Agreement), has contravened s 45(2)(b)(ii) of the Act and the Competition Codes; and\n(5) Prysmian by issuing price guidance to competitors in accordance with the provisions of the Snowy Hydro Project Agreement:\n(a) has given effect to the Snowy Hydro Project Agreement and thereby contravened ss 45(2)(b)(i) and 45(2)(b)(ii) of the Act and Competition Codes; and\n(b) has given effect to the A/R Cartel Agreement and thereby contravened s 45(2)(b)(ii) of the Act and the Competition Codes.\nThe Court Orders That:\n(6) Within 28 days of these orders, Prysmian pay to the Commonwealth of Australia, pursuant to s 76 of the Act, alternatively s 76 of the Competition Codes, a pecuniary penalty in the amount of $3,500,000 in respect of Prysmian’s contraventions of the Act or the Competition Codes that are the subject of the Court’s declarations.\n(7) Save and except as to the following:\n(a) existing costs orders in favour of Prysmian; and\n(b) the costs of and incidental to the hearing which is the subject of these reasons;\nPrysmian pay the ACCC’s costs of and incidental to the proceeding against it as taxed or agreed.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "Nexans SA seeks an order for costs against the ACCC on a party and party basis from 23 September 2009 to 10.59 am (AEST) on 2 July 2015, and on an indemnity basis from 11.00 am (AEST) on 2 July 2015. The ACCC submits that, subject to some immaterial qualifications for present purposes, the order for costs throughout the relevant period should be on a party and party basis and that Nexans SA’s application for indemnity costs should be refused.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "Nexans SA relies on an affidavit of Mr Nicholas Mavrakis sworn on 31 August 2016. Mr Mavrakis is a partner in the firm, Clayton Utz, which is the firm representing Nexans SA. The ACCC relies on an affidavit of Mr Matthew Richard Garey affirmed on 7 October 2016. Mr Garey is an Australian Government Solicitor (AGS) lawyer. The AGS represents the ACCC.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "On 30 June 2015, Clayton Utz sent a letter to the AGS in which it enclosed a Notice of offer to compromise pursuant to Part 25 of the Federal Court Rules 2011 (Cth). The offer was for the proceeding to be discontinued in whole as against Nexans SA with no order for costs. The offer of compromise was expressed to be open to be accepted by the ACCC for 14 days after service of the offer. In their letter, Clayton Utz said that, in light of the following matters, it would be unreasonable for the ACCC not to accept the offer:\n2. The offer of compromise is made having regard to the following:\n(a) The Second Respondent did not manufacture or supply any cables of any kind in any place in the world, including Australia.\n(b) The Applicant’s case as against the Second Respondent is founded upon an assertion that Mr Jay and Mr Romand were “representatives” of the Second Respondent and thereby the Second Respondent was party to the alleged A/R Cartel Agreement. There is no evidence that either of them was an employee of the Second Respondent or an agent of the Second Respondent with actual or ostensible authority to act.\n(c) The Second Respondent was not invited to tender for the Snowy Hydro Project and did not participate in the tender process for the Snowy Hydro Project.\n(d) The Second Respondent was not a party to the alleged Snowy Hydro Project Agreement.\n(e) The Applicant’s case in respect of the alleged A/R Cartel agreement and alleged Snowy Hydro Project Agreement is founded upon Mr Osada’s affidavit evidence which is replete with, among other things, stated or otherwise unstated hearsay such as to be inadmissible.\n(f) Even accepting that Mr Osada’s evidence is accepted, it does not and cannot establish the Applicant’s pleaded case against the Second Respondent in respect of the conduct for which it can and does seek relief.\n3. The Applicant’s Opening at paragraph 60 in part asserts:\n“The ACCC submits that Mr Jay and Mr Romand were acting on behalf of Nexans because they were high-level executives in the Nexans group of companies (of which Nexans is the ultimate parent) …”\n4. The “evidence” upon which the Applicant intends to rely does not prove this proposition even if it were tenable in law (which it is not). Further, in that regard:\n4.1 Mr Osada’s evidence cannot prove the positions and authorities of Messrs Jay and Romand;\n4.2 The “nature” of the communications likewise cannot prove the position and authorities of Messrs Jay and Romand;\n4.3 The assertion that Nexans group business is Nexans SA business casts aside the separate corporate existence of companies in the Nexans Group. This is both not pleaded and contrary to settled principle.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "Clayton Utz contended that the costs incurred to that point were “most substantial”. The accuracy of that contention is not in dispute.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "A number of the contentions made by Clayton Utz proved accurate at the trial. Although I found that a Nexans company was a party to the A/R Cartel Agreement (at [167]) and that that agreement fell within s 45(2)(b)(ii) of the Act (at [189]), I was not prepared to find that Nexans SA or a Nexans company was a party to the Snowy Hydro Project Agreement (at [202]-[203]) (Clayton Utz letter paragraph 2(d)). I also found that it had not been established that Mr Jay and Mr Romand were acting for Nexans SA as distinct from another major company in the Nexans Group of Companies (at [215], [239]-[242]) (Clayton Utz letter paragraphs 2(b), 3 and 4).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "The main contention advanced by Nexans SA was that the ACCC should have been aware at the time of the offer of the weakness (if not, hopeless nature) of its case insofar as it sought to attribute the conduct of Messrs Jay and Romand to Nexans SA and, in the circumstances, its failure to accept the offer was unreasonable. Nexans SA did put an argument that the same could be said of the ACCC’s case insofar as it sought to prove that Nexans SA was a party to the Snowy Hydro Project Agreement. It is fair to say that this was put by Nexans SA as a secondary argument. I indicate at this point that this secondary argument must be rejected. Considering Mr Osada’s evidence and the documents which I set out in the substantive reasons, I do not think that it can be said that the ACCC’s decision not to accept a “walk-away” offer was unreasonable because of this argument.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "The Rule of Court which applies to the offer made by Nexans SA is r 25.14(2) and it provides as follows:\n(2) If an offer is made by a respondent and an applicant unreasonably fails to accept the offer and the applicant’s proceeding is dismissed, the respondent is entitled to an order that the applicant pay the respondent’s costs:\n(a) before 11.00 am on the second business day after the offer was served—on a party and party basis; and\n(b) after the time mentioned in paragraph (a)—on an indemnity basis.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "The relevant principles are not in issue. They may be summarised as follows:\n(1) Rule 25.14(2) of the Rules largely reflects the principles developed under O 23 r 11 of the Federal Court Rules 1979 (Cth) (Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141 (Kooee)).\n(2) The presumption that an order for indemnity costs will be made applies if (but only if) the applicant “unreasonably” failed to accept the respondent’s offer (Kooee at [14]).\n(3) As a matter of principle, the same criteria of unreasonableness governs the question whether rejection of the Calderbank offer should result in an order for indemnity costs against an unsuccessful party (Kooee at [18]).\n(4) The matters which are relevant in determining whether the rejection of a Calderbank offer was unreasonable include the following:\n(a) the stage of the proceeding at which the offer was received;\n(b) the time allowed to the offeree to consider the offer;\n(c) the extent of the compromise offered;\n(d) the offeree’s prospects of success, assessed as at the date of the offer;\n(e) the clarity with which the terms of the offer were expressed; and\n(f) whether the offer foreshadowed an application for indemnity costs in the event of the offeree rejecting it.\nHazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (2005) 13 VR 435 at 442; SPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356 at [3] SPI PowerNet v Commissioner of Taxation (No 2)); Specsavers Pty Ltd v Luxottica Retail Australia Pty Ltd (No 2) [2013] FCA 807 at [10] per Griffiths J.\n(5) The important date or period for the purposes of the analysis will ordinarily be the period during which the offer remains open and the Court must guard against an overreliance on hindsight. The Full Court of this Court made this point in SNF (Australia) Pty Ltd v Ciba Speciality Chemicals Water Treatments Ltd (No 2) [2016] FCAFC 112 at [11]:\nThe fact that we firmly rejected all of SNF’s arguments does not mean that, properly advised, SNF should have recognised that they were hopeless and doomed to fail. We had the benefit of Ciba’s comprehensive written and oral submissions in reaching the conclusions we did. That we were persuaded of the correctness, in effect, of each and every submission Ciba made does not mean that SNF was doomed to fail, or was involved in running a case that, on any reasonable view, should not have been run at all. In particular, the fact that we found the documents not to be discoverable in any event does not mean that SNF pursued the appeal in deliberate disregard of known facts. SNF had a view of the facts which, if correct, would have meant the documents were arguably discoverable. We rejected SNF’s view of the facts. But we did so with the benefit of the detailed written and oral submissions which Ciba provided. This does not mean that SNF’s contentions lacked any rational foundation, or that, in running the case that it did, SNF unreasonably prolonged the hearing of the application for leave.\n(6) The ACCC is established by statute (s 6A of the Act) and has important enforcement powers and responsibilities which are to be exercised in the public interest. The Court should not be too ready to award indemnity costs against the ACCC least it deter it from carrying out its important public functions (Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844 at [27] per Gray J; Australian Competition and Consumer Commission v Australian Egg Corporation Ltd [2016] FCA 447 at [59]-[60] per White J). This matter is a relevant matter, but it is not a matter which overwhelms or dominates other considerations (SPI PowerNet v Commissioner of Taxation (No 2) at [4]-[5]). A case where a similar public interest consideration did not deter a court from making an order for indemnity costs is Federal Commissioner of Taxation v Clark and Another (No 2) (2011) 197 FCR 251 at [29].",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "I have reached the conclusion that the ACCC did not act unreasonably in rejecting Nexans SA’s offer.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "Before I explain my reasons for reaching that conclusion, I will address the matters in the non-exclusive list set out in (4) above.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "As to (a), the offer was made a little under six years after the proceeding was commenced and within two weeks of the commencement of the trial. As to (b), the offer was open for a period of 14 days. There is no suggestion that that period did not give the ACCC adequate time to consider the terms of the offer. As to (c), the offer was a “walk-away” offer and the compromise offer by Nexans SA was its costs to that point. There is no dispute that, having regard to the protracted and complex nature of the proceeding, Nexans SA’s costs to that point would have been substantial. As to (d), I will address this matter as part of the analysis which follows. As to (e), there is no difficulty in understanding the terms of the offer. As to (f), there is no doubt that the ACCC would have known that the offer would be deployed on the issue of costs because the letter from Clayton Utz referred to costs, but more simply, the offer was an offer pursuant to Part 25 of the Rules.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "The history of the proceeding is relevant, although except for what follows, I do not propose to repeat it. It is set out in detail in Mr Mavrakis’ affidavit. That history reveals the following. The proceeding was commenced on 23 September 2009. Thereafter, the proceeding has, as I have said, been protracted and complex. From the beginning of Nexans SA’s involvement in the proceeding, it has maintained (among other matters) that any conduct by Messrs Jay and Romand could not be attributed to Nexans SA. The ACCC was aware of that. It can be seen, for example, in the submissions of senior counsel for Prysmian on the application for the discharge of the order granting leave to serve the proceeding on 20 February 2012. It was reinforced when Nexans SA served Mr Noonan’s affidavit on 24 December 2014 which I summarised in the substantive reasons (see, in particular, [148]-[149] and [239]). I infer from the ACCC’s application for interrogatories on 2 June 2015 that it was aware of the difficulties in its case. At the trial, the ACCC cross-examined Mr Noonan extensively about the GESO in an attempt to show that the conduct of Messrs Jay and Romand, although employees of Nexans France, could be attributed to Nexans SA.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "In my opinion, the ACCC did not act unreasonably in refusing the offer to compromise for the following reasons. First, a judge of this Court held, in considering Nexans SA’s challenge to the decision to grant leave to serve the proceeding outside the jurisdiction, that the ACCC had a prima facie case against Nexans SA (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251). The judge said (at [355]-[356]):\nMr Jay’s precise employer and that employer’s position within the Nexans group may be established at trial. In the meantime, the applicant has established a prima facie case that Mr Jay and Mr Romand were acting on behalf of Nexans over the relevant period. Employment is not the only way that Nexans might be bound by Mr Jay’s and Mr Romand’s conduct.\nMr Jay acted as Nexans’ representative in respect to the A/R Cartel Agreement and Mr Jay maintained the table recording the projects relating to the A/R Cartel. For that reason, it does not presently matter which entity actually employed Mr Jay. During the hearing, Nexans’ counsel, Mr Jackman QC, did not submit that if Mr Jay and Mr Romand were not employed by Nexans, then Nexans could not be responsible. He said Nexans did not put that proposition.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "I do not accept the suggestion that the force of those observations was overtaken by subsequent events and that Mr Noonan was not challenged about whether Messrs Jay and Romand were representatives of Nexans SA. He may not have been challenged on the evidence that they were not employees of Nexans SA and that there were no written instruments of authority by Nexans SA to Messrs Jay and Romand, but a good deal of the cross-examination was directed towards the connection between Nexans SA and Messrs Jay and Romand, if any, and so as to make out a case of attribution. I refer, for example, to the extensive cross-examination about the nature of the GESO and its role and functions (see the substantive reasons at [155]-[166]). Aspects of the cross-examination about the proceedings in the European Commission were also likely directed (in part at least) at this topic (substantive reasons at [153]).",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "Secondly, I think that hindsight can lead one to focus on the particular matter upon which the applicant failed at the expense (and it is a question of degree) of a consideration of the applicant’s case as a whole. There was very strong evidence in support of the A/R Cartel Agreement. I found that a major Nexans company knew about the Snowy Hydro Project and that Mr Jay had received the email from Mr Osada dated 12 September 2003 (at [52], [201], [202]). Furthermore, the fact is that I found that the activities of Mr Romand and Mr Jay as described in the substantive reasons were carried out on behalf of a major company in the Nexans Group of companies (at [240]). The conduct alleged, if proved, involved a very serious contravention of the Act and Competition Codes. I appreciate that it can be said that a case is weak where one of its necessary elements is weak, but the question is whether the ACCC’s rejection of the offer was unreasonable. That requires a consideration of all the circumstances. Aspects of the ACCC’s case appeared strong.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "The case was a complex one and the question of attribution can be difficult and may turn on quite fine factual distinctions. It is possible that something might have emerged during the cross-examination of Mr Noonan. When these circumstances are fairly considered, I think there is scope for the third matter – the ACCC’s compliance and enforcement responsibilities on behalf of the public – to be given some weight.",
+    "judge": "BESANKO J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "NexanS SA’s Application for Indemnity costs"
+    ],
+    "text": "I reject Nexans SA’s application for indemnity costs. The appropriate order for costs is that, subject to existing orders for costs and the operation of r 40.04 of the Rules of Court, the ACCC pay Nexans SA’s costs of the proceeding on a party and party basis as taxed or agreed.",
+    "judge": "BESANKO J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding ninety-seven (97) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+ "associate": null,
+ "dated": "2017-07-28",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "83a527222e054916819a4536bd2aa9dea93b5a7bd562137cff78a31b17721f98",
+ "markdown_file": "data/extracted/2017/2017FCA0851.md"
+}

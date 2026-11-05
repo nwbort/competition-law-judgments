@@ -1,0 +1,273 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2013/2013FCA0829.docx",
+ "metadata": {
+  "citation": "[2013] FCA 829",
+  "name": "Pampered Paws Connection Pty Ltd (on its own behalf and in a Representative Capacity) v Pets Paradise Franchising (Qld) Pty Ltd (No 12)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 829,
+  "date_of_judgment": "2013-08-16",
+  "file_numbers": [
+   "SAD142/2008"
+  ],
+  "judges": [
+   "MANSFIELD J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "No catchwords",
+  "place": "Melbourne",
+  "hearing_dates": [
+   "2013-07-11"
+  ],
+  "hearing_raw": "11 July 2013",
+  "last_submissions": "2013-08-02",
+  "number_of_paragraphs": 12,
+  "parties": [
+   {
+    "name": "PAMPERED PAWS CONNECTION PTY LTD (ON ITS OWN BEHALF AND IN A REPRESENTATIVE CAPACITY)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "ACN 116 460 621",
+    "role": "First Applicant"
+   },
+   {
+    "name": "ELIZABETH MARGARET MUIR CAMPBELL",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "LYNDA JANE ELIZABETH DONNELLY",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "PETS PARADISE FRANCHISING (QLD) PTY LTD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ACN 054 406 272",
+    "role": "First Respondent"
+   },
+   {
+    "name": "PETS PARADISE FRANCHISING (SA) PTY LTD",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "ACN 069 620 391",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "PETS PARADISE FRANCHISING (NSW) PTY LTD",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "ACN 060 679 647",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "GLOBAL PET PRODUCTS PTY LTD",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "ACN 005 666 599",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "PETS PARADISE (FRANCHISING) PTY LTD",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "ACN 006 626 455",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "PETS PARADISE PTY LTD",
+    "role": "Sixth Respondent"
+   },
+   {
+    "name": "ACN 005 558 378",
+    "role": "Sixth Respondent"
+   },
+   {
+    "name": "PARADISE RETAIL HOLDINGS PTY LTD",
+    "role": "Seventh Respondent"
+   },
+   {
+    "name": "ACN 105 253 441",
+    "role": "Seventh Respondent"
+   },
+   {
+    "name": "GARY DIAMOND",
+    "role": "Eighth Respondent"
+   }
+  ],
+  "parties_summary": "PAMPERED PAWS CONNECTION PTY LTD (ON ITS OWN BEHALF AND IN A REPRESENTATIVE CAPACITY) ACN 116 460 621, ELIZABETH MARGARET MUIR CAMPBELL and LYNDA JANE ELIZABETH DONNELLY v PETS PARADISE FRANCHISING (QLD) PTY LTD ACN 054 406 272, PETS PARADISE FRANCHISING (SA) PTY LTD ACN 069 620 391, PETS PARADISE FRANCHISING (NSW) PTY LTD ACN 060 679 647, GLOBAL PET PRODUCTS PTY LTD ACN 005 666 599, PETS PARADISE (FRANCHISING) PTY LTD ACN 006 626 455, PETS PARADISE PTY LTD ACN 005 558 378, PARADISE RETAIL HOLDINGS PTY LTD ACN 105 253 441 and GARY DIAMOND",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "P Lynch"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Lynch Morgan Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "CP Munt"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Donaldson Walsh Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0829",
+  "portal_file_numbers": [
+   "SAD142/2008"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2013-07-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Pampered Paws Connection Pty Ltd (on its own behalf and in a Representative Capacity) v Pets Paradise Franchising (Qld) Pty Ltd (No 12) [2013] FCA 829"
+  },
+  {
+   "label": "Parties",
+   "value": "PAMPERED PAWS CONNECTION PTY LTD (ON ITS OWN BEHALF AND IN A REPRESENTATIVE CAPACITY) ACN 116 460 621, ELIZABETH MARGARET MUIR CAMPBELL and LYNDA JANE ELIZABETH DONNELLY v PETS PARADISE FRANCHISING (QLD) PTY LTD ACN 054 406 272, PETS PARADISE FRANCHISING (SA) PTY LTD ACN 069 620 391, PETS PARADISE FRANCHISING (NSW) PTY LTD ACN 060 679 647, GLOBAL PET PRODUCTS PTY LTD ACN 005 666 599, PETS PARADISE (FRANCHISING) PTY LTD ACN 006 626 455, PETS PARADISE PTY LTD ACN 005 558 378, PARADISE RETAIL HOLDINGS PTY LTD ACN 105 253 441 and GARY DIAMOND"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 142 of 2008"
+  },
+  {
+   "label": "Judge",
+   "value": "MANSFIELD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "16 August 2013"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 July 2013"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "2 August 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Melbourne"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "No catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "12"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "P Lynch"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Lynch Morgan Lawyers"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "CP Munt"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Donaldson Walsh Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Judgment in this matter was delivered on 27 January 2012: Pampered Paws Connection Pty Ltd (on its own behalf and in a Representative Capacity) v Pets Paradise Franchising (Qld) Pty Ltd (No 10) [2012] FCA 25. That judgment followed a lengthy and complex hearing on a number of issues. It left some matters still to be addressed by the parties. In part those matters were addressed by the calling of further evidence."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The final judgment and orders were delivered on 19 March 2013: Pampered Paws Connection Pty Ltd (on its own behalf and in a Representative Capacity) v Pets Paradise Franchising (Qld) Pty Ltd (No 11) [2013] FCA 241."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "It is now necessary to address the costs of the proceedings. When the second judgment was delivered, as it then appeared to me that it was arguable that the respondents had been significantly more successful than the applicants in the proceeding, I directed the exchange of proposed orders for costs and submissions in a sequence which required the respondents first to do so. The exchange of submissions was to be completed by 28 June 2013."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The respondents did not make any proposal for an order for costs in accordance with those directions. It was left to the applicants to bring the matter to a head. In the interim period, the solicitors for the respondents on 29 May 2013 had ceased to act for them. It appears that the receivers and managers of the first to sixth respondents had been appointed on 30 July 2012, and subsequently liquidators of the fourth and sixth respondents had been appointed on 21 December 2012. None of the receivers and managers, or the liquidators, or the eighth respondent conveyed to the Court in the period up to 11 July 2013 (when the matter came on for a further hearing at the instigation of the applicants) any reason why the respondents had not proposed a costs order in their favour."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "On 11 July 2013, the former solicitors for the respondents sought leave to intervene for the purposes of pursuing an order for costs in favour of the respondents to the extent of the moneys for security for the costs of the respondents as may be ordered in the proceedings against the applicants."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "On 11 July 2013, I made the following orders:\nTHE COURT NOTES THAT:\n1 No respondent has filed and served any submission seeking costs in terms of the orders made on 13 March 2013.\nTHE COURT ORDERS THAT:\n2. Leave be granted to the applicants to file and serve the terms of their proposed orders for costs and their submission in support of that order within 7 days.\n3. Leave be granted to the respondents to file and serve any submissions in reply within a further 7 days.\n4. On the interlocutory application of Donaldson Walsh of 17 June 2013:\n(a) Leave be granted to Donaldson Walsh to intervene in this proceeding, limited to making submissions as they may consider appropriate as to the application of the monies presently held in court as security for costs of the respondents in the event that any order for costs is made in favour of the respondents or any of them.\n(b) Leave be granted to Donaldson Walsh to file and serve within 10 days such written submissions as they may be advised seeking that the leave to intervene be extended to make submissions on whether any order for costs should be made in favour of the respondents or any of them and if so what order for costs.\n(c) Leave be granted to the applicants within a further period of 7 days to file and serve written submissions as they may be advised in response to the submissions referred to in (b) of this order.\n5. Liberty to apply."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The solicitors formerly acting for all respondents were again instructed to act for the first, second, third and fifth respondents. Apparently for that reason, they did not make the submissions contemplated by Order 4 and there is no need to address that further."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The applicants presented their proposed orders for costs on 24 July 2013. Those submissions at [16]-[18] say that the respondents, by their failure to comply with the earlier orders regarding costs submissions, had chosen not to seek costs and could not now do so."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "There is an issue now as to whether the submissions of the first, second, third and fifth respondents in reply contemplated by Order 3 of the orders made on 11 July 2013 should be entertained as an application for costs by those respondents. The document filed and dated 1 August 2013 is entitled “Written submissions of the first, second, third and fifth respondents on costs”. They are largely not submissions in reply. They are submissions as to why those respondents should be granted costs. The reply to the applicants’ submissions of 24 July 2013 is, on its face, confined to paragraphs [89]-[92] of that document, although the balance of that document may be used for the purpose of treating it as a response to the claim of the applicants for costs. There is no specific response to what the applicants asserted in [16]-[18] of their submissions."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The purpose of this ruling is to indicate that I will confine consideration of that document to its use as a reply to the applicants’ submission on costs. I will take the whole content of the document into account for that purpose. I will not accept it, and have regard to it, as a basis for those respondents securing an order for costs in their favour. They have not chosen to indicate why they did not comply with the earlier costs directions. To the extent that they have now secured funds to make the present submission, there is no explanation for why those funds were not previously available."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "By affidavit of 1 August 2013, accompanying the written submissions of the first, second, third and fifth respondents on costs, together with their proposed order for costs, it is said that the first respondent did not appear on 11 July 2013 in view of a shortage of funds, and apologised for not having done so. The position of the remaining respondents remains unexplained, even to that extent. There has been no application for an extension of time to make an application for costs. The terms of the directions given on 11 July 2013, including the matter noted at their commencement and Order 3, are clear."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Following the publication of this ruling, in the absence of any further application, I will deliver reasons for judgment on the applicants’ application for costs and make such orders for costs and consequential orders as I consider appropriate on 28 August 2013 at 10.15 am."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twelve (12) numbered paragraphs are a true copy of the Reasons for Ruling herein of the Honourable Justice Mansfield.",
+ "associate": null,
+ "dated": "2013-08-16",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "485ddb07c420ac5f6b047eb2981866f16e16e336132af2bbb5a2cc797c9267b8",
+ "markdown_file": "data/extracted/2013/2013FCA0829.md"
+}

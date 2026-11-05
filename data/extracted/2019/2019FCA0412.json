@@ -1,0 +1,1216 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2019/2019FCA0412.docx",
+ "metadata": {
+  "citation": "[2019] FCA 412",
+  "name": "Aucare Dairy (Aust) Pty Ltd v Huang (No 3)",
+  "court": "FCA",
+  "year": 2019,
+  "number": 412,
+  "date_of_judgment": "2019-03-27",
+  "file_numbers": [
+   "VID674/2016"
+  ],
+  "judges": [
+   "DAVIES J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2018-09-03",
+   "2018-09-24",
+   "2019-02-12",
+   "2019-03-01"
+  ],
+  "hearing_raw": "3 September 2018 to 24 September 2018\n12 February 2019 to 1 March 2019",
+  "number_of_paragraphs": 117,
+  "catchwords": [
+   "CORPORATIONS – breakdown of joint venture between first applicant and fourth respondent for construction of factory to manufacture and export infant milk powder to China – where third respondent contracted to construct factory – where first respondent a director of joint venture company and third respondent – where dual directorship not disclosed – where construction costs capped – where joint venture agreement required parties to make equal payment contributions – where third respondent inflated prices in excess of cost cap – where fourth respondent breached equal payment term – where first respondent removed plant and equipment from completed factory – where first respondent incorporated fifth, sixth and seventh respondents to retain control of plant and equipment and carry on substantially the same enterprise – breaches of statutory directors’ duties – declaratory relief",
+   "CONSUMER LAW – whether second respondent contravened s 18 of the Australian Consumer Law – where representations made that contractor company necessary to control costs – where evidence of intention that contractor company would charge inflated prices for substantial profit",
+   "EQUITY – multiple and significant breaches of fiduciary duties – when third party can be held accountable for breaches of fiduciary duty – knowing assistance and knowing receipt – proprietary relief – applicable principles – where wholesale acquisition of joint venture business – where fiduciary acted dishonestly and fraudulently"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth)",
+   "Corporations Act 2001 (Cth)",
+   "Federal Court of Australia Act 1976 (Cth)"
+  ],
+  "cases_cited": [
+   "Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 92 ALJR 918; [2018] HCA 43",
+   "Briginshaw v Briginshaw (1938) 60 CLR 336",
+   "Consul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373",
+   "Grimaldi v Chameleon Mining NL (No 2) (2012) 200 FCR 296",
+   "Howard v Federal Commissioner of Taxation (2014) 253 CLR 83",
+   "Pilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165",
+   "Timber Engineering Company Pty Ltd v Anderson [1980] 2 NSWLR 488",
+   "Warman International Ltd v Dwyer (1995) 182 CLR 544"
+  ],
+  "parties": [
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Applicant"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "YUNLING HUANG",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ZHIXIN GUO",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr T Duggan SC with Mr J Teague"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Xiao Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Third and Fourth Respondents",
+    "name": "The First Respondent appeared in person and on behalf of the Third and Fourth Respondents"
+   },
+   {
+    "role": "counsel",
+    "for": "the Seventh Respondent",
+    "name": "Mr C Robinson"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Seventh Respondent",
+    "name": "Tahota Law"
+   },
+   {
+    "role": "counsel",
+    "for": "the Eighth Respondent",
+    "name": "The Eighth Respondent appeared in person"
+   },
+   {
+    "role": "counsel",
+    "for": "the Ninth and Tenth Respondents",
+    "name": "Mr D Christie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Ninth and Tenth Respondents",
+    "name": "Colin Biggers & Paisley"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0412",
+  "portal_file_numbers": [
+   "VID674/2016"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2019-03-27"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 674 of 2016"
+  },
+  {
+   "label": "Judge",
+   "value": "DAVIES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "27 March 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CORPORATIONS – breakdown of joint venture between first applicant and fourth respondent for construction of factory to manufacture and export infant milk powder to China – where third respondent contracted to construct factory – where first respondent a director of joint venture company and third respondent – where dual directorship not disclosed – where construction costs capped – where joint venture agreement required parties to make equal payment contributions – where third respondent inflated prices in excess of cost cap – where fourth respondent breached equal payment term – where first respondent removed plant and equipment from completed factory – where first respondent incorporated fifth, sixth and seventh respondents to retain control of plant and equipment and carry on substantially the same enterprise – breaches of statutory directors’ duties – declaratory relief\nCONSUMER LAW – whether second respondent contravened s 18 of the Australian Consumer Law – where representations made that contractor company necessary to control costs – where evidence of intention that contractor company would charge inflated prices for substantial profit\nEQUITY – multiple and significant breaches of fiduciary duties – when third party can be held accountable for breaches of fiduciary duty – knowing assistance and knowing receipt – proprietary relief – applicable principles – where wholesale acquisition of joint venture business – where fiduciary acted dishonestly and fraudulently"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth)\nCorporations Act 2001 (Cth)\nFederal Court of Australia Act 1976 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 92 ALJR 918; [2018] HCA 43\nBriginshaw v Briginshaw (1938) 60 CLR 336\nConsul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373\nGrimaldi v Chameleon Mining NL (No 2) (2012) 200 FCR 296\nHoward v Federal Commissioner of Taxation (2014) 253 CLR 83\nPilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165\nTimber Engineering Company Pty Ltd v Anderson [1980] 2 NSWLR 488\nWarman International Ltd v Dwyer (1995) 182 CLR 544"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "3 September 2018 to 24 September 2018\n12 February 2019 to 1 March 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "117"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr T Duggan SC with Mr J Teague"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Xiao Lawyers"
+  },
+  {
+   "label": "Counsel for the First, Third and Fourth Respondents",
+   "value": "The First Respondent appeared in person and on behalf of the Third and Fourth Respondents"
+  },
+  {
+   "label": "Counsel for the Seventh Respondent",
+   "value": "Mr C Robinson"
+  },
+  {
+   "label": "Solicitor for the Seventh Respondent",
+   "value": "Tahota Law"
+  },
+  {
+   "label": "Counsel for the Eighth Respondent",
+   "value": "The Eighth Respondent appeared in person"
+  },
+  {
+   "label": "Counsel for the Ninth and Tenth Respondents",
+   "value": "Mr D Christie"
+  },
+  {
+   "label": "Solicitor for the Ninth and Tenth Respondents",
+   "value": "Colin Biggers & Paisley"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID674/2016",
+   "parties": [
+    {
+     "name": "AUCARE DAIRY (AUST) PTY LTD",
+     "role": "First Applicant"
+    },
+    {
+     "name": "YANFENG BAI",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "YUNLING HUANG",
+     "role": "First Respondent"
+    },
+    {
+     "name": "ZHIXIN GUO",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "DAVIES J"
+   ],
+   "date": "2019-03-27",
+   "date_raw": "27 march 2019",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The matter be listed for a further case management hearing on 9 April 2019 at 11.00am.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Costs be reserved.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The applicants, Aucare Pty Ltd (“Aucare”) and Yanfeng Bai (“Mr Bai”), have sought equitable and statutory relief against the respondents arising from a joint venture between Aucare and the fourth respondent, Noyier Dairy Pty Ltd (“Noyier”), a company owned and controlled by the first respondent, Yunling Huang (“Ms Huang”), and the second respondent, Zhixin Guo (“Mr Guo”), for the construction of a factory to manufacture and export infant milk powder to China. The joint venture vehicle was Australia Pure Dairy Pty Ltd (“APD”), the directors of which were Mr Bai (until January 2014), Ms Haolin Bai (“Ms Bai”), Mr Bai’s daughter, Mr Guo (until January 2014) and Ms Huang. APD contracted with the third respondent (“GVA”) to construct the factory and supply and install the necessary plant and equipment. GVA, at the time, was owned and controlled by Ms Huang. It was a term of the joint venture contract that Aucare and Noyier were each to contribute $3 million for a total investment of $6 million. In about April 2014, after most of the plant and equipment had been delivered and installed to APD’s factory premises, a dispute arose between Aucare and Noyier about their investment contributions. That dispute culminated in Ms Huang arranging for the plant and equipment which had been delivered and installed at APD’s factory premises to be removed and installed in a factory at a new location and for another entity, the seventh respondent, Nutritional Choice Australia Pty Ltd (“NCA”), a company owned and controlled by Ms Huang at the time, to conduct the infant milk powder business from the new factory premises. The applicants contend in these proceedings that the removal of the equipment was part of a fraudulent scheme engineered and implemented by Ms Huang with the knowing assistance of the other respondents to deprive the applicants and APD of the entire joint venture enterprise.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "These proceedings have had a disrupted history. The trial was to commence in February 2018, but the hearing was vacated shortly beforehand and a new trial date was given for September 2018. Until June 2018 the first to eighth respondents were all legally represented but, since June 2018, the first to sixth and eighth respondents have not had legal representation and, of those respondents, only Ms Huang has actively participated in the proceedings. The trial did commence in September 2018 but, as the hearing took much more time than anticipated and could not be finished within the available time frame, the trial had to be stood over for completion in February 2019. At the trial there was no appearance by Mr Guo, Ms Huang represented herself and, with the leave of the Court, also represented GVA and Noyier, the fifth and sixth respondents, CFM Associates Pty Ltd (“CFM”) and Australia Green Dairy Pty Ltd (“AGD”), had no representation and the eighth respondent, Qiong Huang (“Qiong Huang”), appeared for herself on day one of the hearing but otherwise took no part in the trial. The ninth and tenth respondents (collectively “M+K”) were joined as respondents in February 2018 and have been legally represented throughout.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "THE CLAIMS"
+    ],
+    "text": "The following claims were resolved during the course of the hearing:\n(a) the first to eighth respondents’ cross-claim against M+K was dismissed by consent of the first, third, fourth and seventh respondents (the second, fifth, sixth and eighth respondents not appearing); and\n(b) the applicants’ claims against M+K were dismissed by consent of those parties.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "THE CLAIMS"
+    ],
+    "text": "The remaining claims for determination on the applicants’ fifth amended statement of claim are as follows:\n(a) as against Mr Guo, claims for misleading and deceptive conduct in breach of s 18 of the Australian Consumer Law (Sch 2 to the Competition and Consumer Act 2010 (Cth) (“ACL”) in respect of alleged representations;\n(b) as against Noyier, a claim for breach of the joint venture agreement;\n(c) as against Mr Guo and Ms Huang, claims of breaches of fiduciary and statutory duties;\n(d) as against Mr Guo, Ms Huang, GVA and Noyier, a claim of fraudulent and dishonest conduct and unconscionable conduct in breach of s 21 of the ACL;\n(e) as against GVA, claims of knowingly assisting Ms Huang and Mr Guo in a dishonest and fraudulent design in respect of each pleaded fiduciary breach and of knowing receipt from such breaches, and of accessorial conduct in breach of s 232 of the ACL;\n(f) as against CFM, AGD and Qiong Huang, claims of knowingly assisting Ms Huang and Mr Guo in a dishonest and fraudulent design in respect of each pleaded fiduciary breach and of knowing receipt from such breaches; and\n(g) as against NCA, claims of knowing receipt from the pleaded breaches of fiduciary duty, and of accessorial conduct in breach of ss 232 and 236 of the ACL and of s 1324 of the Corporations Act 2001 (Cth).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "THE CLAIMS"
+    ],
+    "text": "The remedies sought by the applicants, if they succeed on their claims, include the grant of proprietary relief and on 21 September 2018, the Court ordered that the question as to whether such relief be available be determined prior to the determination of what other forms of relief, if any, should be granted. In the event of the applicants succeeding on their claims and the court granting the proprietary relief sought, the applicants and NCA have agreed on certain consequential orders.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "ASSIGNMENT"
+    ],
+    "text": "Aucare brings its claims against the respondents in its own capacity and as assignee of APD’s causes of action against the respondents. The claims were assigned to Aucare by the liquidators of APD (which was placed into liquidation in August 2014) pursuant to a deed of assignment executed on 15 June 2016 and an amended deed of assignment executed on 10 August 2017. At trial Ms Huang argued that the assignment was unfair and detrimental to Noyier as a shareholder of APD and to GVA as a creditor of APD and should not have been effected. However, the question as to whether Aucare has the right and entitlement to sue on the assigned claims and obtain the relief it seeks as assignee of APD’s causes of action was not put into issue on the pleadings but admitted by the respondents (including Ms Huang) in their Amended Defence. As no issue about the assignment was raised by the pleadings, Ms Huang’s submission need not be considered further.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "WITNESSES"
+    ],
+    "text": "Oral evidence was adduced from the following witnesses:\n(a) Mr Bai and Ms Bai for the applicants;\n(b) Ms Huang for herself and on behalf of Noyier and GVA; and\n(c) Mr Chu for NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "WITNESSES"
+    ],
+    "text": "The credit of each of the witnesses was put into issue.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "WITNESSES"
+    ],
+    "text": "Mr Grant Guenther (“Mr Guenther”) was also called to give evidence on behalf of M+K but he had only just started his evidence in chief when the applicants and first to eighth respondents agreed to orders dismissing their claims against M+K. In the circumstances, it would be unfair to have regard to his oral evidence when it was not completed and not subject to cross-examination. The M+K file though, which the applicants separately tendered as part of their case, does form part of the evidence and can be taken into account.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "WITNESSES"
+    ],
+    "text": "Given that the allegations against the respondents involve claims of dishonest and fraudulent conduct, the evidence of the witnesses is to be tested by reference to the principles in Briginshaw v Briginshaw (1938) 60 CLR 336; [1938] HCA 34 and a very high level of satisfaction should be reached in determining whether the claims against the respondents have been established on the evidence. For the reasons that follow I have reached that very high level of satisfaction in determining that the applicants have established their claims against the respondents.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Although the credit of each of the witnesses was put into issue and a great deal of evidence was led, the chronology of events and basic facts were largely not contentious. In considering the facts and evidence, I have not referred to matters or evidence that are not relevant and probative of the issues that must be determined.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The possibility of forming a joint venture to manufacture infant milk powder for export to China was initially proposed by a Mr Jason Qi (“Mr Qi”) to Mr Bai and Mr Guo at a meeting on around 6 October 2013 that Mr Qi had set up and at which Mr Bai and Mr Guo met for the first time. Mr Bai gave evidence that Mr Qi said that the total investment would be $6 million, with Mr Guo and Mr Bai each to contribute $3 million and hold a 45% interest in the business and with Mr Qi to take the remaining 10% interest in exchange for Mr Qi’s company supplying the orders.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Mr Bai and Mr Guo met again with Mr Qi on 19 October 2013 where further discussions ensued, including about who they would get to build the factory. Later that evening, Mr Guo contacted Mr Bai and asked to meet him. He came to Mr Bai’s hotel room at around 11.00 pm that night with Ms Huang. This was the first occasion on which Ms Huang met Mr Bai and it was their common evidence that Mr Guo introduced Ms Huang to Mr Bai as Mr Guo’s wife. It was also their common evidence that most of the discussion was between Mr Guo and Mr Bai, largely about Mr Qi’s proposed involvement in the venture, and that Ms Huang said very little at that meeting.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Mr Guo and Mr Bai, sometime in late October 2013, decided to proceed with the joint venture without the involvement of Mr Qi and Mr Bai received draft contracts from Mr Guo, including one for the construction of the factory. In the meantime, Ms Huang had APD incorporated to be used as the joint venture vehicle, with Noyier and Aucare each to hold 50% of the shares in APD. Initially, only Mr Bai and Mr Guo were appointed as directors of APD. From 1 November 2013, Ms Bai and Ms Huang were also appointed directors.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 1 November 2013, Mr Bai sent an email to Mr Guo outlining “some issues”. Mr Guo responded by email to Mr Bai on 2 November, in which he wrote that he believed that it was “absolutely necessary to appoint a contractor to undertake the whole construction” and that he, Mr Guo, “already [had] the experience, skill and connections in this industry”. He also wrote, amongst other things:\nApart from the technical aspect, as an investor, we need to maintain cost control, quality control and after-sales service after the commissioning of the factory equipment and facilities.\n…the $6 million AUD of investment has been budgeted and proposed relying on all our expertise and provided it is under strict cost control.\nIn the process of construction, our contracted company will try to control the costs while we propose you to supervise the joint venture’s financial expenses. Our contracted company will send all the bills to the joint venture for financial audit.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The applicants rely upon this email for their misleading and deceptive conduct claim against Mr Guo in respect of the representation that appointing a contractor was necessary to control and limit costs during the construction when, the applicants claim, GVA was actually appointed as the contractor to enable it to make undisclosed and excessive profits.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Mr Bai’s evidence was that he knew that the “contracted company” referred to in this email was GVA but he did not know that GVA was Ms Huang’s company. Whilst it may reasonably be inferred from the documentary evidence that Mr Bai understood from the outset that Mr Guo had a relationship with GVA, it was an admitted fact that Mr Guo did not tell Mr Bai about Ms Huang’s interest in GVA. It was also an admitted fact that Ms Huang did not disclose to Mr Bai or Ms Bai that she had a material personal interest in the contracts that GVA entered into with APD for the construction of the factory prior to their execution. Ms Huang gave evidence that she, however, recalled “but not very clearly” that she told Ms Bai that GVA was her company at a meeting on 7 November 2013 when she met Ms Bai for the first time. That was not Ms Bai’s evidence. Ms Bai’s evidence was that she only found out about this in May 2014 when she conducted a company search of GVA. Mr Bai similarly gave evidence that he first became aware that GVA was Ms Huang’s company in May 2014. I prefer and accept the evidence of Mr Bai and Ms Bai over Ms Huang’s evidence, which I do not think can be treated as reliable having regard to her acknowledgment that her recollection was unclear. It is also telling against the reliability of Ms Huang’s evidence that there are no documents which evidence that the Bais, or either of them, had, in fact, known at the time they entered into the joint venture arrangements that GVA was owned and controlled by Ms Huang.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Between 1 November and 5 November 2013 Mr Bai (who was then back in China) and Mr Guo communicated by email about changes that each wanted to the relevant agreements.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 7 November 2013, Ms Bai met with Ms Huang and Mr Guo at the ANZ Bank in Box Hill where an account was opened for APD. They then went to Ms Huang’s accountant’s office where they signed the following contracts:\n(a) Investment Cooperation Agreement between Aucare and Noyier signed by Ms Bai on behalf of Aucare and Mr Guo on behalf of Noyier (“Joint Venture Agreement”); and\n(b) Baby Milk Powder Filling Factory Construction Contract between APD and GVA signed by Ms Bai and Mr Guo on behalf of APD and Mr Guo on behalf of GVA (“Construction Contract”).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The Joint Venture Agreement contained the following relevant terms:\n(a) the total amount of investment was $6 million;\n(b) each party held 50% of the total shares in APD with an investment of $3 million each;\n(c) APD authorised Noyier to be in charge of the overall planning, design and construction of the “joint investment project” (defined as “infant formula bottling factory”);\n(d) neither Aucare or Noyier could transfer or dispose of its shares in APD without the consent of the other party; and\n(e) after the establishment of APD, neither party “shall withdraw the investment in the company”.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The Construction Contract contained the following relevant terms:\n(a) GVA was appointed as the contractor for the overall construction of the infant formula bottling factory;\n(b) GVA was to produce a detailed project process schedule to APD in accordance with the terms of the contract after the contract had been signed;\n(c) a deposit of $100,000 was to be paid within seven business days of the contract by APD to GVA and GVA was to start a series of preparation works upon receiving the deposit and within ten days provide the overall planning of the construction program to APD;\n(d) in accordance with the planning and design program, GVA was to submit claims to APD for the equipment and material procurement costs and the construction costs of the various stages; and\n(e) the total cost for the project was $6 million dollars.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Other terms were as follows:\n(a) GVA was to provide APD with the design and procurement program for the main equipment of the baby milk powder filling line and packaging line. The total cost for such equipment was specified to be “about” $3 million and “shall be calculated as three million Australian dollars if over three million Australian dollars” with APD to make payments to GVA by instalments based on the procurement contract after APD had approved the program;\n(b) GVA was to be responsible for the design and procurement of the main equipment of the baby milk powder filling line and packaging line and the total costs for the auxiliary equipment and materials would “not exceed five hundred thousand dollars”;\n(c) GVA was to be responsible for the installation and commissioning of the main and auxiliary equipment of the baby milk filling line and packaging line and APD was to make advances based on the construction plan of GVA;\n(d) the total cost for the clean room and automatic air filtration system was to be no more than $1 million; and\n(e) the project cycle was specified at eight months from the date that GVA received the deposit (namely to be completed by 7 May 2014).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Thus, within the Construction Contract there were various cost caps. These were:\n(a) a $6 million cap for the total cost of construction, consistent with the Joint Venture Agreement; and\n(b) out of that $6 million, a $4.5 million cap for the plant and equipment, namely:\n(i) a $3 million cap for the cost of the main equipment procurement contract;\n(ii) a $500,000 cap for the cost of the auxiliary equipment; and\n(iii) a $1 million cap for the clean room.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 8 November 2013, Aucare and Noyier each deposited $55,000 into APD’s general account.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 19 November 2013, a main equipment procurement contract between APD and GVA (“Main Equipment Contract”) was executed by Ms Bai and Mr Guo on behalf of APD and Mr Guo on behalf of GVA. Pursuant to that agreement, GVA agreed to supply 32 items of factory equipment to APD for a total cost of $3,305,280 payable in four instalments:\n(a) 30% of the total contract price (i.e. $991,584) within seven business days of the contract;\n(b) 30% of the total contract price within 60 days after GVA received the first instalment;\n(c) 30% of the total contract price before the shipment of the equipment; and\n(d) the remaining balance of 10% ($330,528) within 10 business days after trial production had been approved by the government after inspections.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The cost for the supply of the equipment did not include installation, commissioning and labour costs but even without taking those costs into account, the costs for the supply of the equipment alone exceeded the $3 million cap for the costs of the main equipment specified under the Construction Contract between APD and GVA. Left unexplained by the evidence was why the main equipment contract did not cap the cost of the equipment at $3 million in accordance with the terms of the Construction Contract.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The following day, on 20 November 2013, Ms Huang signed a commercial lease on behalf of APD for the lease of premises at Dandenong South for a period of 10 years to commence on 1 December 2013. Pursuant to the terms of the lease, APD was given an option to purchase the property at a predetermined price for a period of 18 months from the commencement date of the lease. The evidence was that Ms Huang paid the security deposit of $130,000 and one month’s rent out of her own funds.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 26 November 2013 Aucare paid a further $500,000 into APD’s general account. Noyier paid $500,000 into APD’s account on 29 November 2013.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 22 December 2013, Mr Guo emailed the auxiliary equipment procurement contract (“Auxiliary Equipment Contract”) to Mr Bai (who was still in China). The contract provided for the supply by GVA of 23 items of auxiliary factory equipment to APD at a total cost of $582,200, also payable in four instalments:\n(a) 30% of the total contract price (i.e. $175,560) within seven business days of the contract;\n(b) 30% of the total contract price within 60 days after GVA received the first instalment;\n(c) 30% of the total contract price before the shipment of the equipment; and\n(d) the remaining balance of 10% ($58,520) within 10 business days after trial production had been approved by the government after inspections.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The cost for the supply of the equipment did not include installation, commissioning and labour costs. It also exceeded the $500,000 cap on the cost for the supply of the auxiliary equipment specified under the Construction Contract between APD and GVA. In his email to Mr Bai, Mr Guo advised that the cost for the auxiliary contract exceeded the $500,000 equipment purchase limit because two extra items of equipment had to be added to meet Chinese regulatory requirements. He advised that “[f]or the rest of the project we will try to save money so the total investment is not more than $6,000,000”.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Although the contract is dated as executed on 22 December 2013, it appears that it was not actually executed until around 1 February 2014.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 6 January 2014, Ms Huang sent an email to Mr Bai attaching a schedule of costs paid by her requiring reimbursement by APD. The total amount was $157,309.34 for fees associated with the registration of APD, the bond for the factory, one months’ rental paid in advance and bank fees. She requested that Mr Bai pay his half share of $78,654.67. The schedule of costs also included the phase two costs for the main equipment, shown as $991,584, and the auxiliary equipment costs, shown as $585,200, totalling in all $1,576,784, of which Aucare’s half share was specified to be $788,392.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "At that time, both Mr Bai and Ms Bai were overseas and the funds requested were not paid immediately by Aucare. There was some dispute on the evidence as to the reason but it is unnecessary to deal with that evidence as it was not in dispute, and the evidence substantiated, that Aucare deposited $1,529,041 into APD’s account in instalments between late January and early February, which included a separate deposit covering Aucare’s share of the funds paid by Ms Huang personally.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 18 January 2014, Xtreme Cleanrooms gave an itemised quotation to GVA to build and install the clean room, supply and install an air conditioning system for the clean room and undertake various associated works. The cost of the clean room was itemised at $367,000 (plus GST) and the total cost for all the works was quoted at $908,882.70 (including GST) (without a compressor room) or $936,250.70 (including GST) (with a compressor room). Xtreme Cleanrooms’ costing was within the capped limit of $1 million for the clean room and automatic air filtration system specified in the Construction Contract.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 22 January 2014, Mr Guo sent GVA’s contract for the clean room (“Clean Room Contract”) to Mr Bai. GVA’s contract was a direct copy of the Xtreme Cleanrooms’ quotation, save for the pricing of the contracted work and the due dates for payment. Key differences between Xtreme Cleanrooms’ quotation and the Clean Room Contract were that:\n(a) GVA’s price for the cost of the clean room was $587,200 (plus GST);\n(b) in its costing and itemisation of the works to be done, GVA excluded three items appearing in Xtreme Cleanrooms’ quote, namely a hoist – vacuum handing costed at $23,190 (plus GST), floor coating (vinyl) costed at $14,941 (plus GST) and floor coating (painted epoxy) costed at $15,816 (plus GST), but otherwise the itemisation of the works to be done were the same;\n(c) GVA’s price for the total works was $1,525,869; and\n(d) whereas under the Xtreme Cleanrooms’ quote, 25% of the total cost was payable on placement of order, 65% on the goods arriving and 10% on completion, under the Clean Room Contract, 50% was payable on placement of order, 40% on the goods arriving and 10% on completion.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The Clean Room Contract contained the following retention of title clause (which also appeared in Xtreme Cleanrooms’ quotation but which GVA modified by inserting GVA in lieu of Xtreme Cleanrooms):\nAll material and equipment shall remain the property of [GVA] until such time that full payment is received.\nMs Huang relied on this clause as supporting her case that title to the clean room plant and equipment remained with GVA and never passed to APD.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Ms Huang agreed in cross-examination that GVA’s contracted price for the clean room and automatic air filtration system exceeded the capped cost under the Construction Contract but, on her evidence, Mr Guo had explained to Mr Bai that it was necessary to build a bigger and upgraded clean room because of regulatory requirements and because GVA needed to make a profit. The evidence showed, however, that the increase in the costs for the clean room had nothing to do with building a bigger and upgraded clean room. To the contrary, there was no evidence to suggest that GVA did anything over and above the works performed by Xtreme Cleanrooms in line with the quote it had prepared for GVA, which was for a price that was within the capped limit of $1 million for the clean room and automatic air filtration system specified in the Construction Contract. Rather, the evidence showed that the reason for the increased costs was GVA’s mark-up on the costs quoted to it by Xtreme Cleanrooms, as follows:\nItem | Xtreme’s Cost Price | GVA inflated cost | Mark-up\nClean Room | $367,000.00 | $587,200.00 | 160%\nAir Conditioner & Dehumidifiers | $389,500.00 | $734,850.00 | 189%\nPalletizing Wall & 3 Windows | $13,850.00 | $22,160.00 | 160%\nView Windows | $1,960.00 | $3,136.00 | 160%\nCompressor Room | $24,880.00 | $39,808.00 | 160%\nTotal (ex GST) | $797,190.00 | $1,387,154.00 | 174%",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 24 January 2014 Ms Huang sent another email to Ms Bai detailing the costs she had paid for which she required reimbursement by APD. She also advised that Aucare and Noyier each needed to deposit $305,174 into APD’s account before 4 February 2014 to cover the 40% project cost of $610,348 for the stage two cost of the clean room and, upon signing the contract, they had to pay half the deposit to get the materials and, once the equipment arrived, they needed to pay 90% of the total cost. She attached a schedule of “equipment and contraction expenses advanced by [GVA]” totalling $2,900,718, of which Aucare’s half share was specified to be $1,450,359 (which included the amount requested in the 6 January email).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "In addition to the $78,655 which Aucare deposited into APD’s account on 28 January 2014 to cover the costs that Ms Huang had met personally, Aucare deposited a further $1,450,359 into APD’s account as follows:\n(a) on 28 January 2014, $500,000;\n(b) on 31 January 2014, $500,000;\n(c) on 4 February 2014, $450,359;\nand the further amount of $14,080 on 5 February 2014.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Noyier, on the other hand, paid nothing at all into APD’s account.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 27 March 2014, Mr Guo asked Mr Bai again for further funds. He attached a schedule of costs amounting to $3,229,473 of which, it was noted in the schedule, each party was to pay $1,614,736.50.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 28 March 2014, Aucare paid $20,000 into APD’s account and then a further $300,000 on 4 April 2014.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Also on 31 March 2014, Mr Bai conversed with Mr Guo over WeChat. Mr Bai wrote:\nThe original budget was $6 million – maximum $6.6 million, including tax. Now it has totalled $7,200,000 (including tax). I still don’t understand why we need to pay the full amount at the current progress of the project!",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "At that stage, neither Mr Bai nor Ms Bai had ever seen any invoices from GVA. Mr Bai also raised his concern that an accountant should be appointed to monitor the payments.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 1 April 2014, Mr Guo responded that:\nRegarding over-expenditure, it is mainly for the increase in the size of large workshops and upgrade is in line with the policy of continuously introduced in China.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The evidence demonstrated that Mr Guo’s explanation was false as the reason for the over-expenditure was the mark-up that GVA charged APD on the clean room equipment. Mr Bai gave evidence that he read the explanation for the over-expenditure at the time but did not think it was very convincing. Mr Bai continued to pursue the issue of the cost increase with Mr Guo, and received the same explanation that the increase in cost was mainly because of the size increase and upgrade of the clean room.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 25 April 2014, in another WeChat between Mr Bai and Mr Guo, Mr Guo informed Mr Bai that he still needed to pay $1,526,643. He wrote:\nThe total cost of the project: AUD$6,939,137+GST10%=$7,633,050; February to date, the total amount advanced for the company (inspection equipment and annual license fee, etc.) is AUD$49,113.58, totalling AUD$7,682,164 (including GST) above; both parties should each pay AUD$3,841,082. After deducting the amount received: AUD50,000 + 500,000 + $1,465,439 + 300,000=AUD2,314,439, you still need to pay AUD$1,526,643.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Aucare did not pay any further amounts.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "By early May, Mr Bai became aware that Noyier had not been making equal contributions to APD. The evidence showed that the amounts each party had paid into APD’s account were as follows:\nAucare | $ | Noyier | $\n8 Nov 13 | 55,000 | 7 Nov 13 | 55,000\n26 Nov 13 | 500,000 | 29 Nov 13 | 500,000\n28 Jan 14 | 78,655 | 18 Dec 13 | 130,000\n28 Jan 14 | 500,000 | 2 Jan 14 | 1,700\n31 Jan 14 | 500,000 | $686,700\n4 Feb 14 | 450,359\n5 Feb 14 | 14,080\n12 Feb 14 | 30\n13 Feb 14 | 240\n24 Feb 14 | 249.90\n28 Mar 14 | 20,000\n4 April 14 | 300,000\n28 April 14 | 5,000\n$2,423,613.90",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Ms Huang gave various explanations in her evidence as to why Noyier made no further contributions beyond 2 January 2014. Her evidence was not easy to follow but, as best as can be understood, it appears that she and Mr Guo had taken the view that the value of GVA’s work on the construction of the factory offset Noyier’s share of the joint venture costs. It also seemed to be her evidence that either she or Noyier had made some direct payments to GVA, totalling around $1.3 million, but, even if that be so, Noyier’s share of the joint venture costs still fell short of the contributions made by Aucare. Whilst Ms Huang agreed in cross-examination that Noyier had not made equal contributions to the APD account she said “but GVA is my company. I invest all my money and my knowledge and my expertise to the construction work”. It was put to her in cross-examination that GVA had never spent an equivalent amount itself in relation to the construction project to which Ms Huang responded that GVA was entitled to some profit and the value of the effort and the expertise which she and Mr Guo had put in meant that it was “not all about the exact money that you put in”. That may have been the perspective of Ms Huang and Mr Guo but it is not an answer, however, to Noyier’s failure to comply with its contractual obligations. In her written submissions in opposition to the proposed orders sought by the applicants, Ms Huang expressed herself more clearly as to why Noyier ceased contributing cash to the joint venture, claiming that an asserted lack of specificity in the Joint Venture Agreement as to how and when the contributions were to be made left scope for non-cash contributions including time, skill, and experience. Ms Huang also relied upon the fact that Aucare had not itself contributed the full $3 million either. The fact remains, though, that Noyier contributed substantially less than Aucare to the joint venture costs, whatever the view was of Ms Huang and Mr Guo about the contributions to be made by Noyier. Further, as the evidence demonstrated, Aucare met all its payment obligations up until the time it became aware that Noyier had not. Her justification that Aucare had not itself contributed the full $3 million either is no answer to Noyier’s default.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 6 May 2014, Mr Bai wrote to Mr Guo and noted that there was no record of investment contributions being made by “your side into the company’s account as we agreed”. There were a series of WeChat messages sent by Mr Guo later in the evening, none of which addressed the failure by Noyier to make its share of the contributions.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "By 8 May 2014, the relationship between the parties had deteriorated significantly to the point where Mr Bai and Mr Guo discussed whether to bring the joint venture to an end and both parties sought legal advice. Ms Huang and Mr Guo retained Mr Guenther from M+K for that purpose. While no weight is to be placed upon Mr Guenther’s oral evidence, the M+K file is in evidence and is relied on by the applicants in support of their claims against Ms Huang as, it was submitted, “it reveals the state of mind of [Ms] Huang; it shows the central role which [Ms] Huang played and the non-existent role played by her Auntie [Qiong Huang]; it also evidences the instructions of [Ms] Huang in respect of the fraudulent scheme”.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The M+K file reveals that, from the outset of the breakdown of the joint venture relationship, Ms Huang wanted to take the factory and business away from APD and to have APD liquidated. It is apparent from email communications on 8 May and 14 May 2014 that she sought advice from the real estate agent of the Dandenong South premises about whether she could exercise the option to buy the factory building and then assign the lease to GVA. On 22 May 2014 she received email advice from Mr Guenther that, even if she secured a purchase of the premises, there were “still issues in APD that will need to be resolved with Mr Bai at some point (it owns much of the plant and equipment at the least)”. Ms Huang responded by email on 23 May 2014 in which she expressed her view that the plant and equipment belonged to GVA, not APD, because APD had not met all of its payment instalments and she could take out the plant and equipment and put it somewhere else until payment was received.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 23 May 2014, Ms Huang received her first substantial written advice from M+K. In that advice she was told that there was no retention of title clause in the Main Equipment and Auxiliary Equipment Contracts that would give her a right to retain ownership in that equipment. She was also advised that the fact that the equipment had already been delivered and she was a director of both parties to the contracts “create[d] more confusion”. The advice was:\nIt could theoretically be argued that [GVA] accepted the delayed payment or “acquiesced” or varied the contract which would be supported by evidence that [GVA] did in fact deliver the goods, even though it had not been paid.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The email further advised:\nIt is open to you for [GVA] to remove the goods (ahead of any liquidation) and then claim that it has no obligation to deliver until the 90% is paid up. There is risk however that Mr Bai or a liquidator would argue that you had no right to do so (for the reasons above) and seek an order to compel delivery. Alternatively, a liquidator might look to have any amounts actually paid to [GVA] “clawed back” or returned – particularly so if no goods are ever delivered.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 30 May 2014, Mr Guenther sent a letter of demand to Ms Bai on Ms Huang’s instructions. The letter advised that M+K acted for Noyier, Ms Huang and GVA and claimed that as a consequence of Aucare’s failure to advance necessary funds to APD, APD had failed to pay the amount of $2,521,022 owing and payable to GVA. It was also claimed that APD owed Noyier the sum of $2,314,439 plus $78,654.67 (loan for expenses) “for repayment of shareholder loans advanced to APD which [were] repayable on demand” and that as APD did not have the funds to pay the amounts owing to GVA and Noyier unless Aucare advanced $4,914,115.67 to APD, APD would not have sufficient funds to satisfy the demanded amounts and M+K’s instructions were to have APD placed into liquidation. The letter also mentioned as “worth noting” that, pursuant to the Clean Room Contract, GVA retained title to that asset until it was paid for in full. Against that “background”, an offer was put to pay Aucare $150,000 in full and final satisfaction of Aucare’s investment in APD and for Aucare to transfer its shares in APD to Noyier and for the Bais to resign as directors of APD (though only Ms Bai was then a director. Mr Bai had ceased to be a director in January 2014).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The letter of demand grossly misstated the actual position, which, I find, Ms Huang well knew at the time.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Ms Huang denied that the claim that APD owed Noyier $2.3 million was a false claim. However, it was clear on the evidence, and Ms Huang did not deny, that she knew that Noyier had not made any contributions beyond the $686,700 paid up to 2 January 2014. She was unable to explain how APD owed Noyier the sum of $2.3 million. In cross-examination in response to being asked by the applicants’ senior counsel to explain how APD owed Noyier the sum of $2.3 million, Ms Huang answered:\nTHE INTERPRETER: Because GVA had a ..... job. It close to seven million dollars. If GVA wasn’t owned by me could not have been done this much job – work. Mr Bai asked us to do the work first and then he will pay the 50 per cent. So because Noyier also owned by me that’s why we have this type of value and technical result.\nMR DUGGAN: Noyier had only advanced a sum of not more than $680,000 to APD at the time that this letter was sent, hadn’t it?\nTHE INTERPRETER: But me and the GVA spend a lot of money. And we spent many, many hours and all our employees and all our expertise. And everything is valuable. And this project was also a complete ..... if only was ..... contribution it will not reach to that – far.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The answer she gave was evasive and unconvincing and left wholly unexplained why, on her account, APD owed Noyier $2.3 million. Later in cross-examination by counsel for M+K, she denied she told Mr Guenther that Noyier had made contributions of $2.3 million to APD. She stated that:\nI did not tell Mr Guenther that I – I contributed the same amount of cash, like 2.3 money to the – the joint venture. I did not say that. It’s – it’s not true. Because me, on - through Noyier, we never put that much cash to the joint venture. And what I said was, I – we continued to build the factory and – and Mr Bai will pay their half, and that’s – that was under Mr Bai’s request.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "That evidence was plainly untruthful. The evidence showed that she supplied the figures to Mr Guenther to incorporate into the letter of demand and that Mr Guenther only sent the letter after obtaining her final instructions and she had approved it. There is not a shred of corroborating evidence which demonstrates that Noyier made equivalent contributions to APD to the value of $2.3 million and I find that Ms Huang was not truthful in denying that she knew that it was a false claim that APD owed Noyier $2.3 million.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "It was also the fact, which Ms Huang knew at the time, that GVA had not rendered any accounts to APD. Those accounts were only prepared for the first time in late June 2014. Ms Huang’s explanation was that:\nBecause we had completed the work. The work is valued in that amount of money. We have a contract. APD should pay the balance for the relevant expenses requested by GVA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "It was simply not true, though, that there any amounts that APD owed GVA for work performed “which remain unpaid by APD”, as claimed in the letter, as no accounts had been rendered. But in any event, it was also clear on the evidence that Ms Huang knew at the time that Aucare, in contrast to Noyier, had paid $2.4 million to APD and that APD’s bank statement records that all the payments made by Aucare to APD were paid out of APD’s account to GVA. The lack of funds in APD was in consequence of Noyier’s failure to pay its share of the contributions to APD. As such, Ms Huang would have known, and I find, she had no legitimate entitlement to threaten to place APD into liquidation if Aucare did not pay $4.9 million to cover the amounts asserted to be owing by APD to Noyier and GVA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "It is clear from other correspondence that the liquidation of APD was, from at least early May 2014, part of Ms Huang’s strategy as a means of taking over the plant and equipment and business. For example, in an email that Ms Huang sent to Mr Guenther on 30 May 2014 she advised Mr Guenther that the landlord had agreed to sell the leased property to her and she sought his advice on whether there was any way “to give up the purchase condition for [APD]”. She wrote:\nIs there no way to make it happen, we should make APD bankrupt ASAP. And I hope u can help me to make appointment with the liquidation company to discuss about this early next week.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Aucare’s solicitors (HWL Ebsworth Lawyers) responded by letter dated 2 June 2014. Paragraphs [4] to [7] stated:\nAs you know, Ms Huang is a director of APD, and has a duty to, among other things, at all times act in the best interests of APD.\nBy entering or causing or engaging another to enter the premises at 16 Crompton Way, Dandenong South (“Premises”) and remove equipment or facility:\n(a) Ms Huang and [GVA] would be liable to APD for trespass and conversion; and\n(b) Ms Huang would be acting in breach of her director’s duty to act in the best interests of APD.\nAccordingly, we require Ms Huang in the discharge of her duties to APD to ensure that she, [GVA], or anyone engaged by them, do not enter onto the Premises and remove equipment or facility.\nIf Ms Huang fails to do so, our client will hold Ms Huang and [GVA] liable for any loss or damage suffered by APD and [Aucare].",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The letter is significant. Ms Huang had already received advice from Mr Guenther that she was in a position of potential conflict because of her directorship of both APD and GVA and this letter squarely put her on notice that she would be in breach of her duties as director of APD if she removed the plant and equipment. Ms Huang was also aware of what those duties entailed, because she had received advice from Mr Guenther on 30 May that if a director takes something belonging to the company without authorisation it is theft. Mr Guenther gave her that advice in response to Ms Huang’s concern that Ms Bai wanted to access the factory and view GVA’s books and records. Mr Guenther wrote:\n… [Ms Bai] has obligations to [APD] and to its property at law and as a Director. If she takes something that belongs to the Company for example, without authorisation, that is in essence theft. If she misuses company property for her gain and/or the Company’s detriment, then that is a breach of her obligations as a Director.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Ms Huang was not in a position of ignorance about her responsibilities as a director of APD. It is clear from an email that Ms Huang sent to M+K on 31 May 2014 that she was alive to the conflict of interest she had as a director of APD and as a director of GVA. In that email she asked for the following advice:\nDo you think it is helpful to change director of [GVA] from me to [Mr Guo]? I just worry as two company’s director, will cause conflict in something.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "M+K correctly advised that there was not much benefit in that.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 6 June 2014, Mr Guenther sent Ms Huang the response from HWL Ebsworth Lawyers. Ms Huang was not deterred. On 9 June 2014 she outlined her strategy to Mr Guenther, seeking his further advice. Her email stated as follows:\nDear Grant:\nIt is very clear that Bai’s stagey [sic] is to get more time to delay this project, which will make me more stress and cost me more money. There is very low change we can solve the problem in short time.\nWhich means, if I keep building the factory, it is very hard to get the money back, because every time I ask money, they will do the same thing as now to me. It will take long time to argue.\nAnd I will never accept to be partner with them again after so many troubles they bring to me.\nThe main mistake I made is I trust them and paid everything on front. And those payments has no record from APD to GVA.\nThat time was very easy for me to put the same money into APD. I have enough evidence to show I have more than that amount of cash in my accountant. But now is too late to do so.\nAccording to your last discussion with Paul. I think it take long time to make APD bankrupt and we cannot terminate the current lease agreement in short time. Also, from the letter sent by their solicitor, I think there is no way to make agreement in short time.\nConcerning all above, I think current situation is not good for us. Either they delay payment or fighting with me inside APD both make me stress. Do you think we should change our stagey [sic]?\nActually, what I concern now is find some way to leave all the troubles to inside APD and we do our new factory to keep our business running.\nSo, I do not want to give them invoice. All the invoice will be issued after we make agreement. And they can argue with me without invoice they do not pay.\nOtherwise, the only way I do is to use GVA ask money from APD, but it will not success. And they have the evidence to hold the machines and other staff. And I cannot take action to move machine and clean room.\nFollowing are some opinions and questions, please think about it, and give me advices tomorrow.\n1. We intend to move out all the machinery and clean room material & equipment. Only leave all the cable, electricity, painting and underground work in current address.\n2. We are going to buy a new factory and start to build the same plant under different company and director’s name.\n3. If APD pay GVA amount owned before delivery and pay the penalty, we send them same thing and the delivery time according to the contract plus the time they delay the payment which signed by both party.\nThe problem is, if after we move, they pay me amount they short, I have to handle two plant, which is a big cash flow problem for me.\nSo, after we move everything out, I think we should give them offer to buy Noyier’s share in APD.\n1. If they only approve the money put transferred to APD’s account, with around $650,000-$680,000 they offered us $736,863.4 to buy off Noyier’s 50% share, we can accept this price and we agree them pay by installment.\nBut GVA need receive 90% of contract price of all machinery and clean room material & equipment and all other job we done for them before delivery again to the current address. And the delivery time according to the contract with extra days they delayed. We will still build the same factory as now to them.\n2. If they confirm we invest the same amount of money as they, with $2,423,000, they should pay me $2.6 m immediately. (first time they only give me this choice: pay them $2.6m immediately to buy their share) and I will give them all the machinery and equipment after I received the balance of the contract price and build factory properly for them.\n3. If they refuse to buy my share, and I refuse their offer, APD only pay the rental and sue each other. After GVA finished the contract with APD, even they sue me and win, the worst is only Noyier go to bankrupt and not affect my other business.\nBefore we move, few things I need your advices:\n1. Have you got everything registered by PPS team?\n2. Can I move everything when registered?\n3. If I am not allowed to move by law or has some issue will occur but I still move, what’s the worst situation I will meet?\nAs a director of APD, I should not do this, but as the director of GVA, if I don’t move, GVA will lose more and we cannot control the whole thing.\n4. If I am allowed to move by law, do we have to give them formal notice? Last time I actually gave them notice already but got their solicitor’s letter and you said their argument will not be success.\nI think it is better not give them notice before we move. But we can give them notice later.\n5. Should we tell them the construction contract between APD and GVA finished? After contract finish, could GVA still can ask for the contract price?\n6. If the construction contract finish, all the point will come back to which party should take responsibility inside APD. In that case, I think still take long time to argue. Even they sue me and win the case, they can only sue Noyier Pty Ltd as a shareholder and cannot affect my other business, right? That company has no business activity, I do not worry about it. Either APD bankrupt or Noyier bankrupt is the same situation for me as two companies’ director.\nNow, is a very hard time for me, pleases assist me and give me advice to solve the problem.\nRegards!\nYoYo",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "It is also clear from a later email she sent the same day that she was aware that there was an issue as to whether GVA had a right to remove the plant and equipment. Mr Bai, through his solicitors, had reasonably been asking for GVA’s invoices to APD, which to that date had never been prepared, let alone supplied, to APD. Ms Huang had asked her accountant to prepare the invoices but changed her mind about supplying them to Mr Bai, stating to Mr Guenther:\nBecause after discussed with my accountant, her advice is I have to prepare all the invoice including paid and outstanding to show the money they own me. However, it is an evidence to show they own some part of the property and will affect our strategy.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "It is apparent from the M+K file that Ms Huang was advised to have the invoices finalised and sent to Mr Guenther. Once she had done so, Mr Guenther forwarded the invoices to HWL Ebsworth Lawyers on 25 June 2014 together with a schedule detailing the amounts to which GVA claimed to be entitled, the amounts received by GVA and the costs to which those amounts were allocated. In that same letter, M+K “confirm[ed]” that Ms Huang agreed not to remove any equipment from the premises without providing Aucare with prior notice. Tellingly, the schedule had a notation that GVA had received $2,864,439, of which $2,314,439 came from Aucare and only $550,000 from Noyier. Yet it also identified that $4,628,879 had been received by GVA. On 3 July 2014, HWL Ebsworth Lawyers wrote:\nWhat is not apparent from your letter is when the difference between the amount GVA has allegedly received and the amount you say it has been paid from the APD bank account (namely $1,764,440) was paid to, to whom it was paid and by whom it was paid. We understand that during the inspection at the Dandenong premises on 16 June 2014, you told Neil Perl [from HWL Ebsworth Lawyers] that the difference had been paid to GVA by Noyier. Despite several requests having been made for your client to substantiate these payments, your client has declined or refused to produce any evidence of these payments.\nAccordingly, we invite your client to produce any documents substantiating the asserted payment of $1,764,440.\nSuch documents substantiating the asserted payment of $1,764,440 by Noyier to GVA were never produced either to HWL Ebsworth Lawyers or by way of discovery in this proceeding. HWL Ebsworth Lawyers also put M+K on notice that it disputed the validity of the invoices which, it was asserted, appeared to be contrived to support the claim regarding Noyier’s contribution to the costs of the factory.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "In the meantime, although Ms Huang knew that GVA had no retention of title rights over the main and auxiliary equipment, she had M+K register GVA’s “interest” in the main and auxiliary equipment as well as in the clean room equipment on the PPS register. The purpose of making these registrations was to document GVA’s claim in relation to the equipment in anticipation that APD may be placed into liquidation. M+K advised HWL Ebsworth Lawyers of the registrations by letter dated 12 June 2014.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Despite the PPS registrations, a file note of a meeting between Mr Guenther and Ms Huang on 10 June 2016 records advice given to her that there was a risk that GVA would be liable to APD for trespass and conversion and Ms Huang would be acting in breach of her director’s duty to act in the best interests of APD if she removed the plant and equipment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "In early July 2014, M+K advised HWL Ebsworth that Ms Huang would participate in a mediation in the next seven days but if a resolution was not reached by the end of that period, Ms Huang would immediately exercise GVA’s retention of title rights over “all equipment and the Clean Room and remove those goods”. HWL Ebsworth Lawyers responded “remind[ing]” M+K that there was a dispute regarding the ownership of the equipment and sought an undertaking that Ms Huang would not remove any equipment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "By email dated 8 July 2014, M+K advised Ms Huang that Mr Bai was willing to participate in a mediation to occur on 25 July or 28 July on conditions which included that she did not remove any goods or equipment prior to a mediation. Mr Guenther advised her that she should agree to the mediation. Amongst the reasons for that advice, she was told that she probably would not get the premises much faster than that anyway and that her retention of title rights over the equipment were “extremely flimsy at best” and that “[w]hilst you might assert those rights, successfully maintaining that position long term [was] going to be very unlikely”.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Although she told Mr Guenther that she agreed to the mediation, and undertook not to remove any equipment prior to mediation (which Mr Guenther conveyed to HWL Ebsworth Lawyers by letter on 10 July 2014) and notwithstanding the advice she had received from Mr Guenther that her retention of title rights over the equipment were “extremely flimsy at best”, and of her position of conflict as a director of APD and GVA, Ms Huang took a series of actions with the purpose of removing the plant and equipment from the Dandenong South premises and defeating any ownership claim made by APD to the plant and equipment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 15 July 2014, Ms Huang signed a heads of agreement on behalf of GVA to lease a new factory premises at Carrum Downs to commence on 1 August 2014.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "By 16 July 2014, Ms Huang had decided she would move the plant and equipment “by the end of [the] week”. She told M+K of her intention in an email sent on 16 July 2014. In furtherance of her intention, on 16 July 2014 she removed herself as a director of GVA and appointed Qiong Huang as director in her stead.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Some time prior to 7 August 2014 she had a meeting with BPS Advisory to obtain advice, amongst other things, on the business model for her “new business”. That advice was confirmed in writing on 7 August 2014 and recommended that Ms Huang’s “new business model” should include an intellectual property holding company, an asset holding company, a lease holding company and an operating company.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Consistent with the advice given to her, Ms Huang had three new companies incorporated – AGD as the lease holding company, CFM as the asset holding company and NCA as the operating company. Ms Huang arranged for Qiong Huang to be the sole director of AGD and CFM and for herself and Mr Guo to be the directors of NCA. She also incorporated a company, IUIM Pty Ltd (“IUIM”), with Mr Guo as its sole director and Ms Huang as its sole shareholder, to hold the majority of the shares in NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Around the same time as incorporating these companies, in early August 2014 Ms Huang instructed M+K to prepare an asset sale agreement for the sale of the plant and equipment by GVA to CFM, an agreement to licence the equipment from CFM to NCA, and a sub-lease of the Carrum Downs premises from AGD to NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Ms Huang started removing the plant and equipment on about 21 July 2014 and it was fully removed by 4 August 2014. Pursuant to instructions, M+K, acting on behalf of GVA, Noyier and Ms Huang, advised Aucare that GVA had exercised its retention of title and ownership rights over the plant and equipment and removed that plant and equipment from the Dandenong South premises. Thereafter, delivery of plant and equipment was diverted to the Carrum Downs premises.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On about 19 August 2014, Ms Huang instructed M+K to obtain valuations of the plant and equipment both on an auction realisation value and on a market value basis. The evidence disclosed that she sought both valuations as her intention was for GVA to sell the plant and equipment to CFM at the lowest price possible, but she also needed to borrow funds for the “new business” and for that purpose required the market basis valuation. The auction realisation valuation was provided by Grays Asset Services on about 29 August 2014 in an amount of $441,340. The market basis valuation was provided by Cardinal Asset Services in November 2014 in an amount of $3,364,339.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "On 21 August 2014, GVA purported to sell the plant and equipment to CFM pursuant to a written asset sale agreement (“Asset Sale Agreement”). The terms of the amended version of the Asset Sale Agreement included the following:\n2. Sale and Title\n2.1 Sale of Assets\nOn the execution of this Agreement on the terms and conditions of this Agreement the Vendor sells and the Purchaser buys each Asset for each corresponding Asset Price.\n2.2 Risk\nRisk in each Asset passes to the Purchaser immediately on execution of this Agreement.\n2.3 Title\nTitle in each Asset passes to the Purchaser immediately on execution of this Agreement, irrespective of the timing for the payment of the Asset Price pursuant to clause 3 below.\n3. Valuation & Purchase Price\n3.1 Valuation\nThe parties acknowledge that a valuation of the Assets on an ‘Estimated Auction Realisation Value’ has been commissioned by the Vendor or will be as soon as practicable after execution of this Agreement (Valuation).\n3.2 Payment of Asset Price\n(a) The Asset Price for each Asset acquired by the Purchaser under this Agreement is payable by the Purchaser to the Vendor within 7 days of the completion of the Valuation and receipt of the valuation report or similar document or such other date as is agreed by the Vendor and the Purchaser.\n(b) To the extent that the Purchaser reasonably suspects, or the Vendor notifies the Purchaser, that there is or will be any Claim by the Vendor or any third party to or in respect of the title in any Asset (or any of them) or the Purchase Price (or any part of it) then:\n(i) the Purchaser must pay the Asset Price for any Asset that is not the subject of any Claim to the Vendor within 7 days of it being reasonably satisfied that no Claim exists in respect of such Asset PROVIDED ALWAYS THAT title in and possession of the Assets remains with the Purchaser;\n(ii) the Purchaser may at its discretion withhold such payment for any Asset (or Asset Price) that is the subject of a Claim pending resolution of such dispute and if the Purchaser elects to withhold payment, the parties agree that:\n(A) the interest of the Vendor is a Purchase Money Security Interest;\n(B) this Agreement constitutes a Security Agreement in respect of that Asset that is the subject of a Claim only;\n(C) the Vendor may at its discretion, in respect of any such Asset that is the subject of a Claim register a Purchase Money Security Interest on the PPSR over that Asset only; and\n(D) The Purchaser must pay the Asset Price for such Assets within 7 days of upon final resolution of the Claim or dispute PROVIDED ALWAYS THAT title in and possession of the Assets remains with the Purchaser.\n(iii) the Purchaser must make payment as otherwise in accordance by any order of the Court\n3.3 PPS\nTerms which are used in this clause 3 that are defined in the PPSA have the same meaning as in the PPSA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The intended effect of this agreement was that title to the plant and equipment passed immediately to CFM, notwithstanding that the purchase price for that plant and equipment was yet to be determined and paid. The obvious intent was to defeat any claim of ownership of the plant and equipment by APD.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "The M+K file included an unexecuted version of the Asset Sale Agreement (before amendment) and an email from Ms Huang to M+K of 20 August 2014 which attached what purported to be the execution page of that Agreement signed by Mr Guo on behalf of GVA and Qiong Huang on behalf of CFM. On 21 August 2014 at 14.17pm, M+K sent an amended Asset Sale Agreement to Ms Huang for execution. Ms Huang responded at 3.08pm stating “got it will do ASAP”. At 4.02pm Ms Huang sent an email to M+K attaching what purported to be the execution page of the amended Asset Sale Agreement signed by Mr Guo on behalf of GVA and Qiong Huang on behalf of CFM. A version of the amended Asset Sale Agreement containing the completed execution page appeared as an exhibit to an affidavit that Mr Guo swore on 12 July 2016 in purported compliance with a court order requiring disclosure of GVA’s assets in aid of a freezing order made against him, Ms Huang, GVA and NCA on 22 June 2016. It was alleged by the applicants that the signature of Qiong Huang that appears on that execution page was not in fact Qiong Huang’s signature but, instead, a forgery. That allegation was denied. The applicants objected to the tender of that document as evidence that the Asset Sale Agreement was, in fact, executed by Qiong Huang, as the document represented. Ms Huang did not formally seek to tender that document but, making allowance for the fact that she may not have understood that if she sought to rely on that document as proof that the Asset Sale Agreement was duly signed by Qiong Huang on behalf of CFM she had to tender it, I should formally reject the tender. Mr Guo did not, in his affidavit, attest to Qiong Huang signing the document on behalf of CFM and the authenticity of the document has not been proven merely by being an exhibit to his affidavit.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "In this regard, it is also noteworthy that the respondents never discovered a version of the Asset Sale Agreement with a duly completed execution page. At trial, the applicants sought production from Ms Huang of the Asset Sale Agreement with the completed execution clause, but she did not produce it. The applicants put Ms Huang on notice that unless she called Qiong Huang to give evidence attesting to signing the Asset Sale Agreement, the Court would be urged to draw a Jones v Dunkel inference that Qiong Huang’s evidence would not have assisted Ms Huang’s case. Ms Huang asked for, and was given, the opportunity before she closed her case to obtain legal advice, which she did, but chose not to call Qiong Huang. Nor did Qiong Huang give evidence in her own right as a party. Ms Huang’s explanation for not calling Qiong Huang was that she did not consider it necessary to do so as she had addressed in her evidence that the execution clause was signed by Qiong Huang. The evidence she gave, however, was vague in detail, full of inconsistencies and shown to be unreliable. Tellingly, her evidence that she took the agreement to her aunt, who was at Colac, to explain it to her and have it signed was contradicted by email correspondence which showed that all Ms Huang did was just to email the execution page to Qiong Huang and ask her to sign it. I find that Ms Huang did not personally witness Qiong Huang’s signature on either the original or the amended version of the agreement. I do not regard Ms Huang’s explanation for not calling Qiong Huang to testify as satisfactory. However, whilst the absence of Qiong Huang meant that there was no direct evidence that either version of the asset sale agreement was signed by Qiong Huang, I am not prepared to infer that Qiong Huang’s evidence would not have assisted Ms Huang. There was in evidence some email correspondence between Ms Huang and Qiong Huang from which it may be inferred that the signature purporting to be Qiong Huang’s signature was, in fact, her signature. Moreover, the execution pages which contain her signature appear to be the execution pages which appear in the versions of the Asset Sale Agreement that M+K prepared. It is open to find that both versions of the Asset Sale Agreement were duly executed by Qiong Huang on behalf of CFM. What is more to the point though, is that GVA had no title to the main and auxiliary equipment which it could pass to CFM and Ms Huang knew at the time that there was a dispute over the ownership of the clean room equipment. Furthermore, CFM was not a bona fide purchaser for value. For reasons later developed, the evidence established that CFM was the alter ego of Ms Huang which had complete control over that company. This finding does not gainsay a finding, which I make, that Qiong Huang was involved in the fraudulent scheme by reason of her directorships of CFM and AGD. The evidence did not suggest that she was unaware that she had been made a director of those companies, albeit as Ms Huang’s puppet.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "Other steps taken were as follows:\n(a) Ms Huang and Qiong Huang both took security interests over GVA’s property purportedly to secure advances they had already made to GVA and advances each intended to make to GVA;\n(b) on 15 October 2014, the Carrum Downs premises were leased to AGD and, on the same date, AGD sub-leased the Carrum Downs premises to NCA; and\n(c) on a date unknown, CFM purported to grant a licence to NCA in respect of some of the plant and equipment which had been removed from the Dandenong South premises so as to enable NCA to carry on business as a manufacturer of infant formula powder. However no executed licence was ever discovered by the respondents and there was no evidence to show that licence fees were ever paid by NCA. Although it was originally denied by NCA at a time when Ms Huang controlled that company that the licence had no legal effect, it is now admitted by NCA (now under the control of Mr Chu) that the NCA licence had no legal effect.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "FACTS AND EVIDENCE"
+    ],
+    "text": "To complete the chronology:\n(a) Aucare was wound up and placed in insolvency on 21 August 2014 on Aucare’s application on the just and equitable ground;\n(b) from 15 December 2015 until 31 January 2018, Ms Huang was sole director of NCA;\n(c) on 31 January 2018, Mr Chu was appointed to NCA as director and became the majority shareholder of NCA through his company, Grandtra Investments Pty Ltd; and\n(d) in January 2018 Mr Chu on behalf of NCA was successful in obtaining a licence from the Chinese authorities to export infant milk powder to China.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The evidence demonstrated, and I find, that it was Ms Huang who controlled and directed the removal of the plant and equipment from the Dandenong South premises and also the steps implemented thereafter. Notwithstanding the purported involvement of Qiong Huang, there was nothing in the evidence to indicate that Qiong Huang herself ever gave instructions to M+K regarding the steps in which she was purportedly involved, nor was any other evidence adduced which demonstrated that Qiong Huang was acting as an independent party. To the contrary, the evidence strongly supports the finding, which I make, that she was simply Ms Huang’s puppet in the steps that were implemented. I accept the submission for the applicants that the evidence overwhelmingly demonstrated that Ms Huang was the primary actor in carrying out those steps. She was the one who gave instructions to M+K, including to draw up the agreements to which AGD and CFM were made parties. There is nothing in the evidence to indicate that M+K ever received instructions from Qiong Huang in relation to those agreements. To the contrary, the evidence showed that Qiong Huang simply did what she was told to do by Ms Huang. It was also Ms Huang who sought the valuations through BPS Advisory, and who had CFM, AGD and NCA incorporated. In an email dated 8 August 2014, Ms Huang advised M+K that she “actually asked the accountant to put [Qiong Huang] and [Mr Guo] as director” of NCA “but she made mistake”, the mistake being that Ms Huang and Mr Guo were named as directors rather than Qiong Huang and Mr Guo. In the same email she wrote that CFM should be the asset holding company:\n…then there is no records shows [Mr Guo] or me in this company.\nAnd I can put about 10 different people as shareholders which has no risk. But after we fix this, pls write a contract between my aunty and me about transfer the share back agreement.\nThis email demonstrates Ms Huang’s state of mind at the time. Consistently, Ms Huang agreed in cross-examination that “everything was prepared by M+K for me”. From another answer given in cross-examination, it appeared that Ms Huang put Qiong Huang in as director of AGD and CFM because Qiong Huang had “lent lots of money to [Ms Huang] and GVA” and “she also was very angry with [Ms Huang] at that time, actually, so sold the equipment to her”. Even if that explanation were to be accepted, the fact remains that the evidence showed that it was Ms Huang who was the directing mind of CFM and AGD, not Qiong Huang. Ms Huang was also the directing mind of GVA and, with Mr Guo, the directing mind of Noyier.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In those circumstances, CFM and AGD, as well as NCA (which at the time was owned and controlled by Ms Huang and Mr Guo), GVA and Noyier are attributed with the knowledge of all the facts and have a “transmitted fiduciary obligation”: Grimaldi v Chameleon Mining NL (No 2) (2012) 200 FCR 296; [2012] FCAFC 6 at [243], citing Timber Engineering Company Pty Ltd v Anderson [1980] 2 NSWLR 488 at [11]. In that case, the Full Federal Court identified one of the circumstances in which, and a basis on which, a third party’s participation in another’s breach of fiduciary duty could render that third party accountable in equity for the other party’s breach of fiduciary duty, being “where the third party is the corporate creature, vehicle, or alter ego of wrongdoing fiduciaries who use it to secure the profits of, or to inflict the losses, by their breach of fiduciary duty”. The Full Court stated at [243] that:\nIn these cases the corporate vehicle is fully liable for the profits made from, and the losses inflicted by, the fiduciary’s wrong. The liability itself is explained commonly on the basis that [the] “company had full knowledge of all of the facts”; it is the alter ego. Liability does not turn on the need to show “dishonesty”, although it often provides the reason for the interposition of the company. Proof of a breach of fiduciary duty will suffice…\n(Footnotes omitted.)",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I am also satisfied on the evidence that Mr Guo took an active role not just in the pre-contractual negotiations but also in the implementation of the steps ultimately undertaken. It is well apparent from the documentary evidence and from the evidence given by Mr Bai and Ms Huang that it was Mr Guo who principally, if not wholly, dealt with Mr Bai in the discussions leading up to the entry into the Joint Venture Agreement. The evidence showed also that Mr Guo attended the first meeting with Mr Guenther at M+K when M+K were retained in early May 2014 though Mr Guo did not take an active part in that meeting because, as Ms Huang explained in her evidence, he did not speak English. Although it does not appear that Mr Guo attended other meetings with Mr Guenther, it is reasonable to infer that he was in constant communication with Ms Huang and making the decisions with her on a collaborative basis, given that he was at the time both a director of GVA and of NCA when it was incorporated for the purposes of operating the baby milk powder manufacturing business when the factory at Carrum Downs was established.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It is well established law that a director of a company owes proscriptive fiduciary duties to the company, including a duty not to obtain any unauthorised benefit from a relationship and not to be in a position of conflict: Howard v Federal Commissioner of Taxation (2014) 253 CLR 83; [2014] HCA 21 (“Howard”) at [31]. As the High Court explained at [31]–[33]:\n…Those proscriptive duties attach to the powers and discretions exercised by company directors. As fiduciary agents, directors must exercise their powers “honestly in furtherance of the purposes for which they are given” and not for their personal benefit or gain or for that of a third party.\nThe protective rationale for the proscriptive duties attaching to a fiduciary's powers was explained by Mason J in Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 at 97, and quoted with approval in Pilmer v Duke Group Ltd (In liq) (2001) 207 CLR 165 at 196 [70] per McHugh, Gummow, Hayne and Callinan JJ:\nIt is partly because the fiduciary's exercise of the power or discretion can adversely affect the interests of the person to whom the duty is owed and because the latter is at the mercy of the former that the fiduciary comes under a duty to exercise his power or discretion in the interests of the person to whom it is owed.\nFiduciary duties apply beyond the exercise of powers and discretions flowing from the fiduciary relationship. A fiduciary cannot in his or her personal capacity be the subject of a conflict of interest. The general principle of equity, by reference to the liability to account, was stated by Deane J in Chan v Zacharia (1984) 154 CLR 178 at 199 and was echoed in the unanimous judgment of the Court in Warman International Ltd v Dwyer (1995) 182 CLR 544 at 557 per Mason CJ, Brennan, Deane, Dawson and Gaudron JJ:\nA fiduciary must account for a profit or benefit if it was obtained either (1) when there was a conflict or possible conflict between his fiduciary duty and his personal interest, or (2) by reason of his fiduciary position or by reason of his taking advantage of opportunity or knowledge derived from his fiduciary position.\nThe objective of the rule is “to preclude the fiduciary from being swayed by considerations of personal interest and from accordingly misusing the fiduciary position for personal advantage”.\n(Footnotes omitted.)\nThese principles were recently repeated in Ancient Order of Foresters in Victoria Friendly Society Ltd v Lifeplan Australia Friendly Society Ltd (2018) 92 ALJR 918; [2018] HCA 43 (“Ancient Order of Foresters”) where Gageler J stated at [67]–[70]:\nThe fiduciary duty that an employee has to an employer within the scope of the relationship of employment, no less than the fiduciary duty that any other person in a fiduciary position has to any other person to whom the fiduciary duty is owed within the scope of the venture or undertaking in respect of which the person in the fiduciary position has undertaken or assumed a responsibility to act in the exclusive interests of that other person, is a duty of “absolute and disinterested loyalty”. That duty of loyalty is imposed in equity by means of two overlapping “proscriptive obligations”. Each proscriptive obligation, or “theme”, is “descriptive of circumstances in which equity will regard conduct of a particular kind as unconscionable and consequently attracting equitable remedies”.\n“The first”, often referred to as the “conflict rule”, “is that which appropriates for the benefit of the person to whom the fiduciary duty is owed any benefit or gain obtained or received by the fiduciary in circumstances where there existed a conflict of personal interest and fiduciary duty or a significant possibility of such conflict: the objective is to preclude the fiduciary from being swayed by considerations of personal interest.” The unconscionability which attracts equitable remedies in circumstances where the conflict rule alone is invoked lies not so much in receipt by the fiduciary of the benefit or gain (over which the fiduciary need not have control) as in retention by the fiduciary of the benefit or gain which in conscience ought to be disgorged to the principal.\n“The second”, often referred to as the “profit rule”, “is that which requires the fiduciary to account for any benefit or gain obtained or received by reason of or by use of [the] fiduciary position or of opportunity or knowledge resulting from it: the objective is to preclude the fiduciary from actually misusing [the fiduciary's] position for [the fiduciary's] personal advantage.” The unconscionability which attracts equitable remedies in such circumstances lies in pursuit by the fiduciary of self-interest, or, more precisely, in pursuit of an interest other than the exclusive interest of the principal.\nConsistently with the objective of imposing each obligation, in neither case does the benefit or gain to the fiduciary need to be at the expense of the principal, though it may be. And in neither case does the fiduciary need to act dishonestly or fraudulently, or otherwise than in good faith, though again the fiduciary may do so. Where a fiduciary does act dishonestly and fraudulently, however, the dishonest and fraudulent character of the breach of fiduciary duty is not without consequence for the intensity of the equitable remedies available against the defaulting fiduciary. More important for present purposes is that the dishonest and fraudulent character of the conduct of the fiduciary gives rise to the potential for similar remedies to be available in equity against another person who might knowingly participate in the fiduciary's breach.\n(Footnotes omitted.)\nThe scope or duty of a fiduciary in a venture or undertaking in respect of which the fiduciary has undertaken or assumed a responsibility to act in the exclusive interests of that other person is a duty of absolute and disinterested loyalty: Ancient Order of Foresters at [67]. As fiduciary agents, directors must exercise their powers “honestly in furtherance of the purposes for which they are given” and not for their personal benefit or gain or for that of a third party: Howard at [31]; Pilmer v Duke Group Ltd (in liq) (2001) 207 CLR 165 at 199 per McHugh, Gummow, Hayne and Callinan JJ.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In my view, the evidence overwhelmingly supports the finding, which I make, that Ms Huang and Mr Guo both acted dishonestly and fraudulently in removing the plant and equipment from the Dandenong South premises and in taking the steps they did to transfer ownership of the plant and equipment to entities which they controlled and to operate a new business to the exclusion of APD and Aucare. They also acted unconscionably. The respondents admitted in their amended defence that GVA did not retain title in respect of the Main and Auxiliary Equipment contracts. Significantly, Ms Huang and, it may reasonably be inferred, Mr Guo, knew that GVA did not have any retention of title rights over the main and auxiliary equipment. Further Ms Huang, and it may reasonably be inferred Mr Guo, also knew, because Ms Huang had been advised by M+K, that GVA’s ownership claim of the clean room equipment was “extremely flimsy at best”. I find that the removal of the plant and equipment from the Dandenong South factory premises was done with the deliberate purpose of retaining control of the factory and carrying on a factory business to the benefit of Ms Huang and Mr Guo and to the detriment of APD. With full knowledge, Ms Huang preferred her personal interests to the interests of APD and took advantage of her position as a director of GVA in order to advantage GVA to the detriment of APD. This was done on notice that Aucare objected to this and notwithstanding her undertaking to the Bais that she would not take that step pending the mediation that had been scheduled. Her actions were calculated and deliberate, actuated by self-interest in wilful disregard of the advice she had received, for the purpose of benefiting herself and Mr Guo. Ms Huang’s assertion of her belief that she was entitled to take that action, as she repeatedly maintained in her evidence, does not constitute any defence. The breach of her fiduciary duties was flagrant and unconscionable and the breach of fiduciary duty is ongoing as Ms Huang continues to conduct a business whose enterprise is the same, or substantially the same, as the enterprise that was to be carried out by APD. As Ms Huang was the controlling mind of GVA, NCA, AGD and CFM, her knowledge of her own dishonest and fraudulent design is to be imputed to those companies as the “alter ego” of Ms Huang. I also find also that Mr Guo and Qiong Huang, both of whom participated in the dishonest and fraudulent scheme, knowingly assisted Ms Huang’s breach.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Ms Huang also breached her fiduciary duties to APD by allowing APD to enter into contracts with GVA for the supply of equipment without disclosing her conflict of interest as the sole director and sole shareholder of GVA to Mr Bai and Ms Bai. It was put forward by way of defence that Mr Bai and Ms Bai were aware at the relevant time that Mr Guo and Ms Huang were in a de facto and business relationship and were aware that Ms Huang, as the de facto and business partner of Mr Guo, stood to benefit personally from APD engaging GVA. The defence is misconceived and not to the point. The point is that Ms Huang did not have the Bais’ fully informed consent to her receiving a benefit from GVA’s contract with APD because she did not disclose her directorship and shareholding in GVA to the Bais.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Ms Huang also breached her fiduciary duties to APD by allowing APD to contract at prices that were grossly inflated. As the table which is set out earlier in these reasons shows, the mark-ups on the prices charged by GVA were significant. There was no evidence to suggest that GVA did anything over and above the works undertaken by Xtreme Cleanrooms and certainly not to justify the mark-ups that GVA charged APD. No evidence was led to establish that the mark-ups were fair or reasonable, nor that the mark-ups would be no greater than what APD would have paid any other third party contractor. It can reasonably be inferred that Ms Huang and Mr Guo took advantage of the Bais’ lack of knowledge to apply the mark-ups. To the extent it was asserted by Ms Huang that GVA utilised its skills in managing the project, GVA, additionally and without notice to APD, applied a project management fee in the amount of $100,000, which, presumably, if a genuine fee, represented the value of the services provided for managing the project.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I also find that Mr Guo engaged in misleading and deceptive conduct in breach of s 18 of the ACL by representing to Mr Bai that the appointment of GVA to build the factory was necessary to control and limit costs during the construction in circumstances where it is well apparent on the evidence that it was the intention of GVA to make a substantial profit for itself by its excessive charges, in consequence of which the cost far exceeded the $6 million limit which had been agreed pursuant to the Joint Venture Agreement and the capped limits agreed under the Construction Contract.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "I also find that Noyier was plainly in breach of the Joint Venture Agreement in only contributing $686,700 to the joint venture whereas under the terms of the Joint Venture Agreement it was required to make equal contributions to the joint venture. Even if it was accepted that Noyier made direct payments to GVA rather than through APD (which was not established on the evidence), Noyier’s contributions did not match the contributions made by Aucare. Ms Huang’s self-serving justification that GVA was her company and the contributions did not have to match because of the effort and the expertise which she and Mr Guo had put in and that GVA was entitled to some profit is not a defence.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "The applicants have sought declaratory and proprietary relief against the respondents. A minute of the proposed orders was provided to the Court and addressed by senior counsel for the applicants in closing oral submissions. With the leave of the Court Ms Huang filed further written submissions in opposition to such orders.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Each of the declaratory orders I propose to make are, in my view, proper and appropriate: see s 21 of the Federal Court of Australia Act 1976 (Cth). The declarations serve the public interest by identifying the contravening conduct and recording the Court’s disapproval of that contravening conduct.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Those declarations include a declaration that the legal and beneficial ownership in the plant and equipment has not been conferred upon CFM by GVA or upon NCA by CFM. In my view it is appropriate to make that declaration and appropriate to make an order setting aside the Asset Sale Agreement and the Licence agreement. First, the Asset Sale Agreement was ineffective to pass title to CFM in respect of the main and auxiliary equipment because GVA did not have a proprietary interest in those assets. Secondly, it is also unconscionable for Ms Huang and Mr Guo to rely on that agreement as an effective transfer of ownership of the clean room equipment to CFM in the circumstance where the agreement was transacted as part of their dishonest and fraudulent scheme for the purpose of defeating a claim to that equipment made by APD, knowing at the time that GVA’s ownership of that equipment was in dispute. Their intention and knowledge of the existence of the dispute is evident in the terms which were obviously designed to defeat any claim made by APD. I also take into account that CFM has not paid anything for that equipment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "I also accept that the proprietary relief which I propose to grant is appropriate for the following reasons.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "In Ancient Order of Foresters, Gageler J at [78] stated that there are two purposes to holding the fiduciary to account in circumstances of breach of a fiduciary obligation. One is to prevent the unjust enrichment of the fiduciary. The other, more general, purpose is removing the incentive for the fiduciary to act other than in the sole interests of the principal. His Honour stated at [79] that holding the knowing participant in a dishonest and fraudulent breach of duty to account is explicable, and has been explained, as serving precisely the same purposes in precisely the same way, citing the passage from Consul Development Pty Ltd v DPC Estates Pty Ltd (1975) 132 CLR 373 at 397:\nIf the maintenance of a very high standard of conduct on the part of fiduciaries is the purpose of the rule it would seem equally necessary to deter other persons from knowingly assisting those in a fiduciary position to violate their duty. If, on the other hand, the rule is to be explained simply because it would be contrary to equitable principles to allow a person to retain a benefit that [the person] had gained from a breach of [the person’s] fiduciary duty, it would appear equally inequitable that one who knowingly took part in the breach should retain a benefit that resulted therefrom.\nHis Honour further stated that the reasons for holding the dishonest and fraudulent fiduciary to account and the reasons for holding the knowing participant to account being the same, there is no reason why the principles by which the knowing participant’s liability to account is assessed should be different from those by which the dishonest and fraudulent fiduciary’s liability to account is assessed. His Honour continued at [83], citing Warman International Ltd v Dwyer (1995) 182 CLR 544 at 559, that the “cardinal principle of equity” is “that the remedy must be fashioned to fit the nature of the case and the particular facts”.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "In the present case, but for the dishonest and fraudulent breaches of fiduciary duty by Ms Huang and Mr Guo and the knowing participation in those breaches by the other respondents, the plant and equipment would not have been removed from the Dandenong South premises and APD would have been the entity with the operational control of the manufacturing business. Plainly, Ms Huang and the other respondents have benefited as a result of Ms Huang’s and Mr Guo’s breaches of duty and the other respondents’ knowing participation in those breaches. Moreover, the breaches are continuing.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Where causation is sufficiently established (as it is here) the onus is upon the errant fiduciary or participant to show that he or she should not account for the full value of the advantage: Ancient Order of Foresters at [13]. In that case, the breach of the fiduciary resulted in the “wholesale acquisition by [the fiduciaries] of the business connections” of those to whom the duty was owed. The High Court found that, in the context of awarding an account of profits, the errant fiduciaries were required to account for the entire value of the business. It regarded the dishonesty of the knowing participant as being “pertinent” to the question. In this case, as in Ancient Order of Foresters, there has been a “wholesale acquisition” of APD’s business. The facts are even more acute in the present case because in this case the removal of the plant and equipment resulted in a sudden and immediate destruction of APD’s business.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "The onus was upon the respondents to show that it would be inequitable to require them to account for the whole of the advantage they acquired as a result of the conduct in question. In that regard it is appropriate to take the following matters into account.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "First, the business of manufacture has not yet commenced. The only substantive action that has been taken is that NCA has, in the meantime, acquired a CNCA licence which is necessary in order for the factory to be able to export infant milk powder to China. The orders proposed by the applicants, and to which NCA consents, include an order that Aucare pay to Mr Chu $1.75 million in compensation for his expenses incurred, skill, expertise, effort and resources contributed in obtaining the CNCA licence.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Secondly, since Mr Chu, through his company Grandtra, has taken over control of NCA, there are no employees and the factory is idle. This is due to the dispute between Mr Chu and Ms Huang and the uncertainty surrounding these proceedings.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 108,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Thirdly, it is unlikely that ordering another remedy in this case will do complete justice. Making an order for an account of profits will not do justice to the applicants. As the business has not yet commenced, there are no profits to account for. Furthermore, the applicants have been deprived of the ability to conduct the very business for which the joint venture was established. Proprietary relief would result in the respondents disgorging the primary benefit they have obtained in breach of fiduciary duty, namely the plant and equipment necessary to manufacture the baby milk powder.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 109,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Moreover, in the absence of proprietary relief, the two shareholders of NCA, IUIM and Grandtra Investments, are now locked in a shareholder dispute which may result in the company being placed in liquidation. The liquidation would result in a fire sale of the assets which would be an unjust outcome for the applicants, with the ultimate result of Ms Huang succeeding in depriving the applicants from carrying on a milk powder production business.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 110,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "There are no third parties which have appeared and indicated they would be adversely affected by the making of the order. The landlord of the premises was informed of the proceedings and invited to make submissions but has indicated that it would abide by any order of the Court. Although the minority shareholders were informed of the dispute they have not taken any steps to appear in the proceedings.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 111,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "I am also persuaded that an apportionment on the basis of skill and expertise and other expenses is not appropriate in this case.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 112,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "First, to the extent that skill, expertise and costs were applied to the construction of the factory at Carrum Downs that work almost entirely duplicated the construction that had already occurred at Dandenong South. Given that the Dandenong South premises were substantially complete at the time the plant and equipment was removed an allowance to Ms Huang would result in a double payment for the work.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 113,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "Secondly, whilst it is also appropriate to take into account uncompensated losses (Ancient Order of Foresters at [94]), in moving Ms Huang caused damage to the Dandenong South factory and liabilities were incurred by APD. The bank guarantee for an amount of $130,000 owing to the landlord at Dandenong South was forfeited. Further, APD has been exposed to a claim in damages and for non-payment of rent, accruing at $21,666 per month, by reason of the breach of the lease. As at 14 October 2014 the claim was assessed by Jasper Lawyers on behalf of the landlord at $567,070. Further, substantial consequence of loss has been caused by delay. Whereas pursuant to the Joint Venture Agreement APD ought to have been manufacturing and producing milk powder from May 2014, the destruction of APD’s business by the removal of plant and equipment in July 2014 has meant that APD has been unable to commence business activities.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 114,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "The applicants also relied upon what they characterise as Ms Huang’s “complete disregard for the law” and dishonesty as a relevant consideration, citing Ancient Order of Foresters at [70]. Ms Huang’s dishonest and fraudulent conduct is a factor weighing in support of the proprietary relief sought.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 115,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "For the sake of completeness it should be noted that senior counsel for the applicants put forward a number of other arguments in support of the application for proprietary relief. These included that the books and records of NCA have been kept in such a state of disarray that an account of profits could not be calculated with sufficient certainty so as to do justice to the plaintiffs. However, as noted, NCA’s business has not yet commenced and the inadequacy of the record keeping for profit calculation thus does not appear to have significance.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 116,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "In view of my conclusions, I am prepared to make the following orders proposed by the applicants:\nDEFINITIONS:\nAustralian Licences means the Australian Quarantine and Inspection Service Certificate of Registration of an Export Registered Establishment, the Dairy Food Safety Victoria Licence as a Dairy Manufacturer and the Halal Certification issued by the Islamic Co-Ordinating Council of Victoria Pty Ltd.\nCarrum Downs Premises means 9 Lakewood Boulevard, Carrum Downs, Victoria.\nCNCA Licences means the licences issued from China copies of which are which are attached to these orders in Annexure “A”.\nClean Room means the clean room constructed at the Carrum Downs Premises by Xtreme Clean Rooms Pty Ltd, including the components and panels which were disassembled at Dandenong South and reassembled at the Carrum Downs Premises.\nCompensation Event means immediately after the occurrence of the last of:\na. compliance with each of orders 10, 11 and 13.3 herein;\nb. the provision of consent by the Seventh Respondent of the application of the registration of the Australian Licences in the First Applicant or nominee’s name;\nc. delivery up of the Documents to the First Applicant according to paragraph 13.3.\nDandenong South premises means 16 Crompton Way, Dandenong South, Victoria.\nDocuments means any documents or intellectual property (whether in electronic or other form) including, but not limited to:\na. all manuals, policies, procedures, records, quality assurance, or any other similar records that relate to the business of the Seventh Respondent or any of the Australian Licenses or the CNCA Licence;\nb. the Seventh Respondent’s QA management system;\nc. the Seventh Respondent’s production workflow;\nd. the Seventh Respondent’s HACCP chart table; and\ne. the application made to obtain the CNCA Licences including all documents attached to the application which were sent to the CNCA authority in China, together with any further documents provided in response to any requests from the CNCA authority (“the CNCA Application Documents”).\nJoint Venture Enterprise means the construction of a milk powder manufacturing plant and the manufacturing, selling and exporting of milk powder.\nPlant & Equipment means the plant and equipment:\na. currently located at the Carrum Downs Premises;\nb. listed at sections 1 to 6 of the Grays Asset Valuation dated 29 August 2014, excluding items 5-1 & 5-2; or\nc. described in the table of the Cardinal Asset Services Valuation.\nTHE COURT DECLARES THAT:\n1. The Second Respondent engaged in misleading and deceptive conduct in breach of section 18, Schedule 2 of the Australian Consumer Law (ACL) in the Competition and Consumer Act 2010 (Cth) by representing to the Second Applicant that:\n1.1 the Fourth Respondent would contribute $3,000,000 to the joint venture when that was not the case; and\n1.2 the appointment of the Third Respondent to construct the milk powder manufacturing plant was necessary to control and limit costs during the construction when the Third Respondent charged undisclosed and excessive profits.\n2. The Fourth Respondent was in breach of the terms of the Joint Venture Agreement by failing to pay Australia Pure Dairy Pty Ltd (“APD”) an equal share of the joint venture costs.\n3. The First Respondent was in a position of conflict of interest as a director of APD and the sole shareholder and director of the Third Respondent.\n4. The First Respondent breached her fiduciary duty to APD:\n4.1 by not disclosing her directorship and shareholding of the Third Respondent; and\n4.2 by preferring her duty as a director of the Third Respondent and interest as a shareholder of the Third Respondent over her duty as a director of APD by:\n4.2.1 charging undisclosed and excessive profits in respect of plant, machinery and construction costs; and\n4.2.2 entering into, and giving effect to, a dishonest and fraudulent scheme.\n5. The First and Second Respondents entered into and gave effect to a dishonest and fraudulent scheme to deprive the Applicants and APD of the Joint Venture Enterprise.\n6. Each of the Third to Eighth Respondents knowingly assisted the First to Second Respondents in the dishonest and fraudulent scheme.\n7. By giving effect to the dishonest and fraudulent scheme the First to Fourth Respondents deprived the Applicants and APD of the benefit of the Joint Venture Enterprise.\n8. The Plant & Equipment is held on constructive trust for the First Applicant (by assignment from APD).\n9. The following interests are held on constructive trust for the First Applicant:\n9.1 the Sixth Respondent’s interest as tenant of the Head-Lease of the Carrum Downs Premises;\n9.2 the Sixth Respondent’s interest as landlord of the Sub-Lease of the Carrum Downs Premises; and\n9.3 the Seventh Respondent’s interest as tenant of the Sub-Lease of the Carrum Downs Premises.\nTHE COURT ORDERS THAT:\n10. The Sixth Respondent forthwith assign its interest as tenant of the Head-Lease of the Carrum Downs Premises and landlord of the Sub-Lease of the Carrum Downs Premises over to the First Applicant or nominee with an effective settlement date no later than 31 May 2019.\n11. The Seventh Respondent forthwith assign its interest as tenant of the Sub-Lease of the Carrum Downs Premises over to the First Applicant or nominee with an effective settlement date no later than 31 May 2019 and in the event of and upon assignment the First Applicant will be responsible for the provision of the new bank guarantee to be provided in lieu of the Respondent’s guarantee on the later of 31 May 2019 and two weeks from the date of these orders or as otherwise as reasonably agreed with the landlord.\n12. The Asset Sale Agreement be set aside.\n13. The Seventh Respondent forthwith:\n13.1 do all things reasonably necessary to assist the First Applicant or nominee to obtain, whether by transfer or application, the CNCA Licence and all Australian Licences of the factory at the Carrum Downs Premises, including by complying with any reasonable requests of the First Applicant, save that Mr Chu need not take any positive steps in China to assist;\n13.2 cease using the name ‘NCA’ and ‘Nutritional Choice Australia’ and amend the company name of the Seventh Respondent so as to omit those names upon the payment of the compensation ordered under Order 16.1 and order 16.2;\n13.3 deliver up to the First Applicant the Documents which are in the possession, custody or power of the Seventh Respondent, save that in respect of Documents which are not in its possession, provide particulars of the identity and location of those Documents and assistance, if requested, in obtaining those Documents.\n14. The First to Sixth and Eighth Respondents:\n14.1 take all reasonable steps to ensure that the business of manufacturing and selling milk powder is transferred to the First Applicant or nominee;\n14.2 be restrained from using the name ‘NCA’ or the name ‘Nutritional Choice Australia’ or any logos, trade marks, intellectual property or images in respect of NCA and products sold by NCA or to be sold by NCA or otherwise holding themselves out as being otherwise associated with NCA;\n14.3 do all things reasonably necessary to assist the First Applicant or nominee to obtain, whether by transfer or application, the CNCA Licence and all Australian Licences of the factory at the Carrum Downs Premises, including by complying with any reasonable requests of the First Applicant;\n14.4 be restrained from obstructing or hindering the Applicants in their efforts to obtain the Australian Licences, the CNCA Licence or the CFDA (China Food and Drug Administration) registration in respect of the Carrum Downs Premises; and\n14.5 deliver up to the First Applicant any Plant & Equipment and Documents which are in the possession, custody or power of one or more of the First to Sixth and Eighth Respondents, save that in respect of Documents which are not in their possession, provide particulars of the identity and location of those Documents and assistance to the First Applicant, if requested, in obtaining those Documents.\n15. Pending the completion of the steps referred to in paragraph 13.3 and the conferral of the CNCA Licence and the Australian Licences on the First Applicant or nominee, the First to Eighth Respondents, and the officers and members of the Seventh Respondent, not take any steps, without leave of the Court given pursuant to this paragraph, either to wind-up or consent to the winding up of the Seventh Respondent.\n16. The Court notes that Grandtra Investments Pty Ltd (Grandtra) and Chaoping (Steve) Chu (“Zhu”) played no part in the fraudulent scheme and, in respect of compensation, orders that:\n16.1 within four weeks from the date of this order provided that at the time that payment is due the Seventh Respondent has complied with the interlocutory orders made on 1 March 2019, and provided further that a complete copy of the CNCA Application Documents has been provided to the Applicants, the First Applicant pay to Zhu AUD$1,750,000 in compensation for his expenses incurred, skill, expertise, effort, and resources contributed in obtaining the CNCA Licence;\n16.2 upon the later of four weeks from the date of the order and the occurrence of the Compensation Event Grandtra have leave to seek an order for compensation payable by the Applicants for an amount not exceeding AUD$2,000,000.00, in its own interests and on behalf of the minority shareholders, excluding IUIM Pty Ltd and Xiaoyu Zhang, paid for the acquisition of shares in the Seventh Respondent;\n16.3 the First to Sixth and Eighth Respondents not be entitled to any payment from the Applicants as compensation for any contribution or expenses in respect of the Seventh Respondent.\n17. Costs be reserved as against the Seventh Respondent.\n18. The First to Sixth and Eighth Respondents pay the Applicants’ costs of the proceedings, with the question of whether a special order is to be made reserved.\n19. The question of monetary relief as against the First to Sixth and Eighth Respondents including consequential damages and damages pursuant to the ACL be determined at a subsequent hearing.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 117,
+    "headings": [
+     "RELIEF"
+    ],
+    "text": "The Court notes that orders 9, 10, 12, 14, 15 and 16 as they relate to the Seventh Respondent are by consent of the Applicants and the Seventh Respondent.",
+    "judge": "DAVIES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and seventeen (117) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Davies.",
+ "associate": null,
+ "dated": "2019-03-27",
+ "schedules": [
+  {
+   "title": "ANNEXURE “A”",
+   "text": ""
+  },
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 674 of 2016\nRespondents\nFourth Respondent: | NOYIER DAIRY AUSTRALIA PTY LTD\nFifth Respondent: | CFM ASSOCIATES PTY LTD (ACN 601 042 595)\nSixth Respondent: | AUSTRALIA GREEN DAIRY PTY LTD\nSeventh Respondent: | NUTRITIONAL CHOICE AUSTRALIA PTY LTD\nEighth Respondent: | HUANG QIONG\nNinth Respondent: | MACPHERSON + KELLEY LAWYERS PTY LTD\nTenth Respondent: | GRANT GUENTHER"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c45a731ea0bb8f517d3c7a1dcaa7813ee4edee5a1e099e9d61a2c308a5c8a017",
+ "markdown_file": "data/extracted/2019/2019FCA0412.md"
+}

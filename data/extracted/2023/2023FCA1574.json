@@ -1,0 +1,1375 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA1574.docx",
+ "metadata": {
+  "citation": "[2023] FCA 1574",
+  "name": "Australian Competition and Consumer Commission v Techtronic Industries Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2023,
+  "number": 1574,
+  "date_of_judgment": "2023-11-30",
+  "file_numbers": [
+   "NSD1220/2021"
+  ],
+  "judges": [
+   "COLVIN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-11-30"
+  ],
+  "hearing_raw": "30 November 2023",
+  "number_of_paragraphs": 52,
+  "catchwords": [
+   "COMPETITION - application for relief for respondent's breach of s 48 of the Competition and Consumer Act 2010 (Cth) - resale price maintenance - where respondent wholesale supplier contravened s 48 on 128 occasions - where following mediation parties filed a joint statement of agreed facts and joint submissions - where joint submissions substantially accepted - where respondent did not allow retailers to supply products below 'cost price' where such a price was above the acquisition price - where respondent continued to engage in conduct following commencement of proceedings - where admission of liability substantially delayed from commencement of proceedings - where conduct not deliberate attempt to flout law - where legal advice had been sought - consideration of loss leader selling - declaratory relief, pecuniary penalties, injunctive relief, compliance probation order and corrective orders made as sought made - pecuniary penalty of $15,000,000 imposed - respondent ordered to contribute $400,000 to applicant's legal fees"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 48, 96, 98"
+  ],
+  "cases_cited": [
+   "Australian Building and Construction Commissioner v Pattinson [2022] HCA 13; (2022) 274 CLR 450",
+   "Australian Competition and Consumer Commission v High Adventure Pty Limited [2005] FCAFC 247",
+   "Australian Energy Regulator v EnergyAustralia Pty Ltd [2022] FCA 644",
+   "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482",
+   "Kadkhudayan v WD & HO Wills (Aust) Ltd [2002] FCAFC 110",
+   "Markarian v The Queen [2005] HCA 25; (2005) 228 CLR 357",
+   "Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20",
+   "Trade Practices Commission v Orlane Australia Pty Ltd (1984) 1 FCR 157"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "TECHTRONIC INDUSTRIES AUSTRALIA PTY LTD (ACN 002 277 509)",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr S Free SC with Ms A Lyons"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Ms RCA Higgins SC with Mr PJ Strickland"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Easton Belle Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1574",
+  "portal_file_numbers": [
+   "NSD1220/2021"
+  ],
+  "portal_event": "Publication of Reasons",
+  "portal_event_date": "2023-12-12"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 1220 of 2021"
+  },
+  {
+   "label": "Judgment of",
+   "value": "COLVIN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "30 November 2023"
+  },
+  {
+   "label": "Date of publication of reasons",
+   "value": "12 December 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION - application for relief for respondent's breach of s 48 of the Competition and Consumer Act 2010 (Cth) - resale price maintenance - where respondent wholesale supplier contravened s 48 on 128 occasions - where following mediation parties filed a joint statement of agreed facts and joint submissions - where joint submissions substantially accepted - where respondent did not allow retailers to supply products below 'cost price' where such a price was above the acquisition price - where respondent continued to engage in conduct following commencement of proceedings - where admission of liability substantially delayed from commencement of proceedings - where conduct not deliberate attempt to flout law - where legal advice had been sought - consideration of loss leader selling - declaratory relief, pecuniary penalties, injunctive relief, compliance probation order and corrective orders made as sought made - pecuniary penalty of $15,000,000 imposed - respondent ordered to contribute $400,000 to applicant's legal fees"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 48, 96, 98"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Building and Construction Commissioner v Pattinson [2022] HCA 13; (2022) 274 CLR 450\nAustralian Competition and Consumer Commission v High Adventure Pty Limited [2005] FCAFC 247\nAustralian Energy Regulator v EnergyAustralia Pty Ltd [2022] FCA 644\nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482\nKadkhudayan v WD & HO Wills (Aust) Ltd [2002] FCAFC 110\nMarkarian v The Queen [2005] HCA 25; (2005) 228 CLR 357\nSingtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20\nTrade Practices Commission v Orlane Australia Pty Ltd (1984) 1 FCR 157"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "52"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "30 November 2023"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr S Free SC with Ms A Lyons"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Ms RCA Higgins SC with Mr PJ Strickland"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Easton Belle Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1220/2021",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "TECHTRONIC INDUSTRIES AUSTRALIA PTY LTD (ACN 002 277 509)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "COLVIN J"
+   ],
+   "date": "2023-11-30",
+   "date_raw": "30 november 2023",
+   "orders": [
+    {
+     "label": "",
+     "text": "PENAL NOTICE NOTICE UNDER RULE 41.06 OF THE FEDERAL COURT RULES 2011 (CTH) TO: TECHTRONIC INDUSTRIES AUSTRALIA PTY LIMITED ACN 002 277 509 (THE COMPANY) IF THE COMPANY (BEING THE PERSON BOUND BY THIS ORDER): (A) REFUSES OR NEGLECTS TO DO ANY ACT WITHIN THE TIME SPECIFIED IN THIS ORDER FOR THE DOING OF THE ACT; OR (B) DISOBEYS THE ORDER BY DOING AN ACT WHICH THE ORDER REQUIRES THE COMPANY NOT TO DO, THE COMPANY WILL BE LIABLE TO SEQUESTRATION OF PROPERTY OR OTHER PUNISHMENT, AND OFFICERS OF THE COMPANY MAY BE LIABLE TO IMPRISONMENT. ANY OTHER PERSON WHO KNOWS OF THIS ORDER AND DOES ANYTHING WHICH HELPS OR PERMITS THE COMPANY TO BREACH THE TERMS OF THIS ORDER MAY BE SIMILARLY PUNISHED.",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "1.",
+     "text": "By entering into 97 agreements with buying groups and individual retailers (Dealers) between 1 January 2016 and 27 July 2021, each of which included a term that the Dealer would not sell or offer to sell power tools under the Milwaukee brand (Milwaukee Products) for a price less than a price specified by the respondent (Specified Minimum Price), the respondent, on 97 occasions, engaged in the practice of resale price maintenance as defined in s 96(3)(c) of the Competition and Consumer Act 2010 (Cth) (CCA), in contravention of s 48 of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "By engaging in conduct relating to enforcement of its terms of trade, the respondent on 27 occasions between 29 December 2016 and 19 May 2020 engaged in the practice of resale price maintenance in contravention of s 48 of the CCA by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "on 10 of those 27 occasions, making it known to a Dealer that the respondent would not supply goods to the Dealer unless the Dealer agreed not to sell or offer to sell Milwaukee Products for a price less than the Specified Minimum Price, and thereby, on each such occasion, engaging in the practice of resale price maintenance as defined in s 96(3)(a) of the CCA;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "on 8 of those 27 occasions, inducing a Dealer not to sell or offer to sell Milwaukee Products supplied by the respondent at a price less than the Specified Minimum Price, and thereby, on each such occasion, engaging in the practice of resale price maintenance as defined in s 96(3)(b) of the CCA; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "on 19 of those 27 occasions, attempting to induce a Dealer not to sell or offer to sell Milwaukee Products supplied by the respondent at a price less than the Specified Minimum Price, and thereby, on each such occasion, engaging in the practice of resale price maintenance as defined in s 96(3)(b) of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "By engaging in conduct with respect to two associated Dealers in June to September 2018, the respondent on two occasions engaged in resale price maintenance in contravention of s 48 of the CCA by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "inducing one of those Dealers, and attempting to induce the other Dealer, not to sell or offer to sell Milwaukee Products supplied by the respondent at a price less than the Specified Minimum Price, and thereby engaged in the practice of resale price maintenance as defined in s 96(3)(b) of the CCA;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "withholding supply of Milwaukee Products from those two Dealers, including within the extended meaning of withholding supply set out in s 98(1)(a) and (b) of the CCA, for the reason that the Dealers had sold or were likely to sell Milwaukee Products supplied by the respondent at a price less than the Specified Minimum Price, and thereby engaged in the practice of resale price maintenance as defined in s 96(3)(d) of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The respondent pay to the Commonwealth of Australia pecuniary penalties totalling $15 million, pursuant to s 76(1) of the CCA, in respect of the respondent's contraventions of s 48 of the CCA identified in paragraphs 1 and 2 above, with such penalties to be paid in two equal instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first instalment of $7,500,000 to be paid within 30 days of the date of this order; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the second instalment of $7,500,000 to be paid within 90 days of the day of this order,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "save that, if any instalment is not paid on or before the due date, the entire balance remaining unpaid becomes immediately due and payable.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Pursuant to each of s 23 of the Federal Court of Australia Act 1976 (Cth) and s 80 of the CCA, the respondent is restrained from seeking to rely on or enforce a term in any agreement with a Dealer that a Dealer not advertise for sale or sell goods below a price specified by the respondent.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Pursuant to each of s 23 of the Federal Court of Australia Act and s 80 of the CCA, the respondent is restrained, for a period of five years, whether by itself or its directors, servants, agents, employees or otherwise howsoever, from:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "making it known that it will not supply goods unless a Dealer agrees not to sell or offer goods at a price less than a price specified by the respondent;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "offering to enter into, or entering into agreements for the supply of goods to a Dealer, one of the terms of which is that the Dealer would not sell or offer goods at a price less than a price specified by the respondent;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "inducing, or attempting to induce, a Dealer not to sell or offer goods at a price less than a price specified by the respondent; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "withholding supply of goods, including by refusing to supply those goods except on terms that are disadvantageous to a Dealer or treating a Dealer less favourably, whether in respect of time, method or place of delivery or otherwise, than the respondent treats other persons to whom it supplies the same or similar goods, for the reason that the Dealer sold or offered to sell, or was likely to offer to sell, goods at a price less than a price specified by the respondent, except when withholding supply is permitted by s 98(2) of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "For a period of three years from the date of this order, the respondent implement a revised education, training and CCA compliance program for employees or other persons involved in the respondent's business pursuant to s 80 and s 86C of the CCA, in accordance with Annexure A.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "Within 28 days of the date of this order, the respondent send letters to Dealers pursuant to s 86D of the CCA, in the form set out in Annexure B, informing them of the terms of the Court orders.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "Within 28 days of the date of this order, the respondent publish a corrective notice pursuant to s 86D of the CCA, in the form set out in Annexure C to these orders, on its website www.milwaukeetool.com.au.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "Techtronic pay a contribution to the ACCC's costs in the amount of $400,000, to be paid within 30 days of these orders.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ANNEXURE A",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "COMPETITION AND CONSUMER COMPLIANCE PROGRAM",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Techtronic Industries Australia Pty Limited (Techtronic) will establish a revised education, training and Competition and Consumer Compliance Program (Compliance Program) that complies with each of the following requirements:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Appointments",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Within three months of the order coming into effect, Techtronic will appoint a director or a senior manager of the business to be responsible for the development, implementation and maintenance of the Compliance Program (the Compliance Officer).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Compliance Officer Training",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Within six months of the order coming into effect, Techtronic will ensure that the Compliance Officer attends practical training focusing on Part IV of the Competition and Consumer Act 2010 (CCA) including the prohibition on resale price maintenance.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Techtronic will ensure that the training is administered by a suitably qualified compliance professional or legal practitioner with expertise in competition and consumer law.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Compliance Policy",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Within three months of the order coming into effect, Techtronic will issue an internal policy statement which will include an outline of Techtronic's commitment to compliance with the CCA (the Compliance Policy).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Techtronic will ensure that the Compliance Policy contains:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "5.1. a statement of commitment to compliance with the CCA;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "5.2. an outline of how Techtronic will promote compliance with the CCA;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "5.3. a requirement for all staff to report any CCA compliance issues (including CCA compliance concerns) to the Compliance Officer;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "5.4. a guarantee that:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• whistle blowers with CCA compliance concerns will not be disadvantaged in any way and that their reports will be kept confidential and secure; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• other persons including employees and third parties who have a relationship with Techtronic such as contractors or dealers who either propose to or have furnished information or documents to the ACCC in relation to CCA compliance concerns will not be disadvantaged in any way.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "5.5. a statement that Techtronic will take appropriate action internally against any person who is knowingly or recklessly concerned in a contravention of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Staff training",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "For a period of at least three years, Techtronic will cause all employees or contractors or agents of Techtronic whose duties could result in them being concerned with that may contravene s 48 of the CCA to receive regular (at least once a year) training administered by the Compliance Officer (once trained) or a qualified compliance professional or legal practitioner with expertise in competition and consumer law, that focuses on Part IV of the CCA including the prohibition on resale price maintenance.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Techtronic must ensure that the training is developed by a legal practitioner with expertise in the CCA.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "Techtronic will take reasonable steps to ensure that the Compliance Program includes a requirement that awareness of s 48 of the CCA forms part of the induction of all new directors, officers, employees, contractors, representatives and agents of Techtronic, whose duties include communicating with resellers or dealing with their inquiries or complaints, or managing staff with these duties.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Record keeping",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "For a period of not less than three years, Techtronic will take reasonable steps to ensure that it makes and maintains records of all instances where:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "9.1. it withholds supply including within the extended meaning of that term in s 98(1) from a dealer for reasons that include that the dealer has supplied goods below the cost to the dealer or some other specified price; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "9.2. it provides an explanation or description of the circumstances in which Techtronic will withhold supply including within the extended meaning of that term in s 98(1) to a dealer for reasons that include that the dealer has supplied goods below the cost to the dealer or some other specified price.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "The records referred to in paragraph 9.1 must include details (if relevant) of all documents and information necessary to demonstrate that Techtronic was permitted to withhold supply under s 98(2).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Complaints handling",
+     "level": 0
+    },
+    {
+     "label": "11.",
+     "text": "Within six months of the order coming into effect Techtronic will develop procedures for recording, storing and responding to competition and consumer law complaints (Complaints Handling System).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Reports to Directors/Governing Body",
+     "level": 0
+    },
+    {
+     "label": "12.",
+     "text": "Techtronic will ensure that the Compliance Officer reports to Techtronic's director(s) or governing body every 12 months on the continuing effectiveness of the Compliance Program.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Compliance Review",
+     "level": 0
+    },
+    {
+     "label": "13.",
+     "text": "Techtronic will, at its own expense, cause an annual review of the Compliance Program (the Review) to be carried out in accordance with each of the following requirements:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.1. Scope of Review - the Review should be broad and rigorous enough to provide Techtronic and the ACCC with:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.1.1. verification that Techtronic has in place a Compliance Program that complies with the requirements of the order and is suitable for the size and structure of Techtronic; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.1.2. the Compliance Reports detailed at paragraph 14 below.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.2. Independent Reviewer - Techtronic will ensure that each Review is carried out by a suitably qualified, independent compliance professional with expertise in competition and consumer law (the Reviewer). The Reviewer will qualify as independent on the basis that they:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.2.1. did not design or implement the Compliance Program;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.2.2. is not a present or past staff member or director of Techtronic;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.2.3. has not acted and does not act for, and does not consult and has not consulted to, Techtronic in any competition or consumer law related matters, other than performing Reviews under this order; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.2.4. has no significant shareholding or other interests in Techtronic.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.3. Evidence - Techtronic will use its best endeavours to ensure that each Review is conducted on the basis that the Reviewer has access to all relevant sources of information in Techtronic's possession or control, including without limitation:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.3.1. the ability to make enquiries of any officers, employees, representatives, and agents of Techtronic;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.3.2. documents relating to Techtronic's Compliance Program, including documents relevant to Techtronic's Complaints Handling System, Compliance Policy and Staff Training; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.3.3. any reports made by the Compliance Officer to Techtronic's director(s) or governing body regarding Techtronic's Compliance Program.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "13.4. Techtronic will ensure that a Review is completed within one year of this Compliance Program coming into effect and that a subsequent review is completed within each year for 2 further years.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Compliance Reports",
+     "level": 0
+    },
+    {
+     "label": "14.",
+     "text": "Techtronic will use its best endeavours to ensure that within 30 days of a Review, the Reviewer includes the following findings of the Review in a report to Techtronic (the Compliance Report):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "14.1. whether the Compliance Program of Techtronic includes all the elements detailed in paragraphs 1-11 above, and if not, what elements need to be included or further developed;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "14.2. whether the Staff Training is effective, and if not, what aspects need to be further developed;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "14.3. whether Techtronic has made and maintained records in accordance with paragraphs 9 and 10 above (if relevant);",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "14.4. whether Techtronic's Complaints Handling System is effective, and if not, what aspects need to be further developed; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "14.5. whether there are any material deficiencies in Techtronic's Compliance Program, or whether there are or have been instances of material non-compliance with the Compliance Program (Material Failure),[^1] and if so, recommendations for rectifying the Material Failure(s).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Techtronic response to Compliance Reports",
+     "level": 0
+    },
+    {
+     "label": "15.",
+     "text": "Techtronic will ensure that the Compliance Officer, within 14 days of receiving the Compliance Report:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "15.1. provides the Compliance Report to the governing body of Techtronic;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "15.2. where a Material Failure has been identified by the Reviewer in the Compliance Report, provides a report to Techtronic's governing body identifying how Techtronic can implement any recommendations made by the Reviewer in the Compliance Report to rectify the Material Failure.",
+     "level": 0
+    },
+    {
+     "label": "16.",
+     "text": "Techtronic will implement promptly and with due diligence any recommendations made by the Reviewer in the Compliance Report to address a Material Failure.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Reporting Material Failures to the ACCC",
+     "level": 0
+    },
+    {
+     "label": "17.",
+     "text": "Where a Material Failure has been identified by the Reviewer in the Compliance Report, Techtronic will:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "17.1. provide a copy of that Compliance Report to the ACCC within 21 days of Techtronic's governing body receiving the Compliance Report; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "17.2. inform the ACCC of any steps that have been taken to implement the recommendations made by the Reviewer in the Compliance Report; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "17.3. otherwise outline the steps Techtronic proposes to take to implement the recommendations and will then inform the ACCC once those steps have been implemented.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Provision of Compliance Program documents to the ACCC",
+     "level": 0
+    },
+    {
+     "label": "18.",
+     "text": "Techtronic will maintain a record of and store all documents relating to and constituting the Compliance Program for a period not less than three years.",
+     "level": 0
+    },
+    {
+     "label": "19.",
+     "text": "If requested by the ACCC during the period of three years Techtronic will, at its own expense, cause to be produced and provided to the ACCC copies of all documents constituting the Compliance Program, including:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "19.1. the Compliance Policy;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "19.2. an outline of the Complaints Handling System;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "19.3. Staff Training materials;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "19.4. all Compliance Reports that have been completed at the time of the request;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "19.5. copies of the reports to the governing body referred to in paragraphs 12, 14 and 15.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ACCC Recommendations",
+     "level": 0
+    },
+    {
+     "label": "20.",
+     "text": "Techtronic will implement promptly and with due diligence any recommendations that the ACCC may make that the ACCC deems reasonably necessary to ensure that Techtronic maintains and continues to implement the Compliance Program in accordance with the requirements of this order.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ANNEXURE B",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Dear [Dealer]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court finds that Techtronic Industries breached the Competition and Consumer Act 2010 (Cth)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The Federal Court of Australia has ordered that Techtronic Industries Australia Pty Ltd (Techtronic), supplier of Milwaukee-branded products, pay $15,000,000 in penalties for engaging in resale price maintenance, by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• entering into agreements with dealers which included a term that the dealer would not sell or offer to sell power tools under the Milwaukee brand for a price less than a price specified by Techtronic, and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• taking action to enforce that term, including by issuing oral and written warnings to dealers who offered to sell or did sell Milwaukee-branded products below the price specified by Techtronic and suspending the trading and/or rebate entitlements of some of those dealers.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Resale price maintenance is prohibited by s 48 of the Competition and Consumer Act 2010 (Cth) (CCA). It is illegal for a supplier to specify a price below which a business such as a dealer must not advertise or sell products.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The admitted contraventions affected a term of Techtronic's dealer agreement[s] with your business dated [insert particulars of dealer agreements - example below]:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Version 2: 16. SALE OF PRODUCTS (MODEL NUMBERS) AND SELLING BELOW COST PRICE",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "…",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "16.3 Subject to all applicable laws, the Buyer acknowledges and agrees that it will not sell any Product below its Cost Price where such sale would constitute Loss Leader Selling, except where there is a genuine seasonal or clearance sale or Techtronic Industries has consented in writing to the sale below Cost Price.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "16.4 The Buyer acknowledges that any breach of clauses 16.1, 16.2 or 16.3:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "is a default for the purposes of clause 9.1(b);",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "will result in the termination of any rebate entitlements granted by Techtronic Industries to the Buyer in respect of the sale of Products by the Buyer; and",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "may result in Techtronic Industries withholding the supply of Products to the Buyer, in Techtronic Industries' absolute discretion.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "All dealers are free to advertise, offer for sale and sell goods supplied by Techtronic at a price less than the 'Cost Price', as defined in the relevant dealer agreement. Techtronic cannot:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• impose minimum prices for the resale of their goods; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• withhold the supply of goods for the reason that a dealer has not agreed to sell, has sold, or is likely to sell goods, at a price less than a minimum price specified by Techtronic, except in limited circumstances where that is permitted (please see the attachment to this letter for more information).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Techtronic's admissions, penalty and other orders",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Techtronic has admitted to the Federal Court of Australia that it engaged in resale price maintenance in the following instances that occurred between at least 1 January 2016 and 27 July 2021:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "- on 97 occasions, Techtronic entered into agreements with dealers that contained a term that the dealer would not advertise for sale goods supplied by Techtronic at a price less than the 'Cost Price';",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "- on 31 occasions, Techtronic took action to enforce that term, including by issuing oral and written warnings to dealers who offered to sell or did sell Milwaukee-branded products below the price specified by Techtronic and suspending the trading and/or rebate entitlements of some of those dealers.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "As part of its orders, the Court:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• ordered that Techtronic pay a penalty of $15,000,000;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• restrained Techtronic from seeking to rely on or enforce a term in any of its agreements with Dealers that a Dealer not advertise for sale or sell goods below a price specified by Techtronic;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• restrained Techtronic from engaging in similar conduct for five years;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• required Techtronic to upgrade its competition and consumer law compliance program; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• required Techtronic to send letters like this letter to dealers and publish a corrective notice on its website.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "For further information visit https://www.accc.gov.au/media or call the ACCC Infocentre on 1300 302 502.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Attachment:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Resale Price Maintenance",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "It is illegal for suppliers to impose minimum prices for the resale of their goods or services. For example, suppliers must not:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• set minimum prices in formal policies or agreements;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• offer resellers a discount if they sell at or above a minimum price;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• refuse to supply resellers that sell below a minimum price, except in limited circumstances (see below); or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• punish resellers for selling below a minimum price, for example, by taking away a discount or sending a warning.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "This is known as resale price maintenance. It is illegal because it stops resellers competing on price, increasing what consumers pay.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Withholding Supply",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "There are limited circumstances when a supplier may withhold the supply of goods or supply those goods on disadvantageous terms to a reseller. Those circumstances are when that reseller within the last year has sold goods at less than their cost to the reseller (including any rebates paid or to be paid) for the purpose of:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• attracting customers to its business to increase the likelihood customers will purchase other goods being sold by the business, or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• promoting its business.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "However, the supplier cannot withhold the supply of goods if:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• the reseller sold those goods as part of a genuine seasonal or clearance sale and those goods were not obtained for the purpose of being sold at that sale, or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• the supplier consented to the sale.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ANNEXURE C",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court finds that Techtronic Industries has breached the Competition and Consumer Act 2010 (Cth)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The Federal Court of Australia has ordered that Techtronic Industries, supplier of Milwaukee-branded products, pay $15 million in penalties for engaging in resale price maintenance between January 2016 and July 2021, by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• entering into 97 agreements with reseller dealers which included a term that the dealer would not sell or offer to sell power tools under the Milwaukee brand for a price less than a price specified by Techtronic, and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• taking action to enforce that term on 31 occasions, including by issuing oral and written warnings to dealers who offered to sell or did sell Milwaukee-branded products below the price specified by Techtronic and suspending the trading and/or rebate entitlements of some of those dealers.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Resale price maintenance is prohibited by s 48 of the Competition and Consumer Act 2010 (Cth) (CCA). It is illegal for a supplier to specify a price below which a business such as a retailer must not advertise or sell products.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Retailers are free to advertise, offer for sale and sell goods supplied by Techtronic at a price below the minimum price which Techtronic specified to them in their agreements. Techtronic cannot:",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "impose minimum prices for the resale of their goods; or",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "withhold the supply of goods for the reason that a retailer has not agreed to sell, has sold, or is likely to sell goods, at a price less than a minimum price specified by Techtronic, except in limited circumstances where that is permitted.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "As part of its orders, the Court:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• ordered that Techtronic pay a penalty of $15 million;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• restrained Techtronic from seeking to rely on or enforce a term in any of its agreements with Dealers that a Dealer not advertise for sale or sell goods below a price specified by Techtronic;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• restrained Techtronic from engaging in similar conduct for five years;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• required Techtronic to upgrade its competition and consumer law compliance program; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "• required Techtronic to publish this corrective notice on its website and send corrective letters to dealers.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "For further information visit https://www.accc.gov.au/media or call the ACCC Infocentre on 1300 302 502.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "the court orders that:",
+    "BY CONSENT THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: A further order was made on 30 November 2023 amending the number of occasions referred to in Annexure B and C from 31 to 29."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Techtronic Industries Australia Pty Limited is a wholesale supplier in Australia of Milwaukee branded products which include power tools, hand tools and accessories (Milwaukee Products). It supplies those products to a network of dealers who supply trade customers on the terms specified in dealer agreements. It pursues a brand strategy that positions the Milwaukee Products as premium products compared to available alternatives.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "For six years commencing in 2015, Techtronic's dealer agreements prohibited its dealers from selling Milwaukee Products below a price described as 'Cost Price'. Initially, the agreements provided for a single exception to that prohibition being for genuine clearance sales to which Techtronic had consented. Techtronic then changed the dealer agreements to prohibit selling by retailers below Cost Price where the sale would constitute 'Loss Leader Selling' (except where there is a genuine seasonal or clearance sale or where Techtronic had consented in writing to such sale). Later Techtronic added provisions that prohibited dealers from issuing vouchers or offering discounts or 'points' that would result in the sale of Milwaukee Products below Cost Price.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Broadly speaking, Cost Price was defined in the dealer agreements as the lower of two prices, namely (a) the invoice price as between Techtronic and the dealer; and (b) the current list price for supply by Techtronic to its dealers. Significantly, the price as so defined did not allow for various agreed rebates that were payable by Techtronic to its dealers under the terms of its dealer agreements. The amount of those rebates could be quite significant relative to the invoice price. Accordingly, the effect of defining the Cost Price in that way was that it specified a price that was well above the effective acquisition cost for the dealer.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The term 'Loss Leader Selling' was defined in the dealer agreements in a way that captured any sale by the dealer below the Cost Price that was made (a) to attract customers to the dealer that were likely to purchase other goods or services; or (b) to promote the business of the dealer. However, by reason of the definition of Cost Price, this provision was not confined to true loss leader selling, being sales by dealers of products at prices below their acquisition cost. Rather, it applied to any sale below the Cost Price as defined for either of the stated purposes. As has been explained that was a price point well above the actual cost to the dealer of acquiring the products from Techtronic. Therefore, the agreement terms enabled Techtronic to object to sales below a price that was above the dealer's acquisition cost (misleadingly described as Cost Price) where those sales were 'Loss Leader Selling' as defined in the dealer agreements.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Accordingly, as initially expressed, the dealer agreements required Techtronic's dealers not to compete for retail customers by pricing below the specified Cost Price (unless Techtronic consented on the basis that it was a clearance sale). After that, it introduced the prohibition on selling below Cost Price where it would constitute Loss Leader Selling. Finally, it amended the dealer agreements to add a prohibition on sales below Cost Price by using vouchers, discounts or 'points'.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "By each of these mechanisms, Techtronic specified a price below which its dealers, in the circumstances stated, could not sell the Milwaukee Products which specified price was higher than the actual acquisition price to the dealer. By supplying its products on those terms, Techtronic established the Cost Price as a price below which its dealers could not supply. The form in which the provision was expressed created uncertainty as to the circumstances in which dealers could sell below Cost Price. In particular, it created the possibility for Techtronic to maintain that any advertised sale below Cost Price was undertaken to promote the business of the dealer and therefore within the concept of Loss Leader Selling.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Further, as will emerge, Techtronic treated all sales below Cost Price (as defined) as being Loss Leader Selling (as defined). Therefore, in practical effect, at all relevant times the dealer agreements prohibited any sale by the dealers below Cost Price.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Techtronic also took steps to monitor whether its dealers complied with the dealer agreement provisions concerning supply below the Cost Price. It corresponded with dealers insisting on obedience to the terms of the dealer agreement provisions concerning selling below the Cost Price and warning them of the imposition of possible sanctions as specified in the dealer agreements. It also took steps on one occasion to sanction individual dealers for breach of the provisions.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The Australian Competition and Consumer Commission became aware of the conduct of Techtronic. It conducted investigations and formed the view that Techtronic had been engaging in resale price maintenance contrary to s 48 of the Competition and Consumer Act 2010 (Cth) particularly in relation to the supply of power tools, hand tools and accessories. It commenced proceedings in this Court in which it alleged that Techtronic had engaged in the practice of resale price maintenance on 128 separate occasions. Techtronic initially admitted that it had engaged in three instances of resale price maintenance. For more than a year and a half it defended the balance of the claims. Then, following a mediation, Techtronic accepted the substance of much of the case advanced by the Commission. For most of the period up until the mediation Techtronic continued to supply products to its dealers on terms which included the prohibition upon selling below Cost Price in the circumstances that have been described.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "By joint submissions, the Commission and Techtronic proposed that certain orders be made by way of final determination of the proceedings. They also presented a statement of agreed facts. In addition, Techtronic relied upon two affidavits being an affidavit of Mr Michael Brendle the managing director of Techtronic's Milwaukee business in Australia and New Zealand and an affidavit of Mr Andrew Seaton the managing partner of Techtronic's external lawyers.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The orders proposed by the parties were to the following effect:\ndeclaratory relief to the effect that Techtronic has contravened s 48 of the Act in the respects now admitted;\nthe imposition of aggregate pecuniary penalties of $15 million;\ninjunctions restraining repetition of the conduct;\na probation order requiring Techtronic to undertake a revised education, training and compliance programme;\nan adverse publicity order requiring a corrective letter to be sent to each of the dealers and a corrective notice to be published on Techtronic's website; and\nan order requiring Techtronic to pay $400,000 by way of contribution to the Commission's legal costs of the proceedings.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Outcome"
+    ],
+    "text": "As I was satisfied that it was appropriate to make the orders sought by the parties, I made those orders at the hearing and indicated that I would provide reasons for doing so. These are my reasons.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Outcome"
+    ],
+    "text": "As I substantially accepted the joint written submissions, I am able to express my reasons briefly. To ensure that the basis upon which the orders were made is publicly accessible, at the time of publishing these reasons I will also make orders for an electronic copy of the joint submissions and a version of the agreed facts (redacted to exclude matters the subject of confidentiality orders made by the Court) to be provided to any person upon request.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Outcome"
+    ],
+    "text": "In those circumstances, these reasons focus upon those matters which I considered to have particular significance in determining whether the proposed orders should be made and upon aspects where my acceptance of the joint submissions was qualified.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Resale price maintenance"
+    ],
+    "text": "Section 48(1) of the Competition and Consumer Act provides that a corporation or other person shall not engage in resale price maintenance. Section 96(3) of the Act describes six different types of acts that amount to engaging in resale price maintenance. For present purposes, it is only necessary to refer to the first four which are expressed in the following terms:\n(a) the supplier making it known to a second person that the supplier will not supply goods to the second person unless the second person agrees not to sell those goods at a price less than a price specified by the supplier;\n(b) the supplier inducing, or attempting to induce, a second person not to sell, at a price less than a price specified by the supplier, goods supplied to the second person by the supplier or by a third person who, directly or indirectly, has obtained the goods from the supplier;\n(c) the supplier entering into an agreement, or offering to enter into an agreement, for the supply of goods to a second person, being an agreement one of the terms of which is, or would be, that the second person will not sell the goods at a price less than a price specified, or that would be specified, by the supplier;\n(d) the supplier withholding the supply of goods to a second person for the reason that the second person:\n(i) has not agreed as mentioned in paragraph (a); or\n(ii) has sold, or is likely to sell, goods supplied to him or her by the supplier, or goods supplied to him or her by a third person who, directly or indirectly, has obtained the goods from the supplier, at a price less than a price specified by the supplier as the price below which the goods are not to be sold;\n(emphasis added)",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Resale price maintenance"
+    ],
+    "text": "In determining whether there has been resale price maintenance by a supplier 'it is beside the point that the purpose of [the conduct] was also to avoid devaluation of the image of its goods and detriment to [its] trade with other retailers': Kadkhudayan v WD & HO Wills (Aust) Ltd [2002] FCAFC 110 at [50] (North, Goldberg and Hely JJ). However, the particular reasons why conduct that amounts to a contravention of the Act was engaged in by the party may be relevant to penalty. The relevance of the reasons for engaging in the conduct is a matter to which I will return when considering the quantum of the proposed aggregate penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "Section 98(2) provides that s 96(3)(d) does not apply to a withholding of supply from a person who in the previous year has sold goods obtained from the supplier at less than their cost (a) for the purpose of attracting to the establishment of the retailer persons likely to purchase other products; or (b) otherwise for the purpose of promoting the business of the retailer, a practice often referred to as loss leader selling. It does not apply in the case of a genuine seasonal or clearance sale or a sale with the consent of the supplier: s 98(3).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "For the purposes of s 98(2), cost is the delivered cost or net acquisition cost to the reseller which is to be calculated by taking into account any discounts or rebates allowed by the supplier to the reseller: Trade Practices Commission v Orlane Australia Pty Ltd (1984) 1 FCR 157 at 162, 166-167 (Smithers, Morling and Beaumont JJ).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "By its terms, s 98(2) does not apply to all types of resale price maintenance. It is confined to an instance where the conduct takes the form of a withholding of supply in specific circumstances.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "Given the terms of the statutory provisions, it would seem that a provision in an agreement could provide for the withholding of supply in circumstances where the terms of s 98(2) were satisfied.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "However, where a supplier seeks to impose a more general condition to the effect that the acquirer must not resell below the delivered cost price where the purpose of doing so is to attract to the establishment of the retailer persons likely to purchase other products or otherwise for the purpose of promoting the business of the retailer unless it is a genuine seasonal or clearance sale, it appears that such conduct would still amount to resale price maintenance. That is because it would involve the supplier engaging in acts as described in s 96(2)(a) and (c), but not actually withholding supply of products based upon what the acquirer had done in reselling products 'within the preceding year'. Section 98(2) is expressly premised upon a circumstance in which there has been an event of loss leader selling (as defined) in the previous year. On the basis of that express wording, it appears that s 98(2) should not be taken to authorise provisions that require a person not to engage in loss leader selling. A conclusion to that effect appears to have been reached in Kadkhudayan.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The loss leader selling provisions in the Act"
+    ],
+    "text": "It is not necessary to express a final view as to these matters because, as has been explained, in the present case the relevant provisions in the dealer agreement did not concern loss leader selling as described in s 98(2). That is because they were not confined to selling below the delivered cost, taking account of guaranteed rebates.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "Between 1 January 2016 and 27 July 2021, Techtronics entered into 97 agreements with buying groups and individual dealers each of which included a term that prohibited resale of Milwaukee Products below the Cost Price (being one of the terms I have already described). In addition, on 27 occasions, Techtronics took steps to enforce those terms. In 2018 it took the further step of withholding supply from two dealers, ultimately withholding their entitlement to loyalty rebates for a period of three months.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "Although there were different types of rebates paid by Techtronic, the dealer agreements provided for a form of guaranteed rebate determined as a percentage of the invoice price paid by the dealer. The significance of this aspect of the dealer agreements was that it was readily apparent to anyone who was responsible for the management of the business of supplying the Milwaukee Products that the Cost Price as described in those agreements was not the effective delivered price paid by dealers. Therefore, any conduct by which the Cost Price was specified as a price below which dealers could not resell Milwaukee Products would operate to require prices to be set at a margin above cost.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "To the extent that there was also a rebate arrangement whereby dealers were reimbursed for actual advertising expenditure incurred, it is not necessary to reach a concluded view as to whether it might be said that an arrangement of that kind might produce a cost to the dealer that formed part of the delivered cost. It is possible, for example, to conceive of an argument that an arrangement that required a dealer to expend an amount on advertising that was determined as a percentage of invoiced cost on the basis that it would be reimbursed by the supplier upon proof of the expenditure being incurred might form part of the delivered cost. Which is not say that the arrangement in the present case was of that precise character. It is simply to clarify that, in my view, it was the guaranteed rebate that I have described that gave rise to the conduct in the present case being readily identifiable as conduct that involved actions that amounted to resale price maintenance.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "For much of the relevant period, the version of the dealer agreement that applied was one which obliged the dealers to not sell Milwaukee Products below Cost Price where it would constitute Loss Leader Selling 'except where there is a genuine seasonal or clearance sale of Techtronic … has consented in writing to the sale below Cost Price'. Strictly speaking, a provision expressed in those terms only proscribed selling below Cost Price where the sale would constitute Loss Leader Selling. When that form of agreement was introduced, Loss Leader Selling was defined as follows:\nLoss Leader Selling means the purchase of the Products by the Buyer with the Intention of selling the Products below their Cost Price so that:\ni the Buyer can attract customers who are likely to purchase other goods or services; or\nii. otherwise, so that the Buyer can promote its business.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "In later versions, it was defined as follows:\nLoss Leader Selling means the sale of the Products below Cost Price so that:\ni. the Buyer can attract customers who are likely to purchase other goods or services; or\nii. otherwise, so that the Buyer can promote its business.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "The first form of the definition would not fall within the loss leader selling exception in the Act (even if applied to delivered cost price). The second form of the definition would fall within the exception if applied to delivered cost. However, as the price that was specified was not a cost price, even taking account of the qualifying words concerning Loss Leader Selling, the making of the agreements involved the acts as defined in s 96(3)(c) that were not in respect of a delivered cost and therefore were in contravention of s 48 of the Act.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "Nevertheless, regard to the agreed facts as to what was done by Techtronic in reliance upon the terms of the dealer agreement that included the reference to the defined term of Loss Leader Selling shows that it treated all selling below Cost Price (as defined) as a breach of the dealer agreements.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "For example, in March 2017, Techtronic wrote to its dealers providing what it said was clarification 'around some clauses within our terms of trade document'. Amongst other things, the letter said:\nDear Valued Milwaukee Dealers,\nIn conjunction with our April 1st price adjustment I would like to take this opportunity to reiterate some of the key aspects of our trading terms and how they relate to our distribution network as well as provide some context to these elements so that there is a clear understanding of not only what is covered in our trading terms but why we have chosen to include them.\nThe Milwaukee brand has experienced an incredible growth over the last eight years and due in no small part to the support of our brand by our key distribution partners.\nIn combination with your support we believe that we have provided the market with great performing products that represent outstanding value for money clearly aimed at the professional user - and we thank you for that support.\nWe are also committed to the same clearly defined industrial distribution strategy that we have had since we started the brand …\nOver time, we have introduced extra clauses into our trading terms that aim to preserve this advantage, improve the customer experience with the Milwaukee brand while at the same time not diminishing the competitive environment or the entrepreneurial spirit of our partners.\n…\nSelling below cost - 16.3\n'Subject to all applicable laws, the Buyer acknowledges and agrees that it will not sell any Product below its Cost Price where such sale would constitute Loss Leader Selling, except where there is a genuine seasonal or clearance sale or Techtronic Industries has consented in writing to the sale below Cost Price.'\nThis means that you cannot sell or advertise for sale any Milwaukee product below the invoice cost price.\nOnce again, we do this to protect those distributors that are interested to 'sell' Milwaukee verses those distributors that merely supply Milwaukee.\nWe understand that there will naturally be a short adjustment period with the April 1st price changes, therefore in relation to the above clause, we will allow a period of 30 days after 1st April, 2017 by which the minimum invoice price will be understood to be the pre- April 1st, 2017 price.\n(italics in original, emphasis added)",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "Plainly, the emphasised text in the letter quoted above treats the dealer agreement as requiring dealers not to sell below the invoiced price and makes no allowance for the guaranteed rebates. The effect is to require dealers to maintain the margin above cost that is represented by the quantum of the guaranteed rebates.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "By way of further example, in December 2016, Techtronic sent an email to a dealer issuing a formal letter recording breach of its trading terms by 'Selling products below their Cost Price without the sale being a genuine clearance sale and without Techtronic Industries' prior written consent in writing to the same below Cost Price'.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "The documents before the Court also include instances where dealers directed complaints to Techtronic about other dealers selling below Cost Price and the maintaining of a register by Techtronic where verbal warnings were given to particular dealers about engaging in such practices by advertising products for sale at prices below the Cost Price or selling below Cost Price.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "As to the instance when supply was withheld, in June 2018, Techtronic sent a letter to the two dealers stating:\nTechtronic Industries have recently become aware that the Buyer is:\n• selling Products below their Cost Price without the sale being a genuine clearance sale and without Techtronic Industries' prior consent in writing to the sale below Cost Price; and\n• advertising the prices of the Products, or, offering the Products for sale via social media platforms, including but not limited to Facebook;\n(the Prohibited Conduct).\nEvidence of the Prohibited Conduct is attached at Schedule 1 of this letter.\nWe note that the Prohibited Conduct is prohibited under clauses 15.3 and 17.3 of the Terms. Accordingly, pursuant to clause 17.5 of the Terms, Techtronic Industries confirms that the Buyer has failed to comply with the Terms and as a result, Techtronic Industries now elects to\n• terminate all rebate entitlements granted by Techtronic Industries to the Buyer in respect of the sale of Products by the Buyer, effective immediately from the date of this letter.\n• suspend and cease supplying all Products to the Buyer, effective immediately from the date of this letter.\n(original emphasis)",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Significant aspects of the admitted conduct"
+    ],
+    "text": "Later in June 2018, the sanction imposed was revised to withholding the dealers' entitlements to loyalty rebates for a period of three months.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "I accepted the joint submissions to the effect that the admitted facts established the contraventions proposed to be the subject of declaratory relief and that it was appropriate for the declarations to be made.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "As there was an agreed penalty, the question for determination was whether the agreed figure was within the range of possible appropriate penalties for the conduct: Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482. I summarised the principles in Australian Energy Regulator v EnergyAustralia Pty Ltd [2022] FCA 644 at [4]-[10].",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "Determining an appropriate penalty involves an instinctive synthesis of relevant factors: Markarian v The Queen [2005] HCA 25; (2005) 228 CLR 357. The purpose of a civil penalty of the kind sought to be imposed in the present case is primarily, if not solely, the promotion of the public interest in compliance with the provisions of the legislation by deterrence of further contraventions: Australian Building and Construction Commissioner v Pattinson [2022] HCA 13; (2022) 274 CLR 450 at [15]-[16]. Both general and specific deterrence must be considered.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "Subject to the following matters, I generally accepted the joint submissions as to why the proposed aggregate penalty was appropriate in the present circumstances.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "The prohibition of the specified acts that amount to the practice of resale price maintenance will capture a considerable range of conduct of varying degrees of seriousness. Whilst in one sense it is appropriate to describe any contravention as necessarily serious because of the significant statutory consequences that Parliament has provided for in the case of such contraventions, the real task in determining the appropriate orders to be made consequent upon a determination of contravention is to have regard to the particular circumstances, including an evaluation of the seriousness of the conduct.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "As was accepted in oral submissions, there is no suggestion that this was a case where the resale price maintenance was a mechanism by which the dealers sought to agree resale prices as between themselves. Further, it was not suggested that Techtronic enjoyed market power of a kind that meant that it was free to establish prices that would produce the inefficiencies associated with monopoly pricing. Rather, this was an instance where, to use the language of Heerey, Finkelstein and Allsop JJ in Australian Competition and Consumer Commission v High Adventure Pty Limited [2005] FCAFC 247 at [7], the conduct of Techtronic denied the dealers 'the freedom to set the price most advantageous to themselves' and it eliminated price competition between dealers below the Cost Price 'with the undesirable consequence that consumers are limited in the range of choices they have with respect to price'.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "As the statutory prohibition on resale price maintenance may capture conduct that has aspects of facilitating price fixing between competitors and conduct that involves the exercise of market power, I regard conduct that is not of that character to be less serious. However, there are other aspects of the circumstances of the present case that support the appropriateness of the proposed penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "In the admitted circumstances of the present case, I considered that the following matters assumed particular significance in assessing whether the proposed aggregate penalty was within the range of penalties that it would be appropriate for the Court to order given the joint submissions made as to penalties:\nthe relevant conduct was persisted in for a very considerable period;\nTechtronic monitored whether its products were being marketed and sold below the Cost Price and took steps to enforce the Cost Price provisions such that the conduct was not isolated in its operation and effect;\nthe extent of the commercial activities of Techtronic meant that the conduct applied to a significant amount of commercial activity with consequences for many consumers;\nit may be inferred from the evidence that, but for the conduct, the dealers would have charged lower prices for some Milwaukee products in some circumstances and, in consequence, the prices at which some consumers would have been able to purchase those Milwaukee products would have been lower;\nthe conduct involved senior officers of Techtronic;\nTechtronic is a large commercial enterprise with an annual turnover during the period of contravention in the hundreds of millions of dollars; and\nthe conduct occurred despite Techtronic's compliance training.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "Further, I accepted that the follow matters may be accepted as operating in mitigation:\nthe conduct was not a deliberate attempt to flout the law as is evidenced by the fact that Techtronic took external legal advice as to the relevant terms of the dealer agreements;\nthe conduct was not covert;\nthe managing director of the Milwaukee business in Australia and New Zealand, Mr Michael Brendle, has expressed contrition, has committed the business to improved compliance with detailed requirements and has apologised on oath to Milwaukee customers for any harm caused by the resale price maintenance conduct;\nTechtronic has not been found previously to have contravened the relevant legislation; and\nTechtronic cooperated in the investigations by the Commission and ultimately has admitted the contraventions thereby avoiding the need for a final hearing on liability.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "As the maximum penalty taking account of the number of contraventions was in the billions of dollars, in my view this was a case where the guidance to be obtained from the maximum was meaningless in any practical sense. Rather, it was appropriate to focus upon the commercial significance of the conduct and the financial reward that reasonably might be thought to accrue to a contravenor like Techtronic having regard to the scale of its business and the nature of the products involved. The required focus upon deterrence requires such matters to assume significance even where, as here, there was no attempt to quantify the actual financial benefit that accrued to Techtronic.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "I did not accept that any meaningful guidance could be obtained from penalties imposed in previous cases: Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20 at [60] (Keane CJ, Finn and Gilmour JJ).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Pecuniary penalties"
+    ],
+    "text": "Finally, I was satisfied that the proposed penalty properly reflected the application of the totality principle as a final check.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Injunctive relief"
+    ],
+    "text": "I accepted the submissions as to the proposed injunctive relief.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Probation order - compliance"
+    ],
+    "text": "On the basis that the orders were to be for three years, I accepted the submissions as to the proposed compliance programme to be undertaken by Techtronic.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Corrective orders"
+    ],
+    "text": "I accepted the submissions as to the proposed publication of corrections.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Orders as to inspection of joint submissions and statement of agreed facts"
+    ],
+    "text": "As I have indicated, at the time of publishing these reasons orders were made to enable any party to request an electronic copy of the joint submissions referred to in these reasons and a version of the statement of agreed facts redacted for confidentiality in accordance with orders of the Court (and excluding the documents referred to in the statement of agreed facts).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Costs"
+    ],
+    "text": "There being consent to the proposed order as to costs and having accepted that the other orders should be made, I was satisfied that the proposed order as to costs should be made.",
+    "judge": "COLVIN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-two (52) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Colvin.",
+ "associate": null,
+ "dated": "2023-12-12",
+ "schedules": [],
+ "footnotes": [
+  {
+   "n": 1,
+   "text": "Material Failure means a failure, that is non-trivial and which is ongoing or continued for a significant period of time, to:\n- Incorporate a requirement of the order in the design of the Compliance Program (for example, if a Complaints Handling System did not provide any mechanism for responding to complaints); or\n- Comply with a fundamental obligation in the implementation of the Compliance Program, (for example, if no Staff Training has been conducted within the Annual Review period)."
+  }
+ ],
+ "warnings": [],
+ "source_sha256": "795f55c03fdb190e7746d1958aaf24ab0ec79662c6779ebea500fff8418956f4",
+ "markdown_file": "data/extracted/2023/2023FCA1574.md"
+}

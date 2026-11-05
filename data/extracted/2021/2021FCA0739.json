@@ -1,0 +1,451 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2021/2021FCA0739.docx",
+ "metadata": {
+  "citation": "[2021] FCA 739",
+  "name": "Aucare Dairy (Aust) Pty Ltd v Huang (No 5)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 739,
+  "date_of_judgment": "2021-07-02",
+  "file_numbers": [
+   "VID674/2016"
+  ],
+  "judges": [
+   "DAVIES J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "hearing_dates": [
+   "2021-03-10",
+   "2021-03-11",
+   "2021-04-14",
+   "2021-04-15",
+   "2021-04-29"
+  ],
+  "hearing_raw": "10 March 2021 to 11 March 2021\n14 April 2021 to 15 April 2021\n29 April 2021",
+  "last_submissions": "2021-04-29",
+  "number_of_paragraphs": 26,
+  "catchwords": [
+   "CORPORATIONS – application for compensation by non-party – provision in Court orders for application to be made if certain pre-conditions met – pre-conditions not met – construction of court order – causal connection between claimed loss and final orders not established – application dismissed"
+  ],
+  "cases_cited": [
+   "Aucare Dairy (Aust) Pty Ltd v Huang (No 3)",
+   "[2019] FCA 412"
+  ],
+  "parties": [
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Applicant"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "YUNLING HUANG",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ZHIXIN GUO",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "GRANDTRA INVESTMENTS PTY LTD",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "Grandtra Investments Pty Ltd",
+    "name": "Mr C Robinson"
+   },
+   {
+    "role": "solicitor",
+    "for": "Grandtra Investments Pty Ltd",
+    "name": "Tahota Law"
+   },
+   {
+    "role": "counsel",
+    "for": "Yanfeng Bai",
+    "name": "Mr C Munt"
+   },
+   {
+    "role": "solicitor",
+    "for": "Yanfeng Bai",
+    "name": "Xiao Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0739",
+  "portal_file_numbers": [
+   "VID674/2016"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-07-02"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "VID 674 of 2016"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DAVIES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "2 July 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CORPORATIONS – application for compensation by non-party – provision in Court orders for application to be made if certain pre-conditions met – pre-conditions not met – construction of court order – causal connection between claimed loss and final orders not established – application dismissed"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Aucare Dairy (Aust) Pty Ltd v Huang (No 3)\n[2019] FCA 412"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "26"
+  },
+  {
+   "label": "Date of last submission/s",
+   "value": "29 April 2021"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "10 March 2021 to 11 March 2021\n14 April 2021 to 15 April 2021\n29 April 2021"
+  },
+  {
+   "label": "Counsel for Grandtra Investments Pty Ltd",
+   "value": "Mr C Robinson"
+  },
+  {
+   "label": "Solicitor for Grandtra Investments Pty Ltd",
+   "value": "Tahota Law"
+  },
+  {
+   "label": "Counsel for Yanfeng Bai",
+   "value": "Mr C Munt"
+  },
+  {
+   "label": "Solicitor for Yanfeng Bai",
+   "value": "Xiao Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "parties": [
+    {
+     "name": "GRANDTRA INVESTMENTS PTY LTD",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUCARE DAIRY (AUST) PTY LTD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "YANFENG BAI",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "DAVIES J"
+   ],
+   "date": "2021-07-02",
+   "date_raw": "2 july 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application filed by Grandtra Investments Pty Ltd be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Subject to argument, Grandtra Investments Pty Ltd, China Global Investments Pty Ltd, Global Fortune Investment Group Pty Ltd, Global Fortune Investment Ltd and Yuting Huang (Grandtra parties) to pay the costs of the second applicant (second respondent to this application) of the interlocutory application.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "If there is to be an argument about costs, the Grandtra parties are to file and serve submissions of no more than 3 pages by 9 July 2021.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The second applicant (second respondent to this application) to file and serve submissions in response by 16 July 2021.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The question of costs is to be determined on the papers.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 9 April 2019, the Court made final orders giving effect to the reasons for decision in Aucare Dairy (Aust) Pty Ltd v Huang (No 3) [2019] FCA 412 (the primary judgment). The orders (see Annexure 1) included proprietary relief against the seventh respondent, Nutritional Choice Australia Pty Ltd (NCA) (orders 11 and 13). The orders also included provision for a non-party, Grandtra Investments Pty Ltd (Grandtra), NCA’s majority shareholder, upon the later of four weeks from the date of the order and the occurrence of “the Compensation Event”, to seek an order for compensation payable by the applicants, Aucare Dairy (Aust) Pty Ltd (Aucare) and Yanfeng Bai (Mr Bai), for an amount not exceeding AUD$2,000,000.00 “in its own interests and on behalf of the minority shareholders, excluding IUIM Pty Ltd and Xiaoyu Zhang, paid for the acquisition of shares in [NCA]” (order 16.2). That application has been made by Grandtra which seeks an order that Mr Bai pay compensation to it and the minority shareholders it represents (the Grandtra parties) in the amount of $2 million. Grandtra seeks compensation from Mr Bai only, as Aucare is now in liquidation. Mr Bai disputes that Grandtra has any entitlement to an award of compensation from him and opposed Grandtra’s application. In issue is whether the precondition to make the application for the compensation order – ie the occurrence of “the Compensation Event” – was met and, if so, the construction and effect of order 16.2.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "factual context"
+    ],
+    "text": "NCA was one of eight respondents sued by the applicants arising out of a joint venture between Aucare and the fourth respondent, Noyier Dairy Pty Ltd (Noyier) (a company owned and controlled by the first respondent Yunling Huang (Ms Huang) and the second respondent, Zhixin Gu (Mr Guo)) entered into in 2013 for the construction of a milk powder manufacturing plant and the manufacture of infant milk powder for export to China. The joint venture vehicle was Australia Pure Dairy Pty Ltd (APD), the directors of which were Mr Bai (until January 2014), Mr Bai’s daughter, Ms Haolin Bai (Ms Bai), Ms Huang and Mr Guo (until January 2014). APD contracted with the third respondent, Great Vision Australia Pty Ltd (GVA), also owned and controlled by Ms Huang, to construct the factory and supply and install the necessary plant and equipment. It was a term of the joint venture contract that Aucare and Noyier were each to contribute $3 million for a total investment of $6 million. In about April 2014, after most of the plant and equipment had been delivered and installed in APD’s factory premises at Dandenong South, a dispute arose between Aucare and Noyier about their investment contributions. That dispute culminated in Ms Huang arranging for the plant and equipment installed at APD’s factory premises to be removed and re-installed in a factory at a new location at Carrum Downs. Other steps taken by Ms Huang at or around the time of removing the plant and equipment included:\nthe incorporation of four companies, all controlled by her: the fifth respondent, CFM Associates Pty Ltd (CFM), to acquire the plant and equipment from GVA; the sixth respondent, Australia Green Dairy Pty Ltd (AGD), as the lease holding company; NCA as the operating company of the infant milk powder business; and NCA’s majority shareholder, IUIM Pty Ltd (IUIM);\nthe leasing of the Carrum Downs factory by AGD;\nthe sub leasing of the Carrum Downs factory by NCA from AGD;\nthe sale of the plant and equipment by GVA to CFM (asset sale agreement); and\nthe licencing of the plant and equipment by CFM to NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "factual context"
+    ],
+    "text": "The applicants issued proceedings in 2016 and obtained freezing orders against Ms Huang, Mr Guo, GVA and NCA preventing the sale and removal of the plant and equipment of the joint venture enterprise. The causes of action on which the applicants sued the respondents included, as against Ms Huang, claims of breaches of fiduciary and statutory duties and fraudulent and dishonest conduct and, as against NCA, claims of accessorial conduct and knowing participation in Ms Huang’s breaches of fiduciary and statutory duties. The remedies sought by the applicants affecting NCA included declarations that:\nthe plant and equipment, the head lease and the sublease were held on constructive trust for the applicants and/or APD;\nCFM and NCA had converted the equipment; and\nAPD and/or the applicants’ title to the plant and equipment took priority over any claim to ownership of the equipment by the respondents.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "factual context"
+    ],
+    "text": "Grandtra is owned and controlled by Mr Steve Chu (Mr Chu) and is not one of Ms Huang’s related entities. Grandtra acquired a minority shareholding NCA in January 2017, after the events giving rise to the causes of action on which the respondents were sued. Whilst Grandtra was not a party to any of those events, it invested in NCA in the knowledge that the applicants had made a claim to ownership of the plant and equipment installed at the Carrum Downs factory and with knowledge of the legal proceedings and freezing orders against NCA.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "factual context"
+    ],
+    "text": "During 2017, NCA obtained the licences that it required from Australian authorities for it to manufacture infant milk powder and in January 2018, NCA obtained the licence from the CNCA in China (CNCA licence) that NCA required in order to be able to export infant milk powder to China. Although there was no specific evidence about this, it is apparent that Mr Chu provided assistance to NCA to obtain the CNCA licence, with Mr Chu contributing “skill, expertise, effort and resources”: see order 16.1.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "factual context"
+    ],
+    "text": "Manufacturing did not commence, with the reason left unexplained in the evidence. What is known is that during 2018 there was a falling out between Ms Huang and Mr Chu (who had been appointed a director of NCA in January 2018) and in August 2018, the board removed Ms Huang as a director of NCA. Further, IUIM (Ms Huang’s company, and the original majority shareholder in NCA) and Grandtra (which became the majority shareholder of NCA in November 2018) had become locked in a shareholders’ dispute.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "factual context"
+    ],
+    "text": "The trial commenced in September 2018, but as the hearing took more time than anticipated it could not be finished in the allocated time and had to be stood over for completion in February 2019. On 1 March 2019, the last day of the hearing, the Court was informed of a consent position reached between the applicants and NCA. Interlocutory orders were made with the consent of the applicants and NCA. Those orders included that:\n[NCA] must preserve the Australian Licenses (sic) and the CNCA License (sic).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "factual context"
+    ],
+    "text": "Judgment was delivered on 27 March 2019. The applicants were successful in all of their claims against the respondents and, on 9 April 2019, were granted the proprietary and other relief they had sought in the terms of the orders which the Court made.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "the orders"
+    ],
+    "text": "The proprietary relief granted included:\nan order against AGD that it forthwith assign its interest as tenant of the head lease and as landlord of the sublease of the Carrum Downs factory to Aucare (order 10); and\nan order against NCA that it forthwith assign its interest as tenant of the sublease over to Aucare (order 11).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "the orders"
+    ],
+    "text": "The Court also set aside the asset sale agreement (order 12), but made no order in relation to the licence, as NCA (by then under the control of Mr Chu) had admitted that the licence had no legal effect (see [87(c)] of the primary judgment). In addition, the Court made declarations that included, relevantly:\na declaration that the plant and equipment was held on constructive trust for Aucare (by assignment from APD) (order 8); and\na declaration that NCA held its interest as tenant of a sublease of the Carrum Downs factory on constructive trust for Aucare (order 9.3).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "the orders"
+    ],
+    "text": "Order 9.3 (but not order 11) was made with the consent of NCA. NCA additionally consented to the orders against it contained in order 13. Order 13 provides:\n[NCA] forthwith:\n13.1 do all things reasonably necessary to assist [Aucare] or nominee to obtain, whether by transfer or application, the CNCA Licence and all Australian Licences of the factory at the Carrum Downs Premises, including by complying with any reasonable requests of [Aucare], save that Mr Chu need not take any positive steps in China to assist;\n13.2 cease using the name ‘NCA’ and ‘Nutritional Choice Australia’ and amend the company name of [NCA] so as to omit those names upon the payment of the compensation ordered under Order 16.1 and order 16.2;\n13.3 deliver up to [Aucare] the Documents which are in the possession, custody or power of the [NCA], save that in respect of Documents which are not in its possession, provide particulars of the identity and location of those Documents and assistance, if requested, in obtaining those Documents.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "the orders"
+    ],
+    "text": "In order 13:\nthe reference in order 13.1 to “Mr Chu” is a reference to Mr Chu;\nthe reference in order 13.1 to the “CNCA licence” is a reference to the licence that NCA was issued from China, which NCA required in order to be able to export infant baby formula to China;\nthe reference in order 13.1 to “all Australian Licences” is a reference to the relevant Australian licences that issued to NCA which NCA required in order to manufacture the infant milk powder formula, namely a licence from the Australian Quarantine and Inspection Service (AQIS licence) and a licence from the Dairy Food Safety Victoria licence (DFSV licence). NCA also obtained a Halal certification issued by the Islamic Coordinating Council of Victoria Pty Ltd. These licences are collectively referred to as the “Australian licences”;\nthe word “Documents” in order 13.3 has the defined meaning as follows:\nDocuments means any documents or intellectual property (whether in electronic or other form) including, but not limited to:\na. all manuals, policies, procedures, records, quality assurance, or any other similar records that relate to the business of [NCA] or any of the Australian Licenses or the CNCA Licence;\nb. [NCA’s] QA management system;\nc. [NCA’s] production workflow;\nd. [NCA’s] HACCP chart table; and\ne. the application made to obtain the CNCA Licences including all documents attached to the application which were sent to the CNCA authority in China, together with any further documents provided in response to any requests from the CNCA authority (“the CNCA Application Documents”).",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "the orders"
+    ],
+    "text": "Order 16 of the orders (referred to in order 13.2) made the following provision:\nThe Court notes that Grandtra Investments Pty Ltd (“Grandtra”) and Chaoping (Steve) Chu (“Zhu”) played no part in the fraudulent scheme and, in respect of compensation, orders that:\n16.1. within four weeks from the date of this order provided that at the time that payment is due [NCA] has complied with the interlocutory orders made on 1 March 2019, and provided further that a complete copy of the CNCA Application Documents has been provided to the Applicants, [Aucare] pay to Zhu AUD$1,750,000 in compensation for his expenses incurred, skill, expertise, effort, and resources contributed in obtaining the CNCA Licence;\n16.2. upon the later of four weeks from the date of the order and the occurrence of the Compensation Event Grandtra have leave to seek an order for compensation payable by the Applicants for an amount not exceeding AUD$2,000,000.00, in its own interests and on behalf of the minority shareholders, excluding IUIM Pty Ltd and Xiaoyu Zhang, paid for the acquisition of shares in [NCA];\n16.3. the First to Sixth and Eighth Respondents not be entitled to any payment from the Applicants as compensation for any contribution or expenses in respect of [NCA].",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "the orders"
+    ],
+    "text": "Order 16.2 identifies the occurrence of the “Compensation Event” as the condition of leave to seek an order for compensation by the Grandtra parties. The expression “Compensation Event” is defined in the orders as follows:\nCompensation Event means immediately after the occurrence of the last of:\na. compliance with each of orders 10, 11 and 13.3 herein;\nb. the provision of consent by [NCA] of the application of the registration of the Australian Licences in [Aucare] or nominee’s name;\nc. delivery up of the Documents to [Aucare] according to paragraph 13.3.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Grandtra’s case"
+    ],
+    "text": "Grandtra’s case, in short compass, was that order 16.2 was advanced by the applicants (with the consent of NCA) in the knowledge that the Grandtra parties would be deprived of the value of their respective investments in NCA, if the proprietary relief which the applicants sought was granted (which it was) and upon the promise of compensation that NCA and the Grandtra parties acquiesced in the making of those orders and did not seek to be heard on whether the orders for proprietary relief should be made. Grandtra alleged there was an agreement reached in about late February 2019 between the applicants and NCA, under which the applicants agreed to pay compensation to the Grandtra parties, which would be adversely affected by the relief proposed, if granted, in exchange for NCA agreeing to the terms of the relief. Grandtra alternatively asserted (though did not plead) a promissory estoppel against the applicants, in circumstances where the applicants obtained the benefit of the proprietary orders on the promise of equity to be done to the Grandtra parties. Grandtra further argued that compensation was payable to it under order 16.2 because the pre-conditions for the grant of leave were met – relevantly and specifically, that NCA had done all that was required of it by order 13.3. Grandtra argued the Court should find that NCA did all that was required of it by order 13.3 upon the evidence that:\nRobert Zhu (Mr Zhu), Mr Chu’s son, requested a copy of the CNCA Application Documents from the CNCA on about 6 April 2019, prior to the orders being made. A search for the CNCA Application Documents conducted before the final orders were made had not uncovered any such documents amongst NCA’s books and records; the belief was that Ms Huang took the CNCA Application Documents when she was removed as a director;\nMr Zhu arranged for a USB drive to be given to Ms Bai (on behalf of Aucare) on 14 June 2019 containing those of the Documents that were in NCA’s possession; the USB drive included all the CNCA Application Documents that the CNCA had provided pursuant to his request;\nMs Bai signed a “Letter of Confirmation” on or about the same day attesting to the receipt of those documents and in which she confirmed that “all documents required and needed to apply for the 2017 CNCA licence” had been provided to Aucare. No request for further documents, particulars of documents or assistance was made by either Ms Bai or Mr Bai; and\non or about 26 June 2019 NCA provided to the applicants written consent to an application by Aucare Dairy for registration of NCA’s Australian licences, together with an undertaking to do any further acts or sign further documents which might be required of NCA to obtain registration of those licences in the name of Aucare Dairy.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Grandtra’s case"
+    ],
+    "text": "The compensation sought was quantified in the amount of $2 million comprised of shareholders’ funds invested, namely:\nGrandtra in the sum of $1,698,552;\nChina Global Investments Pty Ltd in the sum of $300,000; and\nYuting Huang in the sum of $100,000.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Mr bai’s case"
+    ],
+    "text": "Mr Bai’s case, in short compass, was that order 16.2 did not give Grandtra the right to an order for compensation and did no more than preserve the right of Grandtra to apply for compensation. Mr Bai contended that the Grandtra parties have no cause of action against him for an award of compensation for the loss of the share capital they invested in NCA, or otherwise. It was further contended that the Grandtra parties’ loss of their investment was not the consequence of the proprietary relief granted to Aucare, but was due to the conduct of Ms Huang and her related parties, of which the Grandtra parties were on notice, including the claims made by Aucare and Mr Bai arising out of that conduct, at the time the Grandtra parties made their investments. Mr Bai also argued also that order 13.3 was not complied with by NCA, in that a number of documents were missing from the documents which Mr Zhu supplied on the USB drive. Documents coming within the definition of the “Documents” that were not provided were identified to be:\nan application form dated 9 June 2015;\nthe processing/production flow chart that accompanied the 9 June 2015 application;\nvarious document checklists in relation to the licence application; and\nvarious corrective action checklists and documents relating to remedial actions undertaken by NCA in connection with the licence application.\nCollectively, the missing documents.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Mr bai’s case"
+    ],
+    "text": "Mr Bai additionally argued that the “forthwith” precondition for the provision of the order 13.3 documents signified that time was of the essence and the delivery of documents some two months after the making of the 9 April 2019 orders did not meet the requirement that the documents be delivered “forthwith”. Finally it was argued that order 16.2 was premised on NCA’s cooperation in relation to the CNCA licence, in particular compliance with order 13.3 and that the failure of NCA to provide Aucare with the documents in a timely fashion after the 9 April orders were made caused or contributed to Aucare losing a valuable commercial opportunity as a result of not obtaining the benefit of the CNCA licence. It was submitted that the associated loss of commercial opportunities and the subsequent liquidation of Aucare means that it would not be just and equitable for the Grandtra parties to receive any compensation pursuant to order 16.2.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "consideration"
+    ],
+    "text": "There are three fundamental reasons for rejecting Grandtra’s application for compensation.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "consideration"
+    ],
+    "text": "First, the obligation on NCA pursuant to order 13.3 was to deliver up to Aucare the “Documents” in its “possession, custody or power”, save that where NCA did not have “possession” the obligation was to provide “particulars of the identity and location of those Documents” and provide assistance, if requested in obtaining those documents. The evidence, relevantly, was that NCA did not have the CNCA Application Documents (one of the categories of documents required to be delivered up) in its physical possession. In the circumstances, the obligation on NCA to provide particulars of the identity and location of the CNCA Application Documents, in turn, required NCA to make all reasonable inquiries to identify and disclose all relevant documents not in its possession. That obligation required NCA to do more than what was done in order for it to comply with the terms of that order.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "consideration"
+    ],
+    "text": "It is apparent from Mr Zhu’s evidence that he and Mr Chu were aware before the final orders were made that NCA did not have any of the CNCA application documents. Mr Zhu’s evidence was that he and his father had done of a search of NCA’s records but were unable to find any of the documents that had been submitted to the Chinese Authority which granted the CNCA licence to China. On 6 April 2019 (three days before the final orders were made), Mr Zhu (appropriately) called an official from the Chinese Authority in Beijing and asked for a copy of the CNCA licence application documents and the official provided him with electronic files (via WeChat) used by the Chinese authority to grant the CNCA licence to NCA. Mr Zhu also gave evidence that he noticed at the time he downloaded the documents from the WeChat that some of the folders were empty and, on a follow up inquiry that he made of the same official on 9 April 2019 as to whether any documents were missing, he was told that he had been given all of the documents kept on the Authority’s file management system and the Authority had granted the licence based on those documents. Mr Zhu accepted that advice and made no further inquiries or take any other steps to check that he had been provided with a complete set of documents. When questioned in cross examination, Mr Zhu’s response was that he did not know what the process was for applying for a CNCA licence or what documents were required. He told Ms Bai when the USB was provided to her that there were some empty folders on it and she must check whether the documents that he had obtained from the CNCA were sufficient for Aucare to obtain the CNCA licence. His evidence also was that neither Mr Bai nor Ms Bai ever mentioned to him that documents were apparently missing from the USB drive and the first time that Aucare raised any question of the adequacy of the documents he had provided was in late 2019 in the context of an application by Aucare to set aside a statutory demand that Mr Chu had served on Aucare for payment of the amount $1,750,000 pursuant to order 16.1.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "consideration"
+    ],
+    "text": "It is evident from the fact that further inquiries of the same official from the Chinese Authority, which Mr Zhu made in 2020, which led to the provision of further documents relating to NCA’s CNCA licence application, that the set of documents provided in April 2019 was incomplete. The evidence was that Mr Zhu, in May 2020, contacted the official from the Chinese Authority who had provided him with the documents in April 2019, asking the official to double check if any documents were missing. That inquiry led to the Authority supplying further documents that the Authority had omitted from the original request. As it turned out, the Chinese authority had only provided Mr Zhu with copies of those documents relating to the CNCA application and licence which the Authority kept in electronic form but there were other documents which the Authority had in paper form which had not been supplied.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "consideration"
+    ],
+    "text": "It was insufficient for Mr Zhu merely to rely on what the Chinese official told him in April 2019 without taking steps to check for himself that the documents supplied to him were complete. It was incumbent upon Mr Zhu to take all reasonable steps to identify whether he had all the CNCA Licence Application documents and that obligation was not discharged merely because he was told by the CNCA official that the CNCA had provided all the documents kept in its file management system. At the very least he should have attempted to inform himself as to what documents were required to make the application and to cross check the documents provided to him against that list, however he did not make even the most basic inquiries. There is nothing in the evidence to suggest that Mr Zhu even spoke with Mr Chu to check with Mr Chu as to whether any documents were missing or what other documents there might be. It was reasonable for Mr Zhu to make that basic inquiry of Mr Chu because Mr Chu had involvement in getting NCA’s CNCA licence. Nor did Mr Zhu make enquiries of any of the Australian authorities as to whether they had documents relating to the CNCA licence application. That enquiry was relevant because the evidence was the Department of Agriculture was responsible for submitting the application to the CNCA on behalf of the applicant. Mr Zhu’s own ignorance of the application process and documentation required did not mean that Mr Zhu was relieved of the obligation to make reasonable enquiries. Nor is he to be excused from that obligation because he put it upon Ms Bai to satisfy herself that she had all the documents she required. The confirmation letter signed by Ms Bai also does not assist to establish that there was compliance with order 13.3 as the onus was upon NCA to identify whether the documents provided to Aucare were all the documents in the possession, custody or control of NCA. That obligation could not be side stepped by placing the onus on Aucare to satisfy itself that the documents provided were sufficient for Aucare’s purposes.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "consideration"
+    ],
+    "text": "Secondly, order 16.2 is to be read on its terms and contrary to the submissions for Grandtra, order 16.2 did not entitle the Grandtra parties to an order for compensation subject only to the “Compensation Event” occurring and four weeks elapsing before application was made. It is evident that the parties contemplated by the order that the grant of relief might found a claim for compensation by the Grandtra parties for loss of their investment, given that the proprietary orders, if made, would effectively leave NCA a shell company, although neither Mr Chu nor the Grandtra parties (which now control NCA) had any part in the fraudulent and dishonest conduct. However, order 16.2, in contrast to order 16.1, did no more than preserve the ability of the Grandtra parties to seek compensation from the applicants for such loss to them as was occasioned by the relief which the applicants obtained against NCA. The terms of order 16.2 do not support a construction that there was agreement that compensation would be paid.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "consideration"
+    ],
+    "text": "Thirdly, the grant of leave to make such an application did not gainsay the need for the Grandtra parties, upon making application, to show that the loss of the value of their investments resulted from or was substantially occasioned by the final orders that the applicants obtained against NCA. Whilst Grandtra did argue that the relief which the applicants obtained against NCA deprived the CNCA licence of any value and effectively deprived NCA of any ability to carry on the infant milk powder business, causation was not demonstrated by the evidence and evidentiary burden on the Grandtra parties was not discharged. There was no attempt by the Grandtra parties to prove that their investment in NCA had any worth by the time of the making of the final orders - manufacture had never started, albeit that the Carrum Downs factory was set up in 2014 and the relevant licences to conduct the business, including CNCA licence had all issued by January 2018 and there was no evidence to show that NCA would have commenced operations, had the relief against NCA not been granted. Nor did the Grandtra parties adduce any evidence to show that there was reason to expect that the manufacturing business could have commenced. It is telling against such a claim that matters which the Court took into account in granting the proprietary relief included that:\n“since Mr Chu, through his company Grandtra, has taken over control of NCA, there are no employees and the factory is idle. This is due to the dispute between Mr Chu and Ms Huang and the uncertainty surrounding these proceedings”: [107] of the primary judgment; and\n“the two shareholders of NCA, IUIM and Grandtra Investments, are now locked in a shareholder dispute which may result in the company being placed in liquidation”: [109] of the primary judgment.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "Absent demonstrating a causative connection, there is no principled basis for awarding compensation to the Grandtra parties and the application must fail. In view of this conclusion, it is accordingly unnecessary to consider the other arguments advanced by the parties, as there is no warrant for granting the relief sought by the Grandtra parties. The application will be dismissed.",
+    "judge": "DAVIES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Davies.",
+ "associate": null,
+ "dated": "2021-07-02",
+ "schedules": [
+  {
+   "title": "Annexure 1",
+   "text": ""
+  },
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 674 of 2016\nRespondents\nFourth Respondent: | NOYIER DAIRY AUSTRALIA PTY LTD\nFifth Respondent: | CFM ASSOCIATES PTY LTD (ACN 601 042 595)\nSixth Respondent: | AUSTRALIA GREEN DAIRY PTY LTD\nSeventh Respondent: | NUTRITIONAL CHOICE AUSTRALIA PTY LTD\nEighth Respondent: | HUANG QIONG"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "2245c70adfea5edf6b8ce192314593a3f411cf2ea768fe692787103af0bd235e",
+ "markdown_file": "data/extracted/2021/2021FCA0739.md"
+}

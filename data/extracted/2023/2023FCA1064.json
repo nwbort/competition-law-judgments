@@ -1,0 +1,578 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA1064.docx",
+ "metadata": {
+  "citation": "[2023] FCA 1064",
+  "name": "Australian Competition and Consumer Commission v Swift Networks Pty Ltd",
+  "court": "FCA",
+  "year": 2023,
+  "number": 1064,
+  "date_of_judgment": "2023-09-07",
+  "file_numbers": [
+   "WAD36/2023"
+  ],
+  "judges": [
+   "COLVIN J"
+  ],
+  "registry": "Western Australia",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-09-07"
+  ],
+  "hearing_raw": "7 September 2023",
+  "number_of_paragraphs": 27,
+  "catchwords": [
+   "COMPETITION - proceeding for civil contraventions of s 45AJ and s 45AK of the Competition and Consumer Act 2010 (Cth) - cartel conduct - bid rigging - where former employees of the respondent engaged in conduct which breached the cartel provisions of the Competition and Consumer Act 2010 (Cth) - where conduct involved arranging prices of bids or budget quotations with another company to ensure one was higher - where the respondent admits the conduct - where parties have filed a joint statement of agreed facts and admissions and joint submissions - where parties jointly propose orders for declarations of contravention, pecuniary penalties, the establishment of a compliance programme and costs - where appropriate to act on statement of agreed facts - orders as proposed made"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth)"
+  ],
+  "cases_cited": [
+   "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482",
+   "Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72",
+   "Volkswagen Aktiengesellschaft v Australian Competition and Consumer Commission [2021] FCAFC 49"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "SWIFT NETWORKS PTY LTD (ACN 125 828 453)",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr WA Keane"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Norton Rose Fulbright Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr NJ Landis"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1064",
+  "portal_file_numbers": [
+   "WAD36/2023"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2023-09-07"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "WAD 36 of 2023"
+  },
+  {
+   "label": "Judgment of",
+   "value": "COLVIN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "7 September 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION - proceeding for civil contraventions of s 45AJ and s 45AK of the Competition and Consumer Act 2010 (Cth) - cartel conduct - bid rigging - where former employees of the respondent engaged in conduct which breached the cartel provisions of the Competition and Consumer Act 2010 (Cth) - where conduct involved arranging prices of bids or budget quotations with another company to ensure one was higher - where the respondent admits the conduct - where parties have filed a joint statement of agreed facts and admissions and joint submissions - where parties jointly propose orders for declarations of contravention, pecuniary penalties, the establishment of a compliance programme and costs - where appropriate to act on statement of agreed facts - orders as proposed made"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482\nMinister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72\nVolkswagen Aktiengesellschaft v Australian Competition and Consumer Commission [2021] FCAFC 49"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Western Australia"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "27"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "7 September 2023"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr WA Keane"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Norton Rose Fulbright Australia"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr NJ Landis"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "WAD36/2023",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "SWIFT NETWORKS PTY LTD (ACN 125 828 453)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "COLVIN J"
+   ],
+   "date": "2023-09-07",
+   "date_raw": "7 september 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "In around May 2019, Swift Networks Pty Ltd (Swift), by the conduct of two of its former employees, made an arrangement or arrived at an understanding with DXC Technology Australia Pty Ltd and DXC Connect Pty Ltd (together, DXC) concerning the supply of information technology and communications equipment and associated services for Rio Tinto's West Angelas and Yandicoogina mining village project (West Angelas and Yandicoogina Arrangement), which contained a provision that Swift would submit a bid that would contain higher pricing than DXC's bid for the same goods and services in circumstances where:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the provision had the purpose referred to in s 45AD(3)(c)(ii) of the Competition and Consumer Act 2010 (Cth); and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift and DXC were, or were likely to be, in competition with each other within the meaning of s 45AD(4)(a), (b) and (j) of the Act,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and Swift thereby contravened s 45AJ of the Act.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "In May 2019, by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "receiving DXC's proposed bid (including pricing information) for the West Angelas and Yandicoogina mining village project;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "preparing Swift's bid containing pricing that was higher than DXC's pricing; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "submitting Swift's bid in accordance with the West Angelas and Yandicoogina Arrangement,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift, by the conduct of two of its former employees, gave effect to a cartel provision in relation to the supply of information technology and communications equipment and associated services for the West Angelas and Yandicoogina mining village project and thereby contravened s 45AK of the Act.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "In around May to June 2019, Swift, by the conduct of its former employees, made an arrangement or arrived at an understanding with DXC concerning the supply of information technology and communications equipment and associated services for Rio Tinto's Western Turner mining village project (Western Turner Arrangement) which contained a provision that Swift would submit a bid that would contain higher pricing than DXC's bid for the same goods and services in circumstances where:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the provision had the purpose referred to in s 45AD(3)(c)(ii) of the Act; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift and DXC were, or were likely to be, in competition with each other within the meaning of s 45AD(4)(a), (b) and (j) of the Act,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and Swift thereby contravened s 45AJ of the Act.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "In around June 2019, by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "receiving DXC's proposed bid (including pricing information) for the Western Turner mining village project;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "preparing Swift's bid containing pricing that was higher than DXC's pricing; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "submitting Swift's bid, in accordance with the Western Turner Arrangement,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift, by the conduct of two of its former employees, gave effect to a cartel provision in relation to the supply of information technology and communications equipment and associated services for the Western Turner mining village project, and in doing so contravened s 45AK of the Act.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "In around August to September 2019, Swift, by the conduct of its former employees, made an arrangement or arrived at an understanding with DXC concerning the supply of information technology and communications equipment and associated services for Fortescue Metals Group's Iron Bridge project (Iron Bridge Arrangement) which contained a provision that DXC would submit a bid that would contain higher pricing than Swift's bid for the same goods and services, in circumstances where:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the provision had the purpose referred to in s 45AD(3)(c)(ii) of the Act; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift and DXC were, or were likely to be, in competition with each other within the meaning of s 45AD(4)(a), (b) and (j) of the Act,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and Swift thereby contravened s 45AJ of the Act.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "In around September and October 2019, by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "providing DXC with a copy of Swift's proposed bid (including pricing information) for the Iron Bridge project; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "submitting Swift's bid in accordance with the Iron Bridge Arrangement,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Swift, by the conduct of two of its former employees, gave effect to a cartel provision in relation to the supply of information technology and communication equipment and associated services for the Iron Bridge project, and in doing so contravened s 45AK of the Act.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The respondent pay to the Commonwealth of Australia a pecuniary penalty of $1,200,000.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The pecuniary penalty ordered in order 7 and costs ordered in order 10, will be payable in instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "$10,000 within 30 days from the date of these orders, and then $10,000 per month for a period of a further 12 months thereafter; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "$20,000 per month, commencing 14 months from the date of these orders.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The respondent, at its own expense, establish within six months of the date of these orders, and maintain for a period of three years from the date of its establishment:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "a compliance program, being a program designed to ensure Swift complies with its responsibilities and obligations in relation to Part IV of the Act; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "an education and training program for its directors and employees, being a program designed to ensure their awareness of its responsibilities and obligations in relation to Part IV of the Act.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "The respondent pay the applicant's costs of, and incidental to, this proceeding, fixed in the amount of $50,000.",
+     "level": 0
+    },
+    {
+     "label": "11.",
+     "text": "The non-publication order made on 4 September 2023 shall cease to continue with immediate effect.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE COURT DIRECTS THAT:",
+     "level": 0
+    },
+    {
+     "label": "12.",
+     "text": "An officer of the Registry provide an electronic copy of the joint submissions or statement of agreed facts or both, upon request by any person.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Swift Networks Pty Ltd (Swift) supplied a range of goods and services that included information technology, communications and entertainment equipment and associated services for mining village projects in the Pilbara region of Western Australia. Subsidiaries of DXC Technology Company also supplied the same equipment and services to customers requiring them for mining village projects in the Pilbara, it being sufficient for present purposes to refer to those subsidiaries as DXC. It was common for customers to invite tenders or budget quotations for the supply of the equipment and services for particular mining village projects.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Between May and October 2019, Swift and DXC were each invited to submit tenders or budget quotations for three mining accommodation camps in the Pilbara. In each case, then employees of Swift committed to a course of action that included submitting separate bids or budget quotations by both Swift and DXC with one of the two bids being priced higher than the other. The conduct was deliberate and specifically directed to ensuring that the two companies did not compete for the work on the basis of arrangements by which they would share the benefit of any work which was awarded to either of them.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Swift admits that by the conduct of those now former employees, Mr David Spencer and Ms Amy Baxter, it has contravened the cartel provisions of the Competition and Consumer Act 2010 (Cth).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The Australian Competition and Consumer Commission (Commission) and Swift jointly propose orders for declarations of contravention, pecuniary penalties, the establishment of a competition law compliance programme and costs. They do so on the basis of a statement of agreed facts.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "In cases where a regulator such as the Commission has reached an agreement with a contravening party as to an appropriate penalty for contravening conduct, the following propositions, as stated by this Court in Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72 at [51], were approved by High Court in Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; (2015) 258 CLR 482 at [47]-[48], [60]-[61] (French CJ, Kiefel, Bell, Nettle and Gordon JJ), [68] (Gageler J).",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Firstly, it is the responsibility of the court to determine the appropriate penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Secondly, determining the quantum of the penalty is not an exact science. Within a permissible range, the courts have acknowledged that a particular figure cannot necessarily be said to be more appropriate than another.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Thirdly, there is a public interest in promoting settlement of litigation, particularly where it is likely to be lengthy. Accordingly, when the regulator and contravener have reached agreement, they may present to the court a statement of facts and opinions as to the effect of those facts, together with joint submissions as to the appropriate penalty to be imposed.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Fourthly, the view of the regulator as a specialist body is a relevant but not determinative consideration on the question of penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Fifthly, in determining whether the proposed penalty is appropriate, the court examines all the circumstances of the case and where the parties have put forward an agreed statement of facts, the Court may act on that statement if it is appropriate to do so.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Sixthly, where the parties have jointly proposed a penalty, it will not be useful to investigate whether the court would have arrived at that precise figure. The question is whether that figure is, in the court's view, appropriate in the circumstances of the case. In answering that question, the Court will not reject the agreed figure simply because it would have been disposed to select some other figure. It will be appropriate if the proposed penalty is within, as it is said, the permissible range.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "It must also be noted, as was stated by the Full Court in Volkswagen Aktiengesellschaft v Australian Competition and Consumer Commission [2021] FCAFC 49 at [150]:\nWhile general and specific deterrence play a primary role in assessing the appropriate penalty, the authorities concerning the assessment of civil penalties, also identify a number of factors that are generally considered to be relevant to the assessment of the appropriate penalty. Those factors, which relate both to the objective features of the contravening conduct and the subjective circumstances of the contravener, may be taken to be relevant because they directly bear on the assessment of the penalty that is necessary to achieve general and specific deterrence.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Proper approach when considering appropriateness of proposed agreed penalty"
+    ],
+    "text": "Having considered the nature of the conduct in the present case, the form of the statement of agreed facts which deals with all of the essential matters that are necessary for the Court to form a view as to the appropriateness or otherwise of the proposed penalty and the fact that Swift is legally represented I am satisfied that it is appropriate in this particular case to act on the basis of the statement of agreed facts. I am also satisfied that the admissions of contravention reflect an application of established legal principle to those facts.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Subject to two matters concerning particular paragraphs in the joint submissions (to which I will refer), I accept the joint submissions on relief. For the reasons there expressed I am satisfied that the penalty as proposed is appropriate and that there is a proper basis for granting the declaratory relief. As I propose to make orders which will allow for any person to obtain an electronic copy of the joint submissions or the statement of agreed facts (or both), which documents will expose the basis for the orders to be made, I need only highlight those matters which I consider merit particular regard in the present case.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Firstly, the conduct admitted to by Swift was deliberate and quite blatant. Although it is agreed that those involved were not aware of the law and did not seek legal advice and that ignorance of the law is no excuse, these are matters which have no bearing upon whether the proposed penalty is appropriate and particularly so in the present case. That is because it is difficult to accept that anyone would consider the conduct in the present case was reasonable and appropriate adherence to basic commercial standards of propriety. In other words, it was not necessary to have any particular training as to what the law requires in order to know that it was wrong to submit an artificially inflated bid as if it was a genuinely competitive tender or budget quotation to be submitted in response to a process that was obviously designed to obtain competitive prices.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Secondly, reference is made in the submissions to the existence of a reseller agreement as between Swift and DXC as facilitating contact between employees of the two entities. The joint submission advanced is in the following terms (at paras 99-101):\nSwift's conduct occurred in the context of an existing commercial relationship between Swift and DXC under the Reseller Agreement. Swift and DXC were competitors, but Swift was also a supplier to DXC under the Reseller Agreement.\nThe Reseller Agreement facilitated contact between Swift and DXC employees in relation to commercial matters arising under that agreement.\nSwift accepts that this does not affect the assessment of whether it contravened the cartel laws, or otherwise excuse or mitigate Swift's culpability for engaging the relevant conduct. The relevant conduct was beyond the scope of the Reseller Agreement. However, this existing commercial relationship between DXC and Swift is relevant context that distinguishes this case from bid rigging between competitors which had no reason to communicate with one another in relation to certain customer opportunities. The nature and scope of that commercial relationship is otherwise beyond the matters to be determined in these proceedings.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "The above submission might be taken to suggest that the conduct in the present case is somehow in a different category to instances where bid rigging arises between competitors who otherwise have no reason to communicate with each other. To the extent that the submission is intended to suggest that a case where the only reason for communicating was to arrange bid rigging might be thought to be more serious because of that aspect, I do not accept that to be so. In the present case, the fact that there was a reseller agreement that applies to only part of the relationship between Swift and DXC which was otherwise a relationship in which they were competitors made it all the more important for the parties to take steps to ensure that there was compliance with the law. All other things being equal, I see no reason to treat a case where the parties have some reason to be communicating with each other about other matters as being less serious than a case where the only reason for communicating is to facilitate the bid rigging. In both instances, the conduct contravenes the cartel provisions with the same consequence for competition. Significantly, no case was advanced that there may be some genuine basis for confusion as to whether the conduct in the present case was permitted because of some aspect of the reseller agreement.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Thirdly, in the present case the most basic efforts at compliance by Swift would have communicated to those involved in contracting that they must not seek to agree prices with competitors. However, those steps were not taken. In that regard, the submissions include the following concerning a Code of Conduct adopted by Swift prior to the admitted contraventions (at paras 141-143):\nUnder the Code, all directors must respect and comply with the law, comply with any ethical and technical requirements of relevant regulatory and professional bodies, and comply with and promote ethical behaviour. The Code also expressly provides that Swift competes fairly in the situations and markets in which it operates, does not use coercive or misleading practices, and does not falsify or wrongly withhold information.\nIn October 2017, the Chief Financial Officer (CFO) of Swift circulated an updated version of the Swift Employee Handbook, together with the Code and supporting policies to all Swift staff. In his email, the CFO stated that: 'It is important that as an ASX listed company with access to public funds that all employees uphold the highest level of integrity in all commercial dealings with parties internal and external to the business to protect the company and its stakeholders against real and perceived threats of bias and conflicts of interest.'\nIn October 2017, Spencer and Baxter each provided confirmation to Swift's HR team that they had read and understood the materials.\n(footnotes omitted, emphasis in original)\nThe above matters are directed at far too high a level of generality to be brought to account as a meaningful discharge of the obligation to ensure compliance with the law. They do not articulate norms of behaviour to be observed and do not direct attention to the requirements of the relevant competition laws.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Fourthly, the conduct was inherently harmful to competitive processes that the customers had adopted in order to ensure that there was effective competition between suppliers and, by reason of its nature, was directed towards securing a significant commercial advantage for Swift.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "I observe that the statutory maximum penalty for the admitted contraventions is $60 million. Nevertheless, the amount of the penalty should be proportionate to the contravention, and should not be so high as to be oppressive. Also, the overall total penalty must assessed as appropriate when measured against the entire conduct. Accordingly, it is appropriate to have regard to a realistic assessment of the commercial value of the conduct in determining penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Although the benefit that might have been obtained in the present case is not able to be quantified, the proposed penalty bears an appropriate relationship to the amounts involved when taken together with the difficulties in exposing clandestine dealings of the kind that characterise cartel conduct. I accept the characterisation advanced for the Commission that the scale of the commerce the subject of the conduct was substantial, but not especially large. In consequence, it may be inferred that the economic effects of the conduct are not in the same scale as those evident in other cases where much larger penalties have been imposed.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Fifthly, the conduct was not confined to an isolated occasion.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Sixthly, having regard to the agreed facts as to the financial circumstances of Swift, it is appropriate for the orders to be made as to the time for payment. They are consistent with the focus upon overall deterrence because they do not unduly defer the burden of the penalty.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Seventhly, the following mitigating factors should be brought into account:\nthere has been significant cooperation by Swift in admitting the contraventions and in bringing the proceedings to an efficient conclusion;\nin assessing the size of the penalty, it is appropriate to have regard to the size of Swift as a commercial entity;\nthe commitment to compliance by those now working at Swift; and\nthe absence of any allegation of involvement by the most senior level of management within Swift.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Appropriateness of penalty in present case, and declaratory relief"
+    ],
+    "text": "Eighthly, there is no evidence of active concealment or surreptitious behaviour of the kind that might be considered to be aggravating in a case of this kind.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Compliance programme and costs"
+    ],
+    "text": "As to the other orders, in circumstances where Swift agrees to the orders for a compliance programme and the order as to costs which are orders which are within the Court's jurisdiction, I consider it appropriate to make those orders.",
+    "judge": "COLVIN J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Non-publication order"
+    ],
+    "text": "Finally, Swift did not press for a continuation of a non-publication order that had been made in relation to certain information contained within the statement of agreed facts and the joint submissions. In those circumstances, it is appropriate for an order to be made that the interim non-publication order not continue to apply.",
+    "judge": "COLVIN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-seven (27) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Colvin.",
+ "associate": null,
+ "dated": "2023-09-08",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "4122db1ae465bc4df94547b5606990e9e7d264aef63f11c7472d03b79fd862c2",
+ "markdown_file": "data/extracted/2023/2023FCA1064.md"
+}

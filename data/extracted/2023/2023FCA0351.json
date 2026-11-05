@@ -1,0 +1,1180 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA0351.docx",
+ "metadata": {
+  "citation": "[2023] FCA 351",
+  "name": "Australian Competition and Consumer Commission v Ashton Raggatt McDougall Pty Ltd",
+  "court": "FCA",
+  "year": 2023,
+  "number": 351,
+  "date_of_judgment": "2023-04-13",
+  "file_numbers": [
+   "VID567/2022"
+  ],
+  "judges": [
+   "MOSHINSKY J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-04-13"
+  ],
+  "hearing_raw": "13 April 2023",
+  "number_of_paragraphs": 86,
+  "catchwords": [
+   "COMPETITION – cartel conduct – where director of a firm of architects sent two emails to eight architectural firms requesting that they not submit a tender for a large development project – where the emails were retracted shortly after the second email was sent – where the firm of architects admitted that, through the conduct of the director, it attempted to contravene s 45AJ of the Competition and Consumer Act 2010 (Cth) – where the director admitted that he attempted to induce persons to contravene s 45AJ – where the parties jointly proposed declarations and penalties – whether proposed penalties within appropriate range – held: proposed declarations made and proposed penalties imposed"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 4, 4F, 45AB, 45AD, 45AJ, 76",
+   "Federal Court of Australia Act 1976 (Cth), s 21",
+   "Trade Practices Act 1974 (Cth)"
+  ],
+  "cases_cited": [
+   "Air New Zealand v Australian Competition and Consumer Commission [2017] HCA 21; 262 CLR 207",
+   "Australian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union [2017] FCAFC 113; 254 FCR 68",
+   "Australian Building and Construction Commissioner v Pattinson [2022] HCA 13; 399 ALR 599",
+   "Australian Competition and Consumer Commission v Cascade Coal Pty Ltd [2019] FCAFC 154; 374 ALR 90",
+   "Australian Competition and Consumer Commission v CC (New South Wales) Pty Ltd [1999] FCA 954; 92 FCR 375",
+   "Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159; 258 FCR 312",
+   "Australian Competition and Consumer Commission v Cryosite Limited [2019] FCA 116; 135 ACSR 231",
+   "Australian Competition and Consumer Commission v First Class Slate Roofing Pty Ltd [2022] FCA 1093",
+   "Australian Competition and Consumer Commission v Flight Centre Travel Group Ltd [2016] HCA 49; 261 CLR 203",
+   "Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698",
+   "Australian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222; ATPR ¶42-540",
+   "Australian Competition and Consumer Commission v Optus Internet Pty Ltd [2022] FCA 1397",
+   "Australian Competition and Consumer Commission v Pacific National Pty Ltd [2020] FCAFC 77; 277 FCR 49",
+   "Australian Competition and Consumer Commission v Pauls Ltd [2003] FCA 1586; ATPR ¶41-911",
+   "Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181; 340 ALR 25",
+   "Commonwealth v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; 258 CLR 482",
+   "Commonwealth Director of Public Prosecutions v Nippon Yusen Kabushiki Kaisha [2017] FCA 876; 254 FCR 235",
+   "Forster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421",
+   "J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365; 172 ALR 532",
+   "News Ltd v South Sydney District Rugby League Football Club [2003] HCA 45; 215 CLR 563",
+   "Norcast S.ar.L v Bradken Limited (No 2) [2013] FCA 235; 219 FCR 14",
+   "Re Day [2017] HCA 14; 91 ALJR 262",
+   "Re Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481",
+   "Trade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR ¶41-076"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "ASHTON RAGGATT MCDOUGALL PTY LTD (ACN 004 662 962)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ANTHONY JOHN ALLEN",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms EA Bennett SC with Ms S Zeleznikow"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Ms CM Dermody"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Ms A Muhlebach"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Carter Newell Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0351",
+  "portal_file_numbers": [
+   "VID567/2022"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2023-04-13"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 567 of 2022"
+  },
+  {
+   "label": "Judgment of",
+   "value": "MOSHINSKY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "13 April 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – cartel conduct – where director of a firm of architects sent two emails to eight architectural firms requesting that they not submit a tender for a large development project – where the emails were retracted shortly after the second email was sent – where the firm of architects admitted that, through the conduct of the director, it attempted to contravene s 45AJ of the Competition and Consumer Act 2010 (Cth) – where the director admitted that he attempted to induce persons to contravene s 45AJ – where the parties jointly proposed declarations and penalties – whether proposed penalties within appropriate range – held: proposed declarations made and proposed penalties imposed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 4, 4F, 45AB, 45AD, 45AJ, 76\nFederal Court of Australia Act 1976 (Cth), s 21\nTrade Practices Act 1974 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Air New Zealand v Australian Competition and Consumer Commission [2017] HCA 21; 262 CLR 207\nAustralian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union [2017] FCAFC 113; 254 FCR 68\nAustralian Building and Construction Commissioner v Pattinson [2022] HCA 13; 399 ALR 599\nAustralian Competition and Consumer Commission v Cascade Coal Pty Ltd [2019] FCAFC 154; 374 ALR 90\nAustralian Competition and Consumer Commission v CC (New South Wales) Pty Ltd [1999] FCA 954; 92 FCR 375\nAustralian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159; 258 FCR 312\nAustralian Competition and Consumer Commission v Cryosite Limited [2019] FCA 116; 135 ACSR 231\nAustralian Competition and Consumer Commission v First Class Slate Roofing Pty Ltd [2022] FCA 1093\nAustralian Competition and Consumer Commission v Flight Centre Travel Group Ltd [2016] HCA 49; 261 CLR 203\nAustralian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698\nAustralian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222; ATPR ¶42-540\nAustralian Competition and Consumer Commission v Optus Internet Pty Ltd [2022] FCA 1397\nAustralian Competition and Consumer Commission v Pacific National Pty Ltd [2020] FCAFC 77; 277 FCR 49\nAustralian Competition and Consumer Commission v Pauls Ltd [2003] FCA 1586; ATPR ¶41-911\nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181; 340 ALR 25\nCommonwealth v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; 258 CLR 482\nCommonwealth Director of Public Prosecutions v Nippon Yusen Kabushiki Kaisha [2017] FCA 876; 254 FCR 235\nForster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421\nJ McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365; 172 ALR 532\nNews Ltd v South Sydney District Rugby League Football Club [2003] HCA 45; 215 CLR 563\nNorcast S.ar.L v Bradken Limited (No 2) [2013] FCA 235; 219 FCR 14\nRe Day [2017] HCA 14; 91 ALJR 262\nRe Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481\nTrade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR ¶41-076"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "86"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "13 April 2023"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms EA Bennett SC with Ms S Zeleznikow"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Ms CM Dermody"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Ms A Muhlebach"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Carter Newell Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID567/2022",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "ASHTON RAGGATT MCDOUGALL PTY LTD (ACN 004 662 962)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "ANTHONY JOHN ALLEN",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "MOSHINSKY J"
+   ],
+   "date": "2023-04-13",
+   "date_raw": "13 APRIL 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "In September 2020, the First Respondent, Ashton Raggatt McDougall Pty Ltd (ARM), attempted to contravene s 45AJ of the Competition and Consumer Act 2010 (Cth) (CCA), being conduct of the kind referred to in s 76(1)(b) of the CCA, by attempting to make arrangements or arrive at understandings containing a cartel provision with each of the following entities (each a Firm):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1. Architectus Australia Pty Ltd;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.2. John Wardle Pty Ltd;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3. Denton Corker Marshall Pty Ltd;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.4. Cox Architecture Pty Ltd;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.5. Bates Smart Architects Pty Ltd;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.6. Hassell Limited;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.7. Newpolis Pty Ltd; and 1.8. Woods Bagot Pty Ltd,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "where",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.8. each Firm was a competitor or likely competitor of ARM for the supply of architectural services of the type required under the request for tender for architectural services (T23.2020) released by Charles Darwin University; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.9. the cartel provision in each arrangement or understanding had the purpose of ensuring that, in relation to the request for tender for architectural services (T23.2020) released by Charles Darwin University, ARM would submit a bid but the Firm would not.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "In September 2020, the Second Respondent, Anthony John Allen (Allen), attempted to induce persons to contravene s 45AJ of the CCA, being conduct of the kind referred to in s 76(1)(d) of the CCA, by attempting to induce each of the Firms to make an arrangement or arrive at an understanding with ARM containing a cartel provision, where:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "2.1. each Firm was a competitor or likely competitor of ARM for the supply of architectural services of the type required under the request for tender for architectural services (T23.2020) released by Charles Darwin University; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "2.2. the cartel provision in each arrangement or understanding had the purpose of ensuring that, in relation to the request for tender for architectural services (T23.2020) released by Charles Darwin University, ARM would submit a bid but the Firm would not.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "ARM pay to the Commonwealth of Australia a pecuniary penalty of $900,000 under s 76(1) of the CCA, in respect of the attempted contraventions of s 45AJ of the CCA referred to in declaration recorded at paragraph 1 above.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The above penalty be paid in instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.1. the first amount of $150,000 be paid on or before 21 days from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.2. the second amount of $150,000 be paid on or before 1 year from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.3. the third amount of $150,000 be paid on or before 2 years from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.4. the fourth amount of $150,000 be paid on or before 3 years from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.5. the fifth amount of $150,000 be paid on or before 4 years from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.6. the sixth amount of $150,000 be paid on or before 5 years from the date of this order.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "In the event that there is a default in the making of any of the instalment payments referred to in paragraph 4 of these orders and that default continues for fourteen days, the whole of the outstanding amount of the penalty referred to in paragraph 3 of these orders is immediately due and payable.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Allen pay to the Commonwealth of Australia a pecuniary penalty of $75,000 under s 76(1) of the CCA, in respect of the attempts to induce contraventions of s 45AJ of the CCA referred to in the declaration recorded at paragraph 2 above.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The above penalty be paid in instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "7.1. the first amount of $15,000 be paid on or before 30 days from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "7.2. the second amount of $20,000 be paid on or before 6 months from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "7.3. the third amount of $20,000 be paid on or before 12 months from the date of this order;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "7.4. the fourth amount of $20,000 be paid on or before 18 months from the date of this order.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "In the event that there is a default in the making of any of the instalment payments referred to in paragraph 7 of these orders and that default continues for fourteen days, the whole of the outstanding amount of the penalty referred to in paragraph 6 of these orders is immediately due and payable.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "Pursuant to ss 80 and 86C(1) of the CCA and s 23 of the Federal Court of Australia Act 1976 (Cth), ARM at its own expense establish, and maintain for a period of three years from the date of its establishment, an education, training and Competition and Consumer Act compliance program for its employees or other persons involved in its business in the form and with the content identified in Annexure A to these orders.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "Pursuant to s 86D(1)(a) of the CCA, within 21 days of the date of this order, Allen, at his own expense, is to take all reasonable steps to cause to be published, on the website of the Architects Registration Board of Victoria, an educative notice in the form and with the content contained in Annexure B to these orders.",
+     "level": 0
+    },
+    {
+     "label": "11.",
+     "text": "ARM pay a contribution to the Australian Competition and Consumer Commission’s costs of and incidental to the proceeding in the amount of $20,000, to be paid within 30 days of the date of this order.",
+     "level": 0
+    },
+    {
+     "label": "12.",
+     "text": "Allen pay a contribution to the Australian Competition and Consumer Commission’s costs of and incidental to the proceeding in the amount of $5,000, to be paid within 30 days of the date of this order.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "This proceeding is brought by the Australian Competition and Consumer Commission (ACCC) against Ashton Raggatt McDougall Pty Ltd (ARM), a firm of architects, and Anthony John Allen (Mr Allen), who was at the relevant time a practising architect and the Managing Director of ARM. The proceeding concerns the cartel provisions of the Competition and Consumer Act 2010 (Cth) (CCA).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "Specifically, the proceeding relates to an attempt by Mr Allen, on behalf of ARM, in September 2020 to enter into an arrangement or understanding with other architectural firms that they would not submit a tender for the second phase of a large development that was being undertaken by Charles Darwin University in the Darwin central business district (CBD).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The relevant conduct involved the sending of two emails by Mr Allen to eight architectural firms that formed part of a group referred to as the “LPF” or Large Practice Forum. The first email was sent by Mr Allen at approximately 5.04 pm on 24 September 2020 (the First Allen email). The second email was sent by Mr Allen at approximately 12.25 pm on 29 September 2020 (the Second Allen email). Shortly after the second email was sent, and after concerns were raised with Mr Allen, he sent a further email that retracted the two earlier emails. The retraction email was sent at approximately 3.16 pm on 29 September 2020.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "This proceeding was commenced by the ACCC on 30 September 2022.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "ARM has admitted that, through the conduct of Mr Allen, it attempted to contravene s 45AJ of the CCA (set out later in these reasons). Mr Allen has admitted that he attempted to induce persons to contravene s 45AJ.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The parties have reached agreement on proposed declarations, proposed penalties and certain ancillary orders.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "In relation to ARM, it is jointly proposed by the ACCC and ARM that ARM pay a penalty of $900,000 and a contribution of $20,000 towards the ACCC’s costs. It is also proposed that ARM adopt a compliance program in a form that has been agreed.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "In relation to Mr Allen, it is jointly proposed by the ACCC and Mr Allen that Mr Allen pay a penalty of $75,000 and a contribution of $5,000 towards the ACCC’s costs. In addition, Mr Allen has agreed to publish a letter in a form that has been agreed (educative notice), that is designed to educate other architects about what has occurred in this case, so that they can learn from Mr Allen’s conduct and the consequences. The educative notice is annexed to the proposed orders provided by the parties (the Minute of Proposed Orders). The proposed orders provided that, within 21 days, Mr Allen is to take all reasonable steps to cause the educative notice to be published on the website of the Architects Registration Board of Victoria.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "While the parties may agree on proposed penalties, it is necessary for the Court to be satisfied that the amount of the penalties is within the appropriate range. Having considered the material before the Court, I am satisfied that the penalties are within the appropriate range.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "I am also satisfied that there is a proper basis to make the proposed declarations, and that the other orders sought by the parties are appropriate.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The material before the Court"
+    ],
+    "text": "The material before the Court comprises:\n(a) a Statement of Agreed Facts and Admissions dated 27 February 2023 (SOAF) – a redacted version is annexed to these reasons;\n(b) a supplementary Statement of Agreed Facts and Admissions between the ACCC and ARM and a supplementary Statement of Agreed Facts and Admissions between the ACCC and Mr Allen (together, the Supplementary SOAFs) – these are also annexed to these reasons; and\n(c) an affidavit of Lucy Carruthers, the Managing Principal and Chief Operating Officer of ARM, dated 24 February 2023.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The material before the Court"
+    ],
+    "text": "The parties have filed Joint Submissions on Contraventions and Relief dated 27 February 2023 (the Joint Submissions), which I have drawn on substantially in preparing these reasons for judgment.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The material before the Court"
+    ],
+    "text": "Parts of the above material are confidential on the basis that they contain confidential financial and commercial information relating to ARM’s business. I have therefore made confidentiality orders in relation to those parts of the material. The parties have filed redacted versions of these materials, which redact the confidential parts.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "The following is a summary of the facts and admissions set out in the SOAF and the Supplementary SOAFs, based on the Joint Submissions. I make findings in accordance with the facts set out in the SOAF and the supplementary SOAFs.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "In May 2019, ARM was the successful tenderer for the supply of architectural services for the first phase of a $250 million development of a campus of Charles Darwin University in Darwin’s CBD (the CBD campus).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "On 24 September 2020, Charles Darwin University released its request for tender for architectural services in relation to the second phase of the development of the CBD campus (the Second RFT).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "On 24 September 2020 at approximately 5.04 pm, Mr Allen, then the Managing Director of ARM, sent the First Allen email to representatives of eight other architecture firms. The First Allen email referred to the Second RFT documents issued earlier that day by Charles Darwin University and stated in part:\nThe only reason the remaining phases are being tendered separately is because there is a very complex tri-partite funding arrangement involving the federal, territory and local governments, and the University is bound by terms in this funding agreement that require 2 tender processes for the project. Something to do with so called “best value for money”. Most of the CDU people with whom we have been dealing were surprised to learn that this was occurring.\nOur request to you is simple. Please do not submit a tender as we are relying very heavily on continuing with this project to keep our practice alive throughout the remainder of this strange and difficult COVID time.\nPerhaps this is an issue that we could discuss at a future [Large Practice Forum] meeting.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "The recipients of the First Allen email were representatives of the following firms: Architectus Australia Pty Ltd (Architectus), John Wardle Pty Ltd (JWA), Denton Corker Marshall Pty Ltd (DCM), Cox Architecture Pty Ltd, Bates Smart Architects Pty Ltd, Hassell Limited, Newpolis Pty Ltd and Woods Bagot Pty Ltd (each, a Firm). At this time, each Firm was an architecture firm in Australia that supplied, or was capable of supplying, architecture services of the type required for the CBD campus project.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "On the afternoon of 25 September 2020, representatives of Architectus and JWA responded separately to Mr Allen by email and confirmed that they would not submit a tender in response to the Second RFT. Mr Allen thanked those representatives by email for their responses.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "On 29 September 2020 at approximately 12.25 pm, Mr Allen sent the Second Allen email. This was a follow-up email to the First Allen email and was sent to all of the original recipients except for those from Architectus and JWA. It stated:\nWe have received very positive responses from Architectus and JWA. We would greatly appreciate a short note from you to let us know of your intentions either way.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "Shortly after sending the Second Allen email, Mr Allen received a phone call from a representative of DCM, in which that representative said that DCM was not intending to tender, but noting that the First Allen email may be seen to be collusion.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "Later on 29 September 2020, Mr Allen received an email from the project manager for the CBD campus project requesting that the First Allen email be retracted. Mr Allen then emailed all of the original recipients of the First Allen email stating that ARM retracted the earlier email.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "ARM admits that, by attempting to make arrangements or arrive at understandings containing a cartel provision with each of the Firms, ARM, through the conduct of Mr Allen described above, attempted to contravene s 45AJ of the CCA, being conduct of the kind referred to in s 76(1)(b) of the CCA. ARM did so in circumstances where:\n(a) in each attempted arrangement or understanding, the cartel provision was one that had the purpose of ensuring that, in relation to the Second RFT, ARM would bid, but the respective Firm would not, within the meaning of s 45AD(3)(c)(i) of the CCA; and\n(b) at all relevant times, ARM was, or was likely to be, in competition with each of the Firms in relation to the supply of architectural services of the type required for the project.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Factual findings and admissions"
+    ],
+    "text": "Mr Allen admits that, by attempting to induce each Firm to make an arrangement or arrive at an understanding containing a cartel provision with ARM, Mr Allen, through his conduct described above, attempted to induce each of the Firms to contravene s 45AJ of the CCA, being conduct of the kind referred to in s 76(1)(d) of the CCA. Mr Allen did so in circumstances where:\n(a) in each attempted arrangement or understanding, the cartel provision was one that had the purpose of ensuring that, in relation to the Second RFT, ARM would bid, but the respective Firm would not, within the meaning of s 45AD(3)(c)(i) of the CCA; and\n(b) at all relevant times, ARM was, or was likely to be, in competition with each of the Firms in relation to the supply of architectural services of the type required for the project.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "Section 45AJ of the CCA provides:\nA corporation contravenes this section if:\n(a) the corporation makes a contract or arrangement, or arrives at an understanding; and\n(b) the contract, arrangement or understanding contains a cartel provision.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "An arrangement or understanding involves a “meeting of the minds” or a consensus under which parties assume obligations or give assurances or undertakings that they will act in a certain way: Australian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222; ATPR ¶42-540 (Olex) at [477] per Beach J. However, the terms “arrangement” and “understanding” do not carry with them the necessity or formality of binding or enforceable obligations: Re Day [2017] HCA 14; 91 ALJR 262 at [73] per Gordon J. The concept of an understanding, in particular, is “broad and flexible”: Olex at [477]; Norcast S.ar.L v Bradken Limited (No 2) [2013] FCA 235; 219 FCR 14 (Norcast) at [263] per Gordon J.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "An arrangement or understanding may be contrasted to situations where a participant maintained a “hope” or “expectation”. In Australian Competition and Consumer Commission v CC (New South Wales) Pty Ltd [1999] FCA 954; 92 FCR 375 (CC (NSW)) at [141], Lindgren J observed that a “mere expectation that as a matter of fact” a party will act in a certain way is not enough to give rise to an arrangement. His Honour considered that “something more is required”: CC (NSW) at [141]. The “something more” required was identified by Lindgren J earlier in the same passage, when his Honour noted that an arrangement will arise when at least one party “‘assume[s] an obligation’ or give[s] an ‘assurance’ or ‘undertaking’ that he or she will act in a certain way”: CC (NSW) at [141]. By contrast, a “mere expectation” may be raised simply by observing the manner in which another person conducts themselves.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "Section 45AD of the CCA sets out the meaning of “cartel provision”. Relevantly, it provides:\n(1) For the purposes of this Act, a provision of a contract, arrangement or understanding is a cartel provision if:\n(a) either of the following conditions is satisfied in relation to the provision:\n(i) the purpose/effect condition set out in subsection (2);\n(ii) the purpose condition set out in subsection (3); and\n(b) the competition condition set out in subsection (4) is satisfied in relation to the provision.\n…\nPurpose condition\n(3) The purpose condition is satisfied if the provision has the purpose of directly or indirectly:\n…\n(c) ensuring that in the event of a request for bids in relation to the supply or acquisition of goods or services:\n(i) one or more parties to the contract, arrangement or understanding bid, but one or more other parties do not; or\n…\nNote 3: Party has an extended meaning—see section 45AC.\nCompetition condition\n(4) The competition condition is satisfied if at least 2 of the parties to the contract, arrangement or understanding:\n(a) are or are likely to be; or\n(b) but for any contract, arrangement or understanding, would be or would be likely to be;\nin competition with each other in relation to:\n…\n(j) if paragraph (3)(c) applies in relation to a supply of goods or services—the supply of those goods or services in trade or commerce; or\n(k) if paragraph (3)(c) applies in relation to an acquisition of goods or services—the acquisition of those goods or services in trade or commerce.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "A “provision”, in relation to an understanding, means any matter forming part of the understanding: s 4 of the CCA. The “purpose condition” relevantly requires the provision to have the purpose of directly or indirectly ensuring that in the event of a request for bids in relation to the supply or acquisition of goods or services, one or more parties to the arrangement or understanding would bid, but one or more other parties would not: s 45AD(3)(c)(i).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "For the purposes of the provisions of the CCA concerning cartel conduct, “bid” is defined to extend to the taking, by a potential bidder or tenderer, of a preliminary step in a bidding or tendering process: s 45AB.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "A provision has a particular purpose if it was to be included for purposes that included that purpose, and that purpose was a substantial purpose: s 4F. The purpose of a provision may be inferred from the nature of the arrangement, the circumstances in which it was made, and its likely effect: Olex at [494], citing News Ltd v South Sydney District Rugby League Football Club [2003] HCA 45; 215 CLR 563 at [18] per Gleeson CJ, [41] per McHugh J, [62]-[63] per Gummow J, and [212] per Callinan J.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "The competition condition in s 45AD(4) will be satisfied if at least two of the parties to the arrangement or understanding are, or are likely to be, in competition with each other in relation to, relevantly, the supply of services the subject of the cartel provision.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "Competition has been described as the “striving or potential striving of two or more persons or organisations against one another for the same or related objects”: see Air New Zealand v Australian Competition and Consumer Commission [2017] HCA 21; 262 CLR 207 (Air New Zealand) at [120] per Gordon J (quoting sources there referred to). To be in competition for the supply of services, parties must be rivals, or constrain each other in respect of the supply of those services. Parties constrain each other if, relevantly, they supply substitutable services to the same class of customer, or if they would do so given a sufficient price incentive: Olex at [489], citing Re Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481 at 517.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "It is unnecessary to delineate the market for the purposes of the competition condition; it is sufficient, in the present case, that ARM and each individual Firm were actual or likely competitors in trade or commerce in relation to the services under consideration: Olex at [488]. Competition must be assessed within the commercial context of the conduct in question and by focusing on the practical behaviour and perceptions of relevant participants: Australian Competition and Consumer Commission v Flight Centre Travel Group Ltd [2016] HCA 49; 261 CLR 203 at [70] per Kiefel and Gageler JJ; Air New Zealand at [14] per Kiefel CJ, Bell and Keane JJ, [39]-[40] per Nettle J, [61] per Gordon J.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Applicable principles",
+     "Cartel conduct"
+    ],
+    "text": "For the purposes of the provisions of the CCA concerning cartel conduct, the term “likely”, when used in relation to the supply of services, is defined as including “a possibility that is not remote”: s 45AB. The parties in the Joint Submissions note that there is a question whether that definition applies to the use of “likely” in the competition condition: Commonwealth Director of Public Prosecutions v Nippon Yusen Kabushiki Kaisha [2017] FCA 876; 254 FCR 235 at [180]; cf Olex at [490]; Australian Competition and Consumer Commission v Cryosite Limited [2019] FCA 116; 135 ACSR 231 at [24]. If it does not, it appears that “likely” in that context would in any event include a “real chance”, the occurrence of which need not be more probable than not: Australian Competition and Consumer Commission v Cascade Coal Pty Ltd [2019] FCAFC 154; 374 ALR 90 at [148]; see also Australian Competition and Consumer Commission v Pacific National Pty Ltd [2020] FCAFC 77; 277 FCR 49 at [222]-[246]. The likelihood of parties being in competition with each other is a question of fact: Norcast at [259], citing J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365; 172 ALR 532 and Australian Competition and Consumer Commission v Pauls Ltd [2003] FCA 1586; ATPR ¶41-911.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Applicable principles",
+     "Declaratory relief"
+    ],
+    "text": "This Court has the power to make declarations under s 21 of the Federal Court of Australia Act 1976 (Cth).",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Applicable principles",
+     "Declaratory relief"
+    ],
+    "text": "In Australian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union [2017] FCAFC 113; 254 FCR 68, the Full Court stated (at [90]):\nThe fact that the parties have agreed that a declaration of contravention should be made does not relieve the Court of the obligation to satisfy itself that the making of the declaration is appropriate. … It is not the role of the Court to merely rubber stamp orders that are agreed as between a regulator and a person who has admitted contravening a public statute.\n(Citations omitted.)",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Applicable principles",
+     "Declaratory relief"
+    ],
+    "text": "The Full Court continued (at [93]):\nDeclarations relating to contraventions of legislative provisions are likely to be appropriate where they serve to record the Court’s disapproval of the contravening conduct, vindicate the regulator’s claim that the respondent contravened the provisions, assist the regulator to carry out its duties, and deter other persons from contravening the provisions …\n(Citations omitted.)",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Applicable principles",
+     "Declaratory relief"
+    ],
+    "text": "In Forster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421 at 437-438, Gibbs J stated that before making declarations three requirements should be satisfied:\n(a) the question must be a real and not a hypothetical or theoretical one;\n(b) the applicant must have a real interest in raising it; and\n(c) there must be a proper contradictor.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "Pursuant to s 76(1)(b) and (d) of the CCA, if the Court is satisfied that a person has attempted to contravene, or attempted to induce a person to contravene, s 45AJ of the CCA, the Court may order the person to pay such pecuniary penalty, in respect of each act or omission by the person to which it applies, as the Court determines to be appropriate.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "Section 76(1) requires the Court to have regard to “all relevant matters” in determining the appropriate penalty. It also specifies a number of (non-exhaustive) statutory factors to which the Court must have regard, being:\n(a) the nature and extent of the act or omission constituting the wrongdoing, and any loss or damage suffered as a result of the act or omission;\n(b) the circumstances in which the act or omission took place; and\n(c) whether the respondent has previously been found by the Court in proceedings under Pt VI or Pt XIB of the CCA to have engaged in any similar conduct.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "It is convenient to note at this point that, in the circumstances of this case, the parties submit, and I accept, that the conduct of ARM constituted eight attempts to contravene s 45AJ, and the conduct of Mr Allen constituted eight attempts to induce a contravention of s 45AJ. The number eight is referable to the number of firms to which the First Allen email was sent.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In relation to ARM, at the time of the admitted conduct, the maximum penalty for a contravention (or attempted contravention) by a company of s 45AJ was the greater of $10 million, three times the value of the benefit obtained by way of the conduct or, if the Court cannot determine the value of that benefit, 10% of the annual turnover of the body corporate in the 12-month period preceding the contravention: s 76(1A) of the CCA, as in force on 25 August 2020.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In the circumstances of this case, the parties submit, and I accept, that the maximum penalty for the admitted conduct in respect of ARM is $10 million per attempted contravention. As such, the total maximum penalty for the admitted conduct in respect of ARM is $80 million.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In relation to Mr Allen, at the time of the admitted conduct, the maximum penalty for an attempt by an individual to induce a contravention of s 45AJ was $500,000: s 76(1B) of the CCA, as in force on 25 August 2020. As such, the total maximum penalty for the admitted conduct in respect of Mr Allen is $4 million.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Optus Internet Pty Ltd [2022] FCA 1397, I summarised the applicable principles regarding pecuniary penalties. The following paragraphs are based on that judgment.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In Commonwealth v Director, Fair Work Building Industry Inspectorate [2015] HCA 46; 258 CLR 482 (the Agreed Penalties Case), the High Court emphasised that the primary purpose of civil penalties is deterrence. In contrast to criminal sentences, they are not concerned with retribution and rehabilitation but are “primarily if not wholly protective in promoting the public interest in compliance”: Agreed Penalties Case at [55] per French CJ, Kiefel, Bell, Nettle and Gordon JJ; see also at [110] per Keane J. This point was also emphasised by the High Court in Australian Building and Construction Commissioner v Pattinson [2022] HCA 13; 399 ALR 599 (Pattinson) at [15]-[16], [43], [45], [55] per Kiefel CJ, Gageler, Keane, Gordon, Steward and Gleeson JJ.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "The plurality in Pattinson affirmed (at [18]) the well-known statements of French J, as his Honour then was, in Trade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR ¶41-076 (CSR). In that case, his Honour listed several factors that informed the assessment of a penalty of appropriate deterrent value under the Trade Practices Act 1974 (Cth). His Honour stated:\nThe assessment of a penalty of appropriate deterrent value will have regard to a number of factors which have been canvassed in the cases. These include the following:\n1. The nature and extent of the contravening conduct.\n2. The amount of loss or damage caused.\n3. The circumstances in which the conduct took place.\n4. The size of the contravening company.\n5. The degree of power it has, as evidenced by its market share and ease of entry into the market.\n6. The deliberateness of the contravention and the period over which it extended.\n7. Whether the contravention arose out of the conduct of senior management or at a lower level.\n8. Whether the company has a corporate culture conducive to compliance with the Act, as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention.\n9. Whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "After setting out the above passage, the plurality in Pattinson stated at [19]:\nIt may readily be seen that this list of factors includes matters pertaining both to the character of the contravening conduct (such as factors 1 to 3) and to the character of the contravenor (such as factors 4, 5, 8 and 9). It is important, however, not to regard the list of possible relevant considerations as a “rigid catalogue of matters for attention” as if it were a legal checklist. The court’s task remains to determine what is an “appropriate” penalty in the circumstances of the particular case.\n(Footnotes omitted.)",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "The plurality in Pattinson considered the role of the prescribed maximum penalty as a yardstick in a civil penalty context, affirming (at [53]) the explanation provided by the Full Court of this Court in Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181; 340 ALR 25 (Reckitt Benckiser) at [155]-[156]. See also Pattinson at [54]-[55].",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "It is relevant to refer to the course of conduct principle, which was considered by the Full Court of this Court in Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159; 258 FCR 312 at [421]-[428]. The Full Court stated at [424] that the course of conduct principle is a useful “tool” in the determination of appropriate civil penalties. The Full Court continued:\nAs we have already indicated, the principal object of the penalties imposed by s 76 of the [Trade Practices Act 1974 (Cth)] is that of specific and general deterrence. With this in mind, in a civil penalty context, the course of conduct principle can be conceived of as a recognition by the courts that the deterrent effect in respect of a civil penalty (at both a specific and general level) is measured by reference to the nature of the conduct for which it is imposed. It is therefore of paramount importance to identify whether multiple contraventions constitute a single course of conduct or separate instances of conduct, so as to ensure that an appropriate deterrent effect is achieved by the imposition of the penalty or penalties in respect of that particular conduct.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In relation to the course of conduct principle, in Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 (Hillside), Beach J stated at [25]:\n… the “course of conduct” principle does not have paramountcy in the process of assessing an appropriate penalty. It cannot of itself operate as a de facto limit on the penalty to be imposed for contraventions of the ACL. Further, its application and utility must be tailored to the circumstances. In some cases, the contravening conduct may involve many acts of contravention that affect a very large number of consumers and a large monetary value of commerce, but the conduct might be characterised as involving a single course of conduct. Contrastingly, in other cases, there may be a small number of contraventions, affecting few consumers and having small commercial significance, but the conduct might be characterised as involving several separate courses of conduct. It might be anomalous to apply the concept to the former scenario, yet be precluded from applying it to the latter scenario. The “course of conduct” principle cannot unduly fetter the proper application of s 224.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "The above passage was cited with approval by the Full Court in Reckitt Benckiser at [141].",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Applicable principles",
+     "Civil penalties"
+    ],
+    "text": "In the present case, the parties submit, and I agree, that the conduct of ARM constituted a single course of conduct. Likewise, the conduct of Mr Allen constituted a single course of conduct.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Application of principles to this case",
+     "Declarations"
+    ],
+    "text": "I consider that the declarations set out in the Minute of Proposed Orders are established by the facts and admissions set out in the SOAF and the Supplementary SOAFs. I consider it appropriate to make those declarations. Each of the requirements for the making of declarations is satisfied.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties"
+    ],
+    "text": "The penalties proposed by the parties have been set out above.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties"
+    ],
+    "text": "I will now discuss a number of the relevant factors, based on the Joint Submissions.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "Cartel conduct is one of the most serious violations of competition law, and attempts to engage in cartel conduct in public procurement have the potential to cause significant detriment to governments, taxpayers, consumers and businesses.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "The conduct in this case took place in the context of a tender which was at least partly publicly funded. Public sector procurement is a multi-billion-dollar sector which makes a vital contribution to the Australian economy and the welfare of Australian citizens and residents. As such, the potential impact of bid-rigging in public procurements is very substantial. Contraventions of the prohibitions on cartel conduct must attract appropriate penalties in order to maintain confidence in tender processes by those running tenders, other tenderers and consumers.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "The ACCC and Mr Allen note, and I accept, that the conduct occurred in circumstances where Mr Allen was feeling significant pressure to have enough work to keep ARM’s staff employed during the COVID-19 pandemic, and was anxious to avoid redundancies at a time when he knew there had been redundancies elsewhere in the architecture industry as a result of uncertainty created by the pandemic. Retaining employment for ARM’s staff was a substantial part of what motivated his conduct in sending the First and Second Allen emails.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "Nonetheless, the admitted conduct was deliberate. The admitted conduct was undertaken by Mr Allen, a very senior staff member at ARM. Mr Allen was a senior member of the firm and profession who ought to have modelled appropriate behaviour.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "There is no evidence that any other staff members aside from Mr Allen were directly engaged in the conduct, although another senior manager within ARM received the First and Second Allen emails (as discussed below). The admitted conduct was limited to two emails which were sent within a six-day period, and the First Allen email (which contained the operative request) was retracted less than three hours after Mr Allen sent the second of those two emails, and less than three hours after he first realised that he was wrong to have sent the First and Second Allen emails.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Nature, extent and duration of conduct, and the circumstances in which the conduct occurred"
+    ],
+    "text": "The admitted conduct carried the potential to cause Charles Darwin University to pay higher prices, and/or to receive lower quality services, than it otherwise would have in respect of the Second RFT. It also had the potential to detrimentally affect the confidence of both Charles Darwin University and other tenderers participating in the tender process, which may in turn have affected confidence in respect of participation in future tender processes.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Involvement of senior management and culture of compliance"
+    ],
+    "text": "The admitted conduct was engaged in by Mr Allen, who was part of ARM’s senior management. There is no evidence that any other staff members aside from Mr Allen directly engaged in the conduct or were aware that Mr Allen proposed to send the First Allen email or the Second Allen email. Another senior manager was copied in on the impugned emails. The senior manager did not become aware of the content of the First Allen email until 29 September 2020. Upon becoming aware, the senior manager then contacted Mr Allen who assured him that he had acted to address the matter by retracting the email. Following this discussion, the senior manager took no steps to raise the matter with any of the other ARM directors.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Involvement of senior management and culture of compliance"
+    ],
+    "text": "In this respect, the parties submit, and I accept, that the conduct arose, in part, from the absence, within ARM, of a sufficiently sophisticated culture of compliance in respect of the CCA, and the absence of a sufficiently sophisticated understanding of the effect of the CCA on Mr Allen’s part.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Involvement of senior management and culture of compliance"
+    ],
+    "text": "As noted in the supplementary SOAF between the ACCC and ARM, ARM has taken steps to ensure that its staff are trained to be compliant with Australian competition law.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Involvement of senior management and culture of compliance"
+    ],
+    "text": "ARM and the ACCC submit, and I accept, that these steps to implement compliance training so as to formally educate and raise the awareness of senior officers and managers regarding conduct prohibited by the CCA and the importance of compliance with the competition provisions in the CCA may lessen the degree of specific deterrence that would otherwise be required.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Size of contravener and financial position"
+    ],
+    "text": "In relation to the size and financial position, I accept the submissions at paragraphs 70 to 73 of the Joint Submissions, parts of which are confidential.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Loss or damage caused by the conduct"
+    ],
+    "text": "No loss or damage has been identified as having been caused by ARM and Mr Allen’s conduct. The First Allen email was retracted by Mr Allen on 29 September 2020 following intervention by the project manager for the CBD campus project. The absence of loss or damage may be a matter that leads to a lower penalty, but such an absence is not uncommon where the relevant conduct, as here, constituted attempts to contravene and attempts to induce contraventions.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Loss or damage caused by the conduct"
+    ],
+    "text": "Even where there is no evidence of actual injury or harm to any affected person as the result of a contravention, attempted contravention or attempt to induce a contravention of the CCA, an appropriate penalty is warranted in order to deter tenderers from undermining the purpose and efficacy of competitive tender processes.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Prior similar conduct"
+    ],
+    "text": "Neither ARM nor Mr Allen have previously been found to have contravened the CCA or to have engaged in conduct similar to the attempted contraventions of the CCA (in the case of ARM) or the attempts to induce contraventions of the CCA (in the case of Mr Allen) the subject of this proceeding.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Lack of benefits obtained by ARM and Mr Allen"
+    ],
+    "text": "The admitted conduct did not result in financial, or any other form of, gain to ARM or Mr Allen. However, the attempted contraventions (in the case of ARM) and attempts to induce contraventions (in the case of Mr Allen) took place in an effort to improve ARM’s prospects of winning the Second RFT. The ACCC and Mr Allen submit, and I accept, that had the recipients of the First and Second Allen emails acted as requested in the First Allen email, the effect would have been to improve ARM’s prospects of earning the fees from that project.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Cooperation"
+    ],
+    "text": "Cooperation with authorities can properly reduce the penalty that would otherwise be imposed. The reduction reflects the fact that such cooperation: increases the likelihood of cooperation in future cases in a way that furthers the object of the legislation; frees up the regulator’s resources, thereby increasing the likelihood that other contraveners will be detected and brought to justice; and facilitates the course of justice.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Cooperation"
+    ],
+    "text": "At a very early stage of this proceeding, ARM approached the ACCC with a proposal to admit the contravening conduct and resolve the ACCC’s claims. ARM has admitted to attempted contraventions. ARM has expressed contrition to the ACCC in relation to the admitted conduct and considers the admitted conduct to be inconsistent with the standards of integrity with which it has otherwise conducted its architectural practice since it was established. Mr Allen has admitted to attempts to induce contraventions, and provided early cooperation to the ACCC in relation to the proceedings against him. Both have agreed to significant penalty figures being jointly put to the Court. This has saved the time and resources of both the Court and the regulator that would be required for a contested hearing. In addition, ARM has agreed to the implementation of the compliance program, and Mr Allen has agreed to an order requiring him to take all reasonable steps to cause to be published an educative notice in the form of and with the content contained in Annexure B to the Minute of Proposed Orders. The proposed penalties reflect this cooperation.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Payment over time"
+    ],
+    "text": "The parties seek orders that the respective proposed penalties be paid in instalments over time. I consider this appropriate in the circumstances.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "The ACCC and ARM, and the ACCC and Mr Allen, submit, and I agree, that the proposed penalties against ARM and Mr Allen, respectively, are appropriate in all the circumstances of this case.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "As discussed above, the admitted conduct represented one of the most serious forms of conduct prohibited by the CCA, as it constituted an attempt to remove potential competitors from bidding for an open and (at least partly) publicly-funded tender. The seriousness of the attempted contraventions (in the case of ARM) and the attempts to induce contraventions (in the case of Mr Allen) was increased by the fact that Mr Allen was part of ARM’s senior management. In the case of ARM, this seriousness was also increased by the failures of ARM’s compliance culture to prevent and address the conduct.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "Nonetheless, the parties submit, and I accept, that several other factors demonstrate that the agreed penalties ought to be sufficient to ensure specific and general deterrence in the circumstances of the case.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "First, the proposed penalties provide sufficient sting for a medium-sized business of ARM’s financial means, and for an individual in Mr Allen’s financial position. I refer to the matters discussed in paragraphs 87-88 of the Joint Submissions.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "In determining the requisite degree of specific deterrence, it should be noted that ARM and Mr Allen have agreed at an early stage of the proceedings to make full admissions in respect of the relevant attempted contraventions (in the case of ARM) and the relevant attempts to induce contraventions (in the case of Mr Allen). In addition, ARM has agreed to the implementation of the compliance program, and Mr Allen has agreed to an order requiring him to take all reasonable steps to cause to be published an educative notice. This cooperation and acknowledgment of the wrongfulness of the conduct is properly to be taken into account as a significant matter as it indicates a lower need for specific deterrence than would be the case with a recalcitrant contravener which had continued to deny, and taken no steps to address, its wrongdoing.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "Secondly, it remains important that a penalty strongly deter other potential contraveners from the kind of conduct which is the subject of this proceeding. Penalties must be of such a magnitude as to sufficiently achieve deterrence, to ensure that potential contraveners are not of the view that penalties are simply the cost of doing business.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "In relation to ARM, in circumstances where the contravention was attempted, but was discontinued before any arrangement or understanding operated to the financial benefit of the contravener, the ACCC and ARM submit, and I accept, that other potential contraveners are unlikely to view a penalty of $900,000 against a medium-sized respondent as the “cost of doing business”. Likewise, the ACCC and Mr Allen submit, and I accept, that the proposed penalty amount of $75,000 is substantial in the context of the conduct, and sends an appropriate deterrent message to other individuals in a similar position. Had ARM and Mr Allen carried out the conduct to fruition and derived an identifiable financial or other benefit, the penalty required to achieve the objective of deterrence is likely to have been significantly higher.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "Further, the penalties proposed to be imposed on ARM and Mr Allen fall to be considered in circumstances where those penalties are part of a suite of orders, which includes a compliance program in respect of ARM and an order for an educative notice in respect of Mr Allen: see Australian Competition and Consumer Commission v First Class Slate Roofing Pty Ltd [2022] FCA 1093 at [17]. The publication of that notice, in particular, can be expected to contribute materially to the aim of achieving general deterrence throughout the architecture industry, and the ACCC and Mr Allen submit, and I accept, that that is a relevant consideration bearing on the court’s assessment of the level of penalty required to achieve general deterrence in this case.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Application of principles to this case",
+     "Civil penalties",
+     "Conclusion in relation to civil penalties"
+    ],
+    "text": "Thirdly, the parties submit, and I accept, that the respective proposed penalties appropriately reflect a considered estimation by the regulator that such penalties are apt to advance the public interest in the enforcement of the regulatory regime more effectively and efficiently than the continued prosecution of the claim.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Application of principles to this case",
+     "Other orders"
+    ],
+    "text": "I also consider it appropriate to make the orders for a compliance program and an educative notice as proposed by the parties.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "I will therefore make declarations and orders as proposed by the parties in the Minutes of Proposed Orders, subject to the minor adjustments to the annexures discussed during the hearing.",
+    "judge": "MOSHINSKY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eighty-six (86) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Moshinsky.",
+ "associate": null,
+ "dated": "2023-04-18",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "af61191aa27775c5911d7eca43d6545109f4892b669ef84bbe118fb1e78bc7b9",
+ "markdown_file": "data/extracted/2023/2023FCA0351.md"
+}

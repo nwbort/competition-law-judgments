@@ -1,0 +1,1089 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2025/2025FCA1660.docx",
+ "metadata": {
+  "citation": "[2025] FCA 1660",
+  "name": "Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 4)",
+  "court": "FCA",
+  "year": 2025,
+  "number": 1660,
+  "date_of_judgment": "2025-12-22",
+  "file_numbers": [
+   "QUD19/2021"
+  ],
+  "judges": [
+   "SARAH C DERRINGTON J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2025-12-01",
+   "2025-12-02"
+  ],
+  "hearing_raw": "1-2 December 2025",
+  "number_of_paragraphs": 83,
+  "catchwords": [
+   "COSTS – lump sum costs assessment – determination of appropriate quantum of lump sum costs awards in favour of respondents – determination conducted by trial judge with assistance of Registrar"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 46",
+   "Federal Court of Australia Act 1976 (Cth) s 43",
+   "Federal Court Rules 2011 (Cth) rr 40.01, 40.02"
+  ],
+  "cases_cited": [
+   "Auspine Ltd v Australian Newsprint Mills Ltd [1999] FCA 673; 93 FCR 1",
+   "Beach Petroleum NL v Johnson (No 2) (1995) 57 FCR 119",
+   "Charlick Trading Pty Ltd v Australian National Railways Commission [2001] FCA 629",
+   "Donohoe v Britz (No 2) [1904] HCA 25; 1 CLR 662",
+   "Fewin Pty Ltd v Burke (No 3) [2017] FCA 693",
+   "Frigger v Trenfield (No 11) [2022] FCA 326",
+   "Geneva Laboratories Ltd v Prestige Premium Deals Pty Ltd (No 5) [2017] FCA 63",
+   "Hamod v New South Wales [2011] NSWCA 375",
+   "Innes v AAL Aviation Ltd (No 2) [2018] FCAFC 130",
+   "Jadwan Pty Ltd v Rae & Partners (A Firm) [2023] FCAFC 182",
+   "LFDB v MS S M (No 2) [2018] FCA 2062",
+   "Paciocco v Australia and New Zealand Banking Group Ltd (No 2) [2017] FCAFC 146; 253 FCR 403",
+   "Seven Network Ltd v News Limited [2007] FCA 2059",
+   "Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd [2024] FCA 1382",
+   "Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 2) [2025] FCA 316",
+   "Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 3) [2025] FCA 1433",
+   "Swancom Pty Ltd v The Jazz Corner Hotel Pty Ltd (No 5) [2025] FCA 505"
+  ],
+  "parties": [
+   {
+    "name": "STILLWATER PASTORAL COMPANY PTY LTD ACN 101 400 668",
+    "role": "Applicant"
+   },
+   {
+    "name": "STANWELL CORPORATION LTD ACN 078 848 674",
+    "role": "First Respondent"
+   },
+   {
+    "name": "CS ENERGY LTD ACN 078 848 745",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr D Collins KC with Ms S Cherry"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Piper Alderman"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr P Franco KC with Ms J Menzies"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "MinterEllison"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr D Roche SC with Ms C Schneider"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Herbert Smith Freehills Kramer"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1660",
+  "portal_file_numbers": [
+   "QUD19/2021"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2025-12-22"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "QUD 19 of 2021"
+  },
+  {
+   "label": "Judgment of",
+   "value": "SARAH C DERRINGTON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "22 December 2025"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – lump sum costs assessment – determination of appropriate quantum of lump sum costs awards in favour of respondents – determination conducted by trial judge with assistance of Registrar"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 46\nFederal Court of Australia Act 1976 (Cth) s 43\nFederal Court Rules 2011 (Cth) rr 40.01, 40.02"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Auspine Ltd v Australian Newsprint Mills Ltd [1999] FCA 673; 93 FCR 1\nBeach Petroleum NL v Johnson (No 2) (1995) 57 FCR 119\nCharlick Trading Pty Ltd v Australian National Railways Commission [2001] FCA 629\nDonohoe v Britz (No 2) [1904] HCA 25; 1 CLR 662\nFewin Pty Ltd v Burke (No 3) [2017] FCA 693\nFrigger v Trenfield (No 11) [2022] FCA 326\nGeneva Laboratories Ltd v Prestige Premium Deals Pty Ltd (No 5) [2017] FCA 63\nHamod v New South Wales [2011] NSWCA 375\nInnes v AAL Aviation Ltd (No 2) [2018] FCAFC 130\nJadwan Pty Ltd v Rae & Partners (A Firm) [2023] FCAFC 182\nLFDB v MS S M (No 2) [2018] FCA 2062\nPaciocco v Australia and New Zealand Banking Group Ltd (No 2) [2017] FCAFC 146; 253 FCR 403\nSeven Network Ltd v News Limited [2007] FCA 2059\nStillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd [2024] FCA 1382\nStillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 2) [2025] FCA 316\nStillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 3) [2025] FCA 1433\nSwancom Pty Ltd v The Jazz Corner Hotel Pty Ltd (No 5) [2025] FCA 505"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "83"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "1-2 December 2025"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr D Collins KC with Ms S Cherry"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Piper Alderman"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr P Franco KC with Ms J Menzies"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "MinterEllison"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr D Roche SC with Ms C Schneider"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Herbert Smith Freehills Kramer"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD19/2021",
+   "parties": [
+    {
+     "name": "STILLWATER PASTORAL COMPANY PTY LTD ACN 101 400 668",
+     "role": "Applicant"
+    },
+    {
+     "name": "STANWELL CORPORATION LTD ACN 078 848 674",
+     "role": "First Respondent"
+    },
+    {
+     "name": "CS ENERGY LTD ACN 078 848 745",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "SARAH C DERRINGTON J"
+   ],
+   "date": "2025-12-22",
+   "date_raw": "22 December 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Within 28 days of the date of these Orders, the Applicant pay the First Respondent’s costs of the proceeding fixed in the lump sum of $16,157,552.72.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Within 28 days of the date of these Orders, the Applicant pay the Second Respondent’s costs of the proceeding fixed in the lump sum of $16,245,807.31.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to r 39.34 of the Federal Court Rules 2011 (Cth), these Orders be entered forthwith.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Following judgment in the Initial Trial of this matter delivered on 4 December 2024 (Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd [2024] FCA 1382) and the delivery of reasons determining three questions relating to the costs of the Initial Trial (Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 2) [2025] FCA 316 (Stillwater (No 2))), I made orders on 7 April 2025 for the assessment of the respondents’ costs to be determined on a lump sum basis in accordance with Part 4 of the Court’s Costs Practice Note (GPN-Costs). Timetabling orders were made subsequently with the matter to be listed for hearing not before 11 November 2025.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Following an interlocutory hearing on 13 November 2025, I dismissed an application brought by Stillwater for production of Source Documents relevant to the costs assessment and listed the Costs Hearing before a Registrar of the Court and me for two days commencing on 1 December 2025 (Stillwater Pastoral Company Pty Ltd v Stanwell Corporation Ltd (No 3) [2025] FCA 1433 (Stillwater (No 3))).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "I should say something about the procedure that was adopted. In Paciocco v Australia and New Zealand Banking Group Ltd (No 2) [2017] FCAFC 146; 253 FCR 403 (Allsop CJ, Besanko and Middleton JJ) at [18], the Full Court underlined the nature of the Court’s task in the assessment of costs for a lump sum award:\n… in making a lump sum award of costs, the Court in undertaking the task of assessing costs is not precluded from undertaking a close inquiry of costs relating to a particular issue or category of costs, should the Court consider it appropriate to do so. ... The Court is able to adopt its own procedures in inquiring into costs, is able to be flexible in how it conducts that inquiry, including by the obtaining of suitable assistance whether by referee’s report or other reporting, and is able to acquire the level of detail needed to make a determination that is fair, logical and reasonable.\n(Emphasis added. Citations omitted.)",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "As I recorded in Stillwater (No 2) at [54], the parties could not agree as to whether the costs assessment should be done by the previously appointed expert who had conducted the assessment of the costs thrown away by an amendment to the statement of claim or by a Registrar. Ultimately, I accepted the submission of CS Energy that I should keep control of the assessment of costs, particularly given the complexity of the matter and my knowledge of it as the trial judge: Frigger v Trenfield (No 11) [2022] FCA 326 at [76], [80]. I sat with Registrar Buckingham as an expert assessor who was able to ask questions of the parties throughout the Costs Hearing: GPN-Costs at [4.9].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "These are the Reasons reflecting the matters addressed during the Costs Hearing. They assume familiarity with each of the three previous judgments in this proceeding, and adopt the same defined terms as used therein unless otherwise indicated.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "BACKGROUND SUMMARY"
+    ],
+    "text": "Stillwater, on behalf of a class of electricity consumers, prosecuted an Initial Trial in this matter of nine Common Questions directed primarily at determining whether certain conduct alleged to have been engaged in by Stanwell and CS Energy contravened s 46 of the Competition and Consumer Act 2010 (Cth). Judgment in the Initial Trial was delivered after seven hearing weeks and found, inter alia, that the alleged contraventions were not established. The Initial Trial occurred against a background of some 16 case management and/or interlocutory hearings between 8 March 2021 and the commencement of the trial on 3 June 2024.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "BACKGROUND SUMMARY"
+    ],
+    "text": "In Stillwater (No 2), Stillwater submitted that independent advice had been sought about the quantum of the claim, which advice indicated it could be in the vicinity of $600 million. At the Costs Hearing, it was uncontroversial that the class action had been advertised as being worth $1 billion. The matter was hard-fought from the outset. Stanwell’s disclosed documents alone exceeded 6,000. Five experts were engaged, who between them produced 13 reports together with a digital visualisation tool “NEM-vis”. As is apparent from the Costs Summaries, numerous lawyers, barristers and solicitors worked on the case for Stanwell and CS Energy. Offers of compromise were made by each of the respondents 10 days before the commencement of the Initial Trial. At that time, Stanwell estimated its costs incurred to date to be “in excess of $12M”; CS Energy estimated its costs incurred to date to be “in excess of $17,000,000”. Stanwell expected it would spend “in excess of $5M” on the Initial Trial; CS Energy’s estimate was “approximately $4 million”: Stillwater (No 2) at [23]. Stillwater’s litigation spend, as reported by the third-party litigation funder, LCM, in its “Half Year Results Presentation 2025” on 18 March 2025, deposed to in the Affidavit of Elizabeth Kaye Poulos dated 29 October 2025 (Sixteenth Poulos Affidavit) at [26], was $38 million. Stillwater vigorously disputed that figure as a relevant comparator for the assessment of the respondents’ costs, on the ground that it acknowledged that the amount of $16 million it has spent on its experts would not be recoverable on a party and party basis.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Rules pertaining to costs orders"
+    ],
+    "text": "Section 43 of the Federal Court of Australia Act 1976 (Cth) provides that the Court or a Judge has jurisdiction to award costs in all proceedings before the Court, other than proceedings in respect of which an Act provides that costs must not be awarded. Section 43(3)(d) provides that the Court or a Judge may, among other things, award a party costs in a specified sum. Pursuant to s 43(2), the award of costs is in the discretion of the Court or Judge.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Rules pertaining to costs orders"
+    ],
+    "text": "Rule 40.02(b) of the Federal Court Rules 2011 (Cth) allows the Court to order an award of costs in a lump sum, instead of, or in addition to, any taxed costs. I note, however, that unless the Court otherwise directs, no formal application for a lump sum costs order is required: GPN-Costs at [4.10]. Where an order is made that a party or person pay or be paid costs, without any further description of the costs, those costs are to be costs as between party and party: Rules r 40.01.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Costs Practice Note"
+    ],
+    "text": "As foreshadowed by the Full Court in Paciocco at [18], the Court has adopted its own procedures for the assessment of lump sum costs. Those procedures are set out in GPN-Costs. Relevantly, it outlines that the following material should be sought from the parties, being the evidence on which that determination will rely:\nMaterial in Support\n[4.10] Unless the Court otherwise directs, no formal application for a lump-sum costs order is required. However, in cases where a lump-sum costs procedure is to take place, the Costs Applicant should file an affidavit in support of the lump-sum claim (“Costs Summary”) in accordance with the timetable set by the judge. The Costs Summary should succinctly address the relevant matters set out in Part B of “Annexure A – Guide for Preparing a Costs Summary” and must also verify the matters set out in Part A of Annexure A.\n[4.11] The Costs Summary must be clear, concise and direct and not resemble a bill of costs in taxable form, nor should it contain submissions on the law. The intention of the lump-sum costs procedure is to streamline and expedite the determination or resolution of the quantum of costs question and not to replicate the taxation process.\n[4.12] Unless leave is given by the Court in advance of filing, the Costs Summary must not exceed 5 pages in length (omitting formal parts) or, in large or complex cases, no more than 10 pages. The Costs Applicant is not required to exhibit to the Costs Summary the source material verifying the costs and disbursements claimed. However, such material must be available at the costs hearing.\nMaterial in Response\n[4.13] The Costs Respondent may file an affidavit responding to the matters raised in the Costs Summary (\"Costs Response\") in accordance with the timetable set by the judge.\n[4.14] Any Costs Response must be clear, concise and direct and briefly summarise the categories of any disputes arising in respect of the Costs Summary. The summary should not resemble formal costs objections (as prepared for a taxation of costs) nor contain submissions on the law. The Costs Response should make clear which of the costs issues arising from the Costs Summary are in dispute and which are not, and should not exceed 4 pages in length (omitting formal parts) or, in large or complex cases, no more than 8 pages.\nSubmissions\n[4.15] If the parties are given leave by the Court to do so, they may file short written submissions addressing the law as to costs on relevant issues in accordance with any timetable set by the Court. Unless leave is given by the Court in advance of filing, any submissions must not exceed 3 pages in length.\n(Emphasis added.)",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "The Court is entitled to be satisfied with the verification by the solicitor for a costs applicant that the costs applicant is not claiming more than it is liable to pay for costs and disbursements: Jadwan Pty Ltd v Rae & Partners (A Firm) [2023] FCAFC 182 at [13].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "As I said in Stillwater (No 3) at [22], it is uncontroversial that the onus lies on a costs applicant to demonstrate that there is a logical, fair and reasonable basis for the costs order sought.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "At the Costs Hearing, the principles pursuant to which the Court might be persuaded that a costs applicant has discharged that onus were disputed.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "Stanwell and CS Energy pressed for what has become the orthodox approach to the quantification of costs where a lump sum costs order is made. That approach was summarised by Markovic J in LFDB v MS S M (No 2) [2018] FCA 2062 at [6]-[8], which summary I gratefully adopt:\n6 The Court’s power to order lump sum costs is discretionary and may be exercised whenever the circumstances warrant it: Su v Australian Fisheries Management Authority (No 3) [2008] FCA 2018 at [1] (Reeves J).\n7 A Full Court of this Court (Allsop CJ, Besanko and Middleton JJ) in Paciocco v ANZ (No 2) (2017) 253 FCR 403 at [16]-[17] explained the following in relation to the Court making orders for lump sum costs:\n16 On 25 October 2016 the Chief Justice issued the Central Practice Note: National Court Framework and Case Management (CPN-1) (‘Central Practice Note’) and the Costs Practice Note (GPN COSTS) (‘Costs Practice Note’). The Central Practice Note states that the determination of the quantum of costs of a successful party (in a proceeding) should not be delayed and, to this end, the Court will, where appropriate, facilitate the making of lump sum costs orders. The Costs Practice Note provides that the Court’s preference, wherever it is practicable and appropriate to do so, is to make a lump sum costs order so as to finalise costs and avoid potentially expensive and lengthy taxation hearings. It makes clear that the Court should now proceed on the basis that taxation “should be the exception” and confined to matters which are unable to be determined otherwise: Costs Practice Note at [3.3]. The guiding principles are to reduce delay and cost when quantifying costs: Costs Practice Note at [3.1].\n17 The Costs Practice Note provides for the Court to make use of sophisticated costs orders and procedures, and to take such steps as it considers necessary to ensure that it has the requisite level of detail to make a costs determination that is fair, logical and reasonable and to avoid orders that lead to potentially expensive and lengthy taxation hearings: Costs Practice Note at [3.3].\n8 In Bitek Pty Ltd v IConnect Pty Ltd (2012) 290 ALR 288; [2012] FCA 506 at [18] Kenny J said the following in relation to the determination of the appropriate quantum of a lump sum costs order:\n18 The starting point for the fixing of costs is the charges rendered by the applicant’s solicitors: Beach Petroleum at FCR 124; ALR 165 and Hamod v New South Wales [2011] NSWCA 375 at [820] per Beazley JA (with whom Giles and Whealy JJA agreed). The sum of costs fixed should also be proportionate to the nature, including the complexity, of the case: see Canvas Graphics Pty Ltd v Kodak (A’asia) Ptd Ltd [1998] FCA 23. As Beazley JA said in Hamod, at [820], citing, among others, Beach Petroleum at FCR 123; ALR 164:\n…\n(Emphasis added.)",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "The passage from Hamod referred to by Kenny J is as follows:\n[820] The costs ordered should be based on an informed assessment of the actual costs having regard to the information before the court (for example, by relying on costs estimates or bills): … The approach taken to estimate the costs to be ordered must be logical, fair and reasonable: … This may involve an impressionistic discount of the costs actually incurred or estimated, in order to take into account the contingencies that would be relevant in any formal costs assessment …\n(Emphasis added. Citations omitted.)",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "As referred to in Stillwater (No 3), these principles were reaffirmed by the Full Court in Jadwan at [15] and [19]. The Full Court reiterated that the Court does not apply a process similar to a taxation of costs. Rather, as was said by Markovic J in Fewin Pty Ltd v Burke (No 3) [2017] FCA 693 at [60], the task is “one of estimation or assessment”, but “not of arithmetic.”",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "Further, the authorities are clear that fixed costs should be proportionate to the nature (including the complexity) of the case: Innes v AAL Aviation Ltd (No 2) [2018] FCAFC 130 (Tracey, Bromberg and White JJ) at [17]. The Court is “entitled to take into account the evidence that is before it; its own observations of the proceedings and the judge’s own assessment experience”: Innes at [18], citing, with approval, Fewin at [61].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "By contrast, Stillwater contended that, in making an assessment of lump sum costs, it was nevertheless necessary to be concerned not to arrive at a sum which was markedly higher than that which would be obtained on taxation. Stillwater urged that it remained necessary to consider the scale relevant to taxation, otherwise there would be no way of testing whether or not the costs incurred were in fact fair and reasonable.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "In making this submission, Stillwater relied primarily on Sackville J’s acceptance of a submission made by Counsel that “it would be an error for a Court to use its power under r 4(2)(c) to assess a gross sum clearly higher than that which would be allowed on a taxation of costs”: Seven Network Ltd v News Limited [2007] FCA 2059 (C7) at [27]. The C7 decision was made under O 62 r 4(2)(c) of the then Federal Court Rules. It predates the amendments to the Court’s Rules in 2011. When O 62 was in force, as Sackville J observed, r 4(2)(c) was located within an Order that made detailed provision for the assessment of party and party costs. In that context, his Honour said at [27], “It would be extremely odd if the more expeditious procedure contemplated by r 4(2)(c) resulted in either a successful or an unsuccessful party being exposed to an assessment of costs which simply ignores or overrides the basic principles applicable to a taxation of costs.” Despite that observation, his Honour went on to say, at [28], that “it must be borne in mind that r 4(2)(c) establishes a procedure that applies instead of taxed costs” (emphasis in original).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "Stillwater relied further on the decision of von Doussa J in Beach Petroleum NL v Johnson (No 2) (1995) 57 FCR 119 in which his Honour referred to the “scale rate” and items that would normally not be allowed, or be reduced, on taxation.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "I was taken also to Auspine Ltd v Australian Newsprint Mills Ltd [1999] FCA 673; 93 FCR 1 where, at [12], in accepting that O 62 r 4 of the former Rules allowed a judge an exercise of discretionary power, O’Loughlin J said “it remains necessary to bear in mind certain fundamental principles, such as those contained in O 62 r 19”, which prescribed the costs charges and expenses that must be allowed by a taxing officer on taxation. Those observations were adopted by Mansfield J in Charlick Trading Pty Ltd v Australian National Railways Commission [2001] FCA 629 at [6], a case in which both parties had apparently agreed that the Court should endeavour to fix a gross sum for costs which would reflect the costs which would be allowed on a normal taxation as between party and party (at [10]).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "To the extent that these single judge decisions might be construed as being contrary to the principles relevant to the assessment of lump sum costs under Part 40 of the Rules, I do not accept that they inform the current approach. By contrast with the former Order 62, Part 40 of the Rules deals comprehensively with the taxation of costs in Div 40.2. Rule 40.02 is in Div 40.1. The rules relating to taxation of costs are disaggregated from the general costs rules and are contained in Div 40.2. Further, GPN-Costs deals comprehensively with the modern practice.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "Stillwater also relied on a recent decision of O’Bryan J in which his Honour adopted a referee’s report in which the referee had observed that, “whilst a lump sum cost assessment is not a taxation of costs, the costs to be allowed must reflect the costs likely to be allowed on a taxation”: Swancom Pty Ltd v The Jazz Corner Hotel Pty Ltd (No 5) [2025] FCA 505 at [50]. It submitted that, having adopted the report in full, his Honour must be taken to have agreed with the referee’s statement of principle. I do not accept that submission. His Honour, correctly with respect, set out the relevant principles at [32]. To the extent that his Honour might be taken to have endorsed in terms what was said by Sackville J in C7 at [25], it does not appear that there had been argument concerning the differences between O 62 and Part 40.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "Similarly, nothing said by Bromwich J in Geneva Laboratories Ltd v Prestige Premium Deals Pty Ltd (No 5) [2017] FCA 63 assists in circumstances where the principles considered by his Honour related only to whether or not it was appropriate to make a lump sum costs order rather than an order that the costs be taxed.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "RELEVANT PRINCIPLES",
+     "Legal principles"
+    ],
+    "text": "I therefore approach the lump sum assessment starting with the charges rendered by the solicitors for Stanwell and CS Energy on the basis of the information before the Court, as to which Ms Finlayson (Finlayson Costs Affidavit) and Ms Poulos (Poulos Costs Affidavit) respectively have deposed, conscious that the approach must be logical, fair and reasonable, and that the amount arrived at must be proportionate to the nature and complexity of the case. I bear in mind also that the assessment remains to be undertaken on a party and party basis. Consequently, “the luxuries of litigation must be paid for by those who indulge in them, the necessaries only are to be paid for by the losing side”: Donohoe v Britz (No 2) [1904] HCA 25; 1 CLR 662 at 666 per Barton J.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Materials filed by the parties"
+    ],
+    "text": "In accordance with my timetabling orders, Stanwell and CS Energy filed their respective Costs Summaries on 13 June 2025: Finlayson Costs Affidavit and Poulos Costs Affidavit.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Materials filed by the parties"
+    ],
+    "text": "On 15 September 2025, Stillwater filed two affidavits by costs expert, Christopher John Grisenti addressing the respondents’ Costs Summaries: the Stanwell Costs Response and the CSE Costs Response. In both, Mr Grisenti opined that, apart from agreeing that each respondent was entitled to claim input tax credits, he had “not been provided with the source material referenced” in the respective affidavits to which the Costs Summaries were annexed and so “cannot provide an independent opinion on … the quantification of the fair and reasonable costs payable pursuant to the 7 April 2025 Orders”.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Materials filed by the parties"
+    ],
+    "text": "On 25 November 2025, in accordance with my orders made following the interlocutory hearing on 13 November 2025, Stillwater filed an affidavit of Gregory John Whyte sworn on the same date (Ninth Whyte Affidavit). The following day, it filed a further affidavit of Mr Whyte (Tenth Whyte Affidavit). As anticipated, the Ninth Whyte Affidavit serves as a substantive response to the respective Costs Summaries, made by the Partner of Piper Alderman with carriage of this Proceeding for Stillwater, and identified the categories of costs with which Stillwater takes issue. Relevantly, Mr Whyte states that:\n35. I understand that a Costs Response filed pursuant to GPN-COSTS must identify the categories of costs in dispute. As a result of these flawed methodologies, all items of costs claimed by each of Stanwell and CSE are currently in dispute. The proposed processes are not logical, and the final proposed outcomes do not reflect an approximation of what might be allowed if the costs were taxed.\n36. In each case, based on information provided to me by Mr Grisenti, I believe that certain costs categories are particularly susceptible to significant discount, influenced by a range of different factors, and these are set out in the next section.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Materials filed by the parties"
+    ],
+    "text": "It will be necessary to revisit in some detail the matters which Mr Whyte sets out at [37]-[65] (in respect of Stanwell) and [66]-[89] (in respect of CS Energy) of the Ninth Whyte Affidavit.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Materials filed by the parties"
+    ],
+    "text": "The Tenth Whyte Affidavit provides further details as to Stillwater’s litigation spend of $38 million, as publicly announced by its litigation funder, LCM, explains the sub-categories of costs incurred (at [5]), and draws comparisons between those costs and the costs incurred by the respondents (at [22]-[28]).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs"
+    ],
+    "text": "Stanwell relies on the Finlayson Costs Affidavit. Despite Stillwater’s complaints, that affidavit complies with the requirements of Annexure A to GPN-Costs. It deposes to:\n(1) The verification required by Part A of Annexure A that:\n(a) Stanwell is entitled to claim input tax credits in respect of any GST relevant to the claims in the Costs Summary and has complied with Part 6 of GPN-Costs (Finlayson Costs Affidavit at [9(b)]);\n(b) in the Stanwell Costs Summary:\n(i) Stanwell is not claiming more than it is liable to pay for professional fees and disbursements in relation to the Proceeding;\n(ii) the calculations are correct;\n(iii) the matters included are a fair and accurate summary of the costs and disbursements that Stanwell is entitled to claim (Finlayson Costs Affidavit at [9(c)]); and\n(c) the amount claimed by Stanwell is capable of further verification through source material, should such material be required by the Court to be produced (Finlayson Costs Affidavit at [9(c)]).\n(2) The information required by Part B of Annexure A, insofar as it is relevant, being:\n(a) the Stanwell Costs Summary was prepared with the assistance of Ms Kerrie Rosati, an expert as to costs (Finlayson Costs Affidavit at [9(d)]);\n(b) the amount of the lump sum sought, being $17,373,453.14, exclusive of GST (Finlayson Costs Affidavit at [11]);\n(c) how the lump sum has been calculated, including any universal discounts that have been applied (Finlayson Costs Affidavit at [11]);\n(d) a summary of the categories of work, including an estimate in percentage terms of the proportion that each category of work constitutes of the total costs claimed (Finlayson Costs Affidavit, Annexure KEF-88 at [17]);\n(e) in relation to each person who performed the work, a summary of their hourly rate, total hours worked and an estimate, in percentage terms, of the proportion of the total sum claimed attributable to that person (Finlayson Costs Affidavit, Annexure KEF-88 at Appendix A); and\n(f) a summary of the disbursements incurred, including fees charged by Counsel (Finlayson Costs Affidavit at [11]).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stanwell claims $7,319,626.51 for professional fees incurred from 18 June 2020 up to 21 May 2025. It arrives at this sum in the following manner:\nCategory | Amount incurred | Adjustments\n1. | Professional fees incurred | $9,384,373.89\nLESS\n2. | Professional fees excluded by costs orders | -$223,819.50\n3. | Professional fees for CALF proceedings recorded to matter | -$29,997.55\n4. | Reduction for rates exceeding Schedule 3 | -$37,853.10\nSubtotal | $9,092,703.74\n5. | LESS 30% reduction for fairness and reasonableness (as per costs consultant’s opinion) | -$2,727,811.12\nSubtotal | $6,364,892.62\n6. | PLUS 15% allowance for skill care and responsibility | $954,733.89\nTotal incurred costs claimed | $7,319,626.51",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stillwater observed that Stanwell’s claim for professional fees represents 80.5% of its total professional fees incurred. It submits, based on the opinion of Mr Grisenti, that typically the professional costs claimed in a bill in taxable form are between 40%-70% of the professional costs actually incurred, “with a large matter of this nature typically being towards the lower end of the range”. The submission is not particularly helpful in circumstances where a bill in taxable form is not a relevant comparator. I observe, however, that Ms Rosati’s opinion was that recovery of 70% of fees actually incurred was fair and reasonable.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stillwater did not challenge the hourly rates charged by MinterEllison. Stillwater submits, however, that:\n• no allowance has been made for items that are typically of a solicitor/client nature;\n• having regard to the fact that a total of 78 fee earners worked on the matter, but that there were only eight “core fee earners” who together were responsible for 69.67% of the total fees charged (Finlayson Costs Affidavit, Annexure KEF-88 at Appendix A), insufficient allowance has been made for duplication;\n• no allowance has been made for items that under the scale are not allowed at hourly rates;\n• the 15% uplift sought pursuant to Item 11 of the scale for skill, care and responsibility is inappropriate.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stillwater also made specific criticisms of categories of professional costs incurred by Stanwell. These included pre-commencement costs, emails/correspondence to and from and attendance on Counsel, correspondence and attendance on the State, pleadings, discovery, lay witness evidence and preparation, preparation for and attendance at trial, research, expert evidence and conclaves.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "There is some merit to the submission that correspondence and attendance on the State was, in part, a matter of servicing the client beyond the immediate issues of the litigation. There is also merit in the submission that there will have been duplication of work as between Counsel and solicitors in relation to pleadings, lay witness evidence, and research in particular.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "As to the claimed 15% uplift, it is one made by both Stanwell and CS Energy. It is somewhat incongruous for Stanwell and CS Energy to contend, on the one hand, that lump sum assessments and taxations do not mirror one another whilst, on the other hand, arguing for the beneficial application of one scale item. I agree with Stillwater’s contention that, in a case such as this and where a lump sum assessment is being undertaken, it would be contrary to the “broad brush” approach directed by the Practice Note and the authorities to have resort to the scale in the manner contended for by Stanwell and CS Energy.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "In the case of Stanwell, I also take account of the very large number of practitioners who were engaged on the matter, who together charged for 21,112 hours of work. In addition to the work of junior lawyers, non-legal consultants and paralegals, Partners charged for 3,729 hours; Special Counsel for 540.5; Legal Consultants for 89.5; and Senior Associates for 8,806. It is difficult to contemplate how this level of servicing could not have included an allowance (a generous one at that) for “skill, care and responsibility”. Much like von Doussa J in Beach Petroleum (at 124), I too had the impression throughout the trial that all parties had endeavoured “to leave no stone unturned” in the preparation of their respective cases. That is something of which I take account in arriving at an overall sum for professional fees. Conversely, I take into account that the largest proportion of professional fees, 16.66%, was incurred during trial preparation and attendance at trial. The trial was run on what could best be described as “an intensive basis,” with extended sitting hours almost daily in order to ensure that the international experts’ evidence could be adequately heard within the allocated trial dates.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Eschewing a line by line, or category by category, analysis of the professional fees incurred, it is my view that, adopting a broad-brush approach, an additional 10% discount to Stanwell’s incurred professional fees should be applied. Applying a 40% reduction to $9,092,703.74 yields $5,455,622.25.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stanwell also claims the professional fees incurred during the lump sum process in the amount of $81,568.88, having applied a 30% reduction to actual fees ($101,327.80) and adding 15% for skill care and responsibility. Given the nature of the lump sum process and the relatively modest amount charged, I make no adjustment to that sum beyond disallowing the uplift for the reasons I have already set out. This is particularly in circumstances where a one-day hearing was anticipated but the hearing took one and a half days.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": null,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Counsels’ fees",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stanwell claims disbursements on account of Counsels’ fees as follows:\nDisbursements | Amount incurred | Adjustments\nCounsels’ fees | $6,768,805.09\nLESS\nCounsels’ fees excluded by interlocutory costs orders | -$132,072.50\nCounsels’ fees incurred but not claimed | -$192,472.50\nSubtotal | $6,444,260.09\nLESS 15% reduction for fairness and reasonableness | -$966,639.01\nTOTAL | $5,477,621.08",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stillwater criticises the amount claimed for Counsels’ fees, again on a number of bases. First, it complains that no detail is provided as to why Mr Sheahan KC was engaged at the early stage of proceedings and what work was done by him. Ms Finlayson deposes to his having provided strategic and specialist competition advice at various stages of the Proceeding: Finlayson Costs Affidavit at [21]. There is no reason to doubt that evidence.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Secondly, Stillwater relies on Mr Grisenti’s opinion that the likely range to be allowed for Senior Counsel is between $9,000-$13,000 per day, and $900-$1,300 per hour, based on the National Guide to Counsel’s Fees – a document which has not been updated since 2013. Mr Grisenti was apparently unaware of the acceptance by this Court of Mr Gleeson SC’s hourly rate of $2,500 in the costs assessment of the related proceeding QUD201/2021 in 2023: Finlayson Costs Affidavit at [29].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Thirdly, Stillwater complained that three Senior Counsel had settled the Defence and the Amended Defence. That was true as concerned the Defence but not the Amended Defence. Both documents exceeded 100 pages.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Fourthly, there was a complaint that the total number of hours worked by Counsel was not detailed. What was provided was the range of hourly rates of each barrister over the period and the total amount charged by each: Stanwell Costs Summary at [27]. A fair estimate of hours worked could be made from that information if desired. The percentage share of total Counsel fees charged by each was also specified.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "The final complaint was that no detail was provided as to the number of members of the Stanwell Counsel team who attended each day of the trial or participated in various conferences. From my own observation as the trial judge, it was apparent that the Counsel team was divided into two sub-teams who each dealt with different aspects of the case. It was usual for only one sub-team to be in Court at any one time.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Given the 15% discount applied to Counsels’ fees by Stanwell, and observing that Mr Grisenti agreed that Counsels’ fees are usually discounted by between 10%-20%, I do not see any logical basis to disturb the claim for Counsels’ fees. In my view, Counsels’ fees were fair and reasonable having regard to the size of the claim and the complexity of the matters before the Court.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "As to Counsels’ fees for the lump sum process, I make no reduction to the anticipated fees of $58,800 in circumstances where the length of the process exceeded that which was anticipated.\nExperts’ fees",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stanwell claims its experts’ fees in full in the amount of $4,814,345.55 comprised of:\nExpert/Consultant | Amount (ex GST)\nSynergies Economic Consultants (Euan Morton and Team) | $2,421,454.75\nErnst & Young (Dr Rose and Team) | $2,212,190.80\nDGT Costs Lawyers (Ms Rosati and Team) | $28,000.00\nEndgame Economics (Oliver Nunn and Team) | $152,700.00\nTOTAL | $4,814,345.55",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stillwater contends that there is simply not enough information concerning the number of hours charged for particular tasks by the experts to assess the reasonableness of the fees. As I noted in Stillwater at [19], Mr Morton is a highly-credentialled economist and Principal at Synergies Economic Consultants. He provided two individual Reports, participated in the Economic Conclave and contributed to the Joint Economic Experts’ Report. He gave evidence over six sitting days in the Economic Conclave.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Dr Rose is similarly well-credentialled but in electrical engineering: Stillwater at [29]. He provided three individual reports, participated in the Electricity Market Conclave and contributed to the Joint Electricity Market Experts’ Report. He gave evidence over 14 sitting days in the Electricity Market Conclave.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Even accepting Stillwater’s submission that it accepts it would not be able to recover the full $16 million spent on its own experts, the amount claimed by Stanwell for its experts is relatively modest. I cannot see any basis to discount it, particularly in circumstances where I have read all the reports and heard the evidence of Mr Morton and Dr Rose and was assisted by that evidence.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "I do not doubt that Mr Nunn provided “economic and quantitative advice” in April, May and June 2024, but there is no further information provided as to the purpose of that advice, nor was it in evidence before me. I cannot be satisfied as to whether it is fair and reasonable for those costs to be borne by the losing party, albeit I accept that there may be circumstances in which the costs of expert evidence provided but not adduced in Court might be recoverable: C7 at [83].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Ms Rosati’s fees were incurred in relation to the security for costs application in mid-2021: Finlayson Costs Affidavit, Annexure KEF-88 at [41].",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "In all the circumstances, it is appropriate to reduce the amount claimed for experts’ fees by $152,700. The total attributable to experts’ fees therefore is $4,661,645.55.\nGeneral disbursements",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "General disbursements have been claimed in the sum of $358,934.38, although actual disbursements incurred were $376,349.57.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "The only item directly challenged by Stillwater is the fee charged by the former CEO of Stanwell. That fee is explained in the Finlayson Costs Affidavit, Annexure KEF-88 at [45]. I am satisfied that the fee is fair and reasonable.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "I am satisfied on the material that Ms Rosati’s estimated fee of $74,000 with respect to the lump sum process is fair and reasonable.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Stanwell’s costs",
+     "Overall assessment of Stanwell’s costs"
+    ],
+    "text": "For these reasons, I assess Stanwell’s recoverable costs on a lump sum basis as $16,157,552.72 comprised of:\nMinterEllison Professional Fees (costs assessment period) $5,455,622.25\nMinterEllison Professional Fees (lump sum process) $70,929.46\nCounsels’ Fees (costs assessment period) $5,477,621.08\nCounsels’ Fees (lump sum process) $58,800.00\nExperts’ Fees $4,661,645.55\nGeneral Disbursements (costs assessment period) $358,934.38\nGeneral Disbursements (lump sum process) $74,000.00\nTotal $16,157,552.72",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy"
+    ],
+    "text": "For the purpose of its costs claim, CS Energy relies on the Poulos Costs Affidavit.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy"
+    ],
+    "text": "Once again, despite Stillwater’s complaints, that affidavit complies with the requirements of Annexure A to GPN-Costs. It deposes to:\n(1) The verification required by Part A of Annexure A that:\n(a) CS Energy is entitled to claim input tax credits in respect of any GST relevant to the claims in the Costs Summary and has complied with Part 6 of GPN-Costs (Poulos Costs Affidavit at [9]);\n(b) in the CSE Costs Summary:\n(i) CS Energy is not claiming more than it is liable to pay for costs and disbursements;\n(ii) the calculations are correct;\n(iii) the matters included are a fair and accurate summary of the costs and disbursements that CS Energy is entitled to claim (Poulos Costs Affidavit at [10]); and\n(c) the amount claimed by CS Energy is capable of further verification through source material, should such material be required by the Court to be produced (Poulos Costs Affidavit at [12]).\n(2) The information required by Part B of Annexure A, insofar as it is relevant, being:\n(a) the CSE Costs Summary was prepared with the assistance of Ms Roslyn Walker, an expert as to costs (Poulos Costs Affidavit at [13]);\n(b) the amount of the lump sum sought, being $19,152,290.25, exclusive of GST (Poulos Costs Affidavit at [31]);\n(c) how the lump sum has been calculated, including any universal discounts that have been applied (Poulos Costs Affidavit at [33], [37]-[38]);\n(d) a summary of the categories of work, including an estimate in percentage terms of the proportion that each category of work constitutes of the total costs claimed (Poulos Costs Affidavit at [84], [93]; Annexure EKP16, Table 8);\n(e) in relation to each person who performed the work, a summary of their hourly rate, total hours worked and an estimate, in percentage terms, of the proportion of the total sum claimed attributable to that person (Poulos Costs Affidavit, Annexure EKP16, Tables 5-6, 9-12, 18-20); and\n(f) a summary of the disbursements incurred, including fees charged by Counsel (Poulos Costs Affidavit at [37]-[38], [59], [68], [75]; Annexure EKP16, Tables 13-19, 21).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "CS Energy claims professional fees of $8,021,892.92 incurred from 20 January 2021 to 4 December 2024 and $185,175.75 referable to the lump sum process from 7 April 2025 to 2 December 2025. It arrives at this sum in the following manner:\nCosts claim period\n(A) Total amount incurred | (B) Miscellaneous excluded amount | (C) RevTech Application excluded amount | (D) s 33K Application excluded amount | (E) Matters Reference excluded amount | (F) CALF Proceeding excluded amount | (G) Mediator fees excluded amount | (H) Amount included in CSE’s Costs Thrown Away | (I) Adjusted costs incurred (unscaled) (A-(B+C+D+E+F+G+H)) | (J) Adjusted costs incurred (scaled)\n$12,824,906 .14 | $320.00 | $41,272.35 | $46,267.10 | $152,199.94 | $78,827.95 | $0.00 | $2,998,662.31 | $9,507,356 .49 | $9,300,745 .41\nLESS DISCOUNT 25% | $6,975,559 .06\nPLUS 15% UPLIFT | $1,046,333 .86\n$8,021,892 .92\nLump sum process\nActual costs | Anticipated costs | Total costs | Discount applied | Costs claimed\n$100,551.00 | $146,350.00 | $246,901.00 | 25% | $185,175.75",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Stillwater raised the same general complaints with respect to CS Energy’s claim for incurred fees as it did with respect to Stanwell’s. Similarly, it accepted that the hourly rates at which the claim is made require no further adjustment. In addition, Stillwater complains that CS Energy does not appear to have made any adjustment to take account of the fact that professional fees for preparing documents and reading short correspondence is not allowed at hourly rates under the scale.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "CS Energy has applied a 25% discount to its professional fees and then, as did Stanwell, applied a 15% uplift for skill, care and responsibility. The observations I have made above about the inappropriateness of that uplift in a matter such as this apply equally to CS Energy. Further, as was the case with Stanwell, I take account of the number of practitioners who were engaged on the matter for CS Energy. There were 36 members of the legal team, of which 11 formed the “core team” and were responsible for 87.13% of the total fees charged. The Digital Team comprised 29 members, who together were responsible for 5.63% of the fees charged.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "The lump sum process was serviced, as would be expected, by a much smaller team of five lawyers.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Similarly to Stanwell, CS Energy incurred the greatest proportion of fees during the trial period (23.50%). I reiterate my earlier observations about the manner in which the trial was conducted. Stillwater was, however, particularly critical of the proportion of fees incurred in relation to discovery (16.90%/$1,571,849.17) in addition to the $285,371.72 (3.07%) incurred on account of “Digital Legal Delivery”. The work done by the solicitors alone in relation to discovery exceeded that done by Stanwell’s solicitors by almost 7,000 hours. Stillwater submitted that I should infer that the amount incurred for discovery was unreasonable given that of the 370,000 documents produced by CS Energy, only 202 ended up in the tendered bundles. It was the case, however, that from at least 19 December 2022, Stillwater was continuing to press for further discovery, particularly after it changed the trading intervals on which it had originally sought to rely. Four significant case management hearings were held between then and the commencement of trial at which discovery was one of the major issues. Which documents ultimately ended up (or not) in the tendered bundles was, to some extent at least, occasioned by the forensic decisions Stillwater took in the presentation of its case. Nevertheless, I take into account the inevitability that there has been overlap between the Digital Team and the solicitors and that a certain proportion of the documents, as identified by Stillwater, was irrelevant.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "Another significant proportion of the total fees incurred was that in respect of lay evidence – 12.82%. As was well known, CS Energy did not call any lay witnesses. Nevertheless, CS Energy did rely on affidavits deposing to the reasons for the unavailability of potential lay witnesses, which included the death of one and a serious illness on the part of another. Clearly work was required to be done relating to lay evidence; 2,675 hours’ worth is difficult to understand. It is 1,000 hours more than was undertaken by Stanwell.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Professional fees"
+    ],
+    "text": "I make no criticism of the solicitors giving their client the level of service that a billion-dollar case demands. Nonetheless, I have formed the impression that the service provided during the costs claim period exceeded what is usually described as “Rolls-Royce” treatment. An example is the 65 hours incurred for “work undertaken to prepare for and attend judgment delivery”. For that reason, and applying a broad-brush approach, an additional 20% discount to CS Energy’s incurred professional fees for that period is warranted. I do not consider it is appropriate to apply any additional discount to the fees incurred during the lump sum process. Consequently, applying a 45% discount to $9,300,745.41 yields $5,115,409.98, to which is added $185,175.75 in respect of the lump sum process, making a total sum of $5,300,585.73.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": null,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Counsels’ fees",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "CS Energy claims disbursements on account of Counsels’ fees as follows:\nCosts claim period\n(A) Total amount incurred | (B) Miscellaneous excluded amount | (C) RevTech Application excluded amount | (D) s 33K Application excluded amount | (E) Matters Reference excluded amount | (F) CALF Proceeding excluded amount | (G) Mediator fees excluded amount | (H) Amount included in CSE’s Costs Thrown Away | (I) Adjusted costs incurred (unscaled) (A-(B+C+D+E+F+G+H)) | (J) Adjusted costs incurred (scaled)\n$4,602,287.58 | $0.00 | $12,965.00 | $4,650.42 | $36,735.00 | $24,064.16 | $0.00 | $369,960.46 | $4,153,912.54 | $4,153,912.54\nLESS DISCOUNT 10% | $3,738,521.29\n$3,738,521.29\nLump sum process\nActual costs | Anticipated costs | Total costs | Discount applied | Costs claimed\n$0.00 | $65,400.00 | $65,400.00 | 0% | $65,400.00",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Ms Poulos’ affidavit explains (at [87]) that the 10% discount was applied to take account of the possibility that the Court would apply a discount to Mr Hutley SC’s fees and otherwise to Counsels’ fees more broadly. Mr Hutley undertook only 1.5% of the total work attributed to Counsel in the matter. Stillwater makes the same complaints about Senior Counsels’ fees as it did in relation to Senior Counsel engaged by Stanwell. For the same reasons I have given in relation to Counsels’ fees incurred by Stanwell, I do not see any reason to interfere with the overall discount of 10% already applied by CS Energy to the fees incurred during the costs claim period. As was the case with Stanwell’s team of Counsel, I consider Counsels’ fees to be fair and reasonable having regard to the size of the claim and the complexity of the matter.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "No discount is warranted with respect to Counsels’ fees for the lump sum process.\nExperts’ fees",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "CS Energy claims its experts’ fees as follows:\n(A)\nExpert | (B)\nExpert fees incurred in the Costs Claim Period prior to exclusions | (C) Amount of CSE’s Costs Thrown Away | (D) Amount of other excluded fees | (E)\nAmount claimed (before discounts)\n(B - (C + D)) | (F)\nAmount claimed (before discounts) as % of total expert fees claimed (before discounts)\nFrontier Economics | $3,486,786.36 | $580,299.86 | $0.00 | $2,906,486.50 | 46%\nAlixPartners | $3,412,207.42 | $0.00 | $0.00 | $3,412,207.42 | 54%\nSubtotal | $6,898,993.78 | $580,299.86 | $0.00 | $6,318,693.92 | 100%\nLESS DISCOUNT 5% | $6,002,759.22",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Mr Holt is a Partner of AlixPartners UK LLP who is a well-credentialled competition economist with extensive experience: Stillwater at [21]. He provided one report, participated in the Economic Conclave and contributed to the Joint Economic Experts’ Report. He gave evidence over six sitting days.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Mr Price has had 30 years’ experience in Australian energy reform design and implementation and is intimately acquainted with the NEM: Stillwater at [31]. He provided three individual reports, participated in the Electricity Market Conclave and contributed to the Joint Electricity Market Experts’ Report. He gave evidence over 14 sitting days. Moreover, it was his team that was responsible for the development of the visualisation tool used throughout the trial (NEM-vis).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stillwater accepts generally that a 5% discount may be reasonable. Its main criticism is as to Mr Holt’s fees of between $529.51-$1,530.76 per hour as compared with Mr Price’s rates of $250-$880 per hour. Stillwater submitted that it was “not clear why CS Energy elected to engage an overseas expert”. The latter submission is risible given that Stillwater’s expert was based in the US and gave evidence both as an expert on the Australian electricity market and as an economist. As to the variation in rates, the mean is not materially different. In any event, I take judicial notice of the exchange rate as between the AUD and the GBP and that when converted to GBP, it could not seriously be argued that Mr Holt’s rates were excessive.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "I do not consider any further discount to CS Energy’s experts’ fees to be warranted.\nGeneral disbursements",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "CS Energy claims $1,092,166.07 for other disbursements, having applied a discount of about 5% from the total incurred of $1,146,857.80.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "It also claims $21,375 for disbursements incurred in the lump sum process, having applied a similar 5% discount to the actual costs incurred ($22,500).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "Stillwater complains about the claim for $788,219.25 (after a 5% discount) for “discovery related disbursements”. Ms Poulos explains the basis for those disbursements: Poulos Costs Affidavit at [79]. I have no reason to doubt that evidence. Similarly, Ms Poulos has explained each category of disbursement claimed: Poulos Costs Affidavit, Part G.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "CS Energy also claims $25,000 being the fees charged by Ms Walker in relation to the lump sum process. There is no reason to reduce that claim. Nor is there any reason to doubt the anticipated disbursements of $21,375 (after applying the 5% discount).",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "What quantum should be awarded?",
+     "Disbursements"
+    ],
+    "text": "No basis is established for a further discount to be applied to the general disbursements.",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "ASSESSMENT OF COSTS",
+     "Costs of CS Energy",
+     "Overall assessment of CS Energy’s costs"
+    ],
+    "text": "For these reasons, I assess CS Energy’s recoverable costs on a lump sum basis as $16,245,807.31 comprised of:\nHSF Professional Fees (costs assessment period) $5,115,409.98\nHSF Professional Fees (lump sum process) $185,175.75\nCounsels’ Fees (costs assessment period) $3,738,521.29\nCounsels’ Fees (lump sum process) $65,400.00\nExperts’ Fees $6,002,759.22\nGeneral Disbursements (costs assessment period) $1,092,166.07\nGeneral Disbursements (lump sum process) $21,375.00\nConsultant Fees (lump sum process) $25,000.00\nTotal $16,245,807.31",
+    "judge": "SARAH C DERRINGTON J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "DISPOSITION"
+    ],
+    "text": "Having completed a lump sum costs assessment in respect of each respondent’s costs claims, the Court finds that the lump sum amounts payable by Stillwater are as follows:\n(1) to Stanwell fixed in the sum of $16,157,552.72; and\n(2) to CS Energy fixed in the sum of $16,245,807.31.",
+    "judge": "SARAH C DERRINGTON J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eighty-three (83) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Sarah C Derrington.",
+ "associate": null,
+ "dated": "2025-12-22",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c49cf5e44a85e8d6d7ef4a5c8d7e15222a1082e1f5472c2edfa3023360ef7395",
+ "markdown_file": "data/extracted/2025/2025FCA1660.md"
+}

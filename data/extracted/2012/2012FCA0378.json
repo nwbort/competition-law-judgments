@@ -1,0 +1,259 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA0378.docx",
+ "metadata": {
+  "citation": "[2012] FCA 378",
+  "name": "Prescott Securities Limited v Middleton",
+  "court": "FCA",
+  "year": 2012,
+  "number": 378,
+  "date_of_judgment": "2012-04-05",
+  "file_numbers": [
+   "SAD70/2012"
+  ],
+  "judges": [
+   "MANSFIELD J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "No catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2012-04-05"
+  ],
+  "hearing_raw": "5 April 2012",
+  "last_submissions": "2012-04-05",
+  "number_of_paragraphs": 12,
+  "parties": [
+   {
+    "name": "PRESCOTT SECURITIES LIMITED",
+    "role": "Prospective Applicant"
+   },
+   {
+    "name": "DAVID MIDDLETON",
+    "role": "First Prospective Respondent"
+   },
+   {
+    "name": "PHILIP MIDDLETON",
+    "role": "Second Prospective Respondent"
+   },
+   {
+    "name": "MIDDLETON SECURITIES PTY LTD (ACN 149 807 474)",
+    "role": "Third Prospective Respondent"
+   }
+  ],
+  "parties_summary": "PRESCOTT SECURITIES LIMITED v DAVID MIDDLETON, PHILIP MIDDLETON AND MIDDLETON SECURITIES PTY LTD (ABN 12 096 919 603)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms N. Charlesworth and Mr Tamvakologos"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Ashurst Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr M Livesey QC and Ms H Doyle"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Iles Selley"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0378",
+  "portal_file_numbers": [
+   "SAD70/2012"
+  ],
+  "portal_event": "Directions",
+  "portal_event_date": "2012-04-05"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Prescott Securities Limited v Middleton [2012] FCA 378"
+  },
+  {
+   "label": "Parties",
+   "value": "PRESCOTT SECURITIES LIMITED v DAVID MIDDLETON, PHILIP MIDDLETON AND MIDDLETON SECURITIES PTY LTD (ABN 12 096 919 603)"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 70 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "MANSFIELD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "5 April 2012"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "5 April 2012"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "5 April 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "No catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "12"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms N. Charlesworth and Mr Tamvakologos"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Ashurst Australia"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr M Livesey QC and Ms H Doyle"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Iles Selley"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD70/2012",
+   "parties": [
+    {
+     "name": "PRESCOTT SECURITIES LIMITED",
+     "role": "Prospective Applicant"
+    },
+    {
+     "name": "DAVID MIDDLETON",
+     "role": "First Prospective Respondent"
+    },
+    {
+     "name": "PHILIP MIDDLETON",
+     "role": "Second Prospective Respondent"
+    },
+    {
+     "name": "MIDDLETON SECURITIES PTY LTD (ACN 149 807 474)",
+     "role": "Third Prospective Respondent"
+    }
+   ],
+   "judges": [
+    "MANSFIELD J"
+   ],
+   "date": "2012-04-05",
+   "date_raw": "5 APRIL 2012",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The oral application for discharge of the interim injunction made yesterday is refused.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The matter be stood over to 9.30 am on Wednesday 11 April 2012 for hearing of the interlocutory application.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Yesterday afternoon, I heard at 4 pm an application for an urgent interim injunction in this matter. After hearing counsel I made that order and directed service of the orders made and the associated material upon the respondents. Naturally the injunctive order made was on the basis of the usual undertaking as to damages. I indicated that an application for interlocutory relief could be heard promptly, and it is now agreed between the parties that a convenient date to do so is 9.30 am on Wednesday 11 April 2012. I will list the interlocutory application for hearing at that time."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "I also listed the matter for mention or for directions at 9.45 am this morning simply because I was conscious of the fact that it was an ex parte interim injunction, and that the prospective respondents should have an opportunity to make an earlier application to the Court if they wished, and were so advised, or to bring to the Court other matters which they considered appropriate in relation to the interim order. There may have been some urgency about whether an interlocutory order should have been made which I did not apprehend and which would have warranted different directions in relation to the hearing of the interlocutory injunction application."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "This morning, senior counsel for the prospective respondents – to whom I mean no discourtesy in describing them as the Middletons - appeared and sought an order that the interim order should be discharged in any event pending the hearing of the interlocutory application on 11 April 2012. He did so on two grounds. The first is that there was nondisclosure of material which ought to have been disclosed to the Court at the time the interim application was made, and secondly, on the ground that there were no sufficient grounds of urgency disclosed in the material before the Court to have warranted the making of the interim order."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "I should first record the material which was presented to the Court at the time of the interim order. It was the affidavit of Andrew Paul Sterzl of 4 April 2012 and the accompanying exhibits. I was also handed up a detailed outline of submissions, an exchange of email communications between solicitors for the applicant or prospective applicant and the Middletons of 3 April 2012, and a copy of the letter from Iles Selley Lawyers, solicitors for the Middletons of 4 April 2012. The submissions today by senior counsel for the Middletons have referred to some of that material, and in addition have sought to rely upon an affidavit of Nicholas Iles sworn today, and which is to be filed in the Court. I will return the original copy of that affidavit at the completion of today’s hearing for the purposes of that being filed."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "As to the question of adequate disclosure, the relevant principle is well known and I will not repeat it. Counsel has made two submissions about what had not been adequately disclosed. The first was under the employment agreement which is exhibit 12 to Mr Sterzl’s affidavit, namely that clause 5.1C provides for commission to be paid to the Middletons in certain terms or in certain circumstances which it is said was sought to be avoided or was in fact avoided by the way in which the termination of their employment with the prospective applicant came to pass. The letter from Iles Selley of 4 April 2012 makes that point."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "I did not provide detailed reasons for the making of the interim order yesterday afternoon, but I note that that letter was handed up to indicate the most recent correspondence between the solicitors asserting the position of the Middletons and which relevantly includes the assertion of a breach of the employment agreements and are challenged to the enforceability of any restrain provisions. It then reads:\nIn opening the doors to Middleton Securities Proprietary Limited they were doing no more than mitigating the losses which flow to them from the breach by your client and the employment agreements and, in particular, the obvious attempt to avoid the payment of our clients justly deserved “retirement benefits” pursuant to clause 5.1C."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "That letter then continued to require that it be presented to the Court in the event of any ex parte application, as was done. In my view the matter which has been raised was signalled by that letter and was properly disclosed by counsel for the prospective applicant."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "A second matter arises from the employment confidentiality and non-competition deed, which is exhibit 13 to Mr Sterzl’s affidavit. There was no focus on that document, at least in my mind, in the hearing yesterday. It is said that clause 5.5 of that agreement indicates that the dispute is really about money, and that the basis upon which a breach of the restraint clause would be accommodated could be a repayment of an amount calculated in accordance with clause 5.5. The issue as to the adequacy of damages was a matter addressed in the submissions, and in the affidavit of Mr Sterzl. I do not regard that clause of that agreement as indicating that in all circumstances money, whether calculated in accordance with clause 5.5 or in any other way, would necessarily be an adequate response to a breach of the confidentiality agreement if there has been one. It is one way in which damages for breach of that alleged confidentiality agreement might be assessed. It does not follow that the prospective applicant if it makes out its case (and there has only been a provisional ruling on that on the limited material presently available) would not be entitled to the injunctive relief sought. There are reasons in the affidavit disclosed why it may be appropriate to grant injunctive relief in any event."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "On the second question, that is, the sufficiency of the grounds of urgency, that was a matter for the Court to consider on the hearing. I appreciated that the order will operate only for a few days and principally over the Easter break. I appreciated that most people will not be working over the Easter break and that even if either Prescott Securities or the Middletons wanted to do so they might have trouble contacting their clients or former clients to achieve that objective. Nevertheless, I was satisfied yesterday, as I am today, that the matter was sufficiently urgent to preclude, at least, for a few days the form of communications by the Middletons which the evidence suggested had been taking place."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "For those reasons, in my view, the two matters brought to my attention today do not warrant discharge of the interim order, or do not indicate that there is, had those matters been more fully expanded upon yesterday, a possibility of a different outcome in the orders which I made yesterday."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The oral application for discharge of the interim injunction made yesterday is refused."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The second order that the matter be stood over to 9.30 am on Wednesday 11 April 2012 for hearing of the interlocutory application."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twelve (12) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Mansfield.",
+ "associate": null,
+ "dated": "2012-04-13",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "be643ab32ccf11312432a9f4ced1128f7e44e381811a64004ba9fefb0e73e33d",
+ "markdown_file": "data/extracted/2012/2012FCA0378.md"
+}

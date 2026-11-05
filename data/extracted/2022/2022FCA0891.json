@@ -1,0 +1,2066 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2022/2022FCA0891.docx",
+ "metadata": {
+  "citation": "[2022] FCA 891",
+  "name": "SPEL Environmental Pty Ltd v IES Stormwater Pty Ltd",
+  "court": "FCA",
+  "year": 2022,
+  "number": 891,
+  "date_of_judgment": "2022-08-01",
+  "file_numbers": [
+   "QUD179/2021"
+  ],
+  "judges": [
+   "DOWNES J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_dates": [
+   "2022-04-20",
+   "2022-04-21",
+   "2022-04-22"
+  ],
+  "hearing_raw": "20–22 April 2022",
+  "last_submissions": "2022-05-09",
+  "number_of_paragraphs": 176,
+  "catchwords": [
+   "CONSUMER LAW – misleading or deceptive conduct –where respondent found unknown type of stormwater filters during site inspection which had been installed by applicant but which had not been approved by council for that site – where respondent prepared report which identified investigations and assessments conducted by the respondent and which expressed concerns and opinions about the comparability of the applicant’s two filters – where report was sent to seven industry participants – where recipients of the report included council, certifying engineer and property manager of the site at which the filters had been installed – whether representations were of fact or as to the respondent’s state of mind, including opinions held by the respondent – whether representations, if made, were misleading or deceptive or likely to mislead or deceive – application dismissed"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) Sch 2 ss 18, 29(1)(a)",
+   "Trade Practices Act 1974 (Cth) s 52"
+  ],
+  "cases_cited": [
+   "Australian Competition & Consumer Commission v Dateline Imports Pty Ltd [2015] FCAFC 114",
+   "Australian Competition and Consumer Commission v Dukemaster Pty Ltd [2009] FCA 682",
+   "Australian Competition and Consumer Commission v Employsure Pty Ltd (2021) 156 ACSR 1; [2021] FCAFC 142",
+   "Australian Competition and Consumer Commission v Kimberly-Clark Australia Pty Ltd [2019] FCA 992",
+   "Australian Competition and Consumer Commission v Telstra Corporation Limited (2007) 244 ALR 470; [2007] FCA 1904",
+   "Australian Competition and Consumer Commission v Woolworths Limited [2019] FCA 1039",
+   "Australian Securities and Investments Commission v GetSwift Limited (Liability Hearing) [2021] FCA 1384",
+   "Ireland v WG Riverview Pty Ltd (2019) 101 NSWLR 658; [2019] NSWCA 307"
+  ],
+  "parties": [
+   {
+    "name": "SPEL ENVIRONMENTAL PTY LTD",
+    "role": "Applicant"
+   },
+   {
+    "name": "IES STORMWATER PTY LTD",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr P Somers"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Bennett & Philp Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Ms D M Bampton"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0891",
+  "portal_file_numbers": [
+   "QUD179/2021"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2022-08-01"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 179 of 2021"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DOWNES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "1 August 2022"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CONSUMER LAW – misleading or deceptive conduct –where respondent found unknown type of stormwater filters during site inspection which had been installed by applicant but which had not been approved by council for that site – where respondent prepared report which identified investigations and assessments conducted by the respondent and which expressed concerns and opinions about the comparability of the applicant’s two filters – where report was sent to seven industry participants – where recipients of the report included council, certifying engineer and property manager of the site at which the filters had been installed – whether representations were of fact or as to the respondent’s state of mind, including opinions held by the respondent – whether representations, if made, were misleading or deceptive or likely to mislead or deceive – application dismissed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) Sch 2 ss 18, 29(1)(a)\nTrade Practices Act 1974 (Cth) s 52"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition & Consumer Commission v Dateline Imports Pty Ltd [2015] FCAFC 114\nAustralian Competition and Consumer Commission v Dukemaster Pty Ltd [2009] FCA 682\nAustralian Competition and Consumer Commission v Employsure Pty Ltd (2021) 156 ACSR 1; [2021] FCAFC 142\nAustralian Competition and Consumer Commission v Kimberly-Clark Australia Pty Ltd [2019] FCA 992\nAustralian Competition and Consumer Commission v Telstra Corporation Limited (2007) 244 ALR 470; [2007] FCA 1904\nAustralian Competition and Consumer Commission v Woolworths Limited [2019] FCA 1039\nAustralian Securities and Investments Commission v GetSwift Limited (Liability Hearing) [2021] FCA 1384\nIreland v WG Riverview Pty Ltd (2019) 101 NSWLR 658; [2019] NSWCA 307"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "176"
+  },
+  {
+   "label": "Date of last submission",
+   "value": "9 May 2022"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "20–22 April 2022"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr P Somers"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Bennett & Philp Lawyers"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Ms D M Bampton"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [
+  {
+   "heading": "BACKGROUND",
+   "paragraph": 1
+  },
+  {
+   "heading": "ALLEGED REPRESENTATIONS",
+   "paragraph": 27
+  },
+  {
+   "heading": "ISSUES",
+   "paragraph": 29
+  },
+  {
+   "heading": "RELEVANT PRINCIPLES",
+   "paragraph": 30
+  },
+  {
+   "heading": "PERFORMANCE REPRESENTATION",
+   "paragraph": 38
+  },
+  {
+   "heading": "Was the representation made?",
+   "paragraph": 38
+  },
+  {
+   "heading": "The applicant’s allegation",
+   "paragraph": 38
+  },
+  {
+   "heading": "Representation as to respondent’s state of mind",
+   "paragraph": 40
+  },
+  {
+   "heading": "Meaning of ‘performance’ or ‘water treatment performance’",
+   "paragraph": 51
+  },
+  {
+   "heading": "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+   "paragraph": 77
+  },
+  {
+   "heading": "What was not alleged or established",
+   "paragraph": 77
+  },
+  {
+   "heading": "What was alleged",
+   "paragraph": 79
+  },
+  {
+   "heading": "First testing report (QUT February 2018)",
+   "paragraph": 81
+  },
+  {
+   "heading": "Second testing report (UNSW December 2018)",
+   "paragraph": 83
+  },
+  {
+   "heading": "Third testing report (UNSW August 2019)",
+   "paragraph": 91
+  },
+  {
+   "heading": "Fourth testing report (UNSW October 2019)",
+   "paragraph": 96
+  },
+  {
+   "heading": "What the four testing reports establish (and do not establish)",
+   "paragraph": 99
+  },
+  {
+   "heading": "Conclusion",
+   "paragraph": 100
+  },
+  {
+   "heading": "NOT COMPARABLE PRODUCTS REPRESENTATION",
+   "paragraph": 102
+  },
+  {
+   "heading": "Was the representation made?",
+   "paragraph": 102
+  },
+  {
+   "heading": "The applicant’s allegation",
+   "paragraph": 102
+  },
+  {
+   "heading": "Representation as to respondent’s state of mind",
+   "paragraph": 105
+  },
+  {
+   "heading": "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+   "paragraph": 119
+  },
+  {
+   "heading": "What was not alleged or established",
+   "paragraph": 119
+  },
+  {
+   "heading": "What was alleged",
+   "paragraph": 121
+  },
+  {
+   "heading": "UNSUITABILITY REPRESENTATION",
+   "paragraph": 124
+  },
+  {
+   "heading": "Was the representation made?",
+   "paragraph": 124
+  },
+  {
+   "heading": "The applicant’s allegation",
+   "paragraph": 124
+  },
+  {
+   "heading": "Representation as to respondent’s state of mind",
+   "paragraph": 127
+  },
+  {
+   "heading": "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+   "paragraph": 134
+  },
+  {
+   "heading": "What was not alleged or established",
+   "paragraph": 134
+  },
+  {
+   "heading": "What was alleged",
+   "paragraph": 136
+  },
+  {
+   "heading": "MISLEADING CONDUCT REPRESENTATION",
+   "paragraph": 145
+  },
+  {
+   "heading": "Was the representation made?",
+   "paragraph": 145
+  },
+  {
+   "heading": "The applicant’s allegation",
+   "paragraph": 145
+  },
+  {
+   "heading": "Representation as to respondent’s state of mind",
+   "paragraph": 147
+  },
+  {
+   "heading": "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+   "paragraph": 156
+  },
+  {
+   "heading": "What was not alleged or established",
+   "paragraph": 156
+  },
+  {
+   "heading": "What was alleged",
+   "paragraph": 158
+  },
+  {
+   "heading": "PROPER SCIENTIFIC METHOD REPRESENTATION",
+   "paragraph": 168
+  },
+  {
+   "heading": "CONCLUSION",
+   "paragraph": 175
+  }
+ ],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD179/2021",
+   "parties": [
+    {
+     "name": "SPEL ENVIRONMENTAL PTY LTD",
+     "role": "Applicant"
+    },
+    {
+     "name": "IES STORMWATER PTY LTD",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "DOWNES J"
+   ],
+   "date": "2022-08-01",
+   "date_raw": "1 August 2022",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The originating application is dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "By 4.00 pm on 5 August 2022, the parties file and serve any submissions as to the appropriate costs order which should be made (limited to 3 pages) accompanied by any affidavit which is relevant to the issue of costs only.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "By 4.00 pm on 11 August 2022, the parties file and serve any submissions in reply (limited to 3 pages) to the submissions filed pursuant to order 2.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The applicant’s business is the supply of products and services used in stormwater and pollution management. This includes the production, installation and maintenance of stormwater filtration systems.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The respondent carries on business under the name “Ocean Protect”. Through its business, the respondent engages in the commercial sale and maintenance of stormwater quality improvement devices, amongst other things.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The applicant and respondent are competitors.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "Since at least 2014, the applicant has marketed and sold a type of filter in Australia under the mark “SPEL Filter”. The applicant’s website described the SPEL Filter as a:\nhighly engineered Stormwater filtration device designed to remove fine sediments, heavy metals, nitrogen and phosphorus from stormwater runoff. The SPEL Filter relies on a spiral wound media filter cartridge. … Flow through the filter cartridges is gravity driven and self-regulating, which makes the SPEL Filter system a low maintenance, high performance stormwater treatment device.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "At trial, the (original) SPEL Filter sold by the applicant was described in the evidence and by the parties as the OBC Filter, and I will adopt this terminology in these reasons.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The Brisbane City Council (BCC) has a register for devices which are (in effect) pre-approved and are deemed to be acceptable for inclusion in development applications. As to this, the register relevantly states:\nPROPRIETARY STORMWATER TREATMENT ASSETS (STA’s) REGISTER\nDevices determined as compliant with Council process and acceptable for inclusion in Development Applications for assessment against the relevant Cityplan 2014 Performance Objectives.\nProprietary STAs [Stormwater Treatment Assets], once listed on the asset register, will not require further assessment for successive development applications unless material changes are made to the model that could affect its performance (refer Section 4.0 SMDO STAs Industry Advisory Note)\n(emphasis original)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The OBC Filter was listed in the BCC register as at August 2019.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The BCC had approved the installation of OBC Filters at a site located at Heathwood in Queensland, which was described in the evidence as the HFA site.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "In late August 2019, the respondent’s employees attended the HFA site upon request of the property manager (Colliers), in order to quote on providing the maintenance for the stormwater filtration systems at that site. While in attendance, these staff observed that the filters which had been installed by the applicant looked different from the OBC Filter with which they were familiar.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The filters installed on the HFA site as at August 2019 were described at trial as the NSC Filters (or New SPELFilter Cartridges). These filters were not on the BCC register at that time and nor had they been approved for installation at the HFA site.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "As a consequence of this discovery, the respondent carried out certain investigations. These investigations revealed that there were physical differences in the construction of the NSC Filter, including the internal structure and the composition of media in the NSC Filter, as compared to the OBC Filter. Testing of particle size distribution, and third-party analysis of the composition of the media of both filters, also demonstrated physical differences between the two filters.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The respondent also undertook research to ascertain whether there was any published data about the NSC Filter but could not locate any published information, including on the applicant’s website. The respondent was also aware that the NSC Filter was not on the BCC register.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "After conducting its investigations and research, the respondent prepared two versions of a document entitled “SpelFilter Cartridge Comparisons” which the parties described as versions 5 and 6 (IES Report).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The IES Report commenced with an explanation of the recent discovery of the NSC Filter at the HFA Site on 27 and 28 August 2019 and the circumstances in which that discovery took place. Concerns were then expressed followed by a description of the assessments and investigations undertaken by the respondent, expressions of opinion based on those assessments and investigations (including the interpretation of data) and a summary conclusion which expressed the respondent’s views and continued concerns having done the assessments and investigations referred to in the report. The summary stated as follows:\nOcean Protect submits it is clear from the assessments and investigations it has made that the OBC and NSC filters not only are made with different components, but also function in a different manner using uncommon materials and critical dimensions. When considered in light of the different media bed depth and media characteristics, it would, in Ocean Protect’s informed opinion, mean it is almost impossible for the NSC and OBC to have the same treatment performance. As such, Ocean Protect considers they are not interchangeable, and should not be allowed to be marketed, sold or installed as such.\nFurther, due to the fundamentally different design, composition and functional operation of the OBC versus the NSC, it is not appropriate to assume or consider that the NSC is an “accepted” or approved stormwater solution as per the BCC Asset Register. Rather, the NSC should be viewed as a presently “unapproved” device and therefore not suitable or acceptable for inclusion in development application approvals.\nAccordingly, at a practical level and putting to one side any potential failure by SPEL to obtain necessary approvals or submit data for peer review, the findings of its investigations undertaken during and following its inspection at Hilton Foods in Heathwood leave Ocean protect concerned:\n• that NCS [sic] products may be being marketed or sold to, or installed for, vulnerable customers either as, or as equivalent substitutes for, OBCs; and\n• if so, that the potential impact on the operation of the systems in which the NSC products are installed, and the environmental outcomes achieved, are unknown but are unlikely to be equal to the performance and outcomes bargained for and required by the development approval process and associated regulation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The IES Report was sent to seven recipients in the stormwater industry, including parties with close involvement with the HFA site.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The respondent did not publish the report more generally, or to the industry at large.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The distribution of the IES Report occurred between 25 September 2019 and 6 November 2019.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "Recipients of the IES report included Costin Roe Consulting Pty Ltd (Costin Roe), the engineering company used to certify the HFA site, which received the IES Report (version 5) on 25 September 2019, and the BCC which received the IES Report (version 5) on 1 October 2019.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "No response was received from Costin Roe or the BCC to say that either had any awareness of the installation of the NSC Filters at the HFA site.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "Another recipient of the IES Report (version 5) was Mr Rodney Edie of Colliers, who was the person within Colliers who had asked the respondent to provide a service proposal for the maintenance of the stormwater filtration systems at the HFA site. That report was attached to an email from the respondent dated 10 October 2019 which relevantly stated:\nIn order to supply colliers with a maintenance proposal at [the HFA site].\nOceanprotect [sic] have had to investigate the type of filtration product and media element installed at this site.\nWe have not come across this type of filter – media combination before.\nPlease see the attached report which outline [sic] the differences in what was approved for use on this site and what has been supplied and installed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "By email dated 17 October 2019, Mr Edie wrote to the respondent stating that:\nSpel is locked in at [the HFA site] for 2 years … Due to opening a can of worms, Spel has had to provide all appropriate documents in regards to the media used.\nBecause of events that occurred, Spel has extended the two years by an extra two years of free service…\nSo consider [HFA site] closed. …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The applicant commenced this proceeding in June 2021, which was more than 18 months after the last date of publication of the IES Report. There was no evidence (or even a suggestion) that the respondent had any intention of further publishing the IES Report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The applicant claims that the IES Report gave rise to five representations either expressly or by implication, and that those representations were misleading or deceptive, or likely to mislead or deceive, in contravention of ss 18 and 29 of the Australian Consumer Law (being Schedule 2 to the Competition and Consumer Act 2010 (Cth)) (ACL).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The essence of the respondent’s defence is that that each of the five representations as claimed by the applicant was not made, or, if found to have been made, was not misleading or deceptive or likely to mislead or deceive.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "It was common ground that the “objective reader” of the IES Report is someone experienced in the stormwater filtration industry or involved in the installation of stormwater filtration systems in developments.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The applicant’s claim will be dismissed because:\n(1) in relation to four of the alleged representations, the applicant selected particular words or sentences in the IES Report which, even if arguably misleading in isolation, do not have that character when viewed in context;\n(2) the impugned statements in the IES Report, and the IES Report as a whole insofar as it is alleged to give rise to the implied representations, are properly characterised as a representation by the respondent as to its state of mind, and that there was a basis for that state of mind, or an expression of an opinion held by the respondent, and that there was a basis for that opinion. For this reason, the alleged representations of fact would not have been conveyed to the objective reader;\n(3) the applicant did not establish that the respondent did not hold the concerns expressed by it in the IES Report or that it did not have a basis for those expressed concerns. Nor did the applicant establish that the opinions expressed in the IES Report were not honestly held by the respondent or that they lacked adequate foundation having regard to the investigations and assessments performed by the respondent;\n(4) the IES Report would be interpreted by an objective reader as being a preliminary expert report only. That is because it was prepared by the respondent, a participant in the stormwater industry, which had undertaken limited assessments and investigations as referred to in the IES Report during a relatively short period of time and which the objective reader would recognise and understand were not (and were not represented to be) an adequate and appropriate investigation of the comparability of the two filters;\n(5) contrary to the applicant’s pleaded case, an objective reader would not have understood a reference or representation as to “performance” or “water treatment performance” of a filter to mean only the ability of the filters to remove total suspended solids (TSS), total nitrogen (TN) and total phosphorous (TP) from stormwater;\n(6) on the applicant’s pleaded case, the applicant did not establish that, as at the dates of publication of the IES Report:\n(a) the NSC Filter’s performance and ability to filter stormwater was not inferior to the OBC Filter: [8A(a) Fourth Further Amended Concise Statement];\n(b) the NSC Filter was and is interchangeable with the OBC Filter, and could be marketed, sold or installed as a comparable to, or substitute for an OBC Filter: [8A(c) Fourth Further Amended Concise Statement];\n(c) the NSC Filter was properly tested and of proven performance and was suitable or acceptable for use in development applications: [8A(d) Fourth Further Amended Concise Statement];\n(d) the applicant was not attempting to mislead or deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter: [8A(e) Fourth Further Amended Concise Statement].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "ALLEGED REPRESENTATIONS"
+    ],
+    "text": "The applicant identified the following extracts of the IES Report (by reference to the pagination contained in version 5) as the content of the IES Report which gave rise to the alleged misrepresentations:\n(1) On page 1:\nRelevantly, Ocean Protect observed that there appear to be two differing filter cartridges currently being sold by SPEL, each marketed as the “SPELFilter” despite important differences in both the materials used and the functional operation of the filters. Ocean Protect is concerned that cartridge purchasers may be bargaining for one filter and being supplied a different filter, and that unproven, unapproved filters may lead to unintended environmental consequences.\nOn the basis of these concerns, Ocean Protect has subjected each SPEL cartridge to comparison for the purpose of verifying the differences between the two designs and associated performance characteristics of the product. This included considerations of the following:\n• Cartridge markings/naming/branding;\n• Cartridge Components & Materials;\n• Cartridge Dimensions and Operation;\n• Cartridge Media Comparisons;\n• Cartridge Media; and\n• Sample Test Data and Corresponding Approval.\nFurther to its above-mentioned observations, Ocean Protect also carried out a review of relevant literature available in journals. It has used the results of its comparisons and its review of relevant articles to form a view and its recommendations as to the suitability of the cartridge filters it examined.\n(2) On page 6, the last two rows of Table 3 – Critical Dimensions:\nMedia surface/screening Area (m2) | 8.36 | 0.374 (entire area of base not inlet holes)\nProportion of media surface area (%) | N/A | 4.5%\n(3) On page 8:\nSamples as shown below were removed from both the OBC and NSC and were taken to the ALS Analytical Laboratories for further physical and chemical analysis on 11th September 2019. Results are shown below in table 4. …\n(4) On page 9:\nThe results indicate the media composition and flow path configuration of each of the NSC and OBC would perform in a very different manner. This is clearly evident from:\n• different media particle size difference (figure 7 & 8.) and media depth (10 mm vs 435 mm) for the removal of solids; and\n• different media surface area, e.g. NSC only has 4.5% of the media surface area of the OBC\n• expected different Cation Exchange Capacity (CEC) for sorption reactions for removal of soluble contaminants such as Ammonium, Ortho-Phosphate, metals etc.\nSample Test Data and Corresponding Approval\nTo the best of Ocean Protect’s knowledge, no laboratory, field or published data exists for the NSC cartridge.\n(5) On page 11: the summary which appeared at the conclusion of the report and which is extracted earlier in these reasons.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "ALLEGED REPRESENTATIONS"
+    ],
+    "text": "The applicant alleged that five representations were made through the IES Report, namely:\n(1) The Performance Representation\nThe NSC Filter’s performance and ability to filter stormwater was inferior to the OBC Filter.\n(2) The Not Comparable Representation\nBecause of the difference in performance, the NSC Filter was not interchangeable with the OBC Filter, and should not be marketed, sold or installed as a comparable to, or substitute for an OBC Filter.\n(3) The Unsuitability Representation\nThe NSC Filter, unlike the OBC Filter:\n(i) was untested and unproven; and\n(ii) was not suitable or acceptable for use in development applications.\n(4) The Misleading Conduct Representation\nThe applicant was attempting to mislead and deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter.\n(5) The Proper Scientific Method Representation\nThat the comparison of the OBC and the NSC Filter was based on adequate and appropriate research and investigation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "ISSUES"
+    ],
+    "text": "The following issues arose for determination:\n(1) whether the five representations alleged by the applicant were in fact made. Further:\n(a) as to all representations but the Proper Scientific Method Representation, the issue is whether the impugned statements in the IES Report, and the IES Report as a whole (insofar as it is alleged to give rise to the implied representations), should be characterised as a statement of belief or opinion on the one hand, or fact on the other;\n(b) (on the applicant’s case) as to the Performance Representation and the Not Comparable Representation, the issue is whether an objective reader would have understood a representation as to “performance” or “water treatment performance” of a filter to mean only the ability of the filters to remove TSS, TN and TP from stormwater, or to other factors, including speciated data underlying those totals;\n(2) to the extent that any of the representations was made, whether that representation was misleading or deceptive, or likely to mislead or deceive, at the time that it was made. Further:\n(a) where a representation was made as to the respondent’s state of mind and that it had a basis for that state of mind, the issue is whether the respondent had that state of mind, and whether there was a basis for that state of mind;\n(b) where the respondent expressed an opinion and that it had a basis for that opinion, the issue is whether the respondent did not honestly hold the opinion, and whether the opinion lacked any, or any adequate, foundation;\n(c) (on the applicant’s case) as to the Performance Representation and the Not Comparable Representation, the issue is whether the NSC Filter and the OBC Filter are comparable, interchangeable or able to be substituted if the “performance” or “water treatment performance” of these filters is assessed only by the ability of the filters to remove TSS, TN and TP from stormwater.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "The applicant opened its case in reliance on the following provisions of the ACL.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "Section 18 of the ACL relevantly provides:\n18 Misleading or deceptive conduct\n(1) A person must not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.\n…",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "Section 29(1)(a) of the ACL provides:\n29 False or misleading representations about goods or services\n(1) A person must not, in trade or commerce, in connection with the supply or possible supply of goods or services or in connection with the promotion by any means of the supply or use of goods or services:\n(a) make a false or misleading representation that goods are of a particular standard, quality, value, grade, composition, style or model or have had a particular history or particular previous use; …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "The principles in relation to ss 18 and 29 of the ACL were recently summarised by the Full Court in Australian Competition and Consumer Commission v Employsure Pty Ltd (2021) 156 ACSR 1; [2021] FCAFC 142 (Rares, Murphy and Abraham JJ). Relevantly, the Court stated:\n(1) the relevant context in which a statement is to be viewed in assessing whether it is misleading or deceptive, or likely to mislead or deceive, includes both internal and external factors operative at the time the representation was made: [75];\n(2) there is no meaningful difference between the expressions “misleading or deceptive” in s 18 and “false or misleading” in s 29. The prohibitions under the provisions are similar in nature: [88];\n(3) the inclusion of the phrase “likely to mislead or deceive” in s 18 means that a contravention may be established if there is a real or not remote chance or possibility that a person exposed to impugned conduct would be misled. It is not necessary to demonstrate that the impugned conduct was actually misleading; it is enough if it was likely to be so: [89];\n(4) in contrast, the absence of the phrase “likely to mislead or deceive” in s 29 means that the applicant must prove to the requisite standard that the respondent made representations that were actually false or misleading. It is not sufficient for the applicant to prove only that it was likely that they were such: [89];\n(5) because s 18 is focussed on “conduct” that is misleading or deceptive or is likely to mislead or deceive, the necessary consideration must begin by identifying the impugned conduct with precision. Section 29 is focussed on the alleged representation and that must be identified with precision: [90];\n(6) the central question is whether the impugned conduct (under s 18) or the alleged representations (under s 29), viewed as a whole and in context, have a sufficient tendency to lead a person exposed to the conduct into error (that is, to form an erroneous assumption or conclusion about some fact or matter): [92].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Telstra Corporation Limited (2007) 244 ALR 470; [2007] FCA 1904, Gordon J, in the context of considering s 52 of the Trade Practices Act 1974 (Cth) (the predecessor to s 18 of the ACL), set out a two-step analysis for assessing misleading or deceptive conduct at [14]–[15] as follows:\nThe relevant legal principles have been well traversed by Australian courts. A two-step analysis is required. First, it is necessary to ask whether each or any of the pleaded representations is conveyed by the particular events complained of: …\nSecond, it is necessary to ask whether the representations conveyed are false, misleading or deceptive or likely to mislead or deceive. This is a “quintessential question of fact”: …\n(citations omitted)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "This two-step analysis has been quoted with approval in a number of decisions of the Court: see Australian Securities and Investments Commission v GetSwift Limited (Liability Hearing) [2021] FCA 1384, [2109]; Australian Competition and Consumer Commission v Woolworths Limited [2019] FCA 1039, [84]; Australian Competition and Consumer Commission v Kimberly-Clark Australia Pty Ltd [2019] FCA 992, [288].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "In Australian Competition & Consumer Commission v Dateline Imports Pty Ltd [2015] FCAFC 114 (Gilmour, McKerracher and Gleeson JJ), the Full Court cited the principles in Australian Competition and Consumer Commission v Dukemaster Pty Ltd [2009] FCA 682 (Gordon J) at [10] as being the “correct approach concerning representations of different types” in relation s 52 of the Trade Practices Act 1974 (Cth) stating relevantly at [179]:\n2. … it would be wrong to select particular words or acts which although misleading in isolation do not have that character when viewed in context …\n…\n4. By making a statement of past or present fact, a corporation’s state of mind is irrelevant unless the statement involved the state of the corporation’s mind: … Contravention of s 52(1) does not depend upon the corporation’s intention or its belief concerning the accuracy of the statement of fact but upon whether the statement conveys a meaning which is false. A false meaning will be conveyed if what is stated concerning the past or present fact is inaccurate but also if, although literally true, the statement conveys a meaning which is false.\n5. Precisely the same principles control the operation of s 52(1) to statements involving the state of mind of the maker when the statement was made (e.g. promises, predictions and opinions). A statement which involves the state of mind of the maker ordinarily conveys the meaning (expressly or impliedly) that the maker of the statement had a particular state of mind when the statement was made and, commonly, that there was a basis for that state of mind: …\n6. A statement of opinion will not be misleading or deceptive or likely to mislead or deceive merely because it turns out to be incorrect, misinforms or is likely to do so: … An incorrect opinion does not of itself establish that the opinion was not held by the person who expressed it or that it lacked any or any adequate foundation: … An expression of an opinion which is identifiable as an expression of opinion conveys no more than that the opinion is held and perhaps that there is a basis for the opinion. If that is so, an expression of opinion however erroneous misrepresents nothing: …\n7. However, an opinion may convey that there is a basis for it, that it is honestly held and when it is expressed as the opinion of an expert, that it is honestly held upon rational grounds involving an application of the relevant expertise. If the evidence shows that the opinion was not held or that it lacked any or any adequate foundation, particularly if the opinion was expressed as an expert, a statement of opinion may contravene s 52 of the TPA: …\n(emphasis original; citations omitted)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "In Ireland v WG Riverview Pty Ltd (2019) 101 NSWLR 658; [2019] NSWCA 307 (Bell ACJ, Macfarlan JA and Barrett AJA), Bell ACJ (as his Honour then was) observed at [30]:\nThe case law requires that the characterisation of a statement as to one of belief or opinion, on the one hand, or as to a matter of fact, on the other hand, is to be viewed from the perspective of the person or “ordinary” or “reasonable” audience to whom the statement or representation is directed (as opposed to from the perspective of the maker of the statement): Campomar Sociedad, Limitada v Nike International Ltd (2000) 202 CLR 45; [2000] HCA 12 at [102]. This will frequently be a critical aspect of the context as the decision in Forrest also illustrates: see at [36]–[39]; [105]. Thus, in Pyrotek Pty Ltd v Ausco Industries Pty Ltd (1992) ATPR (Digest) 46-085 at [53,323]; [1991] FCA 743 at 33, French J (as he then was) observed that:\n“A statement which has the character of a statement of fact when read by an ordinary person may to another, who has relevant knowledge, be seen as an opinion involving interpretation of other data. If in the circumstances in which it is communicated, including the nature or resources of the recipient, a statement presents as a statement of opinion then it is not necessarily to be characterised as anything other than a representation that the maker of the statement holds the opinion or interpretation offered.”",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alleges that this representation, being that “the NSC Filter’s performance and ability to filter stormwater was inferior to the OBC Filter”, arises expressly from selected words contained on pages 9 and 11 of the IES Report (which are set out above) as follows:\n(1) … each of the NSC and the OBC would perform in a very different manner …;\n(2) … but also function in a different manner using uncommon materials and critical dimensions. When considered in light of the different media bed depth and media characteristics, it would, in Ocean Protect’s informed opinion, mean it is almost impossible for the NSC and OBC to have the same treatment performance …;\n(3) … but are unlikely to be equal to the performance and outcomes bargained for …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alternatively alleges that that the representation is an implied representation arising from the whole of the IES Report, and particularly from the content contained in paragraph 27(1) above and the first and third paragraphs of the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the extracted words referred to in paragraph 38(1) above, the relevant paragraph in the IES Report reads:\nThe results indicate the media composition and flow path configuration of each of the NSC and OBC would perform in a very different manner. This is clearly evident from [and certain matters are then identified].\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "The reference to “results” in that paragraph is a reference to the results of the exercise done for the purposes of comparing the media in the two filters, which is discussed on the previous page and also the media particle size distribution which is contained in “Figure 8. Media particle size distribution” on page 9. It is also a reference to the results of the observations about dimensions and operation, and flow path of stormwater, which appear on pages 6 and 7 of the IES Report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In context, the statement which appears on page 9, as set out above, would be interpreted by an objective reader as being an opinion involving an interpretation of data. That is apparent from the data which appears on the preceding pages (which addresses both media composition and the flow path of the stormwater in particular) as well as the phrase “the results indicate” and the words “[t]his is clearly evident from” with a reference to certain matters. Further, by these words, there is no reference to, or suggestion of, inferiority of the NSC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 38(2) above, these appear in the summary. The relevant paragraph in the IES Report reads:\nOcean Protect submits it is clear from the assessments and investigations it has made that the OBC and NSC filters not only are made with different components, but also function in a different manner using uncommon materials and critical dimensions. When considered in light of the different media bed depth and media characteristics, it would, in Ocean Protect’s informed opinion, mean it is almost impossible for the NSC and OBC to have the same treatment performance.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "The reference to the assessments and investigations in that paragraph is a reference to the assessments and investigations which are addressed in the preceding pages of the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "This statement would be interpreted by an objective reader as being an opinion based upon the results of the respondent’s assessments and investigations. That is apparent from the context (that is, the content of the report as a whole and the explicit reference to the assessments and investigations) as well as the phrase “Ocean Protect submits” and the words “it would, in Ocean Protect’s informed opinion”. Further, by these words, there is no reference to, or suggestion of, inferiority of the NSC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 38(3) above, this is part of a sentence in the summary, which is preceded by a number of paragraphs which summarise the report, which report contains expressions of opinion by the respondent. Further, the relevant paragraph refers to the respondent being “concerned” that “the potential impact on the operation of the systems in which the NSC products are installed, and the environmental outcomes achieved, are unknown but are unlikely to be equal to the performance and outcomes bargained for and required by the development approval process and associated regulation”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In context, this statement would be interpreted by an objective reader as being a representation as to the respondent’s state of mind (that is, its concern) as well as an opinion based upon the results of the respondent’s assessments and investigations. That is apparent from the content of the report as a whole and the explicit reference to the assessments and investigations in the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, having regard to the IES Report as a whole and in particular the content contained in paragraph 27(1) and the first and third paragraphs of the summary, it is properly characterised, and would be interpreted by an objective reader, as being a preliminary report which has been prepared by an expert and which expresses the concerns and opinions of that expert based on its observations, assessments and investigations as set out in the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons and having regard to the circumstances in which the report was circulated and that the recipients were themselves in the stormwater industry, the IES Report would not be interpreted by an objective reader as conveying the Performance Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons, the Performance Representation was not made as alleged by the applicant.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "On its pleaded case, the Performance Representation was framed by the applicant as being tied to an objective reader’s understanding of the respective filters’ performance and ability to filter stormwater.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "As part of determining whether the Performance Representation was made on the applicant’s case, it is necessary to determine whether an objective reader would have understood a reference to “performance” or “water treatment performance” (and any representation about performance) to mean only the ability of the filters to remove TSS, TN and TP from stormwater, or to other factors, including speciated data underlying those totals.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "It was the applicant’s case that the performance of stormwater filters in the stormwater filtration industry is measured only by reference to the filter’s ability to remove TSS, TN and TP from stormwater. In this regard, the applicant’s case was that the standard by which the performance of stormwater filtration systems are assessed is set out in the Stormwater Quality Improvement Device Evaluation Protocol (SQIDEP) and the Stormwater Management Design Objectives (State Government Policy).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "As such, the applicant’s case is that that the Performance Representation made in the IES Report was that the NSC Filter was inferior to the OBC Filter at removing TSS, TN and TP from stormwater.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "The respondent submits that removal of TSS, TP and TN are only some of the factors used to assess performance of stormwater filtration systems and that other relevant factors “include (but are not limited to) speciated data regarding removal of contaminants [and] issues regarding maintenance and longevity”. The respondent also submits that the ability to filter gross pollutants, the ability to remove other pollutants of concern and the suitability of the device for specific land use and receiving environment are relevant criteria of performance.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "The applicant challenged the respondent’s ability to make submissions by reference to factors other than those which had been pleaded by the respondent in its Further Amended Concise Statement in Response. However, for the following reasons, this challenge is rejected.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "The applicant was on notice that the respondent’s case extended beyond the precise factors pleaded by it, and the evidence at the hearing proceeded on that basis also.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "In this regard, the respondent pleaded that:\n(1) [the] removal of [TSS, TP and TN] are only some of the many factors identified by SQIDEP and the State Government Policy for assessing the performance of stormwater filtration systems;\n(2) [other] factors relevant to assessing the performance of stormwater filtration systems include (but are not limited to) speciated data regarding removal of contaminants, hydraulic loading rates, and issues regarding maintenance and longevity;\n(3) the “Efficiency Ratio” and “Average Concentration Removal Efficiency” for the removal of [TSS, TP and TN] are only some of the many other factors relevant to assessing the performance of stormwater filtration systems, including by reference to SQIDEP and the State Government Policy;\n(4) an objective reader, experienced in the stormwater filtration industry or involved in the installation of stormwater filtration systems in developments, would have understood that a reference to the performance of a filter, or the water treatment performance of a filter, was a reference to a broad number of factors including but not limited to removal of [TSS, TP and TN].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Pursuant to a request for particulars from the applicant’s solicitors dated 21 February 2022 as to the “many factors”, “other factors” and “broad number of factors” pleaded by the respondent, the respondent’s solicitors referred the applicant’s solicitors to its evidence, including its expert evidence, in letters dated 2 March 2022 and 10 March 2022. Further, no objection was taken to the tender of Mr Damian McCann’s report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Finally, and without objection by the applicant, the other factors which were used to assess performance of stormwater filtration systems was the focus of much of the evidence adduced at the trial, including through cross-examination by the respondent’s counsel and to which no objection was taken.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "For the following reasons, an objective reader would not have understood a reference to, or representation about, “performance” or “water treatment performance” of a filter to mean only the ability of the filter to remove TSS, TN and TP from stormwater.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "First, the content of the IES Report does not support such a finding. There is no reference in the IES Report to “totals” in the sense of TSS, TN or TP. On the other hand, there is a specific reference to soluble pollutants in the IES Report. For example, in version 5, there is express reference to the NSC Filter and OBC Filter performing in a different manner and that being evidenced from “expected different Cation Exchange Capacity (CEC) for sorption reactions for removal of soluble contaminants such as Ammonium, Ortho Phosphate, metals etc.” (emphasis added). This wording was changed in version 6, but there remained a reference to the ability of the filters “to sequester Ammonium and Ortho-Phosphate” (being subspecies of TN and TP, not to “totals”) and an ability to remove nitrogen and phosphorous (with no reference to that being “totals” only). That is, the IES Report explicitly referred to subspecies of nitrogen and phosphorous to support an expressed observation that the NSC Filter and OBC Filter “would perform in a very different manner”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "An objective reader, being someone experienced in the stormwater filtration industry, would understand that ammonium and ortho-phosphate are subspecies of nitrogen and phosphorous. As such, they would likely conclude that, in this context, a reference in the IES Report to “performance” of a filter was broader than merely an assessment of the filter’s ability to remove TSS, TN and TP.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Further, the IES Report states that differences in performance may arise from the filters being made with different components, functioning in a different matter, using “uncommon materials and critical dimensions”, with “different media bed depth and media characteristics”, different media particle size, different media surface area and with expected different Cation Exchange Capacity in their likely ability to remove soluble contaminants such as ammonium and ortho-phosphate, being speciated forms of nitrogen and phosphorous, as well as metals etc.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Second, both the applicant’s expert, Dr Daniel Martens, and the respondent’s expert, Mr McCann, accept that “performance” of a filter is not just about TSS, TN and TP, but also about the removal of gross pollutants. In particular, Dr Martens opined in his expert report that “the best means of evaluating the performance of a stormwater filter is in terms of its capacity to remove indicator pollutants, notably TSS, TP, TN and gross pollutants …” (emphasis added).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Notwithstanding the evidence of Dr Martens, its own expert, the applicant submitted that the filters are not intended to remove gross pollutants, relying on the evidence of Mr Michael Wicks, director of the respondent, that “typically” gross pollutants are picked up prior to the stormwater reaching the filters.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Of course, the fact that gross pollutants are typically picked up prior to reaching the filter does not mean that they are always picked up such that the filter’s ability to remove those gross pollutants is irrelevant to its performance.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "To support its submission, the applicant also relied upon a statement from the SPELFilter marketing brochure as follows:\nA SPEL Stormceptor Class 1 upstream of the SPELFilter in the treatment train greatly increases the life cycle interval of the SPELFilter as the SPEL Stormceptor Class 1 removes the larger gross pollutants, coarse sediments, total suspended solids and hydrocarbons, enabling the SPELFilter to target fine particulate matter and nutrients.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Leaving aside that little weight can be given to a statement in a marketing brochure written by an unidentified person, there are two things to observe about the statement in the brochure:\n(1) the inclusion of a “SPEL Stormceptor Class 1 upstream” is presented in the brochure as an optional addition to the filter itself in order to “increase the life cycle”. This suggests a filter may be able to be used and installed without such a gross pollutant capture system upstream;\n(2) the statement in the brochure implies that, even if a “SPEL Stormceptor Class 1” is installed, at least some gross pollutants (i.e. the non-“larger” gross pollutants) will need to be removed by the filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "For these reasons, the applicant’s submission that the filters are not intended to remove gross pollutants is not accepted. Further, the evidence of the two independent experts is accepted, being that removal of gross pollutants is a factor relevant to filter’s performance.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Third, it was accepted by both Dr Martens and Mr McCann that criteria beyond the ability to remove TSS, TN and TP may be considered relevant in the assessment of a filter’s performance, including, for example, the ability to remove speciated forms of nitrogen and phosphorous – Dr Martens by reference to table 2 of SQIDEP and Mr McCann by reference to his experience in the industry generally and specifically his experience as a member of the SQIDEP technical panel. As to SQIDEP, Mr McCann gave evidence that:\nSQIDEP requires the trial design for a product to report on constituents of pollutants not just the totals [TSS TN TP]. As part of a review the technical panel will consider pollutant removal pathways … and note limitations of a product to remove key pollutants. As a member of the SQIDEP technical panel I can confirm that the assessment criteria TSS, TP and TN are not the sole consideration within the data which is assessed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Fourth, a person experienced in the stormwater industry would seek to understand not just the “TN” or “TP” figure, but how those totals arose and whether that figure is a true representation or predictor for the removal of nitrogen or phosphorous that can be achieved in the field. Mr Wicks, Dr Martens and Mr McCann all gave evidence that the make-up of an influent used in testing was relevant to understanding the significance of a TN or TP removal result. This is because different speciated forms of nitrogen and phosphorous are of varying difficulties to remove.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Fifth, as to the council documents which were in evidence, rather than showing that TSS, TN and TP are the only relevant considerations of interest for “performance” of a filter, many council documents indicated the importance of different parameters being met, depending on the receiving environment. Dr Martens was asked in cross-examination “do you accept that, in different council areas, there are pollutants of concern that depend specifically on the habitats or the waterways, for example, that are in those council areas?”, to which he responded “that’s possible. Yes.” Mr McCann, under cross-examination, repeatedly pointed out the parts of various council documents that indicated that, although TSS, TN and TP are the “minimum standards” that must be met, councils could require that different standards and parameters are met in different environments. Mr Wicks also gave evidence that, in getting a filtration device approved, some councils will look at speciated data for dissolved inorganic nitrogen.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Finally, Mr McCann stated in his report that “performance and treatment performance” in his experience “would be understood by an experienced practitioner as a description of the capabilities of a particular device in terms of achieving the stormwater objectives at a given site, this includes how well it removes specific pollutants of concern, maintenance requirements, useful life, and suitability for a specific land use and receiving environment.” This evidence was not the subject of direct challenge by Dr Martens.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "Having regard to the content of the IES Report and the evidence identified above, an “objective reader”, being a person experienced in the stormwater filtration industry in Australia or involved in the installation of stormwater filtration systems in developments, would not understand a reference to, or representation about, the “performance” and “water treatment performance” of a filter to mean only the filter’s ability to remove TSS, TN and TP, but rather would understand that it also means other factors such as ability to filter gross pollutants, ability to filter other pollutants of concern (including heavy metals, and speciated forms of nitrogen and phosphorous), maintenance requirements, longevity and suitability of the device for specific land use and receiving environments.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation made?",
+     "Meaning of ‘performance’ or ‘water treatment performance’"
+    ],
+    "text": "For these further reasons, the Performance Representation was not made as alleged by the applicant.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "The applicant did not allege (or establish) that the statements in the IES Report relied upon to allege the Performance Representation were expressions of opinion which were not honestly held by the respondent and which were not based upon rational grounds or which lacked adequate foundation having regard to the investigations and assessments performed by the respondent as identified in the IES Report. Nor did the applicant allege (or establish) that the respondent did not hold the concerns and opinions expressed by it in that report, or that it did not have an adequate foundation to hold such concerns and express such opinions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "For these reasons, the respondent did not engage in misleading or deceptive conduct, or conduct which was likely to mislead or deceive: Dateline at [179].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "On the assumption that the Performance Representation was made as alleged, the applicant’s pleaded case is that the Performance Representation was misleading or deceptive, or likely to be so, because, on the basis that “performance” or “water treatment performance” is assessed only by the ability of the filters to remove TSS, TN and TP from stormwater:\n(1) the water treatment performance of the NSC Filter is equal to or superior to the water treatment performance of the OBC Filter or, at the least, not inferior to it;\n(2) the NSC Filter and the OBC Filter were comparable, interchangeable or able to be substituted.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "To establish these matters, the applicant relied upon four laboratory testing reports.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "First testing report (QUT February 2018)"
+    ],
+    "text": "The first testing report was a Queensland University of Technology report dated 28 February 2018 which showed the results of field testing of an operational OBC Filter of an unknown (but not new or near-new) age and, relevantly, reported on the filter’s Efficiency Ratio and Average Concentration Removal Efficiency for TSS, TN and TP. The field testing was done at a location in Ormiston, Queensland between August 2014 and June 2017. Samples from rainfall events with more than 5mm rainfall depth were collected. Notably, the influent used in the testing process was naturally occurring rainfall at a particular geographical location. The report noted that, “[i]nflow pollutant concentrations at the study site are comparatively low compared to typical urban stormwater quality for the Brisbane area”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "First testing report (QUT February 2018)"
+    ],
+    "text": "No other testing report relied upon by the applicant related to a filter which was tested using influent water which had been collected under the same conditions. In addition, the age of the OBC Filter used was not known.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "The second testing report was a report of the University of New South Wales (UNSW) dated December 2018. This showed the results of simulated testing of a new or near-new NSC Filter described as a “full-scale prototype unit” which was tested “under controlled laboratory conditions” and incorporated into a “custom built test bench”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "The second testing report observed that there was no Australian standard prescribing laboratory testing of stormwater treatment devices and that the laboratory had based the test methodology on “past experience and specifications provided in a number of other protocols”, which included “foreign standards”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "Importantly, the report referred to other parameters of performance which had not been tested by it, stating that:\nNo inference is made for the long term performance of the device, the performance in a loaded state, under sustained loading during a single event, or ability of the device to retain captured sediments during bypassing.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "The report also included this caveat:\n[L]ong-term performance, operation with a significant load of captured sediment, or retention during bypass was not tested. Results should be considered with field test data to address these conditions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "This means that, from the laboratory’s perspective, there were other considerations which were relevant to the performance of the filter which had not been tested by it, and other forms of testing had not been performed by it.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "The testing leading to the second testing report was done using synthetic stormwater which the report stated was “a critical component of the validation process. It must be representative of Australian stormwater across a number of parameters. To allow comparison between devices it must also be consistent between tests. The mixture used for the test program was based on many years’ experience and refinement in developing synthetic stormwater to achieve all of the target concentrations. … Final target concentrations for mean influent concentrations were agreed with SPEL prior to testing”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "This passage highlights the lack of utility in comparing the results in the first testing report with the second testing report (or any of the other reports). The influent used in the first testing report differs from that in all other reports and, as noted in that report, had comparatively low pollutant concentrations compared to typical urban stormwater quality.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Second testing report (UNSW December 2018)"
+    ],
+    "text": "Having regard to the reference to agreement being reached with the applicant, this passage also exposes the lack of independence of the UNSW in relation to the testing which was undertaken. The extent of involvement of the applicant with the testing that was done to lead to the second testing report is not known.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Third testing report (UNSW August 2019)"
+    ],
+    "text": "The third testing report was a report of the UNSW dated August 2019. This showed the results of simulated testing of a new NSC Filter described as a “new SPELFilter (serial number SFM-100004)” which was tested under “controlled laboratory conditions”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Third testing report (UNSW August 2019)"
+    ],
+    "text": "The third testing report stated that it includes and extends the results of testing in the second report. The references in the third testing report to the NSC Filter being a “prototype” could be a reference to the filter which was tested for the purposes of the second testing report or it could be a reference to another version of the NSC Filter, being the “SPELFilter (serial number SFM-100004)”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Third testing report (UNSW August 2019)"
+    ],
+    "text": "Having regard to the different description used of the filter being tested in the second and third testing reports (with the reference to a serial number in the third report) and that the third testing report was prepared about eight months after the second testing report, there is at least some prospect that a different or later version of the NSC Filter was used in the testing for the third testing report. The reports did not disclose whether they were the same or different versions of the NSC Filter (or, indeed, whether the filter tested in either of these reports was the same as the filters installed at the HFA site and which were the subject of the IES Report).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Third testing report (UNSW August 2019)"
+    ],
+    "text": "The third testing report also included this caveat:\n[L]ong-term performance, operation with a significant load of captured sediment, or retention during bypass was not tested. The potential for intra-event release of nitrogen through the denitrification process is not captured in this test program. Results should be considered with field test data to address these conditions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Third testing report (UNSW August 2019)"
+    ],
+    "text": "This means that, from the laboratory’s perspective, there were other considerations which were relevant to the performance of the filter which had not been tested by it, and other forms of testing had not been performed by it.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Fourth testing report (UNSW October 2019)"
+    ],
+    "text": "The fourth testing report was a report of the UNSW dated October 2019 of an “aged SPELFilter” which was, according to the applicant’s submissions, at the end of that filter’s life. This showed the results of simulated testing of a “used SPELFilter, returned after 5 years’ field service” which was tested “under laboratory conditions”. Unlike the second and third testing reports, only one test was conducted. Identical photos of the “testing” appear in all of the second, third and fourth testing reports.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Fourth testing report (UNSW October 2019)"
+    ],
+    "text": "The report also included this caveat:\n[L]ong-term performance, operation with a significant load of captured sediment, or retention during bypass were not tested. The potential for intra-event release of nitrogen through the denitrification process is not captured in this test program. Results should be considered with field test data to address these conditions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Fourth testing report (UNSW October 2019)"
+    ],
+    "text": "This means that, from the laboratory’s perspective, there were other considerations which were relevant to the performance of the filter which had not been tested by it, and other forms of testing had not been performed by it.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "What the four testing reports establish (and do not establish)"
+    ],
+    "text": "The results shown in the four reports do not provide a proper basis to draw any inference as to the comparability of the NSC Filter installed at the HFA site (and which is the subject of the IES Report) and the OBC Filter because of the following matters:\n(1) differences in the age of the filters used as the basis for the four testing reports. Even assuming that the type of NSC Filter used in the second and third report was the same, the NSC Filter was new or near-new whereas the age of the filter used for the first report was unknown and the filter used for the fourth report was “aged”, being five years old. Mr McCann gave unchallenged evidence that these products have a service life and that is why the performance of a new filter cannot be compared to that of an aged filter. Dr Martens accepted that there are a number of variables that may differ between a new filter and an aged filter. As these filters are designed to be replaced periodically, and their physical condition will be affected by factors such as their geographical location which in turn will affect the amount and content of influent which passes through them, such a proposition is self-evident. Further, there was no expert evidence to support the proposition advanced by the applicant that the filters tested for the second and third testing reports had been artificially aged. Indeed, such a proposition was rejected by Mr McCann, with Dr Martens not addressing this at all;\n(2) differences in the testing process. In particular, the first testing report was a field test whereas the other tests were performed under laboratory conditions. While it is no doubt correct that laboratory testing is intended to simulate field conditions, Mr McCann’s unchallenged evidence is that:\n[l]aboratory testing is undertaken in idealised conditions which do not represent field conditions. Laboratory results cannot be extrapolated to predict real world conditions, evidenced by the variation in results for the OBC testing in Testing reports 1 and 4, laboratory results cannot be compared to field testing results …\nThis is supported by the statements in the second, third and fourth testing reports which referred to the need to consider the results in the report with “field test data”;\n(3) differences in the influent concentrations. Differences in influent concentrations has the consequence, according to Mr McCann, that the reduction efficiencies for the filters used to produce these two reports cannot be compared. This proposition finds support in the statement by the UNSW in the second testing report to the effect that, to allow comparison between devices, the synthetic stormwater used to the test the filter must be consistent between tests;\n(4) lack of independence of the results shown in the reports. In evidence was an email chain passing between Mr Benjamin Modra of UNSW and Mr Darren Drapper, an employee of the applicant, relating to the second and third testing reports. In that email chain, Mr Modra stated: “it’s taken a fair effort to get to this last good result” which appears to be a reference to the results produced on pages 4 to 5 of that email chain. It is apparent from this and from the content of the second testing report (as highlighted above) that the influent had been altered in a way that produced better testing results, which alteration had been done with the input and agreement of the applicant. This reduces the weight which can be attached to the second testing report and the third testing report because the testing process was influenced by the applicant;\n(5) the experiments conducted for the purposes of the second, third and fourth testing reports made no attempt to compare the two types of filter (NSC Filter and OBC Filter) and there were no conclusions expressed by the UNSW as to the performance of one filter as compared to the other.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Conclusion"
+    ],
+    "text": "Even if the Performance Representation was made and an objective reader would understand that a representation as to “performance” or “water treatment performance” is only a reference to the ability of a filter to remove TSS, TN and TP from stormwater, the applicant failed to establish its pleaded case that:\n(1) the water treatment performance of the NSC Filter is equal to or superior to the water treatment performance of the OBC Filter;\n(2) the NSC Filter and the OBC Filter were comparable, interchangeable or able to be substituted for each other;\n(3) the NSC Filter’s performance and ability to filter stormwater was not inferior to the OBC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "PERFORMANCE REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged",
+     "Conclusion"
+    ],
+    "text": "For these additional reasons, the applicant failed to establish that the Performance Representation, if made, was misleading or deceptive or likely to mislead or deceive.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alleges that this representation, being that “[b]ecause of the difference in performance, the NSC Filter was not interchangeable with the OBC Filter, and should not be marketed, sold or installed as a comparable to, or substitute for an OBC Filter”, arises expressly from words contained on pages 1 and 11 of the IES Report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "Specifically, the applicant identifies the following specific words in the IES Report:\n(1) Ocean Protect is concerned that cartridge purchasers may be bargaining for one filter and being supplied a different filter, and that unproven, unapproved filters may lead to unintended environmental consequences;\n(2) As such, Ocean Protect considers they are not interchangeable, and should not be allowed to be marketed, sold or installed as such;\n(3) … that [NSC] products may be being marketed or sold to, or installed for, vulnerable customers either as, or as equivalent substitutes for, [OBCs] …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alternatively alleges that that the representation is an implied representation arising from the whole of the IES Report, and particularly from the content referred to in the first paragraph of the extract set out in paragraph 27(1) and the first and third paragraphs of the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 103(1) above, these appear in the introduction section of the report which commenced by referring to the inspection of the HFA site and then stated that:\nRelevantly, Ocean Protect observed that there appear to be two differing filter cartridges currently being sold by SPEL, each marketed as the “SPELFilter” despite important differences in both the materials used and the functional operation of the filters. Ocean Protect is concerned that cartridge purchasers may be bargaining for one filter and being supplied a different filter, and that unproven, unapproved filters may lead to unintended environmental consequences.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "The applicant therefore relies upon part of a sentence in the introduction, which is preceded by statements of fact concerning particular events and observations and is followed by the balance of the report which refers to the respondent’s investigations and assessments and which contain expressions of opinion by the respondent based on those matters. Further, the sentence relied upon refers to the respondent having a concern.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In context, this statement in the introduction would be interpreted by an objective reader as being a representation as to the respondent’s state of mind as well as an opinion based upon its observations and the results of its assessments and investigations.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 108,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 103(2) above, these appear in the summary in the following paragraph:\nOcean Protect submits it is clear from the assessments and investigations it has made that the OBC and NSC filters not only are made with different components, but also function in a different manner using uncommon materials and critical dimensions. When considered in light of the different media bed depth and media characteristics, it would, in Ocean Protect’s informed opinion, mean it is almost impossible for the NSC and OBC to have the same treatment performance. As such, Ocean Protect considers they are not interchangeable, and should not be allowed to be marketed, sold or installed as such.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 109,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "The reference to the assessments and investigations in that paragraph is a reference to the assessments and investigations which are addressed in the preceding pages of the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 110,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "This statement would be interpreted by an objective reader as being an opinion based upon the results of the respondent’s assessments and investigations. That is apparent from the context (that is, the content of the report as a whole and the explicit reference to the assessments and investigations) as well as the phrase “Ocean Protect submits” and the words “it would, in Ocean Protect’s informed opinion” and “[a]s such, Ocean Protect considers”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 111,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 103(3) above, these words are contained in the summary and are immediately preceded by a reference to a concern being expressed by the respondent, which concern is based upon “the findings of its investigations undertaken during and following its inspection at Hilton Foods in Heathwood”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 112,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In context, this statement in the summary would be interpreted by an objective reader as being a representation as to the respondent’s state of mind as well as an opinion based upon the content of its report, being its observations and the results of its assessments and investigations.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 113,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, although the IES Report expressly states that the respondent considered the NSC Filter was not interchangeable with the OBC Filter, the pleaded representation was that this was “[b]ecause of the difference in performance”. The applicant’s pleaded case is that a representation as to “performance” would be understood by the objective reader to mean the ability of the filters to remove TSS, TN and TP.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 114,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Accordingly, the representation alleged to have been made was that “because of the difference in performance” (being a reference to the difference in their ability to remove TSS, TN and TP), the NSC Filter was not interchangeable with the OBC Filter, and should not be marketed, sold or installed as comparable to, or a substitute for an OBC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 115,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As found above, an objective reader would not understand a reference to, or representation about, “performance” to be a reference only to the ability to filter TSS, TN and TP.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 116,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, having regard to the IES Report as a whole and in particular the content contained in paragraph 27(1) and the first and third paragraphs of the summary, it is properly characterised, and would be interpreted by an objective reader, as being a preliminary report which has been prepared by an expert and which expresses the concerns and opinions of that expert based on its observations, assessments and investigations as set out in the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 117,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons and having regard to the circumstances in which the report was circulated and that the recipients were themselves in the stormwater industry, the IES Report would not be interpreted by an objective reader as conveying the Not Comparable Products Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 118,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons, the Not Comparable Products Representation was not made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 119,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "The applicant did not allege (or establish) that the statements in the IES Report relied upon to allege the Not Comparable Products Representation were expressions of opinion which were not honestly held by the respondent and which were not based upon rational grounds or which lacked adequate foundation having regard to the investigations and assessments performed by the respondent as identified in the IES Report. Nor did the applicant allege (or establish) that the respondent did not hold the concerns and opinions expressed by it in that report, or that it did not have an adequate foundation to hold such concerns and express such opinions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 120,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "For these reasons, the respondent did not engage in misleading or deceptive conduct, or conduct which was likely to mislead or deceive: Dateline at [179].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 121,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "On the assumption that the Not Comparable Products Representation was made as alleged, the applicant’s pleaded case is that it was misleading or deceptive, or likely to be so, because, on the basis that “performance” and “water treatment performance” is assessed only by the ability of the filters to remove TSS, TN and TP from stormwater:\n(1) the NSC Filter’s performance and ability to filter stormwater was not inferior to the OBC Filter;\n(2) the NSC Filter was and is interchangeable with the OBC Filter, and can be marketed, sold or installed as a comparable to, or substitute for an OBC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 122,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "However, as found above, the applicant failed to establish these matters.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 123,
+    "headings": [
+     "NOT COMPARABLE PRODUCTS REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "For this additional reason, the Not Comparable Products Representation, if made, was not misleading or deceptive or likely to mislead or deceive.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 124,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alleges that this representation, being that “the NSC Filter, unlike the OBC Filter, was untested and unproven; and was not suitable or acceptable for use in development applications”, arises expressly from particular words contained on pages 1, 9 and 11 of the IES Report as follows:\n(1) Ocean Protect is concerned that cartridge purchasers may be bargaining for one filter and being supplied a different filter, and that unproven, unapproved filters may lead to unintended environmental consequences;\n(2) To the best of Ocean Protect’s knowledge, no laboratory, field or published data exists for the NSC cartridge;\n(3) … it is not appropriate to assume or consider that the NSC is an “accepted” or approved stormwater solution as per the BCC Asset Register. Rather, the NSC should be viewed as a presently “unapproved” device and therefore not suitable or acceptable for inclusion in development application approvals;\n(4) … the environmental outcomes achieved, are unknown but are unlikely to be equal to the performance and outcomes bargained for and required by the development approval process and associated regulation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 125,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alternatively alleges that that the representation is an implied representation arising from the whole of the IES Report, and particularly from the content contained in the first paragraph of the extract in paragraph 27(1) above, second paragraph of the extract in paragraph 27(4) above and the second paragraph of the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 126,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The respondent did not dispute that the second limb of the Unsuitability Representation, that the NSC Filter was “not suitable or acceptable for use in development applications”, arose from the express words of the IES Report. However, the respondent denied that the first limb of the Unsuitability Representation, that the NSC Filter was “untested”, was made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 127,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For the reasons explained above, the express words in paragraph 124(1) above would be interpreted by an objective reader as being a representation as to the respondent’s state of mind (that is, a concern held by it) as well as an opinion based upon its observations and the results of its assessments and investigations.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 128,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "The only part of the IES Report which refers expressly to the testing of the NSC Filter is the statement extracted at paragraph 124(2) above that “[t]o the best of Ocean Protect’s knowledge, no laboratory, field or published data exists for the NSC cartridge.” That statement was made in circumstances where the IES Report identified that the respondent had conducted a review of relevant literature available in journals and had reviewed the applicant’s website. It is also followed on the same page of the IES Report by a description of published data relating to the OBC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 129,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In the context of the IES Report as a whole, the statement extracted at paragraph 124(2) does not convey the representation that the NSC Filter was untested. There is a qualification on the statement that there is “no laboratory, field or published data”. The statement is expressed to be “to the best of Ocean Protect’s knowledge”. An objective reader would understand that the statement merely expressed the scope of the respondent’s knowledge as to the existence of data, after the investigations which had been conducted and which were referred to in the IES Report, rather than asserting that the NSC Filter had not been tested as a matter of fact.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 130,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words in paragraphs 124(3) and 124(4), these have been extracted from the summary. When read in the context of the summary (and the report as a whole), they would be interpreted as expressing the respondent’s opinions based upon its observations and the results of its assessments and investigations. That is, these statements would convey that the respondent had a particular state of mind and that it had a basis for that state of mind and not that, as a matter of fact, the NSC Filter, unlike the OBC Filter, was untested: Dateline at [179].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 131,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, having regard to the IES Report as a whole and in particular the content contained in the first paragraph of the extract in paragraph 27(1), the second paragraph of the extract in paragraph 27(4) and the second paragraph of the summary, it is properly characterised, and would be interpreted by an objective reader, as being a preliminary report which has been prepared by an expert and which expresses the concerns and opinions of that expert based on its observations, assessments and investigations as set out in the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 132,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons and having regard to the circumstances in which the report was circulated and that the recipients were themselves in the stormwater industry, the IES Report would not be interpreted by an objective reader as conveying the Unsuitability Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 133,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons, the Unsuitability Representation was not made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 134,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "The applicant did not allege (or establish) that the statements in the IES Report relied upon to allege the Unsuitability Representation were expressions of opinion which were not honestly held by the respondent and which were not based upon rational grounds or which lacked adequate foundation having regard to the investigations and assessments performed by the respondent as identified in the IES Report. Nor did the applicant allege (or establish) that the respondent did not hold the concerns and opinions expressed by it in that report, or that it did not have an adequate foundation to hold such concerns and express such opinions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 135,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "For these reasons, the respondent did not engage in misleading or deceptive conduct, or conduct which was likely to mislead or deceive: Dateline at [179].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 136,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "On the assumption that the Unsuitability Representation was made as alleged, the applicant’s pleaded case is that it was misleading or deceptive, or likely to be so, because, at the time of preparation of the IES Report, laboratory and field testing of the NSC Filter had been undertaken, data from those tests did exist and, further, that the\nNSC Filter was properly tested and of proven performance and was suitable or acceptable for use in development applications.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 137,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "As to whether the evidence established that the NSC Filter was “properly tested”, the applicant adduced evidence of unpublished data from laboratory testing of a prototype of the NSC Filter in 2018, and of an NSC Filter in 2019, (being the second and third testing reports). Both of those reports identified testing which had not yet been done in relation to the filters the subjects of those reports including by reference to field data.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 138,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Although the applicant adduced some limited evidence of unpublished and heavily redacted data from field testing of the NSC Filter in September 2019 (which was after the respondent had attended the HFA site), the applicant did not adduce evidence that this field testing constituted the additional testing identified in the second and third testing reports or that this had the consequence that the NSC had been “properly tested” prior to 6 November 2019 (being the last date of publication of the IES Report). Further, the second, third and fourth testing reports did not comply with SQIDEP.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 139,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "As to whether the NSC Filter was “of proven performance”, the evidence did not establish that the NSC Filter had been “proven” in the sense that it had been “properly tested”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 140,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "As to whether the NSC Filter was “suitable or acceptable for use in development applications”, this appears to be a conclusion drawn from the previous facts that the NSC Filter was “properly tested and of proven performance”, which facts were not established on the evidence.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 141,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Further, it was common ground that the NSC Filter was not listed on the BCC register until an unknown time on 6 November 2019, being the date of the last publication of the IES Report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 142,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "There was no evidence that the NSC Filter had ever been approved for use in any other council region in Australia (or elsewhere).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 143,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "For these additional reasons, the applicant failed to establish that, at the time of preparation of the IES Report, the “NSC Filter was properly tested and of proven performance and was suitable or acceptable for use in development applications”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 144,
+    "headings": [
+     "UNSUITABILITY REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Accordingly, the Unsuitability Representation, if made, was not misleading or deceptive or likely to mislead or deceive.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 145,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alleges that this representation, being that “the Applicant was attempting to mislead and deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter”, arises expressly from selected words contained on pages 1 and 11 of the IES Report as follows:\n(1) Ocean Protect is concerned that cartridge purchasers may be bargaining for one filter and being supplied a different filter …;\n(2) As such, Ocean Protect considers they are not interchangeable, and should not be allowed to be marketed, sold or installed as such;\n(3) … that [NSC] products may be being marketed or sold to, or installed for, vulnerable customers either as, or as equivalent substitutes for [OBCs] …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 146,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "The applicant’s allegation"
+    ],
+    "text": "The applicant alternatively alleges that that the representation is an implied representation arising from the whole of the IES Report, and particularly from the extract contained in paragraph 27(1) above and the third paragraph of the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 147,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For the reasons explained above, the express words in paragraph 145(1) above would be interpreted by an objective reader as being a representation as to the respondent’s state of mind (that is, a concern held by it) as well as an opinion based upon its observations and the results of its assessments and investigations. Further, it is plain that the expressed concern is a preliminary one. This is emphasised by the words “may be” which convey uncertainty (and would be understood by the objective reader as such) rather than a positive assertion that the applicant “was attempting to mislead and deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 148,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 145(2) above, these appear in the summary in the following paragraph:\nOcean Protect submits it is clear from the assessments and investigations it has made that the OBC and NSC filters not only are made with different components, but also function in a different manner using uncommon materials and critical dimensions. When considered in light of the different media bed depth and media characteristics, it would, in Ocean Protect’s informed opinion, mean it is almost impossible for the NSC and OBC to have the same treatment performance. As such, Ocean Protect considers they are not interchangeable, and should not be allowed to be marketed, sold or installed as such.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 149,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "This statement would be interpreted by an objective reader as being an opinion based upon the results of the respondent’s assessments and investigations. That is apparent from the context (that is, the content of the report as a whole and the explicit reference to the assessments and investigations) as well as the phrase “Ocean Protect submits” and the words “it would, in Ocean Protect’s informed opinion” and “Ocean Protect considers”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 150,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, two of the recipients of the IES Report were councils and other recipients included engineers. Having regard to this fact, the objective reader would understand that the respondent was expressing an opinion about what should be allowed by the councils to be installed by the applicant, and certified by the engineers, rather than a positive assertion of fact that the applicant “was attempting to mislead and deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 151,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "As to the express words referred to in paragraph 145(3) above, these words are also contained in the summary and are immediately preceded by a reference to a concern being expressed by the respondent, which concern is based upon “the findings of its investigations undertaken during and following its inspection at Hilton Foods in Heathwood”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 152,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "In context, this statement in the summary would be interpreted by an objective reader as being a representation as to the respondent’s state of mind as well as an opinion based upon the content of its report, being its observations and the results of its assessments and investigations. Further, it is plain that the expressed concern is a preliminary one. Again, this is emphasised by the words “may be” which convey uncertainty (and would be understood by the objective reader as such) rather than a positive assertion that the applicant “was attempting to mislead and deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 153,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "Further, having regard to the IES Report as a whole and in particular the content contained in paragraph 27(1) and the third paragraph of the summary, it is properly characterised, and would be interpreted by an objective reader, as being a preliminary report which has been prepared by an expert and which expresses the concerns and opinions of that expert based on its observations, assessments and investigations as set out in the report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 154,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons and having regard to the circumstances in which the report was circulated and that the recipients were themselves in the stormwater industry, the IES Report would not be interpreted by an objective reader as conveying the Misleading Conduct Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 155,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation made?",
+     "Representation as to respondent’s state of mind"
+    ],
+    "text": "For these reasons, the Misleading Conduct Representation was not made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 156,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "The applicant did not allege (or establish) that the statements in the IES Report relied upon to allege the Misleading Conduct Representation were expressions of opinion which were not honestly held by the respondent and which were not based upon rational grounds or which lacked adequate foundation having regard to the investigations and assessments performed by the respondent as identified in the IES Report. Nor did the applicant allege (or establish) that the respondent did not hold the concerns and opinions expressed by it in that report, or that it did not have an adequate foundation to hold such concerns and express such opinions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 157,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was not alleged or established"
+    ],
+    "text": "For these reasons, the respondent did not engage in misleading or deceptive conduct, or conduct which was likely to mislead or deceive: Dateline at [179].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 158,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "On the assumption that the Misleading Conduct Representation was made as alleged, the applicant’s pleaded case is that, in the premises of the matters pleaded in paragraph 8(h) of the Fourth Further Amended Concise Statement, the applicant was not attempting to mislead or deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 159,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "The matters pleaded in paragraph 8(h) included the following:\n(1) the NSC Filter is comparable to, and interchangeable with, the OBC Filter (which, for the reasons given above, the applicant failed to establish);\n(2) the NSC Filter could be marketed, sold or installed as a substitute to the OBC Filter (which, for the reasons given above, the applicant failed to establish);\n(3) the NSC Filter was suitable and acceptable for use in development applications (which, for the reasons given above, the applicant failed to establish).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 160,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "As the applicant failed to establish the matters pleaded in paragraph 8(h), it has failed to establish its pleaded case that the applicant was not attempting to mislead or deceive customers by selling or installing the NSC Filter as equivalent substitutes for the OBC Filter. This aspect of its case fails for this reason alone.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 161,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "A further reason for rejecting this aspect of its case is that the applicant did not establish that an objective reader would have been led into error by the Misleading Conduct Representation, if made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 162,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "That is because the evidence showed that, at least in relation to the HFA site, the applicant had installed the NSC Filter as an equivalent substitute for the OBC Filter without the knowledge of (at least) Colliers, the property manager, and Costin Roe, the certifying engineers.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 163,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "That evidence is as follows:\n(1) in or about April 2018, the applicant was engaged by Hansen Yuncken Pty Ltd to provide and commission various water filtration equipment for the HFA site. This was done by the applicant in about January 2019;\n(2) the HFA site, where the NSC Filters had been installed by the applicant and where the respondent performed its observations of the NSC Filter, is in the BCC region;\n(3) at the time when the applicant’s staff installed the NSC Filters at the HFA site, and as at August 2019 when the respondent’s staff inspected them, the NSC Filters were not approved for use by the BCC at the HFA site. At the same time, the OBC Filter was approved by the BCC for use at the HFA site;\n(4) there was no evidence that this was the only occasion on which the applicant had installed the NSC Filter at a site when the OBC Filter had been approved for that site;\n(5) the NSC Filter was not on the BCC register until 6 November 2019 and, although this coincided with one of the dates on which the respondent published the IES Report, it was not part of the applicant’s case that the NSC Filter had been listed on the BCC register when the respondent published any version of the IES Report and there was no evidence (only an assertion in submissions) as to the time on 6 November when the NSC Filter became listed;\n(6) prior to 6 November 2019, the applicant’s website did not have any information on it about the NSC Filter, the applicant had published no research or test results about the NSC Filter and no information was otherwise available to the public about the NSC Filter;\n(7) in an email from Mr Mark Wilson of Costin Roe to Mr Michael O’Reilly of the BCC, sent on 3 October 2019, Mr Wilson wrote:\n… we have recently been made aware that the installation of the filters at the HFA Facility … may differ to those currently accepted by council and not be those purported to have been installed and included in our certification letter….\nAttached are the MUSIC model output, shop drawings, filter brochures and installation documents of the water quality system provided by SPEL. These documents were relied upon by our office … to provide our certification of the stormwater at completion of works. At face value the installation documents show that the installed filters as the spiral wound geofabric EMC45 filter, as specified and accepted by council and suitable for our compliance documents to be issued at the time of certification.\nBased on the new information, we are currently speaking with the builders (Hansen Yuncken) and SPEL to clarify the installation as being per specification and approved council. At this point in time, we consider our certification void …\n(emphasis added)\n(8) Mr Wilson forwarded this correspondence with the BCC to Mr Andrew Hornbuckle, director of the applicant, stating:\nAndy,\nKeeping you informed. We have been contacted directly by Brisbane Council – refer below.\nThey are very unhappy and of the understanding that the installed does not meet any current approved testing or agreement.\n(emphasis added)\n(9) Mr Hornbuckle accepted both that the installation documents had in fact referred to the OBC Filter rather than the NSC Filter, and that the “spiral wound” filter referred to in the email from Mr Wilson to the BCC was a reference to the OBC Filter;\n(10) the emails identified above establish that the installation documents that had been provided by the applicant to Costin Roe in fact referred to the OBC Filter being used at the HFA site;\n(11) by email dated 17 October 2019, Mr Edie of Colliers wrote to the respondent stating that:\nSpel is locked in at [the HFA site] for 2 years … Due to opening a can of worms, Spel has had to provide all appropriate documents in regard to the media used.\nBecause of events that occurred, Spel has extended the two years by an extra two years of free service …\n(12) having regard to the events which preceded this email, the “can of worms” and the “events that occurred” described in this email are obvious references to the discovery of the installation by the applicant of the NSC Filters, in lieu of the council approved OBC Filters, without the knowledge of (at the least) the property manager and the certifying engineers, who had now been provided with “all appropriate documents in regard to the media used”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 164,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Mr Hornbuckle gave limited evidence during re-examination that the HFA site was a designated field testing site as agreed with the BCC and that this was the reason that the applicant had agreed to provide two years of service to the HFA site (as referred to in the email from Mr Edie). However, there was no evidence as to when the BCC agreed to permit the HFA site to be used in this way, or any terms of any such agreement.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 165,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Further, the weight of the evidence points to a conclusion that, as at the date that the respondent attended the HFA site and published the IES Report to the BCC, the HFA site was not a designated field testing site and the NSC Filters had been installed without the knowledge of Colliers and Costin Roe as well as without the approval of the BCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 166,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "Based on this evidence, and in context, the objective reader would not have been led into error by the Misleading Conduct Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 167,
+    "headings": [
+     "MISLEADING CONDUCT REPRESENTATION",
+     "Was the representation misleading or deceptive, or likely to mislead or deceive?",
+     "What was alleged"
+    ],
+    "text": "For these reasons, if the Misleading Conduct Representation was made, the applicant did not establish that it was misleading or deceptive, or likely to mislead or deceive.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 168,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "The applicant alleges that this representation, being “that the comparison of the OBC Filter and the NSC Filter was based on adequate and appropriate research and investigation”, is an implied representation arising from an objective reading of the whole of the IES Report, and particularly from the extracts in paragraph 27 above and the summary.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 169,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "The applicant pleads at paragraph 8(i) of the Fourth Further Amended Concise Statement that “adequate and appropriate investigation” would involve:\n(1) testing the filters under a representative known stormwater flow regime;\n(2) testing the filters under a representative operating hydraulic regime that enables the filter flow and siphoning system, including backwashing regime, to be fully functional;\n(3) collecting paired water samples from the filters’ inflow and outflow so that performance can be determined;\n(4) undertaking laboratory analysis of the collected water samples for a range of analytes typical of those found in contaminated stormwater;\n(5) repeating the testing regime numerous times to ensure samples are representative;\n(6) undertaking statistical analysis of collected data to determine filter performance.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 170,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "After setting out the steps in paragraph 8(i), the applicant then pleads at paragraph 8(j) that the IES Report “was not based on adequate and appropriate research and investigation” by identifying those steps in 8(i) which it alleges were not undertaken and identifying two further criticisms of the method that was undertaken.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 171,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "The applicant then pleads that, in the premises of the matters pleaded in paragraphs 8(i) and 8(j), the Proper Scientific Method Representation was misleading or deceptive, or likely to mislead or deceive, because the comparison of the OBC Filter and the NSC Filter was not based on adequate and appropriate research and investigation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 172,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "An objective reader would understand that the steps like those identified in paragraph 8(i) (noting the experts’ minor divergence on what steps are relevant) are required in order to complete a detailed scientific report. An objective reader would also be aware of the general structure and content of a detailed testing report.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 173,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "Having regard to its content, the IES Report would therefore have been viewed by the objective reader as being of a preliminary nature because the IES Report:\n(1) identified the circumstances in which the respondent had conducted field inspections of the HFA site on 27 and 28 August 2019 and observed the installation of SPEL Filters which were different in appearance to previously installed filters;\n(2) identified that the respondent had subjected each type of cartridge (NSC Filter and OBC Filter) to comparison for the purposes of verifying the differences between the two designs and associated performance characteristics;\n(3) identified that the respondent had also carried out a review of relevant literature in available journals and that its view and recommendations are based on the results of its comparisons and a review of the relevant articles;\n(4) identified the research and investigations undertaken and the methodology adopted to undertake such research and investigations;\n(5) did not assert that any other research or investigation had been undertaken other than that expressly set out in the IES Report;\n(6) did not contain any assertions about the “adequacy or appropriateness” of the research and investigation which had been undertaken. Rather, it explained the research and investigation that had been performed (including limitations), then set out the respondent’s summary conclusion;\n(7) was not, in either structure or content, a detailed scientific report and nor did the respondent ever hold it out to be a detailed scientific report. Rather, it had the appearance of being a preliminary report. It was a short report which was prepared in a matter of weeks following the inspection of the HFA site on 27 and 28 August 2019.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 174,
+    "headings": [
+     "PROPER SCIENTIFIC METHOD REPRESENTATION"
+    ],
+    "text": "For these reasons and having regard to the circumstances in which the report was circulated and that the recipients were themselves in the stormwater industry, the IES Report would not be interpreted by an objective reader as conveying the Proper Scientific Method Representation.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 175,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "For these reasons, no breach of ss 18 or 29 of the ACL has been established in relation to any of the alleged representations.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 176,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "Accordingly, the originating application must be dismissed. Following further submissions and evidence, about which directions will be made, the issue of costs will be determined on the papers.",
+    "judge": "DOWNES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and seventy-six (176) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.",
+ "associate": null,
+ "dated": "2022-08-01",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "b3b26cfd43e3694707ed60784f96b5be522ffbfe98810cc4841daf0473615cf3",
+ "markdown_file": "data/extracted/2022/2022FCA0891.md"
+}

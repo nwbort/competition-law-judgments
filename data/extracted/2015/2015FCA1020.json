@@ -1,0 +1,1212 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2015/2015FCA1020.docx",
+ "metadata": {
+  "citation": "[2015] FCA 1020",
+  "name": "Australian Competition and Consumer Commission v Visa Inc",
+  "court": "FCA",
+  "year": 2015,
+  "number": 1020,
+  "date_of_judgment": "2015-09-04",
+  "file_numbers": [
+   "NSD164/2013"
+  ],
+  "judges": [
+   "WIGNEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2015-08-31",
+   "2015-09-03",
+   "2015-09-04"
+  ],
+  "hearing_raw": "31 August 2015 and 3-4 September 2015",
+  "number_of_paragraphs": 126,
+  "catchwords": [
+   "COMPETITION – exclusive dealing contrary to s 47 of the Competition and Consumer Act 2010 (Cth) – whether the Court should grant declaratory relief in relation to contravention – pecuniary penalty – relevant principles in relation to the fixing of an appropriate pecuniary penalty pursuant to s 76 of the Competition and Consumer Act 2010 (Cth)"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 46, 47, 76",
+   "Evidence Act 1995 (Cth), ss 81, 191",
+   "Federal Court of Australia Act 1976 (Cth), s 21"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Apple Pty Limited [2012] FCA 646",
+   "Australian Competition and Consumer Commission v Coles Supermarkets Australia Pty Limited [2015] ATPR 42-494; [2015] FCA 330",
+   "Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd (No 3) (2005) 215 ALR 301",
+   "Australian Competition and Consumer Commission v MSY Technology Pty Ltd (2012) 201 FCR 378",
+   "Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 250 CLR 640",
+   "Barbaro v The Queen (2014) 253 CLR 58",
+   "Director of Public Prosecutions (Cth) v Gregory (2011) 34 VR 1",
+   "Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union (2015) 229 FCR 331",
+   "Forster v Jododex Australia Pty Limited (1972) 127 CLR 421",
+   "Hili v The Queen (2010) 242 CLR 520",
+   "Markarian v The Queen (2005) 228 CLR 357",
+   "Milne v The Queen (2012) 259 FLR 42; (2012) 219 A Crim R 237",
+   "Minister for Environment, Heritage and the Arts v PGP Developments Pty Ltd (2010) 183 FCR 10",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "Ponzio v B & P Caelli Constructions Pty Ltd (2007) 158 FCR 543",
+   "R v Geddes (1936) 36 SR (NSW) 554",
+   "R v Williscroft [1975] VR 292",
+   "Rural Press Limited v Australian Competition and Consumer Commission (2003) 216 CLR 53",
+   "Russian Commercial and Industrial Bank v British Bank for Foreign Trade Limited [1921] 2 AC 438",
+   "Singtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249",
+   "Tobacco Institute of Australia Limited v Australian Federation of Consumer Organisations Inc (No 2) (1993) 41 FCR 89",
+   "TPG Internet Pty Ltd v Australian Competition and Consumer Commission (2012) 210 FCR 277",
+   "Trade Practices Commission v CSR Ltd (1991) ATPR 41-076",
+   "Trade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091",
+   "Wong v The Queen (2001) 207 CLR 584"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "VISA INC",
+    "role": "First Respondent"
+   },
+   {
+    "name": "VISA WORLDWIDE PTE LTD",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "VISA U.S.A. INC",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564)",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "VISA INTERNATIONAL SERVICE ASSOCIATION",
+    "role": "Fifth Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v VISA INC, VISA WORLDWIDE PTE LTD, VISA U.S.A. INC, VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564) and VISA INTERNATIONAL SERVICE ASSOCIATION",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr G Nell SC with Mr D Godwin"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitors"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr J Karkar QC with Mr D Roche and Ms H Mann"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Herbert Smith Freehills"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1020",
+  "portal_file_numbers": [
+   "NSD164/2013"
+  ],
+  "portal_event": "Part Heard",
+  "portal_event_date": "2015-09-04"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Visa Inc [2015] FCA 1020"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v VISA INC, VISA WORLDWIDE PTE LTD, VISA U.S.A. INC, VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564) and VISA INTERNATIONAL SERVICE ASSOCIATION"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 164 of 2013"
+  },
+  {
+   "label": "Judge",
+   "value": "WIGNEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "4 September 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – exclusive dealing contrary to s 47 of the Competition and Consumer Act 2010 (Cth) – whether the Court should grant declaratory relief in relation to contravention – pecuniary penalty – relevant principles in relation to the fixing of an appropriate pecuniary penalty pursuant to s 76 of the Competition and Consumer Act 2010 (Cth)"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 46, 47, 76\nEvidence Act 1995 (Cth), ss 81, 191\nFederal Court of Australia Act 1976 (Cth), s 21"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Apple Pty Limited [2012] FCA 646\nAustralian Competition and Consumer Commission v Coles Supermarkets Australia Pty Limited [2015] ATPR 42-494; [2015] FCA 330\nAustralian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd (No 3) (2005) 215 ALR 301\nAustralian Competition and Consumer Commission v MSY Technology Pty Ltd (2012) 201 FCR 378\nAustralian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 250 CLR 640\nBarbaro v The Queen (2014) 253 CLR 58\nDirector of Public Prosecutions (Cth) v Gregory (2011) 34 VR 1\nDirector, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union (2015) 229 FCR 331\nForster v Jododex Australia Pty Limited (1972) 127 CLR 421\nHili v The Queen (2010) 242 CLR 520\nMarkarian v The Queen (2005) 228 CLR 357\nMilne v The Queen (2012) 259 FLR 42; (2012) 219 A Crim R 237\nMinister for Environment, Heritage and the Arts v PGP Developments Pty Ltd (2010) 183 FCR 10\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nPonzio v B & P Caelli Constructions Pty Ltd (2007) 158 FCR 543\nR v Geddes (1936) 36 SR (NSW) 554\nR v Williscroft [1975] VR 292\nRural Press Limited v Australian Competition and Consumer Commission (2003) 216 CLR 53\nRussian Commercial and Industrial Bank v British Bank for Foreign Trade Limited [1921] 2 AC 438\nSingtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249\nTobacco Institute of Australia Limited v Australian Federation of Consumer Organisations Inc (No 2) (1993) 41 FCR 89\nTPG Internet Pty Ltd v Australian Competition and Consumer Commission (2012) 210 FCR 277\nTrade Practices Commission v CSR Ltd (1991) ATPR 41-076\nTrade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091\nWong v The Queen (2001) 207 CLR 584"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "31 August 2015 and 3-4 September 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "126"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr G Nell SC with Mr D Godwin"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitors"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr J Karkar QC with Mr D Roche and Ms H Mann"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Herbert Smith Freehills"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD164/2013",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "VISA INC",
+     "role": "First Respondent"
+    },
+    {
+     "name": "VISA WORLDWIDE PTE LTD",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "VISA U.S.A. INC",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564)",
+     "role": "Fourth Respondent"
+    },
+    {
+     "name": "VISA INTERNATIONAL SERVICE ASSOCIATION",
+     "role": "Fifth Respondent"
+    }
+   ],
+   "judges": [
+    "WIGNEY J"
+   ],
+   "date": "2015-09-04",
+   "date_raw": "4 SEPTEMBER 2015",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The second respondent, Visa Worldwide Pte Ltd (Visa Worldwide), being the company which contracted with financial institutions in Australia for the supply to them of access to and participation in the Visa Network, thereby enabling those institutions to:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1 transact with other financial institutions throughout the world;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.2 issue Visa branded payment cards to their customers; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3 supply services to their merchant customers enabling them to accept payment by Visa branded payment cards, including cards issued in other countries",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "by, on or about 30 April 2010, making it a condition of that supply that those financial institutions not acquire, except to a limited extent, currency conversion services in respect of any transaction using a Visa card or conducted using the Visa Network, from persons competing to supply those services with Visa Worldwide, or a body corporate related to Visa Worldwide, which conduct had the likely effect of substantially lessening competition in the market in Australia for currency conversion services on the Visa network, has thereby contravened s 47(2) of the Competition and Consumer Act 2010 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The second respondent pay to the Commonwealth of Australia a pecuniary penalty in the sum of AU$18 million within 28 days of the date of this order in respect of the declared contravention in paragraph 1.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The second respondent pay the applicant's costs of and incidental to the proceeding, agreed in the sum of AU$2 million.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The application otherwise be dismissed.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [
+   "(Delivered ex tempore, revised from transcript)"
+  ],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Visa Worldwide Pte Ltd (Visa Worldwide) is part of a global business network that supplies and operates the world’s largest retail electronic payment network. That network involves the use of Visa branded payment cards which, amongst other things, can be presented by cardholders to merchants throughout the world as a means of payment. Visa branded payment cards are the most widely used payment cards in Australia and throughout the world. Each day many millions of payment transactions are processed through the Visa payment card network, including millions of transactions with an international element which involve currency conversions."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "In February 2013, the Australian Competition and Consumer Commission (ACCC) commenced proceedings against Visa Worldwide, together with its ultimate parent company, Visa Inc, and a number of other related or associated companies that formed part of the global Visa business (collectively, the Visa entities or Visa). The ACCC alleged that the Visa entities had contravened, or had been involved in contraventions of, ss 46 and 47 of the Competition and Consumer Act 2010 (Cth) (the Act). Those sections respectively prohibit misuse of market power and the practice of exclusive dealing. In short terms, the alleged contraventions of ss 46 and 47 related to conduct which imposed conditions on financial institutions that wished to participate in the Visa payment card network which restricted them, in some circumstances, from using services offered by providers of Dynamic Currency Conversion (DCC) services to process transactions that involved or required the exchange or conversion of different currencies. The alleged contravening conduct involved not only point of sale payment transactions with an international element, but also cross-border transactions involving the withdrawal of money from automatic teller machines (ATM)."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The Visa entities initially defended the proceedings. The matter was eventually set down for trial to commence on 31 August 2015. On the eve of the trial, the ACCC and the Visa entities reached an agreement in relation to the resolution of the liability aspect of the proceedings. That agreement involved Visa Worldwide, being the company which relevantly contracted with financial institutions in Australia in relation to their participation in the Visa payment card network, admitting that its conduct in implementing and enforcing the restrictive conditions involving the use of DCC in relation to point of sale payment transactions amounted to a contravention of s 47(2) of the Act. Given the admitted contravention of s 47 of the Act by Visa Worldwide, the ACCC agreed not to press the remaining allegations against Visa Worldwide and the other Visa entities."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Two questions remain for resolution by the Court. The first is relatively straightforward. It concerns whether the Court should grant declaratory relief in relation to Visa Worldwide’s admitted contravention. The second is somewhat more complex. It involves the fixing of an appropriate pecuniary penalty in respect of Visa Worldwide’s contravening conduct."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The parties, quite properly, provided joint submissions that address the principles applicable to the fixing of an appropriate pecuniary penalty and the application of those principles to the facts of the case. In accordance with the decision of the Full Court in Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union (2015) 229 FCR 331 (Director, Fair Work Building Industry Inspectorate v CFMEU), the parties did not submit or propose any particular amount or range of penalty amounts as being the appropriate pecuniary penalty amount or range. In any event, it goes without saying that the parties’ submissions do not in any way bind the Court. The fixing of an appropriate pecuniary penalty does not in any way involve the mere approval of any submission or proposal advanced by the parties. It remains entirely a matter for the Court to determine the appropriate pecuniary penalty having regard to all the relevant facts and circumstances."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The primary facts relating to Visa Worldwide’s contravening conduct are not in dispute. Nor is there any dispute concerning other facts that may be relevant to the fixing of an appropriate pecuniary penalty. The ACCC and Visa Worldwide jointly tendered a detailed and comprehensive statement of agreed facts. By reason of s 191 of the Evidence Act 1995 (Cth), evidence is not required to prove the existence of the agreed facts. The statement of agreed facts also contains admissions by Visa Worldwide which are admissible against it pursuant to s 81 of the Evidence Act."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "It is unnecessary to rehearse all the detailed facts. Following is a relatively brief summary. The absence of specific reference to any particular agreed fact in this summary should not be taken to be an indication that that particular fact has been ignored or not given any weight. Regard has been had to all the agreed facts in fixing the appropriate penalty."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Since October 2007, Visa has operated the Visa payment card network as a single global business which supplies the world’s largest retail electronic payment network to financial institutions throughout the world, excluding certain European countries. For reasons that it is unnecessary to expand on, the Visa business is structured somewhat differently in Europe, where the business is operated under a framework agreement between Visa Inc and Visa Europe Limited, which remains an association of European banks."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "For the rest of the world, Visa Inc is the ultimate parent company of the main operating Visa entities, including, relevantly, Visa Worldwide. Visa Worldwide is a Singapore incorporated and Singapore based company. Since April 2009, Visa Worldwide has been the Visa entity responsible for contracting with financial institutions in Australia in relation to their participation in the Visa payment card network. It has also been the Visa entity responsible for enforcing, in relation to Australian financial institutions, the relevant rules that regulate the operation of the Visa payment card network."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "It is necessary to go into some level of detail in relation to the operation of electronic payment card networks and the Visa payment card network specifically."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "A so-called open loop payment card network generally involves up to five participants: the network supplier, issuers, cardholders, acquirers, and merchants."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The first and perhaps the main participant is the network supplier. Visa is the network supplier in the Visa payment card network. The other major open loop payment network supplier that operates internationally is MasterCard Incorporated. Other major network suppliers include companies associated with the American Express, JCB and Diners Club payment card networks, though it would appear that those networks are so-called closed loop networks."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Network suppliers enter into agreements with financial institutions that allow the financial institutions to issue payment cards bearing the network supplier’s brand to cardholders. These financial institutions are commonly called issuers. In an open loop network, the network supplier generally does not itself issue payment cards or enter into contracts with cardholders."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In the Visa payment card network, Visa Worldwide was and is the Visa entity that contracted with Australian financial institutions in respect of the issue of Visa branded payment cards to cardholders."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Financial institutions that, pursuant to their contracts with network suppliers, issue payment cards to cardholders, enter into contracts with cardholders containing the terms and conditions upon which the cardholders may use the payment card to obtain cash or purchase goods or services from merchants."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Open loop network suppliers also enter into agreements with financial institutions, relevantly referred to as acquirers, which allow the acquirer to process transactions using the network supplier’s payment cards. The acquirer, in turn, enters into agreements with merchants who wish to accept payment cards in exchange for goods or services. Typically, open loop network suppliers do not directly contract with merchants. The agreements between acquirers and merchants usually include the supply of terminals, which permit the merchants to communicate electronically with the acquirer when the payment card is used."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Acquirers also enter into agreements with ATM operators who wish to accept payment cards in exchange for dispensing cash. The operation of payment card networks, and the Visa network in particular, in relation to the withdrawal of cash from ATMs is not ultimately directly relevant to Visa Worldwide’s admitted contravention, which only concerns services provided in relation to point of sale transactions."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Many financial institutions are both payment card issuers and acquirers. Payment cards can be used by cardholders to make purchasers from merchants (or withdraw cash from ATMs) whether or not the issuing financial institution is the same as the acquiring financial institution. The issuing financial institution might also be in a different country to the acquiring financial institution. That would typically be the case where a cardholder travelled overseas and used their payment card to make purchases with a foreign merchant."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Issuers and acquirers who contract with Visa entities in relation to their participation in the Visa payment card network agree to be bound by rules and regulations contained within the Visa International Operating Regulations (VIOR). The provisions of the VIOR also govern the relationship between issuers and acquirers on the Visa payment card network. Through contractual arrangements with issuers and acquirers and the operation of the VIOR, Visa is able to control the use of Visa trademarks and access to the Visa payment card network. The VIOR rules are critical to the operation of the Visa payment card network and Visa’s business, other than in Visa’s Europe territory, where the VIOR does not operate in terms."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "As already indicated, the Visa payment card network is the world’s largest retail electronic payment card network. Visa branded payment cards are accepted by millions of merchants throughout the world. In Australia alone, Visa branded payment cards are accepted at over 700,000 merchant locations. The Visa payment card network connects millions of acceptance locations involving approximately 15,000 issuing and acquiring financial institutions and approximately 1.96 million ATMs in over 200 countries throughout the world. Each day, Visa processes approximately 150 to 200 million payment transactions involving many billions of dollars. Of those transactions, approximately 4 to 5 million involve transactions where the issuer and acquirer are in different countries. Those transactions are generally referred to as cross-border transactions."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The money value of the transactions processed through the Visa payment card network, as compared with the other major payment card networks, may be illustrated by the following table extracted from Visa’s 2011 annual report. In the case of Visa, payments volume in this table represents the aggregate dollar amount of purchases made with Visa branded payment cards and total volume represents payments volume plus cash volume.\nCompany | Year | Payments volume (billions) | Total Volume (billions) | Total Transactions (billions) | Cards (millions)\nVisa Inc | 2010 | $3,273 | $5,191 | 70.8 | 1,897\nMasterCard | 2010 | $2,047 | $2,727 | 34.8 | 975\nAmerican Express | 2010 | $702 | $713 | 4.8 | 91\nDiscover | 2010 | $107 | $114 | 1.8 | 56\nJCB | 2010 | $87 | $93 | 0.9 | 64\nDiners Club | 2010 | $26 | $27 | 0.2 | 6"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In the 12 month period ending 30 June 2010, there were over 50 million cross-border purchases on payment cards in Australia involving a payment volume of approximately AU$8 billion. Visa payment cards accounted for approximately 60 percent of those transactions and 58 percent of the payment volume."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Payments on the Visa payment card network are processed electronically through Visa’s international processing platform called VisaNet. VisaNet facilitates authorisation, clearing and settlement of payment transactions worldwide. All cross-border transactions involving the use of Visa payment cards in Australia must be processed over VisaNet. Issuers and acquirers that use VisaNet are, by reason of their contracts with Visa, bound by the VIOR. Through the VIOR and through its contracts with issuers and acquirers, Visa controls and has the ability to refuse access to VisaNet."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "It is unnecessary to go into the intricate detail of how payments are processed through the Visa payment card network and VisaNet. In simple terms, the process involves the following steps. First, a cardholder presents a Visa card to a merchant. The merchant then electronically submits the payment transaction to the acquirer. The acquirer communicates with the issuer to seek authorisation of the transaction. If authorised, the debt owed by the cardholder to the merchant for the purchase is unconditionally discharged and the acquirer agrees to reimburse the merchant for the transaction amount less any applicable fees or charges. The acquirer then submits a clearing message containing details of the transaction to Visa on the VisaNet system. Visa routes that clearing message to the issuer. The issuer agrees to pay the transaction amount less any applicable fees and charges. Visa calculates the settlement obligations of the issuer and the amount due to the acquirer, net of applicable fees and charges."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The obligations between issuers and acquirers in respect of purchases from merchants are settled through the VisaNet system. In simple terms, the gross amounts owed by and to the many different financial institutions acting as issuers and acquirers are set-off on a multilateral basis. The net amounts owed by, or to, financial institutions, as calculated in the settlement process, are then paid by value transfer through the settlement system."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Ultimately, of course, as anyone who has ever used a payment card well knows, the issuer applies the transaction amount of the purchase made from the merchant to the account of the cardholder. The fees and charges applied to the cardholder’s account are determined according to the contractual relationship between the issuer and the cardholder."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Visa earns revenue from the transactions processed on its systems. It earns service fees from issuers and acquirers, which are calculated as a percentage of payments volume. It also receives revenue from authorisation, clearing, settlement, and network access, and other maintenance and support services."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The facts relating to the authorisation, clearance and settlement of payments through the Visa payment card network are a little more complex when cross-border payment transactions are involved. That is because the merchant and their acquirer are, by definition, in different countries to the cardholder and their issuer and therefore, at least in most cases, different currencies are usually involved. In those circumstances, some currency conversion is required. A cross-border transaction in which the transaction currency is different to the cardholder’s currency is generally referred to as a multi-currency transaction. That is as opposed to a single-currency transaction, which is a cross-border transaction which, for various reasons is processed through the Visa network on the basis that the transaction currency is the same as the cardholder currency. As will be explained later, a transaction where DCC services have been provided at the point of sale is regarded as a single-currency transaction."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "It is again unnecessary to go into the intricate detail of how cross-border payment transactions are processed on the Visa payment card network and VisaNet. In short, settlement must occur in one of a number of Visa settlement currencies. There are currently 22 Visa settlement currencies, though this has changed over time. The Australian dollar is a Visa settlement currency."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "When a Visa card is used for a cross-border transaction, issuers pay the amounts due by them in the settlement currency. If the cardholder’s currency is not a Visa settlement currency, the issuer must convert the transaction amount into a Visa settlement currency."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Acquirers receive payments due to them from Visa in their chosen settlement currency, which may or may not be the same as the local currency where the transaction took place. If the local currency is not a Visa settlement currency, or if the acquirer wishes to be paid in a different Visa settlement currency, then the acquirer must nominate a Visa settlement currency to be paid in. Once it has received that currency from Visa, the acquirer must convert it into the local currency for payment to the merchant."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In the course of the settlement process in respect of multi-currency transactions, Visa supplies currency conversion services. Amongst other things, it sets “buy” and “sell” exchange rates by selecting a range of rates available in the wholesale currency market daily. It then applies those rates so as to clear and settle amounts owing as between issuers and acquirers. It also accepts the net daily settlement amount owed by each issuer in the settlement currency nominated by that issuer and pays the net daily position of each acquirer in the settlement currency nominated by the acquirer."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Importantly, Visa earns additional revenue in respect of cross-border transactions, particularly multi-currency transactions. The additional revenue comprises both gains made as a result of Visa’s activities on foreign exchange markets and additional fees it charges issuers and acquirers in respect of cross-border transactions."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In relation to fees, for international transactions, Visa charges fees called international service assessment fees (ISA), which are or have at various times been levied on both issuers and acquirers, and international acquiring fees (IAF), which are only levied on acquirers."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "The revenue earned by Visa from international transaction fees and foreign exchange revenue is, to say the least, very large. Visa’s global operating revenue for 2010 was US$8.065 billion. Its global revenue from the imposition of international transaction fees and foreign exchange revenue in 2010 was US$2.290 billion. Its 2010 revenue from the imposition of ISA and IAF fees alone was US$1.986 billion, meaning that revenue from Visa’s activities in foreign exchange markets in that period was US$304 million."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In Australia, in the fiscal year ended 30 September 2010, the total volume of inbound cross-border multi-currency transactions was approximately US$3.74 billion. The revenue derived by Visa from foreign currency trading arising from those transactions was between approximately US$6.74 million and US$14.98 million, and its fee revenue was US$7.36 million."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "By 2010, however, there was an increasing incidence of cross-border transactions that, insofar as Visa’s payment card network was concerned, were being processed as single-currency transactions. That trend was the result, at least in part, of the growth in DCC services in Australia. During the period May 2009 to March 2010, the value of all DCC transactions conducted on Visa branded cards in Australia increased from about US$13.6 million to US$22.5 million. This increase may not be solely attributable to the increased use of DCC services. Some of it may have been the result of general variations in Visa volumes and an overall increase in international transactions."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Nevertheless, the growth in DCC services presented a number of challenges to Visa. Amongst those challenges was the fact that at least some of the revenue that Visa earned from cross-border multi-currency transactions was at risk of being eroded."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "It is necessary to explain in some little detail how DCC services fit into the Visa payment card network. DCC services are not provided by Visa. They are provided by independent DCC providers."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "DCC providers supply acquirers with services which enable acquirers to convert a cross-border transaction into the currency of the country in which the payment card was issued at the point of sale and prior to the transaction being submitted to the international electronic payment card network. This typically occurs before the acquirer sends the authorisation message to the network."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In simple terms, a DCC transaction proceeds in the following way. When a merchant obtains and transmits a cardholder’s details to an acquirer and the card is identified as being eligible for DCC, the DCC provider electronically fetches the applicable exchange rate and calculates the transaction amount converted into the cardholder’s currency. Visa’s rules require this converted transaction amount to be disclosed to the cardholder. This is done by the DCC provider electronically notifying the acquirer of the converted transaction amount, the acquirer in turn notifying this amount to the merchant and the merchant then advising the cardholder of the converted transaction amount. This all happens swiftly and the cardholder is then generally given the option of paying for the transaction in the cardholder’s currency, as opposed to the merchant’s currency."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "If the cardholder accepts that option, the DCC provider converts the transaction amount into the cardholder’s currency. The acquirer then submits the converted transaction to the network supplier’s system for the transaction to be authorised, cleared and settled in the ordinary way. The difference is that the transaction is submitted in the cardholder’s currency rather than in the local currency."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "On the Visa payment card network, DCC transactions may settle in one of two ways. First, if issuers and acquirers clear and settle with Visa in the cardholder’s home currency, Visa does not perform any currency conversion function. If, on the other hand, acquirers do not settle with Visa in the cardholder’s currency, Visa is still required to convert the transaction into the acquirer’s settlement currency for clearing and settlement. In both cases, however, the transaction is considered to be a single-currency transaction. Visa does not, therefore, earn the fees it would otherwise earn if the transaction proceeded as a multi-currency transaction. If the DCC transaction settles in the first mentioned way, Visa is also unable to earn any foreign exchange revenue from the transaction. It is unclear what proportion of DCC transactions settle in a way that does not involve any foreign currency conversion."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In a DCC transaction at point of sale, the DCC provider generally imposes a margin on the exchange rate. The revenue from the margin is usually shared between the acquirer and the merchant."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Cardholders are not necessarily better off if they elect to have their purchase proceed by way of a DCC transaction. Much will depend on the exchange rate margin charged by the DCC provider. Issuing financial institutions also may charge a cross-border fee on an international transaction regardless of whether it is treated as a single-currency or multi-currency transaction."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "In any event, a cross-border point of sale transaction can only proceed as a DCC transaction if the network supplier permits DCC services to be offered by the acquirer. In the case of the Visa payment card network, a merchant or its acquiring bank may only offer DCC services to a customer if Visa permits DCC to be offered under the VIOR."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "Prior to May 2010, Visa, through the VIOR, dealt with DCC in a number of different ways. First, there were general prohibitions on DCC for all transactions in two Visa regions: Central Europe, Middle East and Africa (CEMEA), and Latin America and the Caribbean (LAC). Second, since at least February 2006, acquirers within Visa’s North America and Asia Pacific regions, including Australia, who wished to offer DCC services in respect of point of sale transactions had to comply with a number of specific conditions in the VIOR. Amongst other things, acquirers were required to register themselves, their merchant outlets and their DCC provider with Visa prior to offering DCC services. An annual registration and monitoring fee of US$20,000 was payable. Acquirers were also required to ensure that DCC was not offered or provided by default and merchants were required to disclose certain information to cardholders (including on the transaction receipt) and were required not to misrepresent to cardholders that the DCC service was a Visa service. In many respects, the proper operation of DCC services on the Visa network depended on compliance with those rules."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "relevant Facts"
+    ],
+    "text": "As at April 2010, over 20,000 merchant outlets in Australia had been registered by their acquirers to permit them to offer DCC on Visa branded payment cards. In Australia, DCC services are offered by a number of DCC processors, including: Pure Commerce Pty Ltd, Global Blue Currency Choice Australia Pty Ltd, Fexco Merchant Services, Travelex Limited, and WorldPay UK Limited. Acquirers who offered DCC services in Australia included: ANZ Banking Corporation, National Australia Bank, Commonwealth Bank of Australia, Westpac, Tyro Payments Ltd, and Cuscal Limited."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "On 27 April 2010, Visa modified the VIOR as they related to DCC services in North America and the Asia Pacific region. The rule change did not affect Europe or those regions where DCC was prohibited by the rules in any event. The general effect of the modifications was to require all acquirers to re-register their existing DCC providers and merchant outlets. However, only acquirers, DCC providers and merchant outlets already actively offering DCC services as at 30 April 2010 were eligible to re-register. Re-registration was required by 1 June 2010 and an annual registration fee of US$45,000 was payable per acquirer per country. New receipt requirements were also imposed."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "In short and simple terms, the effect of the rule changes was to prevent acquiring banks and DCC providers from offering currency conversion services on the Visa payment card network to new merchant customers. In even shorter terms, the effect was to restrict the expansion of DCC services on the Visa payment card network in Australia."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Visa Worldwide, as the Visa entity responsible for contracting with Australian issuers and acquirers, was responsible for implementation of the 30 April 2010 VIOR changes relating to DCC services. It was also responsible for enforcing compliance with those VIOR changes by Australian acquirers, and through them, Australian DCC providers and merchants. On or about 28 April 2010, Visa Worldwide advised Visa network participants in Australia of the relevant changes to the VIOR."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Neither the VIOR changes themselves, nor Visa Worldwide’s notifications of the changes suggested that the changes were temporary or provisional. No end date was specified."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "In May and June 2010, Visa allowed some limited revision to these VIOR changes. Acquirers were permitted to register merchants who, as at 30 April 2010, had contracted to provide DCC but had not yet actively conducted such transactions. New acquirers and DCC providers would also be able to offer DCC services at merchant outlets that had already been actively providing DCC as at 30 April 2010."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "The decision to make the relevant modifications to the VIOR in relation to DCC in the Asia Pacific and North America regions was a global decision. It was considered at executive levels of management at Visa, including the President of Visa Inc, the Global Head of Product for Visa Inc and the Group Executive overseeing Visa’s business in various regions, including the Asia Pacific region."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "The context in which the global decision was made is of some importance. There was some level of disagreement within the senior executive levels of management of Visa as to how to respond to the expansion of DCC."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Amongst other things, there was concern amongst some senior executives that the increase of DCC would lead to a decrease in foreign currency trading revenue and a potential loss of fee revenue for Visa. Some executives believed, however, that this potential loss of revenue from DCC could be addressed by Visa, not by restricting the expansion of DCC, but rather by raising fees for single-currency international transactions, a step that had previously been taken by MasterCard without any apparent loss of custom."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "There were also concerns amongst some of the senior executives about potential harm to cardholders from the use of DCC, including potential confusion, additional costs and potential harm to the Visa brand if cardholders associated any negative experience relating to DCC at the point of sale with Visa. Some concerns were also expressed about the fact that DCC tended to shift revenue away from issuers and towards acquirers who shared in the foreign exchange margins charged by DCC providers."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Importantly, some senior executives also recognised that there were regulatory concerns arising from any restrictions that Visa imposed on DCC."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "It is not possible to determine which, if any, of those concerns or considerations turned out to be the main or the most significant motivators for the rule change that was eventually made. All that can be said is that each of them was a material consideration in the decision to restrict the expansion of DCC in, amongst other places, Australia."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "As far as Visa was concerned, the changes that were made to the VIOR were introduced pending a final determination by Visa as to the use of DCC at point of sale. That fact, however, must be considered in the context of the fact that, as earlier indicated, there was no indication in either the rule changes themselves, or their announcement, that the changes were temporary or provisional. It does appear, however, that between May and October 2010, Visa commissioned studies and research to consider DCC practices, including consumer research, issuer fee research and audits of how DCC had been provided in North America and the Asia Pacific region."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Perhaps not surprisingly, these rule changes did not go unnoticed. After they were made, a number of Visa’s acquirers and some DCC providers in the Asia Pacific region voiced concerns with Visa about the registration and certification requirements under the VIOR. The ACCC and equivalent bodies in New Zealand, the United States, Singapore and Korea also made regulatory inquiries and investigations concerning the VIOR changes."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "On 7 October 2010, Visa announced that it was lifting its “moratorium” on registration of new merchants and merchant locations for DCC in North America and the Asia Pacific region, provided that the new merchants or merchant locations offered DCC in a manner that complied with the VIOR. Amendments were subsequently made to the VIOR to reflect this and to effectively reverse the April 2010 changes."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "It is not possible to calculate the financial benefit to Visa in Australia resulting from the VIOR changes relating to DCC that were in place between April and October 2010."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "The rule changes were likely to have had an adverse impact on DCC providers and acquirers in Australia. The lack of any indication that the rule changes may have been temporary was likely to have had the effect of impacting on the investment decisions of current and potential DCC providers. Whilst the changes were in place, there was likely to be uncertainty as to whether there would ever be an opportunity for DCC providers to expand their customer base. Some suppliers considered that if the service could only be offered to MasterCard cardholders, this would be an unattractive proposition to merchants."
+   },
+   {
+    "n": 65,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "In the year ending 30 September 2010, Visa earned global revenue of US$8.06 billion. Its Australian revenue for the same period was US$320.6 million."
+   },
+   {
+    "n": 66,
+    "headings": [
+     "The Contravening Conduct"
+    ],
+    "text": "Visa Worldwide’s annual turnover during the period of 12 months ending at the end of the month in which the contravening conduct occurred was AU$331 million."
+   },
+   {
+    "n": 67,
+    "headings": [
+     "The contravention"
+    ],
+    "text": "Visa Worldwide admits, and the ACCC and Visa Worldwide jointly submit, that Visa Worldwide’s conduct on or about 30 April 2010 in implementing and effectively enforcing in Australia the VIOR changes in relation to DCC involved exclusive dealing contrary to ss 47(1), (2)(d) and (10) of the Act. Subsections 47(1), (2)(d) and (10) relevantly provide as follows:\n47 Exclusive dealing\n(1) Subject to this section, a corporation shall not, in trade or commerce, engage in the practice of exclusive dealing.\n(2) A corporation engages in the practice of exclusive dealing if the corporation:\n(a) supplies, or offers to supply, goods or services;\n(b) supplies, or offers to supply, goods or services at a particular price; or\n(c) gives or allows, or offers to give or allow, a discount, allowance, rebate or credit in relation to the supply or proposed supply of goods or services by the corporation;\non the condition that the person to whom the corporation supplies, or offers or proposes to supply, the goods or services or, if that person is a body corporate, a body corporate related to that body corporate:\n(d) will not, or will not except to a limited extent, acquire goods or services, or goods or services of a particular kind or description, directly or indirectly from a competitor of the corporation or from a competitor of a body corporate related to the corporation;\n(e) ….\n(f) ….\n…\n(10) Subsection (1) does not apply to the practice of exclusive dealing constituted by a corporation engaging in conduct of a kind referred to in subsection (2), (3), (4) or (5) or paragraph (8)(a) or (b) or (9)(a), (b) or (c) unless:\n(a) the engaging by the corporation in that conduct has the purpose, or has or is likely to have the effect, of substantially lessening competition; or\n(b) the engaging by the corporation in that conduct, and the engaging by the corporation, or by a body corporate related to the corporation, in other conduct of the same or a similar kind, together have or are likely to have the effect of substantially lessening competition."
+   },
+   {
+    "n": 68,
+    "headings": [
+     "The contravention"
+    ],
+    "text": "In the context of s 47 of the Act, the relevant services supplied by Visa Worldwide were the services it supplied to financial institutions in Australia in respect of access to and participation in the Visa payment card network. Access to and participation in the Visa payment card network enabled the relevant Australian financial institutions to transact with other financial institutions throughout the world, issue Visa branded payment cards to their customers and supply services to their merchant customers which enabled them to accept payment by Visa branded payment cards, including cards issued in other countries."
+   },
+   {
+    "n": 69,
+    "headings": [
+     "The contravention"
+    ],
+    "text": "By reason of Visa Worldwide’s conduct on 30 April 2010, when it communicated the VIOR changes to the relevant Australian financial institutions, it became a condition of the supply of those services that the financial institutions not acquire, except to a limited extent, currency conversion services from DCC providers that supplied currency conversion services in competition with Visa Worldwide, or Visa entities related to it. The market in which that competition occurred was the market in Australia for currency conversion services on the Visa payment card network. Visa Worldwide’s conduct had the likely effect of substantially lessening competition in that market."
+   },
+   {
+    "n": 70,
+    "headings": [
+     "The contravention"
+    ],
+    "text": "The agreed facts and the factual admissions by Visa are sufficient to establish the contravention of s 47 of the Act that has been admitted by Visa Worldwide. The joint submission that Visa Worldwide contravened s 47 of the Act should be accepted."
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "The ACCC and Visa Worldwide asked the Court to make the following declaration:\n1. The second respondent, Visa Worldwide Pte Ltd (Visa Worldwide), being the company which contracted with financial institutions in Australia for the supply to them of access to and participation in the Visa Network, thereby enabling those institutions to:\n1.1. transact with other financial institutions throughout the world;\n1.2. issue Visa branded payment cards to their customers; and\n1.3. supply services to their merchant customers enabling them to accept payment by Visa branded payment cards, including cards issued in other countries\nby, on or about 30 April 2010, making it a condition of that supply that those financial institutions not acquire, except to a limited extent, currency conversion services in respect of any transaction using a Visa card or conducted using the Visa Network, from persons competing to supply those services with Visa Worldwide, or a body corporate related to Visa Worldwide, which conduct had the likely effect of substantially lessening competition in the market in Australia for currency conversion services on the Visa network, has thereby contravened s 47(2) of the Competition and Consumer Act 2010 (Cth)."
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "The Court has a wide discretionary power to make declarations under s 21 of the Federal Court of Australia Act 1976 (Cth): Forster v Jododex Australia Pty Limited (1972) 127 CLR 421 at 437-438 (Forster); Tobacco Institute of Australia Limited v Australian Federation of Consumer Organisations Inc (No 2) (1993) 41 FCR 89 at 99."
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "Before making a declaration, the Court should be satisfied that the question is real, not hypothetical or theoretical, that the applicant has a real interest in raising the issue and that there is a proper contradictor: Forster at 437-438 (Gibbs J citing Russian Commercial and Industrial Bank v British Bank for Foreign Trade Limited [1921] 2 AC 438 at 448). Each of those requirements is satisfied here. The issue concerning the contravention of the Act by Visa Worldwide is a real, not a hypothetical or theoretical, issue. The ACCC as the relevant regulator has a real interest in raising this issue and Visa Worldwide is an appropriate contradictor: Australian Competition and Consumer Commission v MSY Technology Pty Ltd (2012) 201 FCR 378."
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "The facts necessary to support the declaration may be established by agreed facts (under s 191 of the Evidence Act) and admissions: Minister for Environment, Heritage and the Arts v PGP Developments Pty Ltd (2010) 183 FCR 10. The agreed facts provide a proper factual basis for the declaration sought by the ACCC and agreed to by Visa Worldwide."
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "Declarations relating to contraventions of legislative provisions are likely to be appropriate where they serve to record the Court's disapproval of the contravening conduct, vindicate the applicant's claim that the respondent contravened the provisions and assist the regulator to carry out its duties, and deter other persons from contravening the provisions: Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140 at [6] and the cases there cited. That is the situation here. The declaration sought by the ACCC and agreed to by Visa Worldwide is of utility and is an appropriate exercise of the Court's discretion to grant declarations. It contains sufficient particulars of how and why the conduct amounted to a contravention of the Act: cf. Rural Press Limited v Australian Competition and Consumer Commission (2003) 216 CLR 53 at [90]."
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Declaratory relief"
+    ],
+    "text": "Accordingly, the Court will make the declaration in the terms sought by the ACCC and consented to by Visa Worldwide."
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Pecuniary penalty"
+    ],
+    "text": "Section 76(1) of the Act provides for the imposition of pecuniary penalties in respect of certain contraventions of the Act, including contraventions of Part IV of the Act. It provides as follows:\n(1) If the Court is satisfied that a person:\n(a) has contravened any of the following provisions:\n(i) a provision of Part IV (other than section 44ZZRF or 44ZZRG);\n(iii) section 95AZN; or\n(b) has attempted to contravene such a provision; or\n(c) has aided, abetted, counselled or procured a person to contravene such a provision; or\n(d) has induced, or attempted to induce, a person, whether by threats or promises or otherwise, to contravene such a provision; or\n(e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision, or\n(f) has conspired with others to contravene such a provision;\nthe Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each act or omission by the person to which this section applies, as the Court determines to be appropriate having regard to all relevant matters including the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct."
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Pecuniary penalty"
+    ],
+    "text": "Section 76(1A) of the Act specifies the maximum penalty payable under s 76(1)(b) in relation to contraventions of provisions of Part IV (other than those specified in other paragraphs of the subsection). It provides as follows:\n(1A) The pecuniary penalty payable under subsection (1) by a body corporate is not to exceed:\n(aa) for each act or omission to which this section applies that relates to section 44ZZRJ or 44ZZRK—the greatest of the following:\n(i) $10,000,000;\n(ii) if the court can determine the total value of the benefits that have been obtained (within the meaning of Division 1 of Part IV) by one or more persons and that are reasonably attributable to the act or omission—3 times that total value;\n(iii) if the Court cannot determine the total value of those benefits—10% of the annual turnover (within the meaning of Division 1 of Part IV) of the body corporate during the period (the turnover period) of 12 months ending at the end of the month in which the act or omission occurred; and\n(a) for each act or omission to which this section applies that relates to section 45D, 45DB, 45E or 45EA—$750,000; and\n(b) for each act or omission to which this section applies that relates to any other provision of Part IV—the greatest of the following:\n(i) $10,000,000;\n(ii) if the Court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the act or omission—3 times the value of that benefit;\n(iii) if the Court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the period (the turnover period) of 12 months ending at the end of the month in which the act or omission occurred; and\n(c) for each act or omission to which this section applies that relates to section 95AZN—$33,000; and\n(d) for each other act or omission to which this section applies—$10,000,000."
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Pecuniary penalty"
+    ],
+    "text": "The parties agree that it is not possible to determine the value of any benefit that Visa Worldwide (or any of the Visa entities) obtained directly or indirectly from the contravening conduct for the purposes of s 76(1A)(b)(ii) of the Act. It is, however, admitted by Visa Worldwide and agreed by the ACCC that Visa Worldwide’s annual turnover for the purposes of s 76(1A)(b)(iii) of the Act was AU$331 million. Accordingly, the maximum penalty payable by Visa Worldwide in respect of its admitted contravention of s 47 of the Act is AU$33.1 million."
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "The starting point in considering the relevant principles in relation to the fixing of an appropriate pecuniary penalty for a contravention of s 47 of the Act is, not surprisingly, the terms of s 76. The amount of the pecuniary penalty that the Court should order the contravener to pay is the amount which the Court determines to be “appropriate” having regard to all relevant matters. Four particular considerations are then listed. These four considerations may be taken to be mandatory considerations. They are: first, the nature and extent of the act or omission which constitutes the relevant contravention; second, any loss or damage suffered as a result of the act or omission; third, the circumstances in which the act or omission took place; and fourth, whether the person has previously been found by the Court in proceedings under Parts VI and XIB to have engaged in similar conduct. This list is obviously not exhaustive."
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Since the decision of this Court in Trade Practices Commission v CSR Ltd (1991) ATPR 41-076 it has been customary for judges, when fixing the amount of a pecuniary penalty or penalties under s 76 of the Act, to refer to a checklist of matters that are usually relevant to the exercise of determining an appropriate pecuniary penalty. This list, which has been expanded and developed in later cases, largely overlaps with the four mandatory considerations referred to in s 76, or includes matters that are subsets of, or slightly more specific descriptions of factors that would otherwise fall within one or more of the four mandatory considerations."
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Lest it be thought that there has been some departure from custom here, the list of potentially relevant matters includes the following: the size and financial position of the contravening company; whether the contravention was intentional; the period over which the contravention extended; whether the contravening conduct was systematic, deliberate or covert; whether senior management were aware of or involved in the contravention; whether the contravening company had a corporate culture conducive to compliance with the Act; whether the company co-operated with the ACCC; whether the contravener has engaged in similar conduct in the past; and the effect on the functioning of the market and other economic effects of the conduct. Each of these matters is relevant, to a greater or lesser extent, to the fixing of the penalty in this case."
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "This list is plainly not exhaustive. Nor should it be approached in a regimented or formulaic way. To do that would impermissibly constrain or formalise what is, at the end of the day, a broad evaluative judgment."
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "The process of fixing an appropriate penalty under s 76 of the Act has been, and plainly can be, likened to the process of arriving at an appropriate sentence for a criminal offence: TPG Internet Pty Ltd v Australian Competition and Consumer Commission (2012) 210 FCR 277 at 294. As with criminal sentencing, however, there is a regrettable tendency to over-analyse and over-intellectualise the exercise. As Jordan CJ said as long ago as 1936, in R v Geddes (1936) 36 SR (NSW) 554 at 555, sentencing is “a class of problem in solving which it is easier to see when a wrong principle has been applied than to lay down rules for solving particular cases, and in which the only golden rule is that there is no golden rule.”"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "In Markarian v The Queen (2005) 228 CLR 357 (Markarian) at [66], McHugh J said, after referring to Jordan CJ’s observations, that the reality of the sentencing process is that the judge must weigh all the circumstances and make a judgment as to what is the appropriate sentence. Since the decision of the Full Court of the Supreme Court of Victoria in R v Williscroft [1975] VR 292, this value judgment has frequently been described as an “instinctive synthesis of all the various aspects involved in the punitive process” (at 300). As was pointed out in the joint judgment in Markarian, the expression “instinctive synthesis” may need further explanation lest it be “understood to suggest an arcane process into the mysteries of which only judges can be initiated” (at [39])."
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "No better explanation can be given than the one given by McHugh J in Markarian, where his Honour described instinctive synthesis as meaning “the method of sentencing by which the judge identifies all the factors that are relevant to the sentence, discusses their significance and then makes a value judgment as to what is the appropriate sentence given all the factors of the case” (at [51]). Or, as the plurality put it in Markarian (at [37]) “the sentencer is called on to reach a single sentence which … balances many different and conflicting features.”"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "As also made plain in Markarian, and more recently emphasised in Barbaro v The Queen (2014) 253 CLR 58 at [34]-[35], what the discretion does not involve is a mathematical exercise, where the sentence is broken down into some set of component parts. As the plurality put it in Wong v The Queen (2001) 207 CLR 584 at [76] “to single out some of those considerations and attribute specific numerical or proportionate value to some features, distorts the already difficult balancing exercise which the judge must perform.”"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Whilst the process of fixing an appropriate penalty must not be approached as a mathematical exercise, nonetheless careful attention must almost always be given to the maximum penalty. That is so for at least three reasons: first, because the legislature has legislated for the maximum penalty and it is therefore an expression of the legislature’s policy concerning the seriousness of the prescribed conduct; second, because it permits comparison between the worst possible case and the case that the Court is being asked to address; and third, because the maximum penalty provides a “yardstick” which should be taken and balanced with all the other relevant factors: Markarian at [31]."
+   },
+   {
+    "n": 89,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "The maximum penalty is of some importance in arriving at the appropriate penalty in this matter for at least two reasons. First, the maximum penalty of AU$33.1 million, derived from Visa Worldwide’s turnover in the 12 months preceding the contravention, is very large. That reveals that contraventions of provisions such as s 47 of the Act are regarded by the legislature as potentially very serious, particularly where the contravening company is a large company with a high turnover."
+   },
+   {
+    "n": 90,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Second, in terms of comparing the contravention to the hypothetical worst case that might attract the maximum penalty, the parties jointly submit, in effect, that this matter is of mid-range seriousness. They submit that the contravention is serious, but not the most serious, contravention. For that reason, the joint submission is that a penalty somewhere in the middle of the available range of penalties would in all the circumstances be appropriate."
+   },
+   {
+    "n": 91,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "It is not always easy, or fruitful, to position a particular contravention on some hypothetical scale of seriousness. Nonetheless, there is at least some merit in the joint submission that Visa Worldwide’s contravention is serious, but not the most serious, and falls somewhere in the middle of the range."
+   },
+   {
+    "n": 92,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "The deterrent effect of a pecuniary penalty is undoubtedly a particularly significant consideration to have regard to when determining an appropriate penalty for commercial and competition related contraventions, including contraventions of s 47 of the Act. The reason for that is fairly obvious. In Singtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249 (Singtel Optus), the Full Court said, in the context of setting a pecuniary penalty for a consumer protection contravention by a corporation (at [62]):\nThere may be room for debate as to the proper place of deterrence in the punishment of some kinds of offences, such as crimes of passion; but in relation to offences of calculation by a corporation where the only punishment is a fine, the punishment must be fixed with a view to ensuring that the penalty is not such as to be regarded by that offender or others as an acceptable cost of doing business."
+   },
+   {
+    "n": 93,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "This statement was approved by the High Court in Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 250 CLR 640 at [66]. The majority said (at [65]):\nGeneral and specific deterrence must play a primary role in assessing the appropriate penalty in cases of calculated contravention of legislation where commercial profit is the driver of the contravening conduct."
+   },
+   {
+    "n": 94,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "There are at least two elements to deterrence. First, there is specific deterrence, which involves setting a penalty which will deter the specific contravener from ever again engaging in such contravening conduct. Second, general deterrence is aimed at deterring others who might engage in similar conduct from engaging in that conduct. But, in this context, the message is the same for both specific and general deterrence. The Court must and will ensure that any penalty imposed will be adequate to ensure that the conduct will not ultimately be profitable and that penalties are not just seen to be the cost of doing business: Australian Competition and Consumer Commission v Coles Supermarkets Australia Pty Limited [2015] ATPR 42-494; [2015] FCA 330 at [100]. Those engaged in trade and commerce must be deterred from the cynical calculation involved in weighing up the risk of penalty against the profits to be made from contravention: Singtel Optus at [63]."
+   },
+   {
+    "n": 95,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Nothing said by the Full Court in Director, Fair Work Building Industry Inspectorate v CFMEU indicates any intention to depart from the proposition that deterrence is likely to be a particularly significant, if not the most significant, consideration in fixing pecuniary penalties for these types of contraventions. In that case, the Full Court gave consideration to a submission that the fixing of a pecuniary penalty was materially different to sentencing for a criminal offence because the only purpose of fixing a pecuniary penalty is deterrence. In the course of rejecting that submission, the Court observed that deterrence might not be the only purpose of imposing a penalty. In an appropriate case, the penalty imposed should also have a punitive element and the contravener should be censured through manifest denunciation: at [72]-[74], referring to Hili v The Queen (2010) 242 CLR 520 at [63]; Director of Public Prosecutions (Cth) v Gregory (2011) 34 VR 1 at [57]; Milne v The Queen (2012) 259 FLR 42; (2012) 219 A Crim R 237 at [295]-[297]. That is not to suggest that deterrence is not a significant, or perhaps even the most significant, consideration in fixing an appropriate pecuniary penalty."
+   },
+   {
+    "n": 96,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "In considering the appropriate penalty to secure deterrence, some consideration obviously must be given to the size and financial position of the contravener. The sum required to achieve this object will be larger where the company has vast resources: Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd (No 3) (2005) 215 ALR 301 at [39]; Australian Competition and Consumer Commission v Apple Pty Limited [2012] FCA 646 at [38]."
+   },
+   {
+    "n": 97,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Even where the maximum penalty for the contravention is high, and the amount necessary to provide effective deterrence is large, the amount of the penalty cannot be so high as to be oppressive: Trade Practices Commission v Stihl Chain Saws (Aust) Pty Ltd (1978) ATPR 40-091 at 17,896; NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 at 293. At the end of the day, the pecuniary penalty imposed must be proportionate to the contravention: Ponzio v B & P Caelli Constructions Pty Ltd (2007) 158 FCR 543 at [93]; cited with approval in Director, Fair Work Building Industry Inspectorate v CFMEU at [68]."
+   },
+   {
+    "n": 98,
+    "headings": [
+     "Pecuniary penalty",
+     "Pecuniary penalties – Relevant principles"
+    ],
+    "text": "Finally, the Court may in some cases derive assistance from penalties imposed previously in comparable cases. That is the case particularly where the comparable cases establish a pattern or range of penalties imposed for like contraventions. In this matter, however, there would appear to be no comparable cases."
+   },
+   {
+    "n": 99,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "There could be little doubt that the contravention of s 47 of the Act by Visa Worldwide is a very serious contravention."
+   },
+   {
+    "n": 100,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Visa Worldwide was and is a large corporation with a pivotal role in relation to the operation of the Visa payment card network in Australia. As the Visa entity responsible for contracting with issuing and acquiring financial institutions in Australia, at the time of the contravention it effectively had the power to control and regulate the use of the Visa payment card network in Australia by financial institutions. It had the capacity to exclude other service providers, such as DCC providers, from accessing and participating in the Visa payment card network in Australia. Given that the Visa payment card network was the largest such network operating in Australia, Visa’s conduct had the capacity to significantly affect competition in markets related to the Visa card payment network. That included the market in question here: the market for the supply of currency conversion services on the Visa payment card network."
+   },
+   {
+    "n": 101,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "In playing a role in the enforcement of the April 2010 VIOR changes in relation to Australia, Visa Worldwide played a significant role in restricting Australian financial institutions and DCC providers from offering DCC services to new merchants on the Visa payment card network for a period of just over five months. This unquestionably had the likely effect of substantially lessening competition in what was undeniably a potentially lucrative market. On any view, the fees and other revenue able to be earned from currency conversions on the Visa network were enormous. The amounts ran into the many millions of dollars. Whilst the amounts involved may have been small when compared to Visa’s overall revenue and turnover, they may not have been considered to be small by the many DCC providers whose investment decisions and participation in the relevant market were likely to be adversely affected by the contravening conduct."
+   },
+   {
+    "n": 102,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "The agreed facts do not permit any firm conclusion to be drawn concerning the amount of any loss or damage suffered by DCC providers, or the amount of any gain derived by Visa Worldwide as a result of the DCC restrictions for that five month period. It is common ground that, in 2010, the revenue at stake from currency conversion and fees arising from cross-border transactions in Australia was somewhere in the vicinity of US$14.1 million and US$22.34 million. Nonetheless, it is not possible to even speculate about how much of this revenue may have been lost by Visa to DCC if the restrictions were not put in place. Nevertheless, these amounts demonstrate both the size of the market and the seriousness of the conduct involved in restricting access to it."
+   },
+   {
+    "n": 103,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "It is also relevant that Visa Worldwide’s conduct caused potential harm or loss to DCC providers. DCC providers did not know that the rule change might be temporary. The announced changes no doubt gave rise to uncertainty as to whether DCC providers would ever be able to expand their customer base. This was likely to have had an adverse impact on investment decisions made by DCC providers during the period where the changed rules were in force."
+   },
+   {
+    "n": 104,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "The contravening conduct was deliberate, in the sense that Visa Worldwide knew that enforcement of the VIOR charges restricted financial institutions and DCC providers from offering DCC services to new merchant customers in Australia. It knew that it was restricting access to this extent to this potentially lucrative market. It would also seem that at least some Visa executives were aware of potential regulatory concerns arising from any restrictions imposed by Visa upon DCC. Visa nonetheless went ahead with the rule changes and Visa Worldwide communicated and was responsible for enforcing them."
+   },
+   {
+    "n": 105,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "It must be acknowledged that this was all part of a global Visa decision and a global strategy. The relevant rule changes were not specific to Australia. It must also be acknowledged that the issues that confronted Visa arising from the growth of the use of DCC services on its network were complex and difficult. Some senior executives of Visa had other concerns about the expansion of DCC that were not related to the potential loss of fees and revenue as a result of the expansion of DCC. Some were concerned about confusion and possible detriment to cardholders arising from the use of DCC services and were legitimately concerned that any difficulties or disadvantages encountered by cardholders in respect of DCC might reflect adversely on Visa. There was also some concern that DCC might alter the balance of incentives and payments in favour of acquirers and away from issuers."
+   },
+   {
+    "n": 106,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Whilst these other concerns about DCC may have legitimately exercised the minds of Visa executives, it is equally clear that the potential loss of revenue to DCC providers was a material concern for Visa and a motivator for the rule changes. As already indicated, the revenue at stake was significant. The use of DCC was growing, though no precise figure can be put on this growth. In these circumstances, it is difficult to imagine that the potential loss of revenue by Visa as a result of the expansion of DCC was not a material factor behind the rule change, even though that revenue may have only been a small percentage of Visa’s overall revenue."
+   },
+   {
+    "n": 107,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Perhaps more importantly, even accepting that legitimate concerns about cardholders, issuers and possible adverse impacts on the Visa brand were material considerations for Visa in relation to the expansion of DCC services, there were, no doubt, ways that Visa could have responded to these concerns which did not involve the somewhat blunt method of effectively restricting access to the network in a way that was likely to substantially lessen competition. If, for example, concerns about cardholders being confused, misled or disadvantaged by DCC were the prime concern, rule changes specifically directed at those matters could have been put in place. Rule changes which simply restricted the expansion of the use of DCC were poorly suited to dealing with such concerns. The fact that Visa could have dealt with its concerns about DCC in other ways is not a mitigating factor."
+   },
+   {
+    "n": 108,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "A strong message needs to be sent to corporations in the position of Visa Worldwide that they should not, and indeed, cannot, respond to even legitimate corporate concerns by imposing conditions on their supplies, in the nature of exclusive dealing, which have the likely effect of substantially lessening competition in markets in Australia. Such a response is never an appropriate response."
+   },
+   {
+    "n": 109,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "It is, of course, relevant that the rule change was ultimately lifted after only five months. It was apparently intended by Visa that the rule change was not necessarily final and was introduced pending a final determination about how to deal with the increasing use of DCC. When lifted, the rule changes were retrospectively called a “moratorium”."
+   },
+   {
+    "n": 110,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "That said, any mitigation following from this consideration must be balanced against the following matters. First, neither the rule change nor the information that accompanied it made it clear that the rule change may only have been temporary. The rule change was only advised two days before it took effect. The change was not initially referred to as a moratorium. Second, the final determination about what to do about DCC may ultimately have been to maintain the restrictions in any event. Third, it would seem that the so-called moratorium was only lifted after a number of acquirers and DCC providers in the Asia Pacific region voiced concerns to Visa, and after the ACCC and other competition authorities in the Asia Pacific region commenced inquiries into the issue."
+   },
+   {
+    "n": 111,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Consideration must also be given to the fact that the decisions that gave rise to the contravening conduct were made at the highest levels of Visa, including the President of Visa Inc, the ultimate parent company, and persons who directly reported to him. It may safely be inferred that executives at the highest level in Visa Worldwide were also aware of the conduct. It is not a significant mitigating factor that the decision that led to the contravening conduct was not made by Visa Worldwide itself, but rather was made at the global level by senior management of the parent company. Companies that are responsible for the Australian operation of multinational groups must be deterred from putting into effect or enforcing global decisions made outside Australia if the global decisions have the effect, or are likely to have the effect, of substantially lessening competition in a market or markets in Australia."
+   },
+   {
+    "n": 112,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "In determining the appropriate penalty, regard can and should be given to the size and financial position of Visa Worldwide. Whilst there is no detailed evidence concerning the financial position of Visa Worldwide, it is clear from the size of its annual turnover in the 12 month period preceding the contravention that it is a large corporation with financial capacity to pay a significant penalty. Relevant too is the fact that Visa Worldwide is a wholly owned subsidiary of Visa Inc, a company which had an annual turnover in 2010 of over US$8 billion. Visa Worldwide is part of a global business that conducts the world’s largest payment card network – a network that in 2010 processed more than 70 billion transactions with a transaction value exceeding US$5 trillion."
+   },
+   {
+    "n": 113,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "The seriousness of the contravening conduct, the nature and extent of the contravening act, the circumstances in which that act occurred, and the nature and size of the contravener and the business conducted by it, all warrant a very sizeable penalty. The maximum penalty in this case of AU$33.1 million is also a relevant signpost."
+   },
+   {
+    "n": 114,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Perhaps the primary consideration, however, is specific and general deterrence. The penalty imposed in this matter should send a clarion call to large multinational corporations that have operations in Australia that whatever decisions may be made globally, Australia will not tolerate conduct that contravenes its competition laws and will not tolerate conduct that is likely to have the effect of substantially lessening competition in Australian markets. Given the size of Visa Worldwide and the global Visa business, only a very sizeable penalty is likely to operate as an effective deterrent here. Only a very sizeable penalty is likely to ensure that in the future the risk of incurring a penalty for contravention of the Act will not be treated as a mere cost of doing business in Australia."
+   },
+   {
+    "n": 115,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Whilst there are clear signs that Visa Worldwide now recognises the seriousness of its contravening conduct, nonetheless specific deterrence is still an important consideration. Next time, when confronted with complex problems, Visa Worldwide should have the penalty imposed in this matter firmly in its corporate mind when deciding what course of action it should take."
+   },
+   {
+    "n": 116,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Against these considerations must be weighed some significant mitigating circumstances."
+   },
+   {
+    "n": 117,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "First, no Visa entity has been found to have contravened the Act in the past. This is an important consideration. It is also perhaps a testament to the fact, accepted by the ACCC, that Visa has a culture of compliance with the Act. Visa has led detailed evidence from a senior executive about Visa’s global code of business conduct and ethics, its antitrust and competition law policy and its compliance program and training. In short terms, it is clear that Visa maintains a substantive compliance and education program in relation to, amongst other things, competition laws. That program includes the provision of resources, information and training, including information and training in relation to Australian competition law. One is left wondering, however, how contraventions such as the one under consideration can occur at the senior management level in the face of such a culture of compliance with antitrust and competition laws."
+   },
+   {
+    "n": 118,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Second, Visa has co-operated with the ACCC throughout the course of its lengthy investigations from August 2010 to January 2013. That co-operation included, amongst other things, making overseas employees, including senior executives, available for examination, and providing documents requested by the ACCC, even if not strictly compelled to do so."
+   },
+   {
+    "n": 119,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "These proceedings have also been conducted by all parties in an efficient, reasonable, sensible and courteous manner. Unusually for such matters, there has been a complete absence of pointless interlocutory skirmishes and time wasting tactical manoeuvring and posturing. The parties had reached an agreement in relation to many of the facts which, had the matter proceeded to hearing, would have significantly shortened the hearing. The parties and all their lawyers are to be commended for the efficient conduct of these proceedings. It is a matter that should be taken into account in Visa Worldwide’s favour."
+   },
+   {
+    "n": 120,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Important also is the fact that ultimately the liability aspect of these proceedings was resolved by agreement. Visa, through its legal representative and executives, facilitated the settlement by participating in a series of high level discussions with the ACCC. Visa and its lawyers have also assisted in settling the agreed facts and joint submission. Again, the parties and their lawyers are to be commended for arriving at a sensible and reasonable resolution of the matter."
+   },
+   {
+    "n": 121,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Whilst the settlement only occurred on the eve of the trial, that is sometimes to be expected and is not altogether unusual. In any event, it has saved the ACCC, the Court and ultimately the community the cost and burden of litigating to finality a complex, lengthy and difficult case. It has facilitated the administration of justice. Parties should be encouraged to co-operate in this manner in appropriate cases. Sensible settlements may be fostered by the Court by making it clear that such co-operation is a relevant and weighty consideration in the fixing of an appropriate penalty. The penalty that would otherwise have been imposed in this matter should be, and has been, substantially discounted in recognition of this co-operation and the facilitation of the administration of justice."
+   },
+   {
+    "n": 122,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "It should also perhaps be noted in this context that the sensible and reasonable settlement reached in this matter puts paid to the somewhat dire warnings that followed the decision of the Full Court in Director, Fair Work Building Industry Inspectorate v CFMEU to the effect that the inability of the parties to put an agreed penalty figure or range to the Court would stifle settlement of matters such as this."
+   },
+   {
+    "n": 123,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Visa Worldwide’s role in reaching a settlement with the ACCC is relevant to the penalty to be imposed in another way. It is relevant because it shows contrition and an acceptance of wrongdoing on the part of Visa Worldwide. That contrition is also revealed by Visa Worldwide accepting and joining in the submission that its contravention falls within the mid-range in terms of seriousness and available penalty range: Director, Fair Work Building Industry Inspectorate v CFMEU at [231]. All that said, no senior executive of Visa Worldwide, or any other Visa entity, gave evidence in these penalty proceedings about contrition."
+   },
+   {
+    "n": 124,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "In all the circumstances, the joint submission of the parties to the effect that Visa Worldwide’s contravention is of mid-range seriousness and warrants a penalty towards the middle of the available range should generally be accepted. Whilst the contravention is very serious, it is not the most serious case one can imagine. Consideration must also be given to the mitigating and ameliorating circumstances just referred to. Utilising the language used by the parties in the joint submission, and using the maximum penalty as an appropriate yardstick, the appropriate penalty should be towards the top of the mid-range of penalties available."
+   },
+   {
+    "n": 125,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "Having regard to all relevant matters, the Court determines that a pecuniary penalty of AU$18 million payable to the Commonwealth is appropriate."
+   },
+   {
+    "n": 126,
+    "headings": [
+     "Pecuniary penalty",
+     "The appropriate penalty to impose"
+    ],
+    "text": "The parties have also agreed that Visa Worldwide pay the costs of and incidental to the proceedings agreed in the sum of AU$2 million, which would appear to be an appropriate amount in respect of costs."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and twenty-six (126) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wigney.",
+ "associate": null,
+ "dated": "2015-09-11",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "8aae39e8ecf35a30516dc43cd1320edbb5beefe4f5f4015ab81ff42aa13e2126",
+ "markdown_file": "data/extracted/2015/2015FCA1020.md"
+}

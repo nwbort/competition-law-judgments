@@ -1,0 +1,683 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2021/2021FCA0246.docx",
+ "metadata": {
+  "citation": "[2021] FCA 246",
+  "name": "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd (No 5)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 246,
+  "date_of_judgment": "2021-03-19",
+  "file_numbers": [
+   "NSD2510/2013"
+  ],
+  "judges": [
+   "WIGNEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2020-03-11"
+  ],
+  "hearing_raw": "11 March 2020",
+  "last_submissions": "2020-03-04",
+  "number_of_paragraphs": 59,
+  "catchwords": [
+   "COSTS – Application for indemnity costs by successful respondent against applicant – where applicant, the Australian Competition and Consumer Commission, is a regulator – relevant principles regarding order for costs – whether Court should exercise its discretion to award costs other than on a party and party basis – whether ACCC should have been aware that its proceeding was “hopeless” and “bound to fail” before commencing proceeding – whether ACCC’s action against respondent was justified and reasonable in the circumstances – whether action against respondent was a circumstantial case where strength or weakness of proceeding could only be assessed once entire evidence had been presented – where litigation involved public interest – where ACCC had previously settled with other respondents in the proceeding also alleged to have engaged in collusive arrangements in contravention of Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010 (Cth)) – order for indemnity costs not warranted – application dismissed"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth)",
+   "Federal Court Rules 2011 (Cth), rr 40.01, 40.02(a), 40.02(b), Sch 1",
+   "Trade Practices Act 1974 (Cth) (repealed), ss 45(2)(a)(i)-(ii), 45(2)(b)(i)-(ii), 44ZZRK"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860",
+   "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd (No 4) (2017) 353 ALR 460; [2017] FCA 1590",
+   "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2019] FCAFC 83",
+   "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2020] FCA 598",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Limited [2007] FCA 1844",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 4) [2018] FCA 684",
+   "1 Cirillo v Consolidated Press Property Ltd (formerly known as Citicorp Australia Ltd) (No 2) [2007] FCA 179",
+   "Colgate-Palmolive Company v Cussons Pty Ltd (1993) 46 FCR 225",
+   "De Alwis v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCAFC 77",
+   "Fountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Ltd (1988) 81 ALR 397",
+   "Hamod v New South Wales (2002) 188 ALR 659; [2002] FCAFC 97",
+   "Henke v Carter [2002] FCA 492",
+   "J-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (WA Branch) (No 2) (1993) 46 IR 301",
+   "Kazal v Independent Commission Against Corruption and Ors (No 2) [2020] NSWSC 17",
+   "King v Yurisich (No 2) [2007] FCAFC 51",
+   "Latoudis v Casey (1990) 170 CLR 534",
+   "LFDB v SM (No 2) [2017] FCAFC 207",
+   "Mango Boulevard Pty Ltd v Whitton [2015] FCA 1352",
+   "Melbourne City Investments Pty Ltd v Treasury Wine Estates Limited (No 2) [2017] FCAFC 116",
+   "Re Kingsheath Club of the Clubs Ltd (in liq) [2003] FCA 1589",
+   "Seven Network Ltd v News Ltd (2009) 182 FCR 160; [2009] FCAFC 166",
+   "Smolle v Australian and New Zealand Banking Group Ltd (No 2) [2007] FCA 1967",
+   "Yates Property Corporation Pty Ltd v Boland (No 2) (1997) 147 ALR 685"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Dr R C A Higgins SC with Mr I J M Ahmed"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Norton Rose Fulbright"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr M R Scott QC with Mr A D Barraclough"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Allens"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0246",
+  "portal_file_numbers": [
+   "NSD2510/2013"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-03-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 2510 of 2013"
+  },
+  {
+   "label": "Judgment of",
+   "value": "WIGNEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 March 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – Application for indemnity costs by successful respondent against applicant – where applicant, the Australian Competition and Consumer Commission, is a regulator – relevant principles regarding order for costs – whether Court should exercise its discretion to award costs other than on a party and party basis – whether ACCC should have been aware that its proceeding was “hopeless” and “bound to fail” before commencing proceeding – whether ACCC’s action against respondent was justified and reasonable in the circumstances – whether action against respondent was a circumstantial case where strength or weakness of proceeding could only be assessed once entire evidence had been presented – where litigation involved public interest – where ACCC had previously settled with other respondents in the proceeding also alleged to have engaged in collusive arrangements in contravention of Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010 (Cth)) – order for indemnity costs not warranted – application dismissed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth)\nFederal Court Rules 2011 (Cth), rr 40.01, 40.02(a), 40.02(b), Sch 1\nTrade Practices Act 1974 (Cth) (repealed), ss 45(2)(a)(i)-(ii), 45(2)(b)(i)-(ii), 44ZZRK"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860\nAustralian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd (No 4) (2017) 353 ALR 460; [2017] FCA 1590\nAustralian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2019] FCAFC 83\nAustralian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2020] FCA 598\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Limited [2007] FCA 1844\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 4) [2018] FCA 684\n1 Cirillo v Consolidated Press Property Ltd (formerly known as Citicorp Australia Ltd) (No 2) [2007] FCA 179\nColgate-Palmolive Company v Cussons Pty Ltd (1993) 46 FCR 225\nDe Alwis v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCAFC 77\nFountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Ltd (1988) 81 ALR 397\nHamod v New South Wales (2002) 188 ALR 659; [2002] FCAFC 97\nHenke v Carter [2002] FCA 492\nJ-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (WA Branch) (No 2) (1993) 46 IR 301\nKazal v Independent Commission Against Corruption and Ors (No 2) [2020] NSWSC 17\nKing v Yurisich (No 2) [2007] FCAFC 51\nLatoudis v Casey (1990) 170 CLR 534\nLFDB v SM (No 2) [2017] FCAFC 207\nMango Boulevard Pty Ltd v Whitton [2015] FCA 1352\nMelbourne City Investments Pty Ltd v Treasury Wine Estates Limited (No 2) [2017] FCAFC 116\nRe Kingsheath Club of the Clubs Ltd (in liq) [2003] FCA 1589\nSeven Network Ltd v News Ltd (2009) 182 FCR 160; [2009] FCAFC 166\nSmolle v Australian and New Zealand Banking Group Ltd (No 2) [2007] FCA 1967\nYates Property Corporation Pty Ltd v Boland (No 2) (1997) 147 ALR 685"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "59"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "4 March 2020"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 March 2020"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Dr R C A Higgins SC with Mr I J M Ahmed"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Norton Rose Fulbright"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr M R Scott QC with Mr A D Barraclough"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Allens"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD2510/2013",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "WIGNEY J"
+   ],
+   "date": "2021-03-19",
+   "date_raw": "19 March 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application filed by the second respondent on 1 February 2018 be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The second respondent pay the applicant’s costs of and associated with the interlocutory application.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "By judgment handed down on 22 December 2017, the Court dismissed the proceeding commenced by the Australian Competition and Consumer Commission in which it was alleged that PZ Cussons Australia Pty Ltd had contravened ss 45(2)(a)(i) and (ii), s 45(2)(b)(i) and (ii) and 44ZZRK of the Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth)): Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd (No 4) (2017) 353 ALR 460; [2017] FCA 1590 (Judgment). The Commission was ordered to pay Cussons’ costs. An appeal from that judgment brought by the Commission was subsequently dismissed with costs: Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2019] FCAFC 83 (Appeal Judgment). An application by Cussons that its costs of the appeal be assessed or paid on an indemnity basis was subsequently dismissed: Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2020] FCA 598.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Cussons filed an interlocutory application seeking an order that the Commission pay its costs of the proceeding at first instance on an indemnity basis and that the costs in that regard be awarded in a lump sum pursuant to r 40.02(b) of the Federal Court Rules 2011 (Cth). The hearing of that application was deferred until after the handing down of the Appeal Judgment. The evidence filed in support of the application comprised an affidavit sworn by one of Cussons’ solicitors which included a chronological summary of some of the key events in the Commission’s investigation and annexed some correspondence between the parties or their solicitors.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The argument advanced by Cussons in support of an indemnity costs order was, in essence, that the Commission’s case was “hopeless” and “bound to fail” and that the Commission should have been aware of that, or at least of the “inherent and objective weakness” in its case against Cussons, before it commenced the proceeding. The Commission’s pursuit of the case in those circumstances was said to have been both unjustified and unreasonable such as to warrant a departure from the usual rule that costs be assessed on a party and party basis.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "For its part, the Commission acknowledged that it had comprehensively lost at first instance, but submitted that there was no special or unusual feature which justified the exceptional award of indemnity costs. It contended that its case against Cussons was a circumstantial case, the strength or weakness of which could only be assessed once the evidence in its entirety had been adduced. The Commission also pointed to the public interest nature of the litigation and to the fact that the other parties to the alleged collusive arrangements had settled with it and had made admissions which supported the reasonableness of its case against Cussons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "While the issue is somewhat finely balanced, for the reasons that follow, an order for indemnity costs is not warranted. Cussons’ costs should be assessed on the usual party and party basis.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The Court’s discretionary power to award costs derives from s 43 of the Federal Court of Australia Act 1976 (Cth) (FCA Act). The usual rule is that an order for costs means costs “as between party and party”: r 40.01 of the Rules; see also the definition of “costs” in the Dictionary in Sch 1 of the Rules; Mango Boulevard Pty Ltd v Whitton [2015] FCA 1352 at [12]. A party or person who is entitled to costs may, however, apply for an order that costs be awarded in their favour “other than as between party and party”: r 40.02(a) of the Rules. That includes an order that costs be awarded on an indemnity basis.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The discretion to award costs on a basis other than as between party and party, including on an indemnity basis, is “unfettered, save that it must be exercised judicially and not arbitrarily or capriciously”: Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 4) [2018] FCA 684 at [96]. The discretion must also be exercised in light of the requirement that the Court consider any failure by a party to comply with the overarching purpose of the civil practice and procedure provisions to facilitate the just resolution of disputes according to law as quickly, inexpensively and efficiently as possible: see ss 37N(4), 37M(1) of the FCA Act; LFDB v SM (No 2) [2017] FCAFC 207 at [7].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The discretion to depart from an order for party and party costs will not be exercised unless there is some special or unusual feature or the justice of the case so requires: Cirillo v Consolidated Press Property Ltd (formerly known as Citicorp Australia Ltd) (No 2) [2007] FCA 179 at [3]; Seven Network Ltd v News Ltd (2009) 182 FCR 160; [2009] FCAFC 166 at [1102]; Melbourne City Investments Pty Ltd v Treasury Wine Estates Limited (No 2) [2017] FCAFC 116 at [5].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The purpose of a costs order is to compensate the successful party, not to punish the unsuccessful one: King v Yurisich (No 2) [2007] FCAFC 51 at [19], citing Latoudis v Casey (1990) 170 CLR 534; Seven Network at [1099]. An award of indemnity costs is to “serve the purpose of compensating a party fully for costs incurred, as a normal costs order could not be expected to do, when the court takes the view that it was unreasonable for the party against whom the order is made to have subjected the innocent party to the expenditure of costs”: Hamod v New South Wales (2002) 188 ALR 659; [2002] FCAFC 97 at [20]; see also Kazal v Independent Commission Against Corruption and Ors (No 2) [2020] NSWSC 17 at [60]-[62]; Cirillo at [4]-[5]; Melbourne City Investments at [5].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The circumstances in which it may be found to be unreasonable for the successful party to be subjected to the expenditure of any costs are not fixed or closed, but have been found to include, relevantly: where “the applicant, properly advised, should have known that he had no chance of success” (Fountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Ltd (1988) 81 ALR 397 at 401; De Alwis v Minister for Immigration and Multicultural and Indigenous Affairs [2004] FCAFC 77 at [7]); where the moving party “persists in what should on proper consideration be seen to be a hopeless case” (J-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (WA Branch) (No 2) (1993) 46 IR 301 at 303); where the applicant’s case was “always clearly foredoomed to fail” and “they ought to have known this to be so” (Smolle v Australian and New Zealand Banking Group Ltd (No 2) [2007] FCA 1967 at [25]); where an application is “wholly untenable and misconceived” (Henke v Carter [2002] FCA 492 at [22]); and where an applicant persists in prosecuting a proceeding without regard to the evidentiary difficulties in the case (Yates Property Corporation Pty Ltd v Boland (No 2) (1997) 147 ALR 685 at 693): see generally Melbourne City Investments at [5]; Seven Network at [1102]; Colgate-Palmolive Company v Cussons Pty Ltd (1993) 46 FCR 225 at 233.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "Two things should perhaps be noted about these descriptions of the types of cases in which an indemnity costs order may be warranted. First, they use expressions which suggest a high degree of certainty concerning the deficiencies in the losing party’s case. It would appear not to be enough that the losing party’s case was simply weak or tenuous. Second, and relatedly, the deficiencies must be sufficiently manifest and clear such that it can be inferred that the losing party would or should have appreciated them when the action was commenced or continued, at least if they had given proper consideration to, or been properly advised about, the merits of their case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "In assessing whether a case can be said to “have no chance of success”, or to be “hopeless” or “foredoomed to fail”, and that the losing party should have known that to be the case, it is also necessary to be wary of reasoning with the benefit of hindsight. As Goldberg J said in Re Kingsheath Club of the Clubs Ltd (in liq) [2003] FCA 1589 at [5], it is “easy with hindsight to make an observation that an action has no chance of success, after the matter has been fully argued and has enjoyed considered attention of experienced solicitors and senior and junior counsel”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "There is some authority in support of the need for restraint or reticence before making indemnity costs orders against regulators who bring actions in the public interest. In Australian Competition and Consumer Commission v Leahy Petroleum Pty Limited [2007] FCA 1844, Gray J said the following (at [24]):\nIt is apparent that the ACCC has cast upon it significant responsibilities on behalf of the public, to ensure as far as practicable that there is compliance with the provisions of the Trade Practices Act. When the ACCC has commenced and pursued a proceeding in respect of alleged contraventions of a provision of the Trade Practices Act, and there is no suggestion that it has acted with any ulterior motive, the Court should not be quick to award costs against it on anything other than the usual party-party basis when the ACCC has suffered a loss in the proceeding. Excessive readiness to force the ACCC to compensate the winning party to a greater extent than the normal party-party costs incurred might operate as a deterrent to the ACCC against bringing proceedings in the exercise of its public functions.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860, in the context of an application for indemnity costs against the Commission based on the Commission’s rejection of an offer of compromise, Allsop J said (at [12]) that “[a] rejection of an offer in a penalty case such as this brings with it considerations of public responsibility for the administration of an important piece of Commonwealth legislation that do not attend an offer in a civil suit”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "Some caution must be exercised before elevating the observations in Leahy Petroleum and Baxter Healthcare to a general principle that regulators such as the Commission occupy a special position when it comes to the consideration of orders for indemnity costs. It may readily be accepted that the Court should, as Gray J put it, “not be quick to award costs against the [the Commission] on anything other than the usual party-party basis when [the Commission] has suffered a loss in the proceeding”. As the authorities referred to earlier reveal, however, the mere fact that any party “suffered a loss” in a proceeding would not justify an indemnity costs order against that party in any event. The Commission is not in a unique position in that regard. The suggestion that some restraint should be shown because an indemnity costs order might operate as a “deterrent to [the Commission] against bringing proceedings in the exercise of its public functions” is also somewhat questionable. While, on the one hand, it would obviously be generally undesirable to deter the Commission from bringing proceedings in the exercise of its public function, on the other hand, the Commission should generally be deterred from commencing or pursuing proceedings if they are such that the Commission ought to have realised that they were foredoomed to fail.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The observations in Baxter Healthcare also do not support any such general principle, other than perhaps in the context of indemnity costs applications based on the Commission’s rejection of an offer of compromise. The point Allsop J was making (at [8]) was that the nature of penalty proceedings, involving as they often do important questions of public policy arising from the enforcement of regulatory legislation, does not make them as amenable to commercial settlement as ordinary civil litigation. The issues involved in such litigation extend well beyond commercial considerations and dollars and cents.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "What could perhaps be said about the position of regulators such as the Commission is that, before making an order for indemnity costs against the Commission when it has been unsuccessful in a penalty proceeding, the Court would ordinarily need to be affirmatively satisfied to a high degree not only that the proceeding was hopeless or foredoomed to fail, but also that the Commission ought to have realised that to be the case before commencing or while pursuing the proceeding. The Court should generally be slow to infer, in the absence of fairly compelling facts and circumstances, that a regulator charged with important statutory functions and duties, such as the Commission, would commence or pursue penalty proceedings in enforcement of regulatory legislation in such circumstances.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "It might also be added, in this context, that the legislation administered by Commonwealth regulators is often complex and the cases they commence and pursue are often difficult to prove. The public responsibilities of regulators mean that they must, on occasion, pursue hard cases; cases based on circumstantial or highly contentious evidence or perhaps unsettled areas of law. It follows that it might reasonably be expected that they will lose some cases, sometimes emphatically. A regulator who chooses only to pursue easy cases and easy targets might perhaps have an excellent strike rate in terms of winning cases, but it would not be doing its job. These types of considerations, which do not apply to ordinary civil litigants, should be taken into account when assessing whether an indemnity costs order against a regulator such as the Commission is warranted. Even in the case of ordinary civil litigants, indemnity costs “are not awarded as a means of deterring litigants from putting forward arguments that might be attended by uncertainty”: Hamod at [20].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "These reasons should be read in conjunction with the Judgment. There would be little point in rehearsing or reprising the reasons for dismissing the Commission’s case against Cussons. The following general points can, however, be made.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "First, the Commission’s case was unquestionably largely circumstantial. It hinged on the inferences that could be drawn from two broad categories of facts and circumstances. The first circumstance was what appeared to be parallel conduct between Cussons, Colgate-Palmolive Pty Ltd and Unilever Australia Limited when they transitioned to ultra-concentrated laundry detergents, in conjunction with the major supermarket chains, in March 2009. The second circumstance was that there had been a series of meetings and communications between Cussons, Colgate, Unilever and the major retailers in the year or so leading up to the transition.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Second, the Commission’s case was largely documentary. The documents relied on by the Commission largely comprised documentary records of the relevant meetings and communications. While evidence was called from officers of Unilever, that evidence largely related to the relevant meetings and communications and ultimately did not add much to the documentary records. The actual content of the communications, including at the meetings, was not particularly contentious. It was the inferences that could be drawn from what was said at the meetings, in the context of the evidence as a whole, which was in issue.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Third, the Commission’s case was initially against Cussons, Colgate, Woolworths and an officer of Colgate. Colgate, Woolworths and the Colgate officer all settled with the Commission, in the sense that they admitted contraventions and agreed to certain facts relating to the contraventions. The Commission did not call any officers or employees of Colgate or Woolworths in its remaining case against Cussons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Fourth, while the Commission’s case relied on inferences that it contended should be drawn from the combination of the parallel conduct and the communications which occurred between Cussons, Colgate and Unilever in the period leading up to the transition, it would not be unfair to say that the Commission’s case lacked clarity and particularity in certain respects. The Commission was unable to, and until pressed during the trial, never really attempted to, pinpoint when the alleged arrangement or understanding was made or arrived at between Cussons, Colgate and Unilever in the lengthy period leading up to the transition. Nor was the Commission ever really able to identify the officers of those corporations who were said to have made the arrangement or reached the understanding on behalf of their employers.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Fifth, the lack of clarity in the Commission’s case was reflected in, and in some respects exacerbated by, the Commission’s somewhat unsatisfactory pleading. Moreover, the nature of the Commission’s case appeared to shift at the beginning of the trial to what was referred to as a “hub and spoke” arrangement through Woolworths. There was some merit in Cussons’ contention that the existence of such an arrangement was not fairly or properly reflected in the Commission’s pleading. Regrettably, the Commission’s “hub and spoke” case also lacked clarity and particularity. As events transpired, it also lacked merit.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Sixth, while the Unilever witnesses called by the Commission were cross-examined, it would not be unfair to say that the cross-examination was not productive of any “silver-bullet” for Cussons. It certainly could not be said that the Commission’s case failed because any of its witnesses did not come up to proof, or because the credibility or reliability of the witnesses or their evidence was significantly damaged during cross-examination, or because the witnesses were forced to make important concessions: Judgment at [75]-[76]. The reality was that much of the evidence of the Unilever witnesses was not, in any event, particularly contentious and, perhaps more significantly, in many respects not particularly supportive of the Commission’s case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Seventh, while the Commission relied on expert evidence, that evidence was not a particularly significant aspect of its case. Somewhat peculiarly, though, the Commission elected not to cross-examine the rival expert witness called by Cussons. It was perhaps not entirely surprising, in those circumstances, that the Court ultimately preferred the opinions of Cussons’ expert over the Commission’s expert.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "BACKGROUND AND CONTEXT"
+    ],
+    "text": "Eighth, as the Commission effectively conceded, the Court’s reasons for rejecting its case and dismissing its application were emphatic. The Commission’s case failed at virtually every hurdle. That said, the basal problem for the Commission was that the Court was ultimately unwilling to draw any of the inferences that the Commission contended should be drawn from the evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Following is a short summary of the key points made in the parties’ respective submissions.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "As already noted, the central tenet of Cussons’ case that it was entitled to indemnity costs was that the Commission’s case was always doomed to fail and that, if the Commission had given proper consideration to the evidence it had amassed, it should have realised that to be the case before it commenced the proceeding against Cussons. Although at various points Cussons submitted that the Commission “knew, or should have known” that its evidence would not support its case, it should be emphasised that Cussons ultimately did not contend that the Commission, or any of its staff, actually knew or believed that the case against Cussons was hopeless. It also did not contend that the Commission had some ulterior or improper motive in commencing the proceeding against Cussons. Nor could it.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Cussons relied on the fact that the commencement of the proceedings was preceded by a lengthy investigation by the Commission during which it exercised its extensive powers to compel the production of documents and to compel officers of Cussons, Colgate and Woolworths to attend examinations and answer questions. The Commission was also able to interview officers of Unilever given that Unilever had been granted immunity. The upshot was, in Cussons’ submission, that the Commission essentially had the whole picture available to it – all the relevant documents and all the answers by the key individuals – before it commenced the proceeding.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Cussons also relied on the fact that the Commission’s case was circumstantial and primarily based on the meetings and communications between those who were said to be parties to the alleged arrangement or understanding. Significantly, most of those communications were either in writing, or reproduced or recorded in writing. Officers of Cussons were parties to two telephone conversations, though the Commission had available to it evidence from Unilever witnesses about those conversations. In Cussons’ submission, none of the communications were covert. The Commission knew about and had evidence in relation to all of them.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Perhaps more significantly, Cussons contended that no document supported the existence of the arrangement and some documents were inconsistent with the existence of the arrangement. Similarly, in Cussons’ submission, no witness gave evidence of the existence of the arrangement; even the Unilever witnesses did not support the existence of any arrangement and some gave evidence that contradicted the Commission’s case. Cussons also contended that the evidence available to the Commission clearly demonstrated, inconsistently with the Commission’s pleaded case, that the apparently parallel conduct was driven by the major retailers who had clearly indicated that they would cease buying standard concentrates once ultra-concentrates were available. Cussons submitted that, while a regulator should run difficult cases in the public interest, “there has to be a limit” at which point the Commission should have taken an “objective view”. The point Cussons pressed was that, in light of the lengthy co-operation of Unilever and “[a]rmed with the section 155 powers which were exercised, [the Commission] knew or should have known that the explanation was that the retailers were driving the timing and the transition for their own reasons”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Cussons submitted that if the Commission had performed a proper review of all the evidence and material available to it prior to the commencement of the proceedings, it would have appreciated the inherent and objective weakness of its case. The effect of Cussons’ submission was that if the Commission had reviewed the evidence which it had gathered, it would have reached the same conclusion ultimately reached by the Court and found that the inference that Cussons was a party to any arrangement or understanding was not available or was unable to be drawn from the evidence. In that context, Cussons tendered a letter which it had sent to the Commission in July 2012, at the very commencement of the Commission’s investigation, which explained the process by which Cussons transitioned to ultra-concentrates. That process did not involve any arrangement or understanding with Cussons’ competitors. In Cussons’ submission, the explanation given in that letter resonated with many, if not most, of the findings ultimately made by the Court in rejecting the Commission’s case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Cussons submitted that the fact that the Commission had settled with Colgate and Woolworths did not assist the Commission in any way. It pointed out, in that context, that no evidence concerning that settlement was adduced at trial and that the Commission did not call any witnesses from Colgate or Woolworths. While, for the purposes of the settlement, Colgate and Woolworths may have agreed or admitted that they entered into an arrangement or understanding with Cussons, that admission or agreement amounted to nothing more than an admission or agreement in relation to a legal conclusion. There was no relevant admission or agreement of fact which directly supported the existence of the arrangement or understanding, other than admissions about the communications which were not in dispute in the proceeding against Cussons in any event.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Finally, Cussons relied on what it submitted were examples of the Commission’s “wasteful” conduct of its case. In particular, the Commission abandoned a significant element of its case shortly before trial, changed the way it put its case by alleging a “hub and spoke” arrangement, even though no such arrangement was alleged in its pleading, and failed to cross-examine Cussons’ expert witness.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "For its part, the Commission acknowledged that the Court had emphatically rejected its case. It did not follow, in the Commission’s submission, that its case was hopeless or foredoomed to fail, let alone that the Commission should have known that to be the case. Rather, its case was an inferential case that it had reasonable grounds to bring and was entitled to have tested in Court. That could only be done once all the evidence had been tendered and heard. It was only after “the process of assembly, consideration and analysis of all of the evidence (including that led by Cussons) that it could conceivably have become apparent that the trial judge could take a view of that evidence such that [the Commission’s] case may not succeed”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "The Commission pointed out, in this context, that Cussons did not bring a summary dismissal application and ultimately did not make a “no-case” submission on the closure of the Commission’s case. Cussons’ forensic choices in that regard indicated, in the Commission’s submission, that this was a “complex case that required consideration of all of the evidence as a whole”; there was no “silver bullet” available to Cussons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "The Commission also took issue with Cussons’ characterisation of aspects of its circumstantial case. It submitted that the Court did not find that no document supported the existence of the alleged arrangement or understanding, only that there was no direct documentary evidence of the arrangement or understanding. There were, in the Commission’s submission, documents that at least inferentially supported the existence of the arrangement or understanding. It referred, by way of example, to one document (identified as NPD1), which was a record of a communication or meeting involving the relevant industry association. The contents of that document tended to support the Commission’s case. While the Court ultimately found that, considered in the context of all of the other evidence, the document did not in fact support the existence of the arrangement or understanding, that finding was only made after the “process of contextualisation, weighing of the evidence and balancing it against countervailing evidence”, including the evidence of one of Cussons’ witnesses that only emerged during cross-examination.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "The same could be said, in the Commission’s submission, in respect of the Court’s ultimate finding that the Unilever witnesses did not support the Commission’s case concerning the existence of an arrangement or understanding. Moreover, to the extent that those witnesses gave evidence which was inconsistent with the Commission’s case, that evidence was really only elicited during cross-examination. Despite having the benefit of Unilever’s assistance in providing full disclosure and making its officers available for examination as conditions of its immunity, the Commission could not have anticipated that evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "The Commission contended that it brought the case “as the public regulator in the exercise of its statutory duty” and relied on the observations of Gray J in Leahy Petroleum as establishing that the Court should be reticent to make an indemnity costs order in those circumstances. The making of such an order would, it was submitted, have a “chilling effect on the bringing of cases that, while reasonably based and brought in good faith, are not assured of success”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Reliance was also placed on the fact that Colgate, Unilever and Woolworths had admitted to conduct involving an arrangement or understanding with Cussons. It was submitted, in that regard, that while those admissions could not support the Commission’s case against Cussons at trial, they nonetheless informed whether it was reasonable for the Commission to believe that there were reasonable prospects of success.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "As for Cussons’ contentions concerning the Commission’s supposedly “wasteful” conduct of its case, the Commission submitted that the abandonment of its parity pricing allegations was properly made and ultimately did not result in any wasted costs. The fact that it did not cross-examine Cussons’ expert witness also did not establish wastefulness in all the circumstances.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "THE PARTIES’ SUBMISSIONS"
+    ],
+    "text": "Finally, while the Commission acknowledged that the Full Court’s rejection of its appeal had been equally emphatic, it pointed out that some passages in the Full Court’s judgment indicated that different views may have been open in respect of some of the evidence. In the Commission’s submission, the Full Court’s reasons indicated that the problem for the Commission was that the Court’s rejection of the inferences urged by the Commission, or the drawing of different inferences, was at least open. That is not to say that the Commission’s case was hopeless, or that the inferences that the Commission urged the Court to draw were not open on the evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "There can be no doubt that the Commission’s loss at first instance in this case was emphatic. The Commission’s case failed at virtually every hurdle. In all the circumstances, however, it cannot be concluded that the Commission’s case was necessarily hopeless or foredoomed to fail. Still less can it be concluded that the Commission must or should have realised or appreciated, either prior to the commencement of the proceeding or at any point before or during the trial, that the evidence available to it could not support the inferences necessary for it to succeed against Cussons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "The Commission’s case against Cussons was undoubtedly difficult and complex. It was a circumstantial case that ultimately depended on the drawing of an inference that the parallel conduct that occurred when Cussons, Colgate and Unilever transitioned to ultra-concentrated laundry detergents at the same time in March 2009 was the result of a collusive arrangement between those corporations, aided by at least one of the major retailers. There was no direct evidence of the existence of that arrangement or understanding, despite the fact that one of the supposed parties to it, Unilever, had obtained immunity from the Commission in exchange for it assisting the Commission in its investigation and prosecution of the proceeding against the other parties. The circumstantial nature of the Commission’s case did not change even after the Commission had exercised its compulsory powers, which resulted in it obtaining a vast trove of documents which recorded, amongst other things, essentially all of the communications which had occurred between officers of Cussons, Colgate, Woolworths and Unilever during the lengthy period leading up to the transition.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "There could be little doubt that, had the Commission stood back and assessed the evidence that it had amassed prior to the commencement of the proceeding, as it almost certainly did, it would, or at least should, have realised and appreciated that its case against Cussons had difficulties and potential weaknesses. Those weakness were to an extent exposed by the Commission’s pleading itself. The pleading did little more than provide a chronological recitation of communications that had occurred between the parties over a lengthy period of time and allege that, by reason of those communications, there was an arrangement or understanding which had been made or reached between the parties at some point during that lengthy period. The pleading did not identify with any degree of precision exactly when during that lengthy period of time the arrangement or understanding was made or arrived at, or identify the individual officers or employees who made the arrangement or arrived at the understanding on behalf of the relevant corporations. That was no doubt because the evidence available to the Commission was unable to provide any real clarity about those matters. The apparent inability of the Commission to identify, let alone prove, precisely when and by whom the arrangement was made, or the understanding reached, may not have been fatal to the Commission’s case; but properly considered, it should have at least rung alarm bells.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "At various points during the trial, the Commission, when pressed, endeavoured to identify the time by which the arrangement or understanding had been made, or arrived at, and the officers at Cussons who it alleged were responsible for the arrangement or understanding. Those endeavours were at best unpersuasive. The Commission also endeavoured to characterise the nature of the arrangement or understanding, or how it had been reached or arrived at, as a “hub and spoke”-type arrangement. That characterisation was not fairly or properly reflected in the pleading and was again unpersuasive. The fact that the Commission had to resort to this attempted re-characterisation of its case perhaps demonstrates some awareness on the part of the Commission that its case had its difficulties or weaknesses.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Some of the documentary records of the communications, or at least snippets of them, considered in isolation and out of context, may have provided some support for the existence of an arrangement or understanding. The essential difficulty for the Commission, however, was that, when the relevant documents were closely scrutinised in their entirety and in their proper context, the Commission’s circumstantial case based on the documents essentially fell away. The oral evidence of the various witnesses also did not really assist. Most of the Commission’s witnesses did little more than repeat or confirm what was in the documents. It is difficult to avoid the conclusion that the Commission approached its case with a degree of tunnel vision; starting with the parallel conduct in March 2009 and then working backwards, picking out parts of the documents that it had gathered during its investigation which tended to support its case theory, but without ever really grappling with whether they all fitted together to provide a coherent and logical picture.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "To say that the Commission should have realised that its case against Cussons was hopeless and foredoomed to fail is, however, a very tall order. When what is involved is, as here, a complex circumstantial case, to say that the case is hopeless or foredoomed to fail is effectively equivalent to saying that, on the whole of the evidence, the requisite inferences could not possibly be drawn; that the inferences were plainly or clearly not open at all on the evidence. It is not enough to say that the drawing of the requisite inferences was difficult, or problematic, or that other inferences consistent with innocence were available, or were preferable or even compelling. While it would be fair to say that the Court in this case ultimately did not draw the inferences that were required to be drawn for the Commission to succeed, and the terms in which the Court expressed its refusal to draw those inferences were at times emphatic, it could not be said that the inferences were obviously or patently not open on the evidence. There was at least some evidence that may have appeared, at least at first blush, to be capable of supporting the inferences.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "In those circumstances, the Commission’s case could not fairly or accurately be characterised as being hopeless or foredoomed to fail.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Perhaps more significantly, there is no sound basis for Cussons’ contention that the Commission should have appreciated the flaws in its case against Cussons before it commenced the proceeding. The Court’s findings in relation to the relevant inferences were only arrived at following a painstaking contextual consideration and analysis of the evidence as a whole, including the oral evidence given during cross-examination and re-examination, including by the witnesses called by Cussons. The Commission, of course, did not have that oral evidence available to assess its case until it was given. At least some of the evidence given by the witnesses called by Cussons turned out to be of some significance to the findings ultimately made by the Court. There is merit in the Commission’s submission that the availability of the necessary inferences could only be assessed once the evidence in its entirety had been adduced at trial. The Court also had the benefit of detailed submissions from the parties concerning the evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Even accepting that it is likely that, prior to commencing the proceeding, the Commission gave detailed consideration to whether the evidence available to it was capable of supporting its case, as well as to whether it had reasonable prospects of success, it is somewhat unrealistic to suppose that the Commission would, or would be able to, conduct that exercise with the same degree of forensic rigour that arises out of the adversarial process. That was the very point made by Goldberg J in the passage from Kingsheath Club which was quoted earlier in these reasons. While the Commission’s case was found to be significantly wanting after being exposed to the adversarial process over a number of weeks, it does not follow that the Commission should have appreciated that its case was hopeless or foredoomed to fail when assessing its evidence before it commenced the proceeding or before the trial. The findings made by the Court were also made on the whole of the evidence, including oral evidence given by the Commission’s witnesses during cross-examination and Cussons’ witnesses. The Commission’s assessment of its case before trial obviously could not have factored that evidence into the equation.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It is true, as Cussons submitted, that in its letter sent in July 2012, at the very commencement of the Commission’s investigation, Cussons had provided a fairly detailed account of its transition to ultra-concentrates. That account explained how Cussons came to transition to ultra-concentrates at the same time as the other main suppliers in March 2009 without it having been involved in any arrangement or understanding with the other suppliers. The findings ultimately made by the Court were broadly consistent with the explanation contained in the July 2012 letter. It is also likely that those Cussons officers who were examined by the Commission during the investigation phase gave the same explanation. Needless to say, however, the Commission was not obliged to accept that explanation, even after it had conducted a detailed investigation and gathered voluminous evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It is equally true that the Commission’s extensive investigation failed to turn up any direct evidence of the existence of an arrangement or understanding between the main suppliers. That was despite the fact that one of the suppliers assisted the Commission with its enquiries and despite the fact that the Commission had at its disposal the power to compel the production of documents and examine relevant officers of the suppliers and the main retailers. The fact that the Commission did not have direct evidence of the alleged arrangement or understanding was not, however, fatal. Arrangements or understandings of the type alleged by the Commission in this case are often not documented and are often not the subject of express or explicit discussion. The absence of direct evidence of such arrangements is therefore not particularly unusual. As has already been noted, the evidence gathered by the Commission included at least some evidence that was potentially capable of supporting a circumstantial case that the parallel conduct that occurred in March 2009 was the outcome of an arrangement or understanding.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "While the Commission’s case, when exposed to the rigours of the adversarial process, was ultimately shown to be flawed, those flaws were not such that the Commission’s case could fairly be characterised as hopeless. Nor can it necessarily be concluded that the Commission should have fully appreciated those flaws at any point prior to the trial, let alone that those flaws were such that its case was foredoomed to fail. Nor did anything occur during the trial which could or should have alerted the Commission to the fact that its case was hopeless. It was, in short, not unreasonable, in all the circumstances, for the Commission to have commenced and prosecuted the proceeding to trial.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It should also be noted in this context that, while the Commission’s appeal was dismissed, also in fairly emphatic terms, there is nothing in the Appeal Judgment to suggest that the Full Court considered that the Commission’s case at trial was hopeless. The fact that Cussons’ application for indemnity costs in respect of the appeal failed also tends to suggest that the appeal was not considered to be unarguable or hopeless.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It may also be accepted that the reasonableness of the Commission’s continued prosecution of the proceeding against Cussons is supported, at least to some extent, by the fact that both Colgate and Woolworths settled with the Commission and, in that context, admitted the existence of the alleged arrangement or understanding. It is true, as Cussons submitted, that there was no evidence concerning the terms of the settlements with Colgate and Woolworths. More significantly, the admissions made by Colgate and Woolworths constituted little more than legal conclusions, as opposed to admissions of material facts which supported those conclusions. The Commission also did not adduce any evidence from officers of Colgate or Woolworths. In those circumstances, the settlements reached with Colgate and Woolworths ultimately did not assist the Commission’s case against Cussons at trial. It nevertheless would have been somewhat unusual for the Commission to have abandoned its case against Cussons in the face of the settlements reached with the other parties to the alleged arrangement or understanding.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "Finally, while Cussons contended that the Commission’s conduct of the case was wasteful in certain respects, that contention was not pursued by Cussons with any particular zeal. It was certainly not suggested that the alleged wastefulness alone would justify an order for indemnity costs. It is therefore unnecessary to consider the specific claims made by Cussons in this context in any detail. It suffices to note that there is merit in the Commission’s submission that its forensic decision to abandon one aspect of its case and not to cross-examine Cussons’ expert witness was unlikely to have caused Cussons to incur any additional or unnecessary costs. Although Cussons, in both its submissions and in an exhibit to an affidavit sworn by one of its solicitors, asserted that it had expended considerable costs in obtaining advice and evidence in relation to the abandoned allegation, Cussons did not adduce any evidence which particularised or quantified any such additional or unnecessary costs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "CONCLUSION AND DISPOSITION"
+    ],
+    "text": "Cussons’ case that it was entitled to indemnity costs rested almost entirely on the contention that the Commission’s case against it was hopeless or foredoomed to fail and that the Commission should have realised that to be the case either before it commenced the proceeding, or at least by the time of the trial. That contention cannot be accepted for the reasons given. There were no other special or unusual features or circumstances which would warrant an order for indemnity costs. It follows that Cussons’ application for indemnity costs must fail and the interlocutory application filed by Cussons on 1 February 2018 must be dismissed. There is no reason why the costs of the interlocutory application should not follow the event.",
+    "judge": "WIGNEY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-nine (59) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Wigney.",
+ "associate": null,
+ "dated": "2021-03-19",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "0a34cb7501def3fa975baf8b8dba54c1213472a9044e42e211df6b8535a83524",
+ "markdown_file": "data/extracted/2021/2021FCA0246.md"
+}

@@ -1,0 +1,516 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2017/2017FCA1279.docx",
+ "metadata": {
+  "citation": "[2017] FCA 1279",
+  "name": "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 3)",
+  "court": "FCA",
+  "year": 2017,
+  "number": 1279,
+  "date_of_judgment": "2017-11-01",
+  "file_numbers": [
+   "VID698/2014"
+  ],
+  "judges": [
+   "MIDDLETON J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2017-10-27"
+  ],
+  "hearing_raw": "27 October 2017",
+  "number_of_paragraphs": 43,
+  "catchwords": [
+   "PRACTICE AND PROCDURE – Non-publication and suppression orders – civil penalty proceedings preceding criminal proceedings"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth)",
+   "Federal Court of Australia Act 1976 (Cth)",
+   "Crimes Act 1958 (Vic)"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Air New Zealand Ltd (No 3) [2012] FCA 1430",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2016) FCA 504",
+   "Australian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487",
+   "Construction, Forestry, Mining and Energy Union v Australian Competition and Consumer Commission [2016] FCAFC 97",
+   "Dupas v The Queen (2010) 241 CLR 237",
+   "Gilbert v The Queen (2000) 201 CLR 414",
+   "Hogan v Australian Crime Commission (2010) 240 CLR 651",
+   "R v Glennon (1992) 173 CLR 592"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr P D Crutchfield QC with Mr R I Gipp"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Ms R M Doyle SC with Mr J R Gurr"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Slater and Gordon Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca1279",
+  "portal_file_numbers": [
+   "VID698/2014"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2017-11-01"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 698 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "MIDDLETON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "1 November 2017"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCDURE – Non-publication and suppression orders – civil penalty proceedings preceding criminal proceedings"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth)\nFederal Court of Australia Act 1976 (Cth)\nCrimes Act 1958 (Vic)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Ltd (No 3) [2012] FCA 1430\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2016) FCA 504\nAustralian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487\nConstruction, Forestry, Mining and Energy Union v Australian Competition and Consumer Commission [2016] FCAFC 97\nDupas v The Queen (2010) 241 CLR 237\nGilbert v The Queen (2000) 201 CLR 414\nHogan v Australian Crime Commission (2010) 240 CLR 651\nR v Glennon (1992) 173 CLR 592"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "27 October 2017"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "43"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr P D Crutchfield QC with Mr R I Gipp"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Ms R M Doyle SC with Mr J R Gurr"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Slater and Gordon Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [],
+ "reasons": {
+  "preamble": [
+   "VID 698 of 2014\nBETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION Applicant\nAND: | THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION Respondent"
+  ],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The Court delivered on 5 October 2017 its Reasons for Judgment on liability issues to the parties on a confidential basis. The Court so provided the Reasons to the parties to enable them to consider the extent of the publication of the Reasons in view of the current criminal proceedings taking place relating to this proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "There is already in force non-publication orders made in connection with this proceeding, made by the Court on 3 October 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "That order is as follows:\n(1) Until further order, no person may publish any information which would tend to identify the individual respondents in connection with the proceedings or in connection with the allegations made in the proceedings.\n(2) Until further order, no person may publish any information which would tend to identify the individual respondents in connection with:\n(a) evidence of or in relation to a “ban against Boral”; or\n(b) evidence of or in relation to an instruction alleged to have been given by the CFMEU to shop stewards or organisers of the CFMEU to implement a “ban against Boral”; or\n(c) evidence of or in relation to shop stewards meetings held by the CFMEU at Trades Hall during February or March 2013.\n(3) Orders 1 and 2 shall operate until the conclusion of the criminal proceedings or until 31 December 2018, whichever is the later in time.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The Court on 27 October 2017 made the following orders to deal with the future conduct of the proceeding:\n(1) The Applicant is to file and serve on or before 4.00 pm on 1 December 2017:\n(a) any affidavits upon which it wishes to rely; and\n(b) its outline of written submissions.\n(2) The First Respondent is to file and serve on or before 4.00 pm on 18 December 2017:\n(a) any affidavits upon which it wishes to rely; and\n(b) its outline of written submissions.\n(3) The Applicant is to file and serve on or before 4.00 pm on 2 February 2018:\n(a) any affidavits by way of reply to the affidavits in paragraph 2 above; and\n(b) any outline of written submissions in reply.\n(4) The matter be listed for a hearing at 10.15am commencing on 12 February 2018 on an estimate of 2 days.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The background and nature of this proceeding was summarised in Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2016) FCA 504, and is apparent from the Reasons themselves to the extent I propose to publish them. I do not delay in repeating these matters.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The individual respondents face criminal trials in relation to charges under s 87 of the Crimes Act 1958 (Vic). Those charges arise out of the same substratum of facts and allegations as were before the Court in this proceeding. Those facts and allegations are now the subject of findings made by the Court in its Reasons.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "Subject to the matters set out below, the committal of the criminal charges is listed to be heard in May 2018. If the individual respondents are committed to stand trial, the jury trial would likely take place at some time in 2019.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The individual respondents seek (and the CFMEU supports) that the Court delay publication of its Reasons, and to that end seek that non-publication and suppression orders be made in relation to the whole of the Reasons.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "If necessary, and at the appropriate stage, the individual respondents indicated that they will also make application that any declarations and other orders proposed to be made by the Court consequent upon its findings as set out in the Reasons also not be published until the conclusion of the criminal proceedings.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "In the alternative, the individual respondents seek (and CFMEU supports) more limited non-publication and suppression orders, which would have the effect of suppressing and preventing publication of identified prejudicial findings contained within the Reasons, and otherwise continuing in substance the non-publication order made by the Court on 3 October 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Evidence relied upon"
+    ],
+    "text": "In support of the orders sought, the individual respondents rely upon the following material:\naffidavit of Marcus Clayton affirmed 4 April 2016, filed in support of CFMEU’s stay application; and\naffidavit of Kirstie Grigor affirmed 29 September 2016, filed in support of the application for the non-publication orders ultimately made by the Court on 3 October 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Current status of the criminal proceedings"
+    ],
+    "text": "The nature of the charges, their elements, the particulars thereto and the Statement of Material Facts in the criminal brief are helpfully summarised in the reasons of Elliott J in the criminal stay proceedings, explained in more detail below: see [2017] VSC 422 at [7] – [12] and [18] – [23].",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Current status of the criminal proceedings"
+    ],
+    "text": "As noted above, the committal of the criminal charges is currently listed to be heard in May 2018. In related Supreme Court proceedings, the individual respondents in this proceeding (as plaintiffs in the Supreme Court) have alleged that they had not been validly charged, and have sought declaratory and other relief to effectively prevent the criminal proceedings from being prosecuted against the individual respondents, and restraining the Magistrates’ Court from hearing the committal proceedings currently on foot.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Current status of the criminal proceedings"
+    ],
+    "text": "On 14 August 2017, Elliott J made orders dismissing the criminal stay applications: [2017] VSC 422. The individual respondents have sought leave to appeal from those orders.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Current status of the criminal proceedings"
+    ],
+    "text": "The criminal proceedings against the individual respondents have been listed for a special mention in the Magistrates’ Court on 5 December 2017 to consider whether the May 2018 committal hearing date can be preserved in light of the appeal from Elliot J’s decision.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Current status of the criminal proceedings"
+    ],
+    "text": "If the committals proceed as scheduled in May 2018, and the individual respondents are committed for trial, then it is likely that the jury trial would be held sometime in 2019. However, should the committal not proceed until later in 2018, the jury trial may be deferred until 2020.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "consideration"
+    ],
+    "text": "There is no doubt that there is a significant overlap in the evidence in this proceeding and the criminal proceedings, although the focus of each is distinct. Significantly, the “ban again Boral” includes evidence which involves the individual respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "consideration"
+    ],
+    "text": "Various findings have been made by the Court which are likely to impact upon the matters raised in the criminal proceedings: see [31], [39], [126]-[127], [129]-[134], [142], [150], [162], [165]-[166] of the Reasons as examples.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The individual respondents say that:\nWithout non-publication orders, there is a real risk that members of any jury empanelled in the criminal proceeding would learn of the findings in the Reasons, and that they would not be able to put those findings out of their minds, notwithstanding any direction given by the trial judge. This gives rise to a real doubt that any criminal trial would be fair. As was noted in ASIC v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487 at [59] by Finkelstein J:\n[T]here is potential for an adverse impact on the jury. The civil case will be decided on evidence that, for the most part, will not be available to the prosecutor in the criminal trial. Imagine what would happen if a jury discovers that a civil court has ruled that Mr Berlowitz’ conduct is illegal. The judge presiding over the criminal trial will be obliged to tell the jury to leave that out of account. It is axiomatic in our courts that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Yet many regard this kind of instruction as little more than wishful thinking. Perhaps the jurors will have explained to them that the judge who made the ruling acted on evidence not before the jury and in any event a lower standard of proof was required in the civil court. Whether those instructions will result in a fair criminal trial may be strongly doubted.\nNotably, on the appeal in relation to the stay application, the members of the Full Court did not share the primary judge’s confidence that members of the jury would not learn of findings made in these s45D proceedings or, that if they did, the jurors would be able to put aside that knowledge either: (a) in compliance with judicial direction; or (b) because of a capacity to make a distinction between the different contraventions in the respective proceedings: see [2016] FCAFC 97 at [45].\nAs to the latter point, it is significant that the applicable standard of proof in these proceedings against the first respondent is lower than will apply during any criminal trial. As a result, evidence which was admitted in these proceedings as against the first respondent (including evidence derived from the s.155 examinations), which is unlikely to be admitted in the criminal trial. This reality, obvious to lawyers and judges, may well be ‘lost’ on a jury asked to bring their minds to a consideration of substantially the same evidence against other parties pursuant to a different standard of proof.\nThe more limited form of order made by the Court on 3 October 2016 was appropriate to the situation which attached at that time; namely the fact that evidence in support of allegations made in the ACCC’s pleadings was about to be adduced in a trial. Now, the situation is very different. What is now at issue is the prospect that findings of a judge of the Federal Court contained in the Court’s Reasons might be made public. Conclusions reached and findings pronounced by a judge will of course operate on the minds of jurors in a different manner from mere evidence adduced at trial by one party in support of the allegations upon which that party relies.\nThe obvious risk of prejudice and an unfair criminal trial is obviated by the making of the non-publication and suppression orders sought by the respondents. While it is accepted that the primary objective of the administration of justice is to safeguard the public interest in open justice (s 37AE), in the circumstances of this case the Court has already acknowledged the risk of impact upon the fair trial of the second and third respondents. Unlike cases where the question which arises is whether there has already been irremediable prejudice to a fair trial such as to justify the delay or permanent stay of a criminal trial (eg Dupas v R (2010) 241 CLR 237), here what is sought is the taking of sensible prophylactic measures in order to avoid irremediable damage to the prospects of a fair trial. By dint of the sequence in which these events are unfolding, it lies in the power of this Court to take steps which are protective of the fairness of the criminal trials. The courts have confirmed the existence of a power to restrain publication of material likely to prejudice a fair trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "consideration"
+    ],
+    "text": "As an alternative, it was submitted that:\nShould the Court not be minded to make the non-publication order and suppression order set out above, the respondents seek, in the alternative, that the Court make the orders set out on pages three and four of the respondents’ proposed orders.\nThe alternative orders proposed by the respondents comprise orders pursuant to section 37AG of the FCA Act comprise, in summary terms:\n(1) a continuation (until the conclusion of the criminal proceedings or 31 December 2019, whichever is later) of the non-publication orders already made by the Court on 3 October 2016, and extend those orders in a manner which prevents the publication of any information tending to identify the individual respondents in connection with certain findings made by the Court;\n(2) a further non-publication order in relation to certain findings made by the Court; and\n(3) suppression orders in relation to parts of the Reasons.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "consideration"
+    ],
+    "text": "In response to these submissions, the ACCC opposed the extent of the suppression orders proposed, but does not oppose a more limited suppression order concerning the names of those alleged to have been involved in criminal conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The ACCC reminded the Court that, in deciding whether to make a suppression or non-publication order, the Court must take into account that a primary objective of the administration of justice is to safeguard the public interest in open justice: see s 37AE of the Federal Court of Australia Act 1976 (Cth) (‘the Federal Court Act’).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "consideration"
+    ],
+    "text": "Nevertheless, section 37AG(1) of the Federal Court Act provides:\nThe Court may make a suppression order or non-publication order on one or more of the following grounds:\n(a) the order is necessary to prevent prejudice to the proper administration of justice;\n(b) the order is necessary to prevent prejudice to the interests of the Commonwealth or a State or Territory in relation to national or international security;\n(c) the order is necessary to protect the safety of any person;\n(d) the order is necessary to avoid causing undue distress or embarrassment to a party to or witness in a criminal proceeding involving an offence of a sexual nature (including an act of indecency).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "consideration"
+    ],
+    "text": "A suppression order (or a non-publication order) will not be made lightly as the standard of proof is that it is “necessary” to make the order.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "consideration"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Air New Zealand Ltd (No 3) [2012] FCA 1430, Perram J considered the application of s 37AG(1)(a). Justice Perram referred to Hogan v Australian Crime Commission (2010) 240 CLR 651 and observed that the High Court had emphasised that it must be “necessary” to make the order, which is a high standard that is different to “convenient, reasonable or sensible”. Also, Perram J observed that orders of this kind were not concerned with trivialities. At [21], Perram J observed:\n… It is not a question, on the one hand, of seeking to serve, as best one can, the interests of open justice and, on the other hand, considering the prejudice which may occur if the information is released. The test to be applied is the posing of the question as to whether it is necessary to make the order to prevent prejudice to the proper administration of justice. No balancing exercise is required or permitted.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The ACCC, in addition to submitting that the references to the CFMEU did not in itself lead to a conclusion about the individual respondents, made the following submissions:\n…\n(d) Public interest and public debate about this decision is fundamental to the principle of open justice.\n(e) Publicity of itself does not result in prejudice as the modern practices of criminal jury trials make it routine for trial judges to admonish the jury to decide the case only on the basis of the evidence and arguments led and advanced at trial. See R v Sean Lee King [2013] NSWSC 448, [55]-[60], per Bellew J.\n(f) The common law assumes that jurors will understand and obey the instructions of trial judges to bring an impartial mind to bear on their verdict. See Gilbert v R (2000) 201 CLR 414, [13], per Gleeson CJ and Gummow J.\n(g) Even if the Court’s reasons tended to identify [the individual respondents] in connection with the “ban against Boral”, and a potential juror became aware of this fact, this of itself would not necessarily mean [the individual respondents] would not get a fair trial. The possibility that a juror might acquire irrelevant and prejudicial information is inherent in a criminal trial. It does not of itself prejudice the administration of justice. The law acknowledges the existence of that possibility but proceeds on the footing that the jury, acting in conformity with the instructions given to them by the trial judge, will render a true verdict in accordance with the evidence. See R v Glennon (1992) 173 CLR 592 at 603, per Mason CJ and Toohey J.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The ACCC then went on to submit that:\nIf publication of the Court’s reasons will not result in an unfair trial of [the individual respondents] for the charges of blackmail, then the First Respondent has failed to establish that an order is necessary to prevent prejudice to the proper administration of justice.\nFurther, an important function of the Applicant as part of its compliance and enforcement strategy is to encourage compliance with the law by educating and informing consumers and businesses about their rights and responsibilities under the Competition and Consumer Act 2010. The non-publication or suppression orders sought by the First Respondent would prevent the Applicant from using the Court’s reasons in pursuing its compliance and enforcement strategy (which includes using the outcome of one court proceeding to encourage other industry participants in the sector to improve their practices) and that of itself would prejudice the proper administration of justice.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "consideration"
+    ],
+    "text": "Before continuing further, I repeat earlier observations I made about the role of jury directions and the making of findings and declarations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "consideration"
+    ],
+    "text": "In Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2016] FCA 504 I said:\n54 The respondents relied upon HLP and various comments of Finkelstein J therein. However, it is important to put that decision and his Honour’s comments in context, remembering also the CFMEU in this civil proceeding is not standing in the shoes of an accused facing a criminal trial.\n55 In HLP the Australian Securities and Investments Commission (‘ASIC’) sought a declaration that the second defendant, Mr Berlowitz, operated an illegal unregistered managed investment scheme contrary to the Corporations Act 2001 (Cth) (‘Corporations Act’), and that he carried on a financial services business without the requisite licence. ASIC also sought an injunction permanently restraining Mr Berlowitz from operating a financial services business or from seeking funds from investors in connection with the operation of an unregistered managed investment scheme.\n56 Counsel for ASIC informed the Court that also under consideration was whether Mr Berlowitz should be charged with criminal offences in relation to the same conduct in respect of which proceedings had been brought. In addition, the evidence that ASIC intended to rely upon in the civil proceeding included statements made by Mr Berlowitz during coercive examinations conducted under provisions under the Australian Securities and Investments Commission Act 2001 (Cth). Those statements could not be tendered as evidence in the contemplated criminal proceeding.\n57 In HLP Finkelstein J made the following observations at [58]-[59]:\n[58] I would sum up the position as I see it as follows. The English and Australian authorities that warn of the dangers of a civil court becoming involved in criminal conduct continue to apply in an appropriate company case. The general rule in a company case is that a civil court will usually be the appropriate court to deal with a contravention of the Corporations Act. But the court should be wary of granting relief, including the grant of a declaration or an injunction, if the case is likely to end up before a criminal court. Ordinarily, a civil court should not intervene in those circumstances unless its failure to do so will result in irreparable injury. That strict rule need not be applied if the case involves undisputed facts and the issue raised gives rise to a question of pure law. Then a declaration can be a very useful remedy. As Barwick CJ said in Commonwealth v Sterling Nicholas Duty Free Pty Ltd (1972) 126 CLR 297 that is the kind of case “which contributes enormously to the utility of the jurisdiction.”\n[59] The case at bar is a particularly good example of one in which the court should not interfere. First of all, a criminal prosecution is on the cards. Second, the facts are not agreed. On the contrary, if there is to be a trial, the Crown would be put to its proof on most issues and some of the “facts” to be asserted by the Crown are likely to be in contest. Third, there is potential for an adverse impact on the jury. The civil case will be decided on evidence that, for the most part, will not be available to the prosecutor in a criminal trial. Imagine what would happen if a jury discovers that a civil court has ruled that Mr Berlowitz’ conduct is illegal. The judge presiding over the criminal trial will be obliged to tell the jury to leave that out of account. It is axiomatic in our courts that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Yet many regard this kind of instruction as little more than wishful thinking. Perhaps the jurors will have explained to them that the judge who made the ruling acted on evidence not before the jury and that in any event a lower standard of proof was required in the civil court. Whether those instructions will result in a fair criminal trial may be strongly doubted. Last, but by no means least, is the falsification point made by Fryberg J which, if it occurs, will bring the law into disrepute.\n…\n61 In considering these submissions of the CFMEU, it is important to recall that the issue considered in HLP was whether the Court should make declarations against an individual respondent (Mr Berlowitz) that he had contravened s 601ED(5) of the Corporations Act as sought by ASIC, in circumstances where ASIC was still considering whether or not to seek to charge him with a criminal offence in respect of the same subject matter as the declarations sought by ASIC (at [15]–[17]). This was the ‘real debate’ in the case before Finkelstein J.\n…\n66 The other matter to observe is that the Court in HLP dealt with the issue of the making of declarations of contraventions in the face of criminal prosecutions in respect of the same matter, rather than an application for a stay. I will return to this aspect of HLP, but note now that Finkelstein J, having effectively determined the case, decided not to make the declarations as requested. His Honour said (at [60]):\nFor the foregoing reasons I decline to entertain, on a final basis, the application for declaratory and injunctive relief against Mr Berlowitz. I am, however, prepared to stand the matter over until a final decision is taken as regards a criminal prosecution. If Mr Berlowitz is to be charged I would dismiss this proceeding against him and leave it to the criminal court to decide his fate. On the other hand, if the decision is made not to lay charges, this case can be brought back on.\n67 I will return to the issue raised by Finkelstein J as to instructions to the jury and the jury’s ability to discard irrelevant material. As Finkelstein J observed, it seems axiomatic that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Whether this is ‘wishful thinking’ or not, I do not know. Instructions to this effect in criminal trials are frequently given by judges. However, I should proceed on the basis that these instructions are not given without good cause, and are given in the anticipation that they will be acted upon by the jurors. Of course, there may be instances where an instruction to disregard irrelevant material will not be given, where the Court considers (for example, in well publicised cases) that any such instruction will have no real practical effect and so would be of no practical utility.\n…\n90 I then turn to the issue of the jury becoming aware of the allegations, the hearing itself, and of the eventual findings and orders of the Court in the civil proceeding.\n…\n96 If a trial judge in a civil proceeding could (by appropriate court processes) relieve against any unfair interference with the criminal trial, then this is a relevant matter to consider in any application for a stay. In my view, any legitimate risk of prejudice to the criminal proceeding which arises from the risk of jurors learning about the evidence, finding or orders of the Court in this proceeding could be addressed in a number of ways, including through non-publication orders under s 37AF of the Federal Court Act. This matter can more appropriately be considered at the point in time when the Court is considering making such orders. It is true the High Court in Zhao said that closing the Court so that the Commissioner may progress the forfeiture proceedings and receive the evidence from the person also accused does not qualify as a proper reason for departing from the open court principle. However, I do not consider the High Court intended by that comment to limit the discretion given to a trial judge, to be exercised in a wide variety of circumstances, to suppress particular evidence for relevant and proper reasons, having regard to the nature of the evidence sought to be suppressed, the identity of the witness giving that evidence, and possible prejudice to an accused in any imminent criminal trial.\n…\n101 I make this final observation. The final hearing of the civil proceeding has not been commenced. The form and content of the appropriate final relief (and the form and content of publication of reasons for judgment) in this civil proceeding is not presently able to be addressed nor resolved. It may be that it is appropriate, depending on the circumstances, to delay the publication of reasons or declarations. The result may be that the application of the ACCC is dismissed and no declarations would be made in that event.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The Full Court in Construction, Forestry, Mining and Energy Union v Australian Competition and Consumer Commission [2016] FCAFC 97 made the following observations:\n44 The applicants contended that the declarations the ACCC seeks in the s 45D proceeding would require the Court to make findings about [the individual respondents’] conduct, including their states of mind in relation to material facts relevant to the blackmail proceedings. It was asserted that such findings may prejudice and effectively foreclose decisions and outcomes in the criminal proceedings. What seems to be here raised is the prospect that the jury in the blackmail proceeding may be contaminated by the findings and declarations that may be made in the s 45D proceeding.\n45 The primary judge dealt with this issue at various points in his reasons including at [54]–[67], [90]–[96] and [101]. With respect to the primary judge, we hold reservations about his reasoning on this issue. In particular, we do not share the primary judge’s confidence that members of the jury in the blackmail proceeding would not learn of findings made in the s 45D proceeding or that, if they did, they would be able to put aside that knowledge either in compliance with judicial direction or because of a capacity to make a distinction between the different contraventions alleged in the respective proceedings.\n46 As to jury contamination, we share the reservations expressed by Finkelstein J in Australian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487 at [59], as follows:\nThird, there is potential for an adverse impact on the jury. The civil case will be decided on evidence that, for the most part, will not be available to the prosecutor in a criminal trial. Imagine what would happen if a jury discovers that a civil court has ruled that Mr Berlowitz’ conduct is illegal. The judge presiding over the criminal trial will be obliged to tell the jury to leave that out of account. It is axiomatic in our courts that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Yet many regard this kind of instruction as little more than wishful thinking. Perhaps the jurors will have explained to them that the judge who made the ruling acted on evidence not before the jury and that in any event a lower standard of proof was required in the civil court. Whether those instructions will result in a fair criminal trial may be strongly doubted.\n47 However, it does not follow that an error is established sufficient to overturn a discretionary judgment or sufficient to warrant the grant of leave to appeal.\n48 On the issue of leave to appeal, we have arrived at that view including because the intervention of this Court at this juncture would be premature. The possibility of jury contamination flowing from the making of findings and declarations in the s 45D proceeding may be entirely averted if the publication of reasons and the making of declarations post-date the hearing of the blackmail proceeding. The primary judge at [101] specifically recognised that such a course may be appropriate. The primary judge noted that the form and content of the appropriate final relief are not presently resolved and, depending on the circumstances, it may be appropriate that the Court determine to delay the publication of its reasons and any declarations it intends to make. That all suggests that the primary judge intends to provide the applicants with a further opportunity to obtain relief from the prejudice which they apprehend.\n49 It follows that, at this juncture, there would be no substantial injustice if leave were refused. We note, however, that delaying the delivery of reasons and the making of declarations until after the hearing of the committal or any subsequent trial may not suffice. The spectre of successful appeal and retrial might require the delaying of findings until it is clear that a result has been finally reached.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "consideration"
+    ],
+    "text": "I should observe that the Full Court did not consider the decisions of the High Court in Gilbert v The Queen (2000) 201 CLR 414, R v Glennon (1992) 173 CLR 592 and Dupas v The Queen (2010) 241 CLR 237 (‘Dupas’).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "consideration"
+    ],
+    "text": "In Dupas, the Court made these observations:\n26 There is an important point here. It is often said that the experience and wisdom of the law is that, almost universally, jurors approach their tasks conscientiously. The point was made as follows by Hughes J, with the endorsement of the English Court of Appeal, in R v Abu Hamza:\n“Extensive publicity and campaigns against potential defendants are by no means unknown in cases of notoriety. Whilst the law of contempt operates to minimise it, it is not always avoidable, especially where intense public concern arises about a particular crime and a particular defendant before any charge is brought. Jurors are in such cases capable of understanding that comment in the media might or might not be justified and that it is to find out whether it is that is one of their tasks. They are capable of understanding that allegations which have been made may be true or may not be and that they, the jury, are to have the opportunity and responsibility of hearing all the evidence which commentators in the media have not and of deciding whether in fact the allegations are true or not. They are not surprised to be warned not to take at face value what appears in the media, nor are they these days so deferential to politicians as to be incapable of understanding that they should make no assumptions about whether any statements made by such people are justified or not. They are also capable of understanding and habitually apply the direction that they are given about the standard of proof.”\nIn his reasons for dismissing the stay application, which are extracted in part and described above, Cummins J used similar terms with respect to the conduct of jury trials in Victoria.\n27 Earlier, in Gammage v The Queen Windeyer J expressed the governing principle in terms which acknowledged that the jury room might not be a place of undeviating intellectual and logical rigour (a point made by Callinan J in Gilbert v The Queen) by saying:\n“A jury in a criminal case may sometimes, from compassion or prejudice or other ulterior motive, fail to perform their sworn duty to determine the case before them according to the evidence. If they do so in favour of the prisoner, and not of the Crown, the law is powerless to correct their dereliction. They must be assumed to have been faithful to their duty. Their verdict must be accepted.”\n28 Conclusions of this kind are not examples of the “ordinary” questions of fact which regularly arise for determination . The assumed efficacy of the jury system of which Windeyer J spoke, whereby the law proceeds on the basis that the jury acts on the evidence and in accordance with the directions of the judge, represents the policy of the common law and is more akin to a species of “constitutional fact”, in the sense of that term explained by Heydon J in Thomas v Mowbray.\n29 Whilst the criminal justice system assumes the efficacy of juries, that “does not involve the assumption that their decision making is unaffected by matters of possible prejudice.” In Glennon, Mason CJ and Toohey J recognised that “[t]he possibility that a juror might acquire irrelevant and prejudicial information is inherent in a criminal trial.” What, however, is vital to the criminal justice system is the capacity of jurors, when properly directed by trial judges, to decide cases in accordance with the law, that is, by reference only to admissible evidence led in court and relevant submissions, uninfluenced by extraneous considerations. That capacity is critical to ensuring that criminal proceedings are fair to an accused.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "consideration"
+    ],
+    "text": "In my view the observations of the Full Court relating to the views of Finkelstein J in HLP set out above should be read as per incuriam.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "consideration"
+    ],
+    "text": "However, the real issue here is that a judge of the Federal Court has now made specific findings which could come to the attention of a jury and would have a greater impact than evidence, trial submissions and media comment.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The totality of considerations that related to the stay application were different from the considerations relevant to the issue now before the Court. The present position is the Court has the ability to prevent a jury from gaining information about the Court’s reasoning, findings and ultimate decision. Assuming the overlap I have mentioned, and considering (as I do) that the reference to the CFMEU (even without a specific reference to the two individual respondents) will effectively be seen as involving a reference to these individual respondents, the proper course is to prevent any possible interference with the criminal trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "consideration"
+    ],
+    "text": "This is not to gainsay anything said by the High Court in Dupas, but to recognise it is better where a criminal trial is concerned to prevent possible prejudicial information being available to a jury.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "consideration"
+    ],
+    "text": "I appreciate the criminal trial is some time away – but the Court’s findings are part of a permanent record and are not of the same character as media comment, the taking of evidence or submissions made at a trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "consideration"
+    ],
+    "text": "I propose to make in substance the alternative orders as sought by the CFMEU, and make a new non-publication order substantially in the same terms as the one made on 3 October 2016, but to include the findings of the Court. This will involve redacting from the published version of the Reasons the specific paragraphs as sought to be redacted by the individual respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "consideration"
+    ],
+    "text": "This will involve the delay in the ACCC’s concern in educating and informing the public of the need for compliance with the Competition and Consumer Act 2010 (Cth) and enforcing its compliance programme, but these are lesser concerns than ensuring a fair criminal trial. I am satisfied that the alternative proposed orders are required (and is all that is required) to prevent prejudice to the proper administration of justice.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "consideration"
+    ],
+    "text": "The orders I propose to make by adopting in substance the alternative orders proposed by the individual respondents will enable a large proportion of the Court’s reasons to be made known.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "consideration"
+    ],
+    "text": "As to the further hearing, I propose to conduct that hearing in open court. I propose to make non-publication orders similar to those made to cover the liability hearing. I propose to so proceed for the similar reasons I proceeded to hear the liability hearing.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "I have endeavoured to write these reasons without reference to confidential aspects, but I provide these reasons on a confidential basis to the parties and their legal advisers to consider confidentiality issues herein. They should also consider the orders that I propose to make with a view to whether any stay is required (and for what period) to enable any urgent application for leave to appeal (if any party is so advised). I will accommodate any reasonable time so an orderly process can be undertaken to constitute an appropriate Court to hear any such application.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "The orders I propose to make are (with the appropriate definitions as suggested by the proposed orders provided by the individual respondents):\n(1) Pursuant to section 37AG of the Federal Court of Australia Act 1976 (Cth), the Court makes the following non-publication orders on the ground that the orders are necessary to prevent prejudice to the proper administration of justice.\n(a) No person may publish any information which would tend to identify the individual respondents in connection with the proceedings or in connection with the allegations or findings made in the proceedings.\n(b) No person may publish any information which would tend to identify the individual respondents in connection with:\n(i) evidence of or findings made in relation to a “ban against Boral”; or\n(ii) evidence of or findings made in relation to an instruction alleged to have been given by the CFMEU to shop stewards or organisers of the CFMEU to implement a “ban against Boral”; or\n(iii) evidence of or findings made in relation to shop stewards’ meetings held by the CFMEU at Trades Hall during February or March 2013.\n(2) No person may publish any information that relates to the proceedings and which is in relation to:\n(a) findings made in relation to a “ban against Boral”; or\n(b) findings made in relation to an instruction alleged to have been given by the CFMEU to shop stewards or organisers of the CFMEU to implement a “ban against Boral”; or\n(c) findings made in relation to shop stewards’ meetings held by the CFMEU at Trades Hall during February or March 2013.\n(3) Pursuant to section 37AG of the Federal Court of Australia Act 1976 (Cth), the Court makes the following suppression orders on the ground that the orders are necessary to prevent prejudice to the proper administration of justice:\n(a) Any published version of the Court’s reasons will be redacted in the manner to omit non-publishable material; and\n(b) No person may disclose by publication or otherwise the information in the redacted paragraphs of the Court’s reasons.\n(4) Subject to further order, Orders 1, 2 and 3 shall operate until the conclusion of the criminal proceedings or until 31 December 2018, whichever is the later in time.",
+    "judge": "MIDDLETON J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-three (43) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.",
+ "associate": null,
+ "dated": "2017-11-01",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c3982f9956bc1032c559ce110f4a4aba6f4c65d0d2efbddef65ed8ad10f40a30",
+ "markdown_file": "data/extracted/2017/2017FCA1279.md"
+}

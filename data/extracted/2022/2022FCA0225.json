@@ -1,0 +1,351 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2022/2022FCA0225.docx",
+ "metadata": {
+  "citation": "[2022] FCA 225",
+  "name": "Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation) (No 2)",
+  "court": "FCA",
+  "year": 2022,
+  "number": 225,
+  "date_of_judgment": "2022-03-11",
+  "file_numbers": [
+   "QUD257/2021"
+  ],
+  "judges": [
+   "DOWNES J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "hearing_dates": [
+   "2022-03-11"
+  ],
+  "hearing_raw": "11 March 2022",
+  "number_of_paragraphs": 18,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – interlocutory application for leave to proceed against company in liquidation – application on the basis of an initial proposed statement of claim – new proposed statement of claim provided two days prior to hearing and following filing of respondent’s submissions which were directed at the initial proposed statement of claim – application dismissed – indemnity costs ordered"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 37N"
+  ],
+  "cases_cited": [
+   "Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation) [2022] FCA 112"
+  ],
+  "parties": [
+   {
+    "name": "QUEENSLAND NICKEL SALES PTY LTD (ACN 009 872 566)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "QNI RESOURCES PTY LTD (ACN 054 117 921)",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "QNI METALS PTY LTD (ACN 066 656 175)",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "QUEENSLAND NICKEL PTY LTD (IN LIQUIDATION) ACN 009 842 068",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr P Dunning QC with Mr K Byrne, Mr M Karam and Mr A Choy"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Alexander Law"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr A Pomerenke QC with Mr N Derrington"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "HWL Ebsworth Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0225",
+  "portal_file_numbers": [
+   "QUD257/2021"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2022-03-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 257 of 2021"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DOWNES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 March 2022"
+  },
+  {
+   "label": "Date of publication of reasons",
+   "value": "15 March 2022"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – interlocutory application for leave to proceed against company in liquidation – application on the basis of an initial proposed statement of claim – new proposed statement of claim provided two days prior to hearing and following filing of respondent’s submissions which were directed at the initial proposed statement of claim – application dismissed – indemnity costs ordered"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) ss 37M, 37N"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation) [2022] FCA 112"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "18"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 March 2022"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr P Dunning QC with Mr K Byrne, Mr M Karam and Mr A Choy"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Alexander Law"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr A Pomerenke QC with Mr N Derrington"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "HWL Ebsworth Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD257/2021",
+   "parties": [
+    {
+     "name": "QUEENSLAND NICKEL SALES PTY LTD (ACN 009 872 566)",
+     "role": "First Applicant"
+    },
+    {
+     "name": "QNI RESOURCES PTY LTD (ACN 054 117 921)",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "QNI METALS PTY LTD (ACN 066 656 175)",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "QUEENSLAND NICKEL PTY LTD (IN LIQUIDATION) ACN 009 842 068",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "DOWNES J"
+   ],
+   "date": "2022-03-11",
+   "date_raw": "11 MARCH 2022",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application dated 9 December 2021 and accepted for filing on the 14 December 2021 is dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Any application by the applicants for leave to proceed on the basis of the version of the statement of claim which is attached to the applicants’ submissions (exhibit 1) shall be filed and served by 4.00pm AEST Monday 14 March 2022.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Subject to any further order and order 7 below, any application brought pursuant to order 2 shall proceed on the basis of the existing affidavit material filed by the applicants and the submissions which are exhibit 1.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The applicants shall pay the respondent’s costs of the interlocutory application dated 9 December 2021 forthwith and on an indemnity basis.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The respondent’s costs pursuant to order 4 shall be fixed by way of lump sum and the matter shall be referred to a Registrar for determination of the quantum of the costs payable by the applicants to the respondent and the date by which that sum shall be payable.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "By 4.00pm AEST on 18 March 2022, the respondent shall file and serve any submissions and any further affidavit material in relation to any application filed by the applicants pursuant to order 2.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "By 4.00pm AEST on 21 March 2022, the applicants shall file and serve any submissions in reply and any affidavit material in reply to any submissions and affidavit material filed and served pursuant to order 6.",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Any application which is filed and served in accordance with order 2 shall be set down for hearing at 9.00am AEST on 23 March 2022.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "THE COURT NOTES THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "In Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation) [2022] FCA 112, at [1]–[9], I set out the history of this matter up to the date of that judgment.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The history included the fact that on 13 August 2021, senior counsel for the first to fifth respondents made submissions about the (then) statement of claim being deficient in that there was a basic failure to attend to the elements of the cause of action.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "An order was made on that date by Lee J that the applicants file and serve any application for leave to proceed against any of the respondents by no later than the earlier of the date that is 7 days after the determination of the applications for special leave to appeal against the orders made by the Queensland Court of Appeal on 25 June 2021 in proceeding 7119/20 or 12 November 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "By the next case management hearing, which was held on 19 November 2021, no application for leave to proceed had been filed, and no amendments had been made to the statement of claim.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The time for compliance with the order dated 13 August 2021 was extended to 3 December 2021. No application for leave to proceed was filed by 3 December 2021, either, and nor was there any amendment to the statement of claim.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "On 14 December 2021, an application was accepted for filing pursuant to which the applicants sought the following order:\nPursuant to section 471B of the Corporations Act 2001 (Cth), the Applicants have leave to proceed against Queensland Nickel Pty Ltd (In Liq) in respect of the claims made in the proposed Statement of Claim appearing as Annexure SMI-1 of the Affidavit of Sameh Morris Iskander sworn 9 December 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The second order that was sought was that costs of the application be costs in the proceeding.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The hearing of that application was set down for today, 11 March 2022, before me. Part of the justification for setting it down today was to accommodate the availability of counsel for the applicants, who submitted, at a case management hearing, that they were only available on Fridays. So in short, the applicants were accommodated for the hearing today, and as a result, there was some delay in hearing the application.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "On Wednesday, 9 March 2022 – that is, two days before the hearing of the application which had been first proposed in December 2021 – submissions were prepared and filed by the respondent, which set out, in detail, the respondent’s criticisms of the pleading which is referred to in paragraph 1 of the application.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Shortly after those submissions were provided, the applicants provided their own submissions, and attached to those submissions a new statement of claim. That is, the previous statement of claim has been abandoned, and a new statement of claim has been substituted.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "While it is correct that there is some overlap between some of the facts that are alleged in the two pleadings, it is the case that, effectively, the applicants wish to start again.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "No application had been made to amend the interlocutory application, and having regard to the submissions both in writing and oral, it appears that the application is no longer pursued in the terms as it was filed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "For these reasons, the application dated 9 December 2021 and accepted for filing on 14 December 2021 will be dismissed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "In making this order, I take into account that there will be no prejudice to the applicants, because the respondent does not oppose the applicants being permitted to file a new application for leave to proceed based on the new pleading which is attached to the applicants’ submissions provided on 9 March 2022 on certain conditions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "I raised with senior counsel for the applicants that, in the circumstances, and taking into account the history of the matter and the lateness of the provision of the new statement of claim, it was appropriate, in this case, that an indemnity costs order be made, as well as an order that those costs be paid forthwith.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "Neither of those orders was seriously resisted, although they were not consented to by the applicants.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Such orders are appropriate in this case, having regard to the history that I have set out, as well as the lateness of the provision of the new pleading.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "If the matter is to proceed in this Court, the parties need to be aware of, and comply with, ss 37M and 37N of the Federal Court of Australia Act 1976 (Cth).",
+    "judge": "DOWNES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eighteen (18) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.",
+ "associate": null,
+ "dated": "2022-03-15",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "82cfce864b523eceee5a8dc6a68352ce96f999ae4d7bde73fab79e3617f37ff9",
+ "markdown_file": "data/extracted/2022/2022FCA0225.md"
+}

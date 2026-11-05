@@ -1,0 +1,1667 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2016/2016FCA0819.docx",
+ "metadata": {
+  "citation": "[2016] FCA 819",
+  "name": "Muswellbrook Shire Council v The Royal Bank of Scotland NV",
+  "court": "FCA",
+  "year": 2016,
+  "number": 819,
+  "date_of_judgment": "2016-06-09",
+  "file_numbers": [
+   "NSD1322/2012"
+  ],
+  "judges": [
+   "RARES J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-06-09"
+  ],
+  "hearing_raw": "9 June 2016",
+  "number_of_paragraphs": 33,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – representative proceedings – Federal Court of Australia Act 1976 (Cth) Pt IVA – whether Court has power under ss 33Q(1) and 33ZF(1), prior to making findings of liability, to require group members to take a positive step to register their details with the representative party’s lawyers and identify nature and extent of their claims for purposes of a mediation at which the representative party would be authorised to negotiate a settlement of all group members’ claims – where related proceeding has determined certain common issues of fact and law – where group members are institutional investors and local government councils – where order for registration procedure would assist respondent to estimate any potential liability and its quantum – whether order for registration appropriate or necessary to ensure that justice is done"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) ss 33C, 33E, 33H, 33J, 33Q, 33V, 33W, 33X, 33Y, 33Z, 33ZA, 33ZB, 33ZF, 53A",
+   "Supreme Court Act 1986 (Vic) s 33ZG"
+  ],
+  "cases_cited": [
+   "ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1",
+   "Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200",
+   "Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303",
+   "Farey v National Australia Bank Limited [2014] FCA 1242",
+   "Inabu Pty Limited v Leighton Holding Limited [2014] FCA 622",
+   "Matthews v SPI Electricity Pty Limited (Ruling No 13) (2013) 39 VR 255",
+   "Mobil Oil Australia Pty Limited v Victoria (2002) 211 CLR 1",
+   "Owners of “Shin Kobe Maru” v Empire Shipping Co Inc (1994) 181 CLR 404",
+   "The Queen v Australian Broadcasting Tribunal; Ex parte 2HD Pty Ltd (1979) 144 CLR 45",
+   "Winterford v Pfizer Australia Pty Limited [2012] FCA 1199"
+  ],
+  "parties": [
+   {
+    "name": "MUSWELLBROOK SHIRE COUNCIL (ARBN 86 864 180 944)",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE ROYAL BANK OF SCOTLAND NV (ARBN 84 079 478 612)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Ms L Gallate of Squire Patton Boggs"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr MJ Darke SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Allens"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr J Hewitt"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0819",
+  "portal_file_numbers": [
+   "NSD1322/2012"
+  ],
+  "portal_event": "Directions and Interlocutory Hearing",
+  "portal_event_date": "2016-06-09"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 1322 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "RARES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "9 June 2016"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – representative proceedings – Federal Court of Australia Act 1976 (Cth) Pt IVA – whether Court has power under ss 33Q(1) and 33ZF(1), prior to making findings of liability, to require group members to take a positive step to register their details with the representative party’s lawyers and identify nature and extent of their claims for purposes of a mediation at which the representative party would be authorised to negotiate a settlement of all group members’ claims – where related proceeding has determined certain common issues of fact and law – where group members are institutional investors and local government councils – where order for registration procedure would assist respondent to estimate any potential liability and its quantum – whether order for registration appropriate or necessary to ensure that justice is done"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) ss 33C, 33E, 33H, 33J, 33Q, 33V, 33W, 33X, 33Y, 33Z, 33ZA, 33ZB, 33ZF, 53A\nSupreme Court Act 1986 (Vic) s 33ZG"
+  },
+  {
+   "label": "Cases cited",
+   "value": "ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1\nBathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200\nExpense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303\nFarey v National Australia Bank Limited [2014] FCA 1242\nInabu Pty Limited v Leighton Holding Limited [2014] FCA 622\nMatthews v SPI Electricity Pty Limited (Ruling No 13) (2013) 39 VR 255\nMobil Oil Australia Pty Limited v Victoria (2002) 211 CLR 1\nOwners of “Shin Kobe Maru” v Empire Shipping Co Inc (1994) 181 CLR 404\nThe Queen v Australian Broadcasting Tribunal; Ex parte 2HD Pty Ltd (1979) 144 CLR 45\nWinterford v Pfizer Australia Pty Limited [2012] FCA 1199"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "9 June 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "33"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Ms L Gallate of Squire Patton Boggs"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr MJ Darke SC"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Allens"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr J Hewitt"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1322/2012",
+   "parties": [
+    {
+     "name": "MUSWELLBROOK SHIRE COUNCIL (ARBN 86 864 180 944)",
+     "role": "Applicant"
+    },
+    {
+     "name": "THE ROYAL BANK OF SCOTLAND NV (ARBN 84 079 478 612)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "RARES J"
+   ],
+   "date": "2016-06-09",
+   "date_raw": "9 JUNE 2016",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to section 33ZF of the Federal Court of Australia Act 1976 (Cth) (the Act) and subject to any further order of the Court, any Group Member who by 1 July 2016 does not register with the Applicant’s solicitors (Non-Registered Group Member) or opt out of the proceedings by filing an Opt Out Notice in the form of Annexure “A” with the Court:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "will remain a Group Member for all purposes of this proceeding; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "shall not, without leave of the Court, be permitted to seek any benefit pursuant to any in-principle settlement (subject to the approval of the Court) of this proceeding reached at the mediation scheduled to commence on 21 July 2016, or within 28 days after that mediation is terminated by the mediator.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Nothing in Order 1 precludes any Non-Registered Group Member from having their claims considered at any mediation that takes place at some future time if the mediation referred to in Order 1 is unsuccessful.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Notice to Group Members",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to section 33X (5) of the Act, notice be given to:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "Group Members who have signed up with Squire Patton Boggs of the matters referred to in the notice annexed as Annexure “B” (Notice of Opt-Out Rights); and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "All other Group Members of the matters referred to in the notice annexed as Annexure \"C” (Registration and Opt-Out Notice).",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Pursuant to section 33Y(2) of the Act, the form and content of each of the Opt-Out Notice, the Notice of Opt-Out Rights and the Registration and Opt-Out Notice be approved.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Pursuant to section 33Y(3) of the Act, the Notice of Opt-Out Rights and Registration and Opt-Out Notice be given on 10 June 2016 by the Applicant's solicitors, Squire Patton Boggs:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "sending the Notice of Opt-Out Rights by registered post, and where available by email, to each of the persons represented by Squire Patton Boggs in relation to the Proceedings (SPB Clients), at the last known address of those persons;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "sending the Registration and Opt-Out Notice by registered post, and where available by email, to each of the Group Members who are not SPB Clients, at the last known address of those persons.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Any “Group Member Registration Form” (in the form annexed to the Registration and Opt-Out Notice) must be delivered to Squire Patton Boggs at the address stated in the Notice by 5:00pm on 1 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Any Opt-Out Notice must be returned to the Registrar or filed in the Court, or if delivered to Squire Patton Boggs, filed by them, by 4:00pm on 1 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "Squire Patton Boggs must notify the solicitors for the Respondents of any Group Members that register and provide copies of any Opt-Out Notices received by them pursuant to Order 7 by 5 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Other matters",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The matter be referred to mediation pursuant to section 53A of the Federal Court of Australia Act 1976 (Cth) by the Honourable Kevin Lindgren AM QC, such mediation to occur on 21 July 2016 or such other time or date as fixed by the mediator.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "The solicitors for the parties have leave to inspect the Court file and copy any Opt-Out Notices received by the Court.",
+     "level": 0
+    },
+    {
+     "label": "11.",
+     "text": "The proceeding be listed for directions on 19 August 2016.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Annexure “A”",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Form 21",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Rule 9.34",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Opt-Out Notice",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "No. NSD 1322 of 2012",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "District Registry: New South Wales",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Division: General",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MUSWELLBROOK SHIRE COUNCIL (ABN 86 864 180 944)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Applicant",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE ROYAL BANK OF SCOTLAND NV (ARBN 84 079 478 612)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "First Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Third Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "To: The Registrar",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "New South Wales District Registry",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Level 17, Law Courts Building, Queens Square, Sydney NSW 2000",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The person named below as a group member in this representative proceeding gives notice under section 33J of the Federal Court of Australia Act 1976, that the group member is opting out of the representative proceeding.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Name of group member: | ……………………………………………………\nPerson completing this form (print): | ……………………………………………………\nAuthority of person completing this form (eg., company director, lawyer) | …………………………………………………… …………………………………………………....\nTelephone contact: | ……………………………………………………\nPostal address | ……………………………………………………",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "",
+     "text": "Date:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Signed by: [Name]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Capacity (e.g. group member or lawyer for group member):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Annexure “B”",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "FEDERAL COURT OF AUSTRALIA (PROCEEDINGS NO NSD1322/2012)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "REMBRANDT 2 NOTE HOLDERS’ CLASS ACTION",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "NOTICE TO GROUP MEMBERS",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "NOTICE OF OPT-OUT RIGHTS",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "This is a notice for the attention of persons who acquired the ‘Constant Proportion Debt Obligation’ known as “Surf” or “Rembrandt 2006-2” and have informed Squire Patton Boggs that they intend to participate in the Class Action.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The purpose of this notice is to advise you of your opt-out rights.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "If you are such a person, you should read this notice carefully as it affects your rights. If there is anything in it that you do not understand you should seek legal advice.",
+     "level": 0
+    },
+    {
+     "label": "1",
+     "text": "On 5 September 2012, a class action was commenced in the Federal Court of Australia against The Royal Bank of Scotland NV (ABN Amro) and McGraw-Hill International (UK) Limited (Standard & Poor’s) by Muswellbrook Shire Council (Applicant) on its own behalf and on behalf of group members who purchased the financial instruments known as constant proportion debt obligations (CPDOs) given the name “Surf” or “Rembrandt 2006-2” which was rated “AAA” by Standard & Poor’s and suffered loss or damage as a result (Class Action).",
+     "level": 0
+    },
+    {
+     "label": "2",
+     "text": "The Applicant, ABN Amro and Standard & Poor’s will participate in a mediation on Thursday, 21 July 2016 at which the parties will explore the possibility of a settlement of this Class Action (Mediation).",
+     "level": 0
+    },
+    {
+     "label": "3",
+     "text": "You are receiving this notice because you have already notified or informed the Applicant's solicitors, Squire Patton Boggs, that you wish to participate in the Class Action and have provided information relevant to your claim against ABN Amro and Standard & Poor's. If you have not taken those steps and have received this notice in error, please contact Squire Patton Boggs immediately (contact details below).",
+     "level": 0
+    },
+    {
+     "label": "4",
+     "text": "The Mediation has been ordered by the Court and is scheduled to occur on Thursday, 21 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "5",
+     "text": "Because you have notified Squire Patton Boggs of your intention to participate in the Class Action, you are considered a Registered Group Member. You will remain a Registered Group Member unless you opt-out of this proceeding in accordance with the instructions set out in Section D.",
+     "level": 0
+    },
+    {
+     "label": "6",
+     "text": "Unless you opt out, you will be bound by:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "any settlement agreement reached at or shortly after the Mediation that is approved by the Court; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the outcome of this Class Action (if the Mediation does not result in a settlement and the Class Action continues).",
+     "level": 0
+    },
+    {
+     "label": "7",
+     "text": "If the Class Action is successful, you will be entitled to share in the benefit of any order, judgment or settlement in favour of the Applicant and group members. (In some cases you may have to satisfy certain conditions before your entitlement arises.) If the Class Action is unsuccessful or is not as successful as you might have wished, you will not be able to sue on the same claim in any other proceedings.",
+     "level": 0
+    },
+    {
+     "label": "8",
+     "text": "If a settlement agreement is reached at or shortly after the Mediation, Registered Group Members (including you) will be contacted at the address you have provided to Squire Patton Boggs and informed of the terms of the proposed settlement (subject to Court approval). Only Registered Group Members will be eligible for a share of any settlement monies and will also be bound by the terms of settlement negotiated on their behalf by the Applicant at the forthcoming Mediation if approved by the Court.",
+     "level": 0
+    },
+    {
+     "label": "9",
+     "text": "If the Mediation results in a settlement, the Applicant will:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "seek Court approval of the settlement; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "ask the Court to note the undertaking given by IMF Bentham Ltd (which is providing litigation funding for the Applicant as explained in section F, paragraphs 20 to 22, below) that it will not fund the claims of any Group Members who opt-out of this proceeding who may choose to bring their own claims in separate proceedings.",
+     "level": 0
+    },
+    {
+     "label": "10",
+     "text": "If the Mediation does not result in a settlement, then the Class Action will continue and you will remain eligible to participate in the Class Action (unless and until you opt out in accordance with procedure in Section D).",
+     "level": 0
+    },
+    {
+     "label": "11",
+     "text": "Group Members can opt-out of the Class Action by completing and returning the enclosed “Opt-out Notice” by 1 July 2016 (the Registration Date).",
+     "level": 0
+    },
+    {
+     "label": "12",
+     "text": "If you opt out of the Class Action you will no longer be:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "a Group Member in the Class Action;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "entitled to participate in any settlement arising from the Mediation; or",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "entitled to participate in the Class Action.",
+     "level": 0
+    },
+    {
+     "label": "13",
+     "text": "If you opt out of the Class Action, you will not be bound by the outcome of any settlement agreement reached at the Mediation or by the outcome of the Class Action but you will be at liberty to bring your own claim against all or any of the Respondents, provided that you issue Court proceedings within the time limit applicable to your claim. If you wish to bring your own claim against all or any of the Respondents, you should seek your own legal advice about your claim and the applicable time limit prior to opting out.",
+     "level": 0
+    },
+    {
+     "label": "14",
+     "text": "If you wish to opt out of the Class Action you must do so by completing the enclosed “Opt-Out Notice” and then returning it to the Registrar of the Federal Court of Australia at the address on the form. IMPORTANT: the Notice must reach the Registrar by no later than 1 July 2016, otherwise it will not be effective.",
+     "level": 0
+    },
+    {
+     "label": "15",
+     "text": "If the Mediation does not result in a settlement, then the Class Action will continue and both Registered Group Members and Non-Registered Group Members will remain eligible to participate in the Class Action (unless they opt out in accordance with the current or any future opt out notice).",
+     "level": 0
+    },
+    {
+     "label": "16",
+     "text": "If you do not wish to remain a group member you must opt out of the Class Action.",
+     "level": 0
+    },
+    {
+     "label": "17",
+     "text": "If you wish to opt out of the class action you must do so by completing the enclosed “Opt-out Notice”, then returning it to the Registrar of the Federal Court of Australia at the address on the form. IMPORTANT: the Notice must reach the Registrar by no later than 4pm on 1 July 2016, otherwise it will not be effective.",
+     "level": 0
+    },
+    {
+     "label": "18",
+     "text": "Each Group Member should fill out a separate form. If you are opting out on behalf of a company or business please provide your name, the name of the company or business and your position within the company or business (e.g. director or partner).",
+     "level": 0
+    },
+    {
+     "label": "19",
+     "text": "You will not become liable for any legal costs by remaining a Group Member, being a Registered Group Member or opting out.",
+     "level": 0
+    },
+    {
+     "label": "20",
+     "text": "The Applicant in this Class Action is presently being funded by IMF Bentham Ltd (IMF). IMF pays the Applicant’s costs of bringing and running the Class Action. If the Class Action is unsuccessful, IMF will pay any order made against the Applicant to pay the Respondents’ costs.",
+     "level": 0
+    },
+    {
+     "label": "21",
+     "text": "The Applicant has agreed to pay a commission to IMF if any compensation is paid to it as a result of any order, judgment or settlement in the Class Action. If you do not enter into a funding agreement, you will remain a Group Member but will not be required to pay any commission to IMF unless the Court orders otherwise.",
+     "level": 0
+    },
+    {
+     "label": "22",
+     "text": "You should note that regardless of the outcome of the Mediation, the Applicant intends to seek court orders requiring all Registered Group Members (including you) who have not entered into a litigation funding agreement with IMF to pay a portion of their distribution to IMF equivalent to the amount they would have paid had they entered into a funding agreement with IMF.",
+     "level": 0
+    },
+    {
+     "label": "23",
+     "text": "You can obtain further information about the Class Action by:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "contacting Amanda Banton at Squire Patton Boggs (the Applicant’s solicitors) on (02) 8248 7888 or at amanda.banton@squirepb.com;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "requesting that Squire Patton Boggs provide you with a copy of the Originating Application and Statement of Claim for the Class Action (at no cost to you);",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "inspecting the Originating Application and Statement of Claim by visiting a District Registry of the Federal Court in Sydney, Canberra, Melbourne, Brisbane, Adelaide, Perth, Hobart or Darwin (the addresses for these registries are available at www.fed.court.gov.au calling the NSW District Registry on (02) 9230 8567).",
+     "level": 0
+    },
+    {
+     "label": "24",
+     "text": "The Federal Court cannot answer questions about the process or provide legal advice.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Form 21",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Rule 9.34",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Opt-Out Notice",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "No. NSD 1322 of 2012",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "District Registry: New South Wales",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Division: General",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MUSWELLBROOK SHIRE COUNCIL (ABN 86 864 180 944)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Applicant",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE ROYAL BANK OF SCOTLAND NV (ARBN 84 079 478 612)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "First Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Third Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "To: The Registrar",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "New South Wales District Registry",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Level 17, Law Courts Building, Queens Square, Sydney NSW 2000",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The person named below as a group member in this representative proceeding gives notice under section 33J of the Federal Court of Australia Act 1976, that the group member is opting out of the representative proceeding.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Name of group member: | ……………………………………………………\nPerson completing this form (print): | ……………………………………………………\nAuthority of person completing this form (eg., company director, lawyer) | …………………………………………………… ……………………………………………………\nTelephone contact: | ……………………………………………………\nPostal address: | ……………………………………………………",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "",
+     "text": "Date:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Signed by: [Name]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Capacity (e.g. group member or lawyer for group member):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Annexure “C”",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "FEDERAL COURT OF AUSTRALIA (PROCEEDINGS NO: NSD1322/2012)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "REMBRANDT 2 NOTE HOLDERS’ CLASS ACTION",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "NOTICE TO GROUP MEMBERS",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "NOTICE OF RIGHTS TO:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "(1) REGISTER TO PARTICIPATE IN A MEDIATION ON 21 JULY 2016; OR",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "(2) OPT OUT OF THE PROCEEDINGS.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "This is a notice for the attention of persons who acquired the ‘Constant Proportion Debt Obligation’ known as 'Surf' or 'Rembrandt 2006-2' that the Federal Court of Australia has ordered be given to those persons.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "If you are such a person, you should read this notice carefully as it affects your rights. If there is anything in it that you do not understand you should seek legal advice.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "As explained below, if you are a group member in the class action, you have 3 options: (1) Register to have your claims considered at the Mediation by 1 July 2016 or (2) Opt-out of this Class Action by 1 July 2016 or (3) Do nothing and lose your rights as a Group Member IF the Class Action settles as a result of the upcoming settlement negotiations unless the Court orders otherwise.",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "1",
+     "text": "On 5 September 2012, a class action was commenced in the Federal Court of Australia against The Royal Bank of Scotland NV (ABN Amro) and McGraw-Hill International (UK) Limited (Standard & Poor’s) by Muswellbrook Shire Council (Applicant) on its own behalf and on behalf of group members who purchased the financial instruments known as constant proportion debt obligations (CPDOs) given the name “Surf” or “Rembrandt 2006-2” which was rated “AAA” by Standard & Poor’s and suffered loss or damage as a result (Class Action).",
+     "level": 0
+    },
+    {
+     "label": "2",
+     "text": "The Applicant, ABN Amro and Standard & Poor's will participate in a mediation on Thursday, 21 July 2016 at which the parties will explore the possibility of a settlement of this Class Action (Mediation).",
+     "level": 0
+    },
+    {
+     "label": "3",
+     "text": "The Federal Court has ordered that this notice be sent to you because you have been identified as someone who may be a group member in the Class Action and, as a result:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "you may be entitled to have your claims considered at the Mediation; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "your rights may be affected by any settlement that is reached as a result of the Mediation.",
+     "level": 0
+    },
+    {
+     "label": "4",
+     "text": "This notice is part of a court-ordered process to assist the parties to attempt to resolve this proceeding by settlement. In order to do that, the parties need to know how many group members wish to have their claims considered at the Mediation and the potential value of their claims.",
+     "level": 0
+    },
+    {
+     "label": "5",
+     "text": "If you purchased the CPDOs known as ‘Surf’ or ‘Rembrandt 2006-2’ rated 'AAA' by Standard & Poor’s and suffered loss or damage as a result, you should read this notice carefully.",
+     "level": 0
+    },
+    {
+     "label": "6",
+     "text": "The information in Section B of this notice will help you determine whether you are a group member.",
+     "level": 0
+    },
+    {
+     "label": "7",
+     "text": "If you are a group member, you have three options:",
+     "level": 0
+    },
+    {
+     "label": "8",
+     "text": "Your options are that you can:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "Option 1: Register to have your claims considered at the Mediation ; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "Option 2: Opt-out of the Class Action; or",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "Option 3: Do nothing.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Each of these options is explained in Section D of this notice.",
+     "level": 0
+    },
+    {
+     "label": "9",
+     "text": "The Class Action seeks compensation on behalf of all persons who acquired the following CPDO:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Surf Constant Proportion Debt Obligation: AAA rating, issued by Rembrandt Australia Trust, series 2006-2 (ISIN AU3AB0000051).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "This CPDO is referred to in this notice as the Rembrandt 2 Notes.",
+     "level": 0
+    },
+    {
+     "label": "10",
+     "text": "The Class Action has been commenced by the Applicant, on its own behalf and on behalf of the group members. You are a group member to this Class Action if you claim that:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "you acquired the Rembrandt 2 Notes (whether or not you still retain the Rembrandt 2 Notes); and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the Rembrandt 2 Notes that you acquired had the 'AAA' rating assigned by Standard & Poor’s; and",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "you suffered loss or damage by or resulting from the conduct of one or more of the Respondents set out in the Statement of Claim",
+     "level": 0
+    },
+    {
+     "label": "11",
+     "text": "The persons who satisfy all of the above criteria are called Group Members.",
+     "level": 0
+    },
+    {
+     "label": "12",
+     "text": "The Applicant alleges that it and other Group Members suffered financial loss as a result of acquiring interests in the Rembrandt 2 Notes, based on certain information provided by ABN Amro and based on the 'AAA' rating assigned to the Rembrandt 2 Notes by Standard & Poor’s. The Applicant seeks damages and other relief for itself and on behalf of the Group Members. ABN Amro and Standard & Poor’s (together, the Respondents) deny the allegations and, if any settlement is not reached or approved, intend to defend the claims.",
+     "level": 0
+    },
+    {
+     "label": "13",
+     "text": "Full details of the allegations made by the Applicant are set out in the Statement of Claim which may be obtained from the Applicant’s solicitors, Squire Patton Boggs (contact details below) and at each District Registry of the Federal Court of Australia.",
+     "level": 0
+    },
+    {
+     "label": "14",
+     "text": "The Mediation has been ordered by the Court and is scheduled to occur on Thursday, 21 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "15",
+     "text": "The Mediation will only consider the possibility of settlement with Group Members who register their interest to have their claims considered at the Mediation (and who satisfy the requirements for registration below) (Registered Group Members).",
+     "level": 0
+    },
+    {
+     "label": "16",
+     "text": "Before any settlement that may be reached at the Mediation becomes effective, the Court must assess that it is a fair and reasonable compromise of the claims against the Respondents and must approve its terms as being in the interests of Group Members.",
+     "level": 0
+    },
+    {
+     "label": "17",
+     "text": "If you do not consider that you are a Group Member in the Class Action, you do not need to do anything. If you are unsure whether you are a Group Member in the Class Action, you should seek independent advice before 1 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "18",
+     "text": "If you consider that you are a Group Member in the Class Action you must choose from one of the following three options:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "OPTION | DEADLINE | MORE INFORMATION\nRegister to have your claims considered at the Mediation | 1 July 2016 | Paragraphs 19 to 29 below\nOpt out of the Class Action | 1 July 2016 | Paragraphs 30 to 33 below\nDo nothing | N/A | Paragraphs 34 to 36 below",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "",
+     "text": "Option 1 – Register to have your claims considered at the Mediation",
+     "level": 0
+    },
+    {
+     "label": "19",
+     "text": "The Applicant and some Group Members have already indicated an intention to participate in the Class Action and have provided information relevant to proving their claim.",
+     "level": 0
+    },
+    {
+     "label": "20",
+     "text": "Those Group Members and other Group Members who register in response to this notice are called a Registered Group Member.",
+     "level": 0
+    },
+    {
+     "label": "21",
+     "text": "You have received this notice because you are not considered to be a Registered Group Member at the time this notice was issued. If you wish to participate and have your claim considered at the Mediation, you must:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "complete and submit the enclosed “Group Member Registration Form”; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "provide information to substantiate your claim (as discussed below in paragraph 23).",
+     "level": 0
+    },
+    {
+     "label": "22",
+     "text": "To be eligible to have your claim considered at the Mediation, you must submit the enclosed Group Member Registration Form to Squire Patton Boggs at one of the following addresses by no later than 4pm on 1 July 2016 (Registration Date):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Squire Patton Boggs",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Level 10",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1 Macquarie Place",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Sydney NSW 2000",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Attention: Amanda Banton",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "OR",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "amanda.banton@banton@squirepb.com",
+     "level": 0
+    },
+    {
+     "label": "23",
+     "text": "The information provided on the Group Member Registration Form must be complete, accurate and legible for your application to become a Registered Group Member to be considered. The information must be supported with documentation or other supporting evidence such as an outline of facts or statement of evidence in relation to:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "your interests (past or present) in the Rembrandt 2 Notes;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the matters you relied upon in making the decision to acquire the Rembrandt 2 Notes;",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the loss or damage you allege to have suffered;",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "any steps you took to mitigate the alleged losses; and",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "if mitigation involved acquiring a restructured product:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "the terms of that restructured product; and",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "the matters you relied upon in making the decision to acquire the restructured product.",
+     "level": 0
+    },
+    {
+     "label": "24",
+     "text": "The information you provide to Squire Patton Boggs will be used by Squire Patton Boggs and all or some of it may be provided to the Respondents prior to the Mediation to enable the Respondents to have sufficient information about all the claims against them to settle the Class Action.",
+     "level": 0
+    },
+    {
+     "label": "25",
+     "text": "If a settlement agreement is reached at or shortly after the Mediation, Registered Group Members will be contacted at the address provided on the Group Member Registration Form and informed of the terms of the settlement (which will be subject to Court approval). Only Registered Group Members will be eligible for a share of any settlement monies.",
+     "level": 0
+    },
+    {
+     "label": "26",
+     "text": "All Group Members, including persons who are not Registered Group Members, will be bound by the terms of settlement negotiated by the Applicant, if those terms are approved by the Court.",
+     "level": 0
+    },
+    {
+     "label": "27",
+     "text": "If you do not register by the Registration Date or fail to provide Squire Patton Boggs with the requested information, you will not be entitled to have your claim considered at the Mediation and any claim you may have will not be the subject of any settlement agreement which may arise from the Mediation. See “Option 3 - Do nothing” for more information on the consequences of failing to register by the Registration Date.",
+     "level": 0
+    },
+    {
+     "label": "28",
+     "text": "If the Mediation results in a settlement, the Applicant will:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "seek Court approval of the settlement; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "ask the Court to note the undertaking given by IMF Bentham Ltd (which is providing litigation funding for the Applicant as explained in section F, paragraphs 38 to 40, below) that it will not fund the claims of any Group Members who opt out and who may choose to bring their own claims in separate proceedings.",
+     "level": 0
+    },
+    {
+     "label": "29",
+     "text": "If the Mediation does not result in a settlement, then the Class Action will continue and both Registered Group Members and Non-Registered Group Members will remain eligible to participate in the Class Action (unless and until they opt out in accordance with the current or any future opt out notice).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Option 2 – Opt-out of the Class Action",
+     "level": 0
+    },
+    {
+     "label": "30",
+     "text": "Group Members can also opt-out of the Class Action by completing and returning the enclosed 'Opt-out Notice' to the Registrar of the Federal Court of Australia at the address on the form by 21 July 2016.",
+     "level": 0
+    },
+    {
+     "label": "31",
+     "text": "Those Group Members who opt out of the Class Action prior to the Registration Date will no longer be Group Members of the Class Action.",
+     "level": 0
+    },
+    {
+     "label": "32",
+     "text": "If you opt out of the Class Action, you will not be bound by the outcome of any settlement agreement reached at the Mediation or by the outcome of the Class Action but you will be at liberty to bring your own claim against all or any of the Respondents, provided that you issue Court proceedings within the time limit applicable to your claim. If you wish to bring your own claim against all or any of the Respondents, you should seek your own legal advice about your claim and the applicable time limit prior to opting out.",
+     "level": 0
+    },
+    {
+     "label": "33",
+     "text": "If you wish to opt out of the Class Action you must do so by completing the enclosed “Opt-Out Notice” and then returning it to the Registrar of the Federal Court of Australia at the address on the form. IMPORTANT: the Notice must reach the Registrar by no later than 1 July 2016, otherwise it will not be effective.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Option 3 – Do nothing",
+     "level": 0
+    },
+    {
+     "label": "34",
+     "text": "If you do nothing by the Registration Date, that is you do not:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "register with Squire Patton Boggs by completing and submitting the “Group Member Registration Form”; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "return an opt out notice to the Registrar of the Federal Court of Australia,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and a settlement agreement is reached at or shortly after the Mediation and approved by the Court, you will not be entitled to receive any compensation from the Class Action. You will also be prevented from making a claim in respect of or relating to the subject matter of this Class Action against any or all of the Respondents by separate proceedings and from making a claim at a later stage of these proceedings. You should obtain your own legal advice about your rights in respect of claims against ABN Amro and Standard & Poor’s in those circumstances.",
+     "level": 0
+    },
+    {
+     "label": "35",
+     "text": "If you are a Group Member and you do nothing and a settlement is not reached at or shortly after the Mediation or alternatively is not approved, then you will remain a Group Member and the Applicant will continue to bring the Class Action on your behalf up to the point where the Court determines those questions that are common to the claims of the Applicant and the Group Members. In that case, you will be bound by the outcome of the Class Action. If the Class Action is successful, you will be entitled to share in the benefit of any order, judgment or settlement in favour of the Applicant and Group Members (although you may have to satisfy certain conditions before your entitlement arises). If the Class Action is unsuccessful or is not as successful as you might have wished, you will not be able to sue on the same claim in any other proceedings.",
+     "level": 0
+    },
+    {
+     "label": "36",
+     "text": "Please note that this is a final opportunity for any Group Members who wish to have their claim considered at the Mediation (and to participate in any settlement that may be reached at or shortly after the Mediation) to register by providing Squire Patton Boggs with a completed and signed Group Member Registration Form and supporting documentation.",
+     "level": 0
+    },
+    {
+     "label": "37",
+     "text": "You will not become liable for any legal costs by registering to participate in the Mediation, opting out or “doing nothing”.",
+     "level": 0
+    },
+    {
+     "label": "38",
+     "text": "The Applicant in this Class Action is presently being funded by IMF Bentham Ltd (IMF). IMF pays the Applicant’s costs of bringing and running the Class Action. If the Class Action is unsuccessful, IMF will pay any order made against the Applicant to pay the Respondents’ costs.",
+     "level": 0
+    },
+    {
+     "label": "39",
+     "text": "The Applicant has agreed to pay a commission to IMF if any compensation is paid to it as a result of any order, judgment or settlement in the class action. If you do not enter into a funding agreement, you will remain a Group Member but will not be required to pay any commission to IMF unless the Court orders otherwise.",
+     "level": 0
+    },
+    {
+     "label": "40",
+     "text": "You should note that regardless of the outcome of the Mediation, the Applicant intends to seek court orders requiring all Registered Group Members who have not entered into a litigation funding agreement with IMF to pay a portion of their distribution to IMF equivalent to the amount they would have paid had they entered into a funding agreement with IMF.",
+     "level": 0
+    },
+    {
+     "label": "41",
+     "text": "You can obtain further information about the Class Action by:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "contacting Amanda Banton at Squire Patton Boggs (the Applicant’s solicitors) on (02) 8248 7888 or at amanda.banton@squirepb.com;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "requesting that Squire Patton Boggs provide you with a copy of the Originating Application and Statement of Claim for the Class Action (at no cost to you);",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "inspecting the Originating Application and Statement of Claim by visiting a District Registry of the Federal Court in Sydney, Canberra, Melbourne, Brisbane, Adelaide, Perth, Hobart or Darwin (the addresses for these registries are available at www.fedcourt.gov.au or by calling the NSW District Registry on (02) 9230 8567).",
+     "level": 0
+    },
+    {
+     "label": "42",
+     "text": "The Federal Court cannot answer questions about the process or provide legal advice.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "GROUP MEMBER REGISTRATION FORM",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "“Rembrandt 2 Note Holders’ Class Action”",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia proceeding NSD 1322 of 2012",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "To: Squire Patton Boggs",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Level 10",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1 Macquarie Place",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Sydney NSW 2000",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Attention: Amanda Banton",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The group member named below registers to have their claims considered at the Mediation of this representative proceeding.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Name of group member: | ……………………………………………….\nPerson completing this form (print): | ……………………………………………….\nAuthority of person completing this form (eg., company director, lawyer) | ………………………………………………. ……………………………………………….\nTelephone contact: | ……………………………………………….\nPostal address | ……………………………………………….\nList of documentation supporting the group member’s interest in the Rembrandt 2 Notes, matters relied upon in making the decision to invest, the loss or damage alleged to have been suffered and details of any restructured products acquired in place of the Rembrandt 2 Notes (or other steps taken to mitigate alleged losses) (Please attach copies of any supporting documentation to this form) | ………………………………………………. ………………………………………………. ………………………………………………. ………………………………………………. ……………………………………………….",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "",
+     "text": "Date:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "_____________________________________",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Signed by [Name]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[Insert capacity eg group member / Lawyer for",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the group member]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Form 21",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Rule 9.34",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Opt-Out Notice",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "No. NSD 1322 of 2012",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "District Registry: New South Wales",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Division: General",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MUSWELLBROOK SHIRE COUNCIL (ABN 86 864 180 944)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Applicant",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE ROYAL BANK OF SCOTLAND NV (ARBN 84 079 478 612)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "First Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Third Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "To: The Registrar",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Federal Court of Australia",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "New South Wales District Registry",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Level 17, Law Courts Building, Queens Square, Sydney NSW 2000",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The person named below as a group member in this representative proceeding gives notice under section 33J of the Federal Court of Australia Act 1976, that the group member is opting out of the representative proceeding.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Name of group member: | …………………………………………………\nPerson completing this form (print): | …………………………………………………\nAuthority of person completing this form (eg., company director, lawyer): | ………………………………………………… …………………………………………………\nTelephone contact: | …………………………………………………\nPostal address: | …………………………………………………",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "",
+     "text": "Date:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Signed by: [Name]",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Capacity (e.g. group member or lawyer for group member):",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "A. OVERVIEW OF THE CLASS ACTION",
+    "B. THE MEDIATION",
+    "C. WHAT WILL HAPPEN IF YOU CHOOSE TO REMAIN A GROUP MEMBER?",
+    "D. WHAT WILL HAPPEN IF YOU CHOOSE TO OPT-OUT?",
+    "E. HOW CAN YOU OPT OUT OF THE CLASS ACTION?",
+    "E. WILL YOU BE LIABLE FOR LEGAL COSTS?",
+    "F. LITIGATION FUNDING ARRANGEMENTS",
+    "G. HOW TO GET MORE INFORMATION",
+    "A. OVERVIEW OF THE CLASS ACTION",
+    "B. ARE YOU A GROUP MEMBER?",
+    "C. THE MEDIATION",
+    "D. WHAT ARE YOUR OPTIONS?",
+    "E. WILL YOU BE LIABLE FOR LEGAL COSTS?",
+    "F. LITIGATION FUNDING ARRANGEMENTS",
+    "G. HOW TO GET MORE INFORMATION"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "These representative proceedings under Pt IVA of the Federal Court of Australia Act 1976 (Cth) began on 5 September 2012. They concern a constant proportion debt obligation known as the Rembrandt or “Surf” notes that had been arranged by the first respondent, then known as ABN Amro and now called The Royal Bank of Scotland NV (the bank). The third respondent, McGraw-Hill International (UK) Limited traded as part of an international ratings agency under the well-known name, Standard & Poor’s. Standard & Poor’s assigned the Rembrandt notes when issued with its highest rating, AAA.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Background"
+    ],
+    "text": "In proceedings brought by other applicants against both the bank and Standard & Poor’s, Jagot J found each liable to the applicants in those proceedings in respect of their respective roles in relation to the issue, marketing and rating of the Rembrandt notes: Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200. Her Honour’s decision was upheld by the Full Court: ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Background"
+    ],
+    "text": "Muswellbrook Shire Council, as the applicant, makes similar claims in these proceedings. These proceedings have not progressed to any substantive degree because the parties, initially, were awaiting the determination of the appeal, and, subsequently have been communicating both to identify issues and explore possible settlement. However, they have now arranged to have a mediation on 21 July 2016 before the Honourable Kevin Lindgren AM QC, and I will make an order today that they be referred to him pursuant to s 53A of the Federal Court of Australia Act for such mediation.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 27 June 2013, Perpetual Trustee Company Limited produced to the Court on subpoena the register of note holders of the Rembrandt notes that it maintained in its capacity as trustee. The register disclosed the existence of 11 different note holders who were within the group the subject of these proceedings after excluding persons related to the bank, StateCover Mutual Limited and Local Government Financial Services Pty Limited, whose claims had been determined in the earlier proceedings. Each of the remaining 11 note holders appears to be an institutional investor or a municipal council.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "The issues"
+    ],
+    "text": "The parties conceive that there will be some difficulty in the respondents’ capacity to negotiate effectively to resolve the class action if they do not have sufficient information about all of the claims that members of the group have against them. Some group members have given information about their claims to the solicitors for the Council, but up to now others have not.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "The issues"
+    ],
+    "text": "The Council, supported by the respondents, now seeks orders that they hope will assist in identifying whether the hitherto unresponsive members of the group wish to make a claim that can be included in settlement discussions.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The issues"
+    ],
+    "text": "The respondents contend, not unreasonably, that currently they are in the invidious position of not knowing the nature or extent of the claims against them by members of the group and wish to resolve, as best as possible, all of those claims in the mediation. The respondents argue that this cannot occur without, at least, the self-identification of all the group members who wish to claim in and take the benefit, if any, of any settlement or judgment that may result, together with an intelligible articulation, through the Council’s lawyers, of the nature and extent of those group members’ claims.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The legislative scheme"
+    ],
+    "text": "Relevantly, representative proceedings under Pt IVA of the Act may be commenced by one or more group members (the representative party), where seven or more persons (group members) have claims against the same person (the respondent) that are in respect of, or arise out of, the same, similar or related circumstances and the claims of all of the group members give rise to one or more substantial common issues of law or fact (s 33C(1)). Moreover, representative proceedings can be commenced even though the relief sought may include, for example, claims for damages that would require individual assessment or different relief for each group member (s 33C(2)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The legislative scheme"
+    ],
+    "text": "An originating application or other document filed in support of it, such as a statement of claim, must describe or otherwise identify the group members, specify the nature of the claims made on their behalf, the relief claimed and “specify the questions of law or fact common to the claims of group members” (s 33H(1)). It is not necessary for a person to consent to being included as a group member (s 33E(1)), however, s 33J(1) requires that the Court must fix a date before which a group member may opt out of a representative proceeding.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The legislative scheme"
+    ],
+    "text": "When it appears that determination of the common issues will not finally determine the claims of all group members, s 33Q(1) gives the Court power to give directions in relation to the determination of the remaining issues. The Court must approve any settlement or discontinuance of a representative proceeding and, if it approves a settlement, may make such orders as are just in respect of its distribution under s 33V. Moreover, a representative party may only settle his, her or its claim with the leave of the Court under s 33W(1).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The legislative scheme"
+    ],
+    "text": "Importantly, the Court must approve the form and content of any notices under s 33X (s 33Y(2)), including a notice under s 33X(1)(a) informing a group member of the right to opt out of the proceedings. At any stage, the Court has power to order that one or more group members be given notice of any matter or matters (s 33X(5)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The legislative scheme"
+    ],
+    "text": "A judgment, decree or order given in a representative proceeding must identify the group members who are affected by it and binds all of them other than those who have opted out under s 33J (s 33ZB). In addition, s 33ZF(1) provides:\n33ZF General power of Court to make orders\n(1) In any proceeding (including an appeal) conducted under this Part, the Court may, of its own motion or on application by a party or a group member, make any order the Court thinks appropriate or necessary to ensure that justice is done in the proceeding.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Clearly, the purpose for which Pt IVA of the Act was created would be frustrated if an applicant, being a representative party, in a representative proceeding were able to settle his, her or its own claim without that having any bearing on the claims of members of the group. The respondents to a class action would gain no information with which to negotiate to provide a fund that would be capable of addressing claims of members of the group other than the representative party or those who had already communicated information about their claims to those acting on behalf of the applicant or respondent that could be used in negotiations.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "These considerations have led a number of judges to make orders at an appropriate stage of group proceedings with a view to eliciting from group members sufficient information to enable respondents to engage fruitfully in settlement discussions that could provide a sufficient fund to be available to meet all of the claims out of an agreed settlement or dispute resolution process.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In Matthews v SPI Electricity Pty Limited (Ruling No 13) (2013) 39 VR 255 J Forrest J extensively reviewed the authorities in this Court and other courts that were governed by a legislative scheme for the conduct of representative proceedings similar to those in Pt IVA of the Federal Court of Australia Act. I have drawn on what he said in what follows.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "One feature of Pt IVA is that it enables the Court to determine the issues of law or fact that are common to the claims of the group members. Such a determination entails that persons, other than the actual parties to the proceedings in respect of whom the Court’s judgment has or will determine any rights or liabilities, will have authoritative and binding answers that determine those common issues. After the representative party’s claim is decided and the Court has answered those common issues the group members are then free to negotiate or litigate about their particular circumstances. Often, once a court has decided the representative party’s claim and answered the common issues, the Court or parties establish a dispute resolution process (e.g. under s 33Q) that can take account of the particular circumstances affecting each of the other group members in their relationships to the respondents having regard to the Court’s findings under ss 33H(1) and 33ZB or their analogues.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Similarly, if the parties to representative proceedings seek to explore alternate dispute resolution processes, such as mediation or settlement discussions, prior to the hearing of the representative party’s case, ordinarily, they will need information about the identity, and nature of the claims, of members of the group. That information is necessary so that the respondent(s) can deal meaningfully with, and know the size of, the potential liability or liabilities that the answers to the common questions of law or fact may generate against them: cf: Matthews 39 VR at 274 [79]; Farey v National Australia Bank Limited [2014] FCA 1242 at [13] per Jacobson J; Inabu Pty Limited v Leighton Holding Limited [2014] FCA 622 at [21] per Jacobson J.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Although not much has happened in these proceedings, in the way of pleadings, other than the filing of the originating application and statement of claim, the common issues of law and fact are likely to have been settled to a large extent by the previous proceedings before Jagot J and the Full Court. I infer that those answers are likely to enable the parties to have a sufficient understanding of how persons claiming to be entitled as a group member might be able to establish a claim and what its quantum may be, so that meaningful settlement discussions can take place. In the circumstances of these proceedings, the fact that little has happened in the way of actual pleadings does not mean that the parties are not in a position, realistically, to consider the various potential claims which all of the group members might have.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "A crucial element in the scheme of Pt IVA of the Act is s 33J(1). That gives group members a right to opt out of the representative proceedings, so that, if they so wish, they can bring their own separate proceedings or to take no part in the determination of what would otherwise be common issues of law or fact that, pursuant to s 33ZB, would bind them in the future once the representative party’s claims have been resolved by a judicial determination.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "However, until judgment or an earlier order, group members may be passive in the sense that they need take no positive step in the prosecution of the proceeding, to gain whatever benefit a determination of them might bring, as explained by Gaudron, Gummow and Hayne JJ in Mobil Oil Australia Pty Limited v Victoria (2002) 211 CLR 1 at 31-32 [37]-[40].",
+    "judge": "RARES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In Matthews 39 VR at 270-271 [54]-[57] J Forrest J considered the provisions of s 33ZG of the Supreme Court Act 1986 (Vic), which is not replicated in Pt IVA of the Federal Court of Australia Act, that conferred specific powers on the Supreme Court of Victoria, without limiting the generality of the Victorian (exact) analogue of s 33ZF in Pt IVA, to make orders directly requiring group members, or a class of group members, to take steps at any stage of a representative proceeding: M Legg and R McInnes, Annotated Class Actions Legislation, (LexisNexis, 2014), at 36.1. While his Honour acted under that specific power, I am of opinion that the Victorian s 33ZG was declaratory or elaborative of the general grant of power conferred by s 33ZF which is common to both Pt IVA and the Victorian legislative analogue.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Indeed in Pt IVA, s 33ZF(1) provides the Court with power, of its own motion or on application of a party, to make any order that it thinks appropriate or necessary to ensure that justice is done in the proceeding. And, s 33Q(1) also gives the Court power to make directions in relation to claims of group members where it does not appear that they will be finally determined by the common issues, and this power is also open to be exercised at any time in the proceedings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The power conferred by s 33ZF(1) to make any order that the Court considers appropriate or necessary to ensure justice is done in a proceeding should not be hedged in by making implications or imposing limitations that are not found in its express words: Owners of “Shin Kobe Maru” v Empire Shipping Co Inc (1994) 181 CLR 404 at 421 Mason CJ, Brennan, Deane, Dawson, Toohey, Gaudron and McHugh JJ. Both Pt IVA and Pt VB of the Federal Court of Australia Act provide this Court with extensive statutory case management powers and, as French CJ, Kiefel, Bell, Gageler and Keane JJ said in Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303 at 323 [56] the conduct of proceedings “is firmly in the hands of the court”, including in relation to the achievement, in representative proceedings under Pt IVA, of the overarching purpose of the Court’s civil practice and procedure provisions, such as ss 33Q and 33ZF, to facilitate the just resolution of disputes according to law as quickly, inexpensively and efficiently as possible.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The subject-matter, context, scope and purpose of the Federal Court of Australia Act, including the provisions of Pt VB, reinforce a broad construction of the powers in ss 33Q(1) and 33ZF(1) to make orders that the Court thinks appropriate or necessary to ensure that justice is done in a representative proceeding: cf The Queen v Australian Broadcasting Tribunal; Ex parte 2HD Pty Ltd (1979) 144 CLR 45 at 50 per Stephen, Mason, Murphy, Aickin and Wilson JJ.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Because the purpose of the representative proceeding is to determine, among others, the common issues of law or fact, I am of opinion that justice will be done in this proceeding by requiring group members to take one of three positive steps so as to, first, identify what claim or claims they may have against the respondents to the extent to which those persons have not done so already, or, secondly, to file an opt out notice, or, thirdly, if they choose, to do neither, but then to accept the consequence that any resolution of the proceedings that the Council and respondents may negotiate to provide a fund to meet claims of group members should not include their claim.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The Court’s power to make orders of this nature under ss 33Q(1) and 33ZF(1) ensures that the legislative purpose for group proceedings will not be frustrated by the need for the representative party and the respondent to litigate the pleaded claims to judgment before group members could be required to come forward and deal with the consequences of the determination of the common issues of law or fact. Indeed, the legislative scheme of Pt IVA contemplates that, sometimes before, and certainly, as ss 33Z and 33ZA provide, once the common issues have been determined by judgment, group members must participate in some way in a resolution process, including by further action in the Court, within the representative proceedings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "These considerations reinforce a construction of s 33ZF(1) that empowers the Court to make orders prior to judgment, at least, to require group members to provide sufficient information to enable fruitful settlement negotiations or a mediation to take place at the peril of their being excluded from the results of any resolution reached, if they do not wish to reveal their hand.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "If a settlement is reached, the Court must approve its terms under s 33V. If the justice of the case so requires, any person who had not participated in the resolution or settlement discussions or processes may be able to adduce sufficient evidence to persuade the Court to deal with the consequences for that person so that, as s 33ZF(1) provides, justice is done. I agree with J Forrest J when he said in Matthews 39 VR at 273 [76]:\nUltimately, it is a question of balance and judicial intuition. It requires a determination as to when in the course of a proceeding it is appropriate and in the interests of the group as a whole to require a step to be taken which may promote a prospective settlement as against simply letting the case proceed, perhaps interminably, without requiring group members to lift a finger – even if that course leads to disaster.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Jacobson J has taken a similar view that it is important that group members be given proper notice of their rights in such situations, in cases such as Farey [2014] FCA 1242 at [20] and Inabu [2014] FCA 622 at [22].",
+    "judge": "RARES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Both Jacobson and J Forrest JJ found that the decision of Bromberg J in Winterford v Pfizer Australia Pty Limited [2012] FCA 1199 was case specific and distinguishable. That was because, having regard to the then early stage of the proceedings, Bromberg J declined to make an order requiring group members who had not by then opted out of the proceedings, to register with the solicitors for the applicant. However, as Jacobson and J Forrest JJ noted his Honour’s decision was related to the very early point in time that the proceedings had reached: see Matthews 39 VR at 265-266; Inabu [2014] FCA 622 at [19]-[20]; Farey [2014] FCA 1242 at [15]-[16]. The position that confronted Bromberg J is unlike the circumstances of the present case.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "Here, the parties have proposed that I approve two notices that, in total, will be sent to all group members, each of which will incorporate an-opt out notice. The first, is a notice to register to participate in the mediation or to opt out of the proceedings that will be sent to those group members who have not already signed agreements with the solicitors for the Council to have their claims taken into account in the negotiations for a settlement that are now to take place in the mediation. The second, is a notice of opt-out rights addressed to those persons who have actually signed up with the solicitors for the Council informing them of their right, under s 33J, to opt out.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "Because the mediation is to take place on 21 July 2016, it is important to ensure that the respective notices are given to all of the group members entitled to receive them promptly. That can be done given the small size of the group. Having regard to the group’s makeup of institutional investors and local government bodies, it is likely that they will be able to form their considered views of how best to pursue their own positions within the time of 21 days that I propose to fix for them either to register to participate in the mediation or opt out of the proceedings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "The terms of the notices have been discussed extensively between the parties, and I have made suggested changes that the parties have further refined, during the course of the hearing today, to arrive at the final form of the notices. I am satisfied that it is appropriate to make orders in the nature sought for the purposes of enabling the parties to negotiate effectively at the proposed mediation.",
+    "judge": "RARES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-three (33) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares.",
+ "associate": null,
+ "dated": "2016-07-19",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "e30df3bc7ed8a9e8566f3789c7d24f32b9a2a2901cddab443ef4ff1f9fc36cc7",
+ "markdown_file": "data/extracted/2016/2016FCA0819.md"
+}

@@ -1,0 +1,590 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2021/2021FCA1120.docx",
+ "metadata": {
+  "citation": "[2021] FCA 1120",
+  "name": "Monarch Advisory Group Pty Ltd v Puxty (No 3)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 1120,
+  "date_of_judgment": "2021-09-16",
+  "file_numbers": [
+   "NSD951/2020"
+  ],
+  "judges": [
+   "MARKOVIC J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Commercial Contracts, Banking, Finance and Insurance",
+  "last_submissions": "2021-08-20",
+  "number_of_paragraphs": 45,
+  "catchwords": [
+   "COSTS – application for costs of two interlocutory applications to be paid on an indemnity basis – where applicant successful in both applications – whether respondents’ conduct caused loss of time to the Court and to other parties – whether respondents pressed applications in wilful disregard of known facts or clearly established law – whether respondents imprudently refused applicant’s offer to compromise – application dismissed"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 43",
+   "Federal Court Rules 2011 (Cth) rr 39.05, 40.02, 40.13"
+  ],
+  "cases_cited": [
+   "Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 4) [2013] FCA 318",
+   "Clifton (Liquidator) v Kerry J Investment Pty Ltd t/as Clenergy No 2 (2020) 277 FCR 382",
+   "Fountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Pty Ltd [1988] FCA 364; (1988) 81 ALR 397",
+   "Francis v GPI Graphics Ltd [2011] NSWSC 317",
+   "LFDB v Ms SM (No 2) [2018] FCA 2062",
+   "Luo v Zhai (No 6) [2016] FCA 805",
+   "Monarch Advisory Group Pty Ltd v Puxty [2021] FCA 341",
+   "Monarch Advisory Group Pty Ltd v Puxty (No 2) [2021] FCA 801"
+  ],
+  "parties": [
+   {
+    "name": "MONARCH ADVISORY GROUP PTY LTD",
+    "role": "Applicant"
+   },
+   {
+    "name": "MR BRETT JAMES PUXTY",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MR FRANCIS COGGAN",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "ODYSSEY ADVISORY SERVICES ACN 155 549 705",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr D Mahendra"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Madison Marcus Law Firm"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr M Luitingh"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Edge Legal Group"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1120",
+  "portal_file_numbers": [
+   "NSD951/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-09-16"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 951 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "MARKOVIC J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "16 September 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – application for costs of two interlocutory applications to be paid on an indemnity basis – where applicant successful in both applications – whether respondents’ conduct caused loss of time to the Court and to other parties – whether respondents pressed applications in wilful disregard of known facts or clearly established law – whether respondents imprudently refused applicant’s offer to compromise – application dismissed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 43\nFederal Court Rules 2011 (Cth) rr 39.05, 40.02, 40.13"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 4) [2013] FCA 318\nClifton (Liquidator) v Kerry J Investment Pty Ltd t/as Clenergy No 2 (2020) 277 FCR 382\nFountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Pty Ltd [1988] FCA 364; (1988) 81 ALR 397\nFrancis v GPI Graphics Ltd [2011] NSWSC 317\nLFDB v Ms SM (No 2) [2018] FCA 2062\nLuo v Zhai (No 6) [2016] FCA 805\nMonarch Advisory Group Pty Ltd v Puxty [2021] FCA 341\nMonarch Advisory Group Pty Ltd v Puxty (No 2) [2021] FCA 801"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Commercial Contracts, Banking, Finance and Insurance"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "45"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "6 August 2021 (Applicant)\n20 August 2021 (Respondents)"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr D Mahendra"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Madison Marcus Law Firm"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr M Luitingh"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Edge Legal Group"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD951/2020",
+   "parties": [
+    {
+     "name": "MONARCH ADVISORY GROUP PTY LTD",
+     "role": "Applicant"
+    },
+    {
+     "name": "MR BRETT JAMES PUXTY",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MR FRANCIS COGGAN",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "ODYSSEY ADVISORY SERVICES ACN 155 549 705",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "MARKOVIC J"
+   ],
+   "date": "2021-09-16",
+   "date_raw": "16 september 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondents are to pay the applicant’s costs of the respondents’ interlocutory application filed on 8 December 2020 seeking to restrain the applicant’s solicitors from acting for it in this proceeding as agreed or taxed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant’s interlocutory application filed on 9 August 2021 is dismissed.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The applicant is to pay the respondents’ costs of the interlocutory application referred to in Order 2 above.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 27 April 2020 the applicant, Monarch Advisory Services Pty Ltd, commenced this proceeding against the respondents, Brett James Puxty, Francis Coggan and Odyssey Advisory Services Pty Ltd.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "On 8 December 2020 the respondents filed two interlocutory applications: one in which they sought orders that Monarch pay security for their costs of the proceeding (Security Application) and one in which they sought orders “removing and/or barring” Monarch’s lawyers, Madison Marcus Law Firm Pty Limited, from acting for it in this proceeding (Removal Application).",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "On 13 April 2021 I made orders dismissing the Security Application and requiring the respondents to pay Monarch’s costs of that application: see Monarch Advisory Group Pty Ltd v Puxty [2021] FCA 341 (Monarch (No 1)).",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "On 16 July 2021 I made orders dismissing the Removal Application and for the parties to file their respective submissions on the question of costs of that application: see Monarch Advisory Group Pty Ltd v Puxty (No 2) [2021] FCA 801 (Monarch (No 2)). The latter orders were made because at the conclusion of argument the parties requested that I reserve on the question of costs for determination at a later date.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "On 9 August 2021 Monarch filed an interlocutory application in which it seeks the following orders:\nin relation to the Security Application that:\nthe respondents pay its costs of that application on an indemnity basis in the amount of $22,625.15 forthwith; or\nin the alternative that the respondents pay its costs on an indemnity basis as agreed or assessed; and\nin relation to the Removal Application that:\nthe respondents pay its costs of that application on an indemnity basis in the amount of $39,629.11 forthwith; or\nin the alternative that the respondents pay its costs on an indemnity basis as agreed or assessed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "By its interlocutory application, in effect, Monarch first seeks to vary Order 2 made in Monarch (No 1) that the respondents pay the applicant’s costs of the Security Application; and secondly, seeks orders that the respondents pay its costs of the Removal Application either on an indemnity basis and in a lump sum payable forthwith or, in the alternative, on an indemnity basis as agreed or assessed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The parties agreed that the question of costs of the Removal Application and Monarch’s application could be dealt with on the papers without the need for an oral hearing.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "Section 43(1) of the Federal Court of Australia Act 1976 (Cth) (Federal Court Act) empowers the Court or a judge to award costs in all proceedings before the Court other than proceedings in respect of which the Federal Court Act or any other Act provides that costs must not be awarded. Section 43(3) sets out a non-exhaustive list of the types of orders the Court may make including an order that costs awarded against a party are to be assessed on an indemnity basis: see s 43(3)(g) of the Federal Court Act.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "Rule 40.02 of the Federal Court Rules 2011 (Cth) (Rules) provides:\nA party or a person who is entitled to costs may apply to the Court for an order that costs:\n(a) awarded in their favour be paid other than as between party and party; or\n(b) be awarded in a lump sum, instead of, or in addition to, any taxed costs; or\n(c) be determined otherwise than by taxation.\nNote 1: The Court may order that costs be paid on an indemnity basis.\nNote 2: The Court may order that the costs be determined by reference to a cost assessment scheme operating under the law of a State or Territory.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "So far as an order for indemnity costs is concerned, in Clifton (Liquidator) v Kerry J Investment Pty Ltd t/as Clenergy No 2 (2020) 277 FCR 382 a Full Court of this Court (Besanko, Markovic and Banks-Smith JJ) relevantly said at [30]-[31]:\n[30] In Colgate-Palmolive Co v Cussons Pty Ltd [1993] FCA 801; (1993) 46 FCR 225, Sheppard J said (at 233-234):\n4. In consequence of the settled practice which exists, the Court ought not usually make an order for the payment of costs on some basis other than the party and party basis. The circumstances of the case must be such as to warrant the Court in departing from the usual course. … Most judges dealing with the problem have resolved the particular case before them by dealing with the circumstances of that case and finding in it the presence or absence of factors which would be capable, if they existed, of warranting a departure from the usual rule. But as French J said (at p 8) in Tetijo, “The categories in which the discretion may be exercised are not closed”. Davies J expressed (at p ‍6) similar views in Ragata (supra).\n5. Notwithstanding the fact that that is so, it is useful to note some of the circumstances which have been thought to warrant the exercise of the discretion. I instance the making of allegations of fraud knowing them to be false and the making of irrelevant allegations of fraud (both referred to by Woodward J in Fountain and also by Gummow J in Thors v Weekes (1989) 92 ALR 131 at 152; evidence of particular misconduct that causes loss of time to the Court and to other parties (French J in Tetijo); the fact that the proceedings were commenced or continued for some ulterior motive (Davies J in Ragata) or in wilful disregard of known facts or clearly established law (Woodward J in Fountain and French J in J-Corp (supra)); the making of allegations which ought never to have been made or the undue prolongation of a case by groundless contentions (Davies J in Ragata); an imprudent refusal of an offer to compromise (eg Messiter v Hutchinson (1987) 10 NSWLR 525; Maitland Hospital v Fisher (No 2) (1992) 27 NSWLR 721 at 724 (Court of Appeal); Crisp v Keng (unreported, Court of Appeal, NSW, Kirby P, Priestley JA, Cripps JA, No 40744/1992, 27 September 1993) and an award of costs on an indemnity basis against a contemnor (eg Megarry V-C in EMI Records (supra)). Other categories of cases are to be found in the reports. Yet others to arise in the future will have different features about them which may justify an order for costs on the indemnity basis. The question must always be whether the particular facts and circumstances of the case in question warrant the making of an order for payment of costs other than on a party and party basis.\n[31] … The point which we wish to emphasise is that to justify a special costs order, there must be conduct deserving of criticism and resulting in greater expense to the innocent party. Reference was made to the overarching purpose in s 37M and the provisions of s 37N(1) and (4) of the Federal Court of Australia Act 1976 (Cth). As important as those provisions are, we are not disposed to think that they add a great deal in this context. …\n(Emphasis in original.)",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "The effect of paras 1 and 3 of Monarch’s interlocutory application is not only to seek an order that its costs of each of the Security Application and the Removal Application be paid on an indemnity basis but also that those costs be paid in a lump sum and forthwith. The Court has power in making an order for costs to exercise its discretion to order that a party’s costs be paid in a specified sum: see s 43(3)(d) of the Federal Court Act and r 40.02(b) of the Rules.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "The Court’s costs practice note (GPN-COSTS) (Costs PN) applies to all proceedings in this Court. Part 4 of the Costs PN is titled “Costs obtained by a Lump-sum Costs Order”. It provides that the Court’s preference, wherever practicable and appropriate to do so, is for the making of a lump sum costs order. Although no formal application for a lump sum costs order is required, the Costs PN prescribes the material that should be filed in support of such an application, referred to as a Costs Summary, as well as the material that may be filed by a respondent to such a claim, referred to as a Costs Response.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "In LFDB v Ms SM (No 2) [2018] FCA 2062 at [6]-[8] I set out the following principles in relation to the award of costs in a lump sum:\n6. The Court’s power to order lump sum costs is discretionary and may be exercised whenever the circumstances warrant it: Su v Australian Fisheries Management Authority (No 3) [2008] FCA 2018 at [1] (Reeves J).\n7 A Full Court of this Court (Allsop CJ, Besanko and Middleton JJ) in Paciocco v ANZ (No 2) (2017) 253 FCR 403 at [16]-[17] explained the following in relation to the Court making orders for lump sum costs:\n16 On 25 October 2016 the Chief Justice issued the Central Practice Note: National Court Framework and Case Management (CPN-1) (‘Central Practice Note’) and the Costs Practice Note (GPN COSTS) (‘Costs Practice Note’). The Central Practice Note states that the determination of the quantum of costs of a successful party (in a proceeding) should not be delayed and, to this end, the Court will, where appropriate, facilitate the making of lump sum costs orders. The Costs Practice Note provides that the Court’s preference, wherever it is practicable and appropriate to do so, is to make a lump sum costs order so as to finalise costs and avoid potentially expensive and lengthy taxation hearings. It makes clear that the Court should now proceed on the basis that taxation “should be the exception” and confined to matters which are unable to be determined otherwise: Costs Practice Note at [3.3]. The guiding principles are to reduce delay and cost when quantifying costs: Costs Practice Note at [3.1].\n17 The Costs Practice Note provides for the Court to make use of sophisticated costs orders and procedures, and to take such steps as it considers necessary to ensure that it has the requisite level of detail to make a costs determination that is fair, logical and reasonable and to avoid orders that lead to potentially expensive and lengthy taxation hearings: Costs Practice Note at [3.3].\n8 In Bitek Pty Ltd v IConnect Pty Ltd (2012) 290 ALR 288; [2012] FCA 506 at [18] Kenny J said the following in relation to the determination of the appropriate quantum of a lump sum costs order:\n18 The starting point for the fixing of costs is the charges rendered by the applicant’s solicitors: Beach Petroleum at FCR 124; ALR 165 and Hamod v New South Wales [2011] NSWCA 375 at [820] per Beazley JA (with whom Giles and Whealy JJA agreed). The sum of costs fixed should also be proportionate to the nature, including the complexity, of the case: see Canvas Graphics Pty Ltd v Kodak (A’asia) Ptd Ltd [1998] FCA 23. As Beazley JA said in Hamod, at [820], citing, among others, Beach Petroleum at FCR 123; ALR 164:\n[820] The approach taken to estimate the costs to be ordered must be logical, fair and reasonable … This may involve an impressionistic discount of the costs actually incurred or estimated, in order to take into account the contingencies that would be relevant in any formal costs assessment … [Citations omitted.]",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "Rule 40.13 of the Rules provides that if an order for costs is made on an interlocutory application, the party in whose favour the order is made must not tax those costs until the proceeding in which the order is made is finished. However, it has been recognised that the Court may exercise its discretion to depart from that rule and order that costs of an interlocutory application be taxed immediately or paid forthwith.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "In Bideena Pty Ltd v Growth Super Fund Pty Ltd [2016] FCA 1440 at [14] I said the following in relation to an application that a party pay the costs of an interlocutory application forthwith:\n… A party seeking a forthwith costs order needs to obtain an order pursuant to r 1.35 of the Rules which permits the Court to make an order which is inconsistent with the Rules in which event the order will prevail. In Stone v Melrose Cranes & Rigging Pty Ltd, in the matter of Cardinal Project Services Pty Ltd (in liq) [2016] FCA 1113 at [55], I noted the following:\nIn McKellar v Container Terminal Management Services Limited [1999] FCA 1639 Weinberg J, in considering an application for an order for costs payable forthwith under the former O 62 r 3, summarised the authorities in relation to the rule as it then stood. The principles taken from those authorities and the circumstances in which such an order might be made were that:\n(1) the discretion should be exercised in favour of a party who establishes that the demands of justice require a departure from the general practice and that it might be appropriate to use the rule where the final determination of the proceeding was far away: at [15] citing Life Airbag Company of Australia Pty Ltd v Life Airbag Company (New Zealand) Ltd (unreported, 22 May 1998) per Branson J;\n(2) where there had been a long delay in close of pleadings by the pursuit of an ill-considered and perhaps unnecessary claim: at [16] citing Harris v Cigna Insurance Australia Ltd (1995) ATPR [41,445] per Kiefel J;\n(3) where the effect of an interlocutory application might be to remove a cause of action from the dispute between the parties: at [18] citing from Mitanis v Pioneer Concrete (Vic) Pty Ltd & Ors (1988) ATPR [41,623] per Goldberg J;\n(4) where an applicant had failed to file an amended statement of claim, despite a respondent’s suggestion that it do so and where the filing only occurred after a successful strike out application: at [19] citing Vasyli v AOL International Pty Limited & Anor (unreported, 2 September 1996) per Lehane‍ J; and\n(5) where there had been an omission to plead certain matters in the absence of which the matter could not proceed: at [20] citing Batten v CTMS Ltd [1999] FCA 1576 per Kiefel J.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "legal principles"
+    ],
+    "text": "In Federal Treasury Enterprise (FKP) Sojuzplodoimport v Spirits International BV (No 5) [2018] FCA 19 at [11] Perram J said:\n[11] … What is generally required is not just unreasonable behaviour but unreasonable behaviour which has required a party to incur significant costs over and above what it would have incurred had the case been handled with competence and diligence: Life ‍Airbag. An order that costs be payable forthwith, in that regard, is not to be thought of as some form of especially emphatic indemnity costs order. Although the considerations underlying the two costs rules may, at times, overlap, they are driven by quite different considerations. Where costs are incurred as a result of unreasonable litigation behaviour of the opposing party the usual remedy is the award of indemnity costs: Colgate — Palmolive Co v Cussons Pty Ltd [1993] FCA 801; (1993) 46 FCR 225 at 233–34. It is only where unreasonable behaviour has the additional consequence of causing the incurring of significant additional expenditure by the opposing party that Rule 40.13 comes into view.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Costs of the security application"
+    ],
+    "text": "As I have already observed Monarch seeks to vary the order made on 13 April 2021 that the respondents pay its costs of the Security Application in that it now seeks an order that the respondents pay its costs on an indemnity basis in a lump sum forthwith or, in the alternative, on an indemnity basis as agreed or assessed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Costs of the security application",
+     "Background"
+    ],
+    "text": "Monarch relies on an affidavit sworn by Johnathon De La Hoyde on 6 August 2021 (De La Hoyde Affidavit). Mr De La Hoyde is a solicitor in the employ of Madison Marcus who is responsible for the day to day conduct of this proceeding on Monarch’s behalf.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Costs of the security application",
+     "Background"
+    ],
+    "text": "Mr De La Hoyde annexes correspondence which passed between Madison Marcus and the respondents’ solicitors, Edge Legal, in relation to the Security Application in the period between 11 December 2020 and 5 May 2021. Among other things:\nby letter dated 11 December 2020 Madison Marcus pointed out what it perceived to be deficiencies in the Security Application and invited the respondents to withdraw that application. Madison Marcus informed the respondents that, should they refuse to withdraw the Security Application, their client would rely on the letter in support of an application for indemnity costs;\non 14 December 2020 Edge Legal provided a substantive response to the issues raised by Madison Marcus and declined to withdraw the Security Application;\non 13 April 2021 after Monarch (No 1) was published Madison Marcus wrote to Edge ‍Legal. Among other things, Madison Marcus contended that having regard to the judgment, and in particular the respondents’ failure to discharge their onus as set out in the letter, the respondents’ refusal to withdraw the Security Application was “wholly unreasonable”. The letter continued as follows:\nIn the premises, our client is entitled to indemnity costs in respect of your clients’ application and intends to apply for a variation of the costs order made by her Honour Markovic J pursuant to the Judgment, such that your clients are ordered to pay our client’s costs as follows (Proposed Costs Order):\n(a) on an ordinary basis up to and including 11 December 2020; and\n(b) on an indemnity basis thereafter\nPlease confirm by no later than 4pm on 16 April 2021 whether your clients will consent to the Proposed Costs Order.\nIn the event such consent is not forthcoming, our client will relist the matter to seek a variation of the costs order made by her Honour in the terms described above. If our client is required to apply for a variation of the costs order, it:\n(a) reserves its right to seek a gross sum costs order; and\n(b) will rely on this letter in support of an application for your clients to pay our client’s costs of and incidental to such application on an indemnity basis.\n(Emphasis in original); and\non 5 May 2021 Edge Legal informed Madison Marcus that the respondents did not consent to the “Proposed Costs Order\" as set out in Madison Marcus’ letter dated 13 April 2021.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Costs of the security application",
+     "Background"
+    ],
+    "text": "Mr De La Hoyde has also set out a breakdown of the costs incurred by Monarch in relation to the Security Application. In summary, he gives the following evidence:\nMonarch has been charged for the services provided by solicitors within the employ of Madison Marcus working on the matter at the hourly rates set out in his affidavit and on the basis of time spent on the matter;\nas at 6 August 2021 Monarch incurred professional costs and disbursements referrable to the Security Application totalling $24,017.62 (incl GST). Mr De La Hoyde provides a summary of how that amount has been calculated; and\nbased on his experience, if Monarch was awarded costs on an indemnity basis in respect of the Security Application and those costs were assessed, in his opinion it would recover 90% or more of its professional costs and 100% of its disbursements. Applying those percentages Mr De La Hoyde estimates that the total costs Monarch would recover is $22,625.15 (incl GST).",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Costs of the security application",
+     "Background"
+    ],
+    "text": "I pause to observe that, having regard to the Costs PN, there are at least two deficiencies in Mr De La Hoyde’s evidence of the amount claimed by Monarch as a lump sum. First, Mr ‍De ‍La Hoyde does not provide a summary of the categories of the work fairly and reasonably incurred in the conduct of the Security Application including an estimate (in percentage terms) of the proportion that each category of work constitutes of the total costs claimed or, in respect of each person who undertook work, an estimate (in percentage terms) of the proportion of the total sum claimed attributable to that person. Secondly, Mr De La Hoyde does not provide a summary (with any applicable hourly and/or daily rates) of disbursements fairly and reasonably incurred in the conduct of the Security Application including fees charged by counsel and, for counsel, an estimate (in percentage terms) of the proportion of the total sum claimed attributable to his or her fees.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Costs of the security application",
+     "Monarch’s submissions"
+    ],
+    "text": "Monarch submitted that in Monarch (No 1) the Court noted that the respondents failed to advance any credible testimony that there was reason to believe that it will be unable to pay their costs, no evidence was led impugning Monarch’s financial position and the respondents “never put to Monarch in correspondence or otherwise their basis for their belief that it will be unable to pay their costs”: referring to Monarch (No 1) at [34]-[37].",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Costs of the security application",
+     "Monarch’s submissions"
+    ],
+    "text": "Monarch submitted that certain circumstances which have been found to warrant the exercise of the discretion to award indemnity costs and which are of particular application in this matter include: acts which would cause a “loss of time to the Court and to other parties”; proceedings “continued… in wilful disregard of known facts or clearly established law”; the “making of allegations which ought never to have been made or the undue prolongation of a case by groundless contentions”; and “imprudent refusal of an offer to compromise”, referring in each instance to a relevant authority.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Costs of the security application",
+     "Monarch’s submissions"
+    ],
+    "text": "Monarch submitted that the Security Application wholly lacked merit and, despite its reasonable and repeated overtures, was pressed by the respondents. It contended that it is abundantly clear that, although reasonable offers were made by it, the respondents imprudently refused to accept those offers and thereby breached their duty to act consistently with the overarching purpose of the Court’s civil procedure provisions in the Federal Court Act. Monarch submitted that this failure further warrants the imposition of indemnity costs.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Costs of the security application",
+     "Monarch’s submissions"
+    ],
+    "text": "Monarch submitted that, despite the ordinary operation of r 40.13 of the Rules, the Court should exercise its discretion and order that the indemnity costs be paid forthwith. It contended that the ordinary rule may be departed from when a party has unreasonably brought an application; where a party has been required to incur significant costs over and above those which it would have incurred had the opposing party acted with competent and diligence; or where a discrete issue has been resolved, again referring in each case to a relevant authority. Monarch submitted that the conduct of the respondents, its efforts to resolve the matter which were rejected by the respondents, as well as the subject matter and outcome of, relevantly, the Security Application, give rise to those circumstances and reaffirm that the demands of justice require that there be a departure from the general practice.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "In December 2020 Monarch invited the respondents to withdraw the Security Application and forewarned them of its intention to apply for an order that its costs be paid on an indemnity basis if that invitation was not taken up. However, the respondents pressed their application which was subsequently heard. In contrast to the Removal Application (see below), at the conclusion of argument the parties did not request the Court to reserve on the question of costs. Thus Monarch is in a position where it needs to seek a variation of the costs order made upon dismissal of the Security Application",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "The Court may vary a judgment or order after it has been entered if, among other things, it is interlocutory: r 39.05(c) of the Rules. The discretion to vary an order is not, in terms, confined but is to be exercised with caution: see Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 4) [2013] FCA 318 at [6]. In Luo v Zhai (No 6) [2016] FCA 805 at [15] Perram J observed that the power to recall an interlocutory order is “confined only by the interests of justice”.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "Having regard to the relevant circumstances I am not satisfied that it is in the interests of justice to accede to Monarch’s application for variation of the costs order made in relation to the Security Application. I am not satisfied that the circumstances warrant the making of an order that the respondents pay Monarch’s costs on an indemnity basis either in a lump sum payable forthwith or as agreed or taxed. My reasons follow.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "The threshold issue which is common to both orders sought by Monarch is the question of whether the respondents should pay the costs of the Security Application on an indemnity basis. In that regard, Monarch relies on the findings at [34]-[37] of Monarch (No 1) where I set out why it was that the respondents had failed to establish by credible testimony that Monarch would be unable to pay their costs if they were successful in their defence of the proceeding. Relevantly I said:\n34. The first issue to be determined is whether the respondents, who bear the onus, have established by credible testimony that there is reason to believe that Monarch will be unable to pay their costs if they are successful in their defence. Having considered the evidence before me for the following reasons I am not satisfied that they have done so.\n35. Having regard to the matters set out at [15] above the respondents, who bear the onus on the application, have not led any evidence about Monarch’s financial position. Their evidence goes no higher than to ask the Court to infer that Monarch will be unable to meet an adverse costs order because of comments made by Ms Coulter in two emails when trying to negotiate what seems to be a payout upon Messrs Puxty’s and Coggan’s departure from Monarch and the fact that Monarch did not respond to a letter which referred in closing, after addressing a number of other matters, to the filing of this application if a proposed mediation did not succeed.\n36. Based on the evidence before me the respondents have never put to Monarch in correspondence or otherwise their basis for their belief that it will be unable to pay their costs of the proceeding if they are successful in their defence. That being so, it is difficult put any weight on Mr Stols’ evidence that Monarch has not taken any steps to demonstrate an ability to pay its debts as and when they fall due or its ability to pay a substantial costs order.\n37. On that basis there is no credible testimony led by the respondents based on which there is reason to believe that Monarch will be unable to pay their costs if they are successful in their defence of the proceeding. Nor, for the reasons set out below and to the extent they are permitted to rely on it, are the respondents assisted by the evidence led by Monarch.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "Those findings highlighted deficiencies in the respondents’ evidence but of themselves are not sufficient to lead me to conclude that there should be an order that the respondents pay Monarch’s costs of the Security Application on an indemnity basis. The respondents were entitled to bring their application as they did. Despite Monarch pointing out what it perceived to be flaws in the Security Application, the respondents pressed the application. At the end of the day they were unable to establish their entitlement based on the evidence on which they relied. Contrary to Monarch’s submissions:\nthe respondents did not engage in acts which caused a “loss of time to the Court and to other parties”. They were, as I have already pointed out, entitled to bring the Security Application. Inevitably one party will achieve success on an application and another will fail. That failure alone does not mean that there was a loss of time to the Court and the opposing party. Monarch relies on Tetijo Holdings Pty Ltd v Keeprite Australia Pty Ltd [1991] FCA 225 in which French J considered an application, following discontinuance of the proceeding, that the respondent’s costs be taxed on a solicitor‍-client basis. There the respondent relevantly submitted that interlocutory steps had been protracted by the applicant’s failure to comply with requests for particulars and discovery and with orders of the Court and that there were untenable applications to amend pleadings and for leave to appeal. Justice French observed that “[w]hen in an individual case, there is evidence of particular misconduct on the part of a party that causes loss of time to the Court and to other parties then an order for solicitor-client costs and/or costs to be paid forthwith may be made”. His Honour found that a “global order of this kind” was not warranted in the case before him. Similarly, I am not satisfied that the pressing of one interlocutory application in which the respondents failed amounts to a loss of time for the Court and Monarch such that Monarch is entitled to its costs of the application on an indemnity basis;\nthe proceeding did not continue in “wilful disregard of known facts or clearly established law”. There is nothing to suggest that the respondents brought the Security Application for some “ulterior motive” or “because of some wilful disregard of the known facts to the clearly established law”: see Fountain Selected Meats (Sales) Pty Ltd v International Produce Merchants Pty Ltd [1988] FCA 364; (1988) 81 ALR 397 at 400-401. That Monarch wrote a letter pointing out alleged flaws in the application and that the respondents were ultimately unable to establish their entitlement to security does not mean that the Security Application falls into that category;\nthe respondents did not make “allegations which ought never to have been made” or unduly prolong the proceeding “by groundless contentions”. My comments at (1) and (2) above apply equally to this submission; and\nthere was no “imprudent refusal of an offer to compromise”. In December 2020 Monarch invited the respondents to withdraw the Security Application. That invitation was not made on any particular terms, for example that each party pay their own costs of the Security Application nor did Monarch offer to provide any amount of security. In other words I would not conclude that the invitation to withdraw the Security Application amounted to a compromise.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Costs of the security application",
+     "Consideration"
+    ],
+    "text": "Monarch has not established that it is entitled to its costs of the Security Application on an indemnity basis. It follows that I would not exercise my discretion to vary the costs order made on 13 April 2021 in relation to the Security Application. Paragraphs 1 and 2 of Monarch’s interlocutory application should be dismissed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "costs of the removal application"
+    ],
+    "text": "By paragraphs 3 and 4 of its interlocutory application Monarch seeks orders that the respondents pay its costs of the Removal Application both on an indemnity basis and in a lump sum payable forthwith or, in the alternative, on an indemnity basis as agreed or assessed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "costs of the removal application",
+     "Background"
+    ],
+    "text": "Monarch again relies on the De La Hoyde Affidavit.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "costs of the removal application",
+     "Background"
+    ],
+    "text": "The following correspondence was exchanged by the parties in relation to the Removal Application:\nby letter dated 19 February 2021 addressed to Edge Legal, Madison Marcus identified alleged deficiencies in the Removal Application and put the following proposal to the respondents on an “open” basis:\n1. Your client formally withdraw the Application; and\n2. Each party bear their own costs of the Application to date.\nThat proposal was open for acceptance until 4.00 pm on 23 February 2021. The respondents were informed that if they rejected it, Monarch would rely on the letter in support of an application for indemnity costs of the Removal Application;\nby letter dated 23 February 2021 from Edge Legal to Madison Marcus, the respondents implicitly rejected the proposal and made the following open offer:\n(a) Your firm serve and file a notice of ceasing to act by 10 AM Wednesday the 24th instant;\n(b) The Applicant to pay 50% of the assessed cost of the application.\nThe respondents informed Monarch that if it rejected their offer they would rely on the letter in support of an application for indemnity costs;\nby letter dated 23 March 2021 from Madison Marcus to Edge Legal, Madison Marcus wrote that:\nWe note that the [Removal Application] was part heard before her Honour Justice Markovic on 25 February 2021. During the hearing, your client applied for additional time to file further evidence and written submissions in support of his application. Her Honour permitted your client the additional time he sought but ordered that he pay our client’s costs thrown away by reason of the adjournment of the hearing of the [Removal Application] on an indemnity basis.\nMadison Marcus then went on to refer to the further evidence and submission filed by the respondents and alleged that there were deficiencies in that material. The letter continued as follows:\nIt follows that our client remains of the view that the [Removal Application] remains wholly misconceived. It has clearly been filed as means to frustrate the progression of the proceedings.\nIn the premises, we are instructed to make the following offer to your client on an “open” basis:\n1. Your client formally withdraw [the Removal Application], effective immediately;\n2. Your client to pay our client’s cost of the [Removal Application] on a party/party basis from 26 February 2021 to date.\n3. The order for your clients to pay our client’s costs on an indemnity basis up to and including the hearing on 25 February 2021 remains unaltered.\nWe confirm that our client’s offer is open for acceptance up until 9:00am on Monday 29 March 2021. The time provided for in this offer is reasonable in circumstances where our client’s evidence was only filed on 22 March 2021 and the matter is listed for hearing on 29 March 2021.\nIf for whatever reason your clients reject the offer, our client will exhibit this letter before the Court during the hearing of the [Removal Application] in support of an application for indemnity costs. Our client will also seek an order that its costs be fixed on a lump sum basis.\n(Emphasis in original); and\nby letter dated 26 March 2021 Edge Legal contended that for the reasons set out in the respondents’ affidavits and the submission filed on their behalf it was untenable for Madison Marcus to continue to act on behalf of Monarch in the proceeding and made the following open offer on behalf of the respondents:\n(a) Your firm serve and file a notice of ceasing to act by 8 AM Monday, 29 March 2021;\n(b) The Applicant agrees to pay 50% of the Respondents’ assessed cost of the application for removal of your firm.\nEdge Legal informed Madison Marcus that should Monarch fail to accept the offer the respondents would rely on its letter in support of an application for indemnity costs.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "costs of the removal application",
+     "Background"
+    ],
+    "text": "Mr De La Hoyde has also set out a breakdown of the costs incurred by Monarch in relation to the Removal Application. In that regard the evidence set out at [20(1)] applies equally to the Removal Application. In addition Mr De La Hoyde deposes that:\nas at 6 August 2021 Monarch incurred professional costs and disbursements referrable to the Removal Application totalling $42,683.12 (incl GST) and provides a summary of how that amount has been calculated; and\nbased on his experience, if Monarch was awarded costs on an indemnity basis in respect of the Removal Application and those costs were assessed, he estimates that it would recover 90% or more of professional costs incurred and 100% of disbursements. Applying those percentages Mr De La Hoyde estimates that the total costs Monarch would recover on an indemnity basis is $39,629.11 (incl GST).",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "costs of the removal application",
+     "Background"
+    ],
+    "text": "My observations at [21] above apply equally to Mr De La Hoyde’s evidence in relation to the calculation of lump sum costs claimed for the Removal Application.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "costs of the removal application",
+     "Background"
+    ],
+    "text": "Mr De La Hoyde says that Monarch extended two offers of settlement, both of which were not accepted, and the terms of which were more favourable than the orders made in the Removal Application.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "costs of the removal application",
+     "Monarch’s submissions"
+    ],
+    "text": "Monarch makes the same submissions as made in support of its application to vary the costs order made in the Security Application (set out at [22]-[25] above) in support of its application for its costs to be paid on an indemnity basis either in a lump sum or as agreed or assessed in the Removal Application.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "As I observed at [71] of Monarch (No 2), costs would ordinarily follow the event. However at the request of the parties I reserved on the question of costs. Having regard to the parties’ respective submissions, there is no dispute that the respondents should pay Monarch’s costs of the Removal Application. The only issue to determine is the basis upon which those costs should be paid.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "For the reasons that follow I would not exercise my discretion to make an order that the respondents pay Monarch’s costs on an indemnity basis.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "First, the respondents were entitled to bring the Removal Application. While it was found to lack merit and was dismissed, it could not be said that it was so devoid of merit or unarguable that it should not be brought. True it is that the respondents were permitted further time to supplement their evidence and submissions. In order to do so, on their application, the hearing of the Removal Application was adjourned. The respondents were ordered to pay Monarch’s costs thrown away by reason of that indulgence on an indemnity basis. That is, Monarch was compensated for the costs occasioned by that conduct. However, that the additional evidence and submissions filed did not ultimately assist the respondents does not cause me to conclude that they prolonged the proceeding or that they pursued a case which was doomed to fail.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "Secondly, while I accept that the offers made to compromise the Removal Application were more favourable than the outcome, it is understandable that they were refused. This is because the outcome of the Removal Application was binary in that it would either be upheld with an order made restraining Madison Marcus from continuing to act for Monarch or it would be dismissed. There was no middle ground. The offers made were more favourable than the orders ultimately made by the Court in terms of costs only. In those circumstances it is difficult to conclude that the respondents’ refusal to accept the offers was imprudent.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "Given my conclusion in relation to Monarch’s entitlement to costs on an indemnity basis, it is not necessary for me to consider whether Monarch’s costs should be paid in a lump sum or forthwith as sought in para 3 of its interlocutory application.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "costs of the removal application",
+     "Consideration"
+    ],
+    "text": "Accordingly, I decline to make the orders sought by Monarch in paragraphs 3 and 4 of its interlocutory application. Rather, an order should be made that the respondents pay Monarch’s costs of the Removal Application as agreed or taxed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "The respondents should pay Monarch’s costs of the Removal Application as agreed or taxed and Monarch’s interlocutory application should be dismissed. Given that Monarch has not enjoyed any success on its interlocutory application it should pay the respondents’ costs of that application. I will make orders accordingly.",
+    "judge": "MARKOVIC J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-five (45) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Markovic.",
+ "associate": null,
+ "dated": "2021-09-16",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "837e7aa04899167a2c6982f08507d36ba88b50ecd5eb72ee03cef2f105e24825",
+ "markdown_file": "data/extracted/2021/2021FCA1120.md"
+}

@@ -1,0 +1,1059 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2019/2019FCA0116.docx",
+ "metadata": {
+  "citation": "[2019] FCA 116",
+  "name": "Australian Competition and Consumer Commission v Cryosite Limited",
+  "court": "FCA",
+  "year": 2019,
+  "number": 116,
+  "date_of_judgment": "2019-02-13",
+  "file_numbers": [
+   "VID830/2018"
+  ],
+  "judges": [
+   "BEACH J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2019-02-11"
+  ],
+  "hearing_raw": "11 February 2019",
+  "number_of_paragraphs": 93,
+  "catchwords": [
+   "COMPETITION – cartel conduct – restricting or limiting supply – market sharing – contract containing a cartel provision – conduct giving effect to cartel provision – pecuniary penalty"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 44ZZRD, 44ZZRJ, 44ZZRK, 76"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Cement Australia Ltd [2017] FCAFC 159",
+   "Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698",
+   "Australian Competition and Consumer Commission v Humax Pty Ltd (2005) ATPR 42-072",
+   "Australian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222",
+   "Australian Competition and Consumer Commission v Yazaki Corporation (2018) 357 ALR 55",
+   "Australian Energy Regulator v Snowy Hydro Limited (No 2) [2015] FCA 58",
+   "Australian Securities and Investments Commission v Westpac (No 3) (2018) 131 ACSR 585; [2018] FCA 1701",
+   "Director of Consumer Affairs Victoria v Gibson (No 3) [2017] FCA 1148",
+   "Forster v Jododex Australia Pty Ltd (1972) 127 CLR 421"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "CRYOSITE LIMITED (ACN 090 919 476)",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr M I Borsky QC and Ms A Muhlebach"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr C M Caleo QC and Dr C G Button SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Minter Ellison"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0116",
+  "portal_file_numbers": [
+   "VID830/2018"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2019-02-13"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "VID 830 of 2018"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "BEACH J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "13 February 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – cartel conduct – restricting or limiting supply – market sharing – contract containing a cartel provision – conduct giving effect to cartel provision – pecuniary penalty"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 44ZZRD, 44ZZRJ, 44ZZRK, 76"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Cement Australia Ltd [2017] FCAFC 159\nAustralian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698\nAustralian Competition and Consumer Commission v Humax Pty Ltd (2005) ATPR 42-072\nAustralian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222\nAustralian Competition and Consumer Commission v Yazaki Corporation (2018) 357 ALR 55\nAustralian Energy Regulator v Snowy Hydro Limited (No 2) [2015] FCA 58\nAustralian Securities and Investments Commission v Westpac (No 3) (2018) 131 ACSR 585; [2018] FCA 1701\nDirector of Consumer Affairs Victoria v Gibson (No 3) [2017] FCA 1148\nForster v Jododex Australia Pty Ltd (1972) 127 CLR 421"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 February 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "93"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr M I Borsky QC and Ms A Muhlebach"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr C M Caleo QC and Dr C G Button SC"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Minter Ellison"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID830/2018",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "CRYOSITE LIMITED (ACN 090 919 476)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "BEACH J"
+   ],
+   "date": "2019-02-13",
+   "date_raw": "13 FEBRUARY 2019",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "On 23 June 2017 the Respondent (Cryosite), by entering into the “Cord Blood and Tissue Banking asset sale agreement” (Sale Agreement) with Cell Care Australia Pty Ltd (Cell Care), which contained a clause requiring Cryosite to refer all sales enquiries in relation to its cord blood and tissue (CBT) banking business to Cell Care during the period before the date on which the asset sale under that agreement was to be completed (Cryosite restraint), made a contract which contained a provision that had the purpose, directly or indirectly, of:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "restricting or limiting Cryosite’s supply or likely supply of CBT banking services within the meaning of s 44ZZRD(3)(a)(iii) of the Competition and Consumer Act 2010 (Cth) (CCA); and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "allocating between Cryosite and Cell Care (that is, to Cell Care) persons who were likely to acquire CBT banking services from Cryosite within the meaning of s 44ZZRD(3)(b)(i) of the CCA,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and thereby contravened s 44ZZRJ of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "During the period from 23 June 2017 to and including August 2017 Cryosite gave effect to the Cryosite restraint by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "establishing and implementing a process by which Cryosite staff would refer customer enquiries to Cell Care;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "referring customers who contacted Cryosite to Cell Care;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "reporting to Cell Care in relation to customers Cryosite had referred to Cell Care; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ceasing to provide CBT banking services to new customers,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and thereby engaged in conduct in contravention of s 44ZZRK of the CCA.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Cryosite pay to the Commonwealth of Australia a pecuniary penalty of:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "$600,000 in respect of the contravention of s 44ZZRJ of the CCA referred to in paragraph 1 of this Order; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "$450,000 in respect of the contraventions of s 44ZZRK of the CCA referred to in paragraph 2 of this Order,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "in accordance with the following timetable:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "$200,000 must be paid within 30 days of the date of this Order; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the balance of the sum of the amounts in paragraphs (a) and (b) must be paid in 10 equal annual instalments, with the first instalment to be paid on or by 13 March 2020, and the subsequent instalments to be paid on or by 13 March of each of the years from 2021 to 2029.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Cryosite pay the ACCC’s costs of this proceeding in the sum of $50,000 within 30 days of the date of this Order.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The respondent (Cryosite) as part of its main activities providing long term storage and supply chain logistics management of pharmaceutical products and biological materials supplied principally up to 23 June 2017 the services of collecting, processing, storing and releasing cord blood and tissue containing stem cells, although it has had a more limited involvement in the supply of such services (CBT banking services) thereafter.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Stem cells can be used in the treatment of certain blood disorders and other diseases. Blood and tissue from a newborn child’s umbilical cord are rich in stem cells, and can be collected soon after birth and stored so that the stem cells are available for future use in such treatments. The stem cells collected from one person’s blood or tissue are suitable for use in the treatment of that person, but can also be used in the treatment of other persons for whom the stem cells are sufficiently compatible. Generally speaking, stem cells can be divided into two groups being embryonic stem cells which are pluripotent such that they can become every type of cell in the body, and tissue specific stem cells (adult stem cells) which can usually only give rise to cells of that tissue. However, it may be possible to induce pluripotency in some otherwise tissue specific stem cells.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Prior to 8 March 2016, there were three private suppliers of CBT banking services in Australia: Cryosite, Cell Care Australia Pty Ltd (Cell Care) and StemTech Pty Ltd. The latter went into liquidation on 8 March 2016. Thereafter, there were only two private suppliers of CBT banking services: Cryosite and Cell Care. Cryosite and Cell Care were the only suppliers of CBT banking services that enabled a customer to control the release and use of the cord blood or tissue that had been stored for that customer. Cell Care holds 19.7% of the issued capital in Cryosite, but does not have any board representation and does not exercise its voting rights. As I say, after 23 June 2017 Cryosite has had a more limited involvement in the supply of CBT banking services.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Now in addition to the private suppliers of CBT banking services, there were a number of providers of public CBT banking services who held a large number of cord blood and tissue samples. In the majority of cases, a desired cord blood and tissue match could be sourced from such a public provider. But unlike Cryosite and Cell Care, providers of public CBT banking services do not enable a customer to control the release and use of the cord blood or tissue that has been stored for that customer.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Let me turn to the present case which arises out of events concerning a proposed sale by Cryosite of certain of its assets to Cell Care.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The ACCC initially alleged in these proceedings that Cryosite had in connection with a proposed sale by Cryosite to Cell Care of assets used in Cryosite’s CBT banking services business:\nmade a sale agreement which contained cartel provisions, which I will refer to as the “Cryosite restraint” and the “Post-Completion Cell Care restraint”, and thereby contravened s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) (CCA);\nmade a separate arrangement containing a cartel provision referred to as the “Pre-Completion Cell Care restraint”, and thereby contravened s 44ZZRJ of the CCA; and\ngiven effect to the Cryosite restraint and the Pre-Completion Cell Care restraint, and thereby contravened s 44ZZRK of the CCA.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Cryosite now admits the alleged contraventions of ss 44ZZRJ and 44ZZRK in so far as they relate to the Cryosite restraint. And the ACCC does not now press its case concerning the Pre-Completion Cell Care restraint or the Post-Completion Cell Care restraint. I have been asked to make declarations and orders concerning the admitted contraventions. The necessary facts have been agreed between the parties, and a stipulation of those facts and Cryosite’s formal admissions of contravention are set out in a statement of agreed facts that has been tendered under s 191 of the Evidence Act 1995 (Cth).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The parties have jointly sought:\ndeclarations under s 21 of the Federal Court of Australia Act 1976 (Cth) in relation to the admitted contraventions of the CCA;\nan order for payment by Cryosite of a pecuniary penalty pursuant to s 76 of the CCA of:\n$600,000 in respect of the contravention of s 44ZZRJ; and\n$450,000 in respect of the contraventions of s 44ZZRK; and\nan order that Cryosite pay the ACCC’s costs of this proceeding in the sum of $50,000.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "On 23 June 2017, Cryosite entered into a written agreement titled “Cord Blood and Tissue Banking asset sale agreement” (sale agreement) with its competitor, Cell Care, for the sale by Cryosite to Cell Care of assets used in Cryosite’s CBT banking services business (proposed sale). All discussions regarding the terms of what ultimately became the sale agreement to implement the proposed sale were subject to legal advice obtained by Cryosite.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "Pursuant to clauses 4.1 and 4.2 of the sale agreement, Cell Care was obliged to and did pay a non-refundable upfront payment of $500,000 (excluding GST) to Cryosite on 23 June 2017.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "By clause 5.1 of the sale agreement, Cryosite and Cell Care agreed that during the period between execution of the sale agreement on 23 June 2017, and the date on which the proposed sale was to be completed, Cryosite would refer all sales enquiries in relation to its CBT banking services business to Cell Care (the Cryosite restraint).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "From 23 June 2017, Cryosite ceased supplying CBT banking services to any customers with whom it had not already entered into a contract to supply those services. However:\nat least until August 2017, Cryosite had the ability to supply the full range of CBT banking services to pre-existing and new customers;\nfrom 23 June 2017 and during July 2017, Cryosite continued to collect and process cord blood and tissue for customers with whom it had contracted to supply those services prior to 23 June 2017; and\nat all relevant times from 23 June 2017, Cryosite continued to supply the services of storing and (if requested) releasing cord blood and tissue to customers with whom it had contracted to supply those services prior to 23 June 2017.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "Cryosite gave effect to the Cryosite restraint during the period from 23 June 2017 to August 2017 by:\nceasing to supply CBT banking services to new customers;\nestablishing a process under which Cryosite staff would advise potential customers that Cell Care supplied CBT banking services, ask the customer if they would agree to have Cryosite send details of their enquiry to Cell Care, and, if they did agree, report information about the potential customer’s enquiry to Cell Care;\nimplementing the process described in (b) in relation to the 12 enquiries it received following 23 June 2017, including by sending details of four enquiries by potential customers to Cell Care; and\nreporting to Cell Care that customers other than the four referred to in (c) who had made enquiries with Cryosite preferred to contact Cell Care directly rather than have Cryosite send details of their enquiry to Cell Care.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "In the period following 23 June 2017, Cryosite continued to store and release cord blood and tissue (on request) for pre-existing customers. Cryosite had an express right under clause 5.3 of the sale agreement to resume carrying on its CBT banking services business if the ACCC carried out any inquiry into the proposed sale or announced its intention to do so.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "Cryosite and Cell Care ceased to give effect to the Cryosite restraint after the ACCC raised concerns about the Cryosite restraint in August 2017. In September 2017 they executed a deed of variation to the sale agreement which relevantly deleted clause 5.1 (being the clause constituting the Cryosite restraint) from the sale agreement, and inserted a condition to completion of the proposed sale that the ACCC confirm that it would not oppose the proposed sale (ACCC condition).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "In October 2017, Cryosite closed the part of its business that had previously supplied CBT banking services to new customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "Ultimately, the ACCC did not make a decision as to whether it would oppose the proposed sale, and in January 2018 Cell Care advised Cryosite that it was unwilling to waive its rights under the ACCC condition. Accordingly, the proposed sale did not proceed.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "THE RELEVANT CONDUCT"
+    ],
+    "text": "In accordance with the terms of the sale agreement, Cryosite did not return the non-refundable upfront payment of $500,000. Cryosite currently continues to store cord blood and tissue for pre-existing customers and to release this on request, but has not re-commenced supplying CBT banking services to new customers. Cell Care is now the only private supplier of CBT banking services in Australia.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Section 44ZZRJ, as it was in force at the time of the contravening conduct, provided that a corporation contravenes s 44ZZRJ if the corporation:\nmakes a contract or arrangement, or arrives at an understanding; and\nthe contract, arrangement or understanding contains a cartel provision.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Section 44ZZRK, as then in force, provided that a corporation contravenes s 44ZZRK if:\na contract, arrangement or understanding contains a cartel provision; and\nthe corporation gives effect to the cartel provision.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Relevantly, s 44ZZRD, as then in force, defined the term “cartel provision”, and set out two conditions that had to be satisfied in order for a provision of a contract, arrangement or understanding to be a cartel provision. Let me deal with each of the two conditions, but in reverse order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "First, the “competition condition” set out in the then s 44ZZRD(4) had to be satisfied in relation to the provision (s 44ZZRD(1)(b)).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Section 44ZZRD(4) relevantly provided that the competition condition was satisfied if at least two of the parties to the contract, arrangement or understanding:\nwere, or were likely to be, in competition with each other in relation to the supply, production or acquisition of the goods or services the subject of the impugned provision; or\nwould, or would be likely to, be in competition with each other in relation to the supply, production or acquisition of the goods or services the subject of the impugned provision, but for any contract, arrangement or understanding.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "“Likely” in s 44ZZRD(4) refers to a possibility that is not remote; see s 44ZZRB and my discussion in Australian Competition and Consumer Commission v Olex Australia Pty Ltd [2017] FCA 222 at [490]. The likelihood of parties being in competition with each other is a question of fact.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "To be in competition, parties must be rivals or constrain each other in respect of the relevant acquisition or supply of goods or services. Parties may constrain each other if they supply substitutable goods or services to the same class of customer or if they would do so given a sufficient price incentive (ACCC v Olex at [489]). Two firms may be competitors in circumstances where one firm supplies or acquires particular goods or services and the other is a potential supplier or acquirer of such goods or services.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "In the present context, Cryosite and Cell Care each supplied the full range of CBT banking services to new and pre-existing customers until 23 June 2017. They were therefore in competition with each other within the meaning of s 44ZZRD(4) until and at the time that they entered into the sale agreement. After 23 June 2017, Cell Care continued to supply the full range of CBT banking services, but Cryosite only supplied those services to pre-existing customers. Nevertheless, but for the sale agreement, Cryosite was or was likely to be in competition with Cell Care in relation to the supply of CBT banking services within the meaning of s 44ZZRD(4). This is because during that time there was a possibility that was not remote that Cryosite would supply CBT banking services in competition with Cell Care. This arose from the following matters:\nAt least until August 2017, Cryosite had the ability to supply the full range of CBT banking services to pre-existing and new customers as demonstrated by its continued supply of those services to pre-existing customers during this time.\nCryosite had an express right under clause 5.3 of the sale agreement to resume carrying on its CBT banking services business if the ACCC made inquiries about the proposed sale or announced its intention to do so.\nWhilst all of the directors of Cryosite were of the view that the Cryosite CBT banking services business was not sustainable, and absent a sale were considering closure of the business, the Cryosite board had not resolved before June 2017 and did not resolve during the period from June to August 2017 that it would permanently cease supplying any of its CBT banking services if the proposed sale did not occur.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Now competition or rivalry occurs in the sphere of a market. But no market needs to be identified or delineated as an element of the statutory provisions that I am presently concerned with. It is sufficient that the parties or any two of them are actual or likely competitors (ACCC v Olex at [489] to [490]). For relevant purposes, Cryosite admits that it was or was likely to be or but for the sale agreement would have been or would have been likely to be in competition with Cell Care. Let me turn to the next condition that must be satisfied in relation to a “cartel provision”.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Second, either the “purpose/effect” condition in s 44ZZRD(2) or the “purpose” condition in s 44ZZRD(3) must be satisfied in relation to the provision (s 44ZZRD(1)(a)). In the present context I am only concerned with the “purpose” condition in s 44ZZRD(3).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Section 44ZZRD(3) relevantly provides that the “purpose” condition is satisfied if the provision has the purpose of directly or indirectly:\npreventing, restricting or limiting the supply, or likely supply, of goods or services to persons or classes of persons by any or all of the parties to the contract, arrangement or understanding (s 44ZZRD(3)(a)(iii)); or\nallocating between any or all of the parties to the contract, arrangement or understanding the persons or classes of persons who have acquired, or who are likely to acquire, goods or services from any or all of the parties to the contract, arrangement or understanding (s 44ZZRD(3)(b)(i)).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Identifying the “purpose” of a provision requires consideration of the subjective purpose of the parties to the contract, arrangement or understanding containing the provision. This is the end sought to be accomplished, rather than the reason or motive for seeking that end (ACCC v Olex at [493]). The purpose of a provision may be inferred from the nature of the arrangement, the circumstances in which it was made, and its likely effect (ACCC v Olex at [494]). The condition in s 44ZZRD(3) will be satisfied if the proscribed purpose was a substantial purpose for the inclusion of the provision in the contract, arrangement or understanding (ACCC v Olex at [496]).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Before me, Cryosite has made admissions of contraventions of the CCA in the following respects.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "First, Cryosite has admitted that:\nduring the period from about June to August 2017, Cell Care and Cryosite were or were likely to be, or but for the sale agreement would have been or would have been likely to be, in competition with each other in relation to the supply of CBT banking services within the meaning of ss 44ZZRD(4); and\nthe sale agreement was a contract between Cryosite and Cell Care and the Cryosite restraint was a provision of that contract that had the purpose directly or indirectly of:\nrestricting or limiting Cryosite’s supply or likely supply of CBT banking services within the meaning of s 44ZZRD(3)(a)(iii); and\nallocating between Cryosite and Cell Care (that is, to Cell Care) persons who were likely to acquire such services from Cryosite within the meaning of s 44ZZRD(3)(b)(i).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Second, Cryosite has admitted that:\nthe Cryosite restraint was a cartel provision within the meaning of s 44ZZRD(1); and\nby entering into the sale agreement, Cryosite made a contract which contained a cartel provision, and thereby contravened s 44ZZRJ.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "RELEVANT CARTEL LEGISLATION"
+    ],
+    "text": "Third, Cryosite admits that it gave effect to the Cryosite restraint during the period from 23 June 2017 to August 2017 and thereby gave effect to a cartel provision in contravention of s 44ZZRK(1).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "I have a broad discretionary power to make declarations which “[i]t is neither possible nor desirable to fetter…by laying down rules as to the manner of its exercise” (Forster v Jododex Australia Pty Ltd (1972) 127 CLR 421 at 437 per Gibbs J). But nevertheless that power is confined by the considerations which mark out the boundaries of judicial power such that usually it is necessary to be satisfied before making a declaration that:\nthe question is a real and not a hypothetical one;\nthe applicant has a real interest in raising the question; and\nthere is a proper contradictor.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "Now each of these requirements is satisfied in the present case.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "First, there is a direct and important question as to whether Cryosite contravened ss 44ZZRJ and 44ZZRK by engaging in the conduct at issue. And the proposed declarations identify with precision the conduct that is said to have contravened the CCA and are directed to the determination of an extant legal controversy rather than any hypothetical question.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "Second, the ACCC has a real interest as the statutory regulator discharging its functions in the public interest in bringing the proceedings and seeking appropriate declarations.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "Third, Cryosite is a proper contradictor. It is the subject of the declarations and had an interest in opposing the declarations, notwithstanding that it has now made appropriate admissions.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "DECLARATORY RELIEF"
+    ],
+    "text": "Fourth, the declarations sought assist in achieving general deterrence. They record the Court’s disapproval of the contravening conduct and they should assist to deter Cryosite and other persons from contravening the cartel provisions of the CCA.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "PECUNIARY PENALTY"
+    ],
+    "text": "Section 76(1)(a)(i) of the CCA provides that I may if satisfied that a corporation has contravened ss 44ZZRJ and 44ZZRK order the contravener to pay such pecuniary penalty in respect of each act or omission as I determine to be appropriate having regard to all relevant matters, including a number of matters specifically identified in that subsection.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "PECUNIARY PENALTY"
+    ],
+    "text": "Section 76(1A)(aa) provides that the maximum pecuniary penalty payable by a corporation under s 76(1) for each act or omission that constitutes a contravention of ss 44ZZRJ or 44ZZRK is the greatest of:\n$10 million;\nif I can determine the total value of the benefits that have been obtained (within the meaning of Division 1 of Part IV) by one or more persons and that are reasonably attributable to the act or omission – 3 times that total value;\nif I cannot determine the total value of those benefits – 10% of the annual turnover (within the meaning of Division 1 of Part IV) of the corporation during the period of 12 months ending at the end of the month in which the act or omission occurred.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "PECUNIARY PENALTY"
+    ],
+    "text": "Now the statutory maximum applies to each contravention, not to each course of conduct. But the maximum penalty for a single contravention may in some cases be used as a guide against which to consider the whole of the overlapping conduct in that course of conduct (Australian Energy Regulator v Snowy Hydro Limited (No 2) [2015] FCA 58 at [119]), but it is not a necessary limit on the maximum penalty to be imposed for the course of conduct. I will return to the question of the maximum penalty later in these reasons after I have discussed some other questions.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "The Court’s primary concern when setting an appropriate pecuniary penalty is to achieve the objective of general and specific deterrence. I adopt what I wrote in Australian Securities and Investments Commission v Westpac (No 3) (2018) 131 ACSR 585; [2018] FCA 1701 at [117] to [121] on this topic.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Now a number of factors in the present case point to the need for a penalty which conveys the seriousness of the contravening conduct, particularly to those involved in mergers and acquisitions, and effectively deters conduct of this kind.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Market sharing, including when it is undertaken in the context of a proposed or anticipated sale of business, is cartel conduct. And cartel conduct of its nature causes serious harm to consumers, other businesses and the economy.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "In addition, cartel conduct involving the coordination or integration of competing businesses prior to the completion of a sale can result in permanent structural change to the market.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Now although the Court has the power to remedy structural changes to a market resulting from an illegal acquisition by ordering divestiture, this option may not be available in cases where a permanent structural change results from cartel conduct. Further, the Court’s power to order divestiture under s 81 is available only where there has in fact been an acquisition of shares or assets in contravention of s 50.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Accordingly, the penalty to be imposed for cartel conduct of the kind I am considering ahead of a proposed sale or its completion needs to be sufficiently high to deter businesses who may otherwise be able to circumvent the proper application of s 50 and its associated divestiture remedy or at the least render less effective or nugatory such a remedy.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Further, any penalty must be sufficient to overcome the broader incentives to businesses to prematurely coordinate or integrate their businesses ahead of the completion of a sale in a manner which has an anti-competitive purpose or effect. Such behaviour can have the commercial but illegitimate attractions of removing price or other competition between the parties, providing access to advantageous commercially sensitive information, or generating cost savings by enabling consolidation of customer bases. Moreover, these incentives may exist in circumstances where such behaviour may well not be apparent to those outside the arrangement, with the risk of detection being correspondingly low.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "All of the above matters warrant primacy being given to general deterrence and a penalty being imposed to discharge that objective.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "Further, there is also a need for specific deterrence in this particular case. The penalties must be set at a level that will deter Cryosite from engaging in similar conduct in the future.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(a) Deterrence"
+    ],
+    "text": "I should say now, and I will return to this later, that during the hearing I expressed a concern to the parties as to whether the quantum of the penalties was sufficient to satisfy the objective of general deterrence. But I did not have such a doubt concerning specific deterrence.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "The conduct constituting the making of the sale agreement containing the Cryosite restraint involves a single contravention of the CCA. But the conduct constituting giving effect to the Cryosite restraint can properly be said to involve multiple contraventions, with one contravention arising from each instance in which Cryosite engaged in conduct of the type identified earlier. But as there is an interrelationship between the several contraventions by Cryosite in this case, it is necessary to consider three matters associated with the application of pecuniary penalties to multiple contraventions.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "First, s 76(3) provides that if conduct contravenes two or more provisions, relevantly in this case including ss 44ZZRJ and 44ZZRK, a person is not liable to more than one pecuniary penalty under s 76 in respect of the same conduct. This principle applies where conduct is genuinely “the same”, and not simply similar, closely related or repeated.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "Here the conduct constituting the making of the sale agreement containing the Cryosite restraint is not “the same” as the conduct by which Cryosite gave effect to the Cryosite restraint. The making of the sale agreement occurred at an earlier time, and by the actions of different individuals, to the conduct giving effect to the Cryosite restraint. Accordingly, s 76(3) has no application to the present case.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "Second, the “course of conduct” principle envisages that consideration can be given to whether contraventions arise out of the same course of conduct in order to determine whether a single or concurrent penalty should appropriately be imposed for the contraventions, rather than imposing separate penalties for each contravention. But the principle does not permit multiple contraventions to be treated as a single contravention for the purposes of determining the maximum penalty. Moreover, the principle’s application and utility must be tailored to the circumstances (Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 at [24] and [25]).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "Now where, as here, a matter concerns both the making of a contract containing a cartel provision and giving effect to such a provision, weight should be given to the fact that the legislature has deliberately and explicitly created separate contraventions for these two types of conduct. Moreover, one should be wary not to apply the course of conduct principle too liberally, such as to undermine the explicit distinction between the two contraventions (Australian Competition and Consumer Commission v Cement Australia Ltd [2017] FCAFC 159 at [431] and [432] per Middleton, Beach and Moshinsky JJ).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "In the present case, the conduct by which Cryosite made the sale agreement involves a single contravention of s 44ZZRJ, and it is appropriate that a penalty be imposed for that conduct separately from the penalty to be imposed for the conduct contravening s 44ZZRK.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "But the conduct by which Cryosite gave effect to the Cryosite restraint is appropriately understood as involving the following contravening acts:\nFirst, there is the act of the establishment of the process by which the Cryosite restraint would be implemented.\nSecond, there are the contravening acts for each instance in which a Cryosite staff member pursuant to that process advised a potential customer that Cell Care supplied CBT banking services, and/or asked whether the customer would agree to have Cryosite send details of their enquiry to Cell Care, and if the customer provided those details, recorded those details and reported them to Cell Care or if not, reported to Cell Care that those customers preferred to contact Cell Care directly. As Cryosite received 12 enquiries from potential customers in relation to CBT banking services during or about July and August 2017, and it was Cryosite’s practice to follow the said process during that period, there are 12 such separate contravening acts.\nThird, there is the act of Cryosite ceasing to provide CBT banking services to new customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "In my view, it is appropriate to characterise the discrete acts which gave effect to the Cryosite restraint as comprising a single course of conduct. Each of those acts occurred in the context of the establishment and implementation of the process referred to above, comprised similar conduct by a number of Cryosite staff members all of which was directed at the same ends giving effect to the Cryosite restraint, and occurred over a discrete period from 23 June to August 2017.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "There is a considerable degree of overlap in time, nature, context and purpose among the discrete acts which gave effect to the Cryosite restraint such that they may properly be considered to involve a single course of conduct. And to take such an approach is not to downplay Cryosite’s wrongdoing in giving effect to the Cryosite restraint. So to characterise the conduct does not convert the many separate contraventions into a single contravention of s 44ZZRK, nor does it constrain the available maximum penalty.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(b) Imposing penalties for multiple contraventions"
+    ],
+    "text": "Third, where multiple penalties are to be imposed upon a particular wrongdoer, the totality principle requires a final check on the penalties to be imposed, considered as a whole, in order to ensure that the total penalty for related conduct does not exceed what is proper for the entire contravening conduct.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(c) The statutory and other factors"
+    ],
+    "text": "Section 76(1)(a)(i) requires that the Court in having regard to “all relevant matters” must have regard to a number of non-exhaustive statutory factors, being the nature and extent of the wrongdoing, any loss or damage suffered, the circumstances of the wrongdoing and any Court findings as to prior similar conduct.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(c) The statutory and other factors"
+    ],
+    "text": "It is also well established that in addition to the matters identified in s 76(1), the following factors are relevant to the assessment of a pecuniary penalty:\nthe size of the contravening corporation;\nthe degree of power of the contravener, as evidenced by its market share and ease of entry into the market;\nthe extent to which the contravention was the result of deliberate or reckless conduct by the corporation, as opposed to negligence or carelessness;\nthe number of contraventions, the length of the period over which the contraventions occurred, and whether the contraventions comprised isolated conduct or were systematic;\nthe seniority of officers responsible for the contravention;\nthe effect on the functioning of the market and other economic effects of the contravening conduct;\nthe impact or consequences of the contravention on consumers and other innocent third parties, which relates to the question of loss or damage suffered;\nthe extent of any profit or benefit derived as a result of the contravention;\nwhether the contravener has engaged in similar conduct in the past irrespective of prior court findings;\nthe financial strength and capacity of the corporation to pay, but only in the sense that whilst such financial strength does not of itself justify a higher penalty than might otherwise be imposed, it may be relevant in determining the size of the pecuniary penalty that would operate as an effective specific deterrent;\nthe existence within the corporation of compliance systems, including provisions for and evidence of education and internal enforcement of such systems;\nremedial and disciplinary steps taken after the contravention and directed to putting in place a compliance system or improving existing systems and disciplining officers responsible for the contravention;\nwhether the directors of the corporation were aware of the relevant facts and, if not, what processes were in place at the time or put in place after the contravention to ensure their awareness of such facts in the future;\nany change in the composition of the board or senior managers since the contravention; and\nthe degree of the corporation’s cooperation with the ACCC, including any admission of an actual or attempted contravention.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "For the reasons that follow, in my view it is appropriate to impose a penalty of $600,000 for making the sale agreement containing the Cryosite restraint as a cartel provision, and $450,000 for giving effect to the Cryosite restraint.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "First, let me deal with the nature and extent of the contravening conduct.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "The contravening conduct occurred from the signing of the sale agreement on 23 June 2017 until August 2017 when Cryosite ceased giving effect to the Cryosite restraint after concerns were raised by ACCC representatives that making the sale agreement and giving effect to the Cryosite restraint might contravene the CCA cartel provisions. But by that point Cryosite had proceeded to implement the Cryosite restraint by establishing a process to refer customer enquiries to Cell Care, and had ceased supplying CBT banking services to new customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Cryosite engaged in the contravening conduct openly in the course of its business rather than covertly. Nevertheless, the contravening conduct was not able to be readily observed or detected by parties other than Cryosite and Cell Care. Further, the terms of the Cryosite restraint could in the ordinary course have been expected to have remained confidential to the parties, and it would not have been obvious to third parties that Cryosite’s conduct giving effect to that restraint was prompted by a contract with Cell Care. It is unlikely that the contravening conduct would have become apparent to any third party, absent the ACCC’s inquiry regarding whether the proposed transaction might contravene s 50 of the CCA. The internal and confidential nature of this conduct is relevant in considering the level of penalty that is appropriate to achieve the objectives of specific and general deterrence.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Second, let me deal with the deliberateness of the contravening conduct.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Cryosite agreed to the inclusion of the Cryosite restraint in the sale agreement, and established and implemented a specific process by which it gave effect to the Cryosite restraint. But that is not to say that Cryosite engaged in that conduct with the intention to contravene the CCA or with an awareness that the sale agreement contained a clause which would contravene the cartel provisions of the CCA. Cryosite retained lawyers to advise it in relation to the drafting and terms of the sale agreement. Cryosite’s lawyers were involved in the negotiation of the sale agreement but did not raise any concerns about cartel aspects of the Cryosite restraint.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Third, let me say something concerning the involvement of senior management.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "The persons whose conduct resulted in Cryosite engaging in the contravening conduct included senior representatives of Cryosite. Further, as I have said, Cryosite retained lawyers to advise it in relation to the drafting and terms of the sale agreement. Further, any suggested changes to the draft sale agreement made by Cell Care were considered and agreed upon by the Board of Cryosite following legal advice.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Fourth, it is appropriate to address the question of relevant benefit. Cryosite obtained the commercial benefits from the contravening conduct. As a result of making the sale agreement, Cryosite:\nreceived a non-refundable upfront payment of $500,000; and\nobtained, until the sale agreement was brought to an end, the right to receive further annual payments with a minimum total value of $2.5 million.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Further, Cell Care may also have benefited from the contravening conduct. Cell Care may have obtained a benefit in the form of new business opportunities generated from the four potential customers Cryosite referred to Cell Care pursuant to the Cryosite restraint, and from the balance of the 12 customers who made enquiries with Cryosite but preferred to contact Cell Care directly. Further, Cell Care also attained an enhanced market position. Cell Care became from 23 June 2017 the only available private supplier of CBT banking services to customers other than pre-existing Cryosite customers. Further, to the extent that the contravening conduct hastened the closure of Cryosite’s CBT banking services business, it also hastened Cryosite’s exit from the CBT banking services industry, other than for the supply of cord blood and tissue storage and release services to pre-existing customers. The effect of the contravening conduct rendered more remote the possibility that Cryosite might recommence supplying CBT banking services to new customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Fifth, let me say something concerning Cryosite’s size and financial position.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Cryosite is a publicly listed Australian company. Cryosite reported profit of $225,100 in the financial year ending 30 June 2017, which figure took into account its retention of the $500,000 non-refundable upfront payment paid by Cell Care. Cryosite reported a loss before tax of $1,240,439 for the financial year ending 30 June 2018. The profit before interest, taxes, depreciation and amortisation of the CBT banking services part of Cryosite’s business was $219,044 (including the $500,000 non-refundable upfront payment from Cell Care) in the financial year ending 30 June 2017, and $5,630 in the financial year ending 30 June 2018. As at 1 July 2018, with International Financial Reporting Standard 15 effective, Cryosite’s net asset position was -$21,260.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Now Cryosite’s financial position does not excuse its contravening conduct or decrease the primary importance of deterrence. Further, the possibility that a pecuniary penalty may have a likely adverse consequence on the contravener does not prevent me from determining an appropriate penalty. If it were otherwise, the consideration of such matters may undermine the objective of general deterrence.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Nevertheless, the parties have submitted, with which I agree, that it is relevant for me to consider Cryosite’s financial position in considering whether the proposed penalties are likely to be sufficient to achieve specific deterrence.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Sixth, as to the economic effects of the contravening conduct, as Cryosite and Cell Care were the only private suppliers of CBT banking services in Australia immediately prior to the making of the sale agreement, their coordination deprived a group of persons, being those interested in obtaining CBT banking services, of the benefit of having a choice of private providers between 23 June 2017 to August 2017. This constituted a detriment to the competitive process for the supply of CBT banking services in Australia.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Seventh, let me say something concerning co-operation and admission of culpability.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Cryosite and Cell Care were aware during the negotiations of the sale agreement that the proposed sale might attract the attention of the ACCC with respect to whether the proposed sale would result in a substantial lessening of competition i.e. concerns relating to s 50 of the CCA. But Cryosite and Cell Care did not seek any form of merger clearance from the ACCC, which in the ordinary course would have been sought by the acquirer. Cell Care communicated to Cryosite the importance of Cryosite first announcing that it had decided to close part of its CBT banking services business before it announced that it had entered into an agreement for the proposed sale, as there was perceived to have been an otherwise greater risk that the ACCC might seek to stop the proposed sale from proceeding.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Cryosite first cooperated with the ACCC after representatives of the ACCC made inquiry in August 2017 regarding the proposed sale. And as I say, it executed the deed of variation described above. But by that time the parties had commenced giving effect to the Cryosite restraint.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Further, prior to the commencement of this proceeding, Cryosite voluntarily provided information and documents to the ACCC, and met with ACCC representatives when requested to do so.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Further, in October 2018, Cryosite reached an in principle but non-binding agreement with the ACCC to settle this proceeding. Since that time it has further cooperated with the ACCC in relation to the resolution of the present proceeding and the finalisation of the agreement. Further, to finalise the agreement Cryosite has made admissions, agreed to the making of appropriate orders, and joined in the making of submissions reflecting the seriousness of its wrongdoing. In the circumstances, a discount for cooperation is appropriate and is reflected in the penalties that I propose to impose.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Eighth, it is now convenient to address the question of maximum penalty.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Notwithstanding the commercial benefits to the contraveners of the contravening conduct as identified above, the maximum penalty for each of the contraventions is still nevertheless $10 million. This is because of the following matters. The parties are not able to quantify the value of the benefits from the contravening conduct, other than for the non-refundable upfront payment of $500,000. Further, Cryosite’s relevant annual turnover for the purposes of s 76(1A) is expected to have been comparable to its revenue for the financial year ending 30 June 2017, which was $10,163,028. Accordingly, 10% of Cryosite’s relevant annual turnover is expected to have been in the order of $1 million. Accordingly, as $10 million is greater than $1 million, the effect of s 76(1A) is that the maximum penalty per contravention is $10 million.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Ninth, the sum of the penalties proposed equates to just over 10% of the maximum penalty per contravention. But the sum of those penalties well exceeds, as is appropriate, the value of the $500,000 non-refundable upfront payment. Further, in light of Cryosite’s size and financial position, the proposed penalties could not reasonably be regarded as an acceptable cost of doing business, and could be expected to render any risk/benefit analysis materially less palatable to other potential wrongdoers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Tenth, in terms of comparable cases there are no previous cases concerning facts that are closely comparable to those before me. Therefore there is little utility in drawing a comparison with penalties ordered in other cases involving cartel conduct. But it is nevertheless appropriate to refer to the seriousness with which the Court has treated cartel conduct when imposing penalties in other cases. As was observed in Australian Competition and Consumer Commission v Yazaki Corporation (2018) 357 ALR 55, cartel conduct is “generally regarded as the most pernicious of all breaches of competition law”, is “often attended by secrecy” and “notoriously difficult to identify”, and may only be detected a long time after the conduct occurs (at [257] per Allsop CJ, Middleton and Robertson JJ). These matters need to be reflected in an appropriate penalty. More generally, the seriousness with which the Court views cartel conduct is reflected in the scale of recent penalties imposed for cartel conduct, which include penalties of $12.5 million (ACCC v Flight Centre), $15 million (ACCC v Air New Zealand), $9 million, $6 million (ACCC v ANZ and ACCC v Macquarie) and $46 million (ACCC v Yazaki).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "In conclusion and taking into account all of the above considerations, it seems to me that the quantum of the penalties sought is appropriate.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Now I have little doubt that the penalties to be imposed well discharge the objective of specific deterrence, but it is fair to say that I did have a residual concern concerning general deterrence. But I have ultimately been persuaded that the quantum to be imposed also satisfactorily meets the objective of general deterrence, when one appreciates the limited context under which the Cryosite restraint came to be agreed and implemented.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "Finally, it is appropriate that the relevant penalties be paid in instalments, with $200,000 to be paid within 30 days of the date of my order and the balance to be paid in 10 equal annual instalments from 2020 to 2029. It is open to me to order that pecuniary penalties be paid by instalments where I am satisfied that there is sufficient financial information before me to justify the instalment arrangements proposed (see Australian Competition and Consumer Commission v Humax Pty Ltd (2005) ATPR 42-072 at [12] per Merkel J and Director of Consumer Affairs Victoria v Gibson (No 3) [2017] FCA 1148 at [101] per Mortimer J). In my view it is appropriate that Cryosite be permitted to pay the proposed penalties in instalments in the manner described in the light of Cryosite’s recent financial performance and the fact that Cryosite needs to fund its ongoing obligations to existing customers (such as providing cord blood and tissue storage) out of its present assets, which are partly made up of the funds collected in advance from these customers which Cryosite holds in order to pay for the ongoing obligations it has to these customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "PECUNIARY PENALTY",
+     "(d) Determining the penalty"
+    ],
+    "text": "For all of the above reasons I will make orders in the terms sought by the parties.",
+    "judge": "BEACH J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding ninety-three (93) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Beach.",
+ "associate": null,
+ "dated": "2019-02-13",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "3af5f7d7ae911f25d88917b6c18472f17659088675596e90d24077a092f681ac",
+ "markdown_file": "data/extracted/2019/2019FCA0116.md"
+}

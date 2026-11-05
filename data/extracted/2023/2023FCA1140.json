@@ -1,0 +1,302 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA1140.docx",
+ "metadata": {
+  "citation": "[2023] FCA 1140",
+  "name": "Australian Competition and Consumer Commission v BlueScope Steel Limited (No 7)",
+  "court": "FCA",
+  "year": 2023,
+  "number": 1140,
+  "date_of_judgment": "2023-09-25",
+  "file_numbers": [
+   "VID932/2019"
+  ],
+  "judges": [
+   "O'BRYAN J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-09-25"
+  ],
+  "hearing_raw": "25 September 2023",
+  "number_of_paragraphs": 9,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Rule 39.05(h) of the Federal Court Rules 2011 (Cth) – the “slip rule” – application to correct error in order made imposing pecuniary penalty on second respondent – principles governing operation of r 39.05(h) – order made"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 44ZZRJ",
+   "Federal Court of Australia Act 1976 (Cth), ss 22, 23",
+   "Federal Court Rules 2011 (Cth), r 39.05"
+  ],
+  "cases_cited": [
+   "Allstate Life Insurance Co v ANZ Banking Group Ltd (No 18) (1995) 133 ALR 667",
+   "Austal Ships Sales Pty Ltd v Stena Rederi Aktiebolag [2009] FCAFC 179; 263 ALR 384",
+   "Australian Competition and Consumer Commission v BlueScope Steel Limited (No 6) [2023] FCA 1029",
+   "Australian Rail, Tram and Bus Industry Union v Metro Trains Melbourne (2019) 276 FCR 172",
+   "Caboolture Park Shopping Centre Pty Ltd (in liq) v White Industries (Qld) Pty Ltd (1993) 45 FCR 224",
+   "Campaign Master (UK) Ltd v Forty Two International Pty Ltd (No 4) [2010] FCA 398; 269 ALR 76",
+   "Construction, Forestry, Mining and Energy Union v Mammoet Australia Pty Ltd (No 2) (2012) 209 FCR 123",
+   "Elyard Corporation Ltd v DDB Needham Sydney Pty Ltd (1995) 61 FCR 385",
+   "Flint v Richard Busuttil & Company Pty Ltd (2013) 216 FCR 375",
+   "Hamlett on behalf of the Wajarri Yamtji People v State of Western Australia (No 3) [2021] FCA 869",
+   "Mawhinney v Australian Securities and Investments Commission (No 2) [2022] FCAFC 205",
+   "Remington Products Australia Pty Ltd v Energizer Australia Pty Ltd [2008] FCAFC 47; 246 ALR 113",
+   "Symes v Commonwealth (1987) 89 FLR 356"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "BLUESCOPE STEEL LIMITED (ACN 000 011 058)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JASON THOMAS ELLIS",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr J Clark"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr A Barraclough"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Gilbert + Tobin"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Mr P Cash (Norton Rose Fulbright)"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1140",
+  "portal_file_numbers": [
+   "VID932/2019"
+  ],
+  "portal_event": "Directions",
+  "portal_event_date": "2023-09-25"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "VID 932 of 2019"
+  },
+  {
+   "label": "Judgment of",
+   "value": "O'BRYAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "25 September 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Rule 39.05(h) of the Federal Court Rules 2011 (Cth) – the “slip rule” – application to correct error in order made imposing pecuniary penalty on second respondent – principles governing operation of r 39.05(h) – order made"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 44ZZRJ\nFederal Court of Australia Act 1976 (Cth), ss 22, 23\nFederal Court Rules 2011 (Cth), r 39.05"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Allstate Life Insurance Co v ANZ Banking Group Ltd (No 18) (1995) 133 ALR 667\nAustal Ships Sales Pty Ltd v Stena Rederi Aktiebolag [2009] FCAFC 179; 263 ALR 384\nAustralian Competition and Consumer Commission v BlueScope Steel Limited (No 6) [2023] FCA 1029\nAustralian Rail, Tram and Bus Industry Union v Metro Trains Melbourne (2019) 276 FCR 172\nCaboolture Park Shopping Centre Pty Ltd (in liq) v White Industries (Qld) Pty Ltd (1993) 45 FCR 224\nCampaign Master (UK) Ltd v Forty Two International Pty Ltd (No 4) [2010] FCA 398; 269 ALR 76\nConstruction, Forestry, Mining and Energy Union v Mammoet Australia Pty Ltd (No 2) (2012) 209 FCR 123\nElyard Corporation Ltd v DDB Needham Sydney Pty Ltd (1995) 61 FCR 385\nFlint v Richard Busuttil & Company Pty Ltd (2013) 216 FCR 375\nHamlett on behalf of the Wajarri Yamtji People v State of Western Australia (No 3) [2021] FCA 869\nMawhinney v Australian Securities and Investments Commission (No 2) [2022] FCAFC 205\nRemington Products Australia Pty Ltd v Energizer Australia Pty Ltd [2008] FCAFC 47; 246 ALR 113\nSymes v Commonwealth (1987) 89 FLR 356"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "9"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "25 September 2023"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr J Clark"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr A Barraclough"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Gilbert + Tobin"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Mr P Cash (Norton Rose Fulbright)"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID932/2019",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "BLUESCOPE STEEL LIMITED (ACN 000 011 058)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JASON THOMAS ELLIS",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "O'BRYAN J"
+   ],
+   "date": "2023-09-25",
+   "date_raw": "25 SEPTEMBER 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to r 39.05 of the Federal Court Rules 2011 (Cth), order 5 of the orders of the Court made on 29 August 2023 be varied so as to substitute the following:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Ellis pay to the Commonwealth of Australia pecuniary penalties totalling $500,000 in respect of the attempts to induce contraventions of s 44ZZRJ of the CCA referred to in order 3 above (excluding order 3(g)) being:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "in respect of the attempt involving Selwood Steel referred to in order 3(e) above, $25,000;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "in respect of the attempt involving Wright Steel referred to in order 3(h) above, $40,000;",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "in respect of the attempt involving Yieh Phui referred to in order 3(i) above, $60,000;",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "in respect of each of the attempts involving Selection Steel, Apex Steel, Southern Steel, Vulcan Steel and CMC Steel referred to in orders 3(a), (b), (c), (d) and (f) above, $75,000.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Pursuant to r 39.05 of the Federal Court Rules 2011 (Cth), orders 2(g) and 3(g) of the orders of the Court made on 29 August 2023 be varied to substitute the date 10 September 2013 for the date 10 September 2014.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 29 August 2023, I delivered judgment and made orders in this proceeding: Australian Competition and Consumer Commission v BlueScope Steel Limited (No 6) [2023] FCA 1029. The orders that I made included declarations that the first respondent, BlueScope Steel Limited (BlueScope), and the second respondent, Jason Ellis, attempted to induce nine competing suppliers of flat steel products in Australia, one of whom was OneSteel Trading Pty Ltd (OneSteel), to contravene s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) by arriving at an understanding that contained a cartel provision. The orders that I made also included orders for the imposition of pecuniary penalties against BlueScope and Mr Ellis in respect of that conduct.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Subsequent to delivering judgment and making orders on 29 August 2023, the Australian Competition and Consumer Commission (ACCC) brought to my attention that, by its amended originating application dated 12 May 2020, it had sought a pecuniary penalty against BlueScope in respect of the contravening conduct concerning OneSteel (OneSteel conduct), but not against Mr Ellis. That matter was not brought to my attention during the hearing on the question of penalty. If it had been brought to my attention, I would not have imposed a pecuniary penalty on Mr Ellis in respect of the OneSteel conduct. The ACCC has filed an application to vary the order imposing a pecuniary penalty on Mr Ellis to remove the penalty imposed in respect of the OneSteel conduct, thereby reducing the amount of the penalties imposed on Mr Ellis. In response, Mr Ellis adopted the surprising position of neither consenting to nor opposing the application (despite the fact that the variation was to reduce the aggregate penalty imposed).",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Once a judgment or order of a court has been pronounced and entered, the general common law rule is that the court lacks power to make a further order that alters or sets aside that judgment or order: see Caboolture Park Shopping Centre Pty Ltd (in liq) v White Industries (Qld) Pty Ltd (1993) 45 FCR 224 at 234–235. However, as observed in Mawhinney v Australian Securities and Investments Commission (No 2) [2022] FCAFC 205 (Mawhinney No 2) (at [37] per O’Bryan and Cheeseman JJ), there are exceptions to the general rule, many of which are set out in r 39.05 of the Federal Court Rules 2011 (Cth). The Court’s power to alter or set aside a judgment or order pursuant to r 39.05 is sourced in ss 22 and 23 of the Federal Court of Australia Act 1976 (Cth): Remington Products Australia Pty Ltd v Energizer Australia Pty Ltd [2008] FCAFC 47; 246 ALR 113 at [18].",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Rule 39.05 of the Federal Court Rules 2011 (Cth) provides that the Court may vary or set aside a judgment or order after it has been entered in certain limited circumstances including, relevantly, where there is an error arising in the judgment or order from an accidental slip of omission (r 39.05(h)). This is colloquially known as the “slip rule”.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The power conferred on the Court by r 39.05(h) is discretionary. It must, like all discretions, be exercised judicially: Hamlett on behalf of the Wajarri Yamtji People v State of Western Australia (No 3) [2021] FCA 869 at [15] (Griffiths J); Campaign Master (UK) Ltd v Forty Two International Pty Ltd (No 4) [2010] FCA 398; 269 ALR 76 at [68] (Yates J); Allstate Life Insurance Co v ANZ Banking Group Ltd (No 18) (1995) 133 ALR 667 at 67 (Lindgren J). The slip rule applies where the proposed amendment is one upon which no real difference of opinion can exist: Elyard Corporation Ltd v DDB Needham Sydney Pty Ltd (1995) 61 FCR 385 (Elyard) at 390-1 (Lockhart J, with Black CJ agreeing).",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "It is well settled that the application of the slip rule is not confined to giving effect to the intention of the judge at the time when the Court’s order was made, or judgment given, but also extends to the intention which the Court would have had, but for the failure that caused the accidental slip or omission: Elyard at 389-91; Symes v Commonwealth (1987) 89 FLR 356 at 357 (Gallop J); Flint v Richard Busuttil & Company Pty Ltd (2013) 216 FCR 375 at [26] (Allsop CJ, Katzmann and Perry JJ); Mawhinney No 2 at [40] (O’Bryan and Cheeseman JJ). Such a failure may include where a party fails to raise, or to make submissions with respect to, a matter: Construction, Forestry, Mining and Energy Union v Mammoet Australia Pty Ltd (No 2) (2012) 209 FCR 123 at [10] (Gilmour J). There is a clear distinction between an accidental error or omission and an error in the reasoning process underlying an order, which is appellable: Austal Ships Sales Pty Ltd v Stena Rederi Aktiebolag [2009] FCAFC 179; 263 ALR 384 at [22]-[25] (Finn and Dowsett JJ).",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "An order made pursuant to the slip rule operates nunc pro tunc to correct an earlier order, and thus speaks from the date of the earlier order: Elyard at 391-2 (Lockhart J, with Black CJ agreeing), 400-1 (Lindgren J); Australian Rail, Tram and Bus Industry Union v Metro Trains Melbourne (2019) 276 FCR 172 at [9] (Flick J with Anastassiou J agreeing), [54]-[55] (Bromberg J).",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "It is appropriate that I correct my judgment and orders dated 29 August 2023 by reducing the aggregate penalty imposed on Mr Ellis to remove the penalty imposed in respect of the OneSteel conduct. By its amended originating application, the ACCC had not sought a penalty in respect of that conduct and did not apply at the penalty hearing to vary its originating application to seek a penalty for that conduct. As stated earlier, if that had been brought to my attention during the penalty hearing, I would not have imposed a pecuniary penalty on Mr Ellis in respect of the OneSteel conduct.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "It has also been brought to my attention that orders 2(g) and 3(g) of the orders made on 29 August 2023 contain a typographical error, in that the reference to 10 September 2014 in those orders should be a reference to 10 September 2013. It is appropriate also to correct that error.",
+    "judge": "O’BRYAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding nine (9) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice O'Bryan.",
+ "associate": null,
+ "dated": "2023-09-25",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c5fb7ba533003c8eb27ee6c372d309b9041dd5101dc8ad316fb01b0e60e930e4",
+ "markdown_file": "data/extracted/2023/2023FCA1140.md"
+}

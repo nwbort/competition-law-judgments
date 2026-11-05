@@ -1,0 +1,406 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2013/2013FCA0577.docx",
+ "metadata": {
+  "citation": "[2013] FCA 577",
+  "name": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 13)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 577,
+  "date_of_judgment": "2013-06-12",
+  "file_numbers": [
+   "NSD534/2010",
+   "NSD955/2009"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-06-05"
+  ],
+  "hearing_raw": "5 June 2013",
+  "number_of_paragraphs": 23,
+  "catchwords": [
+   "EVIDENCE – Witnesses – Credibility evidence – Whether evidence of a previous representation admissible as credibility evidence – Whether a ‘person’ includes a corporation for the purposes of s 108A of the Evidence Act 1995 (Cth)"
+  ],
+  "legislation": [
+   "Acts Interpretation Act 1901 (Cth) ss 2, 2C",
+   "Evidence Act 1995 (Cth), ss 101A, 103, 108A"
+  ],
+  "cases_cited": [
+   "State Rail Authority of New South Wales v Brown (2006) 66 NSWLR 540 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   },
+   {
+    "name": "P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+    "role": "Respondent"
+   },
+   {
+    "name": "P.T. GARUDA INDONESIA LIMITED (arbn 000 312 685)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Clarke"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "Air New Zealand",
+    "name": "N Owens, R Yezerski"
+   },
+   {
+    "role": "solicitor",
+    "for": "Air New Zealand",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "Garuda",
+    "name": "T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "Garuda",
+    "name": "Norton White"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0577",
+  "portal_file_numbers": [
+   "NSD955/2009",
+   "NSD534/2010"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2013-06-12"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 13) [2013] FCA 577"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)"
+  },
+  {
+   "label": "File numbers",
+   "value": "NSD 534 of 2010\nNSD 955 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "12 June 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "EVIDENCE – Witnesses – Credibility evidence – Whether evidence of a previous representation admissible as credibility evidence – Whether a ‘person’ includes a corporation for the purposes of s 108A of the Evidence Act 1995 (Cth)"
+  },
+  {
+   "label": "Legislation",
+   "value": "Acts Interpretation Act 1901 (Cth) ss 2, 2C\nEvidence Act 1995 (Cth), ss 101A, 103, 108A"
+  },
+  {
+   "label": "Cases cited",
+   "value": "State Rail Authority of New South Wales v Brown (2006) 66 NSWLR 540 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "5 June 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "General"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "23"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Clarke"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for Air New Zealand",
+   "value": "N Owens, R Yezerski"
+  },
+  {
+   "label": "Solicitor for Air New Zealand",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for Garuda",
+   "value": "T Brennan"
+  },
+  {
+   "label": "Solicitor for Garuda",
+   "value": "Norton White"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD534/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The letter from Ms Michelle Carr of Corrs Chambers Westgarth to Mr Norman Lo the Director-General of the Hong Kong Civil Aviation Department dated 22 February 2013 (FCA.001.003.0590) form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The letter from Mr P Wong to Ms Michelle Carr dated 5 March 2013 (FCA.001.003.0592) form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The documents in Orders 1 and 2 be admitted as evidence relevant to credibility of the maker of the prior representation only.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The defence prepared by Cathay Pacific Airways Limited in proceedings NSD 363 of 2009 (ACCC.909.008.0611) be rejected.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The documents annexed to the affidavit of Ms Lauren White sworn 17 April 2013 (FCA.001.002.1516) be rejected.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "NSD955/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The letter from Ms Michelle Carr of Corrs Chambers Westgarth to Mr Norman Lo the Director-General of the Hong Kong Civil Aviation Department dated 22 February 2013 (FCA.001.003.0590) form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The letter from Mr P Wong to Ms Michelle Carr dated 5 March 2013 (FCA.001.003.0592) form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The documents in Orders 1 and 2 be admitted as evidence relevant to the credibility of the maker of the prior representation only.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The defence prepared by Cathay Pacific Airways Limited in proceedings NSD 363 of 2009 (ACCC.909.008.0611) be rejected.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The documents annexed to the affidavit of Ms Lauren White sworn 17 April 2013 (FCA.001.002.1516) be rejected.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Objection is taken by Air NZ and Garuda to the tender of the following documents:\n(a) a letter from Ms Michelle Carr of Corrs Chambers Westgarth to Mr Norman Lo the Director-General of the Hong Kong Civil Aviation Department (‘the HKCAD’) dated 22 February 2013 (FCA.001.003.0590);\n(b) the reply to that letter from a Mr P Wong dated 5 March 2013 (FCA.001.003.0592);\n(c) a defence prepared by Cathay Pacific Airways Limited (‘Cathay’) in proceedings NSD 363 of 2009 (ACCC.909.008.0611);\n(d) a series of documents annexed to the affidavit of Ms Lauren White sworn 17 April 2013 such as the annual report for Cathay for the year 2009 whose effect, if admitted, would be to demonstrate the extent of the commercial interests of the People’s Republic of China (‘the PRC’) in Cathay (FCA.001.002.1516)."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The objection to the documents in (a) and (b) was that they were hearsay and that they were created in contemplation of legal proceedings. The Commission’s response was to submit that they served the non-hearsay purpose of demonstrating that the HKCAD was inconsistent in its statements about what it required in relation to surcharges at the relevant time. To show that the HKCAD was inconsistent did not, so it was said, involve a hearsay use of the material, rather, it went to credit."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "To understand the inconsistency alleged it is necessary to grasp some background. Parallel with, and slightly ahead of, these proceedings was an investigation by the European Commission into alleged collusive behaviour by commercial airlines in the fixing of fuel surcharges on cargo. One of the subjects of that investigation appears to have been Cathay Pacific and one of the issues seems to have been whether the airlines in Hong Kong were required to submit a joint application to the HKCAD for the approval of any proposed surcharge. A similar issue arises in this case. On 3 September 2009, Mr Lo, of the HKCAD, wrote to the President of the European Commission, José Manuel Barroso (CXA.008.001.0833). The letter is in unusually forthright terms. Despite its length it is worth setting out in full:\nFORMER AIR CARGO SURCHARGE APPROVALS\nOn 5 September 2008, this office wrote to you to explain the purposes and the nature of the collective applications for air cargo fuel surcharge from the Hong Kong Board of Airline Representatives Cargo Sub-Committee (“BAR-CSC”) on behalf of certain carriers. We trust that our letter was helpful to you in your investigation. Thus far we have received only a formal acknowledgement of the letter and have yet to receive any response from the Commission, so we are not certain of its effect. Whilst the investigation is on-going, we would like to ensure that the position of the Hong Kong Civil Aviation Department (“CAD”) and your understanding of the CAD’s regulatory requirements under our legal system are clear and unambiguous, and thus we send this further letter to the Commission.\n2. The Commission should be absolutely clear that, in respect of the cargo fuel surcharge index-based mechanism, we required that the BAR-CSC and the participating carriers agree on the details of the collective applications, including the amount of the surcharge for which approval was sought, the evidence to be provided to CAD supporting the applications and the single mechanism to be used for determining the surcharge. The CAD also mandated and required the participating carriers to levy specifically the surcharge approved. Moreover, we mandated and required BAR-CSC to submit for approval to CAD any change in the list of carriers participating in the collective applications and we made it clear that such carriers should not levy any fuel surcharge without CAD’s express approval to BAR-CSC.\n3. The CAD was of the firm view that the collective applications were in compliance with the applicable legislation in Hong Kong and consistent with the air services agreements (“ASAs”) concluded by Hong Kong, including the ASAs between Hong Kong and Member States of the EU, and we therefore approved them. We would like to stress that most of the ASAs between Hong Kong and Member States of EU have provisions allowing discussion and agreement on tariffs among carriers. We believe that all the governments concerned have the obligations to make their best efforts to implement these ASAs.\n4. The CAD has the right and legal power to implement any surcharge application process which is consistent with the applicable ASAs and carriers operating in Hong Kong are required to comply with the CAD’s instructions. We trust that the CAD’s position is clear and that the Commission will respect and defer to the lawful regulatory system in Hong Kong in its current proceedings.\n(emphasis added)"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "I accept that this letter exhibits an enthusiasm to explain to the European authorities what it was that the HKCAD had required of the airlines with respect to surcharges."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The two letters about which debate is now joined exhibit a different level of enthusiasm on this issue. The first letter which is dated 22 February 2013 is a request by Air NZ’s solicitors to the HKCAD that it send Mr Lo (the author of the original letter) to Australia to give evidence before this Court about the requirements of the HKCAD in relation to surcharges. The second document is the response from the HKCAD dated 5 March 2013 and is in these terms:\nAustralian Competition and Consumer Commission (“ACCC”) v Air New Zealand Limited\nI refer to your letter ref MMC/AIRN2280-9070513 dated 22 February 2013.\nBeing part and parcel of tariffs, the Hong Kong Civil Aviation Department (HKCAD) always considers fuel and insurance surcharge applications in accordance with the bilateral air services agreements.\nAs regards your request, I would like to inform you that we have reviewed your case and do not consider it necessary for the HKCAD to give evidence on the matter before courts in Australia."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The author of this letter is not Mr Lo (who wrote the letter to the European Commission and to whom Ms Carr’s letter was addressed) but a Mr Wong."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "In my opinion this letter (and the letter to which it is a reply) are rationally capable of advancing the proposition that the HKCAD is inconsistent in its approaches to inquiries about its surcharge practice. I do not find that this is, in fact, the effect of the letter – a ruling on evidence is not the place for such a conclusion – only that the letter is rationally capable of being so deployed."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "This, however, is not sufficient because of the terms of s 108A of the Evidence Act 1995 (Cth) (‘the Act’) which provides:\n108A Admissibility of evidence of credibility of person who has made a previous representation\n(1) If:\n(a) evidence of a previous representation has been admitted in a proceeding; and\n(b) the person who made the representation has not been called, and will not be called, to give evidence in the proceeding;\ncredibility evidence about the person who made the representation is not admissible unless the evidence could substantially affect the assessment of the person’s credibility.\n(2) Without limiting the matters to which the court may have regard for the purposes of subsection (1), it is to have regard to:\n(a) whether the evidence tends to prove that the person who made the representation knowingly or recklessly made a false representation when the person was under an obligation to tell the truth; and\n(b) the period that elapsed between the doing of the acts or the occurrence of the events to which the representation related and the making of the representation."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The expression ‘credibility evidence’ is defined in s 101A of the Act in these terms:\n101A Credibility evidence\nCredibility evidence, in relation to a witness or other person, is evidence relevant to the credibility of the witness or person that:\n(a) is relevant only because it affects the assessment of the credibility of the witness or person; or\n(b) is relevant:\n(i) because it affects the assessment of the credibility of the witness or person; and\n(ii) for some other purpose for which it is not admissible, or cannot be used, because of a provision of Parts 3.2 to 3.6.\nNote 1: Sections 60 and 77 will not affect the application of paragraph (b), because they cannot apply to evidence that is yet to be admitted.\nNote 2: Section 101A was inserted as a response to the decision of the High Court of Australia in Adam v The Queen (2001) 207 CLR 96."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Certainly s 108A(1)(a) is satisfied in this case for the HKCAD letter of 3 September 2009 is evidence of a previous representation and has been admitted in this proceeding. Section 108A(1)(b) raises a question about who made the representation – was it Mr Lo who wrote the letter or was it the HKCAD on whose behalf the letter was written?"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Here one has a question upon which minds might legitimately disagree. One natural reading of s 108A(1)(b) is that the persons to whom it applies are those who could conceivably be called and this would not include non-natural persons. On the other hand, that reading would mean that whilst credibility evidence had to have a substantial effect on the assessment of an actual witness’s credibility to be admissible (s 103) or upon the credibility of a natural person who was not called (s 108A), no such limitation would exist in the case of the credibility of non-natural persons. It is difficult to discern any rational reason for such an approach which would create an unusual anomaly. I do not think that I should read the Act that way unless I have to. I do not have to read it that way and, indeed, s 2C(1) of the Acts Interpretation Act 1901 (Cth) requires me, unless the context otherwise requires (s 2(2)), to read ‘person’ as including a corporation. The anomaly to which I referred satisfies me that s 108A does not exhibit a contrary intention. Thus, whilst I would accept that the ordinary and natural meaning of s 108A(1)(b), at least viewed in isolation, is not readily apt to refer to non-natural persons, I think that viewed in the context of Part 3.7 of the Act as a whole it does."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "That conclusion means that it is no answer to say that the tender is concerned with the credibility of the HKCAD rather than Mr Lo."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "There then follow two issues. The first is whether the tender of Mr Wong’s letter is ‘credibility evidence’ within the meaning of s 101A. In my opinion, plainly it is. It is tendered to show that the effusions of the HKCAD on surcharge requirements are inconsistent, and, at the ultimate endpoint of the argument, that the second letter shows that I should place no reliance on the first."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "That being so, s 108A is engaged and I must be satisfied, secondly, that the credibility evidence in question (that is, the second letter) ‘could substantially affect the assessment of the person’s credibility’. Possibly not very much benefit is to be obtained by seeking to parse the expression ‘substantially affect’. But it is to be noted that the provision does not require the Court to be satisfied that the evidence will have the requisite effect, only that it could."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "In the parallel inquiry under s 103 which arises in the case of the cross-examination of a witness on credit, it has been held that the question to which objection is taken should be approached for the purpose of determining whether it substantially affects the credibility of the witness on the basis that the cross-examiner gets the answer she wants: State Rail Authority of New South Wales v Brown (2006) 66 NSWLR 540; [2006] NSWCA 220 at [20] per Giles JA. It is a little difficult to translate that into the context of s 108A where, ex hypothesi, there are no questions. But it does indicate that the evidence to which objection is taken should be taken at its highest."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "I have accepted above that the second letter is rationally capable of demonstrating that the HKCAD speaks inconsistently on the topic of what it required of the airlines when they applied for approval for fuel surcharges. If I were ultimately to accept that the letter did in fact make good that contention then it seems to me that this would substantially affect the HKCAD’s credibility on surcharge requirements. This is in turn would provide a substantial reason for rejecting the reliability of the account in the first letter. Accordingly, s 108A is satisfied and I will admit both letters."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "The tender by the Commission of Cathay’s apparently unfiled defence of 15 October 2009 was put on the basis that it too went to the reliability of the letter of 3 September 2009. This was because paragraph 155B of the defence expressly relied upon the terms of the letter."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "Here the argument was that the HKCAD’s first letter had only been written at the instigation of Cathay who had needed it to make good its foreign state compulsion defence in these proceedings. This was to be inferred from the lack of any motive on the HKCAD’s part to write such a letter, the fact that it had been copied to Cathay and the fact that it turned up in Cathay’s defence within two months of its having been written."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "Again, essentially the same analysis should be applied. The defence is not otherwise admissible since it is hearsay so it may be admitted, if it is to be admitted at all, as credibility evidence under s 108A."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "In order to be admitted it must be capable of being able substantially to affect the credibility of the HKCAD. In effect, three views contend for the field:\n(i) the HKCAD wrote the letter of 3 September 2009 unprompted by Cathay, copying the letter to Cathay which then used it in its defence; or\n(ii) Cathay (or perhaps persons associated with PRC) asked the HKCAD to write the letter and HKCAD, satisfied that what was being asked of it was correct, did so copying it to Cathay who then used it as the basis for its foreign state compulsion defence; or\n(iii) Cathay (or perhaps persons associated with PRC) asked the HKCAD to write the letter and the HKCAD, without any concern as to whether the letter was true or not, did so copying it to Cathay which then used as the basis in its foreign state compulsion defence."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "The existence of Cathay’s defence is consistent with all three of these theories and provides, in that sense, equal support for each. I do not think (i) or (ii) could affect the HKCAD’s credibility although (iii) would. I do not think that the defence can establish (iii) by itself. Whether the HKCAD believed the contents of the letter or not cannot be discerned rationally from the defence. Accordingly, I do not accept that s 108A is satisfied and I reject the tender."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "The last set of documents which were tendered were a series of documents touching upon the ownership structure of Cathay (and consisting in part of some of its annual reports). Their relevance of these was to show that PRC had a non-majority indirect interest in Cathay and this was said to matter because it provided a motive for the HKCAD to write the letter of 3 September 2009. Plainly the material is again only relevant to credibility. I do not think the material has the substantial effect which s 108A(1) calls for. I would need to know a good deal more about the relationship between the Hong Kong Special Administrative Region of the PRC and the PRC before I could rationally infer that the HKCAD acted to protect the PRC’s interests in Cathay. I reject the tender."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "The documents above at [1] in (a) and (b) will form part of the evidence but not those in (c) and (d). They will be subject to an order limiting their use to use as credibility evidence."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-three (23) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2013-06-12",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "84e16f50771bd3877033331da194a8ca31a790682eb1a518caa939194ed5dd30",
+ "markdown_file": "data/extracted/2013/2013FCA0577.md"
+}

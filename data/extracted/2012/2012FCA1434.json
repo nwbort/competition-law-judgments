@@ -1,0 +1,589 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA1434.docx",
+ "metadata": {
+  "citation": "[2012] FCA 1434",
+  "name": "Australian Competition & Consumer Commission v Thai Airways International Public Company Limited",
+  "court": "FCA",
+  "year": 2012,
+  "number": 1434,
+  "date_of_judgment": "2012-12-14",
+  "file_numbers": [
+   "NSD1213/2009"
+  ],
+  "judges": [
+   "KATZMANN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-12-13"
+  ],
+  "hearing_raw": "13 December 2012",
+  "number_of_paragraphs": 38,
+  "catchwords": [
+   "COMPETITION – price-fixing – collusive understandings – respondent admitted to contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – whether contraventions occurred – whether the proposed penalties appropriate – matters relevant to imposition of penalty – admissions not made until first day of hearing – parity with penalties imposed in similar cases"
+  ],
+  "legislation": [
+   "Trade Practices Act 1974 (Cth) ss 45(2), 45A, 76, 77"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (2001) ATPR ¶41-815; [2001] FCA 383",
+   "Australian Competition and Consumer Commission v Emirates [2012] FCA 1108",
+   "Australian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360",
+   "Australian Competition and Consumer Commission v Malaysian Airline System Berhad (No 2) (2012) ATPR ¶42-409; [2012] FCA 767",
+   "Australian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd [2012] FCA 1395",
+   "J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532",
+   "Minister for the Environment, Heritage and the Arts v PGP Developments Pty Ltd(2010) 183 FCR 10",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "Trade Practices Commission v CSR Limited (1991) ATPR ¶41-076",
+   "Trade Practices Commission v TNT Australia Pty Ltd (1995) ATPR ¶41-375"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION & CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED (ARBN 001 084 895)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION & CONSUMER COMMISSION v THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED (ARBN 001 084 895)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O'Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Ms K Morgan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Gilbert + Tobin"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1434",
+  "portal_file_numbers": [
+   "NSD1213/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2012-12-14"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition & Consumer Commission v Thai Airways International Public Company Limited [2012] FCA 1434"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION & CONSUMER COMMISSION v THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED (ARBN 001 084 895)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 1213 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "KATZMANN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "14 December 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – price-fixing – collusive understandings – respondent admitted to contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – whether contraventions occurred – whether the proposed penalties appropriate – matters relevant to imposition of penalty – admissions not made until first day of hearing – parity with penalties imposed in similar cases"
+  },
+  {
+   "label": "Legislation",
+   "value": "Trade Practices Act 1974 (Cth) ss 45(2), 45A, 76, 77"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (2001) ATPR ¶41-815; [2001] FCA 383\nAustralian Competition and Consumer Commission v Emirates [2012] FCA 1108\nAustralian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360\nAustralian Competition and Consumer Commission v Malaysian Airline System Berhad (No 2) (2012) ATPR ¶42-409; [2012] FCA 767\nAustralian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd [2012] FCA 1395\nJ McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532\nMinister for the Environment, Heritage and the Arts v PGP Developments Pty Ltd(2010) 183 FCR 10\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nTrade Practices Commission v CSR Limited (1991) ATPR ¶41-076\nTrade Practices Commission v TNT Australia Pty Ltd (1995) ATPR ¶41-375"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "13 December 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "38"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O'Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Ms K Morgan"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Gilbert + Tobin"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1213/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION & CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "THAI AIRWAYS INTERNATIONAL PUBLIC COMPANY LIMITED (ARBN 001 084 895)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "KATZMANN J"
+   ],
+   "date": "2012-12-14",
+   "date_raw": "14 december 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondent pay the Commonwealth of Australia a pecuniary penalty in the sum of $7.5 million in respect of contraventions of section 45(2)(a)(ii) and (b)(ii) of the Trade Practices Act 1974 (Cth), now the Competition and Consumer Act 2010 (Cth) (the Act) occurring after October 2003, in that:",
+     "level": 0
+    },
+    {
+     "label": "1.1.",
+     "text": "the respondent:",
+     "level": 1
+    },
+    {
+     "label": "1.1.1.",
+     "text": "between about October 2001 and September 2005, reached understandings with certain of its competitors for the supply of services from Indonesia to several other countries including Australia for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount, described as a fuel surcharge, in respect of those services; and",
+     "level": 2
+    },
+    {
+     "label": "1.1.2.",
+     "text": "between about October 2001 and October 2005, reached understandings with certain of its competitors for the supply of services from Indonesia to several other countries including Australia for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount, described as a security surcharge, in respect of those services; and",
+     "level": 2
+    },
+    {
+     "label": "1.1.3.",
+     "text": "between about May 2004 and October 2005, reached an understanding with certain of its competitors for the supply of services from Indonesia to several other countries including Australia for the carriage of air cargo containing a provision that each would impose a charge of a specified amount, described as a customs fee, in respect of those services;",
+     "level": 2
+    },
+    {
+     "label": "1.2.",
+     "text": "the provisions of the said understandings had the effect of fixing, maintaining or controlling prices for the said services within the meaning of section 45A of the Act and are therefore deemed to substantially lessen competition within the meaning of section 45(2)(a)(ii) and (b)(ii) of the Act; and",
+     "level": 1
+    },
+    {
+     "label": "1.3.",
+     "text": "the respondent gave effect to those provisions:",
+     "level": 1
+    },
+    {
+     "label": "1.3.1.",
+     "text": "of the understandings referred to in 1.1.1, from September 2002 to October 2005 inclusive;",
+     "level": 2
+    },
+    {
+     "label": "1.3.2.",
+     "text": "of the understandings referred to in 1.1.2, from October 2001 to October 2005 inclusive; and",
+     "level": 2
+    },
+    {
+     "label": "1.3.3.",
+     "text": "of the understanding referred to in 1.1.3, from May 2004 until October 2005 inclusive.",
+     "level": 2
+    },
+    {
+     "label": "2.",
+     "text": "The pecuniary penalty of $7.5 million is to be paid to the Commonwealth of Australia in instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "2.1.",
+     "text": "$1.1 million within 14 days of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.2.",
+     "text": "$1.1 million within 6 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.3.",
+     "text": "$1.1 million within 12 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.4.",
+     "text": "$1.1 million within 18 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.5.",
+     "text": "$1.1 million within 24 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.6.",
+     "text": "$1 million within 30 calendar months of the date of this order; and",
+     "level": 1
+    },
+    {
+     "label": "2.7.",
+     "text": "$1 million within 36 calendar months of the date of this order,",
+     "level": 1
+    },
+    {
+     "label": "3.",
+     "text": "The respondent be restrained, for a period of five years from the date of this order from making, arriving at, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air, containing provisions which have the effect of fixing, controlling or maintaining the price or any part of the price at which it or any of them will supply those services in competition with each other unless:",
+     "level": 0
+    },
+    {
+     "label": "3.1.",
+     "text": "the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 1
+    },
+    {
+     "label": "3.2.",
+     "text": "the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s44ZZRP of the Act;",
+     "level": 1
+    },
+    {
+     "label": "3.3.",
+     "text": "the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 1
+    },
+    {
+     "label": "3.4.",
+     "text": "the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 1
+    },
+    {
+     "label": "4.",
+     "text": "The respondent be restrained for a period of five years from the date of this order from entering into, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air containing provisions to the effect that any of them will propose, develop, prepare, follow, implement, adopt or otherwise use any index, model, methodology or formula for the change of prices or any part of prices to be charged by any of them for services provided or which would otherwise likely be provided in competition with any other of them unless:",
+     "level": 0
+    },
+    {
+     "label": "4.1.",
+     "text": "the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 1
+    },
+    {
+     "label": "4.2.",
+     "text": "the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s44ZZRP of the Act;",
+     "level": 1
+    },
+    {
+     "label": "4.3.",
+     "text": "the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 1
+    },
+    {
+     "label": "4.4.",
+     "text": "the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 1
+    },
+    {
+     "label": "5.",
+     "text": "The respondent pay the applicant within 14 days of the date this order is made a contribution towards its costs of and incidental to these proceedings in the sum of $500,000.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:",
+    "provided that if any instalment is not paid on or before the specified date, the whole of the remaining penalty then outstanding shall become immediately payable.",
+    "THE COURT ORDERS BY CONSENT THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The respondent (“Thai”) is a foreign corporation. It is one of a number of international airlines that colluded with each other to fix certain fees and surcharges relating to the transport of air freight and against whom the applicant (“the ACCC”) has brought proceedings alleging contraventions of the Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth)) (“the Act”)."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The Act treats conduct of this kind as anti-competitive (s 45A) and prohibits corporations (including foreign corporations) from engaging in it (s 45). The community’s disdain for conduct of this kind is reflected in the penalties available for it. A single contravention of s 45 attracts a pecuniary penalty of up to $10 million (s 76(1A)(b)). Collusive behaviour of this nature now also attracts criminal sanctions."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The conduct in question in this case concerns understandings about the price for the supply of freight services from Indonesia to various other countries including Australia."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The ACCC instituted proceedings against Thai on 28 October 2009. It alleged that Thai contravened the Act by arriving at numerous understandings with its competitors in Indonesia, Hong Kong, Thailand and Singapore and by giving effect to those understandings, and applied for pecuniary penalties and injunctive relief. In its most recent iteration, the statement of claim alleges that the airline arrived at 33 such understandings and gave effect to 26 of them. Thus, subject to the totality principle (see, for example, Trade Practices Commission v TNT Australia Pty Ltd (1995) ATPR ¶41-375 (“TNT”)) Thai faced the possibility of paying pecuniary penalties of up to $590 million. Thai denied all allegations of contravening behaviour and, with respect to the allegations concerning understandings reached in Hong Kong and Thailand also contended that the allegations were non-justiciable and that its conduct conformed to local government requirements."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The hearing, which was scheduled to run for 20 weeks, was due to begin on 6 November 2012. It was originally listed together with the ACCC’s applications against several other airlines including Malaysia, Emirates, Cathay Pacific, Singapore Air Cargo, Air New Zealand and Garuda. But Malaysia, Emirates and more recently Cathay Pacific and Singapore Air Cargo reached agreements with the ACCC to admit to certain contraventions (a small fraction of those actually alleged), to pay penalties, to submit to injunctions and to pay a contribution towards the ACCC’s costs so as to dispose of the proceedings. Earlier Qantas and Korean Air Lines had entered into similar agreements. On the day before the hearing was due to start, Thai did too. It now admits (for the purpose of this proceeding only) that it engaged in conduct in contravention of s 45 of the Act (by reason of s 45A) by arriving at and giving effect to understandings in relation to:\n(i) a fuel surcharge from in or about October 2001 to October 2005;\n(ii) a security surcharge from in or about October 2001 to October 2005; and\n(iii) a customs fee from in or about May 2004 to no later than October 2005\non freight carried internationally by air from Indonesia to several other countries including Australia."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The parties jointly submit that a penalty of $7.5 million should be imposed, that injunctions should be granted pursuant to s 80 of the Act restraining Thai for a period of five years from engaging in similar conduct and that Thai pay the ACCC a contribution of $500,000 towards its costs. The proposed orders are contained in short minutes signed by the solicitors for the parties and dated 13 December 2012."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Despite the agreement, as the parties acknowledge, it is for the Court to determine whether the alleged contraventions occurred, whether the proposed penalties are appropriate and whether the other relief should be granted. That is because s 76 of the Act, which empowers the Court to order the payment of pecuniary penalties, and s 80 which permits the Court to grant injunctive relief depend on the Court being satisfied that the contraventions occurred and that the penalties and the terms of the injunction are appropriate. Nevertheless, there is an obvious public interest in giving effect to the agreement of the parties. Doing so encourages other infringers to cooperate with the regulator, with consequential costs savings for all concerned, the Court and the community in general. As the Full Court observed in NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 (“NW Frozen Foods”) at 291, a negotiated settlement might include measures designed to promote for the future, vigorous competition in the particular market. On the question of penalty Burchett J put the matter well in TNT at [7]:\nSo long as a negotiated sum is not outside the range within which a court would fix a penalty, there is no good reason why parties should not be at liberty to reach an agreement about what will be submitted to the court. If they were to attempt to go outside the range, the purposes of the law would be in danger of frustration, and it would be incumbent upon the court to insist upon its function of determining the matter, irrespective of the agreement of the parties. But, subject to that, the public interest was obviously served by what was done in the present case, insofar as great expense to a public authority was avoided, as well as the inevitable unavailability of its human and material resources for other tasks. At the same time, considerable further cost to the community in other ways was averted, including the clogging effect of very lengthy litigation upon the Court lists."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Consequently, provided the parties act responsibly, it will be a rare case in which the Court will not make the orders they jointly seek. This is not such a case. For the following reasons I am satisfied that the contravening conduct occurred and the proposed orders made."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Section 45(2)(a)(ii) of the Act prohibits a corporation (defined in s 4 to include a foreign corporation) from making a contract or arrangement or arriving at an understanding that includes a provision the purpose or likely effect of which is to substantially lessen competition. Section 45(2)(b)(ii) prohibits giving effect to such a provision. At the relevant time, s 45A deemed a provision in a contract, arrangement or understanding made with the purpose or actual or likely effect of fixing, controlling or maintaining a price for services to have the purpose or likely effect of substantially lessening competition. “Competition” is defined in s 45(3) for the purposes of the section (and s 45A) as competition in any market in which a corporation that is a party to the contract, arrangement or understanding supplies or acquires or is likely to supply or acquire goods or services or would be likely to do so but for the provision."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "“Market” is defined in s 4E for relevant purposes as a market in Australia and includes a market for goods or services and other goods or services that may be substituted for, or are otherwise competitive with, them. For the purpose of this proceeding the parties accept that during the relevant period the relevant market or markets included outbound freight from Indonesia to several other countries including Australia and that that is a “market” within the meaning of s 4E. Thai’s competitors in this market included Singapore Airlines (and later its subsidiary, Singapore Air Cargo) British Airways, Emirates, Cathay Pacific, Qantas, Garuda, Korean Air Lines, Cargolux and Malaysia Airlines."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Thai has made admissions and the parties have agreed upon the facts pursuant to s 191 of the Evidence Act 1995 (Cth). Section 191 provides that, unless the Court gives leave, where the parties to a proceeding have agreed that a fact is not for the purposes of the proceeding to be disputed, evidence is not required to prove it and may not be adduced to contradict or qualify it. As Stone J explained in Minister for the Environment, Heritage and the Arts v PGP Developments Pty Ltd (2010) 183 FCR 10 at [35], it nonetheless remains for the Court to determine whether the facts are to be accepted as true and to determine the weight to be attributed to them. That may depend on their inherent credibility and the coherence of the narrative. In that case her Honour referred to the possibility of mutually inconsistent agreed facts. That problem does not arise here. The facts agreed upon are inherently credible and the narrative is coherent. I accept them to be true."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Background"
+    ],
+    "text": "The statement of agreed facts contains a lengthy discussion which provides some useful context for Thai’s behaviour. What follows is a summary of that discussion."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Background"
+    ],
+    "text": "In the latter half of 1996, after a steep rise in the global price of aviation fuel, Lufthansa announced that it would levy across its entire route network a fuel surcharge of USD 0.10 or its local equivalent per kilogram of air freight, which would be dropped when the price of fuel returned to its July 1996 level. On or about 1 November 1996 it proceeded to levy the surcharge. This appears to have prompted the members of the International Air Transport Association (“IATA”), the peak industry organisation to which the major intentional airlines (including Thai) belonged, to pass a resolution (“Resolution 116ss”) to the effect that IATA prepare and publish a fuel price index for its members and providing for the imposition of fuel surcharges in accordance with a methodology linked to the index. The resolution was carried by mail vote."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Background"
+    ],
+    "text": "The index was first published in 1997 and continued to be published until 2000. Publication ceased as a result of advice from the United States Department of Transport, the relevant regulator in that country, that IATA’s application for regulatory approval of Resolution 116ss had been refused. On 7 April 2000 IATA sent a memorandum to the members of the Cargo Tariff Coordinating Conference, including Thai, informing them of the refusal and advising them that the index would therefore be discontinued. Either before or immediately after IATA stopped publishing its fuel price index, Lufthansa started publishing its own, which effectively replicated the IATA index. Several other airlines announced, and then charged, fuel surcharges based on the Lufthansa methodology and others, like KLM, adopted their own methodology. Movements in the Lufthansa Price Index were monitored by airlines and formed part of the discussion that led to the understandings."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 14 April 2000 the Secretary of the Cargo Committee, wrote to the heads of cargo operations at over 60 IATA member airlines and the members of the Cargo Tariff Coordinating Conferences at those airlines telling them, amongst other things, that\n[i]f the carriers were to co-ordinate pricing by reference to the Index, whether pursuant to this disapproved Resolution or simply through de facto parallel pricing actions, that could be regarded as an illegal conspiracy in violation of applicable Competition laws, whether the Index is published by IATA, PLATTS (sic) [an international information provider], or indeed, simply calculated by each of the carriers independently."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Background"
+    ],
+    "text": "It follows that, at the time the conduct the subject of the proceeding took place, Thai (and all the other airlines who received this correspondence) were on notice that combining to agree upon prices could be illegal and should not occur."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "At all relevant times Thai, like other major intentional airlines operating in Indonesia, was a member of the Air Cargo Representative Board-Indonesia (“ACRB-Indonesia”) and between about October 2001 and September 2005 its representative often attended meetings of the Board, as did representatives of its competitors."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "At those meetings, the airlines, which also included Emirates, Singapore and Korean Air Lines discussed, in addition to other matters, the fuel surcharges, security surcharges and customs fees they intended to impose on the carriage of freight from Indonesia to several other countries including Australia."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "The process of arriving at the understandings is described at some length in my judgment in Australian Competition and Consumer Commission v Emirates [2012] FCA 1108 (“Emirates”). The individuals involved here were Thai cargo sales manager employees in Indonesia. The only other difference between the two cases is the period during which the conduct relevant to penalty occurred (“the penalty period”). The reason the period is limited is that the Act provides (in s 77(2)) that a proceeding for the recovery of a pecuniary penalty may be brought within six years after the contravention. The penalty period in this case is two years (from October 2003 to October 2005) whereas in Emirates it was longer. The differences in the penalty periods, however, are purely a reflection of the differences in the times the ACCC started the two proceedings."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "As the parties recite in the agreed facts, the purpose of these communications between the airlines at (and doubtless between) the ARCB-Indonesia meetings was to ensure that in respect of the fuel surcharges, security surcharges and customs fees for the carriage of air freight from Indonesia to several other countries including Australia the airlines would move to the same amount or substantially the same amount at around the same time. That was also their purpose. In other words, the purpose and effect of the understandings was to fix prices for certain services."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "At each of nine meetings of the ARCB-Indonesia, the first of which was held on 4 October 2001 and the last on 15 September 2005, Thai arrived at fuel surcharge understandings with its competitors who were ACRB-Indonesia members. Between September 2002 and October 2005 it gave effect to six of them. The understandings reached at all but the last meeting were that each of the airlines would impose a minimum fuel surcharge of USD 0.05 per kg on the supply of air freight services from Indonesia to several other countries including Australia. At the last meeting on 15 September 2005 the airlines reached an understanding to double that figure."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "In October 2001 Thai also came to an understanding with its competitors that they would each impose a minimum security surcharge of USD 0.05 per kg on the same services. That figure was reviewed on four occasions thereafter, most recently in July 2005, but remained the same. Thai gave effect to those understandings from October 2001 to October 2005."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "In May 2004 Thai came to a similar understanding to charge a fee of USD 5.00 on all air waybills issued after that date on exports from Indonesia to several other countries including Australia. An air waybill is a document issued for the carriage of air freight by freight forwarders through whom airlines mainly provide international freight services on behalf of the airlines. The fee was variously known as a customs fee or a customs charge processing fee. Thai gave effect to this understanding by imposing that fee on all air waybills for exports from Indonesia to those countries from May 2004 until October 2005."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The understandings"
+    ],
+    "text": "I was informed by senior counsel for the ACCC that the collusive conduct ceased at the time regulators across the world began investigating the conduct of the airlines."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Section 76, itself, requires the Court to have regard to all relevant matters including the nature and extent of the act or omission, the loss or damage, if any, suffered as a result, the circumstances in which the act or omission took place, and whether the Court has previously found the corporation in proceedings under Part IV or Part XIB of the Act to have engaged in any similar conduct."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Perhaps the most important consideration is deterrence, both general and specific. Finkelstein J thought it was the principal object of imposing a penalty: Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (2001) ATPR ¶41-815; [2001] FCA 383 (“ABB”) at 42,938 [13]. French J thought it was probably the only object: Trade Practices Commission v CSR Limited (1991) ATPR ¶41-076 at 52,152. It seems to me, however, that the purpose is a dual one – to punish the wrongdoer and to deter it from “reoffending” and others from following suit. The penalty needs to be sufficiently high to act as a deterrent. Where the profits from collusive behaviour outweigh the size of the penalty, the statutory purpose may be undermined. As Finkelstein J put it in ABB at 42,938, “the penalty must be at a level that a potentially-offending corporation will see as eliminating any prospect of gain”."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "penalty"
+    ],
+    "text": "The other relevant considerations include the amount of loss or damage caused by the conduct, the size and financial position of the contravening company and its degree of power in the relevant market (as evidenced by market share and ease of entry), the role of senior management, the effect of the conduct on the relevant market and any other economic impact, the corporate culture and any history of similar conduct: See, for example, NW Frozen Foods 71 FCR 285 at 292 and J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "penalty"
+    ],
+    "text": "I have referred to some of these matters already. Thai accepts that the contraventions were very serious. This was deliberate, systematic conduct involving senior staff at the Thai station in Indonesia. For the understandings to be effective they required the participation of all players in the market including Thai."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Thai’s market share was not high. The evidence was it carried approximately 4% of all air cargo (based on weight) to and from Australia in contrast to the major carrier, Qantas which carried 24%. Thai had significant competitors in the market and the ACCC does not contend that Thai was able to act in the market without being constrained by its competitors."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Thai is a large company. As at November 2012 it employed approximately 1664 people in its cargo business division alone. As at December 2011 it operated flights to 73 cities in 35 countries excluding code-share and franchising arrangements. In the Thai financial year ending 30 September 2005 it had total assets of AUD 7.588 billion, total operating revenue of AUD 5.316 billion and a net after-tax income of AUD 222 million. The size of the company, as Burchett J observed in TNT (at 40,168) is relevant because what might deter a small company would have little or no impact on a very large one."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "penalty"
+    ],
+    "text": "The revenue Thai earned from the various charges was apparently substantially less than Singapore (over AUD 21 million) but comparable to that earned by most of the other carriers who have been before the Court (up to AUD 3 million in the case of Emirates, about AUD 4 million for Korean Air Lines and Malaysia). Fuel surcharges on freight exported from Indonesia into Australia during the penalty period totalled between AUD 500,000 to 600,000 and security surcharges on that freight in the same period totalled between AUD 450,000 and 550,000. The customs fees charged are unknown. The revenue Thai derived from those charges was said to be negligible. The direct benefit to Thai from entering into and giving effect to the understandings came from the charges levied on freight carried to other destinations."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "penalty"
+    ],
+    "text": "At least some, if not all, of the additional costs are believed to be passed on by the freight forwarder to the shipper."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Objectively, then, the conduct attracts a very substantial penalty. There are, however, some mitigating factors."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Thai has never previously contravened the Act. Before the contravening conduct began it had apparently instructed its employees since at least 2001 to comply with local laws. On the dubious assumption that this is a compliance police, there is no evidence that it had any compliance policies before 2001. Plainly if it did, they were ineffective. Nevertheless, since 2008 it has had in place a global antitrust compliance program which additionally provides for a legal handbook and legal instruction manual for staff working in foreign offices although I was not informed of the extent of the distribution of those books and manuals. Apparently, managers from all Thai’s foreign stations attended an antitrust seminar conducted in August 2008 where relevant training was provided by an external European antitrust specialist. There was no evidence about whether any future seminars are planned or whether the managers took any steps to disseminate what they learned at the seminar."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "penalty"
+    ],
+    "text": "More significantly, Thai is entitled to credit for admitting to its wrongdoing and for cooperating with the ACCC to reach the agreement, saving the parties, the Court and the community substantial costs. That said, however, the cooperation was late in coming (not until the first day of the hearing) and, for this reason, the discount must be a modest one."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "penalty"
+    ],
+    "text": "The final substantive issue is the question of parity. As I have already mentioned, the conduct involved in the admitted contraventions is the same conduct with which Emirates was concerned. It is also the same conduct involved in Australian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd [2012] FCA 1395 (“SAC”), Australian Competition and Consumer Commission v Malaysian Airline System Berhad (No 2) (2012) ATPR ¶42-409; [2012] FCA 767 (“Malaysian Airlines”) and Australian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360 (“Korean Air Lines”) in that it concerns the Indonesian understandings. Moreover, each of these cases involved six contraventions relating to those understandings. In Emirates I imposed a penalty of $7 million. In SAC the penalty was $8 million. In SAC the discount for cooperation was of the order of 5%, reflecting the lateness of the agreement (the third day of the hearing). In Emirates, where the agreement was struck several weeks before the hearing was due to start, it was 12.5%. Emirates’s share of the market is comparable to Thai’s (at 5%) whereas SAC’s (at 12-14%) is much higher. In Malaysian Airlines and Korean Air Lines, where the agreements were reached much earlier, the penalties were respectively $6 million and $5.5 million. But there is no question of mathematical precision here. Fixing penalties is more of an art than a science. It is abundantly clear from the foregoing discussion that a penalty of $7.5 million is within the range."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "penalty"
+    ],
+    "text": "Thai has asked and the ACCC agreed that the penalty be paid in instalments. For a variety of reasons, including adverse trading conditions, Thai is experiencing financial difficulties and in the last full financial year for which records are available it recorded a substantial net loss. It also has severe constraints on its cash flow due to significant pre-existing aircraft payment commitments and other operationally necessary investments. Trading conditions remain uncertain. In the circumstances, I am prepared to make that order. Emmett J made a similar order in similar circumstances in Malaysian Airlines."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "penalty"
+    ],
+    "text": "I therefore make orders in accordance with the short minutes of order signed by the solicitors for the parties and dated 13 December 2012."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-eight (38) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Katzmann.",
+ "associate": null,
+ "dated": "2012-12-14",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "295fa29576b785a33b0cb3d1784aa15ff76629f06e0ea9a72e2f343f6897c095",
+ "markdown_file": "data/extracted/2012/2012FCA1434.md"
+}

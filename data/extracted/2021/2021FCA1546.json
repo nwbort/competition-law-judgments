@@ -1,0 +1,305 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2021/2021FCA1546.docx",
+ "metadata": {
+  "citation": "[2021] FCA 1546",
+  "name": "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 5)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 1546,
+  "date_of_judgment": "2021-12-08",
+  "file_numbers": [
+   "QUD883/2016"
+  ],
+  "judges": [
+   "GREENWOOD J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "last_submissions": "2021-11-05",
+  "number_of_paragraphs": 17,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – consideration of submissions in relation to the disposition of costs in relation to the principal proceeding"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth), s 43",
+   "Federal Court Rules 2011 (Cth), r 25.14(3)"
+  ],
+  "cases_cited": [
+   "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd [2018] FCA 1479",
+   "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 2) [2018] FCA 1607",
+   "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 4) [2021] FCA 1219",
+   "Lodestar Anstalt v Camparis America LLC (No 2) [2016] FCAFC 118"
+  ],
+  "parties": [
+   {
+    "name": "FLOGINEERING PTY LTD (ACN 115 962 822)",
+    "role": "Applicant"
+   },
+   {
+    "name": "BLU LOGISTICS SA PTY LTD (ACN 600 595 382) (and others named in the Schedule)",
+    "role": "First Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N Ferrett QC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Kalus Kenny Intelex"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr S Forrest"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Rostron Carlyle Rojas"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1546",
+  "portal_file_numbers": [
+   "QUD883/2016"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2021-12-08"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 883 of 2016"
+  },
+  {
+   "label": "Judgment of",
+   "value": "GREENWOOD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "8 December 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – consideration of submissions in relation to the disposition of costs in relation to the principal proceeding"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth), s 43\nFederal Court Rules 2011 (Cth), r 25.14(3)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd [2018] FCA 1479\nFlogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 2) [2018] FCA 1607\nFlogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 4) [2021] FCA 1219\nLodestar Anstalt v Camparis America LLC (No 2) [2016] FCAFC 118"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "17"
+  },
+  {
+   "label": "Date of last submission/s",
+   "value": "5 November 2021"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N Ferrett QC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Kalus Kenny Intelex"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr S Forrest"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Rostron Carlyle Rojas"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD883/2016",
+   "parties": [
+    {
+     "name": "FLOGINEERING PTY LTD (ACN 115 962 822)",
+     "role": "Applicant"
+    },
+    {
+     "name": "BLU LOGISTICS SA PTY LTD (ACN 600 595 382) (and others named in the Schedule)",
+     "role": "First Respondent"
+    }
+   ],
+   "judges": [
+    "GREENWOOD J"
+   ],
+   "date": "2021-12-08",
+   "date_raw": "8 DECEMBER 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondents pay the costs of the applicant of and incidental to the proceeding up to and including 2 March 2020 on a party and party basis.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondents pay the costs of the applicant of and incidental to the proceeding from and including 3 March 2020 to the date of these orders on an indemnity basis.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to s 23 and s 37P of the Federal Court of Australia Act 1976 (Cth), rule 1.32 and rule 1.36 of the Federal Court Rules 2011, these orders and the reasons for judgment in support of these orders are made and published from Chambers.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "These proceedings are concerned with the disposition of the costs of the principal proceeding.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The issues of liability and quantum to be determined in the principal proceeding were heard and determined separately. The principal liability judgment was published on 28 September 2018: Flogineering Pty Ltd v Blu Logistics SA Pty Ltd [2018] FCA 1479. A further judgment was published on 24 October 2018 addressing the final text of the declarations and injunctions to be made by the Court arising out of the liability judgment: Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 2) [2018] FCA 1607. By the orders made on 24 October 2018 (Order 4), the costs of and incidental to the liability proceeding were reserved until the final determination of the principal proceeding.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The issues relating to the contended losses arising out of the contraventions the subject of the liability judgment were heard and determined with judgment published on 8 October 2021: Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 4) [2021] FCA 1219. On 1 November 2021, orders were made by consent in relation to quantum that the respondents pay to the applicant the amount of $456,477.00 together with interest on that sum in an amount of $271,498.12. The parties were to file written submissions in relation to the question of the reserved costs by Friday, 5 November 2021.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The parties have filed submissions on costs and these reasons address the resolution of that matter.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The essential submission of the applicant is that for the purposes of r 25.14(3), the applicant claims to have obtained a judgment more favourable than the terms of an offer put to the respondent. Rule 25.14(3) provides that if an offer is made by an applicant and not accepted by a respondent, and the applicant obtains a judgment that is more favourable than the terms of the offer, the applicant is entitled to an order that the respondent pay the applicant’s costs on the following basis:\n(a) before 11.00am on the second business day after the offer was served – on a party and party basis; and\n(b) after the time mentioned in paragraph (a) – on an indemnity basis.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "An offer was put by the solicitors for the applicant to the solicitors for the respondent on 2 September 2017 by which the applicant said that it would accept the sum of $375,000.00 from the respondents. The second element of the applicant’s proposal was that each of the respondents give an undertaking to the Court that not later than 30 November 2017 each respondent would remove the “Mark” (which, in these proceedings, is an “Approval Number”) from trucks owned or operated by the relevant respondent. In the case of the first respondent, the truck numbers were 141, 143, 148, 149 and 207 (five trucks). In the case of the second respondent, the truck numbers were 128, 147, 151, 152, 167, 168, 169, 170, 171, 172, 173, 174, 176 and 75 (14 trucks). In the case of the fourth respondent, the truck numbers were 103, 106, 110, 114, 117, 119, 121, 129, 130, 131, 132, 135, 136, 139, 163, 178 and 21 (17 trucks). In the case of the fifth respondent, the truck numbers were 126, 127, 138 and 20 (4 trucks).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Accordingly, the total number of trucks nominated in the offer of compromise the subject of the proposed undertaking was 40 trucks.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "In the declarations and injunctions made on 24 October 2018 giving effect to the liability judgment, the trucks the subject of the relief were these: 207, 151, 162, 168, 171, 172, 173, 174, 176, 178, 169, 167, 126, 127, 20, 131, 132, 135, 136, 141, 143, 148, 149, 152 and 30 (25 trucks in all).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "There is also a further difference between the schedule to the declarations and injunctions made on 24 October 2018 and the allocation of the trucks in the offer of 2 September 2017 in the sense that the offer document attributes the ownership of the trucks to incorrect respondents in some cases.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Apart from the question of the misallocation of trucks to particular respondents in the offer document, the most significant departure is that 16 trucks recited in the demand for the undertaking were not the subject of any declaration or injunction made by the Court and those 16 trucks at no point formed any part of the applicant’s claim for relief or the subject of claimed contraventions which were the subject of a claim for relief.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "As mentioned above, r 25.14(3) describes the applicant as being “entitled to an order” of the kind described in the rule if an offer is made by an applicant and not accepted by a respondent and the applicant obtains a judgment more favourable than the terms of the offer. The proper approach to the construction and application of r 25.14(3) is put this way by the Court (Allsop CJ, Greenwood, Besanko, Nicholas and Katzmann JJ) in Lodestar Anstalt v Camparis America LLC (No 2) [2016] FCAFC 118 at [23]:\n[I]t is not necessary for the Court to conclude that the respondent’s refusal to accept the offer was unreasonable. If the applicant achieves a judgment more favourable than the offer of compromise, then there is a rebuttable presumption in favour of indemnity costs. The Court is able to exercise the power in r 1.35 to make an order which is inconsistent with the rules and the Full Court in Kooee Communications Pty Ltd v Primus Telecommunications (No 2) [2011] FCAFC 141 at [14] considered that this was equivalent to the “unless the Court otherwise orders” provision in the previous rules.\n[emphasis added]",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Apart from those observations, the Court at [27] said this:\nWe recognise that the power to make an order inconsistent with the Rules should be exercised for proper reasons which will generally only arise in exceptional circumstances (Robinson v Kenny (No 2) [2015] FCA 2 and the cases cited therein).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "The applicant says that it obtained a result which is significantly more favourable than the terms of the offer having regard to the judgment amount of $456,477.00 and the interest component of $271,498.12. The applicant also says that the circumstance that the offer framed an undertaking in relation to 40 trucks but the ultimate declarations and injunctions were concerned with only 25 trucks is not a significant departure from the ultimate result that a conclusion could be reached that the applicant has not obtained a judgment more favourable than the terms of the offer. The applicant contends that having regard to the components of the offer and the determination of loss and damage, it has obtained a judgment more favourable than the terms of the offer of 2 September 2017.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The respondents say that the difference between the total number of trucks the subject of the offer and the number of trucks the subject of the ultimate relief is a material matter because an offer requiring an undertaking addressing 40 trucks (and thus, in effect, a claim for a remedy in relation to 40 trucks) is a very significant matter when 16 of those trucks formed no basis of a claim in fact. In that sense, the offer document contains significant overreach.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Apart from the component of the offer related to the undertaking, the respondents also say that it is important to note that the offer was made on 2 September 2017 well before the applicant had formulated its methodology for the assessment of its loss and damage and thus the respondents were not in a position to form a view about the monetary elements of the offer at the time of the offer, confined as it was to an obligation to accept the offer or not within 14 days. The respondents correctly submit that the lack of particularity in the applicant’s monetary claim was such that the respondents’ monetary liability was difficult to determine at the date of the offer. Ultimately, the applicant was ordered to provide a short statement identifying the methodology for the calculation of the loss and damage the subject of the claim. The respondents also correctly observe that the applicant’s first attempt to formulate a methodology statement did not reflect the pleaded case or the findings made in the lability trial. That objection resulted in an interlocutory judgment on 9 August 2019 by which the applicant was given leave to amend its methodology statement. It is also true to say that the applicant formulated a further two versions of the statement before reaching the final position it asserted before the Court.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "Having regard to all of these considerations, I am not satisfied that the respondents were in a position where they could properly evaluate, within 14 days of 2 September 2017, the offer document put to them and I am satisfied that the difference between the number of trucks forming the basis of the offer document and the number of trucks the subject of the findings is a significant matter.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "However, the trial on the issues of loss and damage occurred from 17 to 19 March 2020. By the time the respondents were preparing for the trial of the issues on loss and damage, they would have been well familiar with the applicant’s methodology statement and would have been in a position to form a view about loss and damage. Accordingly, I propose to exercise the discretion conferred by s 43 of the Federal Court of Australia Act 1976 (Cth) so as to award the costs of the proceeding to the applicant on a party and party basis up to and including Monday, 2 March 2020, and from 3 March 2020 until the date of these orders, on an indemnity basis. As mentioned, I make these orders in reliance upon s 43 which governs the field in seeking to do justice between the parties on the question of costs.",
+    "judge": "GREENWOOD J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding seventeen (17) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Greenwood.",
+ "associate": null,
+ "dated": "2021-12-08",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "QUD 883 of 2016\nRespondents\nSecond Respondent: | WASTELL MILK HAULAGE PTY LTD (ACN 147 389 302)\nThird Respondent: | WADENE PTY LIMITED (ACN 010 248 307)\nFourth Respondent: | JR BULK LIQUID TRANSPORT PTY LTD (ACN 143 639 276)\nFifth Respondent: | JURSS ROBERTSON PTY LTD (ACN 114 767 734)"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "ca13a31b2ddc87e17667c90b25dbe1111fd02261a37ad16a9d4cacf07978fd21",
+ "markdown_file": "data/extracted/2021/2021FCA1546.md"
+}

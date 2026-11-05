@@ -1,0 +1,604 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA1392.docx",
+ "metadata": {
+  "citation": "[2012] FCA 1392",
+  "name": "Australian Competition and Consumer Commission v Cathay Pacific Airways Ltd (No 3)",
+  "court": "FCA",
+  "year": 2012,
+  "number": 1392,
+  "date_of_judgment": "2012-12-06",
+  "file_numbers": [
+   "NSD363/2009"
+  ],
+  "judges": [
+   "KATZMANN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-12-06"
+  ],
+  "hearing_raw": "6 December 2012",
+  "number_of_paragraphs": 45,
+  "catchwords": [
+   "COMPETITION – price-fixing – collusive understandings – respondent admitted to contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – whether contraventions occurred – whether the proposed penalties appropriate – matters relevant to imposition of penalty – admissions not made until a week before hearing– parity with penalties imposed in similar cases"
+  ],
+  "legislation": [
+   "Trade Practices Act 1974 (Cth) 45, 45(2)(a)(ii), 45(2)(b)(ii), 45A, 76, 77"
+  ],
+  "cases_cited": [
+   "Australian Competition & Consumer Commission v Japan Airlines International Co Ltd (2011) ATPR ¶42-352; [2011] FCA 365",
+   "Australian Competition and Consumer Commission v Emirates [2012] FCA 1108",
+   "Australian Competition and Consumer Commission v J McPhee & Son (Australia) Pty Ltd (1998) ATPR ¶41-628; [1998] FCA 310",
+   "Australian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89",
+   "Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79",
+   "J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532.",
+   "Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ATPR ¶41-993; [2004] FCAFC 72",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "CATHAY PACIFIC AIRWAYS LTD (ARBN 000 479 514)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v CATHAY PACIFIC AIRWAYS LTD (ARBN 000 479 514)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O’Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr A P Coleman SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "DLA Piper"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1392",
+  "portal_file_numbers": [
+   "NSD363/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2012-12-06"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Cathay Pacific Airways Ltd [2012] FCA 1392"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v CATHAY PACIFIC AIRWAYS LTD (ARBN 000 479 514)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 363 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "KATZMANN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "6 December 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – price-fixing – collusive understandings – respondent admitted to contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – whether contraventions occurred – whether the proposed penalties appropriate – matters relevant to imposition of penalty – admissions not made until a week before hearing– parity with penalties imposed in similar cases"
+  },
+  {
+   "label": "Legislation",
+   "value": "Trade Practices Act 1974 (Cth) 45, 45(2)(a)(ii), 45(2)(b)(ii), 45A, 76, 77"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition & Consumer Commission v Japan Airlines International Co Ltd (2011) ATPR ¶42-352; [2011] FCA 365\nAustralian Competition and Consumer Commission v Emirates [2012] FCA 1108\nAustralian Competition and Consumer Commission v J McPhee & Son (Australia) Pty Ltd (1998) ATPR ¶41-628; [1998] FCA 310\nAustralian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89\nAustralian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79\nJ McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532.\nMinister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ATPR ¶41-993; [2004] FCAFC 72\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "6 December 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "45"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O’Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr A P Coleman SC"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "DLA Piper"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD363/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "CATHAY PACIFIC AIRWAYS LTD (ARBN 000 479 514)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "KATZMANN J"
+   ],
+   "date": "2012-12-06",
+   "date_raw": "6 DECEMBER 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondent pay the Commonwealth of Australia, within 14 days, a pecuniary penalty in the sum of $7.25 million in respect of contraventions of section 45(2)(a)(ii) and (b)(ii) of the Trade Practices Act 1974 (Cth), now the Competition and Consumer Act 2010 (Cth) (“the Act”) occurring after May 2003, in that:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1 the respondent:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1.1 by about December 2003, reached an understanding with certain of its competitors containing a provision that they would each impose a charge of a specified amount, described as a fuel surcharge, in respect of the carriage of air cargo from Singapore to Australia; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1.2 in about January 2003, reached an understanding with certain of its competitors containing a provision that they would each impose a charge of a specified amount described as an insurance and security surcharge in respect of the carriage of air cargo from Singapore to Australia.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.2 the provisions of the said understandings had the effect of fixing, maintaining or controlling prices for the said services within the meaning of section 45A of the Act and are therefore deemed to substantially lessen competition within the meaning of section 45(2)(a)(ii) and (b )(ii) of the Act; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3 the respondent gave effect to those provisions:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3.1 of the understanding referred to in 1.1.1, from December 2003 to October 2005; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3.2 of the understanding referred to in 1.1.2, from January 2003 to December 2005.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondent pay the Commonwealth of Australia, within 14 days, a pecuniary penalty in the sum of $4 million in respect of an attempted contravention of section 45(2)(a)(ii) of the Act, in that the respondent between on or about 10 September and 19 September 2004, attempted to make an arrangement or arrive at an understanding with Qantas Airways Ltd (“Qantas”) containing a provision that the respondent and Qantas would not undercut the prices offered by the other airline for the supply of air freight services from Hong Kong to Australia.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "BY CONSENT THE COURT ORDERS THAT:",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The respondent be restrained, for a period of five years from the date of this order from attempting to make, making, arriving at, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air, containing provisions which have the effect of fixing, controlling or maintaining the price or any part of the price at which it or any of them will supply those services in competition with each other unless:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.1 the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.2 the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.3 the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.4 the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The respondent be restrained for a period of five years from the date of this order from attempting to enter, entering into, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air containing provisions to the effect that any of them will propose, develop, prepare, follow, implement, adopt or otherwise use any index, model, methodology or formula for the change of prices or any part of prices to be charged by any of them for services provided or which would otherwise likely be provided in competition with any other of them unless:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.1 the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.2 the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.3 the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.4 the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The respondent pay the applicant within 14 days of the date this order is made a contribution towards its costs of and incidental to these proceedings in the sum of $500,000.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth)) (“the Act”) prohibits anti-competitive conduct and provides for the imposition of severe penalties for it. The prohibitions extend to foreign corporations carrying on business in Australia. This case is concerned with one such corporation, the international airline, Cathay Pacific Airways Ltd (“Cathay”), a foreign corporation based in Hong Kong. The conduct to which the case relates is price-fixing, which is deemed by the Act to be anti-competitive."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "On 30 April 2009 the Australian Competition and Consumer Commission (“ACCC”) commenced proceedings seeking penalties against Cathay alleging that it had entered into understandings with its competitors in certain markets to fix surcharges and prices for air freight services in contravention of s 45 of the Act. No fewer than 131 contraventions were originally alleged, which were then reduced to 123 in a 164-page third further amended statement of claim. Cathay is one of several airlines alleged to be part of an international cartel engaged in price-fixing (generally, though not exclusively, involving fuel surcharges) against whom the ACCC has brought proceedings. The ACCC reached agreements with some of the other airlines and orders have been made in those cases, including financial penalties. The first of these concerned the corporation with the highest market share, the national carrier, Qantas, which was fined a total of $20 million in December 2008 (Australian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89)."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Cathay denied many of the allegations made by the ACCC and, in particular, denied it had contravened the Act. A week before the hearing of the ACCC’s case against Cathay and several other airlines was due to start, Cathay admitted to a handful of contraventions of s 45 over a two to three year period. The parties have agreed on the facts that go to support those admissions and upon suitable penalties as well as to various other orders to finalise the proceedings. The agreed penalties total $11.25 million."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "At the time these contraventions took place the maximum penalty per contravention was $10 million (s 76(1A)). As I observed in Australian Competition and Consumer Commission v Emirates [2012] FCA 1108 (“Emirates”) at [34], that speaks to the community’s disdain for collusive conduct of this kind."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Despite the agreement, it is necessary for the Court to satisfy itself that the contraventions have taken place and that the penalties are within the appropriate range. The Court’s power to make an order for a pecuniary penalty is conferred by s 76 of the Act. The exercise of the power depends on the Court being satisfied that the person against whom the penalty is sought has either contravened or attempted to contravene certain provisions of the Act, including s 45. This is a public function, as French J explained in Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79 at [18], in which the Court has a responsibility to safeguard the public interest. For these reasons the Court cannot merely rubber stamp the agreement. It must be independently satisfied that the contraventions have taken place and that the penalties are appropriate. See NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 (“NW Frozen Foods”); Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ATPR ¶41-993; [2004] FCAFC 72 at [51]."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Based on the admissions and agreed facts, I am satisfied that Cathay has engaged in the contravening conduct the subject of the agreement and that the agreed penalties are appropriate."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "It is not necessary to recite all the agreed facts but the following account, derived from the statement of agreed facts prepared by the parties, is useful to understand why I have reached the conclusions I have. I should point out that all admissions have been made pursuant to s 191 of the Evidence Act 1995 (Cth) and have been made for the purpose of this proceeding only."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The first group of contraventions concerns the understanding about fuel surcharges."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "At all relevant times Cathay was a member of the Cargo Sub-Committee of the Singapore Board of Airline Representatives (“Singapore BAR-CSC”). By December 2003 Cathay arrived at an understanding about fuel pricing with certain other airlines who were also members of the sub-committee. All were major carriers on the Singapore–Australia route. The understanding contained provisions to the effect that the parties would attend a meeting to exchange information about their fuel pricing intentions, would charge a surcharge in accordance with their expressed intentions, and, when notified of an increase in the Singapore Airlines fuel surcharge, would increase their fuel surcharges by a substantially similar amount. These provisions had the purpose and likely effect of fixing or maintaining a charge for the carriage of air freight from Singapore to Australia by it and its competitors. Senior cargo employees of Cathay Pacific contacted employees in the freight divisions of other airlines to give and receive assurances that a relevant increase in the surcharge would be mutually imposed on outbound air freight on the route. The purpose and effect of these communications was to ensure that the parties would move to the same or substantially the same amount of surcharge at around the same time. Cathay’s participation was necessary in order to achieve the intended effect. Cathay gave effect to the understanding during the period from December 2003 to October 2005. Some detail is instructive."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Between December 2003 and October 2004 three meetings of the Singapore BAR-CSC took place. At the first, which was held on 8 December 2003, Singapore Airlines advised each of the other airlines present that, effective 23 December 2003 it proposed to increase its fuel surcharge to SGD 0.25 per kg on the supply of air freight services from Singapore to American, European, African and North Asian ports (“the first group of destinations”) and SGD 0.20 per kg on the supply of air freight services from Singapore to certain Asian and Pacific routes including Australia (“the second group of destinations”). 11 other international airlines were present at that meeting. The participants at the meeting resolved to send a survey to all members detailing their current and proposed fuel surcharges including implementations for the increase which would then be disseminated. Three of the airlines present (Singapore, Japan and China Airlines) agreed to apply the full surcharge of SGD 0.25 per kg for North Asia. All these matters were noted in the minutes of the meeting. The surveys were then circulated and the completed surveys were distributed by Singapore Airlines to the other members of the Singapore BAR-CSC, including Cathay, via email on 29 December 2003."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "On 9 December 2003, the day after the meeting, Singapore Airlines announced its fuel surcharge increases effective 23 December 2003 from which time until about 11 May 2004 it imposed them."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Cathay was not present at the 8 December meeting but, like other members who did not attend, it was sent a copy of the minutes of the meeting and by about 11 December 2003 it was aware of the agreement reached at the meeting and of Singapore Airlines’s intention to conduct the survey and circulate the information to other members of the Singapore BAR-CSC. On or about 12 December 2003 Cathay announced that, effective 1 January 2004 it would increase its fuel surcharge to SGD 0.25 per kg on the supply of air freight from Singapore to the first group of destinations and to SGD 0.15 per kg on the supply of air freight services to the second group of destinations, being the same routes affected by the Singapore Airlines fuel surcharge increases. The new fuel surcharges were imposed from about 1 January 2004 to on or about 15 May 2004."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The second relevant meeting of the Singapore BAR-CSC took place on 28 April 2004. At this meeting Singapore Airlines advised it would increase its fuel surcharge on the supply of air freight services from Singapore to the first group of destinations to SGD 0.35 per kg. Other international airlines present advised they would implement the new fuel surcharges. Two stated they would get internal clearance before doing so. Informal minutes of the meeting were circulated by Singapore Airlines to members the same day. Once again, Cathay was not present at the meeting but received a copy of the minutes. Singapore Airlines also announced the proposed increases that day, effective 12 May 2004 and the new prices were imposed from then until on or about 10 October 2004."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Two days after the meeting, on 30 April 2004, Cathay announced that, effective 16 May 2004, it, too, would increase its fuel surcharge on the supply of air freight services from Singapore to the first group of destinations to SGD 0.35 per kg. It also announced that it would raise its fuel surcharge on the supply of air freight services from Singapore to the second group of destinations to SGD 0.20 per kg, the same amount charged by Singapore. Those charges were levied from 16 May 2004 to on or about 15 October 2004."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The third relevant meeting took place on 24 September 2004. At this meeting Singapore Airlines announced it proposed to increase its fuel surcharges effective 11 October 2004 to SGD 0.50 per kg on the supply of air freight services from Singapore to the first group of destinations and to SGD 0.25 per kg on the supply of air freight services from Singapore to the second group of destinations. Cathay attended this meeting and declared that it would follow suit. Singapore Airlines circulated minutes of the meeting to other members of the Singapore BAR-CSC. Three days later, on 27 September 2004, Singapore Airlines announced its new fuel surcharges and three days after that, on 30 September 2004, Cathay made its announcement. The day Singapore made its announcement it confirmed by email to the other members of the Singapore BAR-CSC that it would do so, circulated the results of a survey of fuel surcharge sums to be charged by other international airlines including Cathay and implementation dates. Singapore Airlines’s new fuel surcharges were imposed from on or about 11 October 2004 until on or about 4 November 2004. Cathay’s surcharges were imposed from on or about 16 October 2004 to on or about 15 November 2004."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The second group of contraventions concerns insurance and security surcharges (“IS surcharges”)."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "On or about 23 January 2003 Cathay arrived at an understanding with other international airlines not to discount the IS surcharges imposed on the carriage of air freight from Singapore to Australia. An application for the recovery of civil penalties for that conduct, itself, is statute-barred under s 77 of the Act, which only permits the institution of proceedings for the recovery of civil penalties within six years of a contravention. What matters for present purposes is that within that six year period (between May 2003 until no later than December 2005 in fact) Cathay gave effect to that understanding."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The final contravention concerns an attempt to reach an understanding with Qantas about freight charges."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "In or about August 2004 Qantas introduced a weekly dedicated 747 freighter into the Hong Kong–Australia market in which Cathay operated its own weekly freighter service. These freighters had a capacity for about 120 tonnes of cargo. Both airlines also carried freight to Australia from Hong Kong on their passenger services. In order to fill its freighters Qantas was pricing at approximately HKD 16 per kg, four dollars cheaper than Cathay."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "On 10 September 2004 Bruce Yau, Cathay Pacific’s Assistant Manager for Cargo Sales in Hong Kong for the South West Pacific spoke to Johnny Ho of Qantas at the request of Mr Yau’s manager, Tom Wong. Mr Wong was Cathay’s Manager of Cargo Sales and Development for Hong Kong and China. Mr Yau told Mr Ho that the prices Qantas offered for the supply of air cargo services from Hong Kong to Australia were substantially below Cathay Pacific’s prices. Mr Yau asked Mr Ho to have Qantas increase its prices by 25%. A 25% price increase would have resulted in Qantas increasing its prices by about HKD 480,000 (or over AUD 80,000) per week if the Qantas freighter was fully loaded with cargo. Mr Ho replied that pricing was beyond his control since the Singapore regional office controlled the selling rates out of Hong Kong."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Mr Yau and Mr Ho then unsuccessfully tried to arrange a meeting between Mr Wong and Harold Pang, a representative from Qantas’s Singapore office who was responsible for the pricing of air cargo services from Hong Kong."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Three days later Mr Wong made the same request to Freddi Li of Qantas. Mr Li did not then agree but said he would follow the matter up with Mr Ho."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "On 16 September 2004 Mr Yau emailed Mr Pang to arrange a meeting between Mr Pang and Mr Wong to be held on the morning of 21 September 2004. Mr Pang replied the next day, advising that he would be available. Mr Wong replied on 19 September 2004 stating he could not make the meeting but that nonetheless he hoped that “in the meantime (scil.) [they] could work toward stabilising (scil.) the market for hkg-aust routes”."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "The meeting never came to pass and the foreshadowed understanding or arrangement was never reached or entered into."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Cathay admits, however, that by reason of the above matters, between about 10 September 2004 and 19 September 2004 it attempted to make an arrangement or arrive at an understanding with Qantas with a provision that Cathay Pacific and Qantas would not undercut the prices offered by the other airline for the supply of air freight services on the route from Hong Kong to Australia which provision would have had the likely effect of fixing, controlling or maintaining the prices of both Qantas and Cathay Pacific for the carriage of freight by air to Australia."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Section 45(2)(a)(ii) of the Act prohibits a corporation (defined in s 4 to include a foreign corporation) from making a contract or arrangement or arriving at an understanding which includes a provision the purpose or likely effect of which is to substantially lessen competition and s 45(2)(b)(ii) prohibits giving effect to such a provision. At the relevant time, s 45A of the Act deemed a provision in a contract, arrangement or understanding made with the purpose or likely effect of fixing, controlling or maintaining a price for services to have the purpose or likely effect of substantially lessening competition."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "“Competition” is defined in s 45(3) for the purposes of the section (and s 45A) as competition in any market in which a company party to the contract, arrangement or understanding supplies or acquires or is likely to supply or acquire goods or services or would be likely to do so but for the provision. “Market” is defined in s 4E for relevant purposes as a market in Australia and includes a market for goods or services and other goods or services that may be substituted for, or are otherwise competitive with, them. For the purpose of this proceeding the parties accept that the relevant markets were the transport of freight by air from Singapore to Australia (the Singapore–Australia market) and the transport of freight by air from Hong Kong to Australia (the Hong Kong–Australia market) and that these markets satisfy the statutory definition."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "Cathay admits that in arriving at and/or giving effect to the Singapore Understandings it contravened s 45 of the Act in relation to the fuel surcharge, from in or about December 2003 to October 2005 and, in relation to the IS surcharge, from in or about 23 January 2003 to no later than December 2005. It also admits that in attempting to arrive at the Hong Kong Rates Understanding with Qantas it attempted to contravene s 45 between about 10 September an 19 September 2004."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The contravening conduct"
+    ],
+    "text": "For all these reasons I am satisfied that Cathay has contravened, and attempted to contravene, s 45 in the relevant respects. The remaining question is whether the penalties agreed between the parties are appropriate."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Section 76 directs the Court to have regard to all relevant matters in determining penalty including the nature and extent of the act or omission and of any loss or damage suffered as a result of it, the circumstances in which it took place, and whether the respondent has previously been found by the Court in proceedings under Part VI or Part XIB of the Act to have engaged in similar conduct. It is well established that the following additional considerations are also relevant:\n• whether the conduct was intentional, deliberate, systematic or covert;\n• whether senior management were involved;\n• the period over which the conduct took place;\n• the need to deter the company and others from engaging in conduct of this kind.\n• the degree of power that the contravening company has in the relevant market, as evidenced by its market share and ease of entry into the market;\n• the economic effects of the conduct including its effects on the operation of the relevant market;\n• the size and financial position of the contravening company;\n• whether the company has a corporate culture conducive to compliance with the Act;\n• whether the company has shown disposition to cooperate with the regulator;\nSee NW Frozen Foods 71 FCR 285 at 292 and J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Cathay’s conduct occurred against a background of collusive behaviour in the international airline freight trade that began in 1997 after a substantial rise in the global price of aviation fuel which prompted Lufthansa to levy a “fuel surcharge” across its entire route network. Members of the peak airline industry body, the International Air Transport Association (“IATA”), then resolved to prepare and publish a fuel price index. Cathay was a member of IATA at the time. The fuel price index measured movements in the price of aviation fuel and provided a methodology for the calculation of a fuel surcharge calculated by volume of air freight which it was envisaged members would impose. But IATA advised its members not to impose the surcharge until the resolution (Resolution 116ss) had received regulatory approval including from the United States Department of Transportation. When the US Department of Transportation refused approval in March 2000, IATA stopped publishing its fuel price index and the following month it sent a memorandum to the members of the Cargo Tariff Coordinating Conferences, including Cathay, advising them that “the requisite government approvals” had not been received and that circulation of the index would be discontinued. A week later, on 14 April 2000, IATA sent a second memorandum to members of the IATA Cargo Committee, again including Cathay, which, amongst other things, stated that its legal advisors were strongly of the view that IATA members could be exposed to “serious antitrust liability” if the index continued to be published and “affirmatively” advised against taking such action. It explained that the Department of Transportation had found Resolution 116ss to be “adverse to the public interest and in violation of the law”. It continued:\nIf the carriers were to co-ordinate pricing by reference to the Index, whether pursuant to this disapproved Resolution or simply through de facto parallel pricing actions, that could be regarded as an illegal conspiracy in violation of applicable Competition laws…"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Nevertheless, Lufthansa started publishing its own fuel price index which effectively replicated the IATA fuel price index and Lufthansa and several other airlines announced and charged fuel surcharges based on Lufthansa’s methodology. Movements in the Lufthansa price index were monitored by other airlines and in Singapore served as a trigger for the meetings and discussions that led to the Singapore Understandings."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Cathay accepts that the contraventions are very serious, indeed, amongst the most serious. The conduct in each case was intentional and systematic, deliberately designed to prevent competition and maintain prices on the subject routes. Senior management were involved."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "The contraventions involved in the Singapore Understandings extended over a period of nearly two years in the case of the fuel surcharges and about two years and seven months in the case of the IS surcharges (ignoring the conduct before the period of limitation began to run on 30 April 2003). In contrast, the conduct involved in the Hong Kong attempt occurred over a ten-day period. Unlike the Singapore Understandings, however, the admitted conduct was an attempt to fix the entire price on the supply of air cargo services on the route in question. Had the attempt been successful the parties agree that (as long as it lasted) it would have had a very significant impact on competition. Freight costs would have increased substantially or the opportunity would have been lost to import new goods into Australia, as higher transport prices would have made importing them uneconomical. On the other hand, any such agreement may have been short-lived or artificially high prices encouraged other companies to put freighters on the route and undermine the arrangement."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Cathay is a significant supplier of aviation services, employing in 2004 nearly 8,000 flight and nearly 7,500 non-flight staff in locations around the world and offering scheduled cargo and passenger services to 92 international destinations including Australia. At that time Cathay was responsible for the carriage of about 8% of air freight to and from Australia (based on weight). In the Singapore-Australia market, Cathay competitors included other major international carriers. Cathay had a large share of the Hong Kong-Australia market and “substantial influence” in dealings with other carriers but insufficient market power to force its proposed arrangement on Qantas. In the 2004 calendar year the Cathay Pacific Group had net assets of HKD 32.919 billion (USD 4.229 billion), a total turnover of HKD 42.761 billion (USD 5.482 billion) and net after-tax profit of HKD 4.516 million (USD 579 million). In the following year the figures had reduced somewhat but the net after-tax profit was still a very substantial HKD 3.468 billion or USD 445 million."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "The revenue generated by other carriers from surcharges on cargo from Singapore to Australia including the major carriers party to the arrangement, during the period for which penalty is to be assessed, was in the order of $8.5 million. The only thing I have been told about the revenue generated by Cathay from such surcharges is that it was “insignificant”. Still, the Singapore Understandings required Cathay’s participation to be effective."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "In relation to fuel surcharges, I was informed that the revenue derived from them does not show the actual loss to shippers or their customers but that without the understandings there would have been some price increases to cover the increased costs of fuel over the relevant period. I was also informed that the fuel surcharges may have forced some airlines out of some routes, allowing the remaining carriers operating on those routes to impose other increases with less constraint. These competitive outcomes cannot be known."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Nor is there any evidence of the proportion of the fuel surcharge that was ultimately borne by any particular consumer or business in Australia. But the parties jointly submitted that, as a general rule, the ultimate consumer will bear most if not all transport costs, in the price paid for the cargo and some of the costs may be absorbed by others in the supply chain like the wholesaler or retailer, both here and overseas."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "I was given no information about Cathay’s trade practices compliance policies at the time the contravening conduct occurred but it is self-evident that whatever policies Cathay may have had they were ineffective to prevent the conduct occurring or, it would seem, to inhibit the behaviour of senior management. Subsequently, I was told, Cathay has enhanced its training program for its employees around the world concerning competition and anti-trust laws, though in what way and with what potential impact is a complete mystery."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "Still, I take into account in Cathay’s favour the fact that it has not previously been found to have contravened the Act. Furthermore, Cathay must be given credit for making the admissions and agreeing with the ACCC on penalties. Cathay’s cooperation has saved the regulator and the Court and therefore ultimately the community the cost and other burdens of litigating a complex, lengthy and expensive case. I also note that the ACCC accepts that Cathay’s responses to the notices issued to Cathay for the provision of information pursuant to s 155 of the Act were “extremely full, frank and carefully prepared, in marked contrast with a number of other airlines against whom proceedings have been taken in respect of the air cargo cartel”, which was of great assistance to the regulator in the course of its investigation."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "These matters entitle Cathay to some leniency, although not as much as would be afforded if it had reached agreement at a much earlier point in time."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "With respect to the Singapore Understandings the parties have agreed on an overall penalty of $7.25 million, with respect to the Hong Kong attempt, $4 million. These are hefty sums, particularly for a first offender, but I do not consider them oppressive, nor outside the appropriate range. Rather, they reflect the importance that must be given to both general and specific deterrence. As Heerey J explained in Australian Competition and Consumer Commission v J McPhee & Son (Australia) Pty Ltd (1998) ATPR ¶41-628; [1998] FCA 310 at 40,891–2:\nThis form of contravention commonly occurs in secret and between parties who seek a mutual benefit. The risk of detection is often low and the potential gain to the contravenors, and damage to the community, large. Therefore the penalty needs to be correspondingly high."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "That brings me to the question of parity."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "I have had regard to the penalties ordered in the other airline cartel cases and especially to Australian Competition & Consumer Commission v Japan Airlines International Co Ltd (2011) ATPR ¶42-352; [2011] FCA 365 (“the JAL case”), which was exclusively concerned with the Singapore Understandings. Penalties totalling $5.5 million were imposed in that case. There, as here, four contraventions were involved relating to fuel and IS surcharges. The fuel surcharge periods were comparable. The IS surcharge period, however, was nearly twice as long (one year and five months in the case of JAL and two years and seven months in the case of Cathay). Cathay’s share of the Australian market (by weight) was significantly higher (8% as opposed to about 2%). But the most significant difference is in the levels of assistance and cooperation provided by the two corporations. In particular, the admissions of contravening conduct in the JAL case were made at a much earlier stage in the proceedings, indeed, before a defence had been filed, with a corresponding substantially higher saving of costs and resources. In contrast, Cathay only made admissions a week out from the hearing. The $5.5 million figure reflected a 20% discount for cooperation. The figure proposed in this case incorporates a discount of approximately 10% from a higher base line to reflect at least in part, no doubt, Cathay’s higher market share. There is no true comparison with the conduct involved in the Hong Kong attempt."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "The penalties"
+    ],
+    "text": "The parties also agree on injunctive relief and about costs and, having now heard from counsel, I am satisfied that both injunctions serve a useful purpose and am content to make all the additional orders sought."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-five (45) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Katzmann.",
+ "associate": null,
+ "dated": "2012-12-06",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c55ae22128ce634fb8422a24f5c211e2f5ada5c34a483658eeb893a19d34f33c",
+ "markdown_file": "data/extracted/2012/2012FCA1392.md"
+}

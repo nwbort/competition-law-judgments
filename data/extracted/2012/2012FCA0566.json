@@ -1,0 +1,264 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA0566.docx",
+ "metadata": {
+  "citation": "[2012] FCA 566",
+  "name": "THE AUSTRALIAN GAS LIGHT COMPANY v AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+  "court": "FCA",
+  "year": 2012,
+  "number": 566,
+  "date_of_judgment": "2012-05-30",
+  "file_numbers": [
+   "VID880/2003"
+  ],
+  "judges": [
+   "GRIFFITHS J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "No Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-05-30"
+  ],
+  "hearing_raw": "30 May 2012",
+  "number_of_paragraphs": 16,
+  "parties": [
+   {
+    "name": "THE AUSTRALIAN GAS LIGHT COMPANY ACN 052 167 405",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "First Respondent"
+   },
+   {
+    "name": "GREAT ENERGY ALLIANCE CORPORATION PTY LTD ACN 105 266 028",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "GEAC OPERATIONS PTY LTD ACN 105 367 888",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "AGL ENERGY LIMITED ACN 115 061 375",
+    "role": "Fourth Respondent"
+   }
+  ],
+  "parties_summary": "THE AUSTRALIAN GAS LIGHT COMPANY ACN 052 167 405 v AUSTRALIAN COMPETITION AND CONSUMER COMMISSION, AGL ENERGY LIMITED ACN 115 061 375, GEAC OPERATIONS PTY LTD ACN 105 367 888 and GREAT ENERGY ALLIANCE CORPORATION PTY LTD ACN 105 266 028",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr C A Moore SC and Mr D Roche"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr D O'Donovan"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0566",
+  "portal_file_numbers": [
+   "VID880/2003"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2012-05-30"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "The Australian Gas Light Company v Australian Competition and Consumer Commission [2012] FCA 566"
+  },
+  {
+   "label": "Parties",
+   "value": "THE AUSTRALIAN GAS LIGHT COMPANY ACN 052 167 405 v AUSTRALIAN COMPETITION AND CONSUMER COMMISSION, AGL ENERGY LIMITED ACN 115 061 375, GEAC OPERATIONS PTY LTD ACN 105 367 888 and GREAT ENERGY ALLIANCE CORPORATION PTY LTD ACN 105 266 028"
+  },
+  {
+   "label": "File number",
+   "value": "VID 880 of 2003"
+  },
+  {
+   "label": "Judge",
+   "value": "GRIFFITHS J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "30 May 2012"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "30 May 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "No Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "16"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr C A Moore SC and Mr D Roche"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr D O'Donovan"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID880/2003",
+   "parties": [
+    {
+     "name": "THE AUSTRALIAN GAS LIGHT COMPANY ACN 052 167 405",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "First Respondent"
+    },
+    {
+     "name": "GREAT ENERGY ALLIANCE CORPORATION PTY LTD ACN 105 266 028",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "GEAC OPERATIONS PTY LTD ACN 105 367 888",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "AGL ENERGY LIMITED ACN 115 061 375",
+     "role": "Fourth Respondent"
+    }
+   ],
+   "judges": [
+    "GRIFFITHS J"
+   ],
+   "date": "2012-05-30",
+   "date_raw": "30 May 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The undertaking provided by the fourth respondent, AGL Energy Limited, to the Court and dated 4 October 2006 be discharged with effect from 22 June 2012.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "There be no order as to costs.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "AGL Energy Limited (AGL Energy) is the fourth respondent in these proceedings. It moves on an interlocutory application which seeks the discharge of an undertaking which AGL Energy gave to the Court on 4 October 2006. The second and third respondents in the proceedings consent to an order being made discharging AGL Energy. The ACCC, which is the first respondent, does not oppose the order. The attitude of the applicant is not known. I was informed from the bar table that it had been made aware of the interlocutory application and invited to express its attitude, but to date had not done so."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "It is appropriate that I provide brief reasons for my decision to make that order."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The background to the application is set out in an affidavit affirmed by Liza Windel Carver on 25 May 2012. AGL Energy also relied on a further affidavit of Ms Carver affirmed 29 May 2012 which clarifies who were the parties to the proceedings the subject of certain orders made by the Court on 17 December 2007."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Ms Carver’s first affidavit sets out the history to the matter. In brief terms, the proceedings originated on 15 September 2003 when the applicant, The Australian Gas Light Company (ACN 052 167 405) (AGL) commenced proceedings seeking declarations to the effect that certain transactions would not offend s 50 of the Trade Practices Act 1974 (Cth) (TPA). Subsequently AGL changed its name to Jemena Limited (but for convenience I will continue to refer to it as AGL)."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "On 19 December 2003, Justice French granted the declarations sought, subject to AGL giving an undertaking to the Court in the form prescribed in the Court’s reasons for decision. Those reasons are reported as The Australian Gas Light Company v The Australian Competition and Consumer Commission & Others (2003) 137 FCR 317."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "On 23 December 2003, AGL provided an undertaking to the Court in the form prescribed by the Court. In early 2004, a consortium comprising AGL and certain other parties acquired the Loy Yang Business from the Loy Yang Partnership. Consequently, AGL held a 32.54% economic interest in Great Energy Alliance Corporation Pty Limited (GEAC), which in turn owned and operated the Loy Yang Business."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "On 31 October 2005, AGL announced a proposed demerger. On 7 February 2006, AGL commenced proceedings in this Court to facilitate the requisite approval for the proposed demerger."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "On 10 February 2006, the Court made orders by consent. The orders provided inter alia for a discharge of the earlier undertaking given by AGL subject to two conditions. The first was that a scheme of arrangement the subject of then pending proceedings in the Court came into effect. The second was that AGL Energy provide a similar undertaking to the Court as given by AGL in the original undertaking."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "As events occurred, the demerger did not proceed and no substitute undertaking was filed with the Court. On 14 March 2006 Justice Emmett made an order providing that the orders made on 10 February 2006 be revoked."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "In April 2006 AGL and Alinta Limited announced that they would implement a major restructure. As part of that proposed restructure, AGL applied to the Court in 2006 seeking approval of a scheme of arrangement."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "As part of the restructure, AGL Energy (the fourth respondent) acquired the interests in GEAC which had originally been held by AGL. In order to preserve the effect of the original Court undertaking in relation to the entity which would retain the economic interest in the Loy Yang Business, it was necessary for AGL Energy to provide an undertaking to the Court in substantially the same terms as those originally provided by AGL and for AGL to be released from its original undertaking. Those matters were given effect to by consent orders made by Justice French on 27 September 2006. Following the restructure, and in compliance with Justice French’s orders, AGL Energy provided a signed undertaking to the Court on 4 October 2006. That substitute undertaking was accepted by the Court and AGL’s original undertaking was discharged. It is that substitute undertaking which is the subject of the current interlocutory application by AGL Energy."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Under that substitute undertaking, AGL Energy gave various undertakings, including relevantly to the effect that:\n(a) AGL Energy’s combined economic interest in the Loy Yang Power Business and the assets of the business would not exceed 35%; and\n(b) AGL Energy would not have any involvement in the dispatch and marketing activities of the Loy Yang Power Business (subject to some limited exceptions), and from having any economic interest in the company which conducts the dispatch and marketing activities of the Loy Yang Power Business."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "On 24 February 2012 AGL Energy announced that it proposed to acquire the balance of the interests in the Loy Yang Business. On that day it entered into a Sale and Purchase Agreement with various other parties. Pursuant to that agreement, a wholly-owned subsidiary of AGL Energy has agreed to buy (with AGL Energy acting as its guarantor), and the other parties to the agreement have agreed to sell to that subsidiary, various ordinary shares and loan notes."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The discharge of the subsequent undertaking given by AGL Energy will satisfy what is described as possibly the final condition precedent to the completion of the proposed acquisition described above."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "On 20 December 2011, AGL Energy sought clearance from the ACCC of that proposed acquisition. After making various inquiries over the ensuing five months, the ACCC advised by letter dated 24 May 2012 that it did not oppose the proposed acquisition. By a press release dated 24 May 2012, the ACCC stated that, in its view, the proposed acquisition is not likely to have the effect of substantially lessening competition in the relevant markets. It arrived at that conclusion after carrying out what it described as a comprehensive review, including extensive inquiries with a range of interested parties, including competing retailers, generators and prospective new entrants. It said it did not object to the subsequent undertaking being discharged."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "Having regard to all these matters, and also the attitude of the other respondents to the matter and also noting that, while AGL’s attitude is unknown, it does not appear to have a direct interest in this interlocutory application, I make the following orders:\n1. The undertaking provided by the fourth respondent, AGL Energy Limited, to the Court and dated 4 October 2006 be discharged with effect from 22 June 2012.\n2. There be no order as to costs."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Griffiths.",
+ "associate": null,
+ "dated": "2012-05-31",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "3cc15d66c44c7da921b66171edfaf4e9cb27fd5f0a34fd41b069284f6287738e",
+ "markdown_file": "data/extracted/2012/2012FCA0566.md"
+}

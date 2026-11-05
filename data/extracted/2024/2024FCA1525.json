@@ -1,0 +1,696 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2024/2024FCA1525.docx",
+ "metadata": {
+  "citation": "[2024] FCA 1525",
+  "name": "Fenton v Monsanto Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2024,
+  "number": 1525,
+  "date_of_judgment": "2024-12-24",
+  "file_numbers": [
+   "NSD1971/2019",
+   "VID255/2020",
+   "VID256/2020",
+   "VID257/2020"
+  ],
+  "judges": [
+   "LEE J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_dates": [
+   "2024-12-24"
+  ],
+  "hearing_raw": "24 December 2024",
+  "number_of_paragraphs": 41,
+  "catchwords": [
+   "REPRSENTATIVE PROCEEDINGS – discontinuance and dismissal – where applicant in duplicative representative proceeding unsuccessful in initial trial concerning the alleged carcinogenic effects of Roundup – where applicant seeks leave to discontinue the proceeding – where respondent seeks terms on discontinuance – whether discontinuance fair and reasonable and in the interests of group members – observations as to the difference between discontinuance and dismissal – necessity of a limitation period order – observations as to meaning of “determined” – where discontinuance fair and reasonable – where no order as to costs – discontinuance approved – orders made"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) Pts IVA, VB; ss 33J, 33N(1), 33V(1), 33X, 33ZF, 33ZG, 43",
+   "Federal Court Rules 2011 (Cth) rr 26.12, 26.12(2)",
+   "District Court Act 1973 (NSW)"
+  ],
+  "cases_cited": [
+   "Davaria Pty Limited v 7-Eleven Stores Pty Ltd [2020] FCA 1234",
+   "McNickle v Huntsman Chemical Company Australia Pty Ltd (Initial Trial) [2024] FCA 807",
+   "Moira Shire Council v JLT Risk Solutions [2024] VSC 4",
+   "Patton v Buchanan Borehole Collieries Pty Ltd (1993) 178 CLR 14",
+   "R&B Investments Pty Ltd (Trustee) v Blue Sky Alternative Investments Limited (Administrators Appointed) (in liq) (Carriage Application) [2022] FCA 1444",
+   "Turner v TESA [2022] FCA 435; (2022) 314 IR 214",
+   "UBS AG v Tyne [2018] HCA 45; (2018) 265 CLR 77",
+   "Wotton v State of Queensland [2009] FCA 758; (2009) 109 ALD 534",
+   "Wreck Bay Aboriginal Community Council v Commonwealth of Australia (No 2) [2023] FCA 811"
+  ],
+  "parties": [
+   {
+    "name": "JOHN FENTON",
+    "role": "Applicant"
+   },
+   {
+    "name": "MONSANTO AUSTRALIA PTY LTD (ACN 006 725 560)",
+    "role": "Respondent"
+   },
+   {
+    "name": "MICHAEL OGLIAROLO",
+    "role": "Applicant"
+   },
+   {
+    "name": "FERDINANDO MAISANO",
+    "role": "Applicant"
+   },
+   {
+    "name": "ROSS WILD",
+    "role": "Applicant"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the applicant in NSD 1971 of 2019",
+    "name": "Mr G Drew"
+   },
+   {
+    "role": "solicitor",
+    "for": "the applicant in NSD 1971 of 2019",
+    "name": "LHD Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the applicants in VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+    "name": "Mr D Dealehr"
+   },
+   {
+    "role": "solicitor",
+    "for": "the applicants in VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+    "name": "Carbone Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the respondent in NSD 1971 of 2019, VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+    "name": "Mr S Finch SC with Mr D Habashy"
+   },
+   {
+    "role": "solicitor",
+    "for": "the respondent in NSD 1971 of 2019, VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+    "name": "Herbert Smith Freehills"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2024/2024fca1525",
+  "portal_file_numbers": [
+   "NSD1971/2019"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2024-12-24"
+ },
+ "cover_sheet": [
+  {
+   "label": "File numbers",
+   "value": "NSD 1971 of 2019\nVID 255 of 2020\nVID 256 of 2020\nVID 257 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "LEE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "24 December 2024"
+  },
+  {
+   "label": "Catchwords",
+   "value": "REPRSENTATIVE PROCEEDINGS – discontinuance and dismissal – where applicant in duplicative representative proceeding unsuccessful in initial trial concerning the alleged carcinogenic effects of Roundup – where applicant seeks leave to discontinue the proceeding – where respondent seeks terms on discontinuance – whether discontinuance fair and reasonable and in the interests of group members – observations as to the difference between discontinuance and dismissal – necessity of a limitation period order – observations as to meaning of “determined” – where discontinuance fair and reasonable – where no order as to costs – discontinuance approved – orders made"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) Pts IVA, VB; ss 33J, 33N(1), 33V(1), 33X, 33ZF, 33ZG, 43\nFederal Court Rules 2011 (Cth) rr 26.12, 26.12(2)\nDistrict Court Act 1973 (NSW)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Davaria Pty Limited v 7-Eleven Stores Pty Ltd [2020] FCA 1234\nMcNickle v Huntsman Chemical Company Australia Pty Ltd (Initial Trial) [2024] FCA 807\nMoira Shire Council v JLT Risk Solutions [2024] VSC 4\nPatton v Buchanan Borehole Collieries Pty Ltd (1993) 178 CLR 14\nR&B Investments Pty Ltd (Trustee) v Blue Sky Alternative Investments Limited (Administrators Appointed) (in liq) (Carriage Application) [2022] FCA 1444\nTurner v TESA [2022] FCA 435; (2022) 314 IR 214\nUBS AG v Tyne [2018] HCA 45; (2018) 265 CLR 77\nWotton v State of Queensland [2009] FCA 758; (2009) 109 ALD 534\nWreck Bay Aboriginal Community Council v Commonwealth of Australia (No 2) [2023] FCA 811"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "41"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "24 December 2024"
+  },
+  {
+   "label": "Counsel for the applicant in NSD 1971 of 2019",
+   "value": "Mr G Drew"
+  },
+  {
+   "label": "Solicitor for the applicant in NSD 1971 of 2019",
+   "value": "LHD Lawyers"
+  },
+  {
+   "label": "Counsel for the applicants in VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+   "value": "Mr D Dealehr"
+  },
+  {
+   "label": "Solicitor for the applicants in VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+   "value": "Carbone Lawyers"
+  },
+  {
+   "label": "Counsel for the respondent in NSD 1971 of 2019, VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+   "value": "Mr S Finch SC with Mr D Habashy"
+  },
+  {
+   "label": "Solicitor for the respondent in NSD 1971 of 2019, VID 255 of 2020, VID 256 of 2020 and VID 257 of 2020",
+   "value": "Herbert Smith Freehills"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1971/2019",
+   "parties": [
+    {
+     "name": "JOHN FENTON",
+     "role": "Applicant"
+    },
+    {
+     "name": "MONSANTO AUSTRALIA PTY LTD (ACN 006 725 560)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2024-12-24",
+   "date_raw": "24 DECEMBER 2024",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to s 33V(1) of the Federal Court of Australia Act 1976 (Cth) (FCA Act), leave be granted to discontinue this proceeding.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Pursuant to s 33ZF of the FCA Act, any limitation period that applies to the claim of a group member begins to run again to the date 60 dates after the date of these orders.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "There be no order as to costs of the proceeding.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "ORDERS"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "VID255/2020",
+   "parties": [
+    {
+     "name": "MICHAEL OGLIAROLO",
+     "role": "Applicant"
+    },
+    {
+     "name": "MONSANTO AUSTRALIA PTY LTD (ACN 006 725 560)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2024-12-24",
+   "date_raw": "24 DECEMBER 2024",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The proceeding be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "There be no order as to costs and all costs outstanding orders be vacated.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Liberty be reserved for Mr Ogliarolo to make an application to vacate these orders on or by 31 March 2025.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Orders 1 and 2 above have no effect until 4pm on 1 April 2025.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:",
+    "AND THE COURT DIRECTS THAT:",
+    "ORDERS"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "VID256/2020",
+   "parties": [
+    {
+     "name": "FERDINANDO MAISANO",
+     "role": "Applicant"
+    },
+    {
+     "name": "MONSANTO AUSTRALIA PTY LTD (ACN 006 725 560)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2024-12-24",
+   "date_raw": "24 DECEMBER 2024",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The proceeding be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "There be no order as to costs and all outstanding costs orders be vacated.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The parties have entered into a deed of release dated 12 December 2024.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:",
+    "AND THE COURT NOTES THAT:",
+    "ORDERS"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "VID257/2020",
+   "parties": [
+    {
+     "name": "ROSS WILD",
+     "role": "Applicant"
+    },
+    {
+     "name": "MONSANTO AUSTRALIA PTY LTD (ACN 006 725 560)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2024-12-24",
+   "date_raw": "24 DECEMBER 2024",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The proceeding be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "There be no order as to costs and all outstanding costs orders be vacated.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The parties have entered into a deed of release dated 12 December 2024.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:",
+    "AND THE COURT NOTES THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "Before the Court are four proceedings which were stayed pending the initial trial and delivery of judgment in the class action the subject of my reasons in McNickle v Huntsman Chemical Company Australia Pty Ltd (Initial Trial) [2024] FCA 807 (McNickle proceeding).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "The order of the Court made on 25 July 2024 in the McNickle proceeding was to resolve the “Central Common Question”, which was as follows (Order 2):\nThroughout the period between July 1976 and 19 October 2020 (relevant period), did or could use of and/or exposure to the herbicide product or products, which contained glyphosate and were branded as “Roundup”, or which contained glyphosate and were otherwise branded with the name “Monsanto” (Roundup Products) increase an individual’s risk of developing non-Hodgkin lymphoma (NHL); and/or cause an individual to develop NHL?",
+    "judge": "LEE J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "The Central Common Question was answered as follows (Order 3):\nIt is not proven in this proceeding on the balance of probabilities (in accordance with s 140(1) of the Evidence Act 1995 (Cth)), that throughout the relevant period, use of and/or exposure to Roundup Products increased an individual’s risk of developing NHL; and/or caused an individual to develop NHL.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "As a consequence of those orders, three of the inter partes proceedings (that is, VID 255 of 2020 (Ogliarolo proceeding); VID 256 of 2020 (Maisano proceeding); and VID 257 of 2020 (Wild proceeding)) have been dismissed by consent and no order is to be made as to costs in relation to those proceedings (subject to a complication in respect of one of the proceedings, which does require further elaboration).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "This leaves what has been described as the Fenton proceeding (NSD 1971 of 2019).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "Mr Fenton was a heavy user of Roundup between 2000 and 2008. He was diagnosed with non-Hodgkin lymphoma (NHL) in 2008. In November 2019, prior to the commencement of the McNickle proceeding, Mr Fenton commenced a class action on his own behalf and all persons who suffered loss or damage and/or personal injury in the period from 24 March 1987 to 27 November 2019 by reason of the use and/or exposure to Roundup. Like in the McNickle proceeding, the central common question in the Fenton proceeding was whether or not Roundup is a human carcinogen.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "On 9 June 2020, I made an order that the Fenton proceeding be stayed until further order of the Court or until reasons for judgment have been delivered at any initial trial of the McNickle proceeding. Prior to that time, at a case management hearing on 1 May 2020, I put forward a proposal in order to resolve then a multiplicity dispute, which had the following five features (T27.26–29.37; T30.17–31.14; T36.6-24; T58.26–37):\nonly one proceeding would go ahead until there is a determination of common issues;\nthe Maisano proceeding would be declassed;\nthe group members in the Fenton proceeding would be bound by the determination of common issues;\nif and when it comes to determination of individual claims, the group members in the Fenton proceeding will then be represented by solicitors of their choice; and\nMr Fenton could apply to be heard in the McNickle proceeding if, for example, he considered something in the evidence or submissions was not being addressed.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "By the orders made on 9 June 2020, I declassed the Maisano proceeding pursuant to s 33N(1) of the Federal Court of Australia Act 1976 (Cth) (FCA Act) and stayed the Ogliarolo, Wild and Fenton proceedings.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "The orders that were prepared following the hearing on that date and forwarded to my Chambers mistakenly set out a heading “Opt Out Notice”. What is evident, however, is that upon review of the notice sent to the group members in the Fenton proceeding, no opt out date has been set and, importantly, no opportunity has been given to the group members to notify them of their ability to opt out of the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "Schedule 1 of the orders set out the notice provided to group members who had instructed LHD Lawyers, and was in the following terms:\nFEDERAL COURT OF AUSTRALIA\nNotice Relating to Your Claim Regarding Monsanto/Roundup\nDear Sir or Madam,\nThis notice has been sent to you by the Federal Court of Australia because the Court has been told you have instructed LHD Lawyers or you have registered a claim with them, and that you have or proposed to have those solicitors act for you in a class action against Monsanto about the use of Roundup.\nAnother class action has been started by other solicitors, called the McNickle proceeding.\nYou are part of both class actions BUT the court wishes to ensure that your claim is only covered by one of those class actions.\nIf you want further information about either of them, you can go to the following links:\n• Fenton proceeding: https://claims.lhd.com.au/john-fenton-v-monsanto-australia-pty-ltd/\n• McNickle proceeding: https://www.mauriceblackburn.com.au/roundup-mcnickle-class-action-information/\nIf you have any questions, you can direct them to your solicitors, LHD Lawyers, or if you would like free independent advice you can contact Mr Caspar Conde a barrister on conde@newchambers.com.au or (02) 9151 2058.\nWHAT YOU NEED TO DO:\nIf you have received this notice by email: If you want to continue to have your claim represented by LHD Lawyers please respond “Y” to this email by 23 June 2020. If so, your current solicitors will continue to act.\nIf you have received this notice by post: If you want to continue to have your claim represented by LHD Lawyers please email nswdr@fedcourt.gov.au with the words “In the Monsanto/Roundup class action I want to continue to instruct LHD Lawyers ” by 23 June 2020. If so, your current solicitors will continue to act.\nIf you do not send an email responding in either of the above ways by 23 June 2020, your claim will no longer be conducted by LHD Lawyers (but you will still be included in the other class action).\nAgain, if you have any queries, contact LHD Lawyers or for free independent advice, contact Mr Caspar Conde a barrister on conde@newchambers.com.au or (02) 9151 2058.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "It is against this background that Mr Fenton, as the representative applicant, seeks the following orders:\n1. That the applicant have leave to discontinue the proceeding.\n2. That any limitation period that applies to the claim of the group member is to run again 60 days after the discontinuance of the proceeding.\n3. There be no orders to costs of the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND"
+    ],
+    "text": "The respondent (Monsanto) does not oppose the discontinuance of the Fenton proceeding, but seeks that two conditions be imposed, being that:\nthe discontinuance operate as a defence in relation to the same or substantially the same causes of action previously maintained in the proceeding; and\nthe costs of Monsanto be paid by Mr Fenton (although an undertaking has been proffered by senior counsel for Monsanto, Mr Finch SC, that Monsanto will not seek to enforce that costs order).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "Fundamental to the scheme created by Pt IVA of the FCA Act is that a representative proceeding conducted in accordance with Pt IVA may not be settled or discontinued without the approval of the Court: s 33V(1).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "There has been, in my respectful view, a somewhat arid debate concerning the proper approach to the “test” for determining leave applications in the context of a discontinuance. It is unnecessary to repeat the analysis the subject of my reasons in R&B Investments Pty Ltd (Trustee) v Blue Sky Alternative Investments Limited (Administrators Appointed) (in liq) (Carriage Application) [2022] FCA 1444, save to note that it might be thought an overcomplication has arisen with respect to the determination of such applications.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "One formulation is whether or not discontinuance is “fair and reasonable”. These are words of indeterminate reference which take their colour and content from all of the surrounding circumstances. Similarly, the formulation expressed as the discontinuance being “in the interests of group members” is a conception informed by all the relevant circumstances. In my view, there is no real difference between considering whether the settlement is fair and reasonable (and hence, whether the discontinuance is in the interests of group members in particular circumstances), or whether discontinuance would be unfair, unreasonable or adverse to the interests of group members.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "There is no question that whatever way one articulates the principled approach, discontinuance in the present circumstances is fair and reasonable in the light of the resolution of the Central Common Question in the McNickle proceeding (see above (at [2]–[3])). The real question that arises is the terms upon which Monsanto seeks to place on the discontinuance. Recognising that opt out has not been ordered in the Fenton proceeding, Monsanto notes that this could be regularised by the provision of a notice which notifies group members of their entitlement to opt out, and foreshadowing the making of an order which would, in effect, bind the group members to the resolution of the Central Common Question in the McNickle proceeding, hence placing the group members in the same position as the group members in that proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "The strongest point to be made in favour of this approach is this latter notion: namely that it would place the group members in the Fenton proceeding in the same position as the group members in the McNickle proceeding. To proceed otherwise would mean there is no legal fetter preventing the group members in the Fenton proceeding further agitating their claim at a later time (a matter to which I will return below).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "On balance, however, I do not think that this argument prevails in the particular circumstances of this case. It is consistent with the overarching purpose in Pt VB of the FCA Act for all these proceedings to be brought to an end. If an order had been sought by Monsanto along the lines of those discussed at the case management hearing on 1 May 2020, then the rationale for such an order may have been stronger; a fortiori, if notification had been given to group members as to the fact that an order of the type now sought would be sought in the event that the McNickle proceeding was unsuccessful.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "Conscious of my protective and supervisory role in respect of the group members, I do not think it is fair and reasonable to impose upon them something which is additional to the usual operation of a discontinuance. Discontinuance and dismissal are fundamentally different concepts. This is reflected in the fact that the discontinuance is the act of the moving party, whereas dismissal is an act of the Court. Incidentally, this is why is it heterodox for parties to ask the Court to order, by consent, that a proceeding be discontinued. As the authors of Practice and Procedure High Court and Federal Court of Australia (LexisNexis, 2014) remark in their notes to r 26.12 of the Federal Court Rules 2011 (Cth) (FCR), “it is no more possible for the court to discontinue the proceedings than it is for the applicant to dismiss the proceedings”.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "In the context of practice and procedure, the distinction between dismissal and discontinuance for the purposes of finality is that dismissal is an order for “the termination of a plaintiff’s action in favour of the defendant”, whereas discontinuance constitutes the “breaking off or ending of proceedings” by an act of the applicant: Encyclopaedic Australian Legal Dictionary (LexisNexis, 2002). This fundamental difference is also reflected in the decision of the High Court in UBS AG v Tyne [2018] HCA 45; (2018) 265 CLR 77 (at 97 [47) where Kiefel CJ, Bell and Keane JJ noted:\nThe unconditional discontinuance of the Trust’s claims in the SCNSW proceedings is central to the Trust’s submissions, which draw attention to the rules of the Supreme Court of New South Wales and the Federal Court that in each case provide that discontinuance of proceedings is no bar to bringing fresh proceedings for the same relief.\n(Emphasis added, citation omitted)",
+    "judge": "LEE J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "Each case turns on its own circumstances. I was referred to the observations of Moshinsky J in Davaria Pty Limited v 7-Eleven Stores Pty Ltd [2020] FCA 1234 (at [45]) where his Honour in turn referred to the decision of Rares J in Wotton v State of Queensland [2009] FCA 758; (2009) 109 ALD 534. Justice Rares in that decision observed (at 544 [38]):\n… it is important to ensure that any order by which these proceedings are brought to an end (by discontinuance or dismissal) not have a substantive impact on group members or affect their rights. The court must be careful to guard against any injustice that could be done to persons who are not represented in these proceedings and whose rights may be adversely affected by their outcome. This responsibility is reflected in the scheme of Pt IVA itself, especially in ss 33V(1) and 33ZF(1).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "It is worth remarking that Rares J’s comments were made in the particular context of those proceedings. It is possible to envisage circumstances where it may be appropriate that a discontinuance only occur on terms, provided that group members have been given adequate notice of the effect of those terms upon the discontinuance of the proceeding following the adverse outcome of a competing class action, but that did not occur in this case.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "B THE DISCONTINUANCE"
+    ],
+    "text": "Accordingly, I decline to order the condition sought by Monsanto that any discontinuance of the Fenton proceeding operate as a defence to the proceeding in relation to the same or substantially the same causes of action. I will return to costs later in these reasons.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "C LIMITATION"
+    ],
+    "text": "The necessity of an order pursuant to s 33ZF of the FCA Act that any limitation period which applies to the claim of a group member run again from a certain period following discontinuance was doubted in Moira Shire Council v JLT Risk Solutions [2024] VSC 4. In that case, Lyons JA (at [59]–[60]) expressed a preference for a “broader” construction of s 33ZE(2) which read the word “determined” as meaning “to come to an end” or “terminate”, in contrast to what was described as the “narrow” construction adopted in Turner v TESA [2022] FCA 435; (2022) 314 IR 214 (Murphy J) and Wreck Bay Aboriginal Community Council v Commonwealth of Australia (No 2) [2023] FCA 811 (Lee J). The construction adopted by Lyons JA is to interpret the word “determined” as synonymous with “brought to an end” and the further notion that such an effect is achieved by an applicant seeking and being granted leave to file a notice of discontinuance in the Court.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "C LIMITATION"
+    ],
+    "text": "I do not propose to wade further into this debate, save to note that the word “determine” has an ordinary English meaning but, more importantly, has a legal meaning. As the High Court observed in Patton v Buchanan Borehole Collieries Pty Ltd (1993) 178 CLR 14 (at 17 per Mason CJ, Deane and Dawson JJ), the word “tried” in the context of a provision of the District Court Act 1973 (NSW) means “heard and determined” (emphasis added).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "C LIMITATION"
+    ],
+    "text": "It seems to me the notion of determination is to quell or resolve, in some way or another, a justiciable controversy by the operation of judicial power. This may be done either through a claim being heard and determined, or resolved by way an approved settlement which, generally speaking, alters the rights of a group member against the respondent into a substituted right to participate in the administration of a settlement fund (or to participate in a settlement). It is readily apparent that these concepts encompass the resolution or determination of a claim of a group member. The claim of the group member comes to an end.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "C LIMITATION"
+    ],
+    "text": "But by way of contrast, as I have explained above, discontinuance is a unilateral action undertaken by an applicant, in contrast to the dismissal of a claim, and it seems to me to fall into a different category. It may be pragmatic to adopt a different and “broader” construction, but the distinction between dismissal or merger of rights (which legally resolves or determines the claim) and discontinuance (which does not legally resolve or determine the claim) is a fundamental one, and I continue to adhere to the view that the appropriate way of resolving an apparent anomaly in the statute is to use the gap-filling power in s 33ZF.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "C LIMITATION"
+    ],
+    "text": "Accordingly, I intend to make the order proposed by Mr Fenton that pursuant to s 33ZF of the FCA Act, any limitation period that applies to the claim of the group member is to run again 60 days after the discontinuance of the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "Section 33ZG of the FCA Act provides that except as provided for by Pt IVA, nothing in that part affects the Court’s powers under provisions other than Pt IVA. It is notable that FCR 26.12 provides that in ordinary inter partes litigation, a party may file a notice of discontinuance without the leave of the Court or without the consent of another party, relevantly at any time before pleadings have closed. In this case, pleadings have not closed because no defence has been filed in the Fenton proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "The only reason leave is presently necessary is because of the express requirement in the FCA Act which protects the position of absent group members if they were to disagree with an intention of the applicant to discontinue and may seek, for example, substitution as a lead applicant as an alternative to discontinuance. Of course, even if discontinuance occurs without leave and absent consent or an order of the Court otherwise, a party who files a notice of discontinuance under FCR 26.12(2) is liable to pay the costs of each other party to the proceeding in relation to the claim or part of the claim in question that is discontinued.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "With that said, it is well established that when discontinuance is granted by leave of the Court, costs are in the discretion of the Court.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "It is often said in respect of s 43 of the FCA Act that the Court’s discretion as to costs is “unfettered”, but as I noted in McNickle v Huntsman (Initial Trial) (at [1177]), this is, at best, overly simplistic and, at worst, inaccurate. I went on to note (at [1178]–[1180]):\n[1178] As the Full Court (Besanko, Jagot and Lee JJ) explained in LFDB v SM No 2 [2017] FCAFC 207 (at [7]):\n… in exercising the discretion to award costs, s 37N(4) of the Act requires the Court to take account of any failure by a party to comply with the overarching purpose of the civil procedure provisions, namely to facilitate the just resolution of disputes according to law …\n[1179] Moreover, and more generally, any power to award costs must be exercised in a way “that promotes the overarching purpose” (s 37M(3)): Bellamy’s Australia Limited v Basil [2019] FCAFC 147; (2019) 372 ALR 638 (at 643 [24] per Murphy, Gleeson and Lee JJ).\n[1180] These mandatory statutory considerations inform the discretion, but so do a miscellany of principles emerging from the cases, for example: a costs order should reflect the degree of success attained; a successful party may be ordered to pay some costs in respect of unsuccessful aspects of the case; and that costs are compensatory in nature and not punitive: see, for example, Hockey v Fairfax Media Publications Pty Ltd (No 2) [2015] FCA 750 (at [37] per White J). Further, and importantly, although there is “no absolute rule”, one of the “general propositions” regarding an award of costs is that “the award is discretionary but generally that discretion is exercised in favour of the successful party”: Foots v Southern Cross Mine Management Pty Ltd [2007] HCA 56; (2007) 234 CLR 52 (at 62–63 [25] per Gleeson CJ, Gummow, Hayne and Crennan JJ).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "Although it was not put quite this way, both parties contend that the facilitation of the overarching purpose supports their position as to costs. On behalf of Mr Fenton, it is said that notwithstanding that the proceeding was commenced first in time, it was pragmatically agreed that the proceeding ought to be stayed pending the outcome of the McNickle proceeding. On the other hand, Monsanto points to the fact that there is no real point in the proceeding continuing; particularly in circumstances where the position of the Court was made clear on 1 May 2020 that only one class action should continue (see above (at [7])).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "Although Pt IVA allows for open class representative proceedings to be commenced without the consent of group members, it is well to note that non-parties are entitled to retain solicitors of their own choice. Clearly in this case, following notice being given, group members wished to be represented by solicitors other than those conducting the McNickle proceeding. This may be for a whole host of reasons, including, for example, that they reposed particular confidence in the solicitors of their own choosing.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "Far from being an unreasonable step to take, this seems to me to reflect an autonomy afforded to group members by the structure of the opt out regime in Pt IVA. I made it clear in my earlier remarks that if Mr McNickle had been successful at any initial trial, it would have been open for the Fenton group members to continue to instruct their own solicitors in agitating their individual claims for compensation. They were perfectly entitled to adopt this course.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "D COSTS"
+    ],
+    "text": "There is much to be said of approaching the matter on the basis that if both parties have acted reasonably and, in circumstances where the continued prosecution of the proceeding has become futile, the proper exercise of the Court’s discretion as to costs (despite the express terms of FCR 26.12) means no order as to costs ought to be made. Like all proper exercises of the costs discretion, this result is informed by the particular circumstances of the case and does justice between the parties.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "E FURTHER MATTERS"
+    ],
+    "text": "Before concluding, it should be noted that Mr Fenton sought declaratory relief to the effect that the discontinuance does not affect the rights of the applicant or any group member in the proceeding to pursue the claims that are subject to this proceeding in another proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "E FURTHER MATTERS"
+    ],
+    "text": "I decline to make such declaratory relief.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "E FURTHER MATTERS"
+    ],
+    "text": "Apart from the fact that it is procedurally irregular to seek a declaration (which amounts to a final determination of rights) through an interlocutory application, rather than through a statement of claim (or cross-claim), I am not persuaded there is any utility in making the declaration. It merely states a proposition which flows from the very nature of the discontinuance.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "E FURTHER MATTERS"
+    ],
+    "text": "Finally, I will dispense with the need to file a notice of discontinuance.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "E FURTHER MATTERS"
+    ],
+    "text": "Accordingly, I make the following orders in the Fenton proceeding:\n1. Pursuant to s 33V(1) of the Federal Court of Australia Act 1976 (Cth) (FCA Act), leave be granted to discontinue this proceeding.\n2. Pursuant to s 33ZF of the FCA Act, any limitation period that applies to the claim of a group member begins to run again to the date 60 dates after the date of these orders.\n3. There be no order as to costs of the proceeding.",
+    "judge": "LEE J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-one (41) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Lee.",
+ "associate": null,
+ "dated": "2025-01-07",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "4f06cfaa6c76591ccdc57a90525a14020933f622741a9f91d0863ff872099704",
+ "markdown_file": "data/extracted/2024/2024FCA1525.md"
+}

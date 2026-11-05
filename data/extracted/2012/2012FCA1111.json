@@ -1,0 +1,232 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA1111.docx",
+ "metadata": {
+  "citation": "[2012] FCA 1111",
+  "name": "Australian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd",
+  "court": "FCA",
+  "year": 2012,
+  "number": 1111,
+  "date_of_judgment": "2012-10-11",
+  "file_numbers": [
+   "NSD1980/2008"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-10-11"
+  ],
+  "hearing_raw": "11 October 2012",
+  "number_of_paragraphs": 8,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Discovery – application for discovery of agreements between applicant and other international airlines in respect of the subject matter of the proceedings between the applicant and the respondent – whether discovery should be ordered"
+  ],
+  "cases_cited": [
+   "Jones v Dunkel (1959) 101 CLR 298 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "SINGAPORE AIRLINES CARGO PTE LTD (ARBN 095 934 857)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v SINGAPORE AIRLINES CARGO PTE LTD (ARBN 095 934 857)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Halley SC, CG Arnott"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "S Free"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Minter Ellison"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1111",
+  "portal_file_numbers": [
+   "NSD1980/2008"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2012-10-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd [2012] FCA 1111"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v SINGAPORE AIRLINES CARGO PTE LTD (ARBN 095 934 857)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 1980 of 2008"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 October 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Discovery – application for discovery of agreements between applicant and other international airlines in respect of the subject matter of the proceedings between the applicant and the respondent – whether discovery should be ordered"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Jones v Dunkel (1959) 101 CLR 298 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 October 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "8"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Halley SC, CG Arnott"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "S Free"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Minter Ellison"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1980/2008",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "SINGAPORE AIRLINES CARGO PTE LTD (ARBN 095 934 857)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2012-10-11",
+   "date_raw": "11 OCTOBER 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant give discovery to the respondent by 9 November 2012 of all documents recording an agreement or undertaking given to the applicant by any international airline, or any past or present employee of any international airline, to cooperate with or assist the applicant by giving evidence, or making witnesses available to give evidence (or seeking to make such witnesses available), in any proceedings brought by the application in respect of the subject matter of this proceeding.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Costs be costs in the cause.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Following some correspondence between the Commission and the solicitors for Singapore Airlines, Mr Free of counsel moved this afternoon for an order requiring the Commission to give to it, by way of discovery, by 12 October:\n…all documents recording an agreement or undertaking given to the applicant by any international airline, or any past or present employee of any international airline, to cooperate with or assist the applicant by giving evidence, or making witnesses available to give evidence (or seeking to make such witnesses available), in any proceedings brought by the applicant in respect of the subject matter of this proceeding."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Mr Free submitted that this was a category of discoverable documents because the Commission had, on 12 September, indicated that it would not be calling in reply any witnesses on its conduct case. Theretofor the Commission had indicated that its case on conduct was a documentary case, but it was only on 12 September that it confirmed that there would be no conduct witnesses in reply. As a result, there is a possibility that Singapore may seek to submit that an inference may be drawn against the Commission, pursuant to the rule in Jones v Dunkel (1959) 101 CLR 298, that the various witnesses who it may have been able to call from the airlines who have settled would not have assisted its case."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Alternatively, it may be put, pursuant to the same rule, that an inference which the court might be minded to draw might be more comfortably drawn in circumstances in which the Commission has not called any of the witnesses from the airlines who have settled."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Obviously enough, when that debate arrives, there will be a question as to who, if anyone, had an obligation to call these witnesses. In that context, as Mr Free submitted, it may be relevant to know whether the agreements, which it appears to be accepted do exist between the airlines which have settled and the Commission, contain clauses which oblige the airlines in question to cooperate with the Commission. If such provisions were present, that may provide the basis for an argument that the Commission either had the ability to call the witnesses or, to use perhaps the language of Jones v Dunkel, that the witnesses were in the Commission’s camp."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "For the Commission, Mr Halley SC submitted that it would not be submitting that it was unable to call the witnesses because they were unavailable and that it had made its position clear that its case was a documentary case. I do not think that that is an answer to the argument which is being put which, in contradistinction, is not about the reasons which may explain why a witness is not called but rather about the obligations which are owed by the settling airlines to the Commission."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "I do not overlook the fact that there are, in the context of this debate, a number of twists and turns yet to come. Questions may arise as to the ability of the Commission by means of a contract or agreement with a settling airline to compel individuals who are not parties to that agreement to cooperate. But be that as it may, I do not think that that impacts upon what seems to me otherwise to be the discoverable nature of the documents."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Singapore sought an order that the documents be provided by the Commission by 12 October 2012. In the circumstances where the documents relate to a submission which will be made at the end of the trial, I do not think that there is any great necessity to disturb the Commission by their instant production. What I will do is to order the Commission to give discovery of the matters to which I have made reference, that is those sought by Singapore, and to do so by Friday, 9 November."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Costs will be costs in the cause."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eight (8) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2012-10-12",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "d80ef0776fda5b37c8bc3a2f5dbd14d128160b351f90366ed56c52ace151d2b2",
+ "markdown_file": "data/extracted/2012/2012FCA1111.md"
+}

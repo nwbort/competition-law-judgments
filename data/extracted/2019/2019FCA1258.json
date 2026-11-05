@@ -1,0 +1,575 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2019/2019FCA1258.docx",
+ "metadata": {
+  "citation": "[2019] FCA 1258",
+  "name": "Flogineering Pty Ltd v Blu Logistics SA Pty Ltd (No 3)",
+  "court": "FCA",
+  "year": 2019,
+  "number": 1258,
+  "date_of_judgment": "2019-08-09",
+  "file_numbers": [
+   "QUD883/2016"
+  ],
+  "judges": [
+   "GREENWOOD J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2019-07-23"
+  ],
+  "hearing_raw": "23 July 2019",
+  "last_submissions": "2019-07-23",
+  "number_of_paragraphs": 59,
+  "catchwords": [
+   "DAMAGES – consideration of the formulation of the text on causation in s 236 of the Australian Consumer Law of “a person suffers loss because of [contravening] conduct” as compared with the earlier test of s 82(1) of “a person who suffers loss or damage by conduct of another ..” – consideration of loss or damage suffered by a claimant because of contravening conduct where third party reliance causes loss or damage to the claimant rather than loss or damage arising out of reliance by the claimant on the contravening contract itself"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), Sch 2, Australian Consumer Law, s 236"
+  ],
+  "cases_cited": [
+   "Addenbrooke Pty Ltd v Duncan (2017) 348 ALR 1",
+   "Comcare v Martin (2016) 258 CLR 467",
+   "Finishing Services Pty Ltd v Lactos Fresh Pty Ltd [2006] FCAFC 177",
+   "Ford Motor Company of Australia Ltd v Arrowcrest Group Pty Ltd (2003) 134 FCR 522",
+   "Hampic Pty Ltd v Adams [2000] ATPR (41-737)",
+   "Janssen-Cilag Pty Limited v Pfizer Pty Limited (1992) 37 FCR 526",
+   "March v Stramare (E & M H) Pty Ltd (1991) 171 CLR 506",
+   "Marks v GIO Australia Holdings Ltd (1998) 196 CLR 494",
+   "McCarthy v McIntyre [1999] FCA 805",
+   "Wardley Australia Ltd v Western Australia (1992) 175 CLR 514"
+  ],
+  "parties": [
+   {
+    "name": "FLOGINEERING PTY LTD (ACN 115 962 822)",
+    "role": "Applicant"
+   },
+   {
+    "name": "BLU LOGISTICS SA PTY LTD (ACN 600 595 382) (and others named in the Schedule)",
+    "role": "First Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N H Ferrett QC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Kalus Kenny Intelex"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr S Forrest"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Rostron Carlyle Rojas Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca1258",
+  "portal_file_numbers": [
+   "QUD883/2016"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2019-08-09"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 883 of 2016"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "GREENWOOD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "9 August 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "DAMAGES – consideration of the formulation of the text on causation in s 236 of the Australian Consumer Law of “a person suffers loss because of [contravening] conduct” as compared with the earlier test of s 82(1) of “a person who suffers loss or damage by conduct of another ..” – consideration of loss or damage suffered by a claimant because of contravening conduct where third party reliance causes loss or damage to the claimant rather than loss or damage arising out of reliance by the claimant on the contravening contract itself"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), Sch 2, Australian Consumer Law, s 236"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Addenbrooke Pty Ltd v Duncan (2017) 348 ALR 1\nComcare v Martin (2016) 258 CLR 467\nFinishing Services Pty Ltd v Lactos Fresh Pty Ltd [2006] FCAFC 177\nFord Motor Company of Australia Ltd v Arrowcrest Group Pty Ltd (2003) 134 FCR 522\nHampic Pty Ltd v Adams [2000] ATPR (41-737)\nJanssen-Cilag Pty Limited v Pfizer Pty Limited (1992) 37 FCR 526\nMarch v Stramare (E & M H) Pty Ltd (1991) 171 CLR 506\nMarks v GIO Australia Holdings Ltd (1998) 196 CLR 494\nMcCarthy v McIntyre [1999] FCA 805\nWardley Australia Ltd v Western Australia (1992) 175 CLR 514"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "23 July 2019"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "23 July 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "59"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N H Ferrett QC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Kalus Kenny Intelex"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr S Forrest"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Rostron Carlyle Rojas Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD883/2016",
+   "parties": [
+    {
+     "name": "FLOGINEERING PTY LTD (ACN 115 962 822)",
+     "role": "Applicant"
+    },
+    {
+     "name": "BLU LOGISTICS SA PTY LTD (ACN 600 595 382) (and others named in the Schedule)",
+     "role": "First Respondent"
+    }
+   ],
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application filed by the applicant on 8 May 2019 and the interlocutory application filed by the respondents on 10 July 2019 are both adjourned generally.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant is given leave to amend its methodology statement on loss and damage for the purposes of s 236 of the Australian Consumer Law contained in the Particulars of Loss filed on 4 March 2019 so as to take account of these reasons, to the extent that the applicant elects to do so, by filing and serving an Amended Particulars of Loss within fourteen days.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The costs of each application are reserved.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Pursuant to s 23 and s 37P of the Federal Court of Australia Act 1976 (Cth), rule 1.32 and rule 1.36 of the Federal Court Rules 2011, these orders and reasons for judgment in support of these orders are made and published from Chambers.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 28 September 2018, the Court delivered judgment on the separate question of whether any of the respondents had engaged in contravening conduct as alleged by the applicant: Flogineering Pty Ltd v Blu Logistics SA Pty Ltd [2018] FCA 1479 (the “principal judgment”). These reasons are to be read in conjunction with the principal judgment. Abbreviations adopted in the principal judgment will be used in these reasons.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "At [168] and [169] of the principal judgment, the Court held that the conduct of each of the respondents of affixing the particular pattern approval number to the measuring instruments installed on their trucks/tankers constituted conduct which carried with it a representation to the milk processors and, in a wider sense, to the dairy farmers, that the regulatory regime governing the processes undertaken by relevant participants in the transfer of milk from a dairy farmer’s refrigerated vat to a tanker and from the tanker to the milk processor provides for a right in someone, whoever it might be, to apply a pattern approval number to measuring instruments as a regulatory signification of an authority to so mark the measuring instruments.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "At [183], the Court determined that the representation described at [168] (taken together with the observation at [169]) constituted a misrepresentation made to the dairy farmers and the dairy processors.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The Court made this observation at [183]:\n… The misrepresentation, in a real and practical sense, is misleading or deceptive or likely to mislead or deceive, either or both of, the dairy processors and the dairy farmers into believing that the flowmetering instruments are marked with a regulatory signification in the form of an approval number by persons who hold the right to do so. The conduct, viewed as a whole, demonstrates a real and not simply a remote chance that those market participants will be misled or deceived or be likely to be misled or deceived.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "In the result, the Court made these two declarations on 24 October 2018:\n1. Each of the respondents, by affixing the number “No 5/6E/13A” (an “Approval Number” issued pursuant to the National Measurement Regulations 1999 (Cth) (the “Regulations”) made under the provisions of the National Measurement Act 1960 (Cth)) to a measuring instrument described as a milk flowmeter, engaged in misleading or deceptive conduct or conduct likely to mislead or deceive either milk processors or dairy farmers or both because such conduct constitutes a representation that the person who had affixed the Approval Number to the particular milk flowmeter installed on the particular tankers as described in Schedule 1 below in respect of each relevant respondent, was someone authorised to do so under an approval issued under the Regulations when that person was not so authorised in accordance with that approval.\n2. The conduct of each respondent as described in Declaration 1 constitutes conduct in contravention of Section 18 of the Australian Consumer Law and Sections 29(1)(e) and 29(1)(g) of the Australian Consumer Law.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The Court also made injunction orders framed in relation to that conduct. Schedule 1 to the orders identifies each respondent and the relevant tanker owned or operated by that respondent. It is not necessary to set out the details of those matters in these reasons.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The applicant claims damages pursuant to s 236 of the Australian Consumer Law (“ACL”) against each respondent. Orders were made that the question of loss and damage be determined separately from the question of claims of contravening conduct. In the amended statement of claim, the applicant frames the claim for loss and damage in this way:\n15. The following loss and damage has (as best the Applicant can currently estimate) been caused by reason of the Respondents’ contraventions of statute and passing off:\n(a) in respect of the First Respondent [Blu Logistics]:\n(i) loss of profit from supply of instruments in the amount of $132,300 (5 instruments at $26,460); and\n(ii) loss of profit from supply of post-sale services such as servicing equipment and re-certification in the amount of $25,000 ($1,000 per instrument per annum for five years);\n(b) in respect of the Second Respondent and/or the Third Respondent [WMH and Wadene respectively]:\n(i) loss of profit from supply of instruments in the amount of $299,824 (8 instruments at $24,248 and 4 instruments at $26,460); and\n(ii) loss of profit from supply of post-sale services such as servicing equipment and re-certification in the amount of $92,000 ($1,000 per instrument per annum from 5 to 9 years).\n(c) in respect of the Fourth Respondent [JRB]:\n(i) loss of profit from supply of instruments in the amount of $432,124 (9 instruments at $26,460 and 8 instruments at $24,248); and\n(ii) loss of profit from supply of post-sale services such as servicing equipment and re-certification in the amount of $117,000 ($1,000 per instrument per annum from five to nine years);\n(d) in respect of the Fifth Respondent [Jurss Robertson]:\n(i) loss of profit from supply of instruments in the amount of $132,300 (5 instruments at $26,460); and\n(ii) loss of profit from supply of post-sale services such as servicing equipment and re-certification in the amount of $25,000 ($1,000 per instrument per annum for five years).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Although the amended pleading asserts a claim for loss and damage by reason of contraventions by the respondents “of statute and passing off”, the relevant questions are whether the contravening conduct as found (that is contraventions of the ACL) has caused the applicant loss or damage and if so, what is the measure of that loss or damage?",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Contraventions of the statutory prohibition upon a person engaging in conduct that is misleading or deceptive or is likely to mislead or deceive formerly fell within Part V of the Act and the action for damages was conferred by s 82(1) of the Act. That section provided that a person who suffers loss or damage by conduct of another person that was done, relevantly, in contravention of a provision of Part V, may recover the amount of the loss or damage by action against that other person or against any person involved in the contravention. Sections 18 and 29 of the ACL fall within Chapters 2 and 3 respectively of the Australian Consumer Law. Section 236 of the ACL provides that if a person suffers loss or damage because of the conduct of another person and the conduct contravenes a provision of Chapters 2 or 3, the claimant may recover the amount of the loss or damage by action against that other person or against any person involved in the contravention.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Thus, it is important for the applicant to identify the methodology by which it says it has suffered loss or damage “because of” the conduct of the respondents in contravening s 18 and ss 29(1)(e) and 29 (1)(g) of the ACL.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Accordingly, on 22 February 2019, the Court directed the applicant to provide the respondent with a short statement identifying the methodology for the calculation of the applicant’s loss and damage the subject of the s 236 claim. Other directions orders as to affidavits were made on other dates.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "In response to the loss and damage methodology order, the applicant said this.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "First, the applicant was, at the relevant time, the “only juristic person” supplying the “Instrument” (as to which see [48] to [54] of the principal judgment) within Australia (including, it is said, “instruments comparable” to the Instrument falling within the Approval as described in the principal judgment), and the only person authorised to mark a particular “instance” of the instrument as complying with the Approval granted to Flogineering. Those propositions are contested by the respondents.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Second, there was no other substitutable instrument available to the respondents which was the subject of an approval under the National Measurement Act 1960 (Cth) (the “Act”) and the National Measurement Regulations 1999 (Cth) (the “Regulations”).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Third, at Particular 1(c), being the methodology statement, the applicant says this:\n1. At all times material:\n…\n(c) it was material to each purchaser of bulk milk (“Purchaser”) [a milk processor] with whom each respondent contracted for the haulage of milk that the measurement of milk being loaded on and/or off a truck was undertaken using a measuring instrument the subject of a certificate of approval under the Act and Regulations (“Approved Instrument”), inasmuch as each such person would have refused to enter into any such contract:\n(i) without the promise that an Approved Instrument would be used in each case;\n(ii) alternatively, if that person had known that the particular respondent would not use an Approved Instrument in each case;\n[emphasis in italics added]",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "Fourth, at Particular 1(d), the applicant says that each processor, upon discovering the misleading and deceptive conduct of each respondent as found in the principal judgment, would have either terminated the contract it had with the particular respondent or, alternatively, would have required the particular respondent to immediately install Approved Instruments as a condition of continuing to engage the particular respondent.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Having regard to those matters, the applicant says that it suffered loss and damage as, first, each processor “relied on” the misleading and deceptive conduct “in continuing to engage” each respondent to deliver milk to it from dairies, and second, in order to comply with “the expectations” of the processors as described in paras 1(c) and 1(d), each respondent would have had to purchase measuring instruments from Flogineering, there being no other person who could supply measuring instruments marked as compliant with the Approval. These postulated sales to the relevant respondent that would have been made are said to be the lost sales giving rise to the “Lost Sales Income”. That “Lost Sales Income” becomes the “loss of profit” claim at para 15(a) to (e) of the amended statement of claim as set out at [7] of these reasons.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The applicant says that it has also lost income from servicing the measuring instruments it would have sold in the counter-factual postulated by the applicant.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "The case theory on loss and damage to be advanced at trial is that each processor relied on the conduct of each respondent in representing that flowmetering instruments used by each respondent on their trucks were marked with the Approval Number as a regulatory signification to the processor (and also to dairy farmers) that they were so marked by persons holding the right to do so. That representation was a misrepresentation.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "The expression of reliance by each processor on the contravening conduct is said to be that a respondent contractor undertaking the transfer of milk from the dairy farmer’s holding facility to the truck and from the truck to the processor’s facilities, using a measuring instrument marked by a person holding the regulatory right to do so, was sufficiently “material” to the processor that it would either, not have entered into a haulage contract with the relevant respondent, or would not have continued with such a contract with that respondent, except as described at Particular 1(c)(i) (by extracting the relevant promise) or Particular 1(c)(ii) (not entering into the contract at all), of the particulars (methodology).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "The applicant says that had each processor known the true position, each processor would have terminated the haulage contract or would have required the relevant respondent to install an Approved Instrument. The applicant says that in order to reach that position, the processors would have insisted upon different contracts and, in effect, they would have compelled the respondent contracting parties to engage with Flogineering as the only entity authorised to mark a relevant instrument with an Approval Number. Thus, Flogineering is said to have suffered a loss of opportunity to sell flowmetering measuring instruments duly marked with the Approval Number and has thus suffered a loss of opportunity to earn income and ultimately derive “profits” from those sales.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "This loss is said to have been suffered by Flogineering because of the conduct of each respondent in contravention of s 18 and s 29(1)(e) and s 29(1)(g) of the ACL for the purposes of s 236 of the ACL.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "The conferral by s 236 of the ACL on a person of a right to recover, by action, the amount of the loss and damage suffered by that person because of the conduct of another person, where the conduct contravenes a provision of Chapter 2 or 3 of the ACL, is the expression of the statutory causation necessary to support the recovery of the amount of the loss or damage claimed. In the ordinary course, parties claiming to have suffered loss “because of” the contravening conduct of another would need to show that they relied on the contravening conduct in taking, or not taking, a step resulting in loss or damage flowing from that person’s reliance.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "However, a claimant might seek to contend that some other person, a third party (not the claimant), relied upon the contravening conduct of another and the claimant’s loss or damage results from, or arises “because of”, the third party’s reliance on the contravening conduct. “Reliance” is said not to be the test of, or a substitute for, causation contemplated by the statute: Addenbrooke Pty Ltd v Duncan (2017) 348 ALR 1 at [499] (“Addenbrooke”). These issues of third party reliance giving rise to loss or damage suffered by a person resulting from third party reliance, have been considered in relation to conduct in contravention of s 52 of the Act (as it was) in the context of the text in s 82(1) of the Act: “A person who suffers loss or damage by conduct of another person that was done in contravention of a provision of Part IV or V may recover the amount of the loss or damage by action …” [emphasis added]. In that statutory context, there is authority for the proposition that a claimant may recover loss or damage it “suffers” resulting from a third party’s reliance on conduct in contravention of the Act: Ford Motor Company of Australia Ltd v Arrowcrest Group Pty Ltd (2003) 134 FCR 522 at [123] in the context of the discussion at [104] to [123]; Finishing Services Pty Ltd v Lactos Fresh Pty Ltd [2006] FCAFC 177 at [31] (“Finishing Services”); Hampic Pty Ltd v Adams [2000] ATPR 41-737; McCarthy v McIntyre [1999] FCA 805 at [48] and [49]; Addenbrooke at [499].",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "In Janssen-Cilag Pty Limited v Pfizer Pty Limited (1992) 37 FCR 526 at 529-531 (“Janssen-Cilag”), Lockhart J identified a number of principles accepted in later authorities (and, in particular, Finishing Services at [31], Kiefel, Sundberg and Edmonds JJ; Marks v GIO Australia Holdings Ltd (1998) 196 CLR 494, Gummow J at [101] (“Marks”)), in these terms:\nWhat emerges from an analysis of the cases (and there are many of them) is that they do not impose some general requirement that damage can be recovered only where the applicant himself relies upon the conduct of the respondent constituting the contravention of the relevant provision.\nAlso, a perusal of the provisions of Pts IV and V, the contravention of which gives rise to an entitlement to an applicant for compensation for loss or damage, points to the conclusion that applicants may claim compensation when the contravener’s conduct caused other persons to act in a way that led to loss or damage to the applicant [references are made to many of the provisions of Pt IV].\nThe use of the preposition “by” in s 82(1) is important; it indicates the requirement that there be a sufficient cause or link between the respondent’s conduct and the recoverable loss or damage. … “By” is used in s 52(1) in the sense of “by reason of” or “as a result of”. … Loss or damage must directly result from or be caused by the respondent’s conduct. The respondent’s conduct must be the real or direct or effective cause of the applicant’s loss; it must have been “brought about by virtue of” the conduct which is in contravention of s 52.\nWhilst the applicant’s loss or damage must be caused by the respondent’s misleading or deceptive conduct, I see nothing in the language of the Act or its purpose to warrant the suggestion that the right of an applicant for damages under s 82 is confined to the case where he has relied upon or personally been influenced by the conduct of the respondent which contravenes the relevant provision of Pt IV or Pt V of the Act [an illustration then follows]. A manufacturer of, say, leather goods may have established over many years a large and valuable reputation amongst the public or a significant section of the public. The respondent may commence to carry on the business of manufacturing leather products under a name deceptively similar to that of the applicant and by which the applicant’s goods are known. Members of the public may be misled into believing that the respondent’s business is the business of the applicant or associated with the business of the applicant [conduct in contravention of s 52(1)] and they may take their business to the respondent. The applicant has not relied on any representation of the respondent or been misled or deceived by it, but his loss is the loss of business occasioned directly by the respondent’s conduct (or the consequent loss of profit). I can conceive of no reason why the Act, which is designed to foster and promote competition and, by Pt V, to prevent misleading or deceptive conduct, should be given a restrictive interpretation in s 82 such that only persons who relied upon the representation are entitled to recover loss or damage from the respondent. The evident purpose of the Act leads in my opinion plainly to a different conclusion.\nSection 82(1) should not be given a restrictive meaning to be available only to the person who suffers loss or damage by reason of his own reliance upon the representations which constituted the relevant contravention of Pt IV or V. … [A] person who suffers damage by reason of or as a result of the conduct of the contravener (albeit that that person does not himself rely upon the representations) is not to strain the language of [s 82(1)], but to interpret it according to its ordinary and natural meaning. For a person to recover under the section he must suffer loss or damage by reason of or as a result of the contravention. There is nothing unduly wide about that.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "In Janssen-Cilag, the applicant contended that the contravening conduct of Pfizer induced members of the public (consumers) and pharmacists to purchase Pfizer’s drug “Combantrin” instead of the applicant’s drug “Vermox” thereby causing the applicant to lose sales of Vermox which would otherwise have been made. Lockhart J held that the applicant could establish causation for the purposes of s 82(1) of the Act by proving that consumers and pharmacists relied on the contravening conduct of Pfizer to the applicant’s detriment. There was no suggestion of reliance on the contravening conduct of Pfizer by the applicant.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "Section 236 of the ACL is not in the same terms as s 82(1) of the Act (so far as it used to apply to contraventions of Part V). Section 236 does not use the phrase by conduct but uses the phrase because of the conduct. The formulation of s 236 did not take up the observations of Mason CJ, Dawson, Gaudron and McHugh JJ in Wardley Australia Ltd v Western Australia (1992) 175 CLR 514 at 525 (“Wardley”) where their Honours said that the preposition “by” is a “curious word” and “[o]ne might have expected ‘by means of’, ‘by reason of’, ‘in consequence of’ or ‘as a result of’”. Their Honours observe that, in any event, “by conduct”, clearly expresses the notion of causation. Even though s 236 of the ACL is confined in its operation to conduct in contravention of a provision of Chapters 2 and 3 of the ACL and does not have application to contraventions of Part IV which continue to be the subject of s 82(1) of the Competition and Consumer Act 2010 (Cth), there is no reason to believe that the principles identified by Lockhart J as approved in later authorities (see, in particular, Gummow J in Marks at [101]) do not also properly characterise the approach to s 236, having regard to the text, context and purpose of the Competition and Consumer Act 2010 (Cth) and Schedule 2 to that Act constituting the Australian Consumer Law, notwithstanding that s 236 uses the phrase “because of” rather than “by conduct of”.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "In Wardley at 525, their Honours also observe that this notion of causation, captured by the words by conduct, “should be understood as taking up the common law practical or common-sense concept of causation” discussed by the High Court in March v Stramare (E & M H) Pty Ltd (1991) 171 CLR 506, “except in so far as that concept is modified or supplemented expressly or impliedly by the provisions of the Act” [Trade Practices Act 1974 (Cth) and now the Competition and Consumer Act 2010 (Cth)]. However, the following observations of French CJ, Bell, Gageler, Keane and Nettle JJ in Comcare v Martin (2016) 258 CLR 467 at [42] need to be kept in mind:\nResolving the issue of principle\nCausation in a legal context is always purposive. The application of a causal term in a statutory provision is always to be determined by reference to the statutory text construed and applied in its statutory context in a manner which best effects its statutory purpose. It has been said more than once in this Court that it is doubtful whether there is any “common sense” approach to causation which can provide a useful, still less universal, legal norm. Nevertheless, the majority in the Full Court construed the phrase “as a result of” in s 5A(1) as importing a “common sense” notion of causation. That construction, with respect, did not adequately interrogate the statutory text, context and purpose.\n[references to footnotes omitted]",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "These matters have arisen in the context of two interlocutory applications heard together, one filed by the applicant and the other by the respondents.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "By Flogineering’s application, it seeks an order pursuant to the Federal Court Rules 2011 (the “Rules”) that each of the respondents produce such documents in the respective respondent’s custody and control which fall within either of the followings classes.\n(a) a document recording or otherwise constituting evidence of any contract, agreement, arrangement or understanding between the particular Respondent and another party with respect to the transport of milk; and\n(b) correspondence between that Respondent and another party relating to any such contract, agreement, arrangement or understanding.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "By the respondents’ application, they seek an order pursuant to rule 1.32 of the Rules that para 1(c) of the Particulars filed on 4 March 2019 be struck out.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "As to the application by Flogineering for the production of the identified documents, these contextual matters need to be mentioned.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "On 29 October 2018, the Court ordered that the parties complete discovery pursuant to rule 20.14 of the Rules by 23 November 2018. That order was made prior to the order of 22 February 2019 that the applicant provide the respondents with a short statement identifying the methodology for the calculation of loss and damage for the purposes of s 236 of the ACL. Plainly enough, the formulation of the basis for the claim for loss or damage suffered because of the particular contraventions, would inform the scope of the documents to be produced on loss and damage, as the methodology statement frames the controversy on that part of the claim assuming the case theory on damages reflected in the methodology statement raises, as a matter of law, an arguable case of loss or damage arising because of the contravening conduct. Rule 20.14 requires a party to give discovery of documents directly relevant to the issues, subject to the other elements of the rule. As already mentioned the particulars of loss and damage were provided on 4 March 2019.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "By a letter dated 14 December 2018, the solicitors for the applicant, Kalus Kenny Intelex (“KKI”) sought disclosure of the documents described at [30] of these reasons. Those documents were said to be relevant to the question of damages. The solicitors for the respondents, Rostron Carlyle Rojas (RCR) responded by letter dated 18 December 2018 saying that they did not understand how the documents would be relevant to a claim for loss or damage caused by the contraventions found in the principal judgment.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 35,
+    "headings": [],
+    "text": "By letter dated 24 January 2019, KKI responded (again, before delivery of the methodology statement on 4 March 2019). In the 24 January 2019 letter, KKI said that the applicant had suffered a loss of profit because of the contravening conduct of the respondents, from the supply of measuring instruments (or more properly put, the non-supply of measuring instruments which, as it transpired in the methodology statement, the applicant says would have been supplied but for the contravening conduct of the respondents), and from the loss of post-sale servicing revenue.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 36,
+    "headings": [],
+    "text": "In that letter, the applicant identified its case theory on loss or damage in this way:\nAs you are aware, the theory behind the Applicant’s claim for damages is that dairies and producers rely on representations that the milk being collected from the former and delivered to the latter is being accurately measured as it is loaded to, and unloaded from the trucks hauling it. The corollary is that because the industry participants rely on such accuracy of measurement, absent the Respondents’ misleading conduct, the Respondents would have to have purchased flowmeters and associated services from our clients; that was the only way that they could have satisfied industry producers that milk was being accurately measured.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 37,
+    "headings": [],
+    "text": "The misleading and deceptive conduct, as found, was, put simply, that the respondents in marking their measuring instruments with the Approval Number the subject of the certification issued to Flogineering, represented, as a matter of regulatory signification, that they had the right to apply the Approval Number to that equipment. That was a misrepresentation. The applicant did not run its case on liability on the basis that there was any inaccuracy in the measurement of milk flow rates and volume by reason of the use of the flowmetering equipment of the respondents. The contravening conduct, as found, was conduct on the part of the respondents of misrepresenting that they had the right to mark their flowmetering equipment with the Approval Number.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 38,
+    "headings": [],
+    "text": "It is not clear in terms of reliance, or the consequences of reliance, what steps were taken by the processors in reliance on the misrepresentation (assuming there was reliance on the respondents’ conduct of marking their equipment with the Approval Number), or what steps would, or would not, have been taken, by the processors had they known the true position as to that right.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 39,
+    "headings": [],
+    "text": "In the letter dated 24 January 2019, KKI says that the classes of documents sought by them (see [30]) may identify the requirements of dairies and/or producers requiring the respondents to comply with the regulatory regime under the Act and Regulations (see [14]), or “otherwise set out requirements as to the accuracy of measuring instruments used by the Respondents in the course of hauling milk”. In that letter, KKI also says that “[s]uch contractual requirements, if they exist, tend to prove that it would have been necessary for your clients to purchase equipment and services from our client, there being no other source from which they might have purchased”.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 40,
+    "headings": [],
+    "text": "By letter dated 30 January 2019, RCR responded noting the assertion that the documents described by KKI would be likely to be relevant to the question of the applicant’s loss or damage claim. RCR responded by saying that the firm was instructed that “there are no contracts or agreements between any of the respondents and dairies or milk producers for the transport of milk”. RCR also said this: “In that regard were refer you to Mr Wastell’s trial affidavit for “an explanation of the contractual arrangements with milk producers”. That was a reference to Mr Wastell’s affidavit of 14 September 2017 and presumably it was a reference to the kind of contractual arrangements with milk processors.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 41,
+    "headings": [],
+    "text": "In that affidavit, Mr Wastell explains that he is a Director of Blu Logistics, WMH and Wadene. He explains his background in working as a driver/mechanic for Wadene and says that in late 2009 he, along with others, decided to create an entity for the purpose of providing a single point of contact for bulk haulage arrangements of milk, for Parmalat. He say that Mooloo Sanctuary Pty Ltd (“Mooloo Sanctuary”) was the entity formed and selected for the purpose of striking arrangements with Parmalat. The business name “Blu Logistics Solutions” was registered as the business name for Mooloo Sanctuary’s operations. He says that he became a Director of Mooloo Sanctuary in February 2010. He also says that Mooloo Sanctuary “tendered for and was awarded a contract with Parmalat in early 2010 for the bulk haulage of milk”.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 42,
+    "headings": [],
+    "text": "The affidavit of Mr Wastell suggests that at one point at least tenders were called by Parmalat for the awarding of a contract for the bulk haulage of milk for Parmalat. I accept that Mr Wastell’s affidavit fairly gives rise to an inference that at least that contract, so awarded, was likely to be the subject of a written instrument or at least documents consisting of the call for tenders (by letter or otherwise and responses). Mr Wastell’s statements as an industry participant provides a basis for thinking that these sorts of bulk haulage contracts were likely to be made up of a contractual document or exchanges of emails and letters coupled, in all probability, with conversations.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 43,
+    "headings": [],
+    "text": "Apart from the issue as between KKI and RCR about whether contractual documents exist going to bulk haulage arrangements, RCR in its letter of 30 January 2019 also referred to the matters (described in the KKI 24 January 2019 letter) as quoted at [36] of these reasons. RCR describes as a non-sequitur (as the respondents continue to contend), the proposition that because industry participants rely on accuracy of measurement in milk flow, had the respondents not engaged in the contravening conduct found against them, the respondents would have to have purchased flowmeters and associated services from Flogineering. The non-sequitur is said to be this. Let it be assumed that industry participants rely upon accurate measurement of milk flows into and from tanks on trucks hauling that milk. The respondents say that it does not follow that had the respondents not engaged in the contravening conduct of marking their measuring instruments (or causing their measuring instruments to be marked) with the Approval Number, the only way the respondents could have satisfied processors that milk flows were being accurately measured was by purchasing flowmetering equipment (and related services) from Flogineering.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 44,
+    "headings": [],
+    "text": "RCR also said this: “Even if it were true that purchasing equipment from [Flogineering] ‘was the only way that [the respondents] could have satisfied industry producers that milk was being accurately measured’, which is denied, that has no logical connection with ‘the Respondents’ misleading conduct’”.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 45,
+    "headings": [],
+    "text": "By letter dated 7 February 2019, KKI responded asserting that Mr Wastell’s affidavit suggested that there were likely to be contractual documents relevant to bulk haulage. KKI pressed for production of those documents. That letter enclosed a notice under the Rules, to the respondents, requiring production of each of the contracts mentioned in the relevant paragraphs of Mr Wastell’s affidavit.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 46,
+    "headings": [],
+    "text": "RCR by letter dated 8 February 2019, responded saying that Mr Wastell’’s affidavit only referred to contracts with Mooloo Sanctuary and “Jurss Transport”, a milk haulage operator unrelated to any of the respondents, and thus Mr Wastell’s affidavit did not suggest the existence of contracts between processors on the one hand and any of the respondents on the other hand. RCR also took issue with the notice to produce.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 47,
+    "headings": [],
+    "text": "By letter dated 15 March 2019, KKI responded. This is the first letter after the formulation of the methodology statement by which the applicant identified its case on loss or damage caused by the contravening conduct as found. In that letter, KKI emphasises the formulation at paras 1(c) and 1(d) of the Particulars of Loss. Emphasis is given to the proposition at Particular 1(c) that it was material to each producer with whom any one of the respondents had a contract, that the measurement of milk loaded and unloaded was “undertaken using a measuring instrument the subject of a Certificate of Approval under the Act and Regulations (“Approved Instrument”), inasmuch as each [processor] would have refused to enter into any such contract”, either without a promise from the relevant respondent that an Approved Instrument would be used, or, if the position emerged that a relevant respondent would not use an Approved Instrument, the processor would then have refused to enter into any contract at all with the relevant respondent.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 48,
+    "headings": [],
+    "text": "The respondents say that this is the first time that the applicant has said that a contractual obligation as between a relevant respondent and a processor would have required the use of “compliant meters”. The finding, they say, is that there was a marking of measuring instruments, by the relevant respondent, with an Approval Number which carried with it a representation that the relevant respondent had the regulatory right to so mark that equipment. The respondents say that there was no finding that the measuring instruments of the respondents were non-compliant in any sense concerning accuracy of measurement. One question is what would a milk processor have done, or not done, had it known that the relevant respondent did not have or enjoy the regulatory right to mark a measuring instrument on its truck with the Approval Number which, at the time of the contravening conduct, was a right reserved to Flogineering.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 49,
+    "headings": [],
+    "text": "By letter dated 21 March 2019, RCR responded to KKI’s letter of 15 March 2019 asserting that the documents sought by KKI were not directly relevant to a question in issue in the proceeding. RCR took up the references by KKI to Particulars 1(c) and (d). Particular 1(c) is set out at [15] of these reasons. Particular 1(d) is in these terms:\n(d) each [processor] would have, upon discovering the misleading and deceptive conduct identified in the judgment of the Court dated 28 September 2018:\n(i) terminated the contract it had with the particular respondent;\n(ii) alternatively, required that the particular respondent immediately install Approved Instruments as a condition of continuing to engage the particular respondent.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 50,
+    "headings": [],
+    "text": "RCR asserted that the proposition contained in Particular 1(d) is a non-sequitur. They said this:\nIt neither flows from, nor has any logical connection to, the premises stated in sub-paragraph 1(c). In other words, the allegation in sub-paragraph 1(c) is irrelevant to the issue of whether or not [Flogineering] suffered the loss pleaded in paragraph 15 of the statement of claim by reason of our clients’ conduct.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 51,
+    "headings": [],
+    "text": "KKI responded on 28 March 2019 and RCR responded to that letter on 4 April 2019.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 52,
+    "headings": [],
+    "text": "The nub of the matter so far as the respondents are concerned is that none of the documents sought by the applicant ought to be produced by the respondents because those documents are said not to be directly relevant to the matters truly in issue in the proceeding. The respondents say that that follows because when para 1(c) of the Particulars is examined it reveals a very specific methodology adopted by the applicant. The respondents say that para 1(c) asserts that there are contractual obligations as between one or more of the respondents and one or more processors which require a respondent to use “approved meters”. They say that that was not a finding made in the determination of the liability issues. They say that there was no finding that any of the measuring instruments used by the respondents were not compliant with the regime established under the Act and Regulations.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 53,
+    "headings": [],
+    "text": "Paragraph 1(c) of the Particulars adopts an elliptical phrase. It says that it was material to each processor with whom a respondent contracted that the measurement of milk transfers was undertaken using a measuring instrument “the subject of a certificate of approval under the Act and Regulations” which is then described as an “Approved Instrument”. If para 1(c) is intended to convey, by that phrase, the notion that the material matter for processors is that the measuring instruments of the respondents comply with the requirements of the Act and Regulations in their technical performance characteristics and degree of accuracy, that paragraph does not frame correctly the relevant finding which has consequences for sub-paragraphs (i) and (ii) and then para 1(d) and para 2 of the Particulars (that is, the case methodology on loss and damage).",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 54,
+    "headings": [],
+    "text": "If, however, the phrase “the subject of a certificate of approval under the Act and Regulations (“Approved Instrument)”, is addressing a proposition that the measuring instruments of the respondents were marked with an Approval Number which conveyed a representation that the relevant respondent enjoyed a regulatory right to so mark its measuring instrument (when it did not enjoy that right), and processors regarded that matter as sufficiently material that it formed part of contractual arrangements between a processor and a relevant respondent, that formulation would be consistent with the contravening conduct found against the respondents. A processor might have acted in reliance upon the representation. It may be that the materiality of the marking is reflected in contractual documents.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 55,
+    "headings": [],
+    "text": "To the extent that paragraph 1(c) is to be understood in the way described at [54] of these reasons, it should stand. To the extent that it is to be understood as conveying the notion of compliance with the Act and Regulations in the sense described at [53] of these reasons, para 1(c) does not accurately frame the contravening conduct and thus disrupts anything that might be thought to flow from it.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 56,
+    "headings": [],
+    "text": "As a matter of methodology it is open to the applicant to assert that it has suffered loss or damage because of the contravening conduct of the respondents so long as the applicant can frame a case for loss and damage which clearly identifies reliance by a processor on a relevant respondent’s contravening conduct and having regard to that reliance, the applicant has suffered loss or damage. Contractual documents as between a processor and any one of the respondents might be relevant to the question of reliance by a processor on the contravening conduct as found (without repeating again the precise finding). It seems highly unlikely that there are no contractual documents in the hands of one or more of the respondent relating to the arrangements for bulk haulage of milk with a processor. There may not be a single document otherwise called “a contract” but it is highly likely that there will be exchanges by letters or emails which reflect an offer and acceptance (contractual documents) in relation to the bulk haulage of milk which identify the terms of the arrangements. I doubt very much whether such arrangements are all oral. Certainly, Parmalat undertook a tender process.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 57,
+    "headings": [],
+    "text": "The short answer to both applications is that the applicant will be given leave to amend (if thought appropriate) the Particulars so as to make clear precisely the conduct said to be material to a processor which symmetrically reflects the contravening conduct giving rise to the suffered loss and damage because of the reliance of a processor on the contravening conduct. Otherwise, para 1(c) ought to be dismissed. However, leave will be given to the applicant to amend the methodology statement to reflect the proper relationship between the contravening conduct as found, reliance by a third party, and loss or damage arising in the applicant because of the contravening conduct notwithstanding that reliance is that of a third party and not that of the applicant.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 58,
+    "headings": [],
+    "text": "The documents described in [56] would be likely to be relevant to a case theory properly framed having regard to the integers required by the Statute in making good a claim under s 236 of the ACL.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 59,
+    "headings": [],
+    "text": "Accordingly, both applications will be adjourned generally with costs reserved. The applicant will be given leave to amend the methodology statement. The question of whether the documents the subject of the applicant’s interlocutory application are to be produced can then be determined in light of any amendments to the methodology statement. The applicant will be given 14 days to make any changes to its methodology statement. The costs of the applications will be reserved for later determination.",
+    "judge": "GREENWOOD J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-nine (59) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Greenwood.",
+ "associate": null,
+ "dated": "2019-08-09",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "QUD 883 of 2016\nRespondents\nSecond Respondent: | WASTELL MILK HAULAGE PTY LTD ACN 147 389 302\nThird Respondent: | WADENE PTY LIMITED ACN 010 248 307\nFourth Respondent: | JR BULK LIQUID TRANSPORT PTY LTD ACN 143 639 276\nFifth Respondent: | JURSS ROBERTSON PTY LTD ACN 114 767 734"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "a6d0893cbbf7ca7acf26fccabd0f18b7e8ebef54a9d60baa3e3879a245e84465",
+ "markdown_file": "data/extracted/2019/2019FCA1258.md"
+}

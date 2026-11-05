@@ -1,0 +1,472 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2016/2016FCA0536.docx",
+ "metadata": {
+  "citation": "[2016] FCA 536",
+  "name": "Australian Competition and Consumer Commission v Cement Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2016,
+  "number": 536,
+  "date_of_judgment": "2016-05-16",
+  "file_numbers": [
+   "QUD295/2008"
+  ],
+  "judges": [
+   "GREENWOOD J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-04-29"
+  ],
+  "hearing_raw": "29 April 2016",
+  "last_submissions": "2016-05-13",
+  "number_of_paragraphs": 11,
+  "catchwords": [
+   "COMPETITION – consideration of the final orders to be made in the proceeding"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth), ss 23 and 37P",
+   "Federal Court Rules 2011, rules 1.32 and 1.36"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "CEMENT AUSTRALIA PTY LTD ACN 104 053 474 (and others named in the Schedule)",
+    "role": "First Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr S Couper QC and Mr M Hodge"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First to Sixth Respondents",
+    "name": "Ms S Brown QC with Mr P Franco and Mr C E Bannan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First to Sixth Respondents",
+    "name": "Herbert Smith Freehills"
+   },
+   {
+    "role": "counsel",
+    "for": "the Seventh Respondent",
+    "name": "Mr I Pike SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Seventh Respondent",
+    "name": "Meridian Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "Sunstate Cement Ltd",
+    "name": "Mr J Peden"
+   },
+   {
+    "role": "solicitor",
+    "for": "Sunstate Cement Ltd",
+    "name": "K&L Gates"
+   },
+   {
+    "role": "counsel",
+    "for": "Independent Flyash Brokers Pty Ltd",
+    "name": "Mr D L K Atkinson"
+   },
+   {
+    "role": "solicitor",
+    "for": "Independent Flyash Brokers Pty Ltd",
+    "name": "McInnes Wilson Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0536",
+  "portal_file_numbers": [
+   "QUD295/2008"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2016-05-16"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 295 of 2008"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "GREENWOOD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "16 May 2016"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – consideration of the final orders to be made in the proceeding"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth), ss 23 and 37P\nFederal Court Rules 2011, rules 1.32 and 1.36"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "29 April 2016"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "13 May 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "11"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr S Couper QC and Mr M Hodge"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First to Sixth Respondents",
+   "value": "Ms S Brown QC with Mr P Franco and Mr C E Bannan"
+  },
+  {
+   "label": "Solicitor for the First to Sixth Respondents",
+   "value": "Herbert Smith Freehills"
+  },
+  {
+   "label": "Counsel for the Seventh Respondent",
+   "value": "Mr I Pike SC"
+  },
+  {
+   "label": "Solicitor for the Seventh Respondent",
+   "value": "Meridian Lawyers"
+  },
+  {
+   "label": "Counsel for Sunstate Cement Ltd",
+   "value": "Mr J Peden"
+  },
+  {
+   "label": "Solicitor for Sunstate Cement Ltd",
+   "value": "K&L Gates"
+  },
+  {
+   "label": "Counsel for Independent Flyash Brokers Pty Ltd",
+   "value": "Mr D L K Atkinson"
+  },
+  {
+   "label": "Solicitor for Independent Flyash Brokers Pty Ltd",
+   "value": "McInnes Wilson Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD295/2008",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "CEMENT AUSTRALIA PTY LTD ACN 104 053 474 (and others named in the Schedule)",
+     "role": "First Respondent"
+    }
+   ],
+   "judges": [
+    "GREENWOOD J"
+   ],
+   "date": "2016-05-16",
+   "date_raw": "16 MAY 2016",
+   "orders": [
+    {
+     "label": "",
+     "text": "The 2005 Swanbank Contract Extension",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "The first respondent, Cement Australia Pty Ltd, by causing Pozzolanic Enterprises Pty Ltd (Pozzolanic) to enter into the agreement to extend the term of the Swanbank Contract from 31 December 2004 to 30 June 2005, with requisite knowledge of the provisions contemplated by the Declarations in paras 21 and 22 of the declarations and orders made on 28 February 2014 (as amended by paras 3 and 4 of these Orders), was knowingly concerned in Pozzolanic’s contravention of s 45(2)(a)(ii) of the Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth)) (described in these orders as the “Act”) referred to in those declarations.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Order 2 of the Declarations and Orders made on 28 February 2014 is varied to provide as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The proceedings, so far as they relate to contended contraventions of section 46 of the Trade Practices Act 1974 (Cth), now entitled the Competition and Consumer Act 2010 (Cth) (the “Act”) on the part of any respondents, are dismissed as against those respondents.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The Declaration made at para 21 of the Declarations and Orders made on 28 February 2014 is varied to provide as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Pozzolanic, by exercising an option on 11 July 2002, to extend the term of the Swanbank Contract to 31 December 2004 on the terms of the amendment letter of 9 September 1998 and the Agreement of 30 September 1998, and further extend the amended Swanbank Contract to 30 June 2005 incorporating the identified provisions conferring exclusive access to Swanbank flyash in Pozzolanic until 30 June 2005, being provisions that would have the likely effect, and had the effect of preventing a rival of Pozzolanic from securing access to Swanbank unprocessed flyash in the unprocessed flyash market from 1 January 2001 to 30 June 2005, and preventing a rival of QCL from entering the SEQ concrete grade flyash market up to 31 May 2003 and thereafter preventing a rival of Cement Australia from entering the SEQ concrete grade flyash market, thereby substantially lessening competition in the SEQ unprocessed flyash market and the SEQ concrete grade flyash market, contravened section 45(2)(a)(ii) of the Competition and Consumer Act 2010 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The Declaration made at para 22 of the Declarations and Orders made on 28 February 2014 is varied to provide as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Pozzolanic, by entering into an agreement to extend the term of the Swanbank Contract from 31 December 2004 to 30 June 2005 on the terms of the amendment letter of 9 September 1998 and the Agreement of 30 September 1998 incorporating the identified provisions conferring exclusive access to Swanbank flyash in Pozzolanic until 30 June 2005, being an arrangement incorporating the relevant provisions, having a substantial purpose of preventing a rival of Pozzolanic from securing access to Swanbank unprocessed flyash in the unprocessed flyash market until 30 June 2005, and preventing a rival of Cement Australia from entering the SEQ concrete grade flyash market until 30 June 2005, thereby substantially lessening competition in the SEQ unprocessed flyash market and the SEQ concrete grade flyash market, contravened section 45(2)(a)(ii) of the Competition and Consumer Act 2010 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The Declaration made at para 28 of the Declarations and Orders made on 28 February 2014 is varied to provide as follows:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Mr White was knowingly concerned in Pozzolanic’s contravention of section 45(2)(b)(ii) of the Act in relation to the conduct contemplated by the above declarations (numbered 23 and 24) from the period 31 December 2004 to 30 June 2015.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "As to the Original Millmerran Contract, as described in the Declaration made at para 6 of the Declarations and Orders made on 28 February 2014, a pecuniary penalty be paid to the Commonwealth of Australia (the “Commonwealth”) pursuant to s 76(1) of the Act by the fourth respondent jointly and severally with the third respondent: in respect of the making of the contract by the fourth respondent containing provisions which had a substantial purpose of, the likely effect of, and until 31 December 2003 the effect of, substantially lessening competition in the SEQ unprocessed flyash market and the SEQ concrete grade flyash market as described in the Declaration made at para 6 of the Declarations and Orders made on 28 February 2014; and in respect of the third respondent having been knowingly concerned in the making of the contract containing those provisions as described in the Declaration made at para 7 of the Declarations and Orders made on 28 February 2014, of $3.5 million.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "As to the Original Millmerran Contract as described in para 6 of these Orders, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the third respondent in respect of the conduct of giving effect to the provisions of the Original Millmerran Contract contemplated by para 6 of these Orders and the Declarations made at paras 8 and 9 of the Declarations and Orders made on 28 February 2014, of $500,000.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "No pecuniary penalty be ordered to be paid in respect of the conduct of the fifth respondent having given a guarantee of the Original Millmerran Contract.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "As to the Tarong Contract as described in the Declaration made at para 16 of the Declarations and Orders made on 28 February 2014, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the third respondent: in respect of the making of the Tarong Contract by the fourth respondent containing provisions which had a substantial purpose of, the likely effect of, and the effect of, substantially lessening competition in the SEQ unprocessed flyash market and the SEQ concrete grade flyash market as described in the Declaration made at para 16 of the Declarations and Orders made on 28 February 2014; and in respect of the third respondent having been knowingly concerned in the making of the contract containing those provisions as described in the Declaration made at para 16 of the Declarations and Orders made on 28 February 2014, being the conduct the subject of the declarations at paras 16 and 17 of the Declarations and Orders made on 28 February 2014, of $5.5 million.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "As to the Tarong Contract as described in para 9 of these Orders, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the third respondent in respect of the conduct of giving effect to the provisions of the Tarong Contract contemplated by para 9 of these Orders and the Declarations made at paras 18 and 20 of the Declarations and Orders made on 28 February 2014, of $5.5 million.",
+     "level": 0
+    },
+    {
+     "label": "11.",
+     "text": "No pecuniary penalty is ordered to be paid in respect of the conduct of the third respondent having given effect to the provisions of the Tarong Contract contemplated by para 9 of these Orders, in the period March, April and May 2003, the subject of the declaration made at para 19 of the Declarations and Orders made on 28 February 2014.",
+     "level": 0
+    },
+    {
+     "label": "12.",
+     "text": "As to the Amended Millmerran Contract as described in the Declaration made at para 12 of the Declarations and Orders made on 28 February 2014, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the first respondent: in respect of the making of the Amended Millmerran Contract by the fourth respondent containing provisions which had the purpose of substantially lessening competition as described in the Declaration made at para 12 of the Declarations and Orders made on 28 February 2014; and in respect of the first respondent having been knowingly concerned in the making of the contract containing those provisions as described in the Declaration made at para 12 of the Declarations and Orders made on 28 February 2014, being the conduct the subject of the declarations at paras 12 and 13 of the Declarations and Orders made on 28 February 2014, of $850,000.",
+     "level": 0
+    },
+    {
+     "label": "13.",
+     "text": "No pecuniary penalty is ordered to be paid in respect of the matters the subject of the Declarations made at paras 14 and 15 of the Declarations and Orders made on 28 February 2014.",
+     "level": 0
+    },
+    {
+     "label": "14.",
+     "text": "As to the Swanbank Contract as described in the Declaration made at para 21 of the Declarations and Orders made on 28 February 2014 (as amended by para 3 of these Orders), in the period up to 31 December 2004, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent in respect of the making of the extension of the contract containing provisions that would have the likely effect and had the effect of substantially lessening competition as contemplated by the Declaration made at para 21 of the Declarations and Orders made on 28 February 2014 (as amended by para 3 of these Orders), of $1.5 million.",
+     "level": 0
+    },
+    {
+     "label": "15.",
+     "text": "As to the Swanbank Contract extension as described in the Declaration made at para 22 of the Declarations and Orders made on 28 February 2014 (as amended by para 4 of these Orders), in the period from 1 January 2005 to 30 June 2005, a pecuniary penalty be paid to the Commonwealth by the fourth respondent jointly and severally with the first respondent: in respect of the making of the extension of the contract from 1 January 2005 to 30 June 2005 by the fourth respondent containing provisions having, as a substantial purpose, the purpose of substantially lessening competition as described in the Declaration made at para 22 of the Declarations and Orders made on 28 February 2014 (as amended by para 4 of these Orders) and the Declaration made at para 1 of these Orders; and in respect of the giving effect to the extension until 30 June 2005 by the first respondent, as contemplated by the Declarations made at paras 22 (as amended by para 4 of these Orders), 24 and 26 of the Declarations and Orders made on 28 February 2014, of $200,000.",
+     "level": 0
+    },
+    {
+     "label": "16.",
+     "text": "As to the Swanbank Contract as described in para 14 of these Orders, in the period up to 31 December 2004, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the third respondent in respect of the conduct by those respondents of having given effect to the identified provisions of the Swanbank Contract up to 31 December 2004, as contemplated by the Declarations made at paras 21, 23 and 25 of the Declarations and Orders made on 28 February 2014, of $1 million.",
+     "level": 0
+    },
+    {
+     "label": "17.",
+     "text": "As to the Swanbank Contract extension as described in the Declaration made at para 22 of the Declarations and Orders made on 28 February 2014 (as amended by para 4 of these Orders), in the period 1 January 2005 to 30 June 2005, a pecuniary penalty be paid to the Commonwealth pursuant to section 76(1) of the Act by the fourth respondent jointly and severally with the first respondent in respect of their having given effect to the relevant provisions of the contract to 30 June 2005 as contemplated by the Declarations made at paras 22 (as amended by para 4 of these Orders) and 26 of the Declarations and Orders made on 28 February 2014, of $50,000.",
+     "level": 0
+    },
+    {
+     "label": "18.",
+     "text": "The seventh respondent pay a pecuniary penalty to the Commonwealth pursuant to section 76(1) of the Act in respect of the conduct described at Declarations 27 and 28 in an amount of $20,000.",
+     "level": 0
+    },
+    {
+     "label": "19.",
+     "text": "The first to fifth respondents pay 65% of the applicant’s costs of and incidental to the proceeding up to 10 September 2013 and 100% of the applicant’s costs of and incidental to the proceeding on and after 10 September 2013, on a party and party basis to be taxed if not agreed.",
+     "level": 0
+    },
+    {
+     "label": "20.",
+     "text": "The proceedings are dismissed as against the sixth respondent.",
+     "level": 0
+    },
+    {
+     "label": "21.",
+     "text": "The applicant pay the costs of the sixth respondent to the extent only that there are any separate and identifiable costs incurred by the sixth respondent over and above those costs of and incidental to the representation by solicitors and counsel of the first to fifth respondents recognising that the sixth respondent was represented by the same solicitors and counsel who represented the first to fifth respondents in the proceeding.",
+     "level": 0
+    },
+    {
+     "label": "22.",
+     "text": "Having regard to the circumstance that throughout the course of the proceedings the Court made a number of Orders directing that particular information of the respondents and other parties responding to subpoenas be regarded as confidential (such as market sensitive data concerning the prices charged by trade rivals and other such data) and at least some of that information is likely to be no longer confidential, the applicant and the first to fifth respondents are directed to submit to the Court a schedule identifying each such confidentiality order made during the course of the proceedings, by date and subject matter, and to the extent that those parties cannot agree the content of the schedule, the applicant and the first to fifth respondents are directed to submit their respective versions of the schedule to the Court for the purpose of determining whether any one or more of the Orders should be varied or discharged.",
+     "level": 0
+    },
+    {
+     "label": "23.",
+     "text": "As to the schedule contemplated by para 22 of these Orders, the applicant and the first to fifth respondents are directed to file by 30 June 2016 submissions as to whether any one or more of the confidentiality Orders, so far as those Orders relate to information of the respondents, should be discharged or otherwise varied, and so far as any Order relates to the information of third parties provided to the Court and the parties, in response to a subpoena issued by either the applicant or any one of the first to fifth respondents, or relates to information otherwise produced by a third party, the applicant and the first to fifth respondents are directed to identify the solicitors who acted for any relevant third party so that notice might be given to those solicitors on behalf of that third party as to whether a particular Order, affecting that third party, is to be discharged or otherwise varied or remain on foot for a particular period.",
+     "level": 0
+    },
+    {
+     "label": "24.",
+     "text": "The proceeding is adjourned to a date to be fixed to determine any question in relation to the matters arising under paras 22 and 23 of these Orders.",
+     "level": 0
+    },
+    {
+     "label": "25.",
+     "text": "The Court orders that market sensitive data contained in the reasons for judgment published by the Court to the parties only on 29 April 2016 bearing the Medium Neutral Citation Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2016] FCA 453 be removed from the reasons for judgment until further order.",
+     "level": 0
+    },
+    {
+     "label": "26.",
+     "text": "The time for filing any appeal from any of the Declarations and Orders made on 28 February 2014, and the Orders made today runs, for the purposes of Order 31 of the Declarations and Orders made on 28 February 2014 from the date of publication of these Orders.",
+     "level": 0
+    },
+    {
+     "label": "27.",
+     "text": "These Orders are published from Chambers pursuant to ss 23 and 37P of the Federal Court of Australia Act 1976 (Cth) and rules 1.32 and 1.36 of the Federal Court Rules 2011.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 29 April 2016, the Court published judgment in relation to the pecuniary penalty aspects of the proceeding and other related outstanding questions.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "In those Orders, the Court directed the applicant to submit to the Court proposed final Orders having regard to the reasons for judgment and the matters set out in the Orders made on 29 April 2016, also taking account of the Court’s decision concerning the Orders sought by the applicant in Annexure A to its principal submissions.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "On 12 May 2016, the applicant submitted a draft containing five proposed Orders which were confined to only those matters addressed at Order 2 of the Orders made on 29 April 2016.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The Court had in mind that the applicant would address the field of final Orders to be made having regard to the reasons for judgment published on 29 April 2016 and the other matters mentioned above.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Those Orders would necessarily distil, into final form, the pecuniary penalty findings made in the reasons for judgment. The final Orders would also need to take account of the relationship between the earlier Declarations and the further proposed Declaration at Order 1 of these reasons and the findings as to the amount of the penalties.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The final Orders would also need to deal with the dismissal of the proceeding as against Mr Leon and the costs consequences of the applicant having been unsuccessful as against Mr Leon in the proceedings and any other matters that would require attention in order to bring all outstanding matters to finality.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The Orders published today take account of all those matters.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "They also make provision for dealing with the various confidentiality/non-publication Orders made during the course of the proceedings.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The reasons for judgment published on 29 April 2016 contain significant references to market sensitive data relating to prices charged by trade rivals especially in the period 2011 to 2013. The Orders made on 29 April 2016 directed the parties to submit a schedule to the Court setting out confidential market data recorded in the reasons for judgment which ought to be excised from those reasons so as to preserve the confidentiality of that information with a view to ensuring that market sensitive information provided to the Court by one trader would not be published to trade rivals. The Court has now received that schedule and the Orders made today provide for the non-publication of that information and its excision from the reasons for judgment to be published publicly on the Court’s website.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The information so excised will remain subject to a confidentiality/non-publication Order until further Order. The information will be excised from the reasons for judgment and placed into a confidential schedule. That schedule will be held on the Court file as a permanent record of the market data excised from the reasons for judgment cross-referenced to the relevant paragraphs of the judgment.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "These Orders are now published from Chambers pursuant to ss 23 and 37P of the Federal Court of Australia Act 1976 (Cth) and rules 1.32 and 1.36 of the Federal Court Rules 2011.",
+    "judge": "GREENWOOD J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eleven (11) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Greenwood.",
+ "associate": null,
+ "dated": "2016-05-16",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "QUD 295 of 2008\nRespondents\nSecond Respondent: | CEMENT AUSTRALIA HOLDINGS PTY LTD ACN 001 085 561\nThird Respondent: | CEMENT AUSTRALIA (QUEENSLAND) PTY LTD FORMERLY QUEENSLAND CEMENT LTD ACN 009 658 520\nFourth Respondent: | POZZOLANIC ENTERPRISES PTY LTD ACN 010 367 898\nFifth Respondent: | POZZOLANIC INDUSTRIES PTY LTD ACN 010 608 947\nSixth Respondent: | CHRISTOPHER GUY LEON\nSeventh Respondent: | CHRISTOPHER STEPHEN WHITE"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "7c0d226836ac7b3cdcdb90dc1c1f00636bb850f573d366db4ead66180eebf007",
+ "markdown_file": "data/extracted/2016/2016FCA0536.md"
+}

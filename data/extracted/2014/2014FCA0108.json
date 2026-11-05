@@ -1,0 +1,1051 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2014/2014FCA0108.docx",
+ "metadata": {
+  "citation": "[2014] FCA 108",
+  "name": "Julstar Pty Ltd v Hart Trading Pty Ltd",
+  "court": "FCA",
+  "year": 2014,
+  "number": 108,
+  "date_of_judgment": "2014-02-20",
+  "file_numbers": [
+   "QUD16/2011"
+  ],
+  "judges": [
+   "GREENWOOD J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Brisbane",
+  "hearing_raw": "Each application was dealt with on the papers by affidavit evidence and written submissions of the parties, rather than an oral hearing",
+  "last_submissions": "2014-01-21",
+  "number_of_paragraphs": 111,
+  "catchwords": [
+   "COSTS – where offers to settle made by respondents –consideration of an application by each of the respondents for orders for costs against the applicants from a particular date on an indemnity costs basis – consideration of aspects of observations made in authorities of this Court on and from 2009 in relation to the operation of Order 23 which do not properly take account of the amendment to Order 23 effective from 2 August 2008 in introducing Order 23, r 11(6) of the Federal Court Rules 1979"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976, ss 23, 43 and 59",
+   "Federal Court Rules 2011, Pt 25, r 25",
+   "Federal Court Rules 1979, Order 23, r 11(4), (5) and (6)",
+   "Federal Court Rules Amendment Rules 2008 (No. 1), Select Legislative Instrument 2008, (No. 159)"
+  ],
+  "cases_cited": [
+   "Julstar Pty Ltd v Hart Trading Pty Ltd [2013] FCA 1359 – cited",
+   "Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141 – cited",
+   "Visscher v Teekay Shipping (Australia) Pty Ltd (No 5) [2013] FCA 28 – cited",
+   "Hazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (2005) 13 VR 435 – cited",
+   "Strategic Property Reservoir Pty Ltd v Condec Pty Ltd (No 2) [2013] VSC 29 – cited",
+   "Australian Health & Nutrition Association Limited trading as Sanitarium Health Food Company v Irrewarra Estate Pty Limited trading as Irrewarra Sourdough (No 2) [2012] FCA 892 – cited",
+   "Kazar v Kargarian (2011) 197 FCR 113 - cited",
+   "Coshott v Learoyd [1999] FCA 276 – cited",
+   "Seven Network Limited v News Limited (2007) 244 ALR 374; [2007] FCA 1489 - cited",
+   "Calderbank v Calderbank [1975] 3 WLR 586",
+   "Berrigan Shire Council v Ballerini (No 2) [2006] VSCA 65 – cited",
+   "Truenergy Pty Ltd v Dispute Resolution Panel (No 2) [2009] VSC 612 – cited",
+   "IPEX ITG Pty Ltd (in liq) v State of Victoria (No 2). [2011] VSC 39 – cited",
+   "Julstar v Hart Trading Pty Ltd [2011] FCA 657 - cited"
+  ],
+  "parties": [
+   {
+    "name": "JULSTAR PTY LTD (ACN 122 620 400)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "SEMOLINA PTY LTD (ACN 117 933 570)",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "JULIANNE STARIHA",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "HART TRADING PTY LTD (ACN 114 806 996)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "COLLEEN TRACEY HART",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FRONTLINE RECRUITMENT GROUP PTY LTD",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "(ACN 078 126 851)",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "PETER JOHN DAVIS",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "JULSTAR PTY LTD (ACN 122 620 400)",
+    "role": "Applicant"
+   }
+  ],
+  "parties_summary": "JULSTAR PTY LTD (ACN 122 620 400), SEMOLINA PTY LTD (ACN 117 933 570), JULIANNE STARIHA v HART TRADING PTY LTD (ACN 114 806 996), COLLEEN TRACEY HART, FRONTLINE RECRUITMENT GROUP PTY LTD (ACN 078 126 851) and PETER JOHN DAVIS",
+  "representation": [
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Mr R O’Sullivan, Shand Taylor Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the First and Second Respondents",
+    "name": "Mr C Jennings"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First and Second Respondents",
+    "name": "Thomsons Lawyers"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third and Fourth Respondents",
+    "name": "Mr A Evans, HWL Ebsworth Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0108",
+  "portal_file_numbers": [
+   "QUD16/2011"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2014-02-20"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Julstar Pty Ltd v Hart Trading Pty Ltd [2014] FCA 108"
+  },
+  {
+   "label": "Parties",
+   "value": "JULSTAR PTY LTD (ACN 122 620 400), SEMOLINA PTY LTD (ACN 117 933 570), JULIANNE STARIHA v HART TRADING PTY LTD (ACN 114 806 996), COLLEEN TRACEY HART, FRONTLINE RECRUITMENT GROUP PTY LTD (ACN 078 126 851) and PETER JOHN DAVIS"
+  },
+  {
+   "label": "File number(s)",
+   "value": "QUD 16 of 2011"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "GREENWOOD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "20 February 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – where offers to settle made by respondents –consideration of an application by each of the respondents for orders for costs against the applicants from a particular date on an indemnity costs basis – consideration of aspects of observations made in authorities of this Court on and from 2009 in relation to the operation of Order 23 which do not properly take account of the amendment to Order 23 effective from 2 August 2008 in introducing Order 23, r 11(6) of the Federal Court Rules 1979"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976, ss 23, 43 and 59\nFederal Court Rules 2011, Pt 25, r 25\nFederal Court Rules 1979, Order 23, r 11(4), (5) and (6)\nFederal Court Rules Amendment Rules 2008 (No. 1), Select Legislative Instrument 2008, (No. 159)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Julstar Pty Ltd v Hart Trading Pty Ltd [2013] FCA 1359 – cited\nKooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141 – cited\nVisscher v Teekay Shipping (Australia) Pty Ltd (No 5) [2013] FCA 28 – cited\nHazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (2005) 13 VR 435 – cited\nStrategic Property Reservoir Pty Ltd v Condec Pty Ltd (No 2) [2013] VSC 29 – cited\nAustralian Health & Nutrition Association Limited trading as Sanitarium Health Food Company v Irrewarra Estate Pty Limited trading as Irrewarra Sourdough (No 2) [2012] FCA 892 – cited\nKazar v Kargarian (2011) 197 FCR 113 - cited\nCoshott v Learoyd [1999] FCA 276 – cited\nSeven Network Limited v News Limited (2007) 244 ALR 374; [2007] FCA 1489 - cited\nCalderbank v Calderbank [1975] 3 WLR 586\nBerrigan Shire Council v Ballerini (No 2) [2006] VSCA 65 – cited\nTruenergy Pty Ltd v Dispute Resolution Panel (No 2) [2009] VSC 612 – cited\nIPEX ITG Pty Ltd (in liq) v State of Victoria (No 2). [2011] VSC 39 – cited\nJulstar v Hart Trading Pty Ltd [2011] FCA 657 - cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Each application was dealt with on the papers by affidavit evidence and written submissions of the parties, rather than an oral hearing"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "21 January 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Brisbane"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "111"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Mr R O’Sullivan, Shand Taylor Lawyers"
+  },
+  {
+   "label": "Counsel for the First and Second Respondents",
+   "value": "Mr C Jennings"
+  },
+  {
+   "label": "Solicitor for the First and Second Respondents",
+   "value": "Thomsons Lawyers"
+  },
+  {
+   "label": "Solicitor for the Third and Fourth Respondents",
+   "value": "Mr A Evans, HWL Ebsworth Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD16/2011",
+   "parties": [
+    {
+     "name": "JULSTAR PTY LTD (ACN 122 620 400)",
+     "role": "First Applicant"
+    },
+    {
+     "name": "SEMOLINA PTY LTD (ACN 117 933 570)",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "JULIANNE STARIHA",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "HART TRADING PTY LTD (ACN 114 806 996)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "COLLEEN TRACEY HART",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FRONTLINE RECRUITMENT GROUP PTY LTD",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "(ACN 078 126 851)",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "PETER JOHN DAVIS",
+     "role": "Fourth Respondent"
+    }
+   ],
+   "judges": [
+    "GREENWOOD J"
+   ],
+   "date": "2014-02-20",
+   "date_raw": "20 FEBRUARY 2014",
+   "place": "BRISBANE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicants pay the costs of the respondents of and incidental to the proceeding up to and including 11 March 2012 on a party and party basis.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicants pay the costs of the respondents of and incidental to the proceeding on and from 10.15am, 12 March 2012 on an indemnity basis.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The respondents are granted leave to file and serve any application by which they seek an order for costs against any non-party to the proceeding, within 28 days of these orders.",
+     "level": 0
+    }
+   ],
+   "registry": "Queensland",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Background"
+    ],
+    "text": "These proceedings are concerned with the disposition of the costs of the principal proceeding which was the subject of judgment on 12 December 2013 after a seven day hearing. On that day, orders were made dismissing the claims of the applicants as against all respondents. The applicants were also ordered to pay the costs of all respondents of and incidental to the proceedings. Those orders were supported by reasons for judgment published that day: Julstar Pty Ltd v Hart Trading Pty Ltd [2013] FCA 1359 (the “principal judgment”)."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Background"
+    ],
+    "text": "The reasons in the principal judgment are incorporated by reference with these reasons and these reasons are to be read together with the reasons in the principal judgment."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Background"
+    ],
+    "text": "In pronouncing judgment on 12 December 2013, the respondents requested to be heard on the question of costs having regard to offers that had been made during the course of the proceedings. Accordingly, Order 2 of the orders pronounced that day ordering the applicants to pay the costs of the respondents of and incidental to the proceeding was vacated. The respondents were ordered to file and serve written submissions as to costs by 18 December 2013 and the applicants were required to file and serve their written submissions by 21 January 2014."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Background"
+    ],
+    "text": "The first and second respondents are conveniently described as the “Hart Parties”. The Hart Parties rely upon the affidavit of Mr Bentley Sean Coogan sworn 17 December 2013 and written submissions filed on their behalf on 18 December 2013."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Background"
+    ],
+    "text": "The third and fourth respondents are conveniently described as the “Frontline Parties” and they rely upon the affidavit of David Gareth Jenkins sworn 17 December 2013 and written submissions filed on their behalf on 18 December 2013. The applicants rely upon written submissions filed on 21 January 2014. The use of the term “applicants” in these reasons means the applicants in the principal proceeding, not the “respondent applicants” on the indemnity costs applications."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "Mr Coogan on behalf of the Hart Parties deposes to the following matters."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "Mr Coogan is a member of the firm Thomsons Lawyers, the solicitors for the Hart Parties. Mr Coogan has the care and conduct of the litigation commenced by the applicants against the Hart Parties. On 4 August 2011, Thomsons Lawyers served the applicants, by their then solicitors, Lynch Morgan Lawyers, with a “Notice of Offer of Compromise” under r 25.01(1) of the Federal Court Rules 2011. By that offer, the Hart Parties offered to compromise the claims of Julstar Pty Ltd (“Julstar”) and Julianne Stariha (“Mrs Stariha”) on the following basis:\n1 The Hart Parties pay the Julstar Parties [being a reference to Julstar and Mrs Stariha] the sum of $500.00.\n2 The Hart Parties pay the said sum within 28 days of acceptance of this offer.\n3 The Hart Parties and the Julstar Parties pay their own costs (including reserved costs) of and incidental to these proceedings.\n4 The application filed 3 February 2011 be discontinued, insofar as it relates to the Hart Parties within 7 days of acceptance of this offer.\nThis offer will remain open to be accepted for a period of 14 days beginning on the day after it is made.\nThis offer of compromise is made under Rule 25.01 of the Federal Court Rules and is made without prejudice."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "On 4 August 2011, the offer was sent by email by Thomsons Lawyers to Lynch Morgan Lawyers attaching a six page letter which sought to explain the reasoning underlying the proposition upon which the offer was grounded that the claims of the applicants had no merits. As to the representations alleged against the Hart Parties, the letter said this:\nOur clients do not understand the reasons why your clients have elected to join them to these proceedings. Indeed, our clients’ view is that your clients do not have a proper action against them and that these proceedings are doomed to fail. We suspect that Ms Stariha has an imperfect recollection of what occurred in 2006 and has reconstructed the events without a proper consideration of the contemporaneous documents.\n[emphasis added]"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "At points 3 to 12, the authors of the letter, Mr Coogan and Mr Henderson, address the content of the representations alleged against the Hart Parties and seek to give emphasis to matters such as Mrs Stariha’s experience in the Frontline franchise leading up to the acquisition; her performance in the Gold Coast Agency in 2006; issues in relation to valuation methodology; factual questions in relation to Mrs Hart and the role of Ms Hutt, the book-keeper; factual issues in relation to the spreadsheets; the contended meetings and the content of the contended representations. The authors examine the foundation for the contended representations and note that they consist of oral representations denied by the Hart Parties. The authors assert that the oral representations are not consistent with the documents and that their “analysis of the discovery, and the surrounding circumstances, suggests that it is highly unlikely that Ms Hart made such statements”. Five sub-propositions are identified at point 9 in support of that position. Point 10 deals with the issue of the revision to the spreadsheets. Point 11 deals with issues in relation to the spreadsheet emailed on 13 October 2006 and point 12 deals with the issues in relation to the 401 contracted clients."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "Apart from these issues, the letter deals with reliance at point 13 and questions of loss and damage at points 14-20. At points 21 and 22, the authors deal with the question of credit and assert that having regard to the discovered documents and the chronology of events contended for by the Hart Parties, Mrs Stariha would have significant difficulty in persuading the Court to accept her version of the relevant events. At point 23, and points 25 to 28, the authors said this:\n23. For all of the above reasons, our clients maintain the view that your clients cannot succeed in this litigation. If they fail, and your clients do not accept the enclosed offer, then there is a good likelihood that your clients will be required to pay part of our clients’ costs on an indemnity basis. As you will no doubt advise your clients, these costs are likely to be very substantial.\n…\n25. What our clients are offering now is a way for your clients to walk away now. This is a significant compromise by our clients as they truly believe that the proper result of this litigation should be that your clients pay all of their legal costs and return them to the position they were in before litigation was started. They say this because, in their view, they should never have been included in these proceedings and your “walk-out” from the mediation has done nothing but cause our clients’ patience to wear thin.\n26. They are making this offer now before their costs increase dramatically with the preparation of their witness statements and expert reports. As explained at the mediation, we expect that all of the parties’ costs will be in the range of $200,000 to $300,000 for advancing the proceeding to trial. Therefore, if your clients do not accept this offer and are unsuccessful at trial (which is the result our clients contend), they are likely to be liable for all of these costs, along with the costs up to 11.00am tomorrow on a standard basis (in accordance with Rule 25.14 of the Federal Court Rules 2011).\n27. The time to accept this offer and settle these proceedings is now. If your clients reject this offer, then our clients are of the view that the time for resolving this dispute has passed and they will invest their time and energy in proceeding to trial.\n28. We reserve our clients’ rights to bring this letter to the attention of the Court, as to the question of costs, if necessary. We await your response."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The offer made by the Hart Parties"
+    ],
+    "text": "The offer was not accepted by Julstar and Mrs Stariha."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "Mr Jenkins, on behalf of the Frontline Parties, deposes to the following matters."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "Mr Jenkins is a member of the firm HWL Ebsworth Lawyers, the solicitors for the Frontline Parties. He is the partner responsible for the conduct of the litigation for them. On 27 July 2011, Mr Jenkins caused an email to be sent to Lynch Morgan Lawyers attaching a letter from Mr Jenkins of the same date in which the Frontline Parties put the following offer to Julstar, Mrs Stariha and Semolina Pty Ltd (“Semolina”):\nOffer to settle\nWe are instructed to convey the following settlement offer to you:\n1. Frontline Recruitment Group Pty Ltd and Mr Davis will pay the applicants $100.00 in full and final satisfaction [of] all claims in these proceedings;\n2. Each party will bear its own costs in these proceedings;\n3. Your clients will discontinue the proceedings as against the third and fourth respondents within 7 days of acceptance of this offer."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The offer was expressed to be made “pursuant to the principles in the decision of Calderbank v Calderbank”. The letter recited that in the event that the proceedings were not settled, the Frontline Parties would rely upon the letter on any question concerning an order for costs. The letter recites that the offer remains open for 14 days from the date of the letter and should the offer not be accepted within 14 days, it would lapse and be no longer capable of acceptance."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The letter of 27 July 2011 is a four page letter which seeks to analyse the factors which caused the Frontline Parties to take the view that the claims of Julstar, Mrs Stariha and Semolina were unmeritorious. The letter begins in this way:\nWe are writing to you to revisit several points that we do not think were adequately conveyed to you and your clients at the mediation last week, because of the way the mediation proceeded. This is important because at the end of this process, if the outcome is as our client expects it will be, our clients wish to be completely indemnified in respect of their costs.\n[emphasis added]"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The mediation referred to in the opening paragraph of that letter is a reference to a mediation conducted pursuant to an order of the Court of 17 May 2011. On that day, the Court ordered the parties, under s 53A of the Federal Court of Australia Act 1976 (the “Federal Court Act”), to attend, and act reasonably at, a mediation of the issues in the proceeding on a date suitable to the parties but no later than 22 July 2011. The mediation took place on 20 July 2011. However, the mediation was abandoned when the applicants did not return after a break. Accordingly, the letter of 27 July 2011 is said in part to set out the points the Frontline Parties say they sought to make at the mediation but were not adequately able to convey to Julstar, Mrs Stariha and Semolina and their legal representatives “because of the way the mediation proceeded”."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The letter of 27 July 2011 contends that counsel for the Frontline Parties, Mr Jones, at the mediation attempted to address some remarks about the way in which the s 52 claim had been framed, although he was not able to completely develop those observations due to the applicants not returning to the mediation. The letter then seeks to develop those points. The letter then addresses the merits of the claim in some particularity. The letter introduces a discussion of seven factors (with some sub-factors) in this way:\nAlthough … there are still steps remaining to be completed in the information gathering phase of this matter, a fairly clear picture of what occurred with your client’s business has already emerged. The picture leads to the conclusion that your clients’ claims are without any merit and to the extent that there can ever be any certainty in litigation, we are as certain as we can be that your clients will be unsuccessful (against the Frontline parties) and that they will almost inevitably be ordered to pay hundreds of thousands of dollars in our clients’ costs (whether or not your clients have any success against the Hart parties).\n[emphasis added]"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The seven points which seek to give content to the introductory proposition are concerned with Mrs Stariha’s knowledge and understanding of the financial performance of the business in the 12 months before her purchase of it; the events in the period 1 July 2006 to 30 June 2007; the financial performance and other events in the period 1 July 2007 to 30 June 2008; the financial and other events relating to the period 1 July 2008 to 30 June 2009 and contended difficulties Mrs Stariha was experiencing in this period; questions of cost control and sales performance in the financial years ending 30 June 2007 and 30 June 2008; and the contended abandonment of the business by the applicant parties. Mr Jenkins concludes those remarks by observing:\nThese facts can be objectively verified. We understand it may suit your clients’ purpose to refute and reject these facts, but they are all capable of being proved and will be proved in due course. Before both our respective clients are put through the wringer of litigation though, we ask that you consider the consequences for your clients if this matter goes to trial and these facts are accepted by the Court.\n[emphasis added]"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The offer made by the Frontline Parties"
+    ],
+    "text": "The letter goes on to explain the views of the Frontline Parties in relation to questions of credit in issue in the proceedings. The letter also deals with issues in relation to stated franchisee costs in the financial reporting templates. The letter then introduces the offer by seeking to draw the following matters to the attention of the applicants:\nOur clients’ costs\nBased on all the evidence we have seen to date, we are genuinely unable to see how your clients can succeed. The allegations are poorly conceived and pleaded. Such is the weight of factual evidence against your clients, that their action is doomed to fail.\nIn spite of the weaknesses of your clients’ case, they have apparently elected, on advice, to pursue litigation that is doomed to fail. Given the cost of a trial, we expect that the end of a trial will see your clients impecunious. Accordingly we place you on notice now that our client has instructed us to press for a special order that your firm also be responsible to pay our clients’ costs of the action in the event that your clients are unable to pay any final costs order made.\n[emphasis added]"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The second offer made by the Frontline Parties"
+    ],
+    "text": "On 6 March 2012, Mr Jenkins caused an email to be sent to Lynch Morgan Lawyers attaching a letter from him putting a second offer to the applicants in these terms:\nWithout Prejudice Save As To Costs\nOur clients offer to settle this matter on the basis that:\n1. pursuant to rule 26.12, the applicants discontinue the proceedings as against the third and fourth respondents, with no order as to costs; and\n2. the applicants agree not to enforce any costs orders against the third and fourth respondents made in favour of the applicants.\nThis offer remains open for acceptance until 4pm this coming Friday, 9 March 2012.\nIf the offer is not accepted, our clients reserve the right to rely on this letter in any question as to costs."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The second offer made by the Frontline Parties"
+    ],
+    "text": "Neither offer of the Frontline Parties is expressed to be made pursuant to any provision of the Federal Court Rules 2011. The Frontline Parties rely upon the principles to be applied derived from the jurisprudence in this Court concerning the settled principles applicable to the exercise of the discretion as to costs under s 43 of the Federal Court Act in circumstances where an offer has been made by a respondent and an applicant has elected to reject the offer and has subsequently either failed to achieve a result more favourable than the offer or has been wholly unsuccessful in the proceeding."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The second offer made by the Frontline Parties"
+    ],
+    "text": "I will address those principles shortly."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "As to the Hart Parties, they contend that the appropriate costs order is that Julstar and Mrs Stariha pay the costs of the Hart Parties of and incidental to the proceeding incurred prior to 11.00am on 8 August 2011 (being the second business day after the making of the formal offer) on a party and party basis, and from 11.00am on 8 August 2011, Julstar and Mrs Hart pay the costs of the Hart Parties of and incidental to the proceeding on an indemnity basis."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "Alternatively, the Hart Parties contend that Julstar and Mrs Stariha pay the costs of the Hart Parties on a party and party basis uplifted by 12%."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "As a further alternative, the Hart Parties contend that Julstar and Mrs Stariha pay the costs of the Hart Parties to be taxed or otherwise agreed. The primary submission, however, is that Julstar and Mrs Stariha ought to pay the costs of the Hart Parties on a party and party basis up to the nominated date and thereafter on an indemnity basis."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "As to the indemnity costs, the Hart Parties rely upon r 25.14(2) of the Federal Court Rules 2011 as the source of an entitlement to an order for indemnity costs. Rule 25.14(2) is in these terms:\n25.14 Costs where offer not accepted\n…\n(2) If an offer is made by a respondent and an applicant unreasonably fails to accept the offer and the applicant’s proceeding is dismissed, the respondent is entitled to an order that the applicant pay the respondent’s costs:\n(a) before 11.00am on the second business day after the offer was served – on a party and party basis; and\n(b) after the time mentioned in paragraph (a) – on an indemnity basis.\n…\nNote 2: The Court may make an order inconsistent with these rules – see rule 1.35."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "As to the operation of r 25.14(2), the Hart Parties note the observations of the Full Court in Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141 (Gilmour, Jagot and Nicholas JJ) at [18] to the effect that the Federal Court Rules 2011 make clear that the “presumption of indemnity costs” is not enlivened (in circumstances where the applicant’s proceeding is ultimately dismissed after the making of an offer by a respondent) unless the applicant has “unreasonably” failed to accept a respondent’s offer of compromise. Nevertheless, the Hart Parties accept that any presumptive entitlement arising under r 25.14(2) is nevertheless subject to the exercise of the discretion conferred upon the Court by s 43 of the Federal Court Act. Subject to being satisfied that a formal offer meets the requirements of Ch 2, Pt 25, the Hart Parties contend that the real question to be determined is whether Julstar and Mrs Stariha unreasonably failed to accept the offer. The Hart Parties contend, in effect, that contextually r 25.14(2) should be construed and applied in a way that “best promotes the overarching purpose of facilitating the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible” (consistent with the notions inherent in s 37M of the Federal Court Act), and in a way which recognises that the “sooner a dispute is resolved, the greater the benefits in cost and efficiency”, citing the observations of Katzmann J in Visscher v Teekay Shipping (Australia) Pty Ltd (No 5) [2013] FCA 28 (“Visscher”), [30]."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "No contention is advanced by the applicants in the principal proceeding of any defect in the formality of the offer or the making of the offer."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "As to the question of whether Julstar and Mrs Stariha unreasonably failed to accept the offer, the Hart Parties say this."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "First, notwithstanding that the offer contemplated a nominal payment ($500.00), the offer to abandon what might be regarded as the usual or orthodox entitlement to recover costs against an unsuccessful applicant (although measured to that point for the sake of the offer), involved the Hart Parties giving up something which, in the circumstances of this case, was meaningful, real and measurable."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "Second, the Hart Parties say that the letter accompanying the offer set out a detailed analysis of the case Julstar and Mrs Stariha were seeking to make against them and addressed many of the evidentiary matters telling against the merits of the applicant’s claim. The Hart Parties say that the analysis of the factual difficulties confronting the applicants is a “particularly important” consideration as the case made by the applicants “turned on findings of fact and not any difficult question of law”. The letter, it is said, also explains why it is in the best interests of the applicants to accept the offer."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "Third, the Hart Parties contend that it is no answer to the rejection of the offer that it was made before the Hart Parties delivered their evidence in the form of statements. The Hart Parties rely upon the proposition of Katzmann J in Visscher at [31] that “it cannot be reasonable for a litigant not to accept an offer simply because he or she has not seen all the other side’s evidence”."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The contentions of the Hart Parties"
+    ],
+    "text": "It follows for the Hart Parties that the failure of Julstar and Mrs Stariha to accept their offer was “unreasonable” and thus the Court ought to exercise the discretion on costs in the way reflected at [23] of these reasons."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "As to the Frontline Parties, they contend that the following orders ought to be made with respect to costs:\n1. Subject to the operation of all existing orders as to costs to the intent that all such orders shall remain undisturbed and of full force and effect, the applicant[s] pay the third and fourth respondents’ costs of and incidental to these proceedings including reserved costs:\n(a) up to and including 10 August 2011, to be assessed on the party/party basis, if not agreed; and\n(b) thereafter on an indemnity basis, if not agreed.\n2. In the event that the applicants are not able to, or it becomes apparent to the third and fourth respondents that the applicants are not able to satisfy the order for costs, the third and fourth respondents have liberty to apply for further orders."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "In seeking the exercise of the Court’s discretion in this way, the Frontline Parties accept that the exercise of the Court’s discretion to order indemnity costs must depend upon all of the relevant circumstances of the case. They accept that a mere rejection of their Calderbank offer followed by a result less favourable to the applicants will not of itself lead to the making of an order for costs on an indemnity basis. They contend, however, that an unreasonable or imprudent rejection of their Calderbank offer may result in the discretion being exercised to order the payment of costs on an indemnity footing. They contend that they must show that the conduct of the applicants was “unreasonable” in light of the circumstances which existed at the time the offer was rejected."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "In analysing whether the rejection of the Calderbank offer of 27 July 2011 was reasonable, the Frontline Parties give emphasis to the following well-known factors derived from Hazeldene’s Chicken Farm Pty Ltd v Victorian Workcover Authority (No 2) (“Hazeldene’s Chicken Farm”) (2005) 13 VR 435."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "First, as to the stage of the proceedings, the proceedings were commenced on 3 February 2011. Directions were made on 8 March 2011 which provided for the exchange of pleadings, particulars and discovery of documents. Further directions were made on 17 May 2011 which included directions for inspection of documents by 28 June 2011 and a mediation between the parties on or before 22 July 2011. The directions of 17 May 2011 were intended to accommodate the steps needed to take the matter to trial and those steps included the provision of written witness statements. On 20 July 2011, a mediation was convened and took place. The mediation ended when the applicants did not return after a break in the mediation, effectively abandoning it, it is said. The offer of 27 July 2011 was made within seven days of the mediation."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The Frontline Parties say that their offer was made after the applicants had obtained the benefit of information acquired through discovery, giving them an opportunity to be informed of the content of the grounds upon which the Frontline Parties would defend the proceedings having also attended the mediation up to the point of the break in those proceedings. The Frontline Parties also say that the offer was made at a point in time when it was necessary for the parties to attend to the preparation of witness statements and undertake other trial preparation steps which would involve a significant increase in the costs of the proceeding."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Second, as to the time allowed for acceptance of the offer of 14 days, the Frontline Parties contend that this was sufficient time for the applicants to consider the offer and obtain advice from their legal advisers."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Third, as to the extent of the compromise, the Frontline Parties accept that the offer provided for the payment of a nominal sum coupled with an offer that each party bear their own costs. The Frontline Parties say that as the litigation was at a point where disclosure had been completed and they had attended the mediation, they had incurred significant costs which they were willing to forego in order to settle the matter."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Fourth, as to the clarity of the offer, the Frontline Parties contend that the offer was put in clear and unmistakable terms."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Fifth, as to whether the offer properly foreshadowed an application for an indemnity costs order should the applicants reject the offer, the Frontline Parties say that the offer recited that it was made in accordance with the principles derived from Calderbank v Calderbank and that the Frontline Parties would rely upon the letter of offer in determining any question of costs. The Frontline Parties say that since the applicants were represented by lawyers, the reference in the offer to the principles derived from Calderbank v Calderbank would have alerted the applicants to the intention of the Frontline Parties to seek an order for indemnity costs should the offer not be accepted and an outcome, more favourable to the Frontline Parties, be achieved on the trial of the action."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Sixth, as to the prospects of success of Julstar, Semolina and Mrs Stariha at the date of the offer, the Frontline Parties say this."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "By the time of the making of the offer, the applicants, behaving reasonably, ought to have realised that their prospects of successfully prosecuting the claims were “remote”. That follows, it is said, because a number of matters were known to the applicants and were specifically raised in the explanatory letter of 27 July 2011 containing the offer. The considerations which, it is said, were known to Mrs Stariha and which were emphasised in the letter, included information derived from Mrs Stariha’s employment in the franchise which she purchased, her own knowledge of the business and her ability to assess the potential of the business based on information gained during her period of employment; Mrs Stariha’s successful operation of the franchise for some time; the emergence of problems in the performance of the franchise which became manifest only after Mrs Stariha had failed to operate it in accordance with the Frontline guidelines; and the continued operation of the franchise after the sale by Julstar."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The Frontline Parties also say that they raised the proposition that Mrs Stariha would face credit issues at the trial of the action. They also say, put simply, that many of the findings in the principal judgment represent a rejection of the factual contentions of Mrs Stariha."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The Frontline Parties also note the finding in the principal judgment that Mrs Stariha knew and understood the replacement protocol and that Frontline did not adopt a position of giving strict force to the performance of the replacement obligation. They also note the finding that the agitation of Mrs Stariha to take up a Far North Queensland franchise was not conduct of a person concerned about having been earlier led into the operation of a business on the footing of misrepresentations about EBIT earnings and returns."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The point of all these matters is that the Frontline Parties say these factual matters (about which ultimately there were adverse findings) were all well-known to the applicants when they chose not to accept the offer. It follows for the Frontline Parties that at the date of the offer (and, in fact, before they received the offer) the applicants ought reasonably to have been alert to the real prospect that their claims would not succeed on the facts, and had the applicants properly considered and come to grips with the factual difficulties, they ought to have prudently accepted the offer."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The Frontline Parties say that if the offer had been accepted, the result would have been that both sides would have saved considerable legal costs in preparing for and conducting the trial and although a nominal amount was offered in settlement, the offer was “significant” because the Frontline Parties were prepared to forego “considerable” costs given that “pleadings had been delivered and discovery largely completed”. It follows, for the Frontline Parties, that the applicants acted unreasonably when rejecting (or refusing to accept) the offer."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "The Frontline Parties made a second offer on Tuesday, 6 March 2012 (the “second offer”)."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "This offer was made in the week prior to the trial which commenced on Monday, 12 March 2012. The offer was open for acceptance up to 4.00pm on Friday, 9 March 2012 and involved the applicants discontinuing the proceeding with no order as to costs which meant that the Frontline respondents would absorb the entirety of their costs incurred to the date of acceptance. The second offer required the applicants to abandon any costs orders obtained against the Frontline Parties to that point. The offer of 6 March 2012 gave the applicants three days to consider their position. The Frontline Parties say that, by this time, the applicants ought to have been “fully aware of their prospects at trial” and would not have needed to “undertake any further enquiry” to determine whether the second offer was reasonable and ought to be accepted. The Frontline Parties say that the second offer constituted a “significant compromise” because it involved those parties foregoing any entitlement to recover costs which, by that time, were “all of the costs incurred in defending the matter up to trial”."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "The contentions of the Frontline Parties"
+    ],
+    "text": "Thus, the Frontline Parties contend that the applicants acted unreasonably in not accepting the second offer."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "The applicants contend that r 25.14(2) applies to all of the offers by the various respondents as offers were made and the proceeding was dismissed. It follows that before any “special costs order” can be made, the applicants must, unreasonably, have failed to accept the particular offer. The applicants say that, nevertheless, by reason of Note 2 to r 25.14(2), the Court retains a discretion to make any costs order that it considers appropriate in all the circumstances of the case. The applicants accept that in circumstances where an applicant has unreasonably failed to accept an offer (and the proceeding is subsequently dismissed) there is a presumption that orders will be made for indemnity costs. However, the contended qualification on that proposition is that such an order should only be made “if it is clear that the Applicants unreasonably failed to accept the offers”."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "In dealing with the Hazeldene’s Chicken Farm factors going to the question of whether the refusal of each offer was unreasonable, the applicants give emphasis to the following matters."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "First, the proceedings were commenced on 3 February 2011 supported by a statement of claim. The Hart Parties made their offer on 4 August 2011 and the Frontline Parties made their first offer on 27 July 2011. By the time these offers were made, the applicants had “expended a considerable sum” on their own costs with the result that accepting either offer would have left the applicants out-of-pocket for a significant amount of money."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "Second, although Mr Coogan’s letter of 4 August 2011 reserved the right to bring that letter to the attention of the Court on the question of costs, the offer made by the Hart Parties “did not make any statement in relation to indemnity costs”."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "Third, the offers of $500 and $100 represented offers of a nominal sum with the second offer of the Frontline Parties offering no sum. Each monetary offer was for a “token payment” and although each of the three offers included a term that each party should pay their own costs with the respondents absorbing their costs, each offer is properly characterised as a “walk away” offer amounting to a “capitulation” by the applicants of all their claims."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "The contentions of the applicants"
+    ],
+    "text": "Fourth, the first two offers were made within six months of the commencement of the proceedings and at this time the prospects of success of the applicants’ claims were “strong”. There were “no clear or obvious impediments to the claim” that would cause the applicants to consider that it was reasonable to “surrender their claims” discontinue the proceedings and walk away with an insignificant sum and no contribution towards their costs. The applicants rely upon the statements of principle adopted by Almond J in Strategic Property Reservoir Pty Ltd v Condec Pty Ltd (No 2) [2013] VSC 29 to the effect that in the circumstances of the case before him it was not reasonable for a party to accept an offer made for a sum so modest as to be uncommercial, at a time when the party was not in a position to appreciate that the prospects of success were poor. Similarly, the applicants say that in circumstances where the terms of the offer were effectively a capitulation to the position adopted by the respondents, Jagot J was not persuaded, in Australian Health & Nutrition Association Limited trading as Sanitarium Health Food Company v Irrewarra Estate Pty Limited trading as Irrewarra Sourdough (No 2) [2012] FCA 892, that the applicant’s failure to accept the offer of compromise could be characterised as unreasonable."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Relevantly for these proceedings, the Court has “jurisdiction to award costs” (s 43(1) of the Federal Court Act) and the award of costs lies “in the discretion of the Court or Judge” (s 43(2)). Section 23 confers the “power”, in relation to matters in which the Court has jurisdiction, to make orders of such kinds as the Court “thinks appropriate”. Without limiting the scope of the discretion arising under s 43, taken in conjunction with s 23, the Court may order that costs awarded against a party be assessed “on an indemnity basis or otherwise” (s 43(3)(g)). Section 59 of the Federal Court Act confers power on the judges to make “Rules of Court not inconsistent with this Act” [emphasis added] (s 59(1)) in relation to the practice and procedure to be followed in the Court, including rules in relation to “the costs of proceedings in the Court” (s 59(2)(o))."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The Federal Court Rules formulate a set of practice and procedure rules which guide the exercise of the discretion conferred under ss 23 and 43 of the Federal Court Act and whilst those rules may, in particular circumstances, give rise to a prima facie entitlement or in some cases a presumptive entitlement to a certain outcome, the Rules do not represent a Code and nor do they ultimately fetter or constrain the exercise of the discretion which is broad and is to be exercised against the background of all the relevant circumstances in order to do justice between the parties in relation to the issue of costs incurred in the conduct of proceedings before the Court. The fundamental organising principle is that the Court retains, under the statutory provisions, the greatest degree of elasticity and flexibility possible in framing orders for costs as the Court “thinks appropriate”. That is why the Note to Rule 25.14, in particular, expressly recognises, consistent with s 59(1) of the Federal Court Act, that the Court may make an order inconsistent with r 25, and r 1.34 of the Federal Court Rules 2011 recognises that the Court may dispense with compliance with any of the rules either before or after the occasion for compliance arises. Similarly, r 1.35 expressly recognises the generality of the position that the Court may make any order “that is inconsistent with these Rules and in that event the order will prevail”."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Of course, the discretion must be exercised judicially, that is, it must be exercised according to settled principle. See particularly, Kazar v Kargarian (2011) 197 FCR 113 at [1] to [9] per Greenwood and Rares JJ."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Notwithstanding the paramouncy of the statutory discretion, it remains necessary to identify the proper operation and application of the relevant rules."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "A party ordered to pay costs, without any further description of the costs, pays costs as between party and party (Rule 40.01), which means (Schedule 1, Dictionary):\n… only those costs that have been fairly and reasonably incurred by the party in the conduct of the litigation."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "A party who is entitled to costs may apply for an order that the costs be paid other than as between party and party (r 40.02), and in this case, on an indemnity basis (from the relevant date) which means (Schedule 1, Dictionary):\n… costs as a complete indemnity against the costs incurred by the party in the proceeding, provided that they do not include any amount shown by the party liable to pay them to have been incurred unreasonably in the interests of the party incurring them."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Part 25 is concerned with “offers to settle”. A party may make an offer to compromise (open for acceptance for not less than 14 days, r 25.08(1)) by serving a signed notice in accordance with Form 45 (not to be filed in the Court, r 25.01(2)) on another party, incorporating the content required by r 25.03. Rule 25.14(1) contemplates that if an offer is made by a respondent (that is to say, an offer under and meeting the requirements of Pt 25) and “not accepted” by an applicant, and the applicant obtains judgment that is less favourable than the terms of the offer, the applicant “is not entitled” to any costs after the date of the offer and the respondent “is entitled” to an order for indemnity costs, put simply, from the date of the offer."
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Rule 25.14(3) is concerned with an offer made by an applicant which is “not accepted” by a respondent, and the applicant goes on to obtain a judgment more favourable than the terms of the offer. The rule provides that the applicant “is entitled” to party and party costs, put simply, up to the date of the offer and indemnity costs thereafter."
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Rule 25.14(2), set out at [26] of these reasons, is the rule relied upon by the Hart Parties. The rule expressly contemplates an offer by a respondent which an applicant unreasonably “fails to accept” and the applicant’s proceeding is dismissed. The rule provides that the respondent “is entitled” to an order for party and party costs, again put simply, up to the date of the offer and thereafter indemnity costs."
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "These Rules, (25.14 (1), (2), and (3)), find their origin in Order 23 rr 11(4), (5) and (6) of the Federal Court Rules 1979 although the Rules have been reformulated by the Federal Court Rules 2011."
+   },
+   {
+    "n": 68,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "These things should be noted about the evolution of the Rules. A number of decisions of this Court from 2009 onward incorrectly assume or continue to recite that an anomaly, identified in the earlier Rules in the period prior to 2 August 2008, continued to be reflected in the Rules up to the adoption of the Federal Court Rules 2011. The anomaly earlier identified in decisions such as Coshott v Learoyd [1999] FCA 276 and Seven Network Limited v News Limited (2007) 244 ALR 374; [2007] FCA 1489 was that although the Rules contemplated a circumstance where a respondent makes an offer, and the applicant fails to accept it, the indemnity costs consequence would only arise (out of an applicant’s rejection of the offer) if the applicant “obtained judgment” on the claim not more favourable than the offer, which meant, of course, that the Rule did not address the position where the applicant failed to obtain Judgment at all and the proceeding was dismissed."
+   },
+   {
+    "n": 69,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "That anomalous position was cured by the introduction of Order 23, r 11(6) effective from 2 August 2008 (Federal Court Rules Amendment Rules 2008 (No 1), Select Legislative Instrument 2008, No 159) which expressly contemplated a judgment on the claim in favour of the respondent more favourable to the respondent than the offer (including total success as against the applicant). However, a number of decisions of this Court on and from 2009 recite, as a continuing anomaly, the position prior to 2 August 2008."
+   },
+   {
+    "n": 70,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The consequences brought about by a textual consideration of Order 23 rr 11(4), (5) and (6) were all always qualified by the phrase “unless the Court otherwise orders”."
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Order 23, r 11(6) contemplated an offer by a respondent (made under Order 23 r 11) “not accepted” by an applicant; and, judgment in favour of a respondent more favourable than the offer. The reformulation of Order 23 r 11(6) by r 25.14(2) of the Federal Court Rules 2011 reflects these integers:\n(a) an offer (in conformity with the requirements of Part 25) made by a respondent to an applicant; and\n(b) an unreasonable failure of an applicant to accept the offer; and\n(c) dismissal of the applicant’s proceeding."
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Questions arose under the earlier authorities about the “presumptive position” arising under the earlier Rules (sometimes described as the prima facie position) once the elements of the relevant Rule were made out, and the burden that might then be cast upon the offeree to show that his or her refusal to accept the offer was “reasonable in all the circumstances”. An applicant respondent seeking an order for costs relying on r 25.14(2) bears the onus of making out each of the integers of the Rule including that the applicant unreasonably failed to accept the offer. This accords with the offeror’s obligation in seeking to obtain an indemnity costs order in reliance upon an offer framed in accordance with the jurisprudence of this Court derived originally from Calderbank v Calderbank [1975] 3 WLR 586."
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Part 25 of the Federal Court Rules 2011 does not apply to the offers made by the Frontline Parties because those parties did not make an offer under Pt 25. Nevertheless, reliance on the Calderbank v Calderbank principles requires the Frontline Parties to make good an unreasonable failure by the applicants to accept each of the offers of 27 July 2011 and 6 March 2012."
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "In many cases, the matters in issue between parties involve a significant number of contentious questions of fact and often, of course, contentious questions of law. The circumstances of every case are, obviously enough, entirely different. However, some of the authorities on the question of indemnity costs have concerned proceedings where, apart from contentious factual issues, questions of construction of the terms of a joint venture deed (particularly property joint venture arrangements) have been at the centre of the proceeding, and others have involved questions of construction of contracts, other documents and legislative instruments. In such cases, minds therefore might well reasonably differ not only about the construction and operation of such agreements and instruments but also the result arising out of the application of the attributed meaning of the relevant provisions to the facts as found (in resolution of the factual contest)."
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Where the proceeding involves (as the principal proceeding here involved) the resolution, by findings of fact, of a great many contested factual questions (including credit challenges) where there is virtually no agreement between the principal actors about the central steps in the narrative said to give rise to the causes of action in suit, and in consequence the remedial claims, a respondent confident in or persuaded to the merits of his or her understanding of the critical events, conversations and written and oral exchanges, would quite understandably want to take steps to try and stem the tide of being put to potentially significant irrecoverable costs (beyond party and party costs) incurred in generally resisting the applicant’s claims and especially so looking towards a reasonably lengthy trial (seven days)."
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "In some of the authorities, particularly the Victorian Supreme Court authorities (Berrigan Shire Council v Ballerini (No 2) [2006] VSCA 65; Truenergy Pty Ltd v Dispute Resolution Panel (No 2) [2009] VSC 612; IPEX ITG Pty Ltd (in liq) v State of Victoria (No 2) [2011] VSC 39; and Strategic Property Reservoir Pty Ltd v Condec Pty Ltd (No 2) [2013] VSC 29), it is often said, as one of the substantial guiding principles, that a party (in this case a respondent) who makes an offer that might be characterised as a “nominal offer” (normally a nominal monetary offer) going no further, in substance or effect, than an invitation to the other side to “capitulate” or “walk away and give up”, has not made a “genuine offer” of settlement as there is no real element of “compromise” offered. Alternatively, it is often said that a party receiving such an offer does not act unreasonably in failing to accept such a capitulation proposal especially if that party (the offeree) has incurred significant costs up to the date of the offer."
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Where the proceeding (like the principal proceeding) is a “fact-intensive” case, a respondent party drawn into such case that contends it has the merits on the facts (for example, on the question of whether particular oral representations were made or not), might well elect to risk-manage its exposure to irrecoverable costs by putting a nominal monetary offer to the claimant, supported by an explanatory letter (setting out the detailed basis for the view on the merits) coupled with an offer to absorb its costs incurred to the date of the offer should the claimant see the strength of the merits of the respondent’s position, failing which the respondent, in ultimately vindicating its position, would seek to recoup from the claimant the otherwise irrecoverable costs of the proceeding, through an indemnity costs order."
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Such an offer ought not to be characterised, per se, as a non-genuine offer of compromise simply because it fails to offer payment of the claimants costs coupled with some broader larger commercial offer. The so-called capitulation offer may well be entirely appropriate in all the prevailing circumstances and one an applicant ought reasonably accept, and correspondingly not unreasonably fail to accept."
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "What is a respondent confronted with a claim it believes (or knows) to be unmeritorious, to do? Should such a party confronted with a pleaded claim (for example in this case a pleaded claim of $495,932.09 and $76,649.31) offer to pay the applicant’s costs to the date of the offer and say, 10% of the claim so as to elevate the offer into a “genuine” offer of “compromise”, notwithstanding the perceived lack of merits in the claim."
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The real point, of course, is not whether the offer can be characterised as a capitulation offer or some other like construct, but whether the applicant has unreasonably failed to accept the offer in all the circumstances, and that will depend in large part (at the date of refusal) on the state and nature of the proceedings; the matters drawn to the attention of the applicant in the explanatory merits letters; the material available to the applicant in terms of diaries, notes, emails, correspondence and other documents enabling the applicant to test his or her own recollection of events as a principal actor in the contended events (informing the applicant of the most likely detailed view, from the applicant’s side, of those events); securing access to the discovered documents of the respondents to further the forensic analysis of the most likely sequence of events; and the applicant properly coming to grips with the merits of the claim and the strengths and weaknesses of the case the applicant seeks to continue to make throughout the proceeding, after the offer, against the relevant respondent."
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "One further matter of principle should be noted about the relationship between a “facts case” and the exercise of the discretion on costs having regard to offers made along the way."
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The role of the Courts is to “quell controversies” between citizens, and between citizens and the State, especially in relation to excess of power or jurisdiction on the part of the Executive. Courts discharge this independent role in a civil and democratic society, so that citizens do not take the law into their own hands. Mediation and negotiation processes for the resolution of disputes are strongly encouraged within such a framework. It follows that a citizen may elect to propound a set of factual contentions about events, meetings, negotiations and arrangements central to a reliance transaction that the citizen believes to be true either because the citizen speaks directly to the truth of his or her own direct recollection of events or because the citizen has come to believe in the truth of his or her recollections. Either way, the recollections of the citizen may simply be unsound or unreliable or imprecise in the context of other oral evidence or, more particularly, contemporary documents (especially emails and other contemporary written exchanges: hence the importance of discovery)."
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Hopefully though, the citizen will not simply continue to propound a version of events to support a claim to and at trial which is not forensically supported by the contemporary documents and other relevant evidence available to the citizen through discovery and exchanges of evidence."
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "A finding that events occurred in a way other than that propounded by the citizen does not necessarily mean the citizen is not telling the truth about the relevant matters. The relevant findings might simply mean that on the balance of probabilities events occurred in a particular way rather than the way the particular citizen believes them to have occurred."
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "However, there also may well be very little room for accepting, having regard to all the evidence, that the citizen genuinely believed in his or her version of particular events given in evidence on particular topics."
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "However, even where the citizen elects to press on, genuinely convinced of the merits of his or her contentions, and seek the findings of the Court on the contested questions of fact, a citizen cannot lightly act in disregard of the difficulties he or she confronts in prosecuting a particular version of events to trial. Each party has an obligation to come to grips with the strengths and weaknesses in their case, and the extent of that obligation in the face of an offer (the rejection of which might put the offeree at risk of indemnity costs), will depend, upon the factors described at [80] of these reasons among other factors in the relevant case."
+   },
+   {
+    "n": 87,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "When the claimant’s case is one based on a series of contended oral representations inducing the purchase of particular businesses, a claimant confronted with an offer to settle (including one involving payment of a nominal monetary sum but, more importantly, an offer to not press for payment of costs incurred to the date of the offer), has an obligation, acting reasonably in the face of the offer, to carefully assess the burden of the merits generally, based on the contemporary documents and all the material available to that point."
+   },
+   {
+    "n": 88,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "It is now necessary to look a little more closely at the steps up to the date of the offers."
+   },
+   {
+    "n": 89,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "On 8 March 2011, programming orders were made including the provision of particulars of the statement of claim by 25 March 2011, a defence by 15 April 2011 and a reply by 29 April 2011. Proposals for discovery were to be exchanged with the matter relisted for directions on 17 May 2011. On that day, extensive directions orders were made (18 orders in all) including a detailed protocol for discovery of documents by reference to contested issues of fact identified in “Discovery Matrices”. Categories of documents were to be agreed, in effect, by 31 May 2011 but, to the extent of any disagreement, that matter would be dealt with by the Court on 3 June 2011. Discovery would be given by 21 June 2011 with inspection of documents on 28 June 2011. Orders 4, 5, 6 and 8 of the orders of 17 May 2011 were in these terms:\n4. Pursuant to section 53A of the Federal Court of Australia Act 1976, the parties must attend and act reasonably at a mediation on a date suitable to the parties but to be held no later than 22 July 2011. The date on which the mediation occurs is for the purposes of this order the “mediation date”.\n5. At the mediation, each corporate party shall attend by a responsible director with authority to resolve the proceeding at the mediation.\n6. Within 7 days of the date of this Order, the parties shall each submit to the other the names of no more than three proposed mediators. The parties shall use their best endeavours to reach agreement upon the mediator.\n8. No later than seven days prior to the mediation date, the Applicants are to provide to the mediator a bundle of documents containing the parties’ pleadings, including any further and better particulars."
+   },
+   {
+    "n": 90,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The remaining orders dealt with a range of matters including the date for the filing and serving of the applicants’ statements on 19 August 2011; the respondents’ statements by 16 September 2011; statements in reply by 30 September 2011 and expert reports by 14 October 2011."
+   },
+   {
+    "n": 91,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Contested categories of documents were addressed on 3 June 2011 and a judgment was given on 9 June 2011 (Julstar Pty Ltd v Hart Trading Pty Ltd [2011] FCA 657) which resulted in further extensive and detailed orders of 20 June 2011 defining the categories of documents to be disclosed. The content of the required disclosure was very extensive."
+   },
+   {
+    "n": 92,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "On 20 July 2011, the mediation contemplated by the above orders of 17 May 2011 took place."
+   },
+   {
+    "n": 93,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The power to refer a civil proceeding to mediation under s 53A of the Federal Court Act is a “civil practice and procedure provision” under s 37M(4) (so too are all of the Rules of Court made under the Federal Court Act), and the “overarching purpose” of these provisions is to facilitate the “just resolution” of disputes according to law as “quickly, inexpensively and efficiently as possible”."
+   },
+   {
+    "n": 94,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Section 37N(1) casts an obligation on the parties to a civil proceeding to “conduct the proceeding (including negotiations for settlement of the dispute to which the proceeding relates) in a way that is consistent with the overarching purpose”. It follows that when the applicants, in their conduct of the proceeding, received the various offers of settlement whether under Pt 25 of the Federal Court Rules or derivative of the Calderbank v Calderbank jurisprudence, they were required, by s 37N(1), to engage with those offers, in their conduct of the proceeding, in a way directed to identifying whether each offer was conducive to the just resolution of the dispute as quickly, inexpensively and efficiently as possible. That obligation, and the notion of not unreasonably failing to accept an offer, required the applicants to carefully assess all the material, including the discovered material, to determine and confront the strengths and weaknesses in their case."
+   },
+   {
+    "n": 95,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The applicants say that in considering the offers there was nothing to suggest that their prospects of success were other than “strong”. However, the prospects of success in a case based upon contentions as to a sequence of oral representations not expressly supported by the contemporary documents or evidenced by an engaged trail of exchanges with respect to the particular representations and related matters, could not be regarded as “strong”. Any expressions of opinion about the strength of the applicants’ case would inevitably and necessarily have required assumptions to be made about the acceptance of a substantial body of evidence given by Mrs Stariha and the rejection of the evidence of the relevant respondents."
+   },
+   {
+    "n": 96,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "It became necessary in the principal proceeding to review in very considerable detail all of the elements of the conflicting versions of events against the background of the documents. The content of that analysis is set out in the principal judgment and I do not propose to recite in these reasons the findings and conclusions on each aspect of the case contended for by the applicants, set out in the principal judgment. However, much of the case made by the applicants at trial suffered from the weaknesses described in the principal judgment which in large part ought to have been apparent to the applicants on 27 July 2011 when the Frontline Praties made their first offer, and on 4 August 2011 when the Hart Parties made their offer under Pt 25 of the Rules, had Mrs Stariha applied an enquiring mind to the scope and nature of the weaknesses in the case advanced by her."
+   },
+   {
+    "n": 97,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Within seven days of the mediation the Frontline Parties made their first offer. By that time, the applicants had enjoyed access to the discovered documents. They knew the contentions of the Frontline Parties on the central allegations of the applicants. They had elected to not return to the mediation on 20 July 2011 after the break in the mediation process that day. So far as any analysis of the merits is concerned, it ought to have been apparent to the applicant parties that one serious and real possibility was the prospect that the applicants would not be able to make good their various oral contentions, in the context of the documents, and that the evidence of the respondents might well be preferred. That serious possibility, should it occur, would result in the application being dismissed. Rejecting the offer would continue to expose the Frontline Parties to the legal costs of trial preparation and the conduct of the trial itself. It should also be remembered that aspects of the evidence given by Mrs Stariha was expressly rejected by the Court in the principal judgment."
+   },
+   {
+    "n": 98,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The same position prevails in relation to the offer made by the Hart Parties on 4 August 2011."
+   },
+   {
+    "n": 99,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "However, on 11 August 2011, the Court made orders that the Frontline Parties make discovery of six further categories of documents supported by the filing and service of a Supplementary List of Documents. The Frontline Parties were ordered to pay the applicants’ costs of the motion for further discovery. On 26 August 2011 the Hart Parties were granted leave to file an amended defence in the form of annexure BSC-1 to the affidavit of Mr Coogan sworn 25 August 2011. The Frontline Parties were granted leave to file an amended defence by 2 September 2011 and the applicants were ordered to deliver a request for particulars of the amended defence of the Frontline Parties within seven days of service. All respondents were ordered to make further discovery made necessary by amendments to their defences. The applicants were ordered to file an amended reply by 9 September 2011."
+   },
+   {
+    "n": 100,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "On 5 September 2011 the applicants were ordered to give particular discovery of five categories of documents."
+   },
+   {
+    "n": 101,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "More fundamentally however, on 15 February 2012 the Hart Parties were granted leave to rely upon an amended witness statement of Mrs Hart filed on 2 February 2012 and the amended witness statements of Ms Knight, Ms Baird, Ms Hutt and Ms Manwaring all filed in early February 2012. The Hart Parties were ordered to pay the costs of the applicants thrown away by reason of the amendments to these various statements. The costs thrown away by reason of the amendments to the statements were to be calculated on the basis that the costs were to be treated as “wasted”, and would include the costs of the applicant in formulating notices of objection to each of the affidavits, the costs of considering, perusing and taking advice on the statements as filed which were the subject of the notices of objections and the costs of and incidental to those steps."
+   },
+   {
+    "n": 102,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The Hart Parties were ordered to pay the applicants’ costs of the directions hearing that day."
+   },
+   {
+    "n": 103,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "At that directions hearing on 15 February 2012, an application was made by the Frontline Parties for leave to rely upon amended witness statements of Mr Davis, Mr Downer, Ms Wilson, Ms Butcher, Ms Briede, Ms Flavell and Ms Moseley. The applicants were directed to file written submissions within two days on the question of whether leave ought to be given to rely upon those amended statements, and the third and fourth respondents were directed to file written submissions on that question within one day after the receipt of submissions from the applicants. On 24 February 2012 leave was given to the Frontline Parties to rely upon the amended statement of Mr Davis filed 15 February 2012, the amended statement of Ms Wilson filed on 14 February 2012, the amended statement of Ms Butcher filed 15 February 2012, the amended statement of Ms Briede filed 14 February 2012, the amended statement of Ms Flavell filed 14 February 2012, the amended statement of Ms Moseley filed 14 February 2012 and the amended statement of Mr Downer filed 23 February 2012. The Frontline Parties were ordered to pay the costs of the applicants of and incidental to their examination of the proposed amended witness statements, the formulation of submissions in relation to the question of leave concerning those statements, and the costs of and incidental to taking instructions in relation to the matters raised by each of the amendments."
+   },
+   {
+    "n": 104,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "On 6 March 2012 the Frontline Parties made their further offer."
+   },
+   {
+    "n": 105,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The trial commenced on 12 March 2012 and concluded on 8 May 2012."
+   },
+   {
+    "n": 106,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "It is clear therefore that immediately prior to the trial both the Hart Parties and the Frontline Parties were engaged in processes which involved revisions to the evidence of the principal witnesses of each of those parties. The revisions were not fundamental but they were sufficiently material to warrant each of the respondents seeking leave to rely upon the amendments in the defence of the proceeding. Plainly enough, not all of that material was available to the applicants on 27 July 2011 or 4 August 2011. The material however was available to the applicants by 6 March 2012 when the further offer was made by the Frontline Parties."
+   },
+   {
+    "n": 107,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Having regard to the orders for further discovery from the Frontline Parties on 11 August 2011 and the orders made on 15 February 2012 and 24 February 2012, both concerning leave granted to the respondents to file amended statements on behalf of the principal witnesses for those parties, I am not satisfied that the interests of justice are served by ordering the applicants to pay the costs of the proceeding incurred by the Frontline Parties and the Hart Parties on an indemnity basis from 27 July 2011 and 4 August 2011 respectively."
+   },
+   {
+    "n": 108,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "However, having regard to the content of the claims made by the applicants in the proceeding, the weaknesses in the evidence in support of the applicants’ claims when properly assessed, and the conclusions and findings arising out of an assessment of the evidence reflected in the principal reasons, I am satisfied that the proper exercise of the discretion under s 43 and s 23 of the Federal Court Act, in conjunction with rr 1.32 and 1.35 of the Federal Court Rules 2011 is that the applicants be ordered to pay the costs of the respondents of and incidental to the proceeding on a party and party basis up to and including 11 March 2012, and that the applicants pay the costs of the respondents on and from 10.15am, Monday, 12 March 2012 on an indemnity basis."
+   },
+   {
+    "n": 109,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "The Frontline Parties also seek an order granting them liberty to apply for costs orders against third parties conditioned on the event that the applicants are not able to satisfy an order for costs made against them, or on the footing that it may become apparent to the Frontline Parties that the applicants will not be able to satisfy any order for costs made against them. A conditional application of that kind leaves matters unresolved in a very unsatisfactory way. If any one or more of the respondents consider that they can make good an entitlement to an order for costs against a third party, they ought to be given an opportunity to bring on that application. However, they should do so irrespective of whether any orders for costs made against the applicants can be made good by any one of them."
+   },
+   {
+    "n": 110,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "Accordingly, each of the respondents will be given leave to file an application for any orders for costs against any third parties within 28 days of these orders."
+   },
+   {
+    "n": 111,
+    "headings": [
+     "Considerations in relation to the exercise of the discretion in this case"
+    ],
+    "text": "All existing orders for costs will remain undisturbed."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and eleven (111) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Greenwood.",
+ "associate": null,
+ "dated": "2014-02-20",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "328c79e977947e02e3a40dc6200de6eb763de729b7f0094275fe0d508f0a2e74",
+ "markdown_file": "data/extracted/2014/2014FCA0108.md"
+}

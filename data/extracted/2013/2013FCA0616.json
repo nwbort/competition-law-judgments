@@ -1,0 +1,742 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2013/2013FCA0616.docx",
+ "metadata": {
+  "citation": "[2013] FCA 616",
+  "name": "Muswellbrook Shire Council v Royal Bank of Scotland NV",
+  "court": "FCA",
+  "year": 2013,
+  "number": 616,
+  "date_of_judgment": "2013-06-20",
+  "file_numbers": [
+   "NSD1322/2012"
+  ],
+  "judges": [
+   "BENNETT J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-05-27"
+  ],
+  "hearing_raw": "27 May 2013",
+  "last_submissions": "2013-06-11",
+  "number_of_paragraphs": 60,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – representative proceedings – where subpoena is sought to compel production of document from third party – general power of court to make orders – requirement that Court make orders in best interests of group members – sending of notice to group members at early stage of proceedings"
+  ],
+  "legislation": [
+   "Federal Court Act 1976 (Cth) s 23, s 33C, s 33E, s 33H(1)(a), s 33V, s 33X(5), s 33Y(2), s 33Y(3), s 33Y(5), s 33ZE(1), s 33ZF, s 37M(1), s 37M(3), s 37P",
+   "Federal Court Rules 2011 (Cth) r 1.32, 24.12"
+  ],
+  "cases_cited": [
+   "Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200 cited",
+   "Botany Bay Instrumentation & Control Pty Ltd v Stewart [1984] 3 NSWLR 98 cited",
+   "Cadence Asset Management v Concept Sports Limited [2006] FCA 711 applied",
+   "Carnie v Esanda Finance Corporation (1995) 182 CLR 398 followed",
+   "Courtney v Medtel (2002) 122 FCR 168 followed",
+   "Femcare v Bright (2000) 100 FCR 331 applied",
+   "Hearne v Street (2008) 235 CLR 125 applied",
+   "Hopkins v AECOM Australia (2013) 92 ACSR 677 cited",
+   "McMullin v ICI Australia Operations Proprietary Limited (1998) 84 FCR 1 considered",
+   "Mobil Oil Australia Pty Ltd v Victoria (2002) 211 CLR 1 followed",
+   "NAB v Pathway Investments [2012] VSCA 168 cited",
+   "P Dawson Nominees Pty Ltd v Brookfield Multiplex Limited (No 2) [2010] FCA 176 considered",
+   "Pharm-a-care Laboratories Pty Ltd v Commonwealth [2009] FCA 1203 cited",
+   "Regent Holdings v State of Victoria [2012] VSCA 221 cited",
+   "Seven Network v News Ltd (No 11) [2006] FCA 174 cited",
+   "Zapf Creation AG v OWT Australia Pty Ltd [2001] FCA 759 considered"
+  ],
+  "parties": [
+   {
+    "name": "MUSWELLBROOK SHIRE COUNCIL",
+    "role": "Applicant"
+   },
+   {
+    "name": "(ABN 86 864 180 944)",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE ROYAL BANK OF SCOTLAND NV",
+    "role": "First Respondent"
+   },
+   {
+    "name": "(ARBN 84 079 478 612)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "RBS MORGANS LIMITED (ACN 010 669 726)",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "(A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+    "role": "Third Respondent"
+   }
+  ],
+  "parties_summary": "MUSWELLBROOK SHIRE COUNCIL v THE ROYAL BANK OF SCOTLAND NV, RBS MORGANS LIMITED and MCGRAW-HILL INTERNATIONAL (UK) LIMITED",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "MBJ Lee SC with CH Withers"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Piper Alderman"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "MJ Darke"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Allens"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Minter Ellison"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "KH Barrett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0616",
+  "portal_file_numbers": [
+   "NSD1322/2012"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-06-20"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Muswellbrook Shire Council v Royal Bank of Scotland NV [2013] FCA 616"
+  },
+  {
+   "label": "Parties",
+   "value": "MUSWELLBROOK SHIRE COUNCIL v THE ROYAL BANK OF SCOTLAND NV, RBS MORGANS LIMITED and MCGRAW-HILL INTERNATIONAL (UK) LIMITED"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 1322 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "BENNETT J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "20 June 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – representative proceedings – where subpoena is sought to compel production of document from third party – general power of court to make orders – requirement that Court make orders in best interests of group members – sending of notice to group members at early stage of proceedings"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court Act 1976 (Cth) s 23, s 33C, s 33E, s 33H(1)(a), s 33V, s 33X(5), s 33Y(2), s 33Y(3), s 33Y(5), s 33ZE(1), s 33ZF, s 37M(1), s 37M(3), s 37P\nFederal Court Rules 2011 (Cth) r 1.32, 24.12"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200 cited\nBotany Bay Instrumentation & Control Pty Ltd v Stewart [1984] 3 NSWLR 98 cited\nCadence Asset Management v Concept Sports Limited [2006] FCA 711 applied\nCarnie v Esanda Finance Corporation (1995) 182 CLR 398 followed\nCourtney v Medtel (2002) 122 FCR 168 followed\nFemcare v Bright (2000) 100 FCR 331 applied\nHearne v Street (2008) 235 CLR 125 applied\nHopkins v AECOM Australia (2013) 92 ACSR 677 cited\nMcMullin v ICI Australia Operations Proprietary Limited (1998) 84 FCR 1 considered\nMobil Oil Australia Pty Ltd v Victoria (2002) 211 CLR 1 followed\nNAB v Pathway Investments [2012] VSCA 168 cited\nP Dawson Nominees Pty Ltd v Brookfield Multiplex Limited (No 2) [2010] FCA 176 considered\nPharm-a-care Laboratories Pty Ltd v Commonwealth [2009] FCA 1203 cited\nRegent Holdings v State of Victoria [2012] VSCA 221 cited\nSeven Network v News Ltd (No 11) [2006] FCA 174 cited\nZapf Creation AG v OWT Australia Pty Ltd [2001] FCA 759 considered"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "27 May 2013"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "11 June 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "60"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "MBJ Lee SC with CH Withers"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Piper Alderman"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "MJ Darke"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Allens"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Minter Ellison"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "KH Barrett"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1322/2012",
+   "parties": [
+    {
+     "name": "MUSWELLBROOK SHIRE COUNCIL",
+     "role": "Applicant"
+    },
+    {
+     "name": "(ABN 86 864 180 944)",
+     "role": "Applicant"
+    },
+    {
+     "name": "THE ROYAL BANK OF SCOTLAND NV",
+     "role": "First Respondent"
+    },
+    {
+     "name": "(ARBN 84 079 478 612)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "RBS MORGANS LIMITED (ACN 010 669 726)",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "(A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "BENNETT J"
+   ],
+   "date": "2013-06-20",
+   "date_raw": "20 June 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "",
+     "text": "Upon the undertakings given to the Court by the applicant’s solicitor and by IMF (Australia) Ltd (as set out, and amended as set out, in these reasons):",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Pursuant to s 23 and 33ZF of the Federal Court of Australia Act 1976 (Cth), the Applicant be granted leave to issue a subpoena to Perpetual Trustee Company Limited in the form of Annexure A to these reasons.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Pursuant to s 33X(5) of the Federal Court of Australia Act 1976 (Cth), notice be given to group members of the matters referred to in the draft notice that comprises Annexure B to this order (Notice).",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to s 33Y(2) of the Federal Court of Australia Act 1976 (Cth), the form and content of the Notice be approved.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Pursuant to s 33Y(3) of the Federal Court of Australia Act 1976 (Cth), the Notice be sent by the Applicant’s solicitors by ordinary prepaid post and, where available, by email, to each of the persons identified as having held notes issued by Perpetual on behalf of the Rembrandt Australia Trust No. 2006-2, within 7 business days after the Applicant’s solicitors inspect the material produced by Perpetual Trustee Company Limited in answer to the subpoena referred to in Order 1.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Costs be reserved.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicant (Muswellbrook) is a local council in New South Wales. It commenced these proceedings against the respondents as a representative party, acting pursuant to Part IVA of the Federal Court of Australia Act 1976 (Cth) (the Act). Relevantly to this interlocutory application, Muswellbrook’s continued conduct of these proceedings is contingent on continued funding by IMF (Australia) Limited (IMF)."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Muswellbrook acts on behalf of itself and as a representative for other persons (the Group Members) who acquired a holding in a financial instrument known as the Rembrandt Notes, which was arranged by the first respondent (ABN Amro) and issued by the Rembrandt Australia Trust No 2006-2 (the Rembrandt Trust). At the relevant times, the second respondent (RBS Morgans) carried on business in Australia as the retail stockbroking arm of the first respondent. The third respondent (S&P) is an international ratings agency that assigned an AAA rating to the Rembrandt Notes. Muswellbrook has indicated that it proposes to discontinue its claim against RBS Morgans."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "As to this application, S&P provided written submissions and adopts the submissions made by ABN Amro."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The parties agree that these proceedings will be affected by the outcome of the appeal from the decision of Jagot J in Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200, to be heard in March 2014. The parties have agreed that these proceedings should be stayed pending that decision."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "No defences have been filed in these proceedings and the issues have not yet crystallised."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Perpetual Trustee Company Limited (Perpetual) was the trustee of the Rembrandt Trust through which the Rembrandt Notes were issued. Pursuant to clause 1 of Schedule 1 to the Trust Deed establishing the Rembrandt Trust, Perpetual was required to maintain an “up to date” register of the holders of the Rembrandt Notes, including the names and addresses of noteholders and the amount outstanding in respect of the noteholders from time to time in relation to the outstanding notes (the Register)."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Under s 33E of the Act, the consent of group members to participate in representative proceedings is not required, except in circumstances that are not believed presently to apply."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Muswellbrook seeks an order to enable it to have access to the Register. It proposes to send a notice to each Group Member on the Register (the Notice)."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Muswellbrook seeks, in essence:\n• leave to issue a subpoena to Perpetual to produce the Register (as at Annexure A);\n• approval of the form and content of the Notice to be sent upon obtaining access to the Register (as at Annexure B);\n• permission for its solicitors to send the Notice to each of the persons identified on the Register as having held Rembrandt Notes by ordinary prepaid post and, where available, by email; and\n• the right to convey certain information contained in the Register to IMF."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The respondents submit that the application is premature. However, in the event that the Court is minded to approve the sending of the Notice, ABN Amro offers to have Perpetual send the Notice to all persons identified in the Register as holding Rembrandt Notes. Perpetual has agreed to send the Notice to those persons if so requested by ABN Amro. ABN Amro accordingly submits that Perpetual should not be the subject of an order compelling it to produce the Register but rather that ABN Amro should be subject to an order requiring it to take all reasonable steps to procure the sending of the Notice."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "As distilled in oral submissions, the key issues are:\n• whether there is power to make the proposed order that Perpetual produce the Register;\n• whether it is in the interests of the Group Members to give the information in the Register to Muswellbrook or its solicitors;\n• if so, whether the interests of the Group Members are better protected if the Notice is sent by Muswellbrook’s solicitors or if the Notice is sent by Perpetual and/or supplemented by advertising;\n• the form of the undertaking offered by Muswellbrook’s solicitors concerning the information in the Register and, in particular, whether any, and if so, what information can be made available to IMF."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "In her affidavit in support of the application, Muswellbrook’s solicitor says, in summary, that the subpoena is sought because:\n• Production of the Register will enable Muswellbrook to identify potential Group Members and send the Notice to them.\n• The Notice will provide information to the Group Members, such as the need to preserve documents, and will enable communication about the proceedings.\n• The Notice may assist Muswellbrook to make informed decisions about the proceedings and ascertain the potential size of the group and the potential amount of each Group Member’s claim.\n• It will allow Muswellbrook and IMF to communicate with Group Members in relation to the funding of the proceedings and to provide them with relevant information."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "ABN Amro and S&P rely on authority to the effect that the Court’s power to order a subpoena under r 24.12 of the Federal Court Rules 2011 (Cth) (the Rules) may only be invoked for a legitimate forensic purpose, such as for the purpose of obtaining documents which might be used during, and for the purposes of evidence in, a pending trial, hearing or application: Botany Bay Instrumentation & Control Pty Ltd v Stewart [1984] 3 NSWLR 98 at 100C, 101E per Powell J; Pharm-a-care Laboratories Pty Ltd v Commonwealth [2009] FCA 1203 at [20], [33]–[39] per Flick J. They contend that this subpoena is not sought for a legitimate forensic purpose, as none of the purposes for which Muswellbrook seeks leave to issue the subpoena is a legitimate forensic purpose that has been accepted as such."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "However, over the course of the interlocutory hearing, it became apparent that the order sought by Muswellbrook to compel production of the Register is not a subpoena in the traditional, “inter partes” sense and that the considerations that apply to the issue of a subpoena under r 24.12 of the Rules are not appropriate. Muswellbrook does not contend that there is a legitimate forensic purpose for the issue of the proposed subpoena such that the documents produced would have apparent relevance to a fact in issue in the proceedings."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "Muswellbrook contends that the Court’s power to issue a subpoena is not limited by the traditional “legitimate forensic purpose” test and instead relies on one or more of the following provisions of the Act and the Rules:\nSection 23:\nThe Court has power, in relation to matters in which it has jurisdiction, to make orders of such kinds, including interlocutory orders, and to issue, or direct the issue of, writs of such kinds, as the Court thinks appropriate.\nSection 33ZF(1):\n(1) In any [Pt IVA] proceeding … the Court may, of its own motion or on application by a party or a group member, make any order the Court thinks appropriate or necessary to ensure that justice is done in the proceeding.\nSection 37P which provides, relevantly, that:\n(2) The Court or a Judge may give directions about the practice and procedure to be followed in relation to the proceeding, or any part of the proceeding.\nRule 1.32:\nThe Court may make any order that the Court considers appropriate in the interests of justice."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "The power given to the Court encompasses the power to order the production of documents from a third party. If authority were needed to support that proposition with respect to s 23, it is provided by the decision of Branson J in Zapf Creation AG v OWT Australia Pty Ltd [2001] FCA 759. While her Honour was not considering the precise circumstances of this application, I see no limitation arising from her Honour’s reasoning. Rather, her Honour expressed the view (at [7]) that the order sought may be made where it ‘would have any utility’."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "As to s 33ZF, in McMullin v ICI Australia Operations Proprietary Limited (1998) 84 FCR 1, Wilcox J observed (at 4):\nSection 33ZF appears in Div 6 of Pt IVA which is headed “Miscellaneous”. It bears the marginal note “General power of Court to make orders”. These two features support the conclusion, that would in any event arise from its wording, that s 33ZF(1) was intended to confer on the Court the widest possible power to do whatever is appropriate or necessary in the interests of justice being achieved in a representative proceeding. It is understandable Parliament should have thought it appropriate to make such a provision. In enacting Pt IVA of the Federal Court of Australia Act, Parliament was introducing into Australian law an entirely novel procedure. It was impossible to foresee all the issues that might arise in the operation of the Part. In order to avoid the necessity for frequent resort to Parliament for amendments to the legislation, it was obviously desirable to empower the Court to make the orders necessary to resolve unforeseen difficulties; the only limitation being that the Court must think the order appropriate or necessary to ensure “that justice is done in the proceeding”."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "ABN Amro points out that Wilcox J did not say that s 33ZF empowers the Court to make an order compelling a third party to produce documents in circumstances where the subpoena power does not apply. However, His Honour’s observation as to unforeseen difficulties made it clear that he did not consider the section to have a narrow application. Indeed, Wilcox J’s reasoning provides an answer to ABN Amro’s contention that this is “an entirely novel order”."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "In P Dawson Nominees Pty Ltd v Brookfield Multiplex Limited (No 2) [2010] FCA 176, Finkelstein J considered an application by respondents in a representative proceeding for discovery of documents held by group members. His Honour considered (at [15]) that s 33ZF(1) provided the power to make such an order but declined to order discovery with respect to one of the two categories of documents sought. Contrary to ABN Amro’s submissions, Multiplex does not establish that s 33ZF does not provide the Court with power to order production of documents."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "Muswellbrook also sought to rely on NAB v Pathway Investments [2012] VSCA 168, Regent Holdings v State of Victoria [2012] VSCA 221 and Hopkins v AECOM Australia (2013) 92 ACSR 677. These cases also concerned the use of s 33ZF or its equivalent. However, other than reiterating the breadth of the power conferred on the Court by s 33ZF, particularly with respect to the production of documents (NAB at [53] per Bell AJA; Regent Holdings at [20] per Nettle, Redlich and Osborn JJA; AECOM at [20] per Nicholas J), these cases are not particularly relevant to these proceedings. Indeed, as stated by their Honours in Regent Holdings (at [18]–[19]), each case turns on its own facts and circumstances and care should be taken to avoid reading judgments on fact specific interlocutory issues of practice and procedure as if they were determinative of precepts and principles of general application."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "The fact that there are alternative sources of power provided in the Act and Rules, both general and specific, does not mean that the more general sources of power such as s 23 or r 1.32 should be considered as narrowed, overridden or qualified by more specific sources of power such as s 33ZF or Pt 24 of the Rules. This is made clear by the fact that r 1.32 is found within Div 1.3 of the Rules, which is entitled “General Powers of the Court”. Section 33ZF does not, as ABM Amro submits, fill some “lacuna” in the Act and Rules left by s 23 and Pt 24. The general powers of the Court are available to deal with applications for orders that the Court considers appropriate and for which there is no specific applicable rule."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "POWEr to ISSUE THE SUBPOENA"
+    ],
+    "text": "Accordingly, I am satisfied that both s 23 and s 33ZF provide a broad plenary power to make the order sought by Muswellbrook. The breadth of the discretionary power provided by these sections is supported by s 37P and r 1.32."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "Section 37M of the Act provides that the overarching purpose of the civil practice and procedure provisions of the Act is to allow the Court to resolve disputes as quickly, inexpensively and as efficiently as possible, with reference to the just determination of proceedings and the efficient use of Court resources. These provisions must be interpreted and applied in the way that best promotes this overarching purpose: s 37M(3)."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "The consideration of whether to make the order sought by Muswellbrook also requires consideration of the supervisory or protective jurisdiction exercised by the Court with regard to the conduct of representative proceedings. Judicial control of these proceedings ensures not only that litigation is conducted efficiently but also that the ‘interests of those who are absent but represented are not prejudiced by the conduct of the litigation on their behalf’ (Carnie v Esanda Finance Corporation (1995) 182 CLR 398 at 408 per Brennan J, cited by Gleeson CJ in Mobil Oil Australia Pty Ltd v Victoria (2002) 211 CLR 1 at [21]). As discussed in Courtney v Medtel (2002) 122 FCR 168 (at [57] per Sackville J), although the applicant’s solicitors may owe fiduciary duties to the unrepresented group members, no solicitor-client relationship arises by virtue simply of being a group member."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "The Court’s protective role arises from, and is particularly important because of, the essentially passive role of group members in representative proceedings. Justice Finkelstein pointed out (at [16]) in Multiplex that the starting point in deciding whether to exercise the power to make an order in representative proceedings is that Part IVA of the Act is designed to require little or no active involvement by group members. His Honour said (at [16]) that:\n… a group member is a group member principally for the limited purposes of taking the benefit, or suffering the burden, of findings on common questions (ie questions that are common to the claim brought by the named applicant and claims that may be pressed by group members."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "In the context of that case, where information was sought by the respondent from group members including litigation funding agreements and certain trade information, his Honour observed (at [17]) that there must be ‘some compelling reason’ before a court will order group members to go beyond their otherwise passive role."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "ABN Amro points out that in Multiplex, Finkelstein J was unpersuaded (at [28]) by the argument that discovery of certain documents pertaining to the quantum of some group members’ claims should be ordered because at some stage of the proceeding the information would inevitably be provided and that it was most convenient that it be provided at the time requested. His Honour pointed out that it was not inevitable that each group member would remain in the proceedings or be able to pursue a claim for damages. ABN Amro also relies on his Honour’s observation (at [31]) that, in part because of the passive role of group members, the identity of the group members may not be known, that they are under no obligation to identify themselves and the applicant has no obligation to seek them out."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "However, Muswellbrook’s application is not to require Group Members to produce documents or actively to engage in the proceedings. It is a step to identify Group Members in order that that may be in a better position to take the benefit or burden of findings on common questions. One of the requirements imposed by s 33H(1)(a) of the Act requires that group members be clearly identified (Pharm-a-care at [8])."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "interests of justice",
+     "General principles"
+    ],
+    "text": "As the Court has emphasised (e.g. in Courtney at [54] per Sackville J), in considering whether to make orders in representative proceedings, it is necessary to consider not only the statutory regime and the powers thereby specifically conferred but also the interests of justice (see also s 33ZF)."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "interests of justice",
+     "Submissions on matters in dispute"
+    ],
+    "text": "Muswellbrook’s submissions on the matters in dispute are, in essence:\n• As Perpetual is no longer under an obligation to update the addresses on file for Noteholders, the sending of the Notice by Perpetual does not ensure that, taking account of the passage of time since addresses were entered in the Register, the Group Members will receive the Notice.\n• If Perpetual were to send the Notice, there is no way for Muswellbrook to ensure that all Group Members have received the Notice, or to ascertain which have and which have not, or to determine if the recipient simply chose not to respond.\n• Perpetual has no particular interest in the Group Members receiving the Notice, whereas Muswellbrook has an interest in determining that each Group Member receives the Notice and makes a decision as to whether or not to participate in these proceedings. Accordingly, Muswellbrook will take steps to find those Group Members which may not have received the Notice, to ensure that they do receive it.\n• Access to the Register and, through it, to the Group Members, will place Muswellbrook in a position to ensure that Group Members receive relevant information about the proceedings."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "interests of justice",
+     "Submissions on matters in dispute"
+    ],
+    "text": "ABN Amro’s submissions on the matters remaining in dispute are, in essence:\n• The sending of the Notice by Perpetual will largely achieve the purposes sought by Muswellbrook as outlined in its solicitor’s affidavit. The Notice contains sufficient information to enable the Group Members to make a decision whether or not to contact Muswellbrook’s solicitors and/or IMF.\n• The Group Members are relatively small in number, and are sophisticated investors pursuant to ch 7 of the Corporations Act 2001 (Cth). Further, aside from two small institutional investors, all of the Group Members are wholesale investors.\n• The respondents are concerned that the disclosure of the Register to Muswellbrook, its solicitors and IMF would involve the disclosure of confidential and commercially sensitive information relating to the Group Members without the Group Members’ consent.\n• It is not yet necessary to do more than ask Perpetual to send the Notice, as the parties have agreed that the proceedings are to be stayed. That is, questions of developments in the proceeding and potential mediation are not yet in issue and therefore it cannot be said that information about Group Members’ identities and claims are necessary at this point in time.\n• The Group Members should be protected from unwanted and unsolicited contact from Muswellbrook’s solicitors and/or IMF.\n• There is always a further opportunity to seek leave to approach the individual Group Members if necessary for the litigation.\n• Muswellbrook’s application is for an improper purpose, as it is designed to enable IMF to pursue funding agreements with the Group Members and amounts to a use of the Court’s processes to facilitate IMF’s commercial purposes rather than for the purposes of litigation.\n• There is no need for Muswellbrook to know the identities of the Group Members or the size of each claim for the common questions to be formulated or, at this stage, for any other reason."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "interests of justice",
+     "Submissions on matters in dispute"
+    ],
+    "text": "In answer, Muswellbrook says:\n• Its solicitors and IMF will be bound by both a general implied undertaking of confidentiality and the express undertakings they have each offered to the Court for the purposes of this application.\n• Both the orders sought in this application and undertakings referred to above will ensure that only the solicitors may undertake contact with the Group Members proactively.\n• Muswellbrook’s solicitors’ expertise in this area “shows that [Group Members] don’t necessarily respond to the first notice” thus follow-up contact may be necessary. There is no question of unwanted contact; if the Group Members are sophisticated as described by the respondents, they will be capable of informing Muswellbrook’s solicitors if they wish no further contact or information. Further, there is no question of potential harassment, as that would amount to misconduct on the part of the solicitors.\n• The proposed course will ensure that the Notice has been received by Group Members and that their silence denotes a considered decision not to respond, rather than a failure to receive the Notice."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "Muswellbrook contends that it is in the interests of the Group Members for the Register to be produced and the Notice to be sent by its solicitors, rather than by Perpetual. The respondents contend that the best interests of the Group Members, and the interests of justice, will not be advanced if these events take place. At the heart of the respondents’ opposition is the use to which the information in the Register is to be put, and, in particular, the use to which IMF, Muswellbrook’s litigation funder, seeks to put this information."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "While it is known that Perpetual issued $50 million of the Rembrandt Notes, it is not presently known what proportion of that issue was taken up, how it was dealt with after that time, how many of the Group Members may have exited the Notes, and how such exit occurred. Without this information, Muswellbrook submits that it has “no idea” how much the Group Members’ claims are worth. Access to the Register is, Muswellbrook submits, necessary for it and, importantly, for IMF, to:\n• identify the Group Members;\n• identify the value of their respective claims;\n• ascertain the resources necessary to prosecute the proceedings;\n• prepare for any mediation; and\n• enable the Court to manage the proceedings."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "I have put the latter two factors to one side as premature in light of the fact that the parties have agreed that the proceedings are to be stayed."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "Muswellbrook seeks a subpoena because that is the mechanism to ensure production of a document. Muswellbrook advances its application by reference to the general powers of the Court and the provisions relevant to representative proceedings. The Register provides a means of ascertaining the identity of the Group Members and of notifying them of the existence of the proceedings. The subpoena is not for production of documents which may or may not be in existence; it is for the production of a document, the Register, that has been identified."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "I accept that the production of the Register will not throw light on the issues in the proceedings. There seems to be no dispute that seven or more Group Members have claims against each respondent, as required by s 33C of the Act. It is accepted that there is no identified evidence in the case to which the entries in the Register are relevant. As pointed out by S&P, while there may be a reasonable possibility that the Group Members hold documents which may have apparent relevance to the issues that will arise, the fact that the Notice requests that they retain such documents does not of itself establish a reasonable likelihood of apparent relevance (Seven Network v News Ltd (No 11) [2006] FCA 174 at [6]-[7] per Sackville J). However, Muswellbrook does not seek access to the Register because it asserts relevance to the issues that will arise between the parties. As set out above, it does not advance its case for production of the Register with reference to the accepted scope of the subpoena power but by reference to the broad plenary power of the Court to make orders in the interests of justice."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "With reference to the reasons Muswellbrook advances as to why it requires access to the Register, I accept that, as the proceedings are to be stayed, there is no immediate and necessary identified expenditure of resources. However, the evidence is that IMF may not continue to fund the proceedings unless ‘group members of sufficient value’ sign a funding agreement with IMF. If IMF discontinues funding and no alternative funding arrangements are made, Muswellbrook says that it will discontinue the proceedings and contends that Group Members’ rights may be lost because of the expiry of the limitation period. This limitation period is currently suspended by the existence of these proceedings (s 33ZE(1) of the Act)."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "I am satisfied that it is appropriate and in the interests of the Group Members that the Notice be sent to them, at least to enable them to be informed about the existence of the proceedings, the necessity to retain documents and the present and potential, but not definite, future funding of the proceedings by IMF. In particular, I am satisfied that it is in the interests of justice and is in keeping with the Court’s supervisory role in these proceedings for the Group Members to be informed in the Notice that there is a ‘real risk that IMF will cease funding the proceedings if an insufficient number of class members enter into a funding agreement with IMF’ and that Group Members’ ‘rights to any compensation may be lost by reason of the limitation period’ if these proceedings are discontinued."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "As to the sending of the Notice by Muswellbrook’s solicitors, rather than by Perpetual, as some time has passed since the entries were made in the Register, I consider that it is appropriate, efficient, cost effective and in the interest of the Group Members that the Notice be sent by Muswellbrook’s solicitors, who will make efforts to contact those Group Members who do not respond to the Notice to ensure that it has been received. This is particularly important given that Perpetual’s obligation to maintain current contact information for Noteholders ceased when a “strategy unwind event” occurred on 24 October 2008 and the Rembrandt Notes were redeemed by Perpetual. Accordingly, the addresses and contact details held by Perpetual in the Register may no longer be current, necessitating the efforts of Muswellbrook’s solicitors to seek out Group Members. It is not suggested that Perpetual would do more than mail the Notice to the Group Members at the address listed on the Register."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "Upon receipt of the Notice, it is then, of course, up to individual Group Members to choose to contact Muswellbrook’s solicitors for further details or to contact IMF for discussion as set out in the Notice, or not. For the reasons set out above at [40], I see no benefit, and some disadvantage, in the Notice being sent by Perpetual rather than by Muswellbrook’s solicitors. I also see a benefit in the solicitors being aware of the percentage of potential Group Members who have received the Notice and I note the restrictions in the proposed undertaking (set out below at [51]) as to the use that can be made of the information in the Register prior to the voluntary provision of information by a Group Member. I consider these restrictions sufficient to address the respondents’ concerns regarding the disclosure of confidential information."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "I do not see the issue of a subpoena to produce the Register to Muswellbrook’s solicitors to be for the primary purpose of the commercial interests of IMF. That interest may exist and may even be advanced if Group Members respond and make contact with IMF or volunteer further information. However, the primary interest is the interest of the Group Members themselves who choose to take steps to ensure that they are provided with information as to the existence of, state of, and possible course of, these proceedings."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "Muswellbrook also submits that it wishes to ensure that Group Members are aware of their proposal to discontinue proceedings against RBS Morgans. This proposed discontinuance will impact the rights of two Group Members who have acquired an interest in the Rembrandt Notes from RBS Morgans. The Notice communicates this information to Group Members which is a necessary pre-condition for an application pursuant to s 33V of the Act for the Court’s approval of the proposed discontinuance. Ensuring that Group Members are made aware of the proposed discontinuance as soon as possible is another factor supporting the provision of the Register to Muswellbrook’s solicitors."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "interests of justice",
+     "Consideration"
+    ],
+    "text": "The above factors support the issue of a subpoena to Perpetual compelling the production of the Register to Muswellbrook’s solicitors and the sending of the Notice by Muswellbrook’s solicitors."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Form of the Notice"
+    ],
+    "text": "The giving of notice to group members in representative proceedings is governed by ss 33X and 33Y of the Act. Relevantly, under s 33X(5), ‘the Court may, at any stage, order that notice of any matter be given to a group member or group members’. The form and content of a notice dispatched to group members under s 33X must be approved by the Court, which also must specify by order who is to give the notice and the way the notice is to be given: s 33Y(2), (3)."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Form of the Notice"
+    ],
+    "text": "There is no present dispute as to the form or content of the Notice."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Form of the Notice",
+     "Means of provision of the Notice"
+    ],
+    "text": "Section 33Y(5) of the Act provides ‘the Court may not order that notice be given personally to each group member unless it is satisfied that it is reasonably practicable, and not unduly expensive to do so’."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Form of the Notice",
+     "Means of provision of the Notice"
+    ],
+    "text": "ABN Amro submits that Muswellbrook’s concern that Group Members may not receive the Notice if sent by Perpetual could be addressed by way of advertising. It says that s 33Y(5) of the Act indicates that the giving of notice to group members in a representative proceeding by an advertisement is ‘plainly intended to be the norm, rather than the exception’. However, this presumption is not strong. As noted in Femcare v Bright (2000) 100 FCR 331 (per Black CJ, Sackville and Emmett JJ at [74]), the object of s 33Y(5) is to ‘find the most economical means of ensuring that the group members are informed of the proceedings and their rights’."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Form of the Notice",
+     "Means of provision of the Notice"
+    ],
+    "text": "The present circumstances demonstrate that advertising will not always be the most economical means. Given that $50 million worth of Rembrandt Notes were issued and that each investor was required to purchase at least $500,000 worth of Notes, the total pool of Group Members is not large (e.g. no more than 100 individuals or companies). Accordingly, advertising to the broader community is unlikely to be useful and, furthermore, is likely to be significantly more expensive than sending the Notice by ordinary prepaid mail and initiating follow-up contact, for example, by telephone. Such follow-up is the advantage of the Notice being sent by Muswellbrook’s solicitors. Accordingly, I am satisfied that it is appropriate to order that the Notice be sent personally to each Group Member by mail."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "THE UNDERTAKING",
+     "Form of the undertaking"
+    ],
+    "text": "In order to address concerns raised by the respondents regarding the use of the information from the Register by IMF, Muswellbrook’s solicitor and IMF have offered undertakings in the following terms:\nIn the event that the Court orders production of documents from Perpetual Trustee Company Limited pursuant to the application made by Interlocutory Application dated 8 April 2013 and such documents are produced to the Court, the only persons applying for access to the documents will be the applicant's solicitors PIPER ALDERMAN by their employees and, following such inspection, the applicant's solicitor, AMANDA KIM BANTON, UNDERTAKES TO THE COURT that:\n1. PIPER ALDERMAN or their employees will not provide copies of the documents inspected to IMF (AUSTRALIA) LTD (IMF) or its employees;\n2. PIPER ALDERMAN or their employees will not disclose the content of the documents inspected to any employee of IMF other than:\na) the number of persons listed on the Register of Noteholders;\nb) the total amount of holdings of persons listed on the Register of Noteholders;\nc) the amount of holdings of each person listed on the Register of Noteholders, but not the identity of those persons; and\nd) the total amount of holdings of persons listed on the Register of Noteholders who have not contacted Piper Alderman by the date requested in the Notice issued to Group Members;\ne) the names and contact details of those persons listed on the Register of Noteholders who inform Piper Alderman (or their employees) that they wish to discuss the funding of these proceedings with IMF and who consent to their names and contact details being provided to IMF; and\nf) responses received by Piper Alderman from Group Members to the questions set out in Section I of the Notice to Group Members, but not the identity or contact details of those Group Members.\nAND IMF SEPARATELY UNDERTAKES TO THE COURT that:\n3. IMF or its employees will not make any written or oral contact with any of the recipients of any Notice to be issued to Group Members (Notice Recipients) unless and until it is informed by Piper Alderman (or their employees) or by the Notice Recipient directly that the Notice Recipient has expressed a wish to discuss the funding of these proceedings with IMF, except for any Notice Recipients:\na) with whom as at the date of this undertaking, IMF has already had written or oral contact in relation to their purchase of the Rembrandt 2006-2 Notes; or\nb) for whom IMF obtains the names and contact details from a source other than Piper Alderman.\n4. IMF and its employees will not use the information provided to it as described in paragraph 2(a)–(d) above other than for the purposes of these proceedings (which, for the avoidance of doubt, includes IMF’s review of the information for the purpose of IMF assessing whether to continue funding the litigation)."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "THE UNDERTAKING",
+     "Form of the undertaking"
+    ],
+    "text": "As to the form of the undertaking, the first paragraph of the undertaking should be amended to read:\nPIPER ALDERMAN or their employees will not provide copies of the documents inspected or any information recorded in such documents to IMF (AUSTRALIA) LTD (IMF) or its employees …"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "THE UNDERTAKING",
+     "Form of the undertaking"
+    ],
+    "text": "It should also be amended to provide that the undertaking be given until such time as a Group Member gives permission for the provision of documents and/or information to IMF. The proposed undertaking by IMF should be amended as necessary to refer to and include all of the information that it receives by reason of the amended version of paragraph 2."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "THE UNDERTAKING",
+     "Form of the undertaking"
+    ],
+    "text": "In my view, the matters set out at 2(a) and 2(b) of the undertaking provide sufficient information and there is no demonstrated reason why it is reasonable or necessary for the information in 2(c) or 2(d) of the undertaking to be disclosed to IMF. The subject matter of 2(e) and 2(f) is information voluntarily provided by the recipients of the Notice and not pursuant to the compulsory processes of the Court; accordingly such information may be disclosed to IMF."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "THE UNDERTAKING",
+     "Implied undertaking not to use documents"
+    ],
+    "text": "ABN Amro submits that the proposed undertaking by the solicitor is inappropriate because paragraph 2 would permit the disclosure of information contained in the Register to IMF in circumstances where that would be contrary to the implied undertaking not to use documents compulsorily produced in court proceedings other than for the purpose of those proceedings (Hearne v Street (2008) 235 CLR 125 at [105] per Hayne, Heydon and Crennan JJ)."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "THE UNDERTAKING",
+     "Implied undertaking not to use documents"
+    ],
+    "text": "I am satisfied that the express undertaking above, as amended to exclude 2(c) and 2(d) would only provide IMF, in the first instance, with the information necessary for it to make a decision as to continued funding of the proceedings. The provision of that information is not provision of a document or information by Muswellbrook’s solicitors to IMF for a prohibited, collateral or ulterior purpose."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "THE UNDERTAKING",
+     "Implied undertaking not to use documents"
+    ],
+    "text": "As discussed by Finkelstein J in Cadence Asset Management v Concept Sports Limited [2006] FCA 711 (at [6]), the implied undertaking by solicitors does not prevent absolutely a party giving discovered documents to a non-party. His Honour observed (at [7]) that the private interests of the opposing parties are not affected by the disclosure of documents to non-parties such as IMF where those non-parties are not strangers to the proceedings and where the provision of the documents is not for an ulterior or foreign purpose. IMF has a sufficient interest to be provided with certain produced documents. The Register is not to be provided to IMF, only the information necessary for it to determine whether it will continue to fund the litigation, which is a purpose related to the conduct of the proceedings."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "THE UNDERTAKING",
+     "Implied undertaking not to use documents"
+    ],
+    "text": "Both Finkelstein J’s findings in Cadence, and the disclosure of documents to IMF are consistent with the comments of Hayne, Heydon and Crennnan JJ in Hearne (at [109]) that ‘it is likely that, in the future, documents and information will be provided to persons funding the litigation, who will likewise be bound by the [implied undertaking]’. Where disclosure is made to IMF, IMF will be subject to the implied undertaking. That has been made explicit in the undertaking proffered."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "THE UNDERTAKING",
+     "Implied undertaking not to use documents"
+    ],
+    "text": "Any information volunteered by the Group Members either to Muswellbrook’s solicitors or to IMF is, of course, in a different category."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "I will reserve the question of costs. If there is agreement on costs, the parties can provide a draft consent order."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "The respondents’ written submissions centred on the issue of a subpoena under Pt 24 of the Rules and the question of legitimate forensic purpose. At the hearing of the application, Muswellbrook did not press such a purpose. If there is no agreement as to the effect of this on the hearing, for example if this does not constitute a late abandonment of this basis by Muswellbrook, the parties should provide short written submissions as to costs within 2 weeks."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixty (60) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Bennett.",
+ "associate": null,
+ "dated": "2013-06-20",
+ "schedules": [
+  {
+   "title": null,
+   "text": "61"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "4b3fc2be6c83d17ab30fa27e03806faa153d77bd3d779b46d8b3a334aab88001",
+ "markdown_file": "data/extracted/2013/2013FCA0616.md"
+}

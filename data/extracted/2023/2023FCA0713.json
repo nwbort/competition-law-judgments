@@ -1,0 +1,598 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA0713.docx",
+ "metadata": {
+  "citation": "[2023] FCA 713",
+  "name": "Mayfield Development Corporation Pty Ltd v NSW Ports Operations Hold Co Pty Ltd (No 3)",
+  "court": "FCA",
+  "year": 2023,
+  "number": 713,
+  "date_of_judgment": "2023-06-22",
+  "file_numbers": [
+   "NSD862/2019"
+  ],
+  "judges": [
+   "LEE J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-06-22"
+  ],
+  "hearing_raw": "22 June 2023",
+  "number_of_paragraphs": 42,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – where proceeding stayed pending determination of proceeding commenced by Australian Competition and Consumer Commission (ACCC) – where ACCC proceeding and appeal now finalised – matter to be progressed with case management imperatives in Pt VB of the Federal Court of Australia Act 1976 (Cth) in mind",
+   "PRACTICE AND PROCEDURE – where applicant intends to contend Full Court plainly wrong – whether proceeding properly constituted – whether separate determination of issues appropriate – whether demurrer appropriate"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 2B(1)(a), 45, 45(2)(a)(ii)",
+   "Evidence Act 1995 (Cth) s 191",
+   "Federal Court of Australia Act 1976 (Cth) Pt VB, s 37P(2)",
+   "Federal Court Rules 2011 (Cth) r 30.01"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2007] HCA 38; (2007) 232 CLR 1",
+   "Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720",
+   "Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2023] FCAFC 16; (2023) 407 ALR 627",
+   "Australian Competition and Consumer Competition v NSW Ports Operations Hold Co Pty Ltd (No 2) [2021] FCA 1040",
+   "Bass v Permanent Trustee Co Ltd (1999) 198 CLR 334",
+   "Mayfield Development Corporation Pty Ltd v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 260",
+   "Wynyard Investments Pty Ltd v Commissioner for Railways (NSW) (1955) 93 CLR 376"
+  ],
+  "parties": [
+   {
+    "name": "MAYFIELD DEVELOPMENT CORPORATION PTY LTD (ACN 154 495 048)",
+    "role": "Applicant"
+   },
+   {
+    "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD (ACN 163 262 351)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "PORT BOTANY OPERATIONS PTY LTD (ACN 161 204 342)",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "PORT KEMBLA OPERATIONS PTY LTD (ACN 161 246 582)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr P McQueen with Ms N Wootton"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Banton Group"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr B Lim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Gilbert + Tobin"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0713",
+  "portal_file_numbers": [
+   "NSD862/2019"
+  ],
+  "portal_event": "Case Management Hearing",
+  "portal_event_date": "2023-06-22"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 862 of 2019"
+  },
+  {
+   "label": "Judgment of",
+   "value": "LEE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "22 June 2023"
+  },
+  {
+   "label": "Date of publication of reasons",
+   "value": "28 June 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – where proceeding stayed pending determination of proceeding commenced by Australian Competition and Consumer Commission (ACCC) – where ACCC proceeding and appeal now finalised – matter to be progressed with case management imperatives in Pt VB of the Federal Court of Australia Act 1976 (Cth) in mind\nPRACTICE AND PROCEDURE – where applicant intends to contend Full Court plainly wrong – whether proceeding properly constituted – whether separate determination of issues appropriate – whether demurrer appropriate"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 2B(1)(a), 45, 45(2)(a)(ii)\nEvidence Act 1995 (Cth) s 191\nFederal Court of Australia Act 1976 (Cth) Pt VB, s 37P(2)\nFederal Court Rules 2011 (Cth) r 30.01"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2007] HCA 38; (2007) 232 CLR 1\nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720\nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2023] FCAFC 16; (2023) 407 ALR 627\nAustralian Competition and Consumer Competition v NSW Ports Operations Hold Co Pty Ltd (No 2) [2021] FCA 1040\nBass v Permanent Trustee Co Ltd (1999) 198 CLR 334\nMayfield Development Corporation Pty Ltd v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 260\nWynyard Investments Pty Ltd v Commissioner for Railways (NSW) (1955) 93 CLR 376"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "42"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "22 June 2023"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr P McQueen with Ms N Wootton"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Banton Group"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr B Lim"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Gilbert + Tobin"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD862/2019",
+   "parties": [
+    {
+     "name": "MAYFIELD DEVELOPMENT CORPORATION PTY LTD (ACN 154 495 048)",
+     "role": "Applicant"
+    },
+    {
+     "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD (ACN 163 262 351)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "PORT BOTANY OPERATIONS PTY LTD (ACN 161 204 342)",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "PORT KEMBLA OPERATIONS PTY LTD (ACN 161 246 582)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2023-06-22",
+   "date_raw": "22 JUNE 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The stay of the proceeding ordered on 19 August 2019 be lifted.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "On or by 29 June 2023, Mayfield Development Corporation Pty Ltd (MDC) provide security in respect of NSW Port Operations Hold Co Pty Ltd (NSW Ports) costs of the proceeding in the amount of $250,000, by placing that sum into a controlled-money account operated by the solicitors for MDC.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Order 2 is without prejudice to NSW Ports seeking to apply for subsequent security for further stages of the proceeding, and in the event that MDC fails to provide security in accordance with Order 2, the proceeding be stayed without necessity for further order.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "On or by 17 July 2023, MDC file a further amended originating application and a further amended statement of claim, limited to any change as to the parties to the proceeding.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Leave be granted to MDC to file the documents pursuant to Order 4, subject to NSW Ports making any further complaint about the form of the further amended statement of claim, including any argument as to the amendment effected by paragraph 34A of the amended statement of claim, and whether that amendment should be allowed and the date upon which that amendment is to take effect.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "On or by 14 August 2023, NSW Ports file any defence to the further amended statement of claim.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "NSW Ports serve on the other parties and provide to the Associate to Justice Lee a copy of a statement of facts (in a form which could amount to an admission) being the facts it contends are necessary to be found in order for the Court to determine separately any issue of derivative Crown immunity or in relation to any preclusion defence.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "On or by 8 September 2023, MDC notify NSW Ports and the Associate to Justice Lee whether any of the facts specified in the document filed pursuant to Order 7 are disputed, and if so, the ambit of such dispute.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "On or by 13 September 2023, the parties provide to each other and the Associate to Justice Lee a copy of any orders they propose to seek, together with a short submission identifying reasons why they contend for such orders, including any submissions they wish to make in relation to the separate determination of the derivative Crown immunity defence and/or any defence of preclusion pleaded.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "The matter be listed for a further case management hearing to identify orders for the further conduct of the proceeding, including any separate determination, at 2:15pm on 15 September 2023.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The proceeding presently before the Court has been stayed since August 2019. Today, the parties seek to have the stay lifted and set a plan in motion to progress the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "By way of background, in December 2018, the Australian Competition and Consumer Commission (ACCC) commenced proceedings against three respondents that may collectively be referred to as NSW Ports, being Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd & Ors (NSD 2289 of 2018) (ACCC Proceedings).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The ACCC alleged that NSW Ports entered into contracts with the State of New South Wales in 2013 which had the purpose, or would or were likely to have the effect of, substantially lessening competition in the market for the supply of port services for container cargo in New South Wales in contravention of s 45(2)(a)(ii) of the Competition and Consumer Act 2010 (Cth) (CCA), as in effect in May 2013.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The ACCC Proceedings were the subject of a judgment by Jagot J, delivered in June 2021: Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720. Relevantly, her Honour dismissed the ACCC’s claim.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The ACCC unsuccessfully appealed to the Full Court: Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2023] FCAFC 16; (2023) 407 ALR 627.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "Of relevance today is that in the Full Court, Allsop CJ (with whom Yates J agreed) held (at 730–732 [408]–[415]) that the primary judge did not fall into error in finding that NSW Ports was entitled to rely upon derivative crown immunity. That is, NSW Ports had successfully demonstrated two matters: first, that the State was not bound by Pt IV of the CCA because it was not relevantly carrying on a business for the purpose of s 2B(1)(a) of the CCA; and, secondly, NSW Ports was entitled to the derivative benefit of that immunity of the State (through non-application of the CCA to it) because to subject NSW Ports to s 45 would be to affect the State in such a way as to adversely affect some interest in the State in a manner and to a degree identified in the authorities: see, for example, Wynyard Investments Pty Ltd v Commissioner for Railways (NSW) (1955) 93 CLR 376; Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2007] HCA 38; (2007) 232 CLR 1.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The final member of the Full Court, Beach J, was of the view that derivative crown immunity was not relevantly engaged and that s 45 of the CCA did in fact apply to the NSW Ports consortium (at 571–573 [574]–[584], 753–754 [586]–[597], 756–758 [611]–[624]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "The ACCC did not seek special leave to appeal to the High Court.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "Importantly for present purposes, in 2019, the applicant in these proceedings (MDC) also commenced proceedings against NSW Ports (MDC Proceeding). MDC sought declaratory relief to the same effect as that sought by the ACCC, together with orders for statutory compensation.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "As foreshadowed above, the MDC Proceeding was stayed by consent in August 2019. In March 2020, MDC unsuccessfully applied for an order lifting the stay: Mayfield Development Corporation Pty Ltd v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 260. Justice Jagot was of the view that although there was much to be said in favour of the position that the MDC Proceeding and the ACCC Proceeding should be heard together, MDC’s application came too late (at [19]). It appears the reason why MDC initially consented to the stay is that it did not have litigation funding to provide the necessary security for costs and thus took the view (although it was not disclosed at the time) that a stay in those circumstances was inevitable (at [19]).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "A INTRODUCTION AND BACKGROUND TO THE LITIGATION"
+    ],
+    "text": "Relevantly, in February 2022, the Full Court granted MDC leave to intervene in the appeal by making written submissions. As it happened, Allsop CJ observed (at 732 [416]) the submissions “require[d] little additional consideration”.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "B THE CASE MANAGEMENT HEARING"
+    ],
+    "text": "The matter was allocated to my docket on 31 May 2023, and listed for case management as soon as practicable.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "B THE CASE MANAGEMENT HEARING"
+    ],
+    "text": "On 20 June 2023, two days before the case management hearing, the Court received a copy of orders by consent from the parties under cover of an email to my Associate, which provided as follows:\nThe parties have agreed to the attached proposed orders, which include the following:\n• The stay of the proceeding be lifted;\n• The applicant pay an amount of $250,000 into Court as a first tranche of security for the respondents’ costs;\n• The timetabling for the filing and service of any defence and reply; and\n• The case management hearing listed on 22 June 2023 be vacated and the matter be listed for a case management hearing on a date to be fixed after 21 August 2023.\nWe would be grateful if you would confirm whether his Honour is content to make orders in terms of the agreed minute and for the case management hearing listed on 22 June 2023 to be vacated.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "B THE CASE MANAGEMENT HEARING"
+    ],
+    "text": "While apparently in vogue, and occasionally justified, the course of sending up agreed consent orders and seeking to punt case management hearings down the road is often inappropriate. This is especially true in complex cases such as this. As has been said many times, case management hearings are not directions hearings. They are a means by which the Court seeks to understand the nature of the issues between the parties, and manage the proceedings consistently with the dictates of Pt VB of the Federal Court of Australia Act 1976 (Cth) (FCA Act). This is why my Associate sent the parties, well in advance of the listing, a memorandum setting out case management imperatives and requesting the practitioners familiarise themselves with the terms of the Central Practice Note: National Court Framework and Case Management (CPN-1), so as to assist the Court in determining the appropriate course of efficient preparation and the steps truly required to quell this controversy (with a view to eliminating all unnecessary process and procedural costs).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "B THE CASE MANAGEMENT HEARING"
+    ],
+    "text": "As it happens, the lengthy exchange conducted with counsel today was a very useful exercise, allowing me to understand what is really in issue and consider how this case may be progressed effectively. None of this would have occurred if orders were made in chambers.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "An immediate question I had for the parties was why it was agreed the stay should be lifted.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Counsel for MDC, Mr McQueen, clarified that life remains in the MDC Proceeding because MDC intends to argue that the decision of Allsop CJ (Yates J agreeing), whereby the Full Court held that Jagot J did not err in finding that NSW Ports was entitled to rely upon derivative crown immunity, is plainly wrong. MDC’s position is that the contrary analysis of Beach J is to be preferred.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "The question then becomes how the Court is to address this contention in the light of MDC’s intervention and the Full Court’s decision in the ACCC Proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Needless to say, sitting at first instance, it will be necessary for me to give effect to the decision of the majority of the Full Court. It is necessary, in line with the overarching purpose, to fasten upon the most pragmatic way of doing so.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "A number of options were canvassed, including summary dismissal and demurrer, which was the focus of debate.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "A demurrer would involve taking MDC’s case at its highest and determining whether or not it should nevertheless be dismissed because of the ability of NSW Ports to rely on derivative crown immunity in the light of the Full Court’s determination. Put another way, a demurrer proceeds upon identified facts and enables a Court to declare whether or not those facts provide a cause of action, defence or reply to another party’s pleading: Bass v Permanent Trustee Co Ltd (1999) 198 CLR 334 (at 357–358 [49]–[52] per Gleeson CJ, Gaudron, McHugh, Gummow, Hayne and Callinan JJ). Such a determination would be made separately and before any other issue in the proceeding pursuant to s 37P(2) of the FCA Act and r 30.01 of the Federal Court Rules 2011 (Cth) (FCR).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Mr Lim, who appeared on behalf of NSW Ports, had not had previous opportunity to consider the courses proposed by the Court and was, in these circumstances, understandably hesitant in expressing a firm position.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Three points drawn out in the course of Mr Lim’s submissions are worthy of elaboration.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "The first is that it appears the current constitution of the proceeding may be deficient. The fact that the State of New South Wales is not joined to the MDC Proceeding is an obstacle to the determination of any issue concerning derivative crown immunity. As Jagot J explained in Australian Competition and Consumer Competition v NSW Ports Operations Hold Co Pty Ltd (No 2) [2021] FCA 1040 (at [9]):\n… the State was a necessary party to the main proceeding. The relief the ACCC sought, if granted, would have changed the contractual rights and duties as between the State and NSW Ports. The ACCC’s submissions about s 4L of the CCA having nothing to do with joinder, not applying to arrangements or understandings, and not operating other than as between the parties to the proceeding are misconceived. If the ACCC had succeeded, the result of the relief to be granted would have been to change the contractual relationship between NSW Ports and the State. The principle that only a party to the proceedings in which a declaration is made is bound by the declaration is not an answer. The declaration would have operated to prevent the State from enforcing the PCDs against NSW Ports, and NSW Ports from enforcing the PCDs against the State because the PCDs would have been declared to be unlawful and that declaration would have been binding on NSW Ports. Further, s 4L of the CCA assumes this to be the consequence of any such declaration. Under s 4L, if the contravening provision is severable, then the balance of the contract remains valid and enforceable. The corollary is that the contravening provision is not valid and enforceable. Section 83 does not suggest to the contrary. It is merely an aid to proof in subsequent proceedings.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Mr McQueen had not given prior consideration to whether or not it was necessary for the State to be joined. It is necessary, as a first step, that MDC turn its mind to this question.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "The second point raised by Mr Lim was that MDC is precluded from maintaining, at the very least, the contention that the derivative crown immunity defence is unavailable. This argument is made on the footing that MDC was involved as an intervener in the ACCC Proceeding, and so is bound by a judgment in a similar way as a party to the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "The third point goes to the difficulty that the determination of a separate question or demurrer assumes a fixed and identified universe of relevant factual material: see Bass v Permanent Trustee (at 357 [50] per Gleeson CJ, Gaudron, McHugh, Gummow, Hayne and Callinan JJ). As the case management hearing went on, it became apparent that there may be some facts beyond those found by Jagot J which need to be proved if the derivative statutory immunity defence is to be separately determined. An example raised is the matter referred to at [402]–[404] of her Honour’s judgment:\n402 The scheme of the [Ports Assets (Authorised Transactions) Act 2012 (NSW) (PAAT Act)] thus enables the Treasurer to do what is required to be done for the purposes of an authorised transaction. On this basis, the legislative intention of the NSW Parliament in enacting the PAAT Act may be discerned. The NSW Parliament intended that the statutory rights vested in the Treasurer by the PAAT Act included the Treasurer, for the purposes of an authorised transaction, requiring the other party to the transaction to engage in conduct that would otherwise contravene the CCA.\n403 The concept of the Treasurer requiring the other party to engage in conduct that would otherwise contravene the CCA does not resolve all uncertainty. But it does involve objective considerations. It is a question of fact answered by reference to the circumstances at the time of the conduct. That relevant fact cannot change. The Treasurer either did or did not require the conduct at the relevant time. This characterisation of the statutory right constitutes a relatively clear criterion to distinguish between conduct authorised by the PAAT Act (or purported to be authorised given that the provisions of the CCA are yet to be considered) and conduct not authorised by the PAAT Act.\n404 In the present case, on the evidence, the Treasurer required NSW Ports to agree to the compensation provisions. Morgan Stanley, on behalf of the Treasurer, informed bidders on 20 December 2012 that changes to the transaction documents should be minimised as they represented the State’s preferred position and that any changes to the liability and risk allocation regime would be viewed unfavourably. The Treasurer proposed the compensation provisions to bidders on 15 March 2013 as part of the risk allocation regime. In doing so, the compensation provisions were described as a “codified regime” if container volumes at the Port of Newcastle exceeded an organic growth path before Port Botany and Port Kembla were fully developed. NSW Ports did not request any change to the compensation provisions. It accepted the provisions as proposed by the Treasurer.\n(Emphasis in original).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "Whether the Treasurer “required” NSW Ports to engage in certain conduct in relation to MDC is a fact which may need to be proved. On mature reflection, there may be other necessary factual issues which may potentially complicate any separate determination.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "C THE ISSUES AT PLAY"
+    ],
+    "text": "It seems to me, however, that any facts which may be required to be found in order to determine the defence are unlikely to be in contention. But when it comes to agreed facts, the devil is always in the detail. As such, whether there should be any separate trial procedure will depend upon whether or not there is going to be a dispute of substance in relation to any necessary factual questions.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "It is incumbent upon both the parties and the Court to ascertain whether the potentially determinative issues of preclusion and especially the defence of derivative crown immunity can be resolved without proceeding to trial in the ordinary course.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "Accordingly, I have determined to instate a regime for the joinder of issue on a properly constituted proceeding with all necessary parties before the Court, following which I will decide whether or not the defence of derivative crown immunity and perhaps any defence relating to preclusion should be determined separately.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "It is important to set out the range of results which may flow from this course.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "If the arguments advanced by NSW Ports in relation to the foreshadowed defences are successful, then the consequence will be the proceedings will be dismissed. Mr McQueen does not gainsay this proposition insofar as I asked him to indicate whether he agreed the derivative crown immunity defence is a complete answer to his claim. He accepts it is necessary for him to succeed in either: (1) persuading a Full Court that the reasoning of Allsop CJ (with which Yates J agreed) was plainly wrong; or, alternatively, (2) obtaining a determination from the High Court to similar legal effect, following a removal or a successful application for special leave to appeal.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "If MDC is successful in that endeavour, then the matter would need to come back to me for a trial on the substance of the case. Mr McQueen has made it plain, consistently with his obligations in Pt VB of the FCA Act, that MDC is willing to do all it can to explore ways of ensuring the demands on the Court’s time are minimised.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "D THE COURSE TO BE TAKEN"
+    ],
+    "text": "NSW Ports is, at present, not averse to such a course, subject to there being utmost clarity that, in the event MDC is unsuccessful in its attack on the Full Court’s decision, the justiciable controversy between MDC and NSW Ports would be entirely resolved. This hesitation is understandable. My present view is, however, that given MDC concedes derivative crown immunity would be a complete answer should the Full Court’s ruling remain undisturbed, one should be able to fashion a means by which this issue is resolved in line with the overarching purpose.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "I propose to put in place the following regime.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "MDC should file a further amended originating application and a further amended statement of claim, limited to any change as to the parties to the proceeding.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "NSW Ports should then file a defence.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "Immediately following the close of pleadings, NSW Ports should identify any facts that would need to be either agreed or determined for the purposes of the Court separately determining any derivative crown immunity or preclusion defence. Next, MDC should indicate whether any of those facts are in dispute (or perhaps agree facts that may be tendered at any separate hearing pursuant to s 191 of the Evidence Act 1995 (Cth)).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "Finally, I will bring the matter back for another case management hearing to determine where to go from there. At that point in time, I will be in a position to determine whether I should make orders pursuant to s 37P(2) of the FCA Act and FCR 30.01 for a separate trial of any issue.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "It will, of course, be necessary for the State of New South Wales to consider its position in the interim. It may be that the State of New South Wales agrees it will be bound by any determination made in this proceeding without being joined, or files a submitting appearance (at least before me). Needless to say, any separate hearing before me should be an entirely straightforward affair if there are no disputed facts, given the authority binding upon me.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "E CONCLUSION AND ORDERS"
+    ],
+    "text": "I will make orders giving effect to these reasons.",
+    "judge": "LEE J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-two (42) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Lee.",
+ "associate": null,
+ "dated": "2023-06-28",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "55443051e74b2e88f51ec22e661e240dbe17cae09d3c973596e9b6d97189bba5",
+ "markdown_file": "data/extracted/2023/2023FCA0713.md"
+}

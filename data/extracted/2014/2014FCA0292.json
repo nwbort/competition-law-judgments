@@ -1,0 +1,811 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2014/2014FCA0292.docx",
+ "metadata": {
+  "citation": "[2014] FCA 292",
+  "name": "Australian Competition and Consumer Commission v Flight Centre Limited (No 3)",
+  "court": "FCA",
+  "year": 2014,
+  "number": 292,
+  "date_of_judgment": "2014-03-28",
+  "file_numbers": [
+   "QUD177/2012"
+  ],
+  "judges": [
+   "LOGAN J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Brisbane",
+  "hearing_dates": [
+   "2013-12-19",
+   "2013-12-20",
+   "2014-02-07"
+  ],
+  "hearing_raw": "19 and 20 December 2013\n7 February 2014",
+  "number_of_paragraphs": 65,
+  "catchwords": [
+   "TRADE PRACTICES – penalty – pleading a circumstance of aggravation – application of s 76(1A) Trade Practices Act 1974 (Cth) (since amended and renamed the Competition and Consumer Act 2010 (Cth) – whether aggravation must be pleaded in civil penalty provisions – recovery of a pecuniary penalty – application of r 16.03, r 1.32, r 1.34 and r 1.35 of the Federal Court Rules 2011 (Cth) in light of established pleadings and procedural fairness",
+   "Held: in the absence of the pleading of a circumstance of aggravation, penalty fell for determination by reference to the lower maximum not the higher maximum penalty applicable if the circumstance of aggravation had been alleged and proved"
+  ],
+  "legislation": [
+   "Constitution s 75",
+   "Access to Justice (Civil Litigation Reforms) Amendment Act 2009 (Cth)",
+   "Acts Interpretation Act 1901 (Cth) s 15A",
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Judiciary Act 1903 (Cth) ss 79, 80",
+   "Trade Practices Act 1974 (Cth) ss 45, 45A, 45D, 45DB, 45E, 45EA, 76, 77",
+   "Trade Practices Legislation Amendment Act (No 1) 2006 (Cth)",
+   "Federal Court Rules 2011 (Cth) r 1.32, r 1.34, r 1.35, r 16.02, r 16.03, r 16.04",
+   "Air Navigation Regulations 1947 (Cth)"
+  ],
+  "cases_cited": [
+   "Alton (an officer of the Commonwealth Department of Transport) v Pages, Brisbane Magistrates Court, 24 March 1981, reported, The Canberra Times, 25 March 1981, p 12 considered",
+   "Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (2007) 161 FCR 513 cited",
+   "Australian Competition and Consumer Commission v Flight Centre Limited (No 2) [2013] FCA 1313 cited",
+   "Australian Competition and Consumer Commission v McMahon Services Pty Ltd [2004] ATPR 42-031 considered",
+   "Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 88 ALJR 176 approved",
+   "Australian Securities and Investments Commission v Hellicar (2012) 247 CLR 345 cited",
+   "Bank Commerciale SA En Liquidation v Akhil Holdings Ltd (1990) 169 CLR 279 considered",
+   "Barbaro v The Queen (2014) 88 ALJR 372 followed",
+   "Cheng v R (2000) 203 CLR 248 considered",
+   "Kingswell v R (1985) 159 CLR 264 considered",
+   "Millington v Loring (1880) 6 QBD 190 cited",
+   "Naismith v McGovern (1953) 90 CLR 336 cited",
+   "R v Bright [1916] 2 KB 441 cited",
+   "R v Meaton (1986) 160 CLR 359 considered",
+   "Rural Press Ltd v Australian Competition and Consumer Commission (2003) 216 CLR 53 cited",
+   "Singtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249 followed",
+   "Whitney v Moignard (1890) 24 QBD 630 cited",
+   "Yorke v Lucas (1985) 158 CLR 661 cited"
+  ],
+  "corrigendum": "16 April 2014",
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "FLIGHT CENTRE LIMITED ACN 003 377 188",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v FLIGHT CENTRE LIMITED ACN 003 377 188",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr K Wilson QC and Mr M Hodge (19 and 20 December 2013)\nMr M Hodge (7 February 2014)"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr S Doyle QC with Mr S Webster"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "King & Wood Mallesons"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0292",
+  "portal_file_numbers": [
+   "QUD177/2012"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2014-03-28"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Flight Centre Limited (No 3) [2014] FCA 292"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v FLIGHT CENTRE LIMITED ACN 003 377 188"
+  },
+  {
+   "label": "File number",
+   "value": "QUD 177 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "LOGAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "28 March 2014"
+  },
+  {
+   "label": "Corrigendum",
+   "value": "16 April 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "TRADE PRACTICES – penalty – pleading a circumstance of aggravation – application of s 76(1A) Trade Practices Act 1974 (Cth) (since amended and renamed the Competition and Consumer Act 2010 (Cth) – whether aggravation must be pleaded in civil penalty provisions – recovery of a pecuniary penalty – application of r 16.03, r 1.32, r 1.34 and r 1.35 of the Federal Court Rules 2011 (Cth) in light of established pleadings and procedural fairness\nHeld: in the absence of the pleading of a circumstance of aggravation, penalty fell for determination by reference to the lower maximum not the higher maximum penalty applicable if the circumstance of aggravation had been alleged and proved"
+  },
+  {
+   "label": "Legislation",
+   "value": "Constitution s 75\nAccess to Justice (Civil Litigation Reforms) Amendment Act 2009 (Cth)\nActs Interpretation Act 1901 (Cth) s 15A\nFederal Court of Australia Act 1976 (Cth) s 37M\nJudiciary Act 1903 (Cth) ss 79, 80\nTrade Practices Act 1974 (Cth) ss 45, 45A, 45D, 45DB, 45E, 45EA, 76, 77\nTrade Practices Legislation Amendment Act (No 1) 2006 (Cth)\nFederal Court Rules 2011 (Cth) r 1.32, r 1.34, r 1.35, r 16.02, r 16.03, r 16.04\nAir Navigation Regulations 1947 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Alton (an officer of the Commonwealth Department of Transport) v Pages, Brisbane Magistrates Court, 24 March 1981, reported, The Canberra Times, 25 March 1981, p 12 considered\nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (2007) 161 FCR 513 cited\nAustralian Competition and Consumer Commission v Flight Centre Limited (No 2) [2013] FCA 1313 cited\nAustralian Competition and Consumer Commission v McMahon Services Pty Ltd [2004] ATPR 42-031 considered\nAustralian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 88 ALJR 176 approved\nAustralian Securities and Investments Commission v Hellicar (2012) 247 CLR 345 cited\nBank Commerciale SA En Liquidation v Akhil Holdings Ltd (1990) 169 CLR 279 considered\nBarbaro v The Queen (2014) 88 ALJR 372 followed\nCheng v R (2000) 203 CLR 248 considered\nKingswell v R (1985) 159 CLR 264 considered\nMillington v Loring (1880) 6 QBD 190 cited\nNaismith v McGovern (1953) 90 CLR 336 cited\nR v Bright [1916] 2 KB 441 cited\nR v Meaton (1986) 160 CLR 359 considered\nRural Press Ltd v Australian Competition and Consumer Commission (2003) 216 CLR 53 cited\nSingtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249 followed\nWhitney v Moignard (1890) 24 QBD 630 cited\nYorke v Lucas (1985) 158 CLR 661 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "19 and 20 December 2013\n7 February 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Brisbane"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "65"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr K Wilson QC and Mr M Hodge (19 and 20 December 2013)\nMr M Hodge (7 February 2014)"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr S Doyle QC with Mr S Webster"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "King & Wood Mallesons"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [
+  "1. On the Orders Page, at paragraph 1(b) in the third last sentence of the paragraph the year “1974” should read “2010”. Therefore it should read “(now Competition and Consumer Act 2010)”.\nI certify that the preceding one (1) numbered paragraph is a true copy of the Corrigendum to the Reasons for Judgment herein of the Honourable Justice Logan.\nAssociate:\nDated: 16 April 2014"
+ ],
+ "orders": [
+  {
+   "file_number": "QUD177/2012",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "FLIGHT CENTRE LIMITED ACN 003 377 188",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LOGAN J"
+   ],
+   "date": "2014-03-28",
+   "date_raw": "28 MARCH 2014",
+   "place": "BRISBANE",
+   "orders": [
+    {
+     "label": "",
+     "text": "It will not, by its servants, agents or otherwise, for a period of three years from the date of this Undertaking:",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "attempt to make or arrive at;",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "induce or attempt to induce international airlines to make or arrive at; or",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "make, arrive at or give effect to,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "any contract, arrangement or understanding, with any international airline, containing a provision preventing that airline offering international passenger air travel services direct to the public at a price lower than the price it makes airfares available to the respondent.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "And on the basis that, nothing in this undertaking prevents Flight Centre from merely requesting that an international airline make an airfare available to it either through a Global Distribution System or otherwise.",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Flight Centre being a travel agent and being in competition with international airlines for the provision of distribution and booking services for international passenger air travel by:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "In or about August 2005, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Singapore Airlines Limited (Singapore Airlines), to make a contract or arrangement, or arrive at an understanding, with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Singapore Airlines must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Singapore Airlines must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Singapore Airlines must not sell its international passenger air travel directly to the public at a price less than the amount Flight Centre must remit to it if Flight Centre sells the fare (the nett fare) plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the First Contravention]",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "In or about March 2006, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Singapore Airlines, to make a contract or arrangement or arrive at an understanding with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Singapore Airlines must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Singapore Airlines must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Singapore Airlines must not sell its international passenger air travel directly to the public at a price less than the nett fare plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 1974), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the Second Contravention]",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "In or about May 2008, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Emirates, to make a contract or arrangement or arrive at an understanding with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Emirates must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Emirates must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Emirates must not sell its international passenger air travel directly to the public at a price less than the nett fare plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the Third Contravention]",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "In or about December 2008, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Emirates, to make a contract or arrangement or arrive at an understanding with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Emirates must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Emirates must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Emirates must not sell its international passenger air travel directly to the public at a price less than the nett fare plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the Fourth Contravention]",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "In or about March 2009, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Malaysian Airline System Berhad (Malaysian Airlines), to make a contract or arrangement or arrive at an understanding with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Malaysian Airlines must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Malaysian Airlines must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Malaysian Airlines must not sell its international passenger air travel directly to the public at a price less than the nett fare plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the Fifth Contravention]",
+     "level": 0
+    },
+    {
+     "label": "(f)",
+     "text": "In or about May 2009, attempting to induce, including by threats to withdraw the provision of distribution and booking services, an international airline, Singapore Airlines, to make a contract or arrangement or arrive at an understanding with Flight Centre containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Singapore Airlines must make all its fares for international passenger air travel available for sale by Flight Centre;",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Singapore Airlines must pay Flight Centre a retail or distribution margin on all sales of international passenger air travel by Flight Centre; and",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Singapore Airlines must not sell its international passenger air travel directly to the public at a price less than the nett fare plus the retail or distribution margin;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which provisions had a substantial purpose and the likely effect that the retail or distribution margin received by Flight Centre for its booking and distribution services would be maintained and is therefore deemed, by the former s 45A of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010), to have had the purpose, or be likely to have had the effect of substantially lessening competition contrary to s 45(2)(a)(ii) of the Act.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[the Sixth Contravention]",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "(a) Flight Centre is ordered to pay to the Commonwealth of Australia by way of pecuniary penalty the following amounts in the total sum of $11 million in respect of the contraventions of the Trade Practices Act 1974 (Cth) (now Competition and Consumer Act 2010) respectively specified below:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Second Contravention $2 million",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Third Contravention $2 million",
+     "level": 0
+    },
+    {
+     "label": "(iii)",
+     "text": "Fourth Contravention $2 million",
+     "level": 0
+    },
+    {
+     "label": "(iv)",
+     "text": "Fifth Contravention $2 million",
+     "level": 0
+    },
+    {
+     "label": "(v)",
+     "text": "Sixth Contravention $3 million",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "Payment of the said penalties may be made into such official bank account as is nominated in writing by the applicant (Commission) or, failing such nomination within 7 days of a written request in that regard by or on behalf of Flight Centre, as directed by the Court and the receipt by the Commonwealth of Australia (or of the Commission on its behalf) of cleared funds into any such bank account so nominated or directed shall be sufficient discharge of Flight Centre’s liability to pay the penalties imposed by this order. A certificate under the hand of a proper officer of the Commonwealth of Australia or, as the case may be, of the Commission, certifying to such receipt of funds is to be furnished to Flight Centre upon its written request. A certificate so furnished is prima facie evidence of the receipt of the penalties and of the related discharge of the obligation to pay them.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Liberty to apply in respect of any issue touching on the payment of penalties.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Flight Centre pay the Commission’s costs, including reserved costs, of and incidental to the proceedings.",
+     "level": 0
+    }
+   ],
+   "registry": "Queensland",
+   "division": "General Division",
+   "headings": [
+    "Upon the Respondent (FLIGHT CENTRE), by its Counsel, undertaking this day that:",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 6 December last year, for reasons which I then published, I concluded that the respondent, Flight Centre Limited (Flight Centre) had, on six separate occasions, contravened s 76(1)(d) via a failure to comply with s 45 of the Trade Practices Act 1974 (Cth) (since amended and renamed the Competition and Consumer Act 2010 (Cth) – “the TPA”): Australian Competition and Consumer Commission v Flight Centre Limited (No 2) [2013] FCA 1313 (“the principal judgment”). These reasons for judgment must be read in conjunction with the principal judgment."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "At the time when I published the principal judgment, I indicated that there was a strong public interest in the granting of declaratory relief in respect of the contraventions concerned. I directed the parties to bring in proposed short minutes of orders to give effect to the conclusions which I had reached in respect of the contraventions. Further, I indicated that I would hear submissions as to penalty and ancillary relief and adjourned proceedings until later in the month for that purpose. I also gave directions with respect to the filing of any further material to be relied upon and related outlines of submissions."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Each party has brought in proposed short minutes detailing the terms of the declaratory and other relief which they respectively submit that it would be appropriate for the Court to grant. The respective submissions of the parties confirmed what a comparison of their proposed short minutes would suggest, which is that there is a difference between them as to whether the declarations ought to specify that Flight Centre had attempted to induce the airlines concerned by threats. There is also a difference between the parties as to whether an undertaking proffered by Flight centre ought to be accepted or whether injunctive relief ought to be granted. I deal with how these differences ought to be resolved and with the form of the declaratory relief later in these reasons for judgment."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Another difference between the parties is of much greater moment. That difference is as to the maximum penalty which may be sought by the Australian Competition and Consumer Commission (Commission) in respect of four of the six contraventions, having regard to the terms of s 76 of the TPA applicable at the time and in the events which have transpired, including the way in which the Commission’s case was pleaded."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "In respect of the two contraventions earliest in time, there is no such controversy. That is because, as to the earliest in time, it occurred more than six years prior to the commencement of the proceeding. The effect of s 77 of the TPA is that no civil penalty is recoverable in respect of this contravention. As to the second earliest in time, proceedings were instituted within the six year limitation period but, at the time of this contravention in or about May 2006, the maximum penalty which might be recovered in respect of a proved contravention of s 76(1)(d) constitution by a breach of the 45 prohibition by a corporation was fixed at $10 million by the then s 76(1A) of the TPA (a lesser maximum was fixed in respect of contraventions of ss 45D, 45DB, 45E or 45EA of the TPA)."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "To understand how the controversy in respect of the remaining contraventions arises, it is desirable first to set out the material parts of s 76 of the TPA as that section stood at the time of the second contravention.\n76 Pecuniary penalties\n(1) If the Court is satisfied that a person:\n(a) has contravened any of the following provisions:\n(i) a provision of Part IV;\n(ii) … ;\n…\n(d) has induced, or attempted to induce, a person, whether by threats or promises or otherwise, to contravene such a provision;\n…\nthe Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each act or omission by the person to which this section applies, as the Court determines to be appropriate having regard to all relevant matters including the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct.\n…\n(1A) The pecuniary penalty payable under subsection (1) by a body corporate is not to exceed:\n(a) for each act or omission to which this section applies that relates to section 45D, 45DB, 45E or 45EA—$750,000; and\n(b) for each other act or omission to which this section applies—$10,000,000.\n(1B) The pecuniary penalty payable under subsection (1) by a person other than a body corporate is not to exceed $500,000 for each act or omission to which this section applies.\n(2) …\n…"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "In 2006, Parliament enacted the Trade Practices Legislation Amendment Act (No 1) 2006 (Cth) (Trade Practices Legislation Amendment Act (No 1) 2006). Those amendments it made to s 76 of the TPA came into force on 1 January 2007. Materially, the effect of the amendments was to:\n• repeal the then s 76(1A) and replace it with a new s 76(1A) in these terms:\n(1A) The pecuniary penalty payable under subsection (1) by a body corporate is not to exceed:\n(a) for each act or omission to which this section applies that relates to section 45D, 45DB, 45E or 45EA—$750,000; and\n(b) for each act or omission to which this section applies that relates to any other provision of Part IV—the greatest of the following:\n(i) $10,000,000;\n(ii) if the Court can determine the value of the benefit that the body corporate, and any body corporate related to the body corporate, have obtained directly or indirectly and that is reasonably attributable to the act or omission—3 times the value of that benefit;\n(iii) if the Court cannot determine the value of that benefit—10% of the annual turnover of the body corporate during the period (the turnover period ) of 12 months ending at the end of the month in which the act or omission occurred; and\n…\nNote: For annual turnover, see subsection (5).\n• add new subsections, s 76(5) and s 76(6), at the conclusion of the section:\nAnnual turnover\n(5) For the purposes of this section, the annual turnover of a body corporate, during the turnover period, is the sum of the values of all the supplies that the body corporate, and any body corporate related to the body corporate, have made, or are likely to make, during that period, other than:\n(a) supplies made from any of those bodies corporate to any other of those bodies corporate; or\n(b) supplies that are input taxed; or\n(c) supplies that are not for consideration (and are not taxable supplies under section 72-5 of the A New Tax System (Goods and Services Tax) Act 1999); or\n(d) supplies that are not made in connection with an enterprise that the body corporate carries on; or\n(e) supplies that are not connected with Australia.\n(6) Expressions used in subsection (5) that are also used in the A New Tax System (Goods and Services Tax) Act 1999 have the same meaning as in that Act.\n[emphasis in original]"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "As can be seen, in its amended form, the effect of s 76(1A) of the TPA is that, if it can be shown by the Commission that a contravener, or a body corporate related to the contravener, obtained, directly or indirectly, a benefit that is reasonably attributable to a particular contravention, the body corporate can, depending upon the value of the benefit or size of its annual turnover, as defined, be exposed to a maximum penalty greater than $10 million in respect of that contravention. Thus, on and from 1 January 2007, a contravention of s 76(1)(d) of the TPA has been attended with circumstances of aggravation with respect to penalty."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "It is common ground that none of the aggravating circumstances for which s 76(1A) of the TPA provides was pleaded in the statement of claim. Nor was there anything in the prayer for relief in the application which would have served to alert Flight Centre that, in respect of the third to sixth alleged contraventions, the Commission sought the imposition of a pecuniary penalty in an amount not greater than a maximum which exceeded $10 million."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The Commission made a belated claim that penalty in respect of the third to sixth contraventions ought to be determined by reference to a higher maximum penalty. That claim was not put forward on the basis that it was possible to determine the value of a reasonably attributable benefit. Rather, its claim was that there was, in each instance, a benefit that was identifiable but that it was one not able to be valued. The Commission’s further contention was that annual turnover became a touchstone for the determination of the maximum penalty, because, in each year, Flight Centre’s annual turnover was such that 10% of it exceeded $10 million. Here, too, subject to Flight Centre’s over-arching objection as to procedural fairness and as to the impermissibility, in the events which had transpired, of the Commission’s ability to claim a higher maximum, there was common ground. Flight Centre’s annual turnover, as defined, was agreed to be as follows as at the following times:\n• May 2008 - $859 million (applicable in respect of the third contravention).\n• December 2008 - $766 million (applicable in respect of fourth contravention).\n• May 2009 - $766 million (applicable in respect of each of the fifth and sixth contraventions)."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Also common ground, correctly given the then terms of s 76(1A) of the TPA, was that the maximum penalty applicable in respect of the second contravention was $10 million. Even if, as the Commission did in its submissions (but s 76(1A) does not), one were to ignore the decimal point amount in a calculation of 10% of annual turnover, a process of mathematics discloses that the difference between the total applicable maximum for which the parties respectively contend is considerable: $323 million on the part of the Commission compared with $50 million on the part of Flight Centre."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The first notice that Flight Centre had that the Commission sought the imposition of penalties which attracted a maximum penalty greater than $10 million per contravention came with the service on its solicitors of the Commission’s written submission in accordance with directions made on 6 December 2013. On 6 December 2013, the date for the hearing of oral submissions with respect to penalty had been fixed as 19 December 2013."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "Though the Commission’s submission filed on 16 December 2013 gave details as to maximum turnover, it contained no amplification, by reference to the evidence upon which it sought to rely, as to the nature of the benefit said to be reasonably attributable to the contravening conduct found. This detail came only with a submission in reply dated 18 December 2013, served on Flight Centre in the latter half of that day and filed in court by leave on 19 December 2013. In this reply submission the Commission contended:\nThe evidence suggests that [Flight Centre’s] threats did discourage direct discounting by airlines notwithstanding they did not make contracts or arrangements, or reach understandings, with [Flight Centre]:\nEmirates in 2009 advised [Flight Centre] that it had withdrawn discounts from published fares through its online sales channel. Flight Centre considered this to be a clear benefit to it [reference to affidavit of Mr Bodiam, Ex TB1 and to documents within the Commission’s tender bundle].\nMalaysia Airlines in 2009 advised [Flight Centre] that it would be common rating online fares. Flight Centre considered this to be beneficial to it. [reference to documents within the Commission’s tender bundle]."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Also filed in Court by leave on 19 December was Flight Centre’s submission dated 18 December 2013 (served on the Commission earlier that day, I infer) in which, inter alios, Flight Centre contended that the maximum applicable in each instance were penalty could be recovered was $10 million. Understandably in the circumstances, the Flight Centre developed in its oral submissions on 19 December 2013 why, in the events which had transpired, the Commission could not contend for a higher applicable maximum."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "In the meantime, having perused in advance of the commencement of the hearing on 19 December 2013 the parties’ written submissions, including those sent to chambers in advance by agreement of the parties on the understanding that leave would be sought to file them in court, I caused my associate to draw to the notice of the parties, for such attention as they may wish to afford them in oral submissions, a trilogy of cases in which the necessity, in the criminal jurisdiction, of pleading a circumstance of aggravation and the consequence with respect to maximum penalty of not so doing, had been considered by the High Court. Those cases were: Kingswell v R (1985) 159 CLR 264 (Kingswell); R v Meaton (1986) 160 CLR 359 (Meaton) and Cheng v R (2000) 203 CLR 248 (Cheng)."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "As submissions developed on 19 and 20 December 2013, it became apparent that the ramifications, if any, of the failure on the part of the Commission to plead any aggravating circumstances attracting a higher maximum penalty raised issues in respect of which it was in the interests of justice to allow the parties an opportunity to file and exchange supplementary written submissions and, if desired, to make further oral submissions. Accordingly, having heard what proved to be preliminary submissions on the ramifications of the pleading failure, as well as more general submissions as to penalty, I gave directions with respect to the filing of supplementary written submissions and further adjourned the hearing as to penalty until 7 February 2014 in the event that a party desired to make further oral submissions. In the result, further oral submissions in addition to supplementary written submissions were made on 7 February 2014."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "From the outset, what lay at the heart of Flight Centre’s submission was that it was procedurally unfair in the events which had transpired for the Commission to be permitted to advance a case that the maximum penalty in respect of each of the third to sixth contraventions was other than $10 million. The foundation for this submission lay in the Federal Court Rules 2011 (Cth) (the Rules), rather than Kingswell, Meaton and Cheng, though these cases were said to be applicable by analogy and to support a like conclusion to that which flowed in any event from an application the Rules and related procedural fairness considerations."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "To this end, Flight Centre highlighted within the Rules, r 16.02(1)(d) and r 16.03(1)(b). Given the issue raised, it is as well to set out some further parts of r 16.02.\n16.02 Content of pleadings—general\n(1) A pleading must:\n(a) … and\n…\n(c) identify the issues that the party wants the Court to resolve; and\n(d) state the material facts on which a party relies that are necessary to give the opposing party fair notice of the case to be made against that party at trial, but not the evidence by which the material facts are to be proved; and\n(e) state the provisions of any statute relied on; and\n(f) state the specific relief sought or claimed.\n(2) A pleading must not:\n(a) … ; or\n…\n(c) be evasive or ambiguous; or\n(d) be likely to cause prejudice, embarrassment or delay in the proceeding; or\n…\n.\n(4) A party is not entitled to seek any additional relief to the relief that is claimed in the originating application.\n16.03 Pleading of facts\n(1) A party must plead a fact if:\n(a) … ; or\n(b) failure to plead the fact may take another party by surprise.\n(2) However, a party need not plead a fact if the burden of proving the fact does not lie on that party."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "In obliging a party to plead a fact if a failure so to do may take another party by surprise, r 16.03(1)(b) of the Rules gives contemporary voice in the practice of the Court to a position which has long obtained in respect of pleadings: Bank Commerciale SA En Liquidation v Akhil Holdings Ltd (1990) 169 CLR 279 at 286-287 per Mason CJ and Gaudron J (Bank Commerciale v Akhil Holdings). In turn, r 16.03(1)(b) of the Rules, along with r 16.02(1)(c), (d), (e) and (f) and r 16.04 can be seen to serve the end of ensuring procedural fairness in the exercise of the judicial power of the Commonwealth by the Court. The ability of the Court under the Rules to “make any order that the Court considers appropriate in the interests of justice” (r 1.32), to “dispense with compliance with any of these Rules, either before or after the occasion for compliance arises” (r 1.34) and to “make an order that is inconsistent with these Rules” (r 1.35) is always subject to an obligation to observe procedural fairness in those circumstances where such an obligation arises. It is axiomatic that such an obligation attends the hearing of an application in which the relief sought includes a claim for the imposition of civil penalties."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "The Rules were made after the amendments made to the Federal Court of Australia Act 1976 (Cth) (FCA Act) by the Access to Justice (Civil Litigation Reforms) Amendment Act 2009 (Cth) came into force. They are “civil practice and procedure provisions” for the purposes of s 37M of the FCA Act: s 37M(4)(a). Perhaps surprisingly, s 37M of the FCA Act does not expressly state that an “overarching purpose” of the “civil practice and procedure provisions” is procedural fairness in those circumstances where such an obligation arises but that requirement surely is implicit in the requirement to “facilitate the just resolution of disputes according to law”: s 37M(1)(a) of the FCA Act. Indeed, it is necessarily implicit, given the requirement in s 15A of the Acts Interpretation Act 1901 (Cth) to read and construe that provision subject to the Constitution and so as not to exceed the legislative power of the Commonwealth. One of the irreducible minimum incidents of an exercise of the judicial power of the Commonwealth found in Ch III of the Constitution is the affording to the parties of procedural fairness in those circumstances where such an obligation arises."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "As the Rules stood, the combined effect of r 16.02(1)(c), (d), (e) and (f) and r 16.03(1)(b) was that the Commission ought to have pleaded the material facts, which it alleged attracted to the third, fourth, fifth and sixth contraventions, the higher maximum penalty for which s 76(1A) in its amended form provided."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "Of course, if the Commission and Flight Centre had “deliberately chosen some different basis for the determination of their respective rights and liabilities” Flight Centre could have no cause for complaint in respect of the pleading failure: Bank Commerciale v Akhil Holdings at 287. That mutual, deliberate choice would be a complete answer to any later suggestion by Flight Centre that the departure from the pleading rules entailed a denial of procedural fairness."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Here, there was no deliberate, mutual choice, only a belated, unilateral departure by the Commission from the requirements of the Rules, to which Flight Centre objected at the earliest available opportunity. Flight Centre’s submission that the Commission had not proved any benefit that was reasonably attributable to the contravening conduct was made in the alternative and on the basis that its procedural fairness objection was not upheld."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "The Commission submitted that the form of the pleading was conventional in the sense that it had frequently been used in the past without objection. Some but I readily accept, not all, of that past related to a period and to contraventions committed prior to the amendments made to s 76 by the Trade Practices Legislation Amendment Act (No 1) 2006. Neither the researches of counsel nor my own disclosed any case where the pleading requirements entailed in the Commission’s seeking the higher, amended s 76(1A), maximum penalty had been explored. That very point, though not the underlying general principles, truly is a novel one. It should not therefore be thought from the following remarks or my resultant conclusion that I am adversely critical of counsel who settled the Commission’s pleadings. Hindsight can afford clarity to a point which prospect may not. Nonetheless, the point having been taken, and there being no acquiescence to any departure from the pleadings, the case must be determined according to the pleadings."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "In the course of the Commission’s submissions and so as to explain away the failure to plead in the statement of claim any circumstance of aggravation or to make any reference at all to the prospect that penalty in a sum not greater than a maximum other than $10 million would be sought, it was submitted that there had been an interlocutory order that the question of whether any contravention was proved be tried as a separate issue to that of the remedies, including penalty, which ought to be imposed in the event that any contraventions were found proved. One of the interlocutory orders made on 4 June 2012 was that the trial fixed to commence on 8 October 2012 be limited to issues of liability. Notably, that order was made after leave had been granted to the Commission to amend the statement of claim. Neither as originally cast nor by permitted amendment did the statement of claim contain an allegation of any material fact necessary to engage a maximum penalty greater than $10 million in respect of any of the alleged contraventions."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "The absence of any such pleading denied Flight Centre an opportunity to make an informed choice and related submissions as to whether some issues other than just liability either could or should go to separate trial. The arguments in favour of excluding from a trial as to liability any issue as to a reasonably attributable benefit were not necessarily all one way. The Commission’s case entailed the proof of email correspondence which had passed between officers or employees of Flight Centre and those of the airlines concerned. Many such documents found their way into a tender bundle without the need for the recipient within the airline to be called. It is at least possible that a recipient within an airline might be able to address in evidence not just the receipt of a particular email but also the effect, if any, which it had on that airline’s subsequent behaviour or otherwise to explain the reasons for subsequent behaviour. In the absence of a pleaded circumstance of aggravation, there may be no forensic advantage in calling or investigating the merits of calling the recipient of the email concerned, as opposed to not contesting its tender. A failure to plead a circumstance of aggravation may also necessarily impact upon what is or is not directly relevant to a fact in issue and thus on whether to seek discovery or non-party discovery and, if so, its scope."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "Of course, even prior to the amendments made to s 76 by the Trade Practices Legislation Amendment Act (No 1) 2006, it would have been relevant to take into account in considering the question of penalty whether any benefit reasonably attributable to the contravening conduct had been obtained by Flight Centre. Evidence of an “actual market outcome is not necessarily an important issue in determining the appropriate penalty except perhaps as a matter of aggravation” (Australian Competition and Consumer Commission v McMahon Services Pty Ltd [2004] ATPR 42-031 at [16] per Selway J, cited with approval by the Full Court in Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (2007) 161 FCR 513 at [62] (Dataline)) but that does not mean that it is irrelevant; quite the reverse. Subsection 76(1) of the TPA specifies in a non-exhaustive way matters which are relevant to the assessment of penalty in respect of a contravention. Not to plead the “actual market outcome” was one of those facts which, though relevant only as to penalty, would take an opposing party by surprise if it were not pleaded. That is not to say that all facts which the Commission proposes to contend are relevant to penalty must expressly be pleaded."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "Construing the Court’s pleading rules upon which Flight Centre relies as extending to require the pleading of a circumstance of aggravation, even though it only affects the maximum penalty to which a respondent is exposed, is consistent with a more general position which applies in civil proceedings in relation to a pleading which alleges misconduct against a defendant. It is permissible in such circumstances to set out in a statement of claim an allegation which is not an element of the cause of action but which, by virtue of the aggravating nature of the fact concerned, would go to increase damages: Millington v Loring (1880) 6 QBD 190 at 194, 197; Whitney v Moignard (1890) 24 QBD 630. Where the failure to plead such a circumstance might embarrass the opposing party it is not just permissible, it is mandatory if there is to be reliance upon that aggravation."
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "Flight Centre further submitted that its contention as to the impermissibility of the introduction at a penalty hearing of material facts not pleaded was supported by the Full Court’s upholding in Dataline at [56] – [57] of the trial judge’s disregarding at a penalty hearing particular conduct which had not been pleaded by the Commission in that case as part of what it contended to be the resale price maintenance conduct. That conduct though was, as the Commission correctly submitted, an essential element of the contravention, not, as here, a material fact relevant only as to penalty. The occasion for a requirement that the Rules necessitated that a reasonably attributable benefit be pleaded is that this (along with other facts specified in s 76(1A) of the TPA) is material to the ascertainment of the applicable maximum penalty and not to plead it may take an opposing party by surprise. Rejection of that further submission does not detract from the correctness of its submission as to the operation and application of the Rules."
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "The Commission submitted that the notice which it gave in its written submission of its intention to seek penalties by reference to a higher maximum was sufficient. That is not so. The practice of the Court is set out in the Rules. It is for the Court, not the Commission, either to modify that practice on application or to grant leave to amend a pleading. In either instance, it will be necessary to consider the interests of justice, which necessarily include, in the circumstances, what is procedurally fair. Flight Centre did not acquiesce in the irregular course adopted by the Commission. It disputed it and, as I have stated, took its objection at the earliest possible time."
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "I uphold Flight Centre’s procedural fairness objection. I therefore approach the assessment of penalty on the basis that no circumstance of aggravation has been alleged. It necessarily follows that evidence directed to the proof of that end by the Commission is not relevant."
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "As it happens, a like conclusion would follow in the event that the consequence in the criminal jurisdiction, discussed in Kingswell, Meaton and Cheng, of a failure to plead a circumstance of aggravation were applicable by analogy. I make it plain that I do not rest the upholding of Flight Centre’s objection on the footing that these cases dictate its allowance."
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "Even in those States where there is no express statutory provision in this regard via, for example, a criminal code, it is a rule of practice in criminal jurisdiction pleading that a circumstance of aggravation must be specified in the indictment, information, complaint or other process by which a proceeding for an offence is initiated. This rule of practice extends to circumstances of aggravation which are not elements of an offence but go only as to the applicable penalty for an offence: Kingswell at 277-280; Meaton at 363-364. The root authority for these propositions is R v Bright [1916] 2 KB 441 (Bright)."
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "The following statement as to the rule of practice, taken from Kingswell at 280, is apposite:\nWhere the circumstances of aggravation do no more than increase the maximum penalty, they do not alter the nature of the charge although they do affect, sometimes very materially, the legal consequences that may flow from a conviction. The rule of practice laid down in R. v. Bright is consistent with the fundamental principle that questions of fact affecting the liability of the accused to punishment should be decided by the jury when the trial is on indictment. The position is different when the circumstances said to aggravate the offence are relevant only to the exercise of the sentencing discretion of the judge.\nThe consequence of a failure to observe that rule of practice is as stated in Bright at 444-445:\n[The Court] must not attribute to the prisoner that he is guilty of an offence with which he has not been charged - nor must he assume that the prisoner is guilty of some statutory aggravation of the offence which might, and should, have been charged in the indictment if it had been intended that the prisoner was to be dealt with on the footing that he had been guilty of that statutory aggravation."
+   },
+   {
+    "n": 35,
+    "headings": [],
+    "text": "The matters set out in s 76(1A) which, if proved by the Commission, serve to increase the applicable maximum above $10 million per contravention are questions of fact affecting liability to the imposition of penalty, not circumstances relevant only to the discretion of a judge when imposing penalty. The analogy between that position and the rule of practice derived from Bright and described in the passage quoted from Kingswell is a close one. Application of the analogy would dictate that the question as to whether the aggravating circumstances existed ought, in the absence of an order to the contrary, to have been determined at the same time as the question as to whether the alleged contraventions were proved. Here, there was no need for an order to the contrary, because no circumstance of aggravation was pleaded. The absence of any such pleading and the conclusion of the trial in respect of liability would mean that it is now too late for the Commission to raise an issue going to a higher maximum penalty. Flight Centre would have to be dealt with on the footing that no circumstance of aggravation is applicable such that the maximum penalty for each of the third to sixth contraventions is $10 million."
+   },
+   {
+    "n": 36,
+    "headings": [],
+    "text": "The present proceeding is civil, not criminal in character. So far as the claim for the imposition of penalties is concerned, its origins may be traced to suits by the Crown for the recovery of a pecuniary penalty: Robertson, Civil Proceedings by and against the Crown, p 174; Naismith v McGovern (1953) 90 CLR 336 at 340-341. That the applicant happens to be a statutory corporation is merely a reflection of Parliament’s modern preference to consign certain regulatory functions of the executive government of the Commonwealth arising under statute to such bodies, rather than to a Minister of State or to officials in a department under the direct supervision of a Minister."
+   },
+   {
+    "n": 37,
+    "headings": [],
+    "text": "A proceeding instituted by the Commission for the recovery of a pecuniary penalty in respect of an alleged contravention of the TPA and for declaratory and injunctive relief is necessarily one brought in federal jurisdiction with the Commission being but an emanation of the Commonwealth for the purposes of s 75 of the Constitution: s 75(iii) of the Constitution and Australian Securities and Investments Commission v Hellicar (2012) 247 CLR 345 at [149]. That means that s 79 and s 80 of the Judiciary Act 1903 (Cth) (Judiciary Act) are applicable to the proceedings. Thus:\n• by s 79(1):\nState or Territory laws to govern where applicable\nThe laws of each State or Territory, including the laws relating to procedure, evidence, and the competency of witnesses, shall, except as otherwise provided by the Constitution or the laws of the Commonwealth, be binding on all Courts exercising federal jurisdiction in that State or Territory in all cases to which they are applicable.\n• by s 80:\nCommon law to govern\nSo far as the laws of the Commonwealth are not applicable or so far as their provisions are insufficient to carry them into effect, or to provide adequate remedies or punishment, the common law in Australia as modified by the Constitution and by the statute law in force in the State or Territory in which the Court in which the jurisdiction is exercised is held shall, so far as it is applicable and not inconsistent with the Constitution and the laws of the Commonwealth, govern all Courts exercising federal jurisdiction in the exercise of their jurisdiction in civil and criminal matters."
+   },
+   {
+    "n": 38,
+    "headings": [],
+    "text": "That the proceedings are civil in character and have this origin does not mean that all principles derived from the criminal jurisdiction are inapplicable any more than that there is warrant for the uncritical application to them of such principles. The language of the statute itself may import criminal law concepts, as is the case with s 76(1)(c), (e) and (f) of the TPA, which incorporate criminal law concepts of parties to offences and are construed and applied by reference to those concepts: Yorke v Lucas (1985) 158 CLR 661."
+   },
+   {
+    "n": 39,
+    "headings": [],
+    "text": "In the present case, if there is occasion to apply by analogy a principle derived from the criminal jurisdiction, that occasion is not found in the use in the TPA of terms which describe criminal law concepts. Rather, in my view, it is to be found in the specification in s 76(1A) of the TPA, of circumstances of aggravation. In a criminal trial, such facts are determined at the same time as whether the elements of an offence are made out, not at the time of sentence. This is so whether the trial is by judge and jury or judge alone. The requirement in the criminal jurisdiction to plead a circumstance of aggravation, even if that goes only to the applicable maximum penalty, serves the procedural fairness end of alerting the accused from the outset to the jeopardy in which he is placed by the proceeding."
+   },
+   {
+    "n": 40,
+    "headings": [],
+    "text": "Why should there not be at least such a requirement in the exercise of civil jurisdiction when a respondent is exposed to the prospect of the imposition of a pecuniary penalty? That exposure gives rise to procedural fairness obligations in the exercise of federal judicial power. Having regard to s 80 of the Judiciary Act, the content of the procedural fairness obligation in the penal proceeding, in the absence of any express statutory provision, is informed by the common law. I find it difficult to see why, materially, the content at common law of the procedural fairness obligation should differ as between a criminal proceeding and a penal proceeding which is nonetheless one heard in the exercise of civil jurisdiction. In the penal proceeding also an obligation to plead a circumstance of aggravation serves to alert a respondent, here a corporation, to the jeopardy in which it is placed by the institution of that proceeding."
+   },
+   {
+    "n": 41,
+    "headings": [],
+    "text": "I therefore regard the rule of criminal practice as explained in Bright, Kingswell, Meaton and Cheng as relevant by analogy. That analogy supports the conclusion already reached by reference to the Rules. In the absence of an express pleading, it was too late, after the findings of contravention had been published, for the Commission to claim, over objection, a higher penalty or otherwise to press for a finding that there was a circumstance of aggravation constituted by a benefit reasonably attributable to a contravention."
+   },
+   {
+    "n": 42,
+    "headings": [],
+    "text": "The result then is that, because the Commission did not, as I conclude the Rules required it to do, plead material facts relevant to a maximum penalty beyond $10 million per contravention and did not claim penalty in an amount not greater than a sum calculated by reference to those pleaded circumstances of aggravation, the maximum penalty per contravention which it is entitled to seek is $10 million. Further, even in respect of a contravention to which that $10 million maximum could only ever be applicable, that pleading failure also has the effect that evidence as to any such circumstance, though it would be relevant if a related material fact were pleaded, is not admissible."
+   },
+   {
+    "n": 43,
+    "headings": [],
+    "text": "As mentioned, s 76(1) of the TPA lists in a non-exhaustive way factors which are pertinent to an assessment of penalty. Other such factors are set out in the Full Court’s consideration of this subject in Dataline at [58] to [62]. It would serve only unnecessarily to elongate these reasons for judgement to reproduce what is there stated. I discuss below such of those factors as I consider relevant in the circumstances of this case."
+   },
+   {
+    "n": 44,
+    "headings": [],
+    "text": "In each instance where it may be imposed, penalty falls for assessment by reference to a maximum of $10 million."
+   },
+   {
+    "n": 45,
+    "headings": [],
+    "text": "The contraventions found entail per se prohibitions. The character of the contraventions is summarised in [82] of the principal judgment:\nConsidering the evidence as a whole, what is revealed is a concerted pattern of reactive corporate conduct by Flight Centre, reactive to a threat it perceived to be presented by the direct retail offering by airlines of air travel at fares it could not offer to retail customers, as opposed to a series of unrelated, isolated, idiosyncratic aberrations.\nThat concerted pattern is present even if, as Flight Centre submitted and the Commission contested, one is obliged to disregard the first contravention for the purposes of assessing penalty, because no penalty may be imposed in respect of it. I am disposed to conclude that the earliest contravention is relevant. It shows that the corporate disposition to engage in the attempts to induce antedated the period in respect of which proved contraventions may be penalised. It does not show that, during that period, Flight Centre had been found earlier to have contravened the TPA either in respect of like conduct or at all. Mr Turner’s direct, personal involvement in the sixth contravention shows that this disposition was pervasive and reflected a view as to permissible commercial conduct held by the highest level of management. His direct, personal involvement calls for a higher penalty to be imposed in respect of the sixth contravention."
+   },
+   {
+    "n": 46,
+    "headings": [],
+    "text": "Flight Centre is a major public company. The group of which it is the central member is Australia’s and one of the world’s largest travel agency groups. Its gross revenues from its overall and its Australian operations and related net profit before and after tax were as follows:\nYear | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2012/13\nTotal Revenue | $898.514M | $998.679M | $1,152.494M | $1,454.231M | $1,714,716M | $1,985,795M\nRevenue from Australian operations | $555.381M | $635.682M | $751.435M | $937.114M | $875.765M | $1,111.829M\nTotal Expenses | $791.560M | $882.734M | $999.753M | $1,242.428M | $1,677.118M | $1,655.341M\nTotal Profit before tax | $106.954M | $120.002M | $174.021M | $212.928M | $40.397M | $349.209M\nTotal Net Profit After Tax | $67.908M | $79.910M | $120.824M | $143.154M | $38.164M | $246.082M\n[footnote reference omitted]"
+   },
+   {
+    "n": 47,
+    "headings": [],
+    "text": "During the period covered by the contraventions, Flight Centre had a market share of at least 20% in respect of the market for the distribution and booking of international air travel from Australia. It was the principal distributor for each of the airlines in question. It was this market power which it deployed in each of the attempted inducements. The threats which were entailed carried all of the weight associated with that market power. They could not have been more deliberately made. They were directly responsive to what Flight Centre apprehended was competition from those airlines – the threat to its business presented by “disintermediation”. They had the potential to affect very many consumers. Their interests, in securing competitive air fares, would have been collateral damage in Flight Centre’s attempt to maintain its retail or distribution margin, had its attempted inducement been taken up. There is no pleaded and proved benefit which flowed to Flight Centre but its conduct was wholly mercenary, not altruistic in its purpose and of the very kind proscribed by Parliament."
+   },
+   {
+    "n": 48,
+    "headings": [],
+    "text": "For these reasons, I regard the five contraventions in respect of which penalty may be imposed as serious. For all that, they were attempts. Though the TPA specifies the same maximum penalty for an attempt to induce and for an inducement which has succeeded, there is a qualitative difference between the two. Nonetheless, so far as general deterrence is concerned, one purpose of the imposition of a penalty must be to discourage attempts and, instead, to encourage a culture of compliance with the contemporary standards of commercial behaviour which Parliament has prescribed in the TPA."
+   },
+   {
+    "n": 49,
+    "headings": [],
+    "text": "These days, the promotion of fair competition is one such standard. It was not always so in relation to travel agents and international air travel. In 1981, a Brisbane travel agent was convicted and fined in respect of an offence against the Air Navigation Regulations 1947 (Cth) (ANR) as they then stood for discounting an international air fare such that the price paid by the customer was less than the directed minimum tariff for that travel: Alton (an officer of the Commonwealth Department of Transport) v Pages, Brisbane Magistrates Court, 24 March 1981, reported, The Canberra Times, 25 March 1981, p 12. Under the then provisions of the ANR, such a prosecution could only be commenced with the express permission of the permanent head of the Commonwealth Department of Transport or of a delegate who was that official’s most senior subordinate in the State concerned. That was at a time when Australia’s international air carrier, QANTAS, was wholly owned by the Commonwealth."
+   },
+   {
+    "n": 50,
+    "headings": [],
+    "text": "The position now is very different. On the evidence, there is price competition between international air carriers and, as I have found in the principal judgment, competition between those airlines and travel agents in respect of a retail or distribution margin in respect of the sale of international air travel. In that competition, the effect of the TPA is not that a travel agent such as Flight Centre may not threaten to withdraw its services from an airline. What is prohibited is, materially, to attempt to induce a person to contravene s 45 of the TPA, including via the per se operation of s 45A."
+   },
+   {
+    "n": 51,
+    "headings": [],
+    "text": "I accept that there is a degree of novelty in the Commission’s institution of proceedings in respect of conduct which I have in the principal judgment to constitute a contravention of s 76(1)(d) of the TPA. What I do not accept is that there is any novelty in the notion that Flight Centre was in competition with the airlines concerned. As I detail in the principal judgment, that such competition existed is not just something recognisable by an economist, it was recognised in Flight Centre’s internal corporate strategy documents."
+   },
+   {
+    "n": 52,
+    "headings": [],
+    "text": "In the immediate aftermath of the publication of the principal judgment, Flight Centre made a statement to the Australian Stock Exchange, introduced in evidence by the Commission, in which it signified an intention, once a final judgement was issued, to lodge an appeal in which it would challenge the conclusion that it had contravened the TPA. This it is entitled to do. In that same statement, Flight Centre expressed the belief that the conclusion represented an “inappropriate extension of the law”. It was entitled to express this belief. If it transpires that its appeal on the basis foreshadowed is upheld then it will be shown to have been correct in that belief and the converse also follows. Even if the converse follows, that would not mean that Flight Centre was not entitled at the time to express that belief. Justice, truly, is not a cloistered virtue. Subject to the law with respect to contempt of court and defamation, and to any particular confidentiality restrictions, comment about a judicial decision is permissible in Australia. That is one of the freedoms we have inherited from the United Kingdom and have preserved as our own."
+   },
+   {
+    "n": 53,
+    "headings": [],
+    "text": "In short, Flight Centre is entitled not to be contrite. Its absence of contrition is based on a belief, which it continues to hold, and intends to seek by the exercise of a right of appeal to vindicate, that its conduct involved no contravention of the TPA. That is not a circumstance of aggravation. There is an absence of contrition present but there is a reasonable explanation for that absence. I do not just accept its submission that it is not to be penalised for foreshadowing an appeal; I embrace it."
+   },
+   {
+    "n": 54,
+    "headings": [],
+    "text": "Flight Centre submitted that the ends of both general and specific deterrence would be served in this case by the making of declarations as to the contraventions found, the acceptance of the undertaking it offered and the making of a costs order. It submitted that there was no evidence that the conduct charged was continuing. I accept this but that absence of continuance is in respect of a period which has followed the Commission’s institution of an investigation and then commencement of this proceeding. Nonetheless, it is a moderating factor that, even though it continues to hold a belief that it did not engage in any contravention, there is no evidence that Flight Centre has sought to replicate its earlier conduct during this period. Its desistance has been voluntary, not the result of compliance with an interlocutory injunction."
+   },
+   {
+    "n": 55,
+    "headings": [],
+    "text": "That an order for costs will follow the event in the proceeding and that those costs, even as taxed on a party and party basis, are likely to be substantial is a factor to take into account. Here, though, the revenues of Flight Centre are such that the prospect of such costs does not suffice even in terms of specific deterrence. It most certainly does not in respect of general deterrence. In the circumstances of the present case, to impose no pecuniary penalty would not be to “fashion a penalty which makes it clear to [in this case, Flight Centre], and to the market, that the cost of courting a risk of contravention of the Act cannot be regarded as acceptable cost of doing business”: Singtel Optus Pty Ltd v Australian Competition and Consumer Commission (2012) 287 ALR 249 at [68]; approved, Australian Competition and Consumer Commission v TPG Internet Pty Ltd (2013) 88 ALJR 176 at [64] (TPG Internet). As the High Court observed in TPG Internet, at [65]:\nGeneral and specific deterrence must play a primary role in assessing the appropriate penalty in cases of calculated contravention of legislation where commercial profit is the driver of the contravening conduct.\nThere is no doubt in the present case that commercial profit was the “driver” in Flight Centre’s contravening conduct. Further, it is the nature of such conduct that it is not engaged in in public. Its detection is almost invariably difficult and its investigation and related litigation involves the allocation of considerable public resources."
+   },
+   {
+    "n": 56,
+    "headings": [],
+    "text": "Both the Commission and Flight Centre proffered, by reference to the numerous earlier cases in which penalties had been imposed in respect of contraventions of Pt IV of the TPA, what they submitted was the applicable range within which penalty should be imposed. Flight Centre’s submission was made in the alternative and on the assumption that its primary submission that it was neither necessary nor appropriate to impose any penalty was not accepted. These submissions were made prior to the disapproval by the High Court, in Barbaro v The Queen (2014) 88 ALJR 372, of such a practice in respect of criminal cases. Here, too, in my view, there is a relevant analogy to be drawn from the practice in the criminal jurisdiction in a civil proceeding for the recovery of a pecuniary penalty. The imposition and assessment of a penalty involves the exercise of a discretion by a judge, not the parties. I have not therefore taken into account the ranges respectively submitted."
+   },
+   {
+    "n": 57,
+    "headings": [],
+    "text": "Parity of penalty outcome is an important but sometimes illusory end such can be the differences in circumstances as between particular cases. I have considered the numerous cases to which my attention was drawn by the parties. Having so done, I find myself in a like position to that described by the Full Court in Dataline at [67]:\nHaving considered all of these authorities, the Court is confirmed in the view that there is little to be gained in undertaking in these reasons a detailed comparative analysis of the conduct of each corporation in the identified cases, the extent to which particular officers of those corporations engaged in the contravening conduct or the scale and dimension of the conduct. The constellation of circumstances, essential character of the conduct and the factors to be weighed by the Court are inevitably sufficiently different in each case that previous determinations ultimately provide little utility in precisely informing the appropriate pecuniary penalty to be imposed in any particular contravention."
+   },
+   {
+    "n": 58,
+    "headings": [],
+    "text": "I doubt in this case whether it is possible by reference to these cases even to formulate a “high level broad range” of any utility: cf Dataline, at [68]."
+   },
+   {
+    "n": 59,
+    "headings": [],
+    "text": "Flight Centre submitted that it had co-operated with the Commission both during the course of the investigation and at trial. As to the latter, I understood this to mean that, while it had (as it was entitled) contested the proceeding, it had not done so in a way which unnecessarily prolonged or delayed the proceeding. All of this I accept but it is not that type of co-operation, evidenced by a timely acknowledgement of liability, for which significant mitigating allowance must be made when considering the question of penalty. To recognise this does not mean that Flight Centre is to be subjected to a penalty greater than that which would otherwise be appropriate because it has chosen to exercise its right to contest the Commission’s case."
+   },
+   {
+    "n": 60,
+    "headings": [],
+    "text": "Taking all of the foregoing into account, including the applicable maximum, the conclusion which I have reached is that, subject to the application of the “totality principle”, the appropriate penalty to impose is $2 million in respect of each of the second, third, fourth and fifth contraventions and $3 million in respect of the sixth contravention. The greater penalty in respect of the sixth contravention recognises Mr Turner’s direct, personal involvement in that contravention. I have reflected on whether the resultant total, $11 million, yields a total penalty which is disproportionate in respect of the course and essential character of contravening conduct, which is flagrant conduct by a major, profitable public company enjoying a significant market share. I do not consider that it does. But for the fact that the impugned conduct was an attempt, I should have imposed a greater total penalty. The total also reflects a degree of moderation having regard to Flight Centre’s exposure to costs."
+   },
+   {
+    "n": 61,
+    "headings": [],
+    "text": "As to declaratory relief, the resultant declarations must do more than recite the terms of the TPA. They must “indicate the gist” of the findings made in the principal judgment with respect to the contraventions: Rural Press Ltd v Australian Competition and Consumer Commission (2003) 216 CLR 53 at [89]. The direction given to primary judges by that case persuades me that it is necessary not just to make reference to Flight Centre’s inducements including the making of threats but also to specify the broad nature of those threats, which were to withdraw from the airline concerned its distribution and booking services. Subject to that modification, I consider that the form of declaration proposed by the Commission is apt."
+   },
+   {
+    "n": 62,
+    "headings": [],
+    "text": "There remains a question as to whether to grant injunctive relief and, if so, in what terms and for what period? The undertaking offered by Flight Centre is in these terms:\nUpon the Respondent, by its Counsel, undertaking:\nIt will not, by its servants, agents or otherwise, for a period of three years from the date of this Undertaking:\n1. attempt to make or arrive at;\n2. induce or attempt to induce international airlines to make or arrive at; or\n3. make, arrive at or give effect to,\nany contract, arrangement or understanding, with any international airline, containing a provision preventing that airline offering international passenger air travel services direct to the public at a price lower than the price it makes airfares available to Flight Centre.\nNothing in this undertaking prevents Flight Centre from merely requesting that an international airline make an airfare available to Flight Centre either through a Global Distribution System or otherwise."
+   },
+   {
+    "n": 63,
+    "headings": [],
+    "text": "The terms of that undertaking do not coincide with the injunction proposed by the Commission. They do though usefully recognise in the specified qualification that no contravention of the TPA is entailed in the mere making of a request by Flight Centre of an international airline that it make a particular airfare available to it either through a Global Distribution System or otherwise."
+   },
+   {
+    "n": 64,
+    "headings": [],
+    "text": "Though Flight Centre has a presently settled belief that it has done nothing to contravene the TPA, its disposition is to vindicate the correctness of that belief by the exercise of its right of appeal. It has not, since the Commission’s investigation came to its attention, sought to translate its belief into a continuation after that time of the impugned conduct. That persuades me that, should Flight Centre’s belief not be vindicated, it is more likely than not that it will not seek in the future to repeat the contravening conduct. That it has voluntarily offered the undertaking described underscores that conclusion. The duration for which it proposes it be bound by the undertaking, 3 years, is of a length ample to test the correctness of that conclusion. It is only to be expected that the making of orders as to penalty will be attended with considerable and unwelcome publicity for Flight Centre. It is unlikely to wish to repeat that experience in the future. Further, the necessity as to the pleading of a circumstance of aggravation having been exposed, Flight Centre might reasonably apprehend that any repeat of the contravening conduct would not just attract a salutary penalty in any event but also one possibly cast by reference to a higher maximum if that circumstance of aggravation can be proved by the Commission. Whether or not to grant injunctive relief entails the exercise of a discretion. I am not persuaded that such relief is necessary in the circumstances of this case."
+   },
+   {
+    "n": 65,
+    "headings": [],
+    "text": "As indicated earlier, costs must follow the event."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixty-five (65) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Logan.",
+ "associate": null,
+ "dated": "2014-03-28",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "739d7bcd8ba9fa0b497fc60b524f8ff7773aa339beddf7c2ef338d1caf6ef76d",
+ "markdown_file": "data/extracted/2014/2014FCA0292.md"
+}

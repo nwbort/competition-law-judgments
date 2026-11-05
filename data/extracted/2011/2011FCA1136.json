@@ -1,0 +1,234 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2011/2011FCA1136.docx",
+ "metadata": {
+  "citation": "[2011] FCA 1136",
+  "name": "McHugh v Australian Jockey Club Limited (No 7)",
+  "court": "FCA",
+  "year": 2011,
+  "number": 1136,
+  "date_of_judgment": "2011-09-30",
+  "file_numbers": [
+   "NSD1187/2009"
+  ],
+  "judges": [
+   "ROBERTSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "No Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2011-09-30"
+  ],
+  "hearing_raw": "30 September 2011",
+  "number_of_paragraphs": 7,
+  "legislation": [
+   "Evidence Act 1995 (Cth) s 135(c)"
+  ],
+  "parties": [
+   {
+    "name": "BRUCE MCHUGH",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN JOCKEY CLUB LIMITED",
+    "role": "First Respondent"
+   },
+   {
+    "name": "VICTORIA RACING CLUB LIMITED",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "AUSTRALIAN RACING BOARD LIMITED",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "THOROUGHBRED BREEDERS AUSTRALIA LIMITED",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "AUSTRALIAN TURF CLUB LIMITED",
+    "role": "Sixth Respondent"
+   }
+  ],
+  "parties_summary": "BRUCE MCHUGH v AUSTRALIAN JOCKEY CLUB LIMITED, VICTORIA RACING CLUB LIMITED, AUSTRALIAN RACING BOARD LIMITED, THOROUGHBRED BREEDERS AUSTRALIA LIMITED and AUSTRALIAN TURF CLUB LIMITED",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr A Tonking SC with Mr J Lazarus with Ms P Arcus"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Brock Partners"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Sixth Respondents",
+    "name": "Mr AJ Bannon SC with Dr R Higgins"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Sixth Respondents",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr GES Ng"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Yeldham Price O'Brien Lusk"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fifth Respondent",
+    "name": "Mr JS Emmett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fifth Respondent",
+    "name": "Esplins Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1136",
+  "portal_file_numbers": [
+   "NSD1187/2009"
+  ],
+  "portal_event": "Return of Subpoena",
+  "portal_event_date": "2011-09-30"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "McHugh v Australian Jockey Club Limited (No 7) [2011] FCA 1136"
+  },
+  {
+   "label": "Parties",
+   "value": "BRUCE MCHUGH v AUSTRALIAN JOCKEY CLUB LIMITED, VICTORIA RACING CLUB LIMITED, AUSTRALIAN RACING BOARD LIMITED, THOROUGHBRED BREEDERS AUSTRALIA LIMITED and AUSTRALIAN TURF CLUB LIMITED"
+  },
+  {
+   "label": "File number(s)",
+   "value": "NSD 1187 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "ROBERTSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "30 September 2011"
+  },
+  {
+   "label": "Legislation",
+   "value": "Evidence Act 1995 (Cth) s 135(c)"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "30 September 2011"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "No Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "7"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr A Tonking SC with Mr J Lazarus with Ms P Arcus"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Brock Partners"
+  },
+  {
+   "label": "Counsel for the First, Second and Sixth Respondents",
+   "value": "Mr AJ Bannon SC with Dr R Higgins"
+  },
+  {
+   "label": "Counsel for the First, Second and Sixth Respondents",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr GES Ng"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Yeldham Price O'Brien Lusk"
+  },
+  {
+   "label": "Counsel for the Fifth Respondent",
+   "value": "Mr JS Emmett"
+  },
+  {
+   "label": "Solicitor for the Fifth Respondent",
+   "value": "Esplins Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "There are before me MFI 35 to MFI 38. Separately identified they are MFI 35, which is Mr Rodgers' affidavit dated 7 September 2011; MFI 36, which is Dr Keller's additional or third witness statement dated 7 September 2011; MFI 37, which is Dr Keller's fourth witness statement dated 29 September 2011 making a small correction to the text of his third statement; and MFI 38, which consists of emails between Dr Perriam and Professor Aitken."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The question of substance is the admissibility of Dr Keller’s statements MFI 36 and MFI 37. The material consists of comments by Dr Keller on a funding proposal by Professor Aitken to the Australian Research Council in respect of a proposed study “Enhancing the efficiency of equine reproduction”. Professor Aitken’s funding proposal is not otherwise in evidence and it was not suggested that Professor Aitken would make a witness statement or give evidence."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "As to the relevance of this material, it was put on behalf of the applicant that the material affected the future in relation to both aspects of breeding services, natural cover and artificial insemination. It both addressed the current state in relation to both types of breeding services and that there was work being done to explore the disadvantages of both was relevant in that, if the outcomes described in the funding application were to eventuate, it may make a difference. The fact that there were current disadvantages, the fact that they were being addressed and the fact that if they were addressed in a particular way they may be reduced, were submitted to be relevant to the future utilisation and demand for those two types of breeding services."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The respondents submitted that the nature of the document on which Dr Keller was commenting, being no more than a funding proposal, and the nature of Dr Keller’s comments on the proposal showed that the material was of no probative value."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "I am not persuaded that the third report of Dr Keller, MFI 36, will be of any assistance in resolving any issue in the proceedings."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Secondly, even if the material had any probative value, which I consider it does not, because it takes the form of commentary on propositions in a funding proposal by an academic who is not to give evidence, and whose application for funding is not otherwise in evidence, I would exclude that material under s 135(c) of the Evidence Act 1995 (Cth)."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "For these reasons I reject the tender of MFI 35 to MFI 38."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding seven (7) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.",
+ "associate": null,
+ "dated": "2011-10-11",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c88c65a0f18399a95710d17383a30ee42e06b32b7668ab6e3aa74d54fffecfce",
+ "markdown_file": "data/extracted/2011/2011FCA1136.md"
+}

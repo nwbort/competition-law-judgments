@@ -1,0 +1,528 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2013/2013FCA0294.docx",
+ "metadata": {
+  "citation": "[2013] FCA 294",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 5)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 294,
+  "date_of_judgment": "2013-04-05",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "LANDER J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide (Videolink to Sydney)",
+  "hearing_dates": [
+   "2013-03-18"
+  ],
+  "hearing_raw": "18 March 2013",
+  "number_of_paragraphs": 45,
+  "catchwords": [
+   "TRADE PRACTICES – agreed antitrust contraventions – agreed injunction, pecuniary penalty, and order for costs – principles appropriate to order for pecuniary penalty"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 44ZZRP, 51, 88",
+   "Evidence Act 1995 (Cth), s 191(3)(a)",
+   "Federal Court of Australia Act 1976 (Cth), s 43",
+   "Federal Court Rules 2011, r 40.02(b)",
+   "Trade Practices Act 1974 (Cth), ss 4D, 45(2), 45A, 76, 80, 150A"
+  ],
+  "cases_cited": [
+   "J McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "Trade Practices Commission v CSR Limited (1991) ATPR 41-076"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "VISCAS CORPORATION ARBN 133 203 595",
+    "role": "Third Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.), NEXANS SA RCS PARIS 393 525 852 and VISCAS CORPORATION ARBN 133 203 595",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr T Duggan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr I Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "The Second Respondent did not appear"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr A Payne SC with Mr J Arnott"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Allens"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0294",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-04-05"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 5) [2013] FCA 294"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.), NEXANS SA RCS PARIS 393 525 852 and VISCAS CORPORATION ARBN 133 203 595"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "LANDER J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "5 April 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "TRADE PRACTICES – agreed antitrust contraventions – agreed injunction, pecuniary penalty, and order for costs – principles appropriate to order for pecuniary penalty"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 44ZZRP, 51, 88\nEvidence Act 1995 (Cth), s 191(3)(a)\nFederal Court of Australia Act 1976 (Cth), s 43\nFederal Court Rules 2011, r 40.02(b)\nTrade Practices Act 1974 (Cth), ss 4D, 45(2), 45A, 76, 80, 150A"
+  },
+  {
+   "label": "Cases cited",
+   "value": "J McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nTrade Practices Commission v CSR Limited (1991) ATPR 41-076"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "18 March 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide (Videolink to Sydney)"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "45"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr T Duggan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr I Wylie"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "The Second Respondent did not appear"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr A Payne SC with Mr J Arnott"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Allens"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "VISCAS CORPORATION ARBN 133 203 595",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "LANDER J"
+   ],
+   "date": "2013-04-05",
+   "date_raw": "5 april 2013",
+   "place": "ADELAIDE (VIDEO LINK TO SYDNEY)",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Viscas be restrained, for a period of 3 years from the date of these orders, from:",
+     "level": 0
+    },
+    {
+     "label": "1.1",
+     "text": "making any contract or arrangement or arriving at any understanding with one or more competitors for the supply of land cables to customers in Australia, which contains a provision:",
+     "level": 1
+    },
+    {
+     "label": "1.1.1",
+     "text": "which has the purpose, effect or likely effect of fixing, controlling or maintaining (or providing for the fixing, controlling or maintaining of) the price at which any party to the contract, arrangement or understanding, or any related body corporate or agent, will supply land cables to customers in Australia (other than a contract directly with a competitor who is a customer or agent, for supply to that customer or by that agent); or",
+     "level": 2
+    },
+    {
+     "label": "1.1.2",
+     "text": "which has the purpose of preventing, restricting or limiting the supply of land cables in Australia to particular persons or classes of persons, or to particular persons or classes of persons in particular circumstances or on particular conditions, by any party to the contract, arrangement or understanding, or any related body corporate or agent; and",
+     "level": 2
+    },
+    {
+     "label": "1.2",
+     "text": "giving effect to such a provision; unless",
+     "level": 1
+    },
+    {
+     "label": "1.3",
+     "text": "the conduct referred to in 1.1 and 1.2 is authorised under section 88 of the Competition and Consumer Act 2010 (Cth) (formerly the Trade Practices Act 1974 (Cth)) (the Act) or any other Australian statute in accordance with section 51 of the Act; or",
+     "level": 1
+    },
+    {
+     "label": "1.4",
+     "text": "the contract, arrangement or understanding referred to in 1.1 is for the purpose of a joint venture for the supply of land cables, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act.",
+     "level": 1
+    },
+    {
+     "label": "2.",
+     "text": "Viscas pay to the Commonwealth of Australia, in respect of its conduct of entering into an arrangement with one or more of its competitors containing provisions:",
+     "level": 0
+    },
+    {
+     "label": "2.1",
+     "text": "which had the purpose, effect or likely effect of fixing, controlling or maintaining (or providing for the fixing, controlling or maintaining of), the prices for land cables to be supplied to Snowy Hydro Limited; and",
+     "level": 1
+    },
+    {
+     "label": "2.2",
+     "text": "which had the purpose of preventing, restricting or limiting the supply of land cables on particular conditions by those competitors to Snowy Hydro Limited,",
+     "level": 1
+    },
+    {
+     "label": "",
+     "text": "in contravention of the Act, a pecuniary penalty in the amount of $1,350,000, such penalty to be paid within 28 days of the date of these orders.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Viscas pay a contribution to the Applicant’s costs of and incidental to these proceedings, in the agreed amount of $50,000, within 28 days of the date of these orders.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The proceedings against Viscas otherwise be dismissed.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicant, Australian Competition and Consumer Commission (ACCC), started a proceeding against all three respondents claiming that the respondents have contravened ss 45(2)(a)(i) and (ii) and ss 45(2)(b)(i) and (ii) of the Trade Practices Act 1974 (Cth) (TPA) (now the Competition and Consumer Act 2010 (Cth)) and the Competition Codes (the Codes) as defined in s 150A of the TPA by operation of s 45A and s 4D respectively."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "ACCC and the third respondent, Viscas Corporation (Viscas) have agreed upon orders to be made by the Court including an injunction, an order for a pecuniary penalty and an order for costs in a lump sum. The parties are also agreed that the proceedings otherwise should be dismissed against Viscas."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "ACCC and Viscas have reached agreement for the purpose of s 191(3)(a) of the Evidence Act 1995 (Cth) as to agreed facts, which have been presented to the Court in the form of a Statement of Agreed Facts."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "It is, of course, for the Court to determine whether or not there has been a contravention of the TPA; whether an injunction should be granted; the pecuniary penalty to be imposed; and the quantum of that pecuniary penalty; but the Court will usually be assisted by the agreement of the parties in relation to those matters."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Initially I was advised that ACCC and Viscas had also agreed upon a declaration to be made, but I have been told that the first and second respondents, who are defending the claims for contraventions against them, objected to the making of the declaration in advance of any determination of any contraventions by them."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "ACCC and Viscas have now agreed to the orders, to which I have referred, without the need for any declaration."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The three substantive orders for an injunction, for a pecuniary penalty, and for costs are all within the jurisdiction of the Court; s 80 of the TPA empowers the Court to grant injunctive relief; s 76 of the TPA empowers the Court to order a pecuniary penalty; s 43 of the Federal Court of Australia Act 1976 (Cth) (FCA) gives the Court jurisdiction to award costs in proceedings of this kind before the Court; and r 40.02(b) of the Federal Court Rules 2011 allows the Court to make an order for a lump sum by way of costs."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Viscas is incorporated pursuant to the laws of Japan and was between September and October 2003 a foreign corporation within the meaning of s 4 of the TPA. During that time it carried on business in Australia. During the relevant period, Mr Tsubaki was the General Manager, Overseas Sales Department at Viscas."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Viscas is a supplier of high voltage and extra high voltage land-based electrical cables and accessories (land cables), and medium voltage, high voltage and extra high voltage submarine electrical cables and accessories (submarine cables)."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "J-Power Systems Corporation (JPS), which is a company incorporated in Japan, was also a supplier of land cables and submarine cables to projects for customers in Australia. Prysmian Cavi E Sistemi Energia S.R.L. (Prysmian) and Nexans SA RCS Paris (Nexans), who are the first and second respondents, are companies who are respectively incorporated in Italy and France and were also, during September and October 2003, suppliers of land cables and submarine cables to projects for customers in Australia."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "ACCC and Viscas have agreed that there was a market in Australia for the supply of land cables and submarine cables, which they have described as the “Australian Cable Market”."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "ACCC and Viscas have agreed that between September and October 2003 there was an overarching arrangement or understanding in place between suppliers of land cables, including Viscas, Prysmian and Nexans relating to the allocation of projects in response to customers’ tenders. ACCC and Viscas have not characterised the nature of the overarching arrangement or understanding for the purpose of this hearing. There were two groups; Viscas, Exsym Corporation and JPS were members of a group of Japanese companies known amongst the two groups as the “A Group”, while Prysmian and Nexans were members of a European group known as the “R Group”."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "On 12 September 2003, Snowy Hydro Limited (Snowy Hydro), an Australian company which had the responsibility for the Snowy Hydro Project in the Snowy Mountains Scheme, issued an invitation to a number of companies including Prysmian, JPS, Mitsui & Co (Australia) Ltd (Mitsui Australia) and Midland Metals Overseas Pte Ltd (Midland Metals) to tender for a contract to supply land cables and accessories for use in the Snowy Mountain Project."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "On about the same day, JPS sent an email to representatives of the A Group and R Group, including Mr Tsubaki of Viscas, notifying the members that JPS had received an invitation to tender for the Snowy Hydro Project and asking that the members of the R Group tender in such a way so that one of the members of the A Group would obtain the contract for the Snowy Hydro Project (the Snowy Hydro Project Agreement)."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "On 24 September 2003, the representatives of members of the A and R Groups reached an arrangement or understanding, with which Viscas agreed, which contained a provision or provisions that the submission of tenders for the Snowy Hydro Project would occur such that one of the members of the R Group that supplied land cables would obtain preference for the Snowy Hydro Project and that the European companies (Prysmian and Nexans) would allocate amongst themselves the company to be preferred who would submit the lowest priced tender."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "On 3 October 2003, in an exchange of emails between the members of the A Group and the R Group, Prysmian notified JPS of a price at or above which JPS should price land cables for the Snowy Hydro Project, for the purpose of ensuring that Prysmian’s tender had a lower price than any tender that JPS submitted, or was involved in, in accordance with the Snowy Hydro Project Agreement."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Shortly after 3 October 2003, Prysmian submitted a tender to Snowy Hydro that was below the price guidance and JPS supplied prices to Mitsui Australia that were above the price guidance provided by Prysmian."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "Ultimately, Prysmian was not allocated the contract, but the contract was awarded to Midland Metals which had submitted a tender for less than half the price at which Prysmian tendered, and less than a third of the price at which Mitsui Australia tendered."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "It is agreed between ACCC and Viscas that the Snowy Hydro Project Agreement had:\n22.1 The purpose, effect or likely effect of fixing, controlling and maintaining the price at which land cables were supplied to customers in Australia, in the Australian Cable Market; and\n22.2 The purpose of preventing, restricting or limiting the supply of land cables, or of preventing, restricting or limiting the supply of land cables in particular circumstances or on particular conditions, by the parties to the Snowy Hydro Agreement in competition with each other (or by any bodies corporate related to any of them), to Snowy Hydro."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Viscas admits that by arriving at the Snowy Hydro Project Agreement it contravened s 45(2)(a)(i) and (ii) of the Act and the Codes by operation of s 4D and s 45A."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "As I have said, the Court is empowered by s 80 of the TPA to grant injunctive relief and, in my opinion, the injunctive relief included in the orders is sufficiently precise for the order to be made. The orders do not admit of any ambiguity that might give rise to any confusion. The injunctions are appropriate to deter the repetition of the conduct."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "The parties have submitted that a pecuniary penalty of $1.35 million should be imposed upon Viscas, which should be paid within 28 days of the date of these orders to the Commonwealth."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "The authorities are clear that the principal object of a penalty under s 76 of the TPA is deterrence, not only of the contravenor but anyone who might be inclined to contravene the TPA in a similar fashion."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "Because deterrence is the most important aspect of the fixing of a pecuniary penalty, it follows that any penalty imposed must be substantial and significant where there has been a complaint of serious conduct."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "Conduct of the kind which Viscas has agreed that it engaged in is difficult to detect and difficult to establish. When it is established, any penalty imposed should be significant so as to deter any other corporation engaged in trade and commerce from engaging in the same conduct."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "Section 76 itself identifies criteria to which regard should be had in the assessment of penalty. In s 76(1) it is provided that the pecuniary penalty be determined “having regard to all relevant matters including the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct”."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "The matters relevant to the quantum of any penalty were addressed by French J (as he then was) in Trade Practices Commission v CSR Limited (1991) ATPR 41-076. He said that those factors included the following (at 52,152):\n1. The nature and extent of the contravening conduct.\n2. The amount of loss or damage caused.\n3. The circumstances in which the conduct took place.\n4. The size of the contravening company.\n5. The degree of power it has, as evidenced by its market share and ease of entry into the market.\n6. The deliberateness of the contravention and the period over which it extended.\n7. Whether the contravention arose out of the conduct of senior management or at a lower level.\n8. Whether the company has a corporate culture conducive to compliance with the Act, as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention.\n9. Whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "The relevance of the criteria identified by French J has been approved in two decisions of the Full Court in NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 and J McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532. In those decisions, four further criteria have been identified, being:\n10. Similar conduct in the past.\n11. Effect on the functioning of the market and other economic effects of the conduct.\n12. The financial position of the contravening company.\n13. Whether the conduct was systematic, deliberate or covert."
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "The appropriate penalty to be determined in any case will be within a range. The fixing of a penalty is not an exact science."
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "The question in this case is whether the proposed penalty is within that range."
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "The penalty must be substantial having regard to the conduct complained of, but it must not be so high as to be oppressive."
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "In considering whether the penalty proposed is appropriate, the Court will be mindful of ACCC’s position as the regulator and its view as to whether the proposed penalty would serve the deterrent purpose for which the penalty is to be imposed."
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "It will also take into account the public interest in the final determination of the proceeding, at least insofar as Viscas is concerned and the concomitant savings in time and expense."
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "The conduct complained of was very serious. It involved a deliberate course of conduct by engaging in anti-competitive behaviour at the expense of customers in that market."
+   },
+   {
+    "n": 35,
+    "headings": [],
+    "text": "Although no actual damage was caused to Snowy Hydro, but for the tender of the non-collusive party, Midland Metals, Snowy Hydro could have suffered significant damage."
+   },
+   {
+    "n": 36,
+    "headings": [],
+    "text": "Viscas is one of a number of multi-national companies that compete in the supply of land and submarine cables world wide, including Australia. Viscas is now a substantial company. In the period April 2003 to March 2004, it had a global sales revenue of $69.4 million. In its recent financial year, its global sales revenue was $725 million. The size of Viscas’ share of the market is impossible to define."
+   },
+   {
+    "n": 37,
+    "headings": [],
+    "text": "Mr Tsubaki was a senior officer of Viscas, who during the relevant time was the General Manager of the Overseas Sales Department with the authority to act and bind the company. The conduct was thus at a high level."
+   },
+   {
+    "n": 38,
+    "headings": [],
+    "text": "Since 2007, which is before ACCC initiated this proceeding, Viscas has endeavoured to introduce a culture of compliance in relation to anti-trust behaviour and has introduced the Viscas Anti-Trust Compliance Manual, which requires its employees to comply with foreign law and regulations."
+   },
+   {
+    "n": 39,
+    "headings": [],
+    "text": "Viscas has cooperated with ACCC to the extent that it has admitted its contravention and reached the agreement, which is the subject of these reasons."
+   },
+   {
+    "n": 40,
+    "headings": [],
+    "text": "Its agreement means that the prosecution of the proceeding against Viscas is no longer necessary, which is to the advantage of the public generally and to ACCC, and to the Court."
+   },
+   {
+    "n": 41,
+    "headings": [],
+    "text": "Viscas has not previously been convicted or found to have engaged in any anti-competitive behaviour."
+   },
+   {
+    "n": 42,
+    "headings": [],
+    "text": "In my opinion, the penalty is within the appropriate range, such that it ought to be imposed by the Court."
+   },
+   {
+    "n": 43,
+    "headings": [],
+    "text": "That leaves the question of costs. ACCC and Viscas have agreed that Viscas should make a contribution of $50,000 towards ACCC’s costs. I see no reason to inquire into that agreement, which is no doubt an appropriate assessment of the contribution that Viscas should make."
+   },
+   {
+    "n": 44,
+    "headings": [],
+    "text": "The proceeding against Viscas will be otherwise dismissed."
+   },
+   {
+    "n": 45,
+    "headings": [],
+    "text": "I make the following orders:\n1. Viscas be restrained, for a period of 3 years form the date of these orders, from:\n1.1 making any contract or arrangement or arriving at any understanding with one or more competitors for the supply of land cables to customers in Australia, which contains a provision:\n1.1.1 which has the purpose, effect or likely effect of fixing, controlling or maintaining (or providing for the fixing, controlling or maintaining of) the price at which any party to the contract, arrangement or understanding, or any related body corporate or agent, will supply land cables to customers in Australia (other than a contract directly with a competitor who is a customer or agent, for supply to that customer or by that agent); or\n1.1.2 which has the purpose of preventing, restricting or limiting the supply of land cables in Australia to particular persons or classes of persons, or to particular persons or classes of persons in particular circumstances or on particular conditions, by any party to the contract, arrangement or understanding, or any related body corporate or agent; and\n1.2 giving effect to such a provision; unless\n1.3 the conduct referred to in 1.1 and 1.2 is authorised under section 88 of the Competition and Consumer Act 2010 (Cth) (formerly the Trade Practices Act 1974 (Cth)) (the Act) or any other Australian statute in accordance with section 51 of the Act; or\n1.4 the contract, arrangement or understanding referred to in 1.1 is for the purpose of a joint venture for the supply of land cables, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act.\n2. Viscas pay to the Commonwealth of Australia, in respect of its conduct of entering into an arrangement with one or more of its competitors containing provisions:\n2.1 which had the purpose, effect or likely effect of fixing, controlling or maintaining (or providing for the fixing, controlling or maintaining of), the prices for land cables to be supplied to Snowy Hydro Limited; and\n2.2 which had the purpose of preventing, restricting or limiting the supply of land cables on particular conditions by those competitors to Snowy Hydro Limited,\nin contravention of the Act, a pecuniary penalty in the amount of $1,350,000, such penalty to be paid within 28 days of the date of these orders.\n3. Viscas pay a contribution to the Applicant’s costs of and incidental to these proceedings, in the agreed amount of $50,000, within 28 days of the date of these orders.\n4. The proceedings against Viscas otherwise be dismissed."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-five (45) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lander.",
+ "associate": null,
+ "dated": "2013-04-05",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "3d1c24481ed70626d4e70158229e6fce6b87fbb7c4b166747f2f753d7073df93",
+ "markdown_file": "data/extracted/2013/2013FCA0294.md"
+}

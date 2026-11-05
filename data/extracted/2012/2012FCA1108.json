@@ -1,0 +1,714 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA1108.docx",
+ "metadata": {
+  "citation": "[2012] FCA 1108",
+  "name": "Australian Competition and Consumer Commission v Emirates",
+  "court": "FCA",
+  "year": 2012,
+  "number": 1108,
+  "date_of_judgment": "2012-10-11",
+  "file_numbers": [
+   "NSD876/2009"
+  ],
+  "judges": [
+   "KATZMANN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-10-11"
+  ],
+  "hearing_raw": "11 October 2012",
+  "number_of_paragraphs": 58,
+  "catchwords": [
+   "COMPETITION – price-fixing – collusive understandings – respondent admitted to seven contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – regulator and respondent filed joint submissions, statement of agreed facts and agreed short minutes of order –whether contraventions occurred – whether the proposed penalties should be imposed – whether quantum of proposed penalties in the appropriate range – matters relevant to imposition of penalty – admissions not made until pleadings had closed and most evidence served – parity with penalties imposed in similar cases"
+  ],
+  "legislation": [
+   "Trade Practices Act 1974 (Cth) 45, 45(2)(a)(ii), 45(2)(b)(ii), 45A(1), 76, 77(2), 80",
+   "Evidence Act 1995 (Cth) s 191"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Cargolux Airlines International SA (2009) ATPR ¶42-282",
+   "Australian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360",
+   "Australian Competition and Consumer Commission v Malaysia Airline System Berhad (No 2) [2012] FCA 767",
+   "Australian Competition and Consumer Commission v McMahon Services Pty Ltd (2004) ATPR ¶42-031",
+   "Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc. (1999) 161 ALR 79",
+   "Australian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89",
+   "Minister for Industry Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ¶41–993",
+   "J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 53",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "Trade Practices Commission v CSR Ltd (1991) ATPR ¶41-076"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "EMIRATES (ARBN 073 569 696)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v EMIRATES (ARBN 073 569 696)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O'Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr C Scerri QC and Ms D M Bampton"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Allens"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1108",
+  "portal_file_numbers": [
+   "NSD876/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2012-10-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Emirates [2012] FCA 1108"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v EMIRATES (ARBN 073 569 696)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 876 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "KATZMANN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 October 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – price-fixing – collusive understandings – respondent admitted to seven contraventions of s 45(2) Trade Practices Act 1974 (Cth) – enforcement and remedies – application for pecuniary penalties and injunctions under ss 76 and 80 – agreed penalties and injunctions – regulator and respondent filed joint submissions, statement of agreed facts and agreed short minutes of order –whether contraventions occurred – whether the proposed penalties should be imposed – whether quantum of proposed penalties in the appropriate range – matters relevant to imposition of penalty – admissions not made until pleadings had closed and most evidence served – parity with penalties imposed in similar cases"
+  },
+  {
+   "label": "Legislation",
+   "value": "Trade Practices Act 1974 (Cth) 45, 45(2)(a)(ii), 45(2)(b)(ii), 45A(1), 76, 77(2), 80\nEvidence Act 1995 (Cth) s 191"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Cargolux Airlines International SA (2009) ATPR ¶42-282\nAustralian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360\nAustralian Competition and Consumer Commission v Malaysia Airline System Berhad (No 2) [2012] FCA 767\nAustralian Competition and Consumer Commission v McMahon Services Pty Ltd (2004) ATPR ¶42-031\nAustralian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc. (1999) 161 ALR 79\nAustralian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89\nMinister for Industry Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ¶41–993\nJ McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 53\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nTrade Practices Commission v CSR Ltd (1991) ATPR ¶41-076"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 October 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "58"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O'Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr C Scerri QC and Ms D M Bampton"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Allens"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD876/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "EMIRATES (ARBN 073 569 696)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "KATZMANN J"
+   ],
+   "date": "2012-10-11",
+   "date_raw": "11 OCTOBER 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondent pay the Commonwealth of Australia, within 14 days, a pecuniary penalty in the sum of $7 million in respect of contraventions of s 45(2)(a)(ii) and (b)(ii) of the Trade Practices Act 1974 (Cth), now the Competition and Consumer Act 2010 (Cth) (the Act) occurring after August 2003, in that:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1. the respondent:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1.1. between about October 2001 and September 2005, reached understandings with certain of its competitors for the supply of services, from Indonesia to certain other countries including Australia, for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount, described as a fuel surcharge, in respect of those services; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1.2. between about October 2001 and October 2005, reached understandings with certain of its competitors for the supply of services from Indonesia to certain other countries including Australia for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount described as a security surcharge, in respect of those services; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.1.3. between about May 2004 and October 2005, reached an understanding with certain of its competitors for the supply of services from Indonesia to certain other countries including Australia for the carriage of air cargo containing a provision that each would impose a charge of a specified amount, described as a customs fee, in respect of those services;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.2. the provisions of the said understandings had the effect of fixing, maintaining or controlling prices for the said services within the meaning of section 45A of the Act and are therefore deemed to substantially lessen competition within the meaning of section 45(2)(a)(ii) and (b)(ii) of the Act; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3. the respondent gave effect to those provisions:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3.1. of the understandings referred to in 1.1.1, from September 2002 to May 2006 inclusive;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3.2. of the understandings referred to in 1.1.2, from October 2001 to October 2005 inclusive; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1.3.3. of the understanding referred to in 1.1.3, from May 2004 until October 2005 inclusive.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondent pay the Commonwealth of Australia, within 14 days, a pecuniary penalty in the sum of $3 million in respect of an attempted contravention of section 45(2)(a)(ii) of the Act, in that the respondent between on or about 20 June 2005 and 11 July 2005, attempted to make an arrangement or arrive at an understanding with DAS Air Cargo (DAS) and attempted to induce DAS to make an arrangement or arrive at an understanding containing provisions that:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "2.1. Emirates and DAS would charge a common rate for the supply of air freight services from Australia; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "2.2. Emirates and DAS would each not undercut the prices offered by the other airline for the supply of air freight services from Australia.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE COURT ORDERS BY CONSENT THAT:",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The respondent be restrained, for a period of five years from the date of this order from attempting to make, making, arriving at, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air, containing provisions which have the effect of fixing, controlling or maintaining the price or any part of the price at which it or any of them will supply those services in competition with each other unless:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.1. the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.2. the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s44ZZRP of the Act;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.3. the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "3.4. the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The respondent be restrained for a period of five years from the date of this order from attempting to enter, entering into, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods by air containing provisions to the effect that any of them will propose, develop, prepare, follow, implement, adopt or otherwise use any index, model, methodology or formula for the change of prices or any part of prices to be charged by any of them for services provided or which would otherwise likely be provided in competition with any other of them unless:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.1. the said contract, arrangement or understanding does not involve or relate to the carriage of goods to or from Australia;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.2. the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of services for the carriage of goods, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s44ZZRP of the Act;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.3. the said contract, arrangement or understanding is for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "4.4. the respondent is specifically authorised to do so under section 88 of the Act or any other Australian statute in accordance with section 51 of the Act.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The respondent pay the applicant within 14 days of the date this order is made a contribution towards its costs of and incidental to these proceedings in the sum of $500,000.",
+     "level": 0
+    }
+   ],
+   "registry": "Nsw",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Emirates is a foreign corporation that transfers people and freight by air across the globe. The Australian Competition and Consumer Commission (“ACCC”) brought this proceeding against it, seeking declarations, injunctive relief and pecuniary penalties for anti-competitive conduct in which it alleges that Emirates engaged, contrary to s 45(2)(a)(ii) and (2)(b)(ii) of the Trade Practices Act 1974 (Cth) (now the Competition and Consumer Act 2010 (Cth)) (“the Act”)."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The facts are the subject of admissions made (for the purpose of this proceeding only) pursuant to s 191 of the Evidence Act 1995 (Cth). Emirates admits (again, for the purpose of this proceeding only) that, on those facts, it engaged in anti-competitive conduct and agrees to pay a penalty. Furthermore, Emirates has agreed with the ACCC on the amounts it should be ordered to pay, on an injunction that should be imposed and on certain other orders, including costs. The agreed penalties total $10 million."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The power to make an order for a pecuniary penalty is conferred by s 76 of the Act. The section relevantly provides that, if the Court is satisfied that a person has contravened or attempted to contravene certain provisions of Part IV of the Act (which includes s 45), it may order the person to pay to the Commonwealth such pecuniary penalty in respect of each act or omission of the person as the Court deems appropriate having regard to all relevant matters. Consequently, despite the parties’ agreements, the Court must be independently satisfied that Emirates has engaged in contravening conduct and that the proposed penalties should be imposed. See NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 (“NW Frozen Foods”); Minister for Industry, Tourism & Resources v Mobil Oil Australia Pty Ltd (2004) ATPR ¶41-993 (“Mobil Oil”) at [51]. See, too, Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc. (1999) 161 ALR 79 at [18] per French J. Based on the admissions and agreed facts, I am satisfied that Emirates has engaged in contravening conduct the subject of the agreement and that the agreed penalties should be imposed."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The anti-competitive conduct the subject of the proceeding is price-fixing. At the material times s 45(2)(a)(ii) relevantly provided that a corporation shall not make a contract or arrangement, or arrive at an understanding, if a provision of the proposed contract, arrangement or understanding has the purpose, or would have or be likely to have the effect, of substantially lessening competition. “Corporation” is defined in s 4 to include a foreign corporation. Section 45(2)(b)(ii) relevantly provided that a corporation shall not give effect to a provision of a contract, arrangement or understanding, whether the contract or arrangement was made, or the understanding was arrived at, before or after the commencement of that section, if that provision has the purpose, or has or is likely to have the effect, of substantially lessening competition. At all material times s 45A(1) deemed a provision of a contract, arrangement or understanding to have the purpose, or to have or be likely to have the effect, of substantially lessening competition, if it had the purpose, or had or was likely to have the effect, of fixing, controlling or maintaining, or providing for the fixing, controlling or maintaining of the price for services supplied or to be supplied by the parties to the contract, arrangement or understanding. In other words, a corporation that enters into a contract, arrangement or understanding made to fix, control or maintain a price for services or with that likely effect will be in breach of the provisions of s 45(2)(a)(ii) and, if it gives effect to it, also s 45(2)(b)(ii)."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The conduct in this case occurred both in and outside Australia. Section 5 of the Act extends the operation (amongst other things) of Part IV to conduct outside Australia by (amongst others) bodies corporate incorporated or carrying on business in Australia. At all relevant times Emirates was such a body."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Emirates admits that it contravened s 45 by arriving at and giving effect to understandings in relation to a fuel surcharge, a security surcharge and a customs fee on freight carried by air from Indonesia to certain other countries including Australia (together “the Indonesia Understandings”). It also admits that it contravened s 45 by attempting to make an arrangement or arrive at an understanding with DAS Air Cargo (“DAS”) and attempting to induce DAS to make an arrangement or arrive at an understanding containing provisions that Emirates and DAS would charge a common rate for the supply of air freight services from Australia and that neither would undercut the prices offered by the other for the supply of those services (“the DAS Attempt”)."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The conduct occurred over a period from October 2001 to May 2006 in the case of the Indonesian Understandings and from 20 June 2005 to 11 July 2005 in the case of the DAS Attempt. The proceeding was started in August 2009. For this reason the contraventions concern the conduct that occurred between August 2003 and May 2006 (see s 77(2))."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "In the originating application the ACCC sought declarations with respect to numerous contraventions of s 45(2) well beyond the terms now agreed. That circumstance is reflected in the agreement as to costs which, it might be expected, far exceeded the agreed amount."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "The admissions are confined to the carriage of outbound freight from Indonesia to numerous countries including Australia. The conduct is described in some detail in the agreed facts. It is unnecessary to repeat all that detail here. I accept the truth of the facts as stated. It is sufficient to note the following matters."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Between October 2001 and September 2005 a representative of Emirates attended meetings of the Air Cargo Representative Board-Indonesia (“ACRB-Indonesia”) of which it and other major airlines operating in Indonesia were members and which were also attended by representatives of Emirates’s competitors in Indonesia including Singapore Airlines, Garuda, Cargolux, Malaysia Airlines, Lufthansa, Cathay Pacific, Korean Air Lines and Thai Airways. At those meetings the airlines discussed, amongst other things, the fuel and security surcharges and customs fees they intended to impose on the carriage of freight from Indonesia to various other countries including Australia."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "At those meetings Emirates’s cargo sales managers in Indonesia communicated with employees of the freight divisions of other airlines in order to ensure in the case of fuel and security surcharges and customs fees for the carriage of air freight, that the airlines would move to the same amount or substantially the same amount at around the same time. This was not only the purpose of the discussions; it was also the effect of the understandings reached as a result of them."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Emirates admits that between October 2001 and September 2005 Emirates arrived at fuel surcharge understandings with competitors who were members of the ACRB-Indonesia on ten occasions and gave effect to seven of them between September 2002 and May 2006. Four of those understandings were reached between August 2003 and September 2005. The understandings provided, in relation to Australia, for each of the ACRB-Indonesia members to impose a minimum fuel surcharge levied per kilogram on the supply of air freight services from Indonesia to Australia. The initial understanding, reached by September 2002, was for a minimum surcharge of US$0.05 per kg. That was reviewed in January and May 2003, September 2004, April 2005, July 2005 and September 2005. On each occasion with the exception of the last, ACRB-Indonesia, including Emirates, decided to maintain or impose the same minimum surcharge. In September 2005 they decided to double it to US$0.10 per kg."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Similarly, in October 2001 and following reviews in January and May 2003, September 2003 and July 2005, understandings were reached between members of the ACRB-Indonesia, including Emirates, about minimum security surcharges of US$0.05 per kg on the supply of air freight services from Indonesia to certain other countries including Australia. Emirates admits and I find that it gave effect to those understandings in the period October 2001 to October 2005, though I repeat that the relevant period is from August 2003."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Emirates also admits that in May 2004 it arrived at an understanding with other members of the ACRB-Indonesia to charge a fee on all airway bills effective 16 May 2004 for exports from Indonesia to certain other countries including Australia and that it gave effect to this understanding by imposing a charge of US$5.00 on all airway bills for exports from Indonesia as a customs fee from on or about 16 May 2004 to October 2005."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Emirates admits that reaching the Indonesia Understandings and giving effect to their provisions constituted the arriving at and giving effect to an understanding containing provisions to which s 45A of the Act applies in that it had the purpose, effect and likely effect of fixing, controlling or maintaining the price charged by competitors for the carriage of freight by air and that therefore it is deemed to have had the purpose, effect and likely effect of substantially lessening competition between Emirates and its competitors for the carriage of freight by air in the relevant markets."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "Further, Emirates admits that (by reason of s 45A), by arriving at the Indonesia Understandings and by giving effect to their provisions by charging on airway bills fuel and security surcharges and a customs fee in accordance with the Indonesia Understandings, it contravened s 45(2)(a)(ii) and (b)(ii) of the Act. On the basis of the agreed facts, I am satisfied that Emirates’s admissions were properly made and that the airline contravened the Act in these ways."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The Indonesia Understandings"
+    ],
+    "text": "In respect of these contraventions, the parties agree that a total penalty of $7 million is appropriate."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "DAS operated flights from Dubai to some African destinations but did not operate any of its own aircraft between Australia and the final destinations. From about 2002, when it began operating direct flights from Perth to Dubai, Emirates carried a significant amount of air freight traffic between Perth and African countries (such as Tanzania and Kenya) primarily for the transport of mining equipment. Emirates serviced this demand by carrying the cargo from Perth to its Dubai hub, then from Dubai to the final destination."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "On a date before June 2005, Emirates and DAS entered into a special prorate agreement, which entitled DAS to obtain space on flights operated by Emirates from origin ports in Australia and to use that space in the course of the supply of air cargo services from those origin ports to destination ports outside Australia."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "At all material times DAS supplied air cargo services from ports in Australia to ports outside Australia by way of interline arrangement with other international airlines and was a competitor with Emirates in the supply of air cargo services on routes from Australia."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "On two occasions Karappamveetil Saydu Yunuss, Emirates’s Manager – Cargo Pricing, attempted to make arrangements or arrive at understandings with DAS and to induce DAS to make arrangements or arrive at understandings containing provisions that Emirates and DAS would charge a common rate or not undercut each other for the supply of air cargo services from Australia. The provisions had the purpose and were likely to have had the effect of fixing or controlling or maintaining the price charged by Emirates and DAS for the supply of air cargo services from Australia in competition with each other. Emirates sought to place pressure on DAS in order to induce DAS to agree not to undercut Emirates on price."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "The first attempt occurred on 20 June 2005. In an email he sent on that date Mr Yunuss sought to agree a common rate with DAS in respect of the routes from Perth to Dar Es Salaam; Khartoum; Jomo Kenyatta International Airport (Kenya); Mwanza Airport and Lagos. Emirates carried a significant amount of air freight traffic on those routes. For example, Emirates’s revenue from 1 July 2005 to 30 June 2006 from Perth to Tanzania, Kenya, Sudan and Nigeria was AU$728,700."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "On that day, Mr Yunuss sent an email to Andy Walters of DAS. He did so at the direction of Pradeep Kumar, Vice President of Emirates’s cargo division. The email referred to prices recently released by the general sales agent (“GSA”) of DAS concerning the supply of air cargo services from Australia. The reference in the email to “Glenn” is to Glenn Baxter, Emirates’s Australian Cargo Manager."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "The email from Mr Yunuss stated:\nUnderstand that the Tariff released by [the GSA] in the market is much lower than the tariff floated by Emirates in the market which created a lot of problems for Emirates.\nAs you are well aware, our intention is not to compete [with] each other but to complement each other.\nPlease arrange your GSA to meet and discuss with [Emirates] in Australia and release a common tariff.\nWe do not want to end up in problems.\nI would appreciate your quick action for this and confirm.\nGlenn – Please do [the] needful when they contact you and confirm.\n(Emphasis added.)"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "The second attempt occurred on 11 July 2005. On that day, Mr Yunuss sent a further email to Mr Walters copied to Mr Baxter and Syed Mujtaba Ali, also of Emirates. The email referred to previous communications regarding prices charged by DAS for the supply of air cargo services from Australia and stated as follows:\nUnderstand that you have made an agreement with Royal air [sic] Brunei and floated a tariff in the market based on Brunei/DAS service also. Understand again the rates are lower than [Emirates’] floated rates. Our intension [sic] is to have a long term partnership and keep business with both of us, not to lose business to a competitor.\nAs I mentioned earlier, we should not undercut and compete for [the] same business. If you are not taking it up with your GSA and sort out the rate issue, we will have to review our SPA from Australia provided to DAS air.\nI would appreciate your comments and action.\nGlenn – Please note, if GSA of DAS Air contact you, please discuss and do [the] needful. We can not lose business any more which we are now carrying.\n(Emphasis added.)"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "By the email dated 11 July 2005, Mr Yunuss sought to agree prices with DAS concerning the supply of air cargo services by it on both flights operated by Emirates as well as flights operated by Royal Brunei along the following routes: Perth to Dar Es Salaam; Perth to Khartoum; Perth to Nairobi; Perth to Mwanza Airport and Perth to Lagos."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "These were plainly attempts to make an arrangement or arrive at understandings with a competitor and to try to induce DAS to make arrangements or arrive at understandings containing provisions that Emirates and DAS would either charge a common rate or not undercut each other for the supply of air cargo services from Australia. They were, however, unsuccessful. Emirates admits these attempts contravened s 45 the Act. Once again, on the basis of the agreed facts, which I accept as true, this admission was well made."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The DAS ATTEMPT"
+    ],
+    "text": "The parties agree that a penalty of $3 million in respect of this conduct is appropriate."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Background"
+    ],
+    "text": "The agreed facts provide some context for Emirates’s conduct."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Background"
+    ],
+    "text": "After a substantial rise in the global price of aviation fuel in the second half of 1996 Lufthansa announced that it would levy across its entire route network a fuel surcharge of US$0.10 per kg of air freight (or its equivalent in local currency) and on or about 1 November 1996 it acted on the announcement. Not long afterwards (presumably in response to the Lufthansa move), the Cargo Tariff Coordinating Conference of the International Air Transport Association (“IATA”), the peak airline industry body to which major international airlines belong, passed a resolution (resolution 116ss) that IATA prepare and publish a fuel price index for its members. IATA went ahead and published the index in the period 1997 to 1999. Emirates is and was at all material times a member of IATA but not of the Cargo Tariff Coordinating Conference."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Background"
+    ],
+    "text": "The IATA index provided for the imposition of fuel surcharges in accordance with a methodology linked to the index. The details are contained in the agreed facts. IATA advised its members not to impose a fuel surcharge until resolution 116ss had received regulatory approval, including from the US Department of Transport. In March 2000 the Department refused approval, finding the index to be contrary to the public interest and in violation of the law. IATA then ceased publishing the index and sent a memorandum on 7 April 2000 to the members of the Cargo Tariff Coordinating Conference informing them that it had done so. Evidently, there were appeals to IATA to continue publishing the list, despite the US decision. This prompted IATA to send a week later, on 14 April 2000, another memorandum to the members of the Conference informing them, amongst other things of the reasons for its decision to discontinue the index. That memorandum disclosed legal advice IATA had received to the effect that if the airlines were to coordinate pricing by reference to the index that could be regarded as “an illegal conspiracy in violation of applicable Competition laws”. I emphasise, however, that there is no evidence that this memorandum (or its contents) came to Emirates’s attention."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Background"
+    ],
+    "text": "By late 2001 the price of aviation fuel had fallen and in December 2001 Lufthansa and other airlines which had imposed a fuel surcharge announced its withdrawal. The following month, however, Lufthansa announced a new fuel surcharge based on a methodology, which (like the IATA fuel price index) involved calculations based on the per kilogram weight of international air freight."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Background"
+    ],
+    "text": "Emirates is one of several airlines that engaged in anti-competitive conduct during the period in question, notwithstanding the IATA advice. Proceedings have been taken against several of its competitors. Some have reached similar agreements with the ACCC and have been ordered to pay penalties. Some actions are pending. A hearing is due to take place in this Court on 22 October 2012 of applications against Singapore Airlines, Cathay Pacific, Thai Airways and Air New Zealand. I was informed that, with the exception of Air New Zealand, each of these applications arises in whole or in part from the Indonesia Understandings."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The question of penalty – principles"
+    ],
+    "text": "The maximum penalty for each contravention is $10 million: s 76(1A). That speaks to the community’s disdain for collusive conduct of this kind."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The question of penalty – principles"
+    ],
+    "text": "Some of the matters to which the Court must have regard are mentioned in s 76 itself. They are: the nature and extent of the conduct and of any resulting loss or damage, the circumstances in which the conduct took place and whether the person has previously been found in proceedings under Part VI to have engaged in similar conduct. Other relevant considerations include the size of the contravening company, the extent of its power as evidenced by its market share and ease of entry into the market, whether the contravention was deliberate, the period over which it extended, whether senior management were involved, whether the company has a corporate culture conducive to compliance with the Act (as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention), and whether the company has shown a disposition to cooperate with the authorities responsible for the enforcement of the Act: Trade Practices Commission v CSR Ltd (1991) ATPR ¶41-076 (“CSR”) at 52,152 – 52,153 per French J. They also include whether the conduct was systematic, deliberate or covert, whether the company has engaged in similar conduct in the past, the effect on the market of the conduct, and the financial position of the contravening company: NW Frozen Foods at 292; J McPhee & Son (Australia) Pty Ltd v Australian Competition and Consumer Commission (2000) 172 ALR 532."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The question of penalty – principles"
+    ],
+    "text": "It is well accepted that the principal object of a penalty under s 76 is deterrence (both general and specific). Indeed, in CSR French J, whose remarks Burchett and Kiefel JJ cited without apparent disapproval in NW Frozen Foods at 292, said (at 52,152) he thought it was probably the only object. No doubt because it is mutually beneficial and often occurs in secret, as Selway J explained in Australian Competition and Consumer Commission v McMahon Services Pty Ltd (2004) ATPR ¶42-031 at [15], collusive price fixing is difficult to detect and public enforcement often only follows a tip from an affected party or insider. His Honour continued:\nGiven these difficulties and the potential for large profits from such practices there is a chance that those in the market place might be prepared to factor the risk of a low penalty into its pricing structure as a \"business cost\". That would be inimical to the statutory purpose of ensuring that the practices do not occur. The penalty must be sufficiently high that a business, acting rationally and in its own best interest, will not be prepared to treat the risk of such a penalty as a business cost."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The market"
+    ],
+    "text": "Section 4E of the Act provides, for relevant purposes, that unless the contrary intention appears, “market” means a market in Australia and includes a market for goods or services and other goods or services that may be substituted for, or are otherwise competitive with, them. The parties accept for the purpose of the proceeding and I find that during the relevant period the relevant market or markets in which the contravening conduct occurred included outbound freight from Indonesia to certain other countries including Australia and from ports in Australia to ports outside Australia. Each of those markets is a market in Australia within the meaning of s 4E of the Act. I adopt the description of the market in the agreed facts :\n18. International air freight is carried both on passenger aircraft, using available belly space capacity, and on dedicated air freighters. Air freight services are provided “one way” from origin to destination, either directly or using an indirect route via one or more midpoints. Most international airlines provide air freight services on a network-wide basis. Through interline and other arrangements with other international airlines they also offer air freight services to or from airports which their own aircraft do not serve directly. The networks of international airlines extensively overlap such that there are various international airlines operating to and from any international airport.\n19. Airlines predominantly provide international air freight services through freight forwarders which generally organise the integrated transport of goods on behalf of a range of shippers. Freight forwarders issue a document known as an air waybill for the carriage of air freight.\n20. Shippers may be the purchasers or the sellers of goods or the owners of goods that need to be moved over relatively long distances.\n21. There are different ways in which the geographic scope of the market or markets in relation to international air freight services relevant to the Indonesia and DAS Understandings can be defined … For the purposes of this proceeding only, the ACCC and Emirates accept that during the relevant period the Relevant Markets included outbound freight from Indonesia to certain other countries including Australia, and from ports in Australia to ports outside Australia. The parties agree in any event that, given the conduct admitted in this proceeding, the Court need not determine the precise market definition.\n22. In the Relevant Markets, Emirates in the relevant period competed with airlines including Singapore Airlines, British Airways, Malaysia Airlines, Cathay Pacific, Qantas, Garuda, Thai Airways, Cargolux and Korean Air Lines, for the supply of international air freight services, including to and from Australia."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "It remains for me to deal with the question of penalties. There is good reason to make orders that reflect the agreement of the parties. To do so saves both the Court and the regulator from incurring costs which, in the latter case, can be used to increase the prospect that other contraveners will be uncovered and brought before the Court: Mobil Oil at [53]."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "As Emmett J put it in Australian Competition and Consumer Commission v Malaysia Airline System Berhad (No 2) [2012] FCA 767 (“Malaysia”) at [23]:\nClearly enough, litigation in relation to contraventions of Part IV of the Act is normally very complex, time-consuming and costly. It is therefore in the interests of the public for litigation under Part IV to be concluded in the shortest timeframe that is consistent with achieving justice between the parties. Provided that the Court is satisfied as to the terms of proposed orders, it is in the public interest for the Court to make orders on terms that are agreed between the parties, in order to encourage parties to assist the Commission in its investigations and achieve negotiated settlements. There is a public benefit in imposing agreed pecuniary penalties, if they are appropriate. Otherwise, parties would not be disposed to reach such agreements, because of the unpredictable risks involved. Further, making the public aware of the manner in which co-operation and assistance by parties is recognised encourages parties in breach to come forward to assist the Commission in its enforcement activities."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Emirates has admitted to six contraventions with respect to the Indonesia Understandings (in relation to arriving at and giving effect to the understandings about a fuel surcharge, a security surcharge and a customs fee) and to one contravention with respect to the DAS Attempt. This means that the total maximum penalty is $60 million with respect to the Indonesia Understandings and $10 million in the case of the DAS Attempt. Emirates, however, has no history of infractions of a similar kind and there are other factors that militate against penalties at the high end of the range."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Still, the proposed penalties are substantial. That is as it should be. Emirates’s behaviour calls for substantial penalties and to have the necessary deterrent effect they must be so. Although they should not be oppressive, the penalties should send a strong message that this kind of behaviour is unlawful, will not be tolerated and must not be repeated. Emirates is a large, successful company and a major player in the aviation industry. In the last financial year it carried 34 million passengers and 1.8 million tonnes of cargo worldwide. In the 2005 financial year its total assets exceeded A$8.5 billion, its total operating revenue was A$5.166 billion and its net after tax income A$663 million. In the 2002 to 2006 financial years its global revenue from air freight services rose each consecutive year from a starting figure of A$560 million in the first year to A$1.495 billion in the last. The same pattern can be seen in the figures for revenue derived by Emirates from international air freight services supplied to and from Australia. In the 2001 calendar year Emirates’s revenue totalled A$10 million. By the 2005 calendar year it had risen to A$45 million."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "The conduct involved in connection with the Indonesia Understandings extended over a lengthy period of time. It occurred in circumstances in which it required for its success the participation of all major carriers in Indonesia. Senior staff at the Emirates station in Indonesia were involved in both securing and implementing the Understandings."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "In relative terms the revenue generated by Emirates as a result of the surcharges and customs fees imposed on cargo from Indonesia to other countries including Australia during the relevant period was (at up to A$3 million) insignificant. Nevertheless, in the case of the fuel surcharges, it is common ground that the revenue derived from them does not disclose the actual loss to shippers or their customers. But for the Understandings, some increases in price would have been required to cover the increased cost of fuel during the relevant period. Furthermore, the parties jointly submitted that some airlines would have been forced to close certain routes, allowing the remaining air cargo carriers operating on those routes to impose other increases and the competitive outcomes of such action cannot be known."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "The evidence does not reveal what proportion of the fuel surcharge was ultimately borne by any particular consumer or business in Australia. The parties agree, however, that, as a general rule, the ultimate consumer will bear most, if not all, transport costs in the price paid for the cargo and that others in the supply chain, such as a wholesaler or retailer, may absorb some part of the cost some part of the time."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "In the DAS case, the conduct in question occurred on only two occasions, about three weeks apart. The ACCC accepts that the two episodes comprise a single course of conduct. But Emirates acknowledges that it was a very serious contravention. It is rightly described in the joint submissions as an attempt to fix a competitor’s entire price (not merely surcharges) on the Australian exports, primarily mining equipment, to various African cities. Emirates sought to place pressure on DAS to induce it to agree not to undercut Emirates on price. Emirates was in a position of strength in relation to DAS as it relied on Emirates to transport cargo out of Perth. Moreover, in this case, very senior management were involved."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Emirates’s annual revenue under its special prorate agreement with DAS was approximately A$280,000 per annum at around the time they attempted to reach an understanding. Its revenue from the carriage of air freight on its own account from Perth to African ports serviced by DAS was approximately A$730,000 per annum."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "There can be no doubt that the conduct in question was in each case deliberate. It is not necessary that Emirates be shown to have known that the conduct involved a contravention of the law."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Whatever compliance policies Emirates had in place, they were evidently inadequate to prevent the conduct occurring."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Against these objective considerations, there are a number of facts that tell in Emirates’s favour and mitigate the severity of the penalties that might otherwise be imposed."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "First, as I have already mentioned, the Court has not previously found against Emirates. Nor has the ACCC previously instituted proceedings against it."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Secondly, since the events in question the parties state that Emirates’s compliance policies have been “significantly revised”. I was not informed about the nature of the revision save that “a substantially revised compliance manual has been prepared” and there is provision in it for “face-to-face” staff education on compliance with relevant competition laws “in order to instil a culture of compliance”."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "Thirdly, Emirates participated through its legal representatives in a series of discussions with the ACCC, which culminated in the agreed resolution of the proceeding. Emirates also assisted the ACCC in preparing documents for the Court, including the statement of admissions. Were it not for that cooperation, the parties would have tied up the resources of the Court in a lengthy, complex and expensive hearing. In the result, the parties have been spared substantial costs and valuable Court time has been released. This result is obviously of considerable community benefit, both directly and indirectly. On the other hand, it is important to recognise that the cooperation was late in coming. The agreement was only reached last month, by which time the proceeding had been listed for trial and most of the evidence (including all the ACCC’s evidence in chief and Emirates’s evidence) had been served."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "The final consideration is the question of parity. A schedule of the decided cases involving air cargo arrangements or understandings is annexed to the judgment of Emmett J in the most recent of them, the Malaysia case. I have had regard to each of those decisions. It is abundantly clear that the penalties in this case have been agreed in the light of them. The highest penalties (totalling $20 million) were levied on Qantas after it admitted (before proceedings were instituted) that over a six year period, wherever it could, it imposed fuel surcharges pursuant to global collusive understandings: Australian Competition and Consumer Commission v Qantas Airways Ltd (2008) 253 ALR 89. Those penalties reflected a very substantial discount for early admissions and cooperation. But at approximately 24% of air freight to and from Australia (based on weight) Qantas’s market share is far higher than Emirates’s and the conduct in that case occurred over a longer period of time. Cargolux was fined $5 million for conduct involving an arrangement to fix fuel surcharges with Lufthansa and Air France/KLM but there the period involved was shorter (a little under three years) and the company’s market share was much smaller (between 1 and 2%). See Australian Competition and Consumer Commission v Cargolux Airlines International SA (2009) ATPR ¶42-282. Korean Air Lines, which carried about 2% of the air freight to and from Australia, received a penalty of $5.5 million: Australian Competition and Consumer Commission v Korean Air Lines Co Ltd [2011] FCA 1360 (Stone J). The penalty imposed on Malaysia Airlines, which carried about 6% of the air freight to and from Australia in the relevant period, was $6 million. In these last two cases admissions were made after the institution of proceedings and the closure of pleadings."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "This case is similar to Malaysia. The conduct in both cases concerns the Indonesia Understandings. The market share is similar. Each of the two airlines carried a comparable quantity of freight to and from Australia. In the Malaysia case it was 6%, here it is 5%. In both cases there was a level of cooperation with the regulator but admissions were made well after the institution of proceedings and, indeed, after the pleadings had closed. In both cases, changes were made to compliance policies after the contraventions had taken place. There are, however, three significant differences. First, although the admissions were late in Malaysia, they were made six months earlier than in this case, before the airline had put on any evidence. Secondly, the period over which the conduct took place was eight months longer here. Thirdly, in the Malaysia case the contravening conduct occurred only in Indonesia. The penalties for the Indonesia contraventions totalled $6 million. Given these differences, a $7 million penalty for the Indonesia contraventions in this case is appropriate."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "As for the DAS Attempt, none of the previous decisions is really analogous. Each of them is concerned with surcharges imposed pursuant to arrangements made outside Australia. Although this was but an attempt and was only bilateral, it took place in Australia and had a more direct impact on Australian commerce. It was a blatant breach of the Act. In these circumstances a penalty of $3 million is not inappropriate."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Should the proposed penalties be imposed?"
+    ],
+    "text": "It does not matter whether, absent the agreements, I might have come to different conclusions. What matters is whether I am satisfied that the amounts proposed are within the proper range. Of that I am."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "In short, as the parties rightly submitted, it is a very serious matter for a major international airline to enter (or, I might add, attempt to enter) into a price fixing arrangement with a competitor. The seriousness with which the community views this conduct is reflected in the magnitude of the maximum penalty for which the Act provides. The conduct was intended to affect the price of Australian exports and could have harmed the competitiveness of those exports in foreign markets. Credit should be given to Emirates for the steps it has taken to prevent this kind of conduct from occurring, and for its cooperation with the ACCC resulting in the agreements that have obviated the need for a hearing. But the delay in making the admissions would reduce the extent of the discount which would have been appropriate had they been made before the ACCC commenced proceedings or at an earlier time before substantial costs had been incurred."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "For all these reasons, the agreed penalties should be imposed. I also accept that this is a proper case in which to order injunctive relief under s 80. I therefore make the orders in the agreed short minutes of order signed by the parties and dated 19 September 2012."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-eight (58) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Katzmann.",
+ "associate": null,
+ "dated": "2012-10-18",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "c89bbb2f0b8f099857037110bc170f21a465f3ecdeebe7abbed12ad0bd2d0f48",
+ "markdown_file": "data/extracted/2012/2012FCA1108.md"
+}

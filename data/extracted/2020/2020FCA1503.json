@@ -1,0 +1,262 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2020/2020FCA1503.docx",
+ "metadata": {
+  "citation": "[2020] FCA 1503",
+  "name": "TX Australia Pty Limited v Australian Competition and Consumer Commission (No 2)",
+  "court": "FCA",
+  "year": 2020,
+  "number": 1503,
+  "date_of_judgment": "2020-10-19",
+  "file_numbers": [
+   "NSD330/2020"
+  ],
+  "judges": [
+   "JAGOT J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2020-09-18",
+  "number_of_paragraphs": 10,
+  "catchwords": [
+   "COSTS – application by intervener for unsuccessful party to cover costs of proceeding or alternatively costs of notice to produce – application to intervene allowed on the basis intervener would bear own costs – intervener’s argument in proceedings no different to successful party’s – compliance with notice to produce part obligation as intervener – application dismissed."
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth)"
+  ],
+  "cases_cited": [
+   "CHF16 v Minister for Immigration and Border Protection (No 2) [2017] FCAFC 215; (2017) 257 FCR 161",
+   "Corporate Affairs Commission v Bradley [1974] 1 NSWLR 391",
+   "Liverpool City Council v Weir (1984) 53 ALR 77",
+   "O’Keeffe Nominees Pty Ltd v BP Australia Ltd (1995) 55 FCR 591 at 597",
+   "TX Australia Pty Limited v Australian Competition and Consumer Commission [2020] FCA 1100",
+   "Westpac v Gibbons (No 4) [2012] SASC 80"
+  ],
+  "parties": [
+   {
+    "name": "TX AUSTRALIA PTY LIMITED ACN 086 979 339",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NETWORK TEN (SYDNEY) PTY LTD ACN 008 664 962",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "NETWORK TEN (MELBOURNE) PTY LTD ACN 008 664 953 (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Herbert Smith Freehills"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Intervener",
+    "name": "Minter Ellison Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2020/2020fca1503",
+  "portal_file_numbers": [
+   "NSD330/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2020-10-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 330 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "JAGOT J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 October 2020"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – application by intervener for unsuccessful party to cover costs of proceeding or alternatively costs of notice to produce – application to intervene allowed on the basis intervener would bear own costs – intervener’s argument in proceedings no different to successful party’s – compliance with notice to produce part obligation as intervener – application dismissed."
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "CHF16 v Minister for Immigration and Border Protection (No 2) [2017] FCAFC 215; (2017) 257 FCR 161\nCorporate Affairs Commission v Bradley [1974] 1 NSWLR 391\nLiverpool City Council v Weir (1984) 53 ALR 77\nO’Keeffe Nominees Pty Ltd v BP Australia Ltd (1995) 55 FCR 591 at 597\nTX Australia Pty Limited v Australian Competition and Consumer Commission [2020] FCA 1100\nWestpac v Gibbons (No 4) [2012] SASC 80"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "10"
+  },
+  {
+   "label": "Date of last submission/s",
+   "value": "18 September 2020"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Herbert Smith Freehills"
+  },
+  {
+   "label": "Solicitor for the Intervener",
+   "value": "Minter Ellison Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD330/2020",
+   "parties": [
+    {
+     "name": "TX AUSTRALIA PTY LIMITED ACN 086 979 339",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NETWORK TEN (SYDNEY) PTY LTD ACN 008 664 962",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "NETWORK TEN (MELBOURNE) PTY LTD ACN 008 664 953 (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "JAGOT J"
+   ],
+   "date": "2020-10-19",
+   "date_raw": "19 October 2020",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application filed by BAI Communications Pty Limited dated 21 August 2020 be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "BAI Communications Pty Limited pay the applicant’s costs of the interlocutory application as agreed or taxed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The outstanding issue in this matter concerns the costs of the intervener, BAI Communications Pty Limited (BA). On 5 August 2020 I dismissed the application for judicial review brought by TX Australia Pty Limited (TXA) and ordered that TXA pay the costs of the respondents, the Australian Competition and Consumer Commission and the Ten parties, but made no costs order in relation to BA: TX Australia Pty Limited v Australian Competition and Consumer Commission [2020] FCA 1100. By an interlocutory application dated 21 August 2020 BA seeks an order that TXA pay BA’s costs of the proceeding. Alternatively, it seeks an order that TXA pay BA’s costs of the application to set aside a notice to produce and the costs of complying with that notice.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "BA submitted:\nan intervener in proceedings becomes the equivalent of a party to the proceedings with all the benefits and burdens of that status: Corporate Affairs Commission v Bradley [1974] 1 NSWLR 391 at 396 (Hutley JA);\nthe Court has power to award costs to an intervener pursuant to s 43(1) of the Federal Court of Australia Act 1976 (Cth) (FCA): O’Keeffe Nominees Pty Ltd v BP Australia Ltd (1995) 55 FCR 591 at 597 (Spender J);\nthe award of costs is discretionary: FCA, s 43(2); and\nthe exercise of the discretion in favour of an intervener depends on the particular circumstances of the case: Westpac v Gibbons (No 4) [2012] SASC 80 at [10].",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "According to BA the circumstances of the present case justify an award of costs in BA’s favour:\nBA, and its role in the negotiations with TXA, was central to the allegations made by TXA;\nBA intervened “for the stated purpose of assisting the Court with submissions on the nature and scope of BA’s participation in the commercial negotiations and the access dispute [with TXA]”.\nTXA served on BA on 27 April 2020 a notice to produce thereby disclosing “its expectation that BA’s role in the negotiations would be a fact centrally in issue in the proceedings”;\nthe fact that the Court accepted BA’s contention that it was acting as Ten’s agent does not disentitle it from a costs order. TXA put that issue in dispute and BA intervened to contest that issue, in which respect BA was successful; and\nthe terms of BA’s intervention do not preclude the making of the costs order. The costs order of 21 April 2020 was limited to the costs of the intervention application.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Alternatively, BA seeks the costs of its application to set aside the notice to produce and its costs of complying with the notice. Following argument in relation to the notice to produce I ordered that the costs of the interlocutory application to set it aside be costs in the cause. According to BA this means that the costs of the interlocutory application were to follow the ultimate result. BA was ultimately successful. Further, the costs of complying with the notice to produce are ordinarily included in the successful party’s costs. BA submitted that the notice to produce to BA “was not styled as a subpoena to a third party” but that even if it had been BA would have been entitled to its reasonable costs of complying with the subpoena.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "TXA resisted any order for costs in favour of BA. According to TXA BA’s application involves a change of position in that:\n(a) BA sought leave to intervene on the basis that it would bear its own costs, but now seeks its costs; and\n(b) BA sought orders in relation to the costs of its unsuccessful application to set aside TXA’s notice to produce on the basis that, if TXA failed at final hearing, TXA should not have its costs of BA’s unsuccessful interlocutory application, but now BA seeks orders that TXA pay BA’s costs.\n(Emphasis in original).",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "TXA submitted:\nan intervener such as BA “cannot expect as of course that the unsuccessful party to the litigation in which he has intruded should bear the extra burden of his costs, even if his intervention was well intentioned and proved to be of assistance to the court”: Liverpool City Council v Weir (1984) 53 ALR 77 at 83;\nBA’s application to intervene sought an order for intervention on the basis that “BA to bear its own costs of and incidental to this Interlocutory Application and the proceeding”;\nin its written submissions in support of the application for leave to intervene BA asked the Court to grant it leave to intervene “subject to the condition that the parties and the intervener each bear its own costs of such intervention”;\nin any event, BA’s interest in the litigation was the same as that of the Ten parties and the Court does “not normally allow more than one set of costs to successful litigants where there is no possible conflict of interest between them in the presentation of their cases”: CHF16 v Minister for Immigration and Border Protection (No 2) [2017] FCAFC 215; (2017) 257 FCR 161 at [18];\nBA’s central contention, that it was a mere agent of Ten, was also Ten’s central contention; and\nawarding BA costs would result in TXA bearing the costs of “double representation that was not required for the case and in circumstances where BA is departing from the written basis on which it sought the Court’s favourable exercise of discretion to permit it to intervene in the first place.”",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "As to the notice to produce, TXA submitted:\nTXA successfully resisted the application to set aside the notice to produce and sought its costs accordingly;\nBA argued that if it succeeded ultimately that TXA should not have its costs of the interlocutory application, so that costs should be costs in the cause; and\nHaving chosen to intervene on the basis it did, BA ought not to be heard to argue that the notice to produce should be treated as though it were a subpoena.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "I accept TXA’s submissions. I do not consider that BA should be free now to depart from the position it adopted at the time it sought leave to intervene which was to the effect that it bear its own costs of the proceeding. Had it wished to reserve its position on costs BA could and should have done so clearly at the time it sought leave to intervene. Further, it is correct that BA made no argument different from that of the Ten parties. In these circumstances to require TXA to pay BA’s costs of the proceeding would work an injustice.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "I also do not consider that BA should have its costs of its application to set aside the notice to produce or compliance with the notice to produce. First, BA’s compliance with the notice to produce was part of its obligation as an intervener in the proceeding in circumstances where it was granted leave to intervene on the basis that it would bear its own costs of the proceeding. Second, BA’s application to set aside the notice to produce was unsuccessful so that in the ordinary course TXA might have expected to have an order for costs in its favour. No such order was made because, as BA pointed out, TXA might ultimately be unsuccessful. The fact that TXA was ultimately unsuccessful does not, however, mean that BA should obtain an order for costs in its favour given the basis upon which BA sought leave to intervene in the proceeding.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "For these reasons BA’s interlocutory application for costs should be dismissed, with costs.",
+    "judge": "JAGOT J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding ten (10) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Jagot.",
+ "associate": null,
+ "dated": "2020-10-19",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 330 of 2020\nRespondents\nFourth Respondent: | NETWORK TEN (BRISBANE) PTY LTD ACN 050 148 537\nFifth Respondent: | NETWORK TEN (ADELAIDE) PTY LTD ACN 007 577 666\nSixth Respondent: | NETWORK TEN (PERTH) PTY LTD ACN 009 108 614"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "fe01ab2799103f55c296693f5a1eff60ace9540ce356cf8a906f01c47eea55b8",
+ "markdown_file": "data/extracted/2020/2020FCA1503.md"
+}

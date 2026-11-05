@@ -1,0 +1,392 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2016/2016FCA0968.docx",
+ "metadata": {
+  "citation": "[2016] FCA 968",
+  "name": "Australian Competition and Consumer Commission v Cement Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2016,
+  "number": 968,
+  "date_of_judgment": "2016-08-17",
+  "file_numbers": [
+   "QUD295/2008"
+  ],
+  "judges": [
+   "GREENWOOD J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-08-11"
+  ],
+  "hearing_raw": "11 August 2016",
+  "last_submissions": "2016-08-12",
+  "number_of_paragraphs": 15,
+  "catchwords": [
+   "COMPETITION – consideration of a review of all of the orders made in the course of the proceedings relating to the suppression of information on grounds of confidentiality – consideration of s 50 of the Federal Court of Australia Act 1976 (Cth) which continues to govern some of the orders and ss 37AF, 37AG, 37AH and 37AJ of the Federal Court of Australia Act 1976 (Cth) – consideration of whether any of those orders ought to be extended and, if so, on what terms",
+   "PRACTICE AND PROCEDURE – consideration of the question of whether confidentiality orders made under s 50 of the Federal Court of Australia Act 1976 (Cth) which continues to govern some of the orders made in the proceedings ought to be extended and, if so, on what terms – consideration of whether orders made under s 37AG of the Federal Court of Australia Act 1976 (Cth) ought to be extended and, if so, on what terms"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth), ss 37AE, 37AF, 37AG, 37AH, 37AJ",
+   "Federal Court of Australia Act 1976 (Cth), s 50 as it stood prior to the repeal of s 50 by the Access to Justice (Federal Jurisdiction) Amendment Act 2012 (Cth) and its continuing operation by Schedule 2, clause 12(1), of that Act"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "CEMENT AUSTRALIA PTY LTD ACN 104 053 474 (and others named in the Schedule)",
+    "role": "First Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr M Hodge"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First to Fifth Respondents",
+    "name": "Ms R Higgins and Mr C Bannan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First to Fifth Respondents",
+    "name": "Herbert Smith Freehills"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0968",
+  "portal_file_numbers": [
+   "QUD295/2008"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2016-08-17"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 295 of 2008"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "GREENWOOD J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "17 August 2016"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – consideration of a review of all of the orders made in the course of the proceedings relating to the suppression of information on grounds of confidentiality – consideration of s 50 of the Federal Court of Australia Act 1976 (Cth) which continues to govern some of the orders and ss 37AF, 37AG, 37AH and 37AJ of the Federal Court of Australia Act 1976 (Cth) – consideration of whether any of those orders ought to be extended and, if so, on what terms\nPRACTICE AND PROCEDURE – consideration of the question of whether confidentiality orders made under s 50 of the Federal Court of Australia Act 1976 (Cth) which continues to govern some of the orders made in the proceedings ought to be extended and, if so, on what terms – consideration of whether orders made under s 37AG of the Federal Court of Australia Act 1976 (Cth) ought to be extended and, if so, on what terms"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth), ss 37AE, 37AF, 37AG, 37AH, 37AJ\nFederal Court of Australia Act 1976 (Cth), s 50 as it stood prior to the repeal of s 50 by the Access to Justice (Federal Jurisdiction) Amendment Act 2012 (Cth) and its continuing operation by Schedule 2, clause 12(1), of that Act"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 August 2016"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "12 August 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "15"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr M Hodge"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First to Fifth Respondents",
+   "value": "Ms R Higgins and Mr C Bannan"
+  },
+  {
+   "label": "Solicitor for the First to Fifth Respondents",
+   "value": "Herbert Smith Freehills"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD295/2008",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "CEMENT AUSTRALIA PTY LTD ACN 104 053 474 (and others named in the Schedule)",
+     "role": "First Respondent"
+    }
+   ],
+   "judges": [
+    "GREENWOOD J"
+   ],
+   "date": "2016-08-17",
+   "date_raw": "17 AUGUST 2016",
+   "orders": [
+    {
+     "label": "A.",
+     "text": "On 16 May 2016, the Court made a series of final orders in disposition of the principal proceeding including Order 22 in these terms:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Having regard to the circumstance that throughout the course of the proceedings the Court made a number of Orders directing that particular information of the respondents and other parties responding to subpoenas be regarded as confidential (such as market sensitive data concerning the prices charged by trade rivals and other such data) and at least some of that information is likely to be no longer confidential, the applicant and the first to fifth respondents are directed to submit to the Court a schedule identifying each such confidentiality order made during the course of the proceedings, by date and subject matter, and to the extent that those parties cannot agree the content of the schedule, the applicant and the first to fifth respondents are directed to submit their respective versions of the schedule to the Court for the purpose of determining whether any one or more of the Orders should be varied or discharged.",
+     "level": 0
+    },
+    {
+     "label": "B.",
+     "text": "Pursuant to Order 22 made on 16 May 2016, the parties submitted a document setting out the confidentiality orders made over evidence relied upon in the proceeding (Schedule A) and confidentiality orders made over material discovered or produced on subpoena in the proceeding (Schedule B). The corporate respondents also submitted a document called “Appendix 1” by which they identify the basis for a claim to maintain the relevant confidentiality order in relation to identified material, cross-referenced to the relevant order and in which they identify claims to confidentiality no longer maintained. The corporate respondents also submitted a document called “Appendix 2” which sets out all of the relevant orders making provision for confidentiality, marked up so as to indicate changes proposed to those orders.",
+     "level": 0
+    },
+    {
+     "label": "C.",
+     "text": "As to the claim of the corporate respondents to maintain confidentiality in respect of aspects of those orders, the corporate respondents rely upon the affidavit of Mr Robert Douglas Davies, the Chief Executive Officer and Managing Director of the Cement Australia group of companies including the corporate respondents, affirmed on 15 July 2016. In that affidavit, Mr Davies deposes to facts upon which the corporate respondents seek to maintain the operation of orders made under s 50 of the Federal Court of Australia Act 1976 (Cth) concerning specific documents containing information falling into two categories, namely, “MFN Information” or “Long Term Strategy Information”. At para 23 of his affidavit, Mr Davies identifies the features of the “MFN Information” which would require the relevant orders to remain on foot. At paras 24 to 27, Mr Davies identifies the features of the “Long Term Strategy Information” which would require the relevant orders to remain in place.",
+     "level": 0
+    },
+    {
+     "label": "D.",
+     "text": "The evidence of Mr Davies is not contradicted.",
+     "level": 0
+    },
+    {
+     "label": "E.",
+     "text": "The applicant does not contend that the orders giving effect to the amendments to the earlier orders ought not to be made.",
+     "level": 0
+    },
+    {
+     "label": "F.",
+     "text": "The proposed amendments to the orders to the extent that the orders will continue to maintain the confidentiality of particular information, contemplate that the relevant information will be suppressed until 4 November 2024, having regard to the evidence of Mr Davies.",
+     "level": 0
+    },
+    {
+     "label": "G.",
+     "text": "Since amending the orders to provide for the suppression of information until 4 November 2024 has the effect of extending the orders by eight years, the Court, in the exercise of supervision of its interlocutory processes and the supervision of suppression orders, has elected to review the continuing operation of the orders in three years’ time so as to be satisfied that a proper basis subsists for the continuing operation of the orders.",
+     "level": 0
+    },
+    {
+     "label": "H.",
+     "text": "Accordingly, having regard to para G above, the orders to be made today contemplate that the proceedings will be listed on or about 12 August 2019 for the purpose of reviewing whether a proper basis subsists for the continuing operation of the suppression orders.",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "On the ground that it is necessary to prevent prejudice to the administration of justice within the meaning of s 37AG(1)(a) of the Federal Court of Australia Act 1976 (Cth) (the “FCA Act”), and in accordance with s 37AF of the FCA Act and r 39.04 of the Federal Court Rules 2011 (the “FCA Rules”), the orders made on 14 November 2013 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on pp 2-3 of the attached Schedule of Orders, but otherwise remain in force.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "On the ground that it is necessary to prevent prejudice to the administration of justice in accordance with s 50 of the FCA Act (as it stood before 12 December 2012), and in accordance with cl 12(1) of Schedule 2 to the Access to Justice (Federal Jurisdiction) Amendment Act 2012 (Cth) and r 39.04 of the Federal Court Rules 2011:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "The orders made on 8 October 2010 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on p 7 of the attached Schedule of Orders, but otherwise remain in force until 4 November 2024 or earlier order.",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "The orders made on 22 November 2010 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on pp 12-16 of the attached Schedule of Orders, but otherwise remain in force until 4 November 2024 or earlier order.",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "The orders made on 18 April 2011 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on p 22 of the attached Schedule of Orders, but otherwise remain in force until 4 November 2024 or earlier order.",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "The Orders made on 18 May 2011 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on p 25 of the attached Schedule of Orders, but otherwise remain in force until 4 November 2024 or earlier order.",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "The Orders made on 28 November 2011 regarding suppression of information confidential to the Corporate Respondents be varied in accordance with the marked up amendments depicted on p 29 of the attached Schedule of Orders, but otherwise remain in force until 4 November 2024 or earlier order.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The orders made on 4 November 2014 and described as “No. 3 of 8” be vacated to the extent those orders are depicted as crossed out on pp 33-34 of the attached Schedule of Orders.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The orders made on 7 April 2011, 11 May 2011 and 6 June 2014, and the orders made on 4 November 2014 and described as “No. 4 of 8” be vacated.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The proceedings be listed on 12 August 2019 or such other date advised by the Court not less than three years from the date of this order for the purpose of reviewing whether the basis for the orders regarding suppression of information confidential to the Corporate Respondents remains.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "There be no order as to costs in relation to the hearing on 11 August 2016.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Pursuant to s 23 and s 37P of the Federal Court of Australia Act 1976 (Cth), rule 1.32 and rule 1.36 of the Federal Court Rules 2011 and with the consent of the parties, these orders and the reasons for judgment in support of these orders are made and published from Chambers.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT NOTES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 29 April 2016, the Court published a judgment in relation to further aspects of the principal proceeding: Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2016] FCA 453.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "On 16 May 2016, the Court made a series of final orders in disposition of the principal proceeding including Order 22 in these terms:\nHaving regard to the circumstance that throughout the course of the proceedings the Court made a number of Orders directing that particular information of the respondents and other parties responding to subpoenas be regarded as confidential (such as market sensitive data concerning the prices charged by trade rivals and other such data) and at least some of that information is likely to be no longer confidential, the applicant and the first to fifth respondents are directed to submit to the Court a schedule identifying each such confidentiality order made during the course of the proceedings, by date and subject matter, and to the extent that those parties cannot agree the content of the schedule, the applicant and the first to fifth respondents are directed to submit their respective versions of the schedule to the Court for the purpose of determining whether any one or more of the Orders should be varied or discharged.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Pursuant to Order 22 made on 16 May 2016, the parties submitted a document setting out the confidentiality orders made over evidence relied upon in the proceeding (Schedule A) and confidentiality orders made over material discovered or produced on subpoena in the proceeding (Schedule B). The corporate respondents also submitted a document called “Appendix 1” by which they identify the basis for a claim to maintain the relevant confidentiality order in relation to identified material, cross-referenced to the relevant order and in which they identify claims to confidentiality no longer maintained. The corporate respondents also submitted a document called “Appendix 2” which sets out all of the relevant orders making provision for confidentiality, marked up so as to indicate changes proposed to those orders.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "As to the claim of the corporate respondents to maintain confidentiality in respect of aspects of those orders, the corporate respondents rely upon the affidavit of Mr Robert Douglas Davies, the Chief Executive Officer and Managing Director of the Cement Australia group of companies including the corporate respondents, affirmed on 15 July 2016. In that affidavit, Mr Davies deposes to facts upon which the corporate respondents seek to maintain the operation of orders made under s 50 of the Federal Court of Australia Act 1976 (Cth) (the “Federal Court Act”) concerning specific documents containing information falling into two categories, namely, “MFN Information” or “Long Term Strategy Information”. At para 23 of his affidavit, Mr Davies identifies the features of the “MFN Information” which would require the relevant orders to remain on foot. At paras 24 to 27, Mr Davies identifies the features of the “Long Term Strategy Information” which would require the relevant orders to remain in place.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Section 50 of the Federal Court Act was repealed by the Access to Justice (Federal Jurisdiction) Amendment Act 2012 (Cth) (the “Amending Act”). By that Amending Act, a new Part VAA was introduced into the Federal Court Act. That new part came into force on 12 December 2012. Notwithstanding the repeal of the former s 50 of the Federal Court Act, that section continues to have effect in relation to orders made in these proceedings. Clause 12(1) of Schedule 2 to the Amending Act provides that the former s 50 continues to apply on and after 12 December 2012 in relation to a proceeding heard by the Court prior to the commencement of the Amending Act. As to s 50, the High Court said this in Hogan v Australian Crime Commission (2010) 240 CLR 651 at [29] and following:\nThe construction of s 50\n29 It has been assumed, no doubt correctly, that an order made under s 50 of the Federal Court Act may be made until further order and, in any event, may be vacated if the continuation of the order no longer appears to the Court to be necessary in order to prevent prejudice to the administration of justice or the security of the Commonwealth. As a general proposition, a court remains in control of its interlocutory orders and a further order will be appropriate, for example, where new facts and circumstances appear or are discovered, which render unjust the enforcement of the existing order.\n30 As it appears in s 50, “necessary” is a strong word. Hence the point made by Bowen CJ in Australian Broadcasting Commission v Parish, that the collocation of necessity to prevent prejudice to the administration of justice and necessity to prevent prejudice to the security of the Commonwealth “suggests Parliament was not dealing with trivialities”. Further, …: (a) s 50 is an example of a provision authorising the Federal Court to make orders for the exercise of its jurisdiction other than in open court as mandated by s 17(1); and (b) “the administration of justice” spoken of in s 50 is that involved in the exercise by the Federal Court of the judicial power of the Commonwealth; this is a more specific discipline than broader notions of the public interest.\n31 It is insufficient that the making or continuation of an order under s 50 appears to the Federal Court to be convenient, reasonable or sensible, or to serve some notion of the public interest, still less that, as the result of some “balancing exercise”, the order appears to have one or more of those characteristics.\n32 If it appears to the Federal Court, on the one hand, to be necessary to make a particular order forbidding or restricting the publication of particular evidence or the name of a party or witness, in order to prevent either species of prejudice identified in s 50, or, on the other hand, that that necessity no longer supports the continuation of such an order, then the power of the Federal Court under s 50 is enlivened. The appearance of the requisite necessity (or supervening cessation of it) having been demonstrated, the Court is to implement its conclusion by making or vacating the order. The expression in s 50 “may … make such order” is to be understood in this sense.\n[emphasis added; citations omitted]",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The evidence of Mr Davies in relation to the features of the “MFN Information” which would require the relevant orders to remain on foot and the matters at paras 24 to 27 of that affidavit which identify the features of the “Long Term Strategy Information” which would require the relevant orders to remain in place, is not contradicted.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Moreover, the applicant does not contend that the orders giving effect to the amendments to the earlier orders ought not to be made. Although “necessity” is a strong word, I am satisfied on the basis of the evidence of Mr Davies that it remains necessary to make orders forbidding or restricting the publication of particular evidence and particular information, as described by Mr Davies. Further, there is no suggestion that any new or further facts have emerged which would operate to alter the basis upon which the earlier orders were made. Thus, the Court is to implement its conclusion by making the proposed orders for the continuation of the confidentiality of the relevant information.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The proposed amendments to the orders, to the extent that the orders will continue to maintain the confidentiality of particular information, contemplate that the relevant information will be suppressed until 4 November 2024. Since amending the orders to provide for the continuing suppression of information until 4 November 2024 has the effect of extending the orders by eight years, the Court, in the exercise of the supervision of its interlocutory processes and the supervision of suppression orders, in particular, will review the continuing operation of the orders in three years’ time so as to be satisfied that a proper basis subsists for the continuing operation of the orders.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Accordingly, the orders to be made today contemplate that the proceedings will be listed on or about 12 August 2019 for the purpose of reviewing whether a proper basis subsists for the continuing operation of the suppression orders.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Apart from the s 50 orders, other suppression orders were made under s 37AF of the Federal Court Act on the footing that the orders were necessary to prevent prejudice to the proper administration of justice as contemplated by s 37AG(1)(a). I am satisfied that it remains necessary so as to prevent prejudice to the proper administration of justice to continue the operation of those orders until 4 November 2024 subject to the Court exercising a review function in relation to those orders on or about 12 August 2019 in order to be satisfied that a proper basis subsists for the continuing operation of the suppression orders.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The affidavit of Mr Davies provides an evidential foundation upon which the Court can be satisfied of the continuation of the relevant orders. It is not necessary in these reasons to identify that evidential foundation in any detail. However, the MFN Information concerns information that sets out the basis on which Cement Australia calculates competitive rebates and pricing based on a MFN provision (a “Most Favoured Nation” provision) in arrangements with its shareholder customers; agreements which disclose the way in which competitive rebates and prices are calculated; spreadsheets which disclose the basis for the calculation of competitive rebates and pricing provided to shareholder customers (and their availability in particular locations); affidavits that record aspects of the operation of the MFN provisions and other matters.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Mr Davies says that this market sensitive information “remains current” and “remains on foot”. He adds this at para 23(b):\nThe information will continue to be relevant for the foreseeable future, because for so long as a particular shareholder remains a shareholder of Cement Australia, the Framework Agreement … obliges Cement Australia to supply that shareholder customer on terms … [of the] “MFN provisions”. That is, I expect that for the foreseeable future and at least until 4 November 2024 (when the November 2014 “3 of 8” orders expire), Cement Australia’s Fly Ash Supply Agreements and Cement Supply Agreements with its shareholder customers will comprise MFN provisions that are identical, or substantially similar, to the specific MFN provisions disclosed in the documents described in Amended Appendix 1.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "The “Long Term Strategy Information” is contained in business plans and documents called “Finplans” presented to the Cement Australia Board which contain long term forecasting of revenue and volume and detailed information regarding the cost bases for Cement Australia’s entire business undertaking, not just its fly ash business. I particularly note the features of the Long Term Strategy Information set out at para 26 of the affidavit of Mr Davies. It is not necessary to recite those features in these reasons. Nevertheless, the documents reflect the underlying cost structures and the composition of the cost base. Plainly enough, the information would be market sensitive and valuable to trade rivals of the Cement Australia entities.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Because the information in respect of the s 50 orders and the s 37AF orders involves the preservation of the confidentiality of market sensitive data which would be advantageous to trade rivals of the Cement Australia group, it is necessary in the prevention of prejudice to the proper administration of justice to exercise the power under s 50 and s 37AF to make the necessary suppression orders.",
+    "judge": "GREENWOOD J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Accordingly, I make the orders recited in the orders section accompanying these reasons for judgment which explain the basis for the making of the orders. The parties have submitted a Schedule of Orders showing the various changes made to each order. I attach that schedule to these reasons as Schedule 1. For the sake of completeness, a copy of the orders made today when uplifted to the Commonwealth Courts Portal will also contain as an attachment (within the document) Schedule 1 to these reasons.",
+    "judge": "GREENWOOD J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifteen (15) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Greenwood.",
+ "associate": null,
+ "dated": "2016-08-17",
+ "schedules": [
+  {
+   "title": "SCHEDULE 1",
+   "text": ""
+  },
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "QUD 295 of 2008\nRespondents\nSecond Respondent: | CEMENT AUSTRALIA HOLDINGS PTY LTD ACN 001 085 561\nThird Respondent: | CEMENT AUSTRALIA (QUEENSLAND) PTY LTD FORMERLY QUEENSLAND CEMENT LTD ACN 009 658 520\nFourth Respondent: | POZZOLANIC ENTERPRISES PTY LTD ACN 010 367 898\nFifth Respondent: | POZZOLANIC INDUSTRIES PTY LTD ACN 010 608 947\nSixth Respondent: | CHRISTOPHER GUY LEON\nSeventh Respondent: | CHRISTOPHER STEPHEN WHITE"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "249cc156eb6c879a6cca994618a00116f5b27563d35c22dcdcb047f76d3cd6e4",
+ "markdown_file": "data/extracted/2016/2016FCA0968.md"
+}

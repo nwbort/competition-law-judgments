@@ -1,0 +1,1169 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2016/2016FCA0504.docx",
+ "metadata": {
+  "citation": "[2016] FCA 504",
+  "name": "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union",
+  "court": "FCA",
+  "year": 2016,
+  "number": 504,
+  "date_of_judgment": "2016-05-11",
+  "file_numbers": [
+   "VID698/2014"
+  ],
+  "judges": [
+   "MIDDLETON J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-04-29",
+   "2016-05-09"
+  ],
+  "hearing_raw": "29 April 2016, 9 May 2016",
+  "number_of_paragraphs": 105,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Alleged contraventions of the Competition and Consumer Act 2010 (Cth) – alleged contraventions of the Australian Consumer Law – stay of civil proceedings – criminal prosecution commenced – application by respondents for stay of civil proceedings until conclusion of criminal proceedings – application and ambit of McMahon v Gould guidelines – conduct forming basis of criminal charges substantially the same as contraventions alleged in civil proceeding."
+  ],
+  "legislation": [
+   "Australian Consumer Law",
+   "Australian Securities and Investments Commission Act 2001 (Cth)",
+   "Competition and Consumer Act 2010 (Cth)",
+   "Corporations Act 2001 (Cth)",
+   "Crimes Act 1958 (Vic)",
+   "Criminal Code (Cth)",
+   "Evidence Act 1995 (Cth)",
+   "Federal Court of Australia Act 1976 (Cth)",
+   "Sex Work Act 1994 (Vic)"
+  ],
+  "cases_cited": [
+   "Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 5) [2013] FCA 369",
+   "Australian Securities and Investments Commission v Craigside Company Ltd (2013) 93 ACSR 176",
+   "Australian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487",
+   "Brisbane South Regional Health Council v Taylor (1996) 186 CLR 541",
+   "Commissioner of the Australian Federal Police v Zhao (2015) 255 CLR 46",
+   "General Manager of the Fair Work Commission v Thomson [2013] FCA 380",
+   "Guglielmin v Trescowthick (No 3) (2005) 220 ALR 535",
+   "Harman v Secretary of State for the Home Department [1983] 1 AC 280",
+   "Lee v R (2014) 308 ALR 252",
+   "McMahon v Gould (1982) 7 ACLR 202",
+   "ML v Australian Securities and Investments Commission (2013) 276 FLR 1",
+   "R v Laurence [1982] AC 510",
+   "Websyte Corporation Pty Ltd v Alexander (No 2) [2012] FCA 562",
+   "X7 v Australian Crime Commission (2013) 248 CLR 92",
+   "Yuill v Spedley Securities Ltd (in liq) (1992) 8 ACSR 272"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JOHN SETKA",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "SHAUN MICHAEL REARDON",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr P Crutchfield QC with Mr N De Young"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr N Clelland QC with Ms PC Knowles"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Slater + Gordon Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0504",
+  "portal_file_numbers": [
+   "VID698/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2016-05-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 698 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "MIDDLETON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 May 2016"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Alleged contraventions of the Competition and Consumer Act 2010 (Cth) – alleged contraventions of the Australian Consumer Law – stay of civil proceedings – criminal prosecution commenced – application by respondents for stay of civil proceedings until conclusion of criminal proceedings – application and ambit of McMahon v Gould guidelines – conduct forming basis of criminal charges substantially the same as contraventions alleged in civil proceeding."
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Consumer Law\nAustralian Securities and Investments Commission Act 2001 (Cth)\nCompetition and Consumer Act 2010 (Cth)\nCorporations Act 2001 (Cth)\nCrimes Act 1958 (Vic)\nCriminal Code (Cth)\nEvidence Act 1995 (Cth)\nFederal Court of Australia Act 1976 (Cth)\nSex Work Act 1994 (Vic)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 5) [2013] FCA 369\nAustralian Securities and Investments Commission v Craigside Company Ltd (2013) 93 ACSR 176\nAustralian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487\nBrisbane South Regional Health Council v Taylor (1996) 186 CLR 541\nCommissioner of the Australian Federal Police v Zhao (2015) 255 CLR 46\nGeneral Manager of the Fair Work Commission v Thomson [2013] FCA 380\nGuglielmin v Trescowthick (No 3) (2005) 220 ALR 535\nHarman v Secretary of State for the Home Department [1983] 1 AC 280\nLee v R (2014) 308 ALR 252\nMcMahon v Gould (1982) 7 ACLR 202\nML v Australian Securities and Investments Commission (2013) 276 FLR 1\nR v Laurence [1982] AC 510\nWebsyte Corporation Pty Ltd v Alexander (No 2) [2012] FCA 562\nX7 v Australian Crime Commission (2013) 248 CLR 92\nYuill v Spedley Securities Ltd (in liq) (1992) 8 ACSR 272"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "29 April 2016, 9 May 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "105"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr P Crutchfield QC with Mr N De Young"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr N Clelland QC with Ms PC Knowles"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Slater + Gordon Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID698/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JOHN SETKA",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "SHAUN MICHAEL REARDON",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "MIDDLETON J"
+   ],
+   "date": "2016-05-11",
+   "date_raw": "11 MAY 2016",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The application that the part of this proceeding not stayed by order 1 of the Orders of 3 February 2016 be stayed until the conclusion of the criminal proceeding against Mr Setka and Mr Reardon for blackmail contrary to s 87 of the Crimes Act 1958 (Vic), including any appeals made in that criminal proceeding, be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "All costs of and incidental to the orders made on 4 April 2016, the respondents’ interlocutory application dated 11 April 2016 and the respondents’ interlocutory application for a stay dated 4 April 2016, be reserved.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "In this proceeding, the applicant (‘ACCC’) seeks declarations, injunctive relief and pecuniary penalties under s 80 and s 76 of the Competition and Consumer Act 2010 (Cth) (‘CCA’) and s 224 of the Australian Consumer Law (‘ACL’) in Sch 2 to the CCA against the first respondent (‘CFMEU’) and two officers of the CFMEU, the second respondent (‘Mr Setka’) and the third respondent (‘Mr Reardon’) (collectively called the ‘individual respondents’).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "The ACCC alleges in this proceeding that:\n(1) the CFMEU contravened s 45E(2) of the CCA and s 50 of the ACL by engaging in certain conduct at a meeting in North Melbourne attended by Mr Setka and Mr Reardon and Mr Paul Dalton and Mr Peter Head of Boral on 23 April 2013, and that Mr Setka and Mr Reardon were directly or indirectly knowingly concerned in or a party to the s 50 contravention (‘April meeting conduct’); and\n(2) the CFMEU contravened s 45D(1) of the CCA by engaging in certain conduct in concert with shop stewards at 12 construction sites in Melbourne – in summary, it is alleged that the CFMEU gave instructions to shop stewards and organisers not to allow Boral to supply concrete to construction sites and certain shop stewards implemented the ban against Boral at those sites (‘s 45D conduct’).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "This proceeding was commenced on 20 November 2014.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "Relevantly in relation to the April meeting conduct, it is alleged at [63]–[65] of the Replacement Statement of Claim filed on 13 February 2015 (the ‘Statement of Claim’) that:\n63. On the morning of 23 April 2013, [Paul] Dalton telephoned [Shaun] Reardon and requested a meeting with him; and Reardon agreed to meet with Dalton and [Peter] Head.\n64. At about 10am on 23 April 2013, Dalton and Head met with [John] Setka and Reardon at the Auction Rooms cafe in Errol Street, North Melbourne (April Meeting).\n65. During the April Meeting:\n65.1 Setka, in the presence of Reardon, said to Dalton and Head words to the effect that:\n65.1.1 the CFMEU was “at war with Grocon”;\n65.1.2 the CFMEU wanted to cut off Grocon’s concrete supply;\n65.1.3 if Boral did not cooperate, the CFMEU would:\n(a) target Boral’s concrete delivery trucks;\n(b) target Boral’s concrete hatchers for membership;\n65.1.4 the CFMEU would be prepared to facilitate Boral stopping supply to Grocon by blockading Boral’s plants.\n65.2 Reardon, in the presence of Setka, said to Dalton and Head words to the effect that:\n65.2.1 the CFMEU was going to focus on Boral;\n65.2.2 all Boral had to do was to stop supply for Grocon for two weeks\n(collectively, the April meeting conduct).\n65.3 Dalton said to Setka and Reardon words to the effect that Boral would continue to supply Grocon.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "Relevantly, in relation to the s 45D conduct, allegations still relied upon are to be found at [3]-[4], [52]-[53], [55], [57]-[62] and [72]-[209] of the Statement of Claim.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "Taking [57]-[60] as an example, allegations are made by reference to the individual respondents as follows:\n57. On or about 14 February 2013, a CFMEU Shop Stewards' Meeting occurred at Trades Union Hall in Carlton, Victoria (February Trades Hall Meeting).\n58. The February Trades Hall Meeting was:\n58.1 addressed by Setka;\n58.2 addressed by Reardon; and\n58.3 attended by about 200 CFMEU members comprising Shop Stewards and CFMEU organisers.\n59. During the February Trades Hall Meeting:\n59.1 Setka said words to the effect that Boral was a “Grocon friendly supplier”; and\n59.2 the CFMEU gave an instruction to Shop Stewards and CFMEU organisers to not allow Boral to supply concrete to commercial construction sites in Metropolitan Melbourne (Ban Against Boral).\nParticulars\na. The Ban Against Boral instruction can be inferred from:\ni the existence of the dispute with Grocon referred to in paragraph 52 above at the time;\nii. the fact that Setka said words to the effect alleged in paragraph 59.1 above;\niii. the fact that the CFMEU subsequently engaged in the conduct referred to in paragraph 61 below; and\niv. the fact that Shop Stewards and CFMEU organisers subsequently engaged in the conduct referred to in paragraphs 75.2, 76.2, 86.2, 97.2, 107.2, 119.2, 121.2, 131.3, 132.2, 142.2, 142.4, 152.3, 163.2, 173.2, 173.3, 174.2, 184.2, 196 and 197 below.\n60. At all material times following the February Trades Hall Meeting:\n60.1 the CFMEU intended and expected that Shop Stewards and CFMEU organisers should implement the Ban Against Boral until further notice; and\n60.2 Shop Stewards and CFMEU organisers understood that they should implement the Ban Against Boral until further notice.\nParticulars\na. The above matters can be inferred from:\ni. the matters referred to in paragraphs 58 to 59 above;\nii. if a Shop Steward did not follow instructions given by the CFMEU, the Divisional Branch Management Committee could remove the endorsement of that Shop Steward;\niii. Shop Stewards understood that once decisions were announced at CFMEU Shop Stewards’ Meetings, the CFMEU expected that all Shop Stewards would act consistently with those decisions;\niv. the fact that Shop Stewards and CFMEU organisers subsequently engaged in the conduct referred to in paragraphs 75.2, 76.2, 86.2, 97.2, 107.2, 119.2, 121.2, 131.3, 132.2, 142.2, 142.4, 152.3, 163.2, 173.2, 173.3, 174.2, 184.2, 196 and 197 below.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "In the originating application various declarations are sought based upon the grounds stated in the Statement of Claim. No declaration is sought by reference to the individual respondents in relation to the s 45D conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "INTRODUCTION",
+     "The civil proceeding"
+    ],
+    "text": "So for instance, in relation to the Deer Park conduct, a declaration is sought as follows:\nDeer Park Conduct\n3. A declaration that, by:\n3.1 the CFMEU's introduction of the Ban Against Boral in circumstances where at all material times thereafter:\n3.1.1 the CFMEU intended and expected that Shop Stewards and CFMEU organisers should implement the Ban Against Boral until further notice; and\n3.1.2 Shop Stewards and CFMEU organisers understood that they should implement the Ban Against Boral until further notice; and\n3.2 Shop Steward Travers informing Anglo Italian that:\n3.2. it should not have been using Boral; and\n3.2.2 the CFMEU was not happy for Anglo Italian to use Boral at the Deer Park Site,\nthe CFMEU engaged in conduct in concert with Shop Steward Travers that hindered or prevented the acquisition of concrete by Anglo Italian from Boral Resources for the purpose, and would have had or would be likely to have had the effect, of causing substantial loss or damage to the business of Boral in contravention of section 45D(1) of the Act.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "INTRODUCTION",
+     "The criminal proceeding"
+    ],
+    "text": "On 6 December 2015, the individual respondents were charged with one count of blackmail contrary to s 87 of the Crimes Act 1958 (Vic). The charge-sheet alleges that the accused, at North Melbourne in the State of Victoria, on Tuesday 23 April 2013, with an intent to cause a loss to another, made an unwarranted demand with menaces of Mr Dalton and Mr Head. The meeting referred to in the charge-sheet is the same meeting which is the subject of the April meeting conduct in this proceeding. Undoubtedly, evidence will be led by the prosecutor of various matters other than the events of 23 April 2013 to prove the necessary element of intent.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "By consent order made on 3 February 2016, the Court ordered that the part of the proceeding for the relief sought in respect of the April meeting conduct be stayed until further order. This order broadly reflects the principle in s 225(2) of the ACL which provides:\nProceedings for an order under section 224 against a person in relation to a consumer protection breach are stayed if:\n(a) criminal proceedings are started or have already been started against the person for an offence; and\n(b) the offence is constituted by conduct that is substantially the same as the conduct alleged to constitute the consumer protection breach.\nThe proceedings for the order may only be resumed if the person is not convicted of the offence. Otherwise, the proceedings are dismissed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "The consent order made on 3 February 2016 had the effect that the ACCC’s case against the individual respondents in the proceeding is now stayed. The balance of the ACCC’s case in the proceeding that is not stayed by that consent order is the s 45D conduct, which is only brought against the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "The trial of this proceeding was initially listed to commence on 21 September 2015 with an estimated duration of six weeks. On the application of the respondents, the trial date was vacated and relisted, firstly for 10 November 2015 and then for 1 March 2016. On 3 February 2016, the trial date was again relisted to 26 September 2016 on an estimated duration of six weeks.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "Since 30 June 2015, the ACCC has filed and served 23 outlines of evidence and the respondents have filed and served six outlines of evidence. Only two of the ACCC’s outlines deal with the April meeting conduct – being the outlines of Mr Dalton and Mr Head of Boral who attended the April meeting with the individual respondents. The balance of the ACCC’s outlines concern the s 45D conduct. The respondents’ outlines of evidence do not include outlines from any employee or officer of the CFMEU, or from Mr Setka or Mr Reardon. This does not mean they may not be called to give evidence by the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "All the respondents now seek a stay of the remainder of the proceeding against the CFMEU. The stay is sought on two grounds:\n(1) that the Court should not make declarations of contravention in respect of issues that are to be determined in the criminal jurisdiction of the County Court or Supreme Court of Victoria, unless the failure to do so would result in irreparable injury, in accordance with the principles set out in Australian Securities and Investments Commission v HLP Financial Planning (Aust) Pty Ltd (2007) 164 FCR 487 (‘HLP’); and\n(2) that the balancing of justice between the parties favours a stay of the civil proceedings, in accordance with the principles set out in McMahon v Gould (1982) 7 ACLR 202 (‘McMahon’).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "INTRODUCTION",
+     "Stay already made in civil proceeding"
+    ],
+    "text": "The respondents also seek to have the hearing listed for 26 September 2016 adjourned, relying on general case management principles, to which I will return.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "It is necessary to describe the criminal proceeding. The hand-up brief in the criminal proceeding was served on the individual respondents on 2 February 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "The Prosecution’s Statement of Material Facts Relevant to the Charge (‘Prosecution Summary’) in the criminal proceeding, when compared with the Statement of Claim in the civil proceeding, reveals that there is a very substantial overlap in the alleged facts that the ACCC will now rely on in the civil proceeding, and that the Prosecution will rely on in the criminal proceeding. The overlap in alleged facts may be summarised as follows:\n(1) During mid to late 2012, the CFMEU had been engaged in a long running industrial dispute with Grocon (as the ACCC also alleges in paragraph 52 of the Statement of Claim);\n(2) Boral is the exclusive supplier of wet concrete to Grocon in Victoria (as the ACCC also alleges in paragraph 25 of the Statement of Claim);\n(3) As a result of the CFMEU’s dispute with Grocon, CFMEU officials implemented a ban on the use of Boral concrete across CFMEU-controlled union sites in Victoria (as the ACCC also alleges in paragraphs 59 and 60 of the Statement of Claim and in paragraphs 77, 87, 98, 108, 120, 133, 143, 153, 164, 175, 185 and 198, which allege the implementation of the ‘ban’ at each of the specific sites);\n(4) Mr Setka had the view that Boral was a Grocon-friendly supplier (as alleged in paragraph 59.1 of the Statement of Claim);\n(5) The CFMEU determined to focus on Boral’s safety record as a method to force them to comply with their demands (as suggested in paragraphs 61 and 62 of the Statement of Claim);\n(6) The CFMEU made a decision to target Boral (as alleged by paragraph 59 of the Statement of Claim);\n(7) On 14 February 2013, a CFMEU shop stewards meeting was held and Mr Setka and Mr Reardon addressed the meeting. During the meeting, Mr Setka stated that the Grocon dispute was not over, Boral was Grocon-friendly and the Executive had decided that stewards should turn Boral trucks around (alleged in paragraphs 57 to 60 of the Statement of Claim);\n(8) The CFMEU created a safety truck checklist to give organisers and stewards the ability to interfere with Boral’s supply on sites and target Boral’s trucks by stopping them from delivering to sites, delaying concrete pours and generally persuade builders to shift away from Boral to other concrete suppliers . The checklist was implemented to disguise the CFMEU’s real intention, which was to stop Boral trucks and interfere with their business (as alleged in paragraphs 61 and 62 of the Statement of Claim);\n(9) As a result of the ‘ban’, customers discontinued utilising Boral as a supplier due to the risk of interference with their project timeframes and being shut down by the CFMEU. Evidence is to be called from customers in relation to all relevant sites;\n(10) As a result of Boral’s refusal to comply with this request, Boral has suffered losses (as outlined in paragraphs 14-15 of Mr Dalton’s outline of evidence).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "In addition, each of the declarations sought by the ACCC have the following conduct in common:\n(1) the CFMEU imposed the alleged ban against Boral;\n(2) the CFMEU, by Mr Setka and Mr Reardon, instructed shop stewards and organisers to implement the ban against Boral at the Trades Hall meeting on 14 February 2013;\n(3) the CFMEU instructed shop stewards and organisers to implement the ban against Boral by implementing the checklist instructions (as defined in paragraph 61 of the Statement of Claim);\n(4) this occurred in circumstances where Mr Setka and Mr Reardon, and thereby the CFMEU, intended and expected shop stewards and organisers to implement the ban against Boral;\n(5) shop stewards and organisers understood that they were to implement the ban against Boral, as a result of what Mr Setka said at Trades Hall; and\n(6) shop stewards communicated and implemented the ban against Boral at the various sites, as a result of what Mr Setka said at Trades Hall.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "However, as I have said, none of the declarations relevant to the s 45D conduct refer to the individual respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "The Magistrates’ Court of Victoria has listed the committal hearing in the criminal proceeding for 2 November 2016, for an estimate of 13 days.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "SERVICE OF HAND-UP BRIEF IN CRIMINAL PROCEEDING"
+    ],
+    "text": "As I have already indicated, the trial of the remainder of the civil proceeding against the CFMEU is listed to commence on 26 September 2016, for an estimate of six weeks. This would finish some four days before the committal hearing begins, although the ACCC considers that the estimate of six weeks for the remainder of the civil proceeding is perhaps generous.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "At a hearing of the stay application on 29 April 2016 (which was adjourned until 9 May 2016), I indicated to the parties that irrespective of any stay application, I was concerned about bifurcating the hearing of the proceeding concerning liability.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "This concern arises because at the conclusion of the criminal proceeding (no matter what the outcome) the ACCC would or could seek to pursue its case against the CFMEU for the April meeting conduct. Whilst this conduct is not the same as the s 45D conduct, they are inter-related contraventions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "It seemed to me very undesirable to have effectively two separate hearings in these circumstances. Similar considerations arose in Commissioner of the Australian Federal Police v Zhao (2015) 255 CLR 46 (‘Zhao’) where, of the two civil proceeding respondents, only one was subject to a criminal charge. The High Court (at [48]) said (where the first respondent was not subject to a criminal charge):\nSo far as concerns the first respondent, the Court of Appeal was correct to identify as relevant that to permit the forfeiture proceedings to proceed against her would produce two sets of proceedings, rather than one. The principle of the common law that seeks to prevent a multiplicity of actions has a long history and cannot be ignored.\n(Footnotes omitted.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "In response to the Court’s indication, the ACCC has undertaken that it will permanently abandon its allegations of contraventions concerning the April meeting conduct against all respondents, so that the only civil proceeding that will continue will be against the CFMEU, and only in relation to s 45D conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "This undertaking was conditional, as set out in a letter from the ACCC dated 3 May 2016 (the terms of which I do not need to recite). However, the effect of the ACCC’s undertaking is that so long as the civil trial proceeds to hearing before the end of March 2017 without any stay being granted, and provided the individual respondents remain subject to criminal proceedings, I can now consider the merits of the stay application on the basis that there will only be one (liability) hearing, that hearing being in respect of s 45D conduct against the CFMEU solely.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "In considering the stay application, I have proceeded on this basis.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "I should mention the respondents did criticise the effectiveness of the ACCC’s undertaking, on the basis that the undertaking may not reflect the actual proceedings the ACCC would seek to bring in the future, depending on appeals and the hearing of the matter before the end of March 2017.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "However, I should deal with the stay application on the basis of the probability of future events as I see them, and on the basis of the known present position. The content of the allegations against the respondents in the civil proceeding and in the criminal proceeding is set out in the Statement of Claim and the charge. The extent of overlap is apparent. Witness statements have been filed in this proceeding as mentioned above. A trial in the civil proceeding has been set down, commencing on 26 September 2016, and was listed some time ago (in February 2016). The parties have, or should have been preparing, on the basis the trial will proceed on that date. The committal proceeding commences on 2 November 2016. The respondents have known for some time of the committal date, as have their legal representatives. The parties have known that the civil proceeding, to be heard on 26 September 2016, will not proceed against the individual respondents. The parties now know that if the trial proceeds to hearing on 26 September 2016, there will only be one hearing on liability, at least on the assumption that the charges against the individual respondents are not withdrawn prior to that hearing. No party suggested to me this was likely or “on the cards”, to use an expression used in a similar but different context. We can expect that if committed, or directly presented, the criminal trial of the individual respondents will not occur until the end of 2017, but more likely the beginning of 2018.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "The respondents suggest that I should consider allowing time for any appeal process and a number of suggestions were raised as to appropriate courses of action to adopt to facilitate an orderly process for a hearing at a later date. However, I do not consider that I should decide the question of a stay by trying to assess the likelihood of any appeal or the appeal process in this Court or in the High Court of Australia. Any appeal court will consider the position it faces when the appeal is being heard, and assess the position in light of the circumstances that pertain at that time.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Introduction"
+    ],
+    "text": "The reality is that any stay would be for a potentially extensive period, and even if the Court tentatively listed the civil proceeding for some time next year, this may eventuate in another stay application. If the Court simply adjourned the hearing on 26 September 2016, without making any other listing, awaiting more information of the date of the criminal trial, this would involve further substantial delay. Nevertheless, I accept that if the respondents persuade me that the stay or adjournment is otherwise in the interests of justice and is needed to ensure a fair trial to all the respondents, both in this proceeding and in the criminal proceeding, then extensive delay in the hearing and determination of the civil proceeding may well be the price to pay.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Before going to the contentions of the parties, I make these general observations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "First, as I have said, if the trial is to proceed in September and October 2016, then on the basis of the ACCC’s undertaking, the only liability hearing that will take place will be that currently scheduled to commence on 26 September 2016 and then only in relation to s 45D conduct allegedly undertaken by the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Secondly, whilst apparent, it is important to recall that the CFMEU itself is not subject to the criminal proceeding confronting the individual respondents. Therefore, any principles of law concerning protection of the accused’s forensic advantages in not having to disclose his or her defence or approach to defending a criminal trial have no direct relevance to the CFMEU. Therefore, for instance, the principle that an accused person cannot be required to assist in the discharge of the onus of proof the prosecutor always bears has no direct relevance to the CFMEU as it is not subject to criminal proceedings. This is so even if one accepts at its highest the fundamental principle of the adversarial trial and its companion rule, as set out for example in Lee v R (2014) 308 ALR 252 at [32]–[33]:\nOur system of criminal justice reflects a balance struck between the power of the State to prosecute and the position of an individual who stands accused. The principle of the common law is that the prosecution is to prove the guilt of an accused person. This was accepted as fundamental in X7. The principle is so fundamental that \"no attempt to whittle it down can be entertained\" albeit its application may be affected by a statute expressed clearly or in words of necessary intendment. The privilege against self-incrimination may be lost, but the principle remains. The principle is an aspect of the accusatorial nature of a criminal trial in our system of criminal justice .\nThe companion rule to the fundamental principle is that an accused person cannot be required to testify. The prosecution cannot compel a person charged with a crime to assist in the discharge of its onus of proof. Recognising this, statute provides that an accused person is not competent to give evidence as a witness for the prosecution, a protection which cannot be waived.\n(Footnotes omitted.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Thirdly, the concern of the individual respondents is that in the course of the civil trial, with the giving of evidence or with the conduct of the trial by the CFMEU, the individual respondents will be at risk of disclosing their defences or tactical position. In this regard reliance was placed upon the comments of Kirby P in Yuill v Spedley Securities Ltd (in liq) (1992) 8 ACSR 272 at 274–5, and Hayne and Bell JJ in X7 v Australian Crime Commission (2013) 248 CLR 92 at [124]–[125]. In considering the individual respondents, the position needs to be addressed in circumstances where the individual respondents are going to give evidence, and in circumstances where they are not going to give evidence. Both of these circumstances raise different considerations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Again assuming that only the CFMEU is being proceeded against in the civil proceeding, and at one liability hearing commencing on 26 September 2016, the Court has many mechanisms at its disposal to protect the interests of the individual respondents. If either Mr Setka and Mr Reardon were to be called to give evidence, putting aside the powers of the Court to control its own proceedings and to control the manner and form of questions, protection is given under s 128 of the Evidence Act 1995 (Cth) (‘Evidence Act’) where a witness objects to giving particular evidence, or evidence on a particular matter, on the ground of self-incrimination. Depending on the circumstances, the individual respondents may not need to give the objected to evidence in any event (see s 128(3) of the Evidence Act), or if required to do so by the Court, are protected under s 128(7). It may well be that at the trial the Court will not require the individual respondents to give evidence. I accept that the protection under s 128(7) (if evidence is in fact given) will not prevent the provision of information about the individual respondents’ defence or evidence in the criminal trial, but the Court could prevent that information from reaching the prosecutor in the criminal proceeding. This civil proceeding is brought by an independent Commonwealth regulator, not an emanation of the Crown. The criminal proceeding is brought by the prosecutor in the State of Victoria. Orders could be made suppressing specific evidence of the individual respondents until after the criminal trial so that the prosecuting authorities do not become aware of it. I will return to comments made by the High Court in Zhao at [44] relating to the open court principle. Of course, the principles of Harman v Secretary of State for the Home Department [1983] 1 AC 280 will apply to information obtained in the course of the civil proceeding that is not otherwise disclosed in open court.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "However, be this as it may, if the individual respondents do not give evidence, I do not accept that there is any real risk that the manner in which the CFMEU defends the alleged s 45D conduct is likely to otherwise disclose potential defences of the individual respondents so as to interfere with the administration of justice in the criminal proceeding. Whilst the substantial overlap is apparent as described previously, the criminal charges and civil proceedings are quite different in nature and focus. The CFMEU will only be responding to the allegations made against it in the civil proceedings. The CFMEU is a corporate entity, and its controlling mind does not include the individual respondents. The CFMEU will decide the manner in which it runs its defence of this proceeding in relation to the s 45D conduct. I do not regard its decisions as being imputed to the individual respondents relevantly to disclosing their tactical approach or to defences they may seek to run in the criminal trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "In light of what I have said above, it seems very remote to assume that either the CFMEU or the individual respondents (even if they give evidence) will reveal to the prosecutor a potential defence (or tactical position) in the course of the civil proceeding against the CFMEU, being brought solely in relation to the s 45D conduct. In any event, this Court has all the mechanisms at its disposal to prevent this from occurring, if in fact there is any revealing in the first place of such information during the course of the civil trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Fourthly, it is convenient to mention certain comments of the High Court in Zhao referred to and relied upon by the respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "This was a case where proceedings were brought by the Commissioner of the Australian Federal Police (the ‘Commissioner’) for the forfeiture of property of the respondents as proceeds of crime, at a time when charges were pending against the second respondent. The offence and the circumstances pertaining to it which are relevant to the forfeiture proceedings were substantially identical to what was in issue in the criminal proceedings. The second respondent’s defence of the criminal proceedings could have been affected if he was obliged to defend the forfeiture proceedings before his criminal trial was held. The question before the court was whether the Court of Appeal of the Supreme Court of Victoria applied a correct approach in deciding that the forfeiture proceedings should be stayed pending the finalisation of the criminal proceedings.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "The facts were that the second respondent, Xing Jin, was charged with aiding and abetting another, one Mae Ja Kim, to deal with money or property that was the proceeds of crime contrary to the Criminal Code (Cth). The substantive offence from which the proceeds were said to have been derived was living on the earnings of sex workers contrary to s 10 of the Sex Work Act 1994 (Vic). The second respondent had been committed to stand trial for the offence of dealing with the proceeds of crime. The first respondent, Qing Zhao, was the second respondent's wife. She had not been charged with any offence, but was registered as the proprietor of a residential property which was the family home of the respondents and was a subject of the forfeiture proceedings.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "At [35] the Court (French CJ, Hayne, Kiefel, Bell and Keane JJ) said:\nThe assumptions upon which the POC Act is founded in this regard are not novel. They are reflected in s 319, but a provision of this kind is strictly unnecessary. Courts will not grant a stay of civil proceedings merely because related charges have been brought against a person and criminal proceedings are pending. More is required. To warrant a stay of the forfeiture proceedings, it must be apparent that the person whose property is in question is at risk of prejudice in the conduct of his or her defence in the criminal trial.\n(Emphasis added.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "At [39] the Court said:\nIt may be accepted that forfeiture proceedings should not be unduly delayed. No litigation should be delayed except for good cause, especially criminal proceedings. On the other hand nothing in the POC Act or in the nature of forfeiture proceedings under the Act suggests that they must proceed at all costs. It could hardly be said, from any point of view, that they are more important than criminal proceedings and should be given priority.\n(Emphasis added.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "Then, at [42] the Court said:\nThe risk of prejudice to the second respondent if a stay is not granted in the forfeiture proceedings and the exclusion proceedings is plain. It is not necessary for the second respondent to say any more than he did on the application for a stay in order to identify that risk, given that the offences and the circumstances relevant to both proceedings are substantially identical.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "General observations"
+    ],
+    "text": "However, on this last aspect referred to at [42] of the High Court’s reasons, it is important to recall that there was affidavit evidence to which the Victorian Court of Appeal referred which set out in some detail the accused’s own position whether to go into evidence in the forfeiture proceedings. The High Court was obviously aware of this evidence when it said the second respondent did not have to say ‘any more’. No evidence is before me as to the position of the individual respondents, nor any indication as to whether Mr Setka or Mr Reardon would be giving evidence in any event. The CFMEU, in its submissions, indicated that the individual respondents would seek to be excused from answering questions on the grounds of the privilege against self-incrimination. Apparently, the individual respondents have indicated that they cannot give instructions in relation to any of the overlapping facts between the civil proceeding and criminal proceeding. Significantly though, the CFMEU has not indicated whether it proposes to call either of the individual respondents to give evidence at the hearing to commence on 26 September 2016 in respect of s 45D conduct and the conduct of the CFMEU. From the CFMEU’s point of view, it will need to make a decision whether to call the individual respondents, even against their will, or otherwise contest this proceeding without these witnesses. Whether this is unfair to the CFMEU can only be determined in the course of the civil trial, taking into account many factors. It may be that if the individual respondents are called, they may be required to give evidence under s 128(4) of the Evidence Act, and the CFMEU would then have the opportunity to put a contradictory version of the ACCC’s case directly through the evidence of the individual respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "I now turn to briefly outline some relevant legal principles. I will resist the temptation to discuss whether or not any or some of these principles as outlined in the cases need re-considering by an appeal court. The parties before me agree that the principles, whilst providing assistance, are for guidance only and no case sets down an exhaustive list of relevant considerations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "The Court’s power to grant a stay of the proceeding is an incident of its general power to control its own proceeding for which s 23 of the Federal Court of Australia Act 1976 (Cth) (‘Federal Court Act’) provides statutory support: see, eg, Websyte Corporation Pty Ltd v Alexander (No 2) [2012] FCA 562 (‘Websyte’) at [53] per (Dodds-Streeton J).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "Whether to grant or refuse a stay requires the making of a discretionary balancing judgment. It is an essential attribute of justice in a community that similar decisions should be given in similar cases. The only way of achieving this is for the courts to set out the considerations which should guide the judges in the normal exercise of their discretion, and that is what has been done in the many cases where a discretion has been entrusted to the judiciary.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "The authorities dealing with an application for a stay of civil proceedings in which the subject matter is, or might be, the subject of a criminal proceeding, such as McMahon, ML v Australian Securities and Investments Commission (2013) 276 FLR 1 (‘ML’) at [23]–[26], Australian Securities and Investments Commission v Craigside Company Ltd (2013) 93 ACSR 176 (‘Craigside’) at [15]–[25] and Websyte at [113]–[116], provide useful guidance as to the considerations to take into account in the exercise of the discretion.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "The guidelines set out in McMahon (at [206]) were as follows:\n(a) Prima facie a plaintiff is entitled to have his action tried in the ordinary course of the procedure and business of the Court;\n(b) It is a grave matter to interfere with this entitlement by a stay of proceedings, which requires justification on proper grounds;\n(c) The burden is on the defendant in a civil action to show that it is just and convenient that the plaintiff's ordinary rights should be interfered with;\n(d) Neither an accused nor the Crown are entitled as of right to have a civil proceeding stayed because of a pending or possible criminal proceeding;\n(e) The Court's task is one of ‘the balancing of justice between the parties’;\n(f) Each case must be judged on its own merits, and it would be wrong and undesirable to attempt to define in the abstract what are the relevant factors;\n(g) One factor to take into account where there are pending or possible criminal proceedings is what is sometimes referred to as the accused's ‘right of silence’, and the reasons why that right, under the law as it stands, is a right of a defendant in a criminal proceeding;\n(h) However, the so-called ‘right of silence’ does not extend to give such a defendant as a matter of right the same protection in contemporaneous civil proceedings. The plaintiff in a civil action is not debarred from pursuing action in accordance with the normal rules merely because to do so would, or might, result in the defendant, if he wished to defend the action, having to disclose, in resisting an application for summary judgment, in the pleading of his defence, or by way of discovery or otherwise, what his defence is likely to be in the criminal proceeding;\n(i) The Court should consider whether there is a real, and not merely notional danger of injustice in the criminal proceedings;\n(j) In this regard, factors which may be relevant include:\nthe possibility of publicity that might reach and influence jurors in the civil proceedings;\nthe proximity of the criminal hearing;\nthe possibility of miscarriage of justice e.g. by disclosure of a defence enabling the fabrication of evidence by prosecution witnesses, or interference with defence witnesses;\nthe burden on the defendant of preparing for both sets of proceedings concurrently;\nwhether the defendant has already disclosed his defence to the allegations;\nthe conduct of the defendant, including his own prior invocation of civil process when it suited him;\n(k) The effect on the plaintiff must also be considered and weighed against the effect on the defendant; and\n(l) In an appropriate case the proceedings may be allowed to proceed to a certain stage, eg, setting down for trial, and then stayed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Legal principles"
+    ],
+    "text": "However, as I have alluded to, the matters that might individually, or in combination, be relevant to the exercise of the discretion are not rigid or closed. The factors identified in the authorities, including McMahon, are a useful starting point. They are not a prescriptive or exhaustive statement of all the considerations, or of the weight to be attached to them, and each case must be decided on its own merits: see, eg, ML at [31] and Websyte at [114]–[115]. As has been said on many occasions, the central consideration in determining whether to grant a stay is what the interests of justice require: see, eg, Websyte at [109].",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I now turn to the contentions of the parties, and to a specific consideration of them with the background of my earlier observations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Throughout the hearing for the stay application, it is fair to say the respondents refined their submissions, but did not abandon any of their written submissions. It is appropriate I deal with each of the contentions of the respondent to the extent necessary.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The respondents relied upon HLP and various comments of Finkelstein J therein. However, it is important to put that decision and his Honour’s comments in context, remembering also the CFMEU in this civil proceeding is not standing in the shoes of an accused facing a criminal trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In HLP the Australian Securities and Investments Commission (‘ASIC’) sought a declaration that the second defendant, Mr Berlowitz, operated an illegal unregistered managed investment scheme contrary to the Corporations Act 2001 (Cth) (‘Corporations Act’), and that he carried on a financial services business without the requisite licence. ASIC also sought an injunction permanently restraining Mr Berlowitz from operating a financial services business or from seeking funds from investors in connection with the operation of an unregistered managed investment scheme.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Counsel for ASIC informed the Court that also under consideration was whether Mr Berlowitz should be charged with criminal offences in relation to the same conduct in respect of which proceedings had been brought. In addition, the evidence that ASIC intended to rely upon in the civil proceeding included statements made by Mr Berlowitz during coercive examinations conducted under provisions under the Australian Securities and Investments Commission Act 2001 (Cth). Those statements could not be tendered as evidence in the contemplated criminal proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In HLP Finkelstein J made the following observations at [58]-[59]:\n[58] I would sum up the position as I see it as follows. The English and Australian authorities that warn of the dangers of a civil court becoming involved in criminal conduct continue to apply in an appropriate company case. The general rule in a company case is that a civil court will usually be the appropriate court to deal with a contravention of the Corporations Act. But the court should be wary of granting relief, including the grant of a declaration or an injunction, if the case is likely to end up before a criminal court. Ordinarily, a civil court should not intervene in those circumstances unless its failure to do so will result in irreparable injury. That strict rule need not be applied if the case involves undisputed facts and the issue raised gives rise to a question of pure law. Then a declaration can be a very useful remedy. As Barwick CJ said in Commonwealth v Sterling Nicholas Duty Free Pty Ltd (1972) 126 CLR 297 that is the kind of case “which contributes enormously to the utility of the jurisdiction.”\n[59] The case at bar is a particularly good example of one in which the court should not interfere. First of all, a criminal prosecution is on the cards. Second, the facts are not agreed. On the contrary, if there is to be a trial, the Crown would be put to its proof on most issues and some of the “facts” to be asserted by the Crown are likely to be in contest. Third, there is potential for an adverse impact on the jury. The civil case will be decided on evidence that, for the most part, will not be available to the prosecutor in a criminal trial. Imagine what would happen if a jury discovers that a civil court has ruled that Mr Berlowitz’ conduct is illegal. The judge presiding over the criminal trial will be obliged to tell the jury to leave that out of account. It is axiomatic in our courts that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Yet many regard this kind of instruction as little more than wishful thinking. Perhaps the jurors will have explained to them that the judge who made the ruling acted on evidence not before the jury and that in any event a lower standard of proof was required in the civil court. Whether those instructions will result in a fair criminal trial may be strongly doubted. Last, but by no means least, is the falsification point made by Fryberg J which, if it occurs, will bring the law into disrepute.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "On the basis of the principles in HLP, the respondents submitted that the remainder of the present civil proceeding should be stayed against the CFMEU. They contended this for the following reasons.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The criminal proceeding against the individual respondents is not just ‘on the cards’ as before Finkelstein J, but have been commenced. There is practically a complete overlap in the facts in issue in the civil and criminal proceedings. Hence, the respondents submitted that in these circumstances, the hearing of the civil matter prior to the conclusion of the criminal matter will raise each of the issues that were considered problematic in HLP.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Then it was submitted by the respondents that any adverse finding or conclusion of this Court in the civil matter would be likely to prejudice the criminal trial: if the jury in the criminal matter was aware or discovered that a Judge of the Federal Court of Australia had made factual findings in favour of the ACCC, and had ruled that a contravention had occurred, that jury would find it difficult not to take this into account, notwithstanding any directions from the trial judge in the criminal matter.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In considering these submissions of the CFMEU, it is important to recall that the issue considered in HLP was whether the Court should make declarations against an individual respondent (Mr Berlowitz) that he had contravened s 601ED(5) of the Corporations Act as sought by ASIC, in circumstances where ASIC was still considering whether or not to seek to charge him with a criminal offence in respect of the same subject matter as the declarations sought by ASIC (at [15]–[17]). This was the ‘real debate’ in the case before Finkelstein J.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "It can immediately be observed that the principle referred to in HLP (at [58]) has no direct application in this proceeding as the declaratory relief sought by the ACCC in respect of the s 45D conduct is to be made (if at all) in respect of the CFMEU, and not against the individual respondents. As is apparent from the nature of the relief sought, the declarations the ACCC continues to press in respect of the s 45D conduct are sought against the CFMEU only and do not include any statement that the individual respondents committed any offence or engaged in any improper conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Further, whilst there is an overlap of the sub-stratum of facts, the elements of the criminal charge against the individual respondents are different to the elements of the alleged s 45D contraventions:\n(a) section 45D requires that:\n(i) a person (CFMEU) has engaged in conduct in concert with a second person (shop stewards) that hinders or prevents a third person (Boral customers) from acquiring goods or services from a fourth person (Boral); and\n(ii) the conduct is engaged in for the purpose and would have or be likely to have the effect of causing substantial loss and damage to the business of the fourth person (Boral); and\n(b) in contrast, the criminal charge of blackmail under s 87 of the Crimes Act 1958 (Vic) requires that a person (either or both of the individual respondents) makes an unwarranted demand with menaces to another person (Messrs Dalton and Head) with intent to cause loss to another (Grocon);",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Undoubtedly, the s 45D conduct overlaps with the conduct that may be the subject of evidence relating to the criminal charge in the sense that some of the elements of the s 45D conduct will be put forward by the prosecution as part of the circumstances surrounding the alleged criminal offence of blackmail. However, the elements of the s 45D conduct could not determine the result of the criminal proceeding, without also recourse to what occurred at the April meeting and whether what occurred meets the elements of the alleged offence of blackmail. Whilst the prosecutor will need to prove the requisite intent, this is in the context of the criminal charge, and not in the context of the s 45D conduct as prescribed by Commonwealth law.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Accordingly, the relief sought by the ACCC in respect of the s 45D conduct, assuming it is granted, would not be falsified by any acquittal of the individual respondents in the criminal proceeding, and the granting of the relief could not supplant the function of the jury or the court in the criminal proceeding, as was one of the issues in HLP.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The other matter to observe is that the Court in HLP dealt with the issue of the making of declarations of contraventions in the face of criminal prosecutions in respect of the same matter, rather than an application for a stay. I will return to this aspect of HLP, but note now that Finkelstein J, having effectively determined the case, decided not to make the declarations as requested. His Honour said (at [60]):\nFor the foregoing reasons I decline to entertain, on a final basis, the application for declaratory and injunctive relief against Mr Berlowitz. I am, however, prepared to stand the matter over until a final decision is taken as regards a criminal prosecution. If Mr Berlowitz is to be charged I would dismiss this proceeding against him and leave it to the criminal court to decide his fate. On the other hand, if the decision is made not to lay charges, this case can be brought back on.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I will return to the issue raised by Finkelstein J as to instructions to the jury and the jury’s ability to discard irrelevant material. As Finkelstein J observed, it seems axiomatic that jurors can be trusted to leave out of their consideration things that they are instructed to leave out. Whether this is ‘wishful thinking’ or not, I do not know. Instructions to this effect in criminal trials are frequently given by judges. However, I should proceed on the basis that these instructions are not given without good cause, and are given in the anticipation that they will be acted upon by the jurors. Of course, there may be instances where an instruction to disregard irrelevant material will not be given, where the Court considers (for example, in well publicised cases) that any such instruction will have no real practical effect and so would be of no practical utility.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The respondents also seek a stay based on the application of the McMahon guidelines.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Again, it should be observed that the McMahon line of authority is not directly applicable to this stay application. The CFMEU has not been charged with a criminal offence, the ACCC’s case in respect of the conduct the subject of the criminal proceeding against the individual respondents is already stayed, and the balance of this proceeding (which is the subject of the respondents’ application for a stay) is against the CFMEU and in relation to s 45D conduct only.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Nonetheless, I accept that the principles underlying the McMahon guidelines do provide relevant assistance to the exercise of the discretion in this proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "For the sake of completeness, as to how those guidelines may incorporate the ‘principles’ laid down in HLP, I note this was discussed in Craigside.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In Craigside, ASIC commenced a proceeding against a company and two of its directors. The directors sought a stay of the proceeding until ASIC decided whether it would prosecute them in respect of the same subject matter, and if so, until the final determination of the prosecutions. The directors submitted that there was an inconsistency between the McMahon line of authority and the approach of Finkelstein J in HLP: see Craigside (at [11]). Justice Jagot noted (at [13]) that HLP did not deal with an application for a stay but held that the analysis nonetheless involved:\nconsideration of the underlying principles of the potential problems of hearing and determining civil proceedings when the subject matter of the civil proceedings is or may be the subject of criminal proceedings.\nHer Honour then proceeded (at [19]–[20]) to decide the application by reference to the McMahon principles.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "At the outset in their written submissions, the respondents noted two important matters in relation to the McMahon principles.\nFirst, the McMahon principles were developed in the context of civil proceedings brought by private plaintiffs, where the protection and preservation of the rights of private plaintiffs were emphasised. The principles derived from these authorities are not well formulated to deal with proceedings brought by an emanation of the State, being the ACCC, as opposed to a private individual seeking private redress for a private wrong. Where the proceeding is brought by the State, there is no private right to be protected or preserved. Rather the proceedings are brought in the public interest. However where two different State entities bring public interest proceedings, there is a potential for abuse of process. Recently, judges in the Federal and State Courts have been alive to this issue. In Wide Bay Conservation Council Inc v Burnett Water Pty Ltd Logan J, in the application of the McMahon principles, observed that:\nWhat is required is a balancing of the interests of the applicant and respondent in a civil proceeding having regard to any statutory context relevant to that civil proceeding and to any impending or prospective criminal proceeding. A separate but not unrelated consideration is whether the civil proceeding or at least its then prosecution might be regarded as an abuse of the process of the court. Such considerations will especially loom where the applicant in a civil proceeding is an emanation of the Crown and seeks declaratory relief and the imposition of pecuniary penalties in circumstances where a respondent is or is in jeopardy of facing criminal proceedings in respect of substantially the same conduct. I note that such a prospect particularly influenced Robson J [in Re AWE (No 1) (2008) 21 VR 252] in his suggestion that McMahon v Gould may need to be reconsidered by an appellate court. (emphasis added)\nThe respondents therefore submit that the McMahon principles may not be an appropriate set of guidelines to apply in civil proceedings brought by a federal regulator, or, alternatively, that the fact that no individual rights are prejudiced by the stay of the proceedings should be given significant weight in the balancing process of determining whether a stay should be granted.\nSecond, if the McMahon principles do apply, the respondents submit that they fail to give sufficient recognition to the right to silence and the accusatorial system of criminal law. As stated by Robson J in AWB:\nthe right of silence should not only be recognised but protected by the courts by preventing a defendant from being effectively compelled to waive his right of silence and thereby help those who seek to prove an offence by requiring him to defend civil actions relating to the same or similar conduct the subject of existing or potential criminal proceedings before those civil proceedings are completed. Compelling the defendant to defend civil proceedings, particularly those which impose a penalty, may assist the Crown in its prosecution by putting the Crown onto a train of inquiry or enable it to adjust its case to meet the anticipated defence in advance. It might be thought that such a circumstance denies the defendant his or her basic common law right to have the Crown establish its case against him or her without any assistance from the defendant.\n(Emphasis in original. Footnotes omitted.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The respondents then submitted that the balancing of justice between the parties requires a stay of the civil proceedings against the CFMEU. They put the following reasons for applying the McMahon guidelines:\n(1) There is no individual plaintiff whose private right to bring the proceeding will be interfered with;\n(2) The CFMEU will be exposed to real prejudice in the civil proceeding if the civil proceeding against it is not stayed. This is because the individual respondents have indicated that they cannot give instructions in relation to any of the overlapping facts between the civil and criminal proceedings. The respondents instruct that, were the CFMEU to seek to call the individual respondents to give evidence regarding the alleged November 2012 phone call, the alleged CFMEU meetings at Trades Hall in February and March 2013, the Auction Rooms meeting, or in relation to other alleged dealings with CFMEU stewards on the relevant sites or with other relevant CFMEU or non-CFMEU persons, both individual respondents would seek to be excused from answering on the grounds of the privilege against self-incrimination. Without the ability to contradict the ACCC’s case regarding the alleged November 2012 phone call, the alleged CFMEU meetings at Trades Hall in February and March 2013, or the Auction Rooms meeting, the capacity for the CFMEU to defend the proceedings is severely compromised, because the CFMEU will be hampered in or unable to cross-examine the ACCC’s witnesses, or put a contradictory version of the ACCC’s case on these matters. It was submitted that to the extent that this is considered a consequence of a strategic choice made by the individual respondents, it fails to give proper weight to their right to silence;\n(3) The individual respondents will also be prejudiced in the criminal proceeding if the civil proceeding is not stayed. There is a real risk that the jury will become aware of the evidence, findings or orders in the civil proceeding and that they will be unable to put this information out of their mind in coming to a verdict in the criminal proceeding, regardless of any judicial direction to ignore such evidence, findings or orders;\n(4) If the civil proceeding is not stayed against the CFMEU, there will be a burden on the individual respondents insofar as they are required to prepare for the civil and criminal proceedings concurrently. Although the civil proceeding has been stayed against them in respect of the declarations and pecuniary penalties sought against them as individuals, they are still required to provide instructions in the matter on behalf of the CFMEU;\n(5) The ACCC will suffer no great prejudice by reason of the delay occasioned by a stay, as the evidence in this matter has been prepared and witness outlines have been filed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Finally, the respondents submitted that the open court principle weighs in favour of a stay, rather than proceeding in a closed court and subsequent suppression orders. They rely on an observation of the High Court in Zhao (at [44]):\nThe Commissioner suggests that protective orders could be made, which might maintain the confidentiality of evidence, and that evidence could be given in closed court. In the latter regard, the open court principle, to which the law adheres, now finds expression in s 28 of the Open Courts Act 2013 (Vic). The rationale of the open court principle is that court proceedings should be subjected to public and professional scrutiny, and courts will not act contrary to the principle save in exceptional circumstances. Closing the court so that the Commissioner might progress forfeiture proceedings and receive the second respondent’s evidence does not qualify as a proper reason for departing from the principle.\n(Footnote omitted.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I now turn to consider each of the relevant considerations raised by the parties for determination of the stay application brought by the respondents. Some aspects have been alluded to previously in my general observations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The fact there is no individual plaintiff seeking to vindicate a private right is of no real significance. There are other relevant considerations to be weighed up in favour of a regulator which brings civil penalty proceedings.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "A regulator, like any other applicant, is entitled to have the action tried in the ordinary course of the procedure and business of the Court. The same principle of the balancing of justice between the parties applies, which will of course place appropriate weight on the interest of a respondent. Nevertheless, there is a burden on the respondent to persuade the Court to grant the stay. How that burden is discharged will depend on the circumstances, including the rights of a respondent to a fair criminal trial that may be pending.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Looking to the position of the ACCC, this proceeding is brought in the public interest, and should be heard and determined in the ordinary course of the business of the court. As the High Court reminded us in Zhao (at [39]), no proceeding should be delayed except for good cause. This is a proceeding brought by a regulator under Commonwealth legislation, pursuant to various statutory responsibilities placed upon it. The regulator and the courts have functions to perform in the bringing and the determining of civil penalty proceedings. The criminal proceeding is brought by a state prosecutorial authority in reliance on state legislation. Whilst the context may be different in the weighing up of various factors, as I have said the issues remain the same in determining the question of a stay balancing the interests of justice between the parties. Relevantly in this proceeding, this involves looking at the risk of prejudice to the respondents and the risk of prejudice to the regulator, having regard to its legislative responsibilities. Just as a private litigant is entitled to pursue his or her litigation in the normal course, so should the regulator. There also may be flow on consequences upon a regulator being successful against a respondent in civil penalty proceedings, including the impact a successful case may have on those affected directly by the allegations made by the regulator.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I do not see the mere fact that there is a regulator on the one hand and a respondent who stands accused of a crime on the other as a separate factor to take into account, other than to the extent it impacts upon the content of the relevant prejudice a regulator may face if a stay is granted as opposed to the prejudice a private litigant may face.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I then turn to consider matters relevant to all proceedings, whether brought by a private litigant or regulator. The stay orders sought by the respondents in this application will likely effect a long delay in the hearing of the allegations concerning the s 45D conduct until the criminal proceeding against the individual respondents is determined (assuming they are committed for trial), and then, possibly longer if there are appeals. I accept that if a stay is otherwise justified, the fact that a civil proceeding will be delayed for a long period of time may be the price to pay for ensuring a fair trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "There are also the interests of the witnesses to consider. In any litigation, the prospect of giving evidence naturally generates substantial stress and anxiety for potential witnesses. There is also the prospect of memories fading over the period of delay given that the events occurred in 2013 and 2014, and the orders sought by the respondents in this application will likely result in the trial of this proceeding not occurring until late 2017 at the earliest, probably though in 2018.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "If a stay were granted, there would thus be a significant lapse of time between the relevant events and the trial of this proceeding. Undoubtedly, ‘[w]here there is delay the whole quality of justice deteriorates’: R v Laurence [1982] AC 510 at 517 per Lord Hailsham LC. As McHugh J commented (in circumstances where there was a delay in commencing proceedings) in Brisbane South Regional Health Council v Taylor (1996) 186 CLR 541 at 551:\nAs the United States Supreme Court pointed out in Barker v Wingo “what has been forgotten can rarely be shown”. So, it must often happen that important, perhaps decisive, evidence has disappeared without anybody now “knowing” that it ever existed. Similarly, it must often happen that time will diminish the significance of a known fact or circumstance because its relationship to the cause of action is no longer as apparent as it was when the cause of action arose. A verdict may appear well based on the evidence given in the proceedings but if the tribunal of fact had all the evidence concerning the matter, an opposite result may have ensued. The longer the delay in commencing proceedings, the more likely it is that the case will be decided on less evidence than was available to the parties at the time that the cause of action arose.\n(Footnotes omitted.)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Whilst there has been no delay in commencing the proceeding, the comments of McHugh J still have a relevance to the position that may arise if this proceeding is further adjourned or stayed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Whilst examinations have been conducted under s 155 of the CCA (‘s 155 examinations’), which may assist witnesses later in giving evidence, these examinations do not relate to all witnesses who may or are likely to give evidence at the trial in this proceeding. In any event, witnesses will undoubtedly be subject to cross-examination, and be tested on their independent recollections.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I should interpolate that some suggestion was made that the s 155 examinations of the individual respondents could be put into evidence, and subsequently sought to be used in the criminal trial. This may be so. If they are to be tendered in this proceeding, then this will be dealt with in the ordinary course of this proceeding. As I have indicated, there are mechanisms the Court has to protect the individual respondents in relation to their criminal trial. At the criminal trial, the court will have the ability to preclude any evidence that is unfairly prejudicial to the accused (see s 137 of the Evidence Act).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I then turn to the issue raised by the CFMEU that they may have difficulty in obtaining the co-operation of the individual respondents. This is a matter which I do not place too much weight upon. All litigation has the potential for parties (here relevantly only the CFMEU) to have difficulty in obtaining the co-operation of witnesses – for all sorts of reasons. It may or may not be the case that the individual respondents will be called to give evidence, but I accept that their co-operation in preparing the CFMEU case would be very useful, although not essential having regard to the fact that other personnel observed the events critical to the allegations concerning the s 45D conduct. It will occur from time to time that a party will desire to call a witness who is uncooperative. Court processes allow for a witness to be brought before a court to give evidence against their will. If a witness does not wish to give information or instructions to a party prior to being called to give evidence, in the absence of any coercive power, that is the choice of the potential witness. Section 128 of the Evidence Act seems to envisage there will be civil proceedings in which a witness may be called who objects to answering questions contrary to the desire of the party questioning that witness. The fact the witness does not provide an answer (if not required to do so by the court) would not necessarily be a basis for a stay of the civil proceedings, although a party may be disadvantaged by the failure of the witness to give the evidence. Of course, the court may, in the circumstances, consider that it was in the ‘interests of justice’ to require the witness to give evidence (see s 128 (4)), and then of course, the evidence would be before the court. It is of relevance to recall that if a witness claims the privilege against self-incrimination and is not required to give evidence by the Court, or if the Court is persuaded that a party does not even have the opportunity to call a witness who claims the privilege and is subject to criminal prosecution, the Court cannot make any adverse inferences in that regard against that party (in this case the CFMEU).",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In addition to the above, I am not in any event persuaded on the evidence before me that I should assume that the individual respondents would be likely to give evidence at all, or alternatively that their evidence would assist the CFMEU’s defence (and this is so even if the trial was adjourned until after the conclusion of the criminal proceeding). I come to this view taking into account the material the Court is now aware of, namely the pleadings, the s 155 examinations, the witness statements, and the fact that there are other potential witnesses from whom instruction can be taken and evidence adduced.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The assertions made that the CFMEU’s ability to defend this proceeding is ‘severely compromised’ because the individual respondents are apparently refusing to give instructions or will object to give evidence at the trial as a consequence of the criminal proceeding are not substantiated. Undoubtedly, the individual respondents are significant players at the various meetings and sites, but this does not mean that evidence from them will be adduced at the trial of the civil proceeding. This depends upon the approach taken to defending this proceeding by the CFMEU, a matter upon which the CFMEU has not yet disclosed to the Court.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I then turn to the issue of the jury becoming aware of the allegations, the hearing itself, and of the eventual findings and orders of the Court in the civil proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The prejudice asserted by the respondents in respect of the criminal proceeding is the risk of the jury becoming aware of evidence, findings or orders in this proceeding and being unable to put this information out of their minds in coming to a verdict in the criminal proceeding. I do not consider this a real risk, particularly if the civil proceeding is heard in September/October 2016, and a criminal trial, at its earliest, will be heard in late 2017, but probably in early 2018.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "In General Manager of the Fair Work Commission v Thomson [2013] FCA 380, Jessup J refused to assume that the media and the public would not readily be able to make a distinction between the different contraventions alleged in the criminal and civil penalty proceedings in that case and relevantly said (at [20]):\n… At the purely factual level, the conduct with which the balance of the present proceedings is concerned is quite different from that which forms the basis of the charges which have been laid against the respondent. It is true, perhaps, that there are some threads of legal principle which run through all of the presently relevant matters, but those threads would, in my view, be much more apparent to the legal practitioner than to members of the public. Furthermore, if, as I presume will be the case, the media will report the present proceeding in an accurate and responsible way, the risk that reasonable members of the public would fail to appreciate that there are two proceedings against the respondent, each with its own factual allegations, is a negligible one. Doubtless the circumstance that the respondent is also facing the criminal charges will be commented upon from time to time, but this puts the respondent in a position no different from any person who has the misfortune to be involved in separate legal proceedings within what is broadly the same time frame. Even if one of those proceedings is to be determined by way of a jury trial, the fact that the respondent has recently been (or is still being) sued in another proceeding is, in my view, no basis to stay the latter.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "The situation is analogous here. Even assuming that jurors were to learn of the evidence, findings or orders made in this proceeding in respect of the s 45D conduct (which is remote in any event), I do not accept the respondents’ assertion that jurors will be unable to put this information out of their mind in deciding the criminal charge, regardless of judicial direction, putting aside the lapse of time anyhow. The information provided out of this proceeding would only be relevant to a limited extent and then only by way of context or background.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Moreover, as Mansfield J observed in Guglielmin v Trescowthick (No 3) (2005) 220 ALR 535 (at [48]):\nIt should not readily be assumed that a duly selected jury, properly instructed, should be unable to hear and determine the criminal charges purely on the evidence adduced despite any (or even extensive) publicity about the allegations made in civil proceedings such as the present, and the progress of those proceedings at interlocutory stages, where the factual issues to be addressed can be seen to significantly overlap.\nI have already mentioned the comments of Finkelstein J in HLP and do not need to repeat them.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "Further, in Australian Securities and Investments Commission v ActiveSuper Pty Ltd (No 5) [2013] FCA 369, Gordon J said (at [23]) that:\n[t]he possibility of adverse media publicity does not provide grounds for a stay, nor is it a matter of any significant weight in determining whether to grant a stay.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "If a trial judge in a civil proceeding could (by appropriate court processes) relieve against any unfair interference with the criminal trial, then this is a relevant matter to consider in any application for a stay. In my view, any legitimate risk of prejudice to the criminal proceeding which arises from the risk of jurors learning about the evidence, finding or orders of the Court in this proceeding could be addressed in a number of ways, including through non-publication orders under s 37AF of the Federal Court Act. This matter can more appropriately be considered at the point in time when the Court is considering making such orders. It is true the High Court in Zhao said that closing the Court so that the Commissioner may progress the forfeiture proceedings and receive the evidence from the person also accused does not qualify as a proper reason for departing from the open court principle. However, I do not consider the High Court intended by that comment to limit the discretion given to a trial judge, to be exercised in a wide variety of circumstances, to suppress particular evidence for relevant and proper reasons, having regard to the nature of the evidence sought to be suppressed, the identity of the witness giving that evidence, and possible prejudice to an accused in any imminent criminal trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I turn to the burden of preparing for trial, and the possibility of an adjournment based on case management principles.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I do not consider that the proximity of the committal in the criminal proceeding and the trial of this matter in September 2016 should present difficulty for the CFMEU or the individual respondents. The individual respondents are apparently refusing to provide instructions to the CFMEU’s legal representatives for the purpose the civil proceeding. On that basis, they do not need to prepare for and attend the trial on 26 September 2016. There is also no evidence that other CFMEU officers cannot adequately assist with the conduct of this proceeding. The respondents have had ample notice of the forthcoming trial in September 2016, and presumably a great deal of preparation has been undertaken already. Whilst the legal representation is common to both the civil and criminal proceedings, this is the choice of the CFMEU and the individual respondents. The trial does not commence until 26 September 2016, and other arrangements can be made if necessary. This is not a case where there is any evidence, nor do I assume, that the CFMEU or the individual respondents are without financial resources to appropriately contest this proceeding and prepare for the criminal proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "STAY AND ADJOURNMENT APPLICATION",
+     "Parties’ contentions"
+    ],
+    "text": "I am mindful of the position of the potential witnesses to be called. However, if, as it seems to be accepted, there is a significant overlap in the facts relating to the civil proceeding and criminal proceeding, then this may well facilitate the preparation for the hearing of the civil proceeding and the committal hearing. In any event, at the moment I do not have any evidence to suggest that the proximity of both the civil proceeding and committal hearing will cause any injustice to any or all of the respondents.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "In my view the respondents have not discharged the burden upon them to succeed in being granted a stay or adjournment of this proceeding. I propose to dismiss the application for a stay.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "I make this final observation. The final hearing of the civil proceeding has not been commenced. The form and content of the appropriate final relief (and the form and content of publication of reasons for judgment) in this civil proceeding is not presently able to be addressed nor resolved. It may be that it is appropriate, depending on the circumstances, to delay the publication of reasons or declarations. The result may be that the application of the ACCC is dismissed and no declarations would be made in that event.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "If during the course of the civil trial any unfairness or potential unfairness arises, either to the CFMEU or to the individual respondents, this can be considered and addressed. Nothing in these reasons precludes any respondent from making an adjournment application during the trial if the interests of justice require such an adjournment, for whatever legitimate reason and upon proper evidence.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "There were three extant costs issues between the parties:\n(a) The costs of and incidental to the orders made on 4 April 2016;\n(b) The costs of and incidental to the respondents’ interlocutory application dated 11 April 2016; and\n(c) The costs of and incidental to the respondents’ interlocutory application for a stay dated 4 April 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "Brief submissions from the parties have been received in relation to these costs issues. No party has requested in these submissions that any cost order to be made in its favour be paid forthwith. Each party has had mixed success and the Court has intervened to cause the parties to reflect upon certain interlocutory steps. It may be that the most appropriate order is that each party bear their own costs in relation to all the extant issues, being a pragmatic way to achieve the appropriate level of justice in dealing globally with the costs incurred in relation to the above matters.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "Nevertheless, I propose to reserve the costs in relation to each of the extant issues, and consider the question of costs at the determination of the proceedings. No party will be prejudiced by leaving the question of costs to be determined in this way, as costs in the normal course would not be paid until a final taxation upon the determination of this proceeding.",
+    "judge": "MIDDLETON J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and five (105) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.",
+ "associate": null,
+ "dated": "2016-05-11",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "b575bc47f4216355f2fa685e8c766b17cf43a184e4de57ea1c32a495a006eac3",
+ "markdown_file": "data/extracted/2016/2016FCA0504.md"
+}

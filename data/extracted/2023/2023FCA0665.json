@@ -1,0 +1,801 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2023/2023FCA0665.docx",
+ "metadata": {
+  "citation": "[2023] FCA 665",
+  "name": "Engage Marine Pty Ltd v Tasmanian Ports Corporation Pty Ltd",
+  "court": "FCA",
+  "year": 2023,
+  "number": 665,
+  "date_of_judgment": "2023-06-19",
+  "file_numbers": [
+   "VID71/2023"
+  ],
+  "judges": [
+   "O'BRYAN J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2023-05-29"
+  ],
+  "hearing_raw": "29 May 2023",
+  "number_of_paragraphs": 31,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – application under r 2.34(2) of the Federal Court Rules 2011 (Cth) to inspect and make copies of restricted documents – whether grant of access pursuant to r 2.34(2) an appropriate exercise of the Court’s discretion – application granted in respect of restricted documents to which access is not opposed – order for non-standard discovery made pursuant to r 20.15 of the Federal Court Rules 2011 (Cth) in respect of restricted documents to which access is opposed by filing party"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 46(1), 83",
+   "Evidence Act 1995 (Cth), s 191",
+   "Federal Court of Australia Act 1976 (Cth), s 37M",
+   "Federal Court Rules 2011 (Cth), Div 2.4, rr 2.31, 2.32, 20.14(2), 20.15"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (No 3) [2002] FCA 609; ATPR 41-873",
+   "John Fairfax Publications Pty Ltd v Ryde Local Court (2005) 62 NSWLR 512",
+   "Oldham v Capgemini Australia Pty Ltd (2015) 241 FCR 397",
+   "Seven Network Ltd v News Ltd (No 9) (2005) 148 FCR 1",
+   "Universal Music Australia Pty Ltd v Sharman Licence Holdings Ltd; Ex parte Merlin BV (2008) 222 FCR 580"
+  ],
+  "parties": [
+   {
+    "name": "ENGAGE MARINE PTY LTD (ACN 621 310 736)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "ENGAGE MARINE TASMANIA PTY LTD (ACN 621 545 926)",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "TASMANIAN PORTS CORPORATION PTY LTD (ACN 114 161 938)",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the applicants",
+    "name": "C M Archibald QC with M S Goldblatt"
+   },
+   {
+    "role": "solicitor",
+    "for": "the applicants",
+    "name": "Colin Biggers & Paisley"
+   },
+   {
+    "role": "counsel",
+    "for": "the respondent",
+    "name": "D Preston"
+   },
+   {
+    "role": "solicitor",
+    "for": "the respondent",
+    "name": "Arnold Bloch Leibler"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca0665",
+  "portal_file_numbers": [
+   "VID71/2023"
+  ],
+  "portal_event": "Publication of Reasons",
+  "portal_event_date": "2023-06-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "VID 71 of 2023"
+  },
+  {
+   "label": "Judgment of",
+   "value": "O'BRYAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 June 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – application under r 2.34(2) of the Federal Court Rules 2011 (Cth) to inspect and make copies of restricted documents – whether grant of access pursuant to r 2.34(2) an appropriate exercise of the Court’s discretion – application granted in respect of restricted documents to which access is not opposed – order for non-standard discovery made pursuant to r 20.15 of the Federal Court Rules 2011 (Cth) in respect of restricted documents to which access is opposed by filing party"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 46(1), 83\nEvidence Act 1995 (Cth), s 191\nFederal Court of Australia Act 1976 (Cth), s 37M\nFederal Court Rules 2011 (Cth), Div 2.4, rr 2.31, 2.32, 20.14(2), 20.15"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (No 3) [2002] FCA 609; ATPR 41-873\nJohn Fairfax Publications Pty Ltd v Ryde Local Court (2005) 62 NSWLR 512\nOldham v Capgemini Australia Pty Ltd (2015) 241 FCR 397\nSeven Network Ltd v News Ltd (No 9) (2005) 148 FCR 1\nUniversal Music Australia Pty Ltd v Sharman Licence Holdings Ltd; Ex parte Merlin BV (2008) 222 FCR 580"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "31"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "29 May 2023"
+  },
+  {
+   "label": "Counsel for the applicants",
+   "value": "C M Archibald QC with M S Goldblatt"
+  },
+  {
+   "label": "Solicitors for the applicants",
+   "value": "Colin Biggers & Paisley"
+  },
+  {
+   "label": "Counsel for the respondent",
+   "value": "D Preston"
+  },
+  {
+   "label": "Solicitors for the respondent",
+   "value": "Arnold Bloch Leibler"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID71/2023",
+   "parties": [
+    {
+     "name": "ENGAGE MARINE PTY LTD (ACN 621 310 736)",
+     "role": "First Applicant"
+    },
+    {
+     "name": "ENGAGE MARINE TASMANIA PTY LTD (ACN 621 545 926)",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "TASMANIAN PORTS CORPORATION PTY LTD (ACN 114 161 938)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "O'BRYAN J"
+   ],
+   "date": "2023-06-19",
+   "date_raw": "19 JUNE 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Subject to order 3, pursuant to rule 2.32(4) of the Federal Court Rules 2011 (Cth), the Applicants have leave to inspect and take copies of the following restricted documents contained on the file of proceeding No VID 1328 of 2019 (ACCC Proceeding):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Date | Time | Document Title | Filed by\n1) | 30-Apr-2021 | 16:25 | Joint Submissions | Australian Competition and Consumer Commission\n2) | 30-Apr-2021 | 16:25 | List of Authorities | Australian Competition and Consumer Commission\n3) | 24-Mar-2021 | 18:54 | Affidavit of Stephen Alexander Wheeler | Australian Competition and Consumer Commission\n4) | 22-Mar-2021 | 17:57 | Affidavit of Russell James Wescombe | Australian Competition and Consumer Commission\n5) | 19-Mar-2021 | 14:48 | Affidavit of Thanh Steven Phan | Australian Competition and Consumer Commission\n6) | 17-Mar-2021 | 21:20 | Affidavit of Mark Malone | Australian Competition and Consumer Commission\n7) | 17-Mar-2021 | 21:20 | Affidavit of Shaun Mathew Thomas | Australian Competition and Consumer Commission\n8) | 17-Mar-2021 | 18:41 | Affidavit of Jessica Kate Richmond | Australian Competition and Consumer Commission\n9) | 21-Dec-2020 | 10:12 | Affidavit of Timothy David Lear | Australian Competition and Consumer Commission\n10) | 20-Oct-2020 | 10:51 | List of Documents | Australian Competition and Consumer Commission\n11) | 09-Oct-2020 | 19:15 | Expert Report of Philip Williams | Australian Competition and Consumer Commission\n12) | 09-Oct-2020 | 19:15 | Expert Report of Philip Williams | Australian Competition and Consumer Commission\n13) | 09-Sep-2020 | 10:19 | Affidavit of Shaun Mathew Thomas | Australian Competition and Consumer Commission\n14) | 09-Sep-2020 | 10:07 | Affidavit of Shaun Mathew Thomas | Australian Competition and Consumer Commission\n15) | 08-Sep-2020 | 14:30 | Affidavit of Mark Malone | Australian Competition and Consumer Commission\n16) | 08-Sep-2020 | 14:26 | Affidavit of Mark Malone | Australian Competition and Consumer Commission\n17) | 07-Sep-2020 | 10:14 | Affidavit of Thanh Steven Phan | Australian Competition and Consumer Commission\n18) | 07-Sep-2020 | 10:12 | Affidavit of Mark Malone | Australian Competition and Consumer Commission\n19) | 07-Sep-2020 | 10:09 | Affidavit of Mark Malone | Australian Competition and Consumer Commission\n20) | 07-Sep-2020 | 10:09 | Affidavit of Thanh Steven Phan | Australian Competition and Consumer Commission\n21) | 21-Aug-2020 | 19:40 | List of Documents | Australian Competition and Consumer Commission\n22) | 17-Feb-2020 | 15:50 | Non-Prescribed Notice/Request | Australian Competition and Consumer Commission",
+     "level": 0,
+     "table": true
+    },
+    {
+     "label": "2.",
+     "text": "By 7 July 2023, and pursuant to rule 20.15 of the Federal Court Rules 2011 (Cth), the Respondent give discovery of all documents that meet the following criteria:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "the documents were filed in the ACCC Proceeding;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the documents are directly relevant to the issues raised by the pleadings within the meaning of rule 20.14(2);",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the documents are, or have been, in the Respondent’s control; and",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "the document is not one of the documents listed in paragraph 7 of the affidavit of Stephen John Thompson affirmed on 17 May 2023.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Confidentiality and limitations on use",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Subject to order 5, the Applicants must not use any document (including part of a document or information obtained from a document) provided to them pursuant to these orders:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "for any purpose other than the conduct of this proceeding; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "other than in accordance with the requirements of the confidentiality regime set out in Annexure A to these orders.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Subject to order 5, insofar as the Applicants wish to provide a document (including part of a document or information obtained from a document) provided to them pursuant to these orders to any third party in the course of their case in the proceeding, that third party must be provided with a copy of these orders and agree to be bound by order 3 as if they were the Applicants.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Orders 3 and 4 do not apply to any document or information obtained by the person independently of these orders.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Any documents obtained by the Respondent in the course of the ACCC Proceeding may be used for the purpose of the Respondent’s conduct of this proceeding (including, without limitation, disclosure to and use by any solicitor, counsel or expert witness retained by the Respondent).",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "To the extent necessary to give effect to paragraph 6 of these orders, any person who is subject to an obligation not to use a document obtained in the course of the ACCC Proceeding for any purpose other than the conduct of the ACCC Proceeding (including the “obligation” of the nature referred to in Hearne v Street (2008) 235 CLR 125) is released from that obligation.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The matter be listed for a further case management hearing at 9:30 am on 31 July 2023.",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The costs of and incidental to the Applicants’ Interlocutory Application dated 17 May 2023 be reserved.",
+     "level": 0
+    },
+    {
+     "label": "10.",
+     "text": "There be liberty to apply.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ANNEXURE A",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Confidentiality Regime",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "In this document:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "the term ACCC means the Australian Competition and Consumer Commission;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the term ACCC Proceeding means Federal Court Proceeding No. VID1328/2019;",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the term Confidential Document means any document or evidence (including all information and data recorded in those documents):",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "on the court file of the ACCC Proceeding; and",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "in respect of which one or more of the Respondent or the Third Parties claims commercial confidence, noting that such claims may not have been marked on the face of the relevant document or evidence when filed in the ACCC Proceeding;",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "the term Current Proceeding means Federal Court Proceeding No. VID71/2023; and",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "the term Orders means the orders made by the Honourable Justice O’Bryan on 19 June 2023 (including this document, which is an annexure to those orders);",
+     "level": 0
+    },
+    {
+     "label": "(f)",
+     "text": "the term Third Parties means:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "Grange Resources Limited; and",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "Grange Resources (Tasmania) Pty Ltd,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "(each a Third Party).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Until:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "further order of the Court; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "agreement is reached between the Applicant, the Respondent, the ACCC and the Third Parties,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the Applicants can only access Confidential Documents under rule 2.32 of the Federal Court Rules 2011, or pursuant to a discovery order in the Current Proceeding, in the following ways:",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the Applicants’ external counsel or firm of solicitors, or any expert witness retained by the Applicants, may access any of the Confidential Documents;",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "the Applicants’ external solicitors may only give access to Confidential Documents to the Applicants’ officers and employees after the Respondent and the Third Parties have been given a reasonable opportunity to identify their commercially confidential material in the documents, and those confidential materials are redacted in the version of the documents which is given to those officers and employees,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "provided that any of the Applicants’ external counsel, solicitors, expert witnesses, officers or employees who accesses Confidential Documents in accordance with this confidentiality regime has first signed an undertaking to the Court in the form of the Attachment to this document and have provided a copy of that undertaking to the party or other parties claiming confidentiality in the Documents.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Confidential Documents can also be accessed:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "by any administrative, clerical, information technology or document management personnel providing services to the persons specified in paragraphs 2(c) and (d) above; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "by any person as required by law.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "For the avoidance of doubt, this confidentiality regime does not apply to such part of the Confidential Documents as has already been disclosed to the public so as to waive the confidential status of the documents otherwise than in contravention of these Orders or a confidentiality undertaking provided pursuant to these Orders.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "ATTACHMENT",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "No: VID 71 of 2023",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "District Registry: Victoria",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Division: General",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Applicants",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Respondent",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "I, [insert name and address], undertake to the Federal Court of Australia that:",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "I have been provided with the orders of the Federal Court of Australia made by Justice O’Bryan on 19 June 2023 (Orders), a copy of which (excluding the Attachment to the Annexure) is attached, and I understand the terms defined in the orders have the same meaning as when used in this undertaking.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Subject to further order of the Court or unless otherwise required by law, I will not use the Confidential Documents for any purpose other than for the purpose of the conduct of the Current Proceeding.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Until:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "further order of the Court; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "agreement is reached between the Applicants and all other parties claiming commercial confidentiality in the Confidential Documents,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "I may only disclose the Confidential Documents:",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "as required by law; or",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "to a recipient that is allowed to access the Confidential Documents under the Orders, in which case I will only disclose the Confidential Documents in accordance with the procedures set out under the Orders.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "I will:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "take all reasonable steps to prevent or stop any unauthorised use or disclosure of the Confidential Documents, including establishing and maintaining effective security measures to prevent such unauthorised use or disclosure;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "immediately notify each party claiming commercial confidentiality in the Confidential Documents (and if those parties include a Third Party, the ACCC) of any suspected or actual unauthorised use or disclosure of the Confidential Documents of which I become aware; and",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "immediately notify every party claiming commercial confidentiality in the Confidential Documents (and if those parties include a Third Party, also the ACCC) if I am compelled by law to produce any Confidential Documents.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "If I am no longer retained or engaged by the Applicants for the purposes of the Current Proceedings, or upon completion of the Current Proceedings, I will:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "provide the Confidential Documents to Stephen Thompson of Colin Biggers & Paisley, or a person designated by him who has signed an undertaking substantially in the same terms as this confidentiality undertaking; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "destroy all Confidential Documents in my possession, custody or control; or",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "continue to maintain the Confidential Documents under my effective control and safeguard them from unauthorised access or use.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "For the avoidance of doubt, this undertaking does not apply to such part of the Confidential Documents as has already been disclosed to the public so as to waive the confidential status of the documents otherwise than in contravention of the Orders or a confidentiality undertaking provided pursuant to the Orders.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Dated:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Signed:",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "Inspection of documents",
+    "Discovery",
+    "Other matters",
+    "Definitions",
+    "Permitted access to Confidential Documents",
+    "Scope of application",
+    "CONFIDENTIALITY UNDERTAKING",
+    "FEDERAL COURT OF AUSTRALIA",
+    "ENGAGE MARINE PTY LTD & ORS",
+    "TASMANIAN PORTS CORPORATION PTY LTD"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The first applicant (Engage Marine) is a provider of towage services at various ports around Australia. The second applicant (Engage Marine Tasmania) is the entity by which Engage Marine intended to conduct its business in Tasmania.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "In this proceeding, the applicants allege that:\n(a) the respondent (TasPorts) supplies towage and pilotage services in Tasmania and, for a number of years prior to 1 July 2018, was the sole supplier of those services at the major ports in Tasmania, including Port Latta in northern Tasmania;\n(b) at all relevant times, TasPorts has had a substantial degree of market power in the market for the supply of towage services in ports in northern Tasmania and the market for the supply of pilotage service in ports in northern Tasmania;\n(c) Grange Resources Limited (Grange) is a publicly-listed mining company which owns and operates ship loading infrastructure at Port Latta which it uses to load vessels with iron ore pellets from its Savage River mine located in northern Tasmania;\n(d) prior to 1 July 2018, TasPorts provided towage, pilotage and other services to Grange at Port Latta;\n(e) in August 2017, Grange advised TasPorts that it was switching to a new service provider, namely the applicants;\n(f) following that advice, TasPorts engaged in specified conduct (alleged infringing conduct) which had the purpose, and had the effect or likely effect, of substantially lessening competition in the markets for towage and pilotage services in northern Tasmania and thereby contravened s 46 of the Competition and Consumer Act 2010 (Cth) (CCA); and\n(g) as a consequence of TasPorts' infringing conduct, Engage Marine suffered loss and damage.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The alleged infringing conduct was the subject of earlier proceedings brought by the Australian Competition and Consumer Commission (ACCC) against the respondent in proceeding VID 1328 of 2019 (ACCC proceeding). The ACCC proceeding was resolved on the basis of admissions made by TasPorts that it had contravened s 46(1) of the CCA and a statement of agreed facts made jointly by the ACCC and TasPorts for the purposes of s 191 of the Evidence Act 1995 (Cth). On 4 May 2021, Davies J made the following declaration:\nPursuant to section 21 of the Federal Court of Australia Act 1976 (Cth), the Respondent contravened section 46(1) of the Competition and Consumer Act 2010 (Cth) by engaging in conduct, between 6 November 2017 and 1 July 2019, in response to the entry or attempted entry of Engage Marine Tasmania Pty Ltd (Engage Marine) as a competitor, that had the likely effect of substantially lessening competition in the markets for towage and pilotage services in Northern Tasmania, by maintaining to Grange Resources Limited (Grange) that Grange was required to pay a new “marine precinct tonnage charge” (MPTC) for vessels calling at Port Latta, in circumstances where:\n(1) the Respondent first sought the MPTC from Grange after Grange had notified the Respondent that it would cease acquiring marine services from the Respondent at Port Latta and begin acquiring those services from Engage Marine;\n(2) there was a real commercial likelihood if Grange agreed to pay the MPTC that this would have the effect of raising Grange’s future costs of acquiring services from Engage Marine compared with if there had been no MPTC;\n(3) the Respondent did not, without Grange’s agreement, have a legal right to require Grange to pay the charge; and\n(4) the Respondent sought to impose the MPTC without having conducted a full assessment of the costs to the Respondent of providing the services that the Respondent would need to provide at Port Latta in order to perform the responsibilities imposed on the Respondent under the Deed dated 10 January 2014 between the Respondent, the Marine and Safety Authority and the Crown in right of the State of Tasmania.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "By its defence in this proceeding, TasPorts denies that its conduct with respect to Port Latta contravened s 46 of the CCA, and denies that its conduct caused loss and damage to Engage Marine.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "By an interlocutory application filed on 18 May 2023, the applicants sought an order, pursuant to r 2.32(4) of the Federal Court Rules 2011 (Cth) (Federal Court Rules) that leave be given to inspect and take copies of most of the documents contained on the Court’s file in respect of the ACCC proceeding. The application was supported by an affidavit of Stephen John Thompson affirmed on 17 May 2023, and also by submissions filed on 24 May 2023.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The application was opposed in part by the respondent. The respondent relied on an affidavit of Matthew David Lees sworn on 25 May 2023, and also filed written submissions dated 25 May 2023.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC appeared on the application and filed written submissions dated 29 May 2023. In its written submissions, the ACCC helpfully identified the restricted documents that are on the court file in the ACCC proceeding. The ACCC summarised the documents as falling into the following categories:\n(a) joint submissions of the parties, and a list of authorities;\n(b) expert reports;\n(c) lists of documents filed on behalf of each party and affidavits setting out the bases for the parties’ claims for privilege;\n(d) what was referred to as a “non-prescribed notice/request”, but which was identified as a submission relating to the injunctive relief sought in the ACCC proceeding; and\n(e) some 18 affidavits.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The affidavits comprise affidavits filed on behalf of the ACCC, consisting of affidavits made by employees or ex-employees of the applicants in this proceeding and of Grange (which is a non-party to this proceeding) and an affidavit made by an ACCC employee (which concerns privilege). The affidavits also comprise affidavits filed on behalf of TasPorts, consisting of affidavits made by employees or ex-employees of TasPorts. The expert reports comprise a report from Dr Williams filed on behalf of the ACCC and a report from Mr Siolis filed on behalf of TasPorts.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC informed the Court that it did not oppose production of the documents sought by the applicants. The ACCC also informed the Court that it had been informed by Grange that Grange did not oppose the applicants inspecting and having copies of the documents on the court file subject to addressing confidentiality issues.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The Registry of the Court maintains a file of all documents filed in a proceeding in the Court. The manner in which documents are filed in the Court and the public’s access to filed documents is governed by Pt 2 of the Federal Court Rules. Relevantly for present purposes, Div 2.4 provides as follows:\nDivision 2.4—Custody and inspection of documents\n2.31 Custody of documents\n(1) The District Registrar of a District Registry is to have custody of, and control over:\n(a) each document filed in a Registry in a proceeding; and\n(b) the records of the Registry.\n(2) A person may remove a document from a Registry if:\n(a) a Registrar has given written permission for the removal because it is necessary to transfer the document to another Registry; or\n(b) the Court has given the person leave for the removal.\n(3) If the Court or a Registrar permits a person to remove a document from the Registry, the person must comply with any conditions on the removal imposed by the Court or a Registrar.\n2.32 Inspection of documents\n(1) A party may inspect any document in the proceeding except:\n(a) a document for which a claim of privilege has been made:\n(i) but not decided by the Court; or\n(ii) that the Court has decided is privileged; or\n(b) a document that the Court has ordered be confidential.\n(2) A person who is not a party may, after the first directions hearing or the hearing (whichever is earlier), inspect the following documents in a proceeding in the proper Registry:\n(a) an originating application or cross-claim;\n(b) a notice of address for service;\n(c) a pleading or particulars of a pleading or similar document;\n(d) a statement of agreed facts or an agreed statement of facts;\n(e) an interlocutory application;\n(f) a judgment or an order of the Court;\n(g) a notice of appeal or cross-appeal;\n(h) a notice of discontinuance;\n(i) a notice of change of lawyer;\n(j) a notice of ceasing to act;\n(k) in a proceeding to which Division 34.7 applies\n(i) an affidavit accompanying an application, or an amended application, under section 61 of the Native Title Act 1993; or\n(ii) an extract from the Register of Native Title Claims received by the Court from the Native Title Registrar;\n(l) reasons for judgment;\n(m) a transcript of a hearing heard in open Court.\nNote: Native Title Registrar and Register of Native Title Claims are defined in the Dictionary.\n(3) However, a person who is not a party is not entitled to inspect a document that the Court has ordered:\n(a) be confidential; or\n(b) is forbidden from, or restricted from publication to, the person or a class of persons of which the person is a member.\nNote: For the prohibition of publication of evidence or of the name of a party or witness, see sections 37AF and 37AI of the Act.\n(4) A person may apply to the Court for leave to inspect a document that the person is not otherwise entitled to inspect.\n(5) A person may be given a copy of a document, except a copy of the transcript in the proceeding, if the person:\n(a) is entitled to inspect the document; and\n(b) has paid the prescribed fee.\n…",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The applicants have previously applied for and been given copies of documents referred to in r 2.32(2) (which are commonly referred to as unrestricted documents). By their interlocutory application, the applicants seek to inspect and take copies of all other documents on the Court’s file in respect of the ACCC proceeding pursuant to r 2.32(4). Such documents are commonly referred to as restricted documents because, as the rule stipulates, members of the public are only permitted to obtain copies of those documents with the leave of the Court.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The principles guiding the exercise of the Court’s discretion to grant leave under r 2.32(4) have been considered in a number of cases. There was no real dispute between the parties with respect to those principles. Most of the cases concern circumstances analogous to the present: a claimant or potential claimant seeks access to restricted documents on the court file of an earlier proceeding because they anticipate that the documents will be relevant to, and will assist, them in prosecuting their claim in separate proceedings.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The starting point is the recognition that there is no common law right to obtain access to a document filed in proceedings and held as part of a court record: John Fairfax Publications Pty Ltd v Ryde Local Court (2005) 62 NSWLR 512. The court file primarily exists for the purposes of the proceeding to which it relates. It is a record of relevant documents relating to the proceeding which the parties and the Court are able to access so that the proceeding can be conducted fairly and efficiently.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "Principles of open justice dictate that the public are generally entitled to access documents that have been relied on in open court. In Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited (No 3) [2002] FCA 609; ATPR 41-873 (ABB), Finkelstein J granted leave for a non-party to inspect statements of agreed facts and joint submissions relied upon by the Court in finally determining the proceeding. His Honour observed (at [7]):\n… I propose to confine myself to those cases where a non-party seeks access to material which has been relied upon by the judge. In such a case I have no doubt that the proper approach is that access should be allowed unless the interests of justice require a different course. It is only by adopting this approach that, in a practical sense, the principle of open justice will be preserved. Put differently, in my view there is a strong presumption in favour of allowing any member of the public who wishes to do so to inspect any document or thing that is put into evidence.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Relevant principles"
+    ],
+    "text": "The principle stated by Finkelstein J has been followed in many cases: see for example Seven Network Ltd v News Ltd (No 9) (2005) 148 FCR 1 at [27] per Sackville J; Universal Music Australia Pty Ltd v Sharman Licence Holdings Ltd; Ex parte Merlin BV (2008) 222 FCR 580 at [41]-[43] per Jacobson J. More recently, in Oldham v Capgemini Australia Pty Ltd (2015) 241 FCR 397 (Capgemini), Mortimer J (as her Honour then was) explained:\n24. The power to permit inspection of a document under r 2.32(4) is discretionary. In exercising that discretion, it is appropriate for the Court to consider first, the delineation apparent in the terms of r 2.32(2) and other documents which may be on the court file. Subject to the operation of ss 37AE to 37AL and r 2.32(3), the delineation is this. A non-party (and therefore, any member of the public) is entitled to know who the parties to a proceeding in this Court are, and to have an address (through a notice of address for service) for those parties. A member of the public is entitled to see those documents which will enable that person to understand what a proceeding in this Court is about, and how the parties’ respective cases are framed: namely, the originating application and the pleadings. The public is entitled to be able to follow the course of the proceedings through processes such as interlocutory applications, appeals and discontinuances. The public is entitled to be able to see the Court’s reasons for the disposition of a proceeding.\n25. If there is a transcript of a hearing held in public on the Court’s file, then by r 2.32(2)(m) that document may be inspected. The rationale for that document being available as of right would appear to be to mirror the ability of the public to be present in court and to listen to the evidence and argument in the course of a proceeding.\n26. The entitlement of the public to be present when evidence is given in a proceeding (read with the underlying principles apparent in ss 17 and 37AE of the Federal Court Act) would suggest, subject to any competing discretionary considerations, that an affidavit which is “read” in a proceeding, and thus treated as if that evidence had been given orally in open court, should be made available for inspection: see Australian Securities and Investments Commission v Cassimatis (No 4) [2015] FCA 465 at [6]-[10], per Edelman J. An affidavit which is read is thus in no different position to oral evidence-in-chief given by a witness. To permit inspection of such an affidavit is consistent with inspection of transcript being available without leave under r 2.32(2)(m).\n27. An affidavit which has not been read is likely to be treated quite differently, for the same reasons. Before it is read, it is not a person’s evidence. It may never be admitted as the evidence of the deponent, for a variety of reasons. At that stage, it is a document yet to become part of the process of open justice. That is not to suggest an affidavit on a court file and not yet read in court may never be subject to an order under r 2.32(4). There may be no objection from the parties, and there may in any given case be discretionary considerations which favour its inspection.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "On this application, the applicants submit that they have a special interest in accessing the documents on the court file for the ACCC proceeding: the applicants are seeking to vindicate personal rights that arise out of the same circumstances that were the subject of the ACCC proceeding. The applicants also say that the special interest is reflected in the provisions of s 83 of the CCA which relevantly provides as follows:\n83 Findings and admissions of fact in proceedings to be evidence\n(1) In a proceeding against a person under section 82 … for an order against a person, a finding of any fact made by a court, or an admission of any fact made by the person, is prima facie evidence of that fact if the finding or admission is made in proceedings:\n(a) that are proceedings:\n(i) under section 77, 80, 81, 86C, 86D or 86E; or\n(ii) … ; and\n(b) in which that person has been found to have contravened, or to have been involved in a contravention of:\n(i) a provision of Part IV … ; or\n…\n(2) The finding or admission may be proved by production of:\n(a) in any case—a document under the seal of the court from which the finding or admission appears; or\n(b) in the case of an admission—a document from which the admission appears that is filed in the court.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "The effect of s 83 is that any admission of a fact made by TasPorts in the ACCC proceeding is prima facie evidence of the fact in this proceeding, and the admission may be proved by production of a document from which the admission appears that is filed with the Court.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "TasPorts does not object to the Court granting the applicants leave to access the following documents on the ACCC proceeding court file, being documents considered by the Court (and thereby attracting the application of the open justice principle):\n(a) the joint submissions to the Court dated 30 April 2021; and\n(b) the joint list of authorities filed on 30 April 2021.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "TasPorts also does not object to access being granted to the following documents:\n(a) the affidavit by the ACCC employee;\n(b) the “non-prescribed notice/request”; and\n(c) the affidavits made by employees or ex-employees of the applicants.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "Thus the area of dispute concerns the affidavits made by employees or ex-employees of Grange (which had been filed by the ACCC), the affidavits made by employees or ex-employees of TasPorts, the expert reports and the lists of documents filed in the ACCC proceeding. TasPorts opposed leave being granted in respect of those documents. It submitted that the affidavits contain material that was highly contentious as between the parties in the ACCC proceeding and the affidavits were never read in evidence, tested by way of cross-examination, or relied upon by the Court in the ACCC proceeding. It submitted that the position is even starker in the context of the expert reports, which comprise untested economic opinions based on untested and unproven evidence. It further submitted that the foundation for the applicants’ request for access to lists of documents is even more tenuous than that underpinning the request for access to the affidavits and expert reports, as such lists refer to a wide range of material, much of which may never find its way into evidence (whether by way of affidavit or tender).",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The parties’ contentions"
+    ],
+    "text": "As noted earlier, the ACCC does not oppose the application and informed the Court that Grange also did not oppose the application subject to confidentiality being addressed.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I accept that the applicants have a particular interest in the issues raised in the ACCC proceeding, as this proceeding raises substantially the same issues. However, I do not accept that that leads to the conclusion that the applicants should be entitled to inspect and take copies of all documents filed in the ACCC proceeding. As stated earlier, the court file primarily exists for the purposes of the proceeding to which it relates. It is not a repository of documents that the Court makes available to non-parties simply on the basis that a non-party has an interest in the contents of the documents.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I also accept that, in due course, s 83 of the CCA may assist the applicants in proving their allegations in this proceeding. The effect of s 83 is that an admission of any fact made by TasPorts in the ACCC proceeding is prima facie evidence of that fact in this proceeding. It is possible that affidavits filed on behalf of TasPorts in the ACCC proceeding will contain admissions of fact, although a question arises whether an admission contained in an affidavit filed in a proceeding, but not adduced in evidence in that proceeding, is an admission “made in the proceeding” for the purposes of s 83. Regardless of the answer to that question, in my view s 83 does not elevate the applicants’ interest in the documents on the ACCC proceeding court file above that of any claimant or potential claimant who wishes to litigate similar issues to those arising in a prior proceeding.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The Court has a number of procedures that enable a litigant to obtain copies of documents that are likely to be relevant to the litigant’s claim. Those procedures include discovery from the other party to the proceeding (here, TasPorts) and also discovery from a non-party (here, the ACCC and Grange). Those procedures are designed to ensure that proceedings are conducted fairly and efficiently: the procedures require the production of documents, but only relevant documents. The procedures do not permit fishing expeditions, particularly the form of fishing known as trawling. In my view, in the ordinary case, those procedures are the appropriate means by which a litigant should apply to obtain relevant documents from other parties to the proceeding and from non-parties.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "On this application, though, the ACCC does not oppose the applicants being given leave to inspect and take copies of documents filed in the ACCC proceeding. In my view, that is a highly relevant consideration in the exercise of the Court’s discretion under r 2.32(4), in so far as the application relates to documents filed by the ACCC. Having regard to the nature of the applicants’ interest in the ACCC proceeding, and in circumstances where the ACCC does not oppose access being given to documents filed in the ACCC proceeding, I consider it appropriate to exercise my discretion to grant leave to the applicants to access the following documents on the court file for the ACCC proceeding:\n(a) documents in respect of which access is not opposed by TasPorts; and\n(b) documents filed by the ACCC.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Documents falling within those two categories are as follows:\n(a) the joint submissions filed on 30 April 2021;\n(b) the list of authorities filed on 30 April 2021;\n(c) the affidavit of Stephen Alexander Wheeler filed 24 March 2021;\n(d) the affidavit of Russell James Wescombe filed 22 March 2021;\n(e) the affidavits of Thanh Steven Phan filed 7 September 2020 and 19 March 2021;\n(f) the affidavits of Mark Malone filed 7 and 8 September 2020 and 17 March 2021;\n(g) the affidavits of Shaun Matthew Thomas filed 9 September 2020 and 17 March 2021;\n(h) the affidavit of Jessica Kate Richmond filed 17 March 2021;\n(i) the expert report of Philip Williams filed on 9 October 2020; and\n(j) the list of documents dated 21 August 2020 and 20 October 2020 and filed on behalf of the ACCC.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The ACCC informed the Court that some of the above documents contain confidential information and are the subject of suppression on the court file. It is appropriate that orders be made that recognise and continue appropriate confidentiality arrangements in respect of those documents. At the hearing of the application, I directed the parties, in consultation with Grange, to agree such arrangements and appropriate orders giving effect to them. A short time after the hearing, the parties provided an agreed set of orders. I am satisfied that they are appropriate and, accordingly, I will include them in the orders that I will make.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "TasPorts submitted that, insofar as the Court proposes to make any order permitting the applicants access to any restricted documents, an order should be made releasing TasPorts and its legal representatives from the implied undertaking in the ACCC proceeding and confidentiality obligations imposed upon them in that proceeding. The applicants did not oppose the making of those orders. I accept that such orders are appropriate so that TasPorts has the same entitlement as the applicants to use the restricted documents in this proceeding. Orders to that effect, including with respect to confidentiality, have been included in the orders I will make.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The above list of documents for which leave will be given under r 2.32(4) excludes various documents filed in the ACCC proceeding by TasPorts, including affidavits, an expert report and TasPorts’ list of documents. For the reasons given, I refuse leave to the applicants to inspect and take copies of those documents pursuant to r 2.32(4). The appropriate procedure for the applicants to obtain relevant documents from TasPorts is through discovery. In the present case, I consider that an order for non-standard discovery directed to those documents should be made. Given the similarity of issues raised in the ACCC proceeding and in this proceeding, I consider it highly likely that some or all of those documents filed by TasPorts in the ACCC proceeding will be relevant to the determination of issues in this proceeding. Consistently with the principles stated in s 37M of the Federal Court of Australia Act 1976 (Cth), I consider that an order should be made against TasPorts in this proceeding pursuant to r 20.15 of the Federal Court Rules, requiring TasPorts to give discovery of all documents that meet the following criteria:\n(a) the documents were filed in the ACCC proceeding;\n(b) the documents are directly relevant to the issues raised by the pleadings within the meaning of r 20.14(2) of the Federal Court Rules; and\n(c) the documents are or have been in TasPort’s control.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my view, such an order is highly likely to produce relevant documents and is unlikely to impose significant costs on TasPorts, and an order to that effect ought to be made.",
+    "judge": "O’BRYAN J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Although the applicants were largely successful on their application, they sought an order that the costs of the application be reserved. I will therefore make an order to that effect.",
+    "judge": "O’BRYAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice O'Bryan.",
+ "associate": null,
+ "dated": "2023-06-19",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "6a8e03883494acbe7b6f6a3d720accfd749027f00081b7ca3bd0a2ca860884e2",
+ "markdown_file": "data/extracted/2023/2023FCA0665.md"
+}

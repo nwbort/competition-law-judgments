@@ -1,0 +1,383 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2019/2019FCA0350.docx",
+ "metadata": {
+  "citation": "[2019] FCA 350",
+  "name": "Wavetrain Systems AS v Next Generation Rail Technologies SL",
+  "court": "FCA",
+  "year": 2019,
+  "number": 350,
+  "date_of_judgment": "2019-03-15",
+  "file_numbers": [
+   "NSD112/2019"
+  ],
+  "judges": [
+   "ROBERTSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2019-03-13"
+  ],
+  "hearing_raw": "13 March 2019",
+  "number_of_paragraphs": 24,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE –where interlocutory orders made by the Court – where affidavit evidence filed on behalf of the applicant was later identified by applicant’s solicitors as untruthful –whether the untruthful affidavit evidence should be removed from the Court file – whether non-publication orders should be continued – whether the papers should be referred to the Commonwealth Attorney-General to investigate and determine whether criminal proceedings should be brought in respect of the giving of false testimony"
+  ],
+  "legislation": [
+   "Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 20"
+  ],
+  "parties": [
+   {
+    "name": "WAVETRAIN SYSTEMS AS",
+    "role": "Applicant"
+   },
+   {
+    "name": "NEXT GENERATION RAIL TECHNOLOGIES SL",
+    "role": "First Respondent"
+   },
+   {
+    "name": "RICHARD AAROE",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms R White"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Mills Oakley"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "The Respondents did not appear"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca0350",
+  "portal_file_numbers": [
+   "NSD112/2019"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2019-03-15"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 112 of 2019"
+  },
+  {
+   "label": "Judge",
+   "value": "ROBERTSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "15 March 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE –where interlocutory orders made by the Court – where affidavit evidence filed on behalf of the applicant was later identified by applicant’s solicitors as untruthful –whether the untruthful affidavit evidence should be removed from the Court file – whether non-publication orders should be continued – whether the papers should be referred to the Commonwealth Attorney-General to investigate and determine whether criminal proceedings should be brought in respect of the giving of false testimony"
+  },
+  {
+   "label": "Legislation",
+   "value": "Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) r 20"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "13 March 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "24"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms R White"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Mills Oakley"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "The Respondents did not appear"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD112/2019",
+   "parties": [
+    {
+     "name": "WAVETRAIN SYSTEMS AS",
+     "role": "Applicant"
+    },
+    {
+     "name": "NEXT GENERATION RAIL TECHNOLOGIES SL",
+     "role": "First Respondent"
+    },
+    {
+     "name": "RICHARD AAROE",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "ROBERTSON J"
+   ],
+   "date": "2019-03-15",
+   "date_raw": "15 March 2019",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Orders 5 and 6 of the orders made by Wigney J on 30 January 2019 concerning the non-publication or confidentiality of certain documents be set aside.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Until further order, publication of the following material to any person other than the legal representatives of the parties and those officers involved in carrying out order 4 below, and any subsequent investigation or prosecution, be prohibited pursuant to s 37AF of the Federal Court of Australia Act 1976 (Cth) on the ground set out in s 37AG(1)(a):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the dollar figures, twice occurring, in [63] of the affidavit of Mark Hamilton Foster sworn 29 January 2019 (the Foster affidavit);",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the second and third sentences in [66] of the Foster affidavit;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the figures, twice occurring, in the last line of [80] of exhibit MHF-2 to the Foster affidavit;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "[83] of exhibit MHF-2 to the Foster affidavit;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the seventh to tenth words in line two of [84] of exhibit MHF-2 to the Foster affidavit;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the dollar figure in the last line of [85] of exhibit MHF-2 to the Foster affidavit;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the dollar figure in the last line of [86] of exhibit MHF-2 to the Foster affidavit.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Otherwise open access be granted to the affidavits filed in the proceedings, including those affidavits not read in open court.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Leave be granted to the applicant to file replacement copies of Mr Foster’s affidavits dated 29 January 2019 and 12 February 2019 marked to identify the parts of those affidavits, set out at [17]-[18] of the reasons for judgment, which the solicitors for the applicant identified as not truthful.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The papers be referred to the Commonwealth Attorney-General for the purpose of an investigation being conducted by the appropriate authorities in order to decide whether criminal proceedings should be brought in relation to the untrue evidence of Mr Foster.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "These proceedings were commenced by urgent application filed on 29 January 2019. The matter came before Justice Wigney on 30 January 2019 sitting as duty judge. His Honour then made certain interlocutory orders restraining the prospective respondents from making certain representations. The then prospective applicant was Wavetrain Systems AS. As I will explain, order 2, at least, was made on a false basis.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The orders were relevantly as follows:\n…\n2. Until 5:00pm on 11 February 2019, or further order of the Court, Richard Aarøe and Next Generation Rail Technologies SL (the Prospective Respondents) are not to represent to any person or entity in Australia, directly or indirectly:\na. that Wavetrain Systems AS (the Prospective Applicant), as the patentee of Australian patents 2011302708 and 2015203583 (the Wavetrain Australian patents), does not have the exclusive rights, subject to the Patents Act 1990 (Cth)(the Act), to exploit the inventions the subject of the Wavetrain Australian patents during the terms of those patents; or\nb. that they, the Prospective Respondents, or either of them, have any rights in Australia to exploit the invention or inventions the subject of the Wavetrain Australian patents during the terms of those patents,\nother than strictly for the purposes of making any application, or commencing any proceedings in a court, pursuant to the Act, in respect of the Wavetrain Australian patents.\n…\n5. The publication of:\na. paragraphs 63, 66 and 67 of the affidavit of Mark Hamilton Foster sworn 29 January 2019; and\nb. the document behind Tab 1 of Exhibit MHF-2 to the affidavit of Mark Hamilton Foster sworn 29 January 2019,\nbe prohibited pursuant to s 37AF of the Federal Court Act 1976 (Cth) (the FCA Act) on the ground set out in s 37AG(1)(a) of the FCA Act.\n6. Pursuant to r 2.32(3)(a) of the Rules the following documents are confidential:\na. paragraphs 63, 66 and 67 of the affidavit of Mark Hamilton Foster sworn 29 January 2019; and\nb. the document behind Tab 1 of Exhibit MHF-2 to the affidavit of Mark Hamilton Foster sworn 29 January 2019.\n…",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "That relief was granted on the reading of an affidavit sworn by Mr Mark Hamilton Foster on 29 January 2019 (bearing the date 25 January 2019 on the front page), Mr Foster being the Country Manager, Asia Pacific of Wavetrain Systems Pty Ltd.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The matter was made returnable before me, as the docket judge, for a case management hearing on 11 February 2019. On that date I made certain orders, including continuing the interim injunction until further order or 5 PM on Monday 25 February 2019. That was the date I fixed for hearing the interlocutory application for injunctive relief.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The proceedings concluded on 22 February 2019 when I made consent orders, in effect, dismissing the applicant’s proceedings with costs.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The circumstances in which the proceedings were dismissed were that the solicitors for the applicant notified my associate on 21 February 2019 by email that the applicant had recently become aware that certain parts of the evidence of Mr Foster in his affidavit dated 29 January 2019 were not truthful.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The solicitors for the applicant said they notified the Court pursuant to rule 20.1 of the Legal Profession Uniform Law Australian Solicitors’ Conduct Rules 2015 (NSW) and apologised unreservedly to the Court and the respondents.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "That subrule provides:\n20 Delinquent or guilty clients\n20.1 A solicitor who, as a result of information provided by the client or a witness called on behalf of the client, learns during a hearing or after judgment or the decision is reserved and while it remains pending, that the client or a witness called on behalf of the client:\n20.1.1 has lied in a material particular to the court or has procured another person to lie to the court,\n20.1.2 has falsified or procured another person to falsify in any way a document which has been tendered, or\n20.1.3 has suppressed or procured another person to suppress material evidence upon a topic where there was a positive duty to make disclosure to the court,\nmust—\n20.1.4 advise the client that the court should be informed of the lie, falsification or suppression and request authority so to inform the court, and\n20.1.5 refuse to take any further part in the case unless the client authorises the solicitor to inform the court of the lie, falsification or suppression and must promptly inform the court of the lie, falsification or suppression upon the client authorising the solicitor to do so but otherwise may not inform the court of the lie, falsification or suppression.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The email said that neither the applicant, nor its legal representatives, had any knowledge or reason to suspect at the time of preparing the evidence that those parts of the evidence were untrue.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The parties had at that date, 21 February 2019, reached an in principle agreement to settle the proceedings and no longer required the interlocutory hearing listed for the following Monday, 25 February 2019.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "As foreshadowed in that email, short minutes were provided to the Court and orders made the next day, 22 February 2019, as I have said.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "It appears that the solicitors for the respondents made various enquiries with the persons with whom Mr Foster stated in his affidavit that he had discussed a letter dated 7 January 2019. It was, I infer, those enquiries and the results of those enquiries which were communicated to the solicitors for the applicant and which led to the matters I have set out at [5] above. I refer in this respect to the affidavit of Ms Jane Owen, solicitor, sworn 19 February 2019 at [18], Ms Owen being the solicitor on the record for the respondents. She wrote on 15 February 2019 to the relevant partner at the solicitors for the applicant advising her of the factual matters which had come to Ms Owen’s attention in the course of preparing the respondents’ evidence in defence of the applicant’s application for the continuation of the ex parte injunction.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "There was filed in Court an affidavit of Ms Melissa McGrath sworn 12 March 2019. She confirmed, at [4], receiving on 15 February 2019 a letter from the respondents’ solicitors, as referred to by Ms Owen. Ms McGrath’s said in her affidavit, and I accept, that at no stage prior to receipt of that material she had any knowledge or suspicion that any of the evidence given by Mr Foster was untrue.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The Court has no reason to doubt the statements to the Court by the applicant’s legal representatives, including counsel, as officers of the Court, that they did not have any knowledge or reason to suspect at the time of preparing the evidence that the identified parts of the evidence were untrue. Indeed, as I have said, Ms McGrath has so deposed.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Two issues remain. The first is whether the affidavits sworn by Mr Foster should remain on the file. The respondents asked the applicant to seek removal of the affidavits of Mr Foster from the Court file in light of the false statements and the terms of those false statements.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "In my view the appropriate course is not to make an order, at this time, that the evidence be removed from the file as that would obscure from public view what has happened, including the circumstances in which the Court made the interim orders. In my opinion it is important in light of the principle of open justice that the circumstances in which the Court made those orders be available for public view. The preferable course would be that the false parts be identified on the Court file as not truthful. I shall grant leave to the applicant’s solicitors so to identify those parts. Also these reasons will form part of the Court file.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Those parts of Mr Foster’s affidavits which the solicitors for the applicant identified as not truthful are, in relation to Mr Foster’s affidavit dated 29 January 2019: [49] (third sentence to the end of that paragraph), [61], [62], [63] (not read in open court), [64], [65] [66] (not read in open court) and [67] (not read in open court)",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "In respect of Mr Foster’s affidavit dated 12 February 2019 (which has not been read in open court) the parts which the solicitors for the applicant identified as not truthful are: at [10] (table lines 3-6), being the information that Mr Foster spoke with Mr Mathews, Mr Howard, Mr Tavakoli and Mr Littleford, and [12].",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "Insofar as orders were made by Wigney J on 30 January 2019 prohibiting the publication of that material, those orders are set aside.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Although [63], [66] and [67] of Mr Foster’s affidavit dated 29 January 2019 and the entirety of Mr Foster’s affidavit sworn on 12 February 2019 were not read in open court I grant access to that material, subject to specific non-publication orders which I shall make. I grant access to the affidavits filed on behalf of the respondents which have not been formally read in open court, being the affidavits of Mr Richard Aarøe dated 19 February 2019, the affidavit of Ms Shehana Wijesena affirmed 19 February 2019 and the affidavit of Ms Jane Owen sworn 19 February 2019. I grant access also to the affidavit of Ms Melissa McGrath sworn 12 March 2019.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "In my view this is the appropriate course, notwithstanding the undertaking of the applicant, which the Court notes, that:\n(a) it will not whether by itself, its directors, officers, employees, servants, agents, related body corporate or otherwise howsoever make any representations, directly or indirectly, that:\n(i) the Respondents or either of them have claimed any right to exploit the invention the subject of the Australian Patents;\n(ii) the Respondents or either of them have claimed any right to challenge any exploitation of the invention the subject of the Australian Patents;\n(iii) the Second Respondent has committed identity fraud or that the Australian Securities and Investment Commission concluded that he did;\n(b) it will not rely upon the 30 January Orders in any other court proceedings; and\n(c) by 25 February 2019, it will notify in writing all persons or entities it has informed of the 30 January Orders (or their continuation of the orders by reason of the orders made 11 February 2019), that the interim injunction made by this court on 30 January 2019 has been discharged, by forwarding a copy of the orders made by this court on 22 February 2019 and these notes to those persons or entities.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "The Court also notes that the respondents do not claim ownership of any inventions or patent rights that are derived from or related to Australian patent numbers 2011302708 or 2015203583 (Australian patents), the subject of this proceeding.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "The second issue is what should be done in relation to the untrue evidence of Mr Foster.",
+    "judge": "ROBERTSON J"
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "In my opinion, the papers should be referred to the Commonwealth Attorney-General. In the circumstances of the present case, the executive branch should conduct an investigation in order to decide whether criminal proceedings should be brought in relation to the untrue evidence, the giving of false testimony. It should go without saying that false testimony is not to be tolerated and is viewed most seriously by the Court: it goes to the heart of the fair and just exercise of judicial power.",
+    "judge": "ROBERTSON J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-four (24) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.",
+ "associate": null,
+ "dated": "2019-03-15",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "eef35db64ea183d6f628a2614105bc5e44e887cc36f9a48580b1bcc2e6447264",
+ "markdown_file": "data/extracted/2019/2019FCA0350.md"
+}

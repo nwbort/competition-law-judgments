@@ -1,0 +1,505 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2012/2012FCA0767.docx",
+ "metadata": {
+  "citation": "[2012] FCA 767",
+  "name": "Australian Competition and Consumer Commission v Malaysia Airline System Berhad (No 2)",
+  "court": "FCA",
+  "year": 2012,
+  "number": 767,
+  "date_of_judgment": "2012-06-14",
+  "file_numbers": [
+   "NSD373/2010"
+  ],
+  "judges": [
+   "EMMETT J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "No catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2012-06-14"
+  ],
+  "hearing_raw": "14 June 2012",
+  "number_of_paragraphs": 32,
+  "legislation": [
+   "Trade Practices Act 1974 (Cth) ss 45, 76"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "MALAYSIAN AIRLINE SYSTEM BERHAD ARBN 000 996 903",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MALAYSIA AIRLINES CARGO SDN BHD",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v MALAYSIAN AIRLINE SYSTEM BERHAD ARBN 000 996 903 and\nMALAYSIA AIRLINES CARGO SDN BHD",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the applicant",
+    "name": "NJ O’Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the respondents",
+    "name": "PJ Brereton SC, V Whittaker"
+   },
+   {
+    "role": "solicitor",
+    "for": "the respondents",
+    "name": "Gilbert + Tobin"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca0767",
+  "portal_file_numbers": [
+   "NSD373/2010"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2012-06-14"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Malaysia Airline System Berhad (No 2) [2012] FCA 767"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v MALAYSIAN AIRLINE SYSTEM BERHAD ARBN 000 996 903 and\nMALAYSIA AIRLINES CARGO SDN BHD"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 373 of 2010"
+  },
+  {
+   "label": "Judge",
+   "value": "EMMETT J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "14 June 2012"
+  },
+  {
+   "label": "Legislation",
+   "value": "Trade Practices Act 1974 (Cth) ss 45, 76"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "14 June 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "No catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "32"
+  },
+  {
+   "label": "Counsel for the applicant",
+   "value": "NJ O’Bryan SC"
+  },
+  {
+   "label": "Solicitor for the applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the respondents",
+   "value": "PJ Brereton SC, V Whittaker"
+  },
+  {
+   "label": "Solicitor for the respondents",
+   "value": "Gilbert + Tobin"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD373/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "MALAYSIAN AIRLINE SYSTEM BERHAD ARBN 000 996 903",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MALAYSIA AIRLINES CARGO SDN BHD",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "EMMETT J"
+   ],
+   "date": "2012-06-14",
+   "date_raw": "14 JUNE 2012",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The second respondent pay the Commonwealth of Australia a pecuniary penalty in the total sum of $6 million in respect of contraventions of ss 45(2)(a)(ii) and (b)(ii) of the Trade Practices Act 1974 (Cth), now the Competition and Consumer Act 2010 (Cth) (the Act) occurring after April 2004, in that:",
+     "level": 0
+    },
+    {
+     "label": "1.1.",
+     "text": "the second respondent:",
+     "level": 1
+    },
+    {
+     "label": "1.1.1.",
+     "text": "between about April 2002 and September 2005, reached understandings with certain of its competitors for the supply of services, from Indonesia to other countries including Australia, for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount, described as a fuel surcharge, in respect of those services; and",
+     "level": 2
+    },
+    {
+     "label": "1.1.2.",
+     "text": "between about October 2001 and October 2005, reached understandings with certain of its competitors for the supply of services from Indonesia to other countries including Australia for the carriage of air cargo containing a provision that they would each impose a charge of a specified amount described as a security surcharge, in respect of those services; and",
+     "level": 2
+    },
+    {
+     "label": "1.1.3.",
+     "text": "between about May 2004 and October 2005, reached an understanding with certain of its competitors for the supply of services from Indonesia to other countries including Australia for the carriage of air cargo containing a provision that each would impose a charge of a specified amount, described as a customs fee, in respect of those services;",
+     "level": 2
+    },
+    {
+     "label": "1.2.",
+     "text": "the provisions of the said understandings had the effect of fixing, maintaining or controlling prices for the said services within the meaning of s 45A of the Act and are therefore deemed to substantially lessen competition within the meaning of ss 45(2)(a)(ii) and (b)(ii) of the Act; and",
+     "level": 1
+    },
+    {
+     "label": "1.3.",
+     "text": "the second respondent gave effect to those provisions:",
+     "level": 1
+    },
+    {
+     "label": "1.3.1.",
+     "text": "of the understandings referred to in 1.1.1 in the period from May 2003 to September 2005 inclusive;",
+     "level": 2
+    },
+    {
+     "label": "1.3.2.",
+     "text": "of the understandings referred to in 1.1.2 from October 2001 to October 2005 inclusive; and",
+     "level": 2
+    },
+    {
+     "label": "1.3.3.",
+     "text": "of the understanding referred to in 1.1.3 from May 2004 until October 2005 inclusive.",
+     "level": 2
+    },
+    {
+     "label": "2.",
+     "text": "The pecuniary penalty of $6 million is to be paid to the Commonwealth of Australia in instalments as follows:",
+     "level": 0
+    },
+    {
+     "label": "2.1.",
+     "text": "$1.2 million within 14 days of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.2.",
+     "text": "$1.2 million within 6 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.3.",
+     "text": "$1.2 million within 12 calendar months of the date of this order;",
+     "level": 1
+    },
+    {
+     "label": "2.4.",
+     "text": "$1.2 million within 18 calendar months of the date of this order; and",
+     "level": 1
+    },
+    {
+     "label": "2.5.",
+     "text": "$1.2 million within 24 calendar months of the date of this order,",
+     "level": 1
+    },
+    {
+     "label": "3.",
+     "text": "The second respondent be restrained, for a period of five years from the date of this order, from making, arriving at, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods to or from Australia, containing provisions which have the effect of fixing, controlling or maintaining the price or any part of the price at which it or any of them will supply those services in competition with each other unless:",
+     "level": 0
+    },
+    {
+     "label": "3.1.",
+     "text": "the said contract, arrangement or understanding is necessary for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo;",
+     "level": 1
+    },
+    {
+     "label": "3.2.",
+     "text": "the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of the said services, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act; or",
+     "level": 1
+    },
+    {
+     "label": "3.3.",
+     "text": "the second respondent is specifically authorised to do so under s 88 of the Act or any other Australian statute in accordance with s 51 of the Act.",
+     "level": 1
+    },
+    {
+     "label": "4.",
+     "text": "The second respondent be restrained for a period of five years from the date of this order, from entering into, or giving effect to, any contract, arrangement or understanding with any of its competitors for the supply of services for the carriage of goods to or from Australia containing provisions to the effect that any of them will propose, develop, prepare, follow, implement, adopt or otherwise use any index, model, methodology or formula for the change of prices or any part of prices to be charged by any of them for services provided or which would otherwise likely be provided in competition with any other of them unless:",
+     "level": 0
+    },
+    {
+     "label": "4.1.",
+     "text": "the said contract, arrangement or understanding is necessary for the purpose of interlining between two or more carriers in the course of supplying services of the carriage of international air cargo;",
+     "level": 1
+    },
+    {
+     "label": "4.2.",
+     "text": "the said contract, arrangement or understanding is for the purpose of a joint venture for the supply of the said services, which joint venture is carried on jointly by all parties to the contract, arrangement or understanding, within the meaning of s 44ZZRP of the Act; or",
+     "level": 1
+    },
+    {
+     "label": "4.3.",
+     "text": "the second respondent is specifically authorised to do so under s 88 of the Act or any other Australian statute in accordance with s 51 of the Act",
+     "level": 1
+    },
+    {
+     "label": "5.",
+     "text": "The respondents pay the applicant within 14 days of the date this order is made a contribution towards its costs of and incidental to these proceedings, in the sum of $500,000.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The proceedings against the first and second respondents otherwise be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Endorsement pursuant to Rule 41.06",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "To: Malaysian Airline System Berhad and Malaysia Airlines Cargo Sdn Bhd",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "You will be liable to imprisonment, sequestration of property or punishment for contempt if:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "for an order that requires you to do an act or thing - you neglect or refuse to do the act or thing within the time specified in the order; or",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "for an order that requires you not to do an act or thing - you disobey the order.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:",
+    "provided that if any instalment is not paid on or before the specified date, the whole of the remaining penalty then outstanding shall become immediately payable.",
+    "BY CONSENT, THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicant, the Australian Competition and Consumer Commission (the Commission), has brought a proceeding against Malaysian Airline System Berhad (Malaysian Airline System) and its wholly owned subsidiary, Malaysia Airlines Cargo STN Berhad (Malaysia Airlines Cargo). The Commission has asserted that Malaysia Airlines Cargo has engaged in conduct in contravention of s 45 of the Trade Practices Act 1974 (Cth), as it was then relevantly called (the Act). The Commission sought pecuniary penalties and other relief in relation to the conduct engaged in. Malaysia Airlines Cargo has made a number of admissions concerning the contraventions and the parties have now made joint submissions to the Court as to the relief that should be granted in respect of the contraventions."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The contraventions in question relate to s 45(2) of the Act. Section 45(2)(a)(ii) relevantly provides that a corporation shall not make a contract or arrangement, or arrive at an understanding, if a provision of the proposed contract, arrangement or understanding has the purpose, or would have or be likely to have, the effect of substantially lessening competition. Section 45(2)(b)(ii) relevantly provides that a corporation shall not give effect to a provision of a contract, arrangement or understanding, whether the contract or arrangement was made, or the understanding was arrived at, before or after the commencement of that section, if that provision has the purpose, or has or is likely to have the effect, of substantially lessening competition. At relevant times, s 45A(1) of the Act deemed a provision of a contract, arrangement or understanding to have, or to be likely to have, the effect of substantially lessening competition, if it had the purpose, or had, or was likely to have the effect, of fixing, controlling or maintaining, or providing for the fixing, controlling or maintaining of the price for services supplied or to be supplied by the parties to the contract, arrangement or understanding."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The parties have agreed upon a statement of facts and admissions by Malaysia Airlines Cargo as the basis for their joint submission to the Court as to the relief that should now be granted. Malaysia Airlines Cargo admits that it engaged in conduct in contravention of s 45 of the Act, by reason of s 45A, by arriving at and giving effect to understandings in relation to a fuel surcharge, a security surcharge and a customs fee, on freight carried internationally by air from Indonesia to other countries, including Australia. The conduct in relation to the fuel surcharge took place from April 2002 to September 2005. The conduct in relation to the security surcharge took place from October 2001 to October 2005. The conduct in relation to the customs fee took place from May 2004 to October 2005."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "This proceeding was commenced in April 2010. Accordingly, the conduct relevant to the penalty is the making and giving effect to understandings during the period of six years before April 2010, namely April 2004 to September 2005, in relation to the fuel surcharge, and from April 2004 to October 2005, in relation to the security surcharge and the customs fee."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Malaysian Airline System is incorporated in Malaysia, and is registered as a foreign corporation in Australia. At relevant times, it carried on business in Australia and elsewhere as an international airline. It flew to Australia and carried air cargo to and from Australia throughout the relevant period for Malaysia Airlines Cargo. Malaysian Airline System currently operates flights to 44 cities in 25 countries, and, as at 31 March 2012, had seconded approximately 1084 staff to Malaysia Airlines Cargo."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Malaysia Airlines Cargo provides air cargo services to various countries, including Australia, using the cargo holds of passenger aircraft and freighters operated by Malaysian Airline System and freighters operated by itself. It carried approximately six per cent of the air freight to and from Australia. By comparison, Qantas, the largest airline, carried about 24 per cent of air freight to and from Australia. Singapore Airlines carried approximately 14 per cent."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "At the end of the 2005 financial year, Malaysian Airline System had total assets of approximately $1,268,135,000, total operating revenue of $1,773,279,000, and made a loss of $253,403,000 for that year. At the end of the 2005 financial year, Malaysia Airlines Cargo had total assets of approximately $77,000,000 and net income after tax of $8,000,000. For the year ended 31 December 2004, Malaysian Airline System had total assets of $1,390,935,000, total operating revenue of $2,003,097,000, and net income after tax for that year of $59,645,000. For the year ended 31 December 2004, Malaysia Airlines Cargo had total assets of $94,000,000 and net income after tax of $26,000,000."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Malaysia Airlines Cargo’s approximate gross revenue from the global carriage of air freight and from international air freight services supplied to and from Australia, for the years ended 31 December 2001 to 2005, was $605,590,000. That represents about 15 to 20 per cent of its global revenue during that period. In the same period, the revenue derived by Malaysia Airlines Cargo from the fuel and security surcharges and customs fees that were the subject of understandings, showed a very significant growth during the period from 2001 to 2005."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Malaysia Airlines Cargo rarely carried air freight from Indonesia to Australia in the relevant period, and the revenue that it derived from fuel surcharges, security surcharges and customs fees from Indonesia to Australia was less than $100,000 per annum. The direct benefit to Malaysia Airlines Cargo of entering and giving effect to the understandings in question was derived from fuel charges, security surcharges and customs fees on freight carried from Indonesia to other countries, which was no more than $3,950,000 per annum, on average, during the relevant period."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "It is desirable to say something briefly about the relevant market. International air freight is carried both on passenger aircraft, using available belly space capacity, and on dedicated air freighters. Air freight services are provided “one way” from origin to destination, either directly or using an indirect route via one or more midpoints. Shippers of cargo may be the purchasers or the sellers of goods, or the owners of goods that need to be moved over relatively long distances."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The parties accept that it is not necessary for the Court to determine the precise market in question. The Commission and Malaysia Airlines Cargo accept that during the relevant period the relevant market included outbound freight from Indonesia to other countries, including Australia. In that market, Malaysia Airlines Cargo competed during the relevant period with other airlines, including Singapore Airlines, British Airways, Emirates, Cathay Pacific, Qantas, Garuda, Thai Airways, Cargolux and Korean Air Lines. That competition related to the supply of international air freight services, including to and from Australia. Malaysia Airlines Cargo believes that its fuel costs between Indonesia and Australia during the relevant period increased by more than the amount that it gained from the fuel surcharge that it imposed on that route."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The understandings in question may be said to be derived from meetings of a body known as the Air Cargo Representative Board – Indonesia (the Board). From at least 2001, Malaysia Airlines Cargo and other major international airlines operating in Indonesia were members of the Board. Between April 2002 and September 2005, representatives of Malaysia Airlines Cargo attended meetings of the Board, together with its competitors. At those meetings, from about April 2002, the airlines discussed, amongst other things, the fuel surcharges, security surcharges and customs fees that they intended to impose on the carriage of freight from Indonesia to other countries, including Australia. The sales managers in Indonesia of Malaysia Airlines Cargo communicated with employees in the freight divisions of other airlines at the meetings in order to reach the relevant understandings. The purpose of those communications was to ensure that, in respect of the fuel surcharges, security surcharges and customs fees for the carriage of air freight, the airlines would move to the same amount or substantially the same amount at around the same time."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "That was the effect of the communications. Malaysia Airlines Cargo and its competitors arrived at understandings concerning the minimum rate per kilogram to be charged as a fuel surcharge on freight from Indonesia to other countries, including Australia. Nine understandings were arrived at between April 2002 and September 2005. Those understandings were given effect to in five cases between May 2003 and September 2005. The understandings to which effect was given were arrived at in May 2003, September 2004, April 2005, July 2005 and September 2005. In the case of the first four, the understanding was that each participant would impose a minimum fuel surcharge of $US 0.05 per kilogram on the supply of the air freight services from Indonesia to Australia. The arrangement in September 2005 was that each participant would impose a minimum fuel surcharge of $US 0.10 per kilogram on the supply of air freight services from Indonesia to Australia. Malaysia Airlines Cargo admits that it arrived at those understandings at those times and gave effect to them."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "In addition, between October 2001 and October 2005, Malaysia Airlines Cargo arrived at and gave effect to five security surcharge understandings with competitors. In October 2001 an understanding was arrived at that each would impose a minimum security surcharge of USD $0.05 per kilogram on the supply of air freight services from Indonesia to countries including Australia. The security surcharge was subsequently reviewed in January and May 2003, September 2004 and July 2005, at which times it was agreed that the amount would be maintained. Malaysia Airlines Cargo admits that it made and gave effect to the understandings in the period from October 2001 until October 2005."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "In May 2004, Malaysia Airlines Cargo and competitors arrived at an understanding to charge a fee on all air waybills issued after 16 May 2004 on exports from Indonesia to other countries including Australia. The fee was variously described as a customs fee, a customs charge processing fee, a CGC fee, or a manifest fee. Malaysia Airlines Cargo arrived at and gave effect to the understanding by imposing a charge of $US 5.00 on all air waybills for exports from Indonesia to Australia as a customs fee from 16 May 2004 to October 2005."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "It is against those agreed facts and admissions that the parties have reached an accord as to the appropriate relief that should be ordered by the Court. The parties jointly request the Court to impose a pecuniary penalty on Malaysia Airlines Cargo pursuant to s 76 of the Act, to grant an injunction pursuant to s 80 of the Act, and to make other orders against Malaysia Airlines Cargo and Malaysian Airline System to dispose of the proceeding. Specifically, the parties have reached agreement as to a penalty of $6,000,000 and as to the terms of the injunctions and other orders."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Under s 76 of the Act, it is for the Court to determine whether the contraventions of s 45 of the Act complained of actually occurred, and to determine the quantum of any pecuniary penalties and other relief that should be ordered. The joint submissions have been made in order to assist the Court in reaching an assessment as to the appropriate level of penalty to be imposed and any other orders that the Court considers appropriate."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The Commission has indicated that it regards the contraventions of s 45 in question as extremely serious. The contraventions derived from an understanding between multi-national carriers, which are some of the largest airlines in the world. Malaysia Airlines Cargo and its parent accept that the conduct in question is extremely serious. The parties accept that the contraventions in question should be seen as some of the most serious contraventions of the Act. Prohibitions against price-fixing have been the subject of numerous proceedings by the Commission. The Act has, since July 2009, been amended, such that conduct of the type in question may attract criminal sanctions."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "The principles relevant to the assessment of a pecuniary penalty are well established. A number of factors should be taken into account in determining the appropriate penalty, as follows:\n• the nature and extent of contravening conduct;\n• the amount of loss or damage caused;\n• the circumstances in which the conduct took place;\n• the size of the contravening company;\n• the degree of power that the contravening company has in the relevant market, as evidenced by its market share and ease of entry into the market;\n• the deliberateness of the contravention and the period over which it extended;\n• whether the contravention arose out of the conduct of senior management or at a lower level within the company;\n• whether the company has a corporate culture conducive to compliance with the Act as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention;\n• whether the company has shown disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention;\n• similar conduct on the part of the company in the past;\n• the effect on the functioning of the relevant market and other economic effects of the conduct in question;\n• the financial position of the contravening company; and\n• whether the conduct was systematic, deliberate or covert.\nThe total penalty for related offences ought not to exceed what is proper for the entire contravening conduct involved. Further, similar contraventions should incur similar penalties, all other things being equal."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "The principal object of the penalties imposed by s 76 is to endeavour to put a price on contravention that is sufficiently high to deter repetition, not only by the contravener, but by others who might be tempted to contravene the Act. That is to say, there are two aspects of deterrence: specific deterrence in respect of the actual contravener, and general deterrence of others who may be disposed to engage in prohibited conduct of a similar kind. For a penalty to have the desired effect, it must be imposed at a meaningful level. Most anti-competitive violations are profitable to those who engage in the contraventions. Therefore, the penalty must be at a level that a potentially offending corporation will see as eliminating any prospect of gain. The penalty imposed must be substantial enough that the contravening party realises the seriousness of its conduct and will not be inclined to repeat the conduct. A penalty must not be so high as to be oppressive. The penalty should be no greater than is necessary to achieve the object of general deterrence, and such a penalty will not be oppressive."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "In the present case, the Commission considers that general deterrence is of paramount importance, and that there is a need for a significant level of penalty in respect of cartel arrangements, in order to deter multi-national corporate groups who carry on business in Australia from engaging in cartel arrangements affecting Australia in the future. Specific deterrence is also important because the form of contravention in question commonly occurs in secret and between parties who seek a mutual benefit. The risk of detection is often low, and the potential gain to the contraveners and damage to the community large. Accordingly, the penalty needs to be correspondingly high to ensure specific deterrence."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "The parties submit, jointly, that the penalty of $6,000,000 that has been propounded is within the range of penalties that the Court would order, in such circumstances, in a proceeding where there was no compromise. The penalty is intended to embrace the entirety of the conduct in relation to the understandings made or given effect to by Malaysia Airlines Cargo during the period of six years prior to the institution of the proceeding. The penalty was agreed having regard to the fact that, at the time of the contraventions, the maximum penalty, for each act of arriving at or giving effect to the collusive understandings, was $10,000,000."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Clearly enough, litigation in relation to contraventions of Part IV of the Act is normally very complex, time-consuming and costly. It is therefore in the interests of the public for litigation under Part IV to be concluded in the shortest timeframe that is consistent with achieving justice between the parties. Provided that the Court is satisfied as to the terms of proposed orders, it is in the public interest for the Court to make orders on terms that are agreed between the parties, in order to encourage parties to assist the Commission in its investigations and achieve negotiated settlements. There is a public benefit in imposing agreed pecuniary penalties, if they are appropriate. Otherwise, parties would not be disposed to reach such agreements, because of the unpredictable risks involved. Further, making the public aware of the manner in which co-operation and assistance by parties is recognised encourages parties in breach to come forward to assist the Commission in its enforcement activities."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "The question in a proceeding such as this is whether, in the performance of the Court’s duty under s 76, the penalty proposed jointly by the parties is one that the Court should determine to be appropriate. There is no particular utility in investigating whether, unaided by the agreement of the parties, the Court would have arrived at the figure proposed. When corporations acknowledge contraventions, thereby avoiding lengthy and complex litigation, a negotiated settlement might be expected to include measures designed to promote, for the future, vigorous competition in the particular market concerned. Ultimately, the essential question for the Court exercising power under s 76 is whether the penalty propounded is within the permissible range in all of the circumstances."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "The parties have provided a useful schedule of penalties imposed by the Court in air cargo proceedings in the past. A copy of that schedule appears as Schedule 1 to these reasons. Schedule 1 forms the basis of some of the consideration that must be given to the assessment of the penalty."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "I shall say something briefly about the considerations that should be taken into account in the assessment of a penalty, as they apply in the present case. Malaysia Airlines Cargo accepts that it engaged in the conduct in contravention of the Act deliberately. The understandings that are the subject of the penalty could not have been effective unless airlines such as Malaysia Airlines Cargo participated. The revenue generated pursuant to the understandings from Indonesia to Australia was insignificant. The annual revenue generated as a result of the surcharges and customs fees imposed on cargo from Indonesia to other countries was no more than approximately $3,900,000, on average, during the relevant period. Further, in relation to fuel surcharges the revenue derived from them does not demonstrate the actual loss to shippers or their customers. Neither the Commission nor Malaysia Airlines Cargo is aware of what proportion of the fuel surcharge was ultimately borne by any particular consumer or business in Australia, although, as I have said, Malaysia Airlines Cargo believes that its fuel costs between Indonesia and Australia during the relevant period increased by more than the amount it gained from the fuel surcharges that it imposed on that route. I have already said something briefly about the size of Malaysian Airline System and Malaysia Airlines Cargo and the respective shares of the market that they controlled. The contraventions commenced in 2002 in relation to the fuel surcharges, in 2001 in relation to the security surcharges, and in 2004 in relation to customs fees. As I have said, the period for which penalties can be imposed extends back six years from April 2010, when the proceeding was commenced."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "The Commission does not contend that Malaysia Airlines Cargo has a substantial degree of power, or that it was able to act in the relevant market without being constrained by its competitors. However, the conduct required the participation of all major carriers in Indonesia to be successful. Irrespective of the direct financial benefit to Malaysia Airlines Cargo, its participation in the conduct alone requires a penalty of the order proposed by the parties."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "Senior staff of the Malaysia Airlines Cargo station in Indonesia reached and implemented the understandings in question. While there was, at the time, no competition law in Malaysia, and the respondents’ trade practices compliance policies in place in Indonesia at the time of the conduct did not prevent the conduct occurring, those policies have now been fully revised, with the introduction of education and management responsibilities, including the potential for staff dismissal for any anti-competition violations. There is provision for staff annual refresher training on competition compliance in order to instil a culture of compliance at an institutional level."
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "The Commission accepts that both respondents, through their solicitors, participated in a series of discussions with the Commission in order to bring about an agreed resolution of the matter. As a result of those discussions, the parties have reached agreement as to the appropriate penalty and other relief. The respondents have assisted the Commission in the preparation of the relevant settlement documents, including the making of detailed admissions. The Commission accepts that Malaysia Airlines Cargo is entitled to credit for having admitted the contraventions, and for agreeing on the appropriate penalty. The co-operation with the Commission has saved the Commission and the Court and, ultimately, the community, the cost and burden of litigating a complex, lengthy and expensive case."
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "Malaysia Airlines Cargo is therefore entitled to a discount on the penalty that would otherwise have been appropriate. Given the regularity of the contravening conduct over the relevant period, and the maximum applicable penalty per contravention of $10,000,000, the total penalty could have been very much higher than is now proposed. The discount on the maximum reflects the appropriate admissions and the substantial savings that will be made by reason of the concessions that are now made. I consider that the proposed penalty of $6,000,000 is within the range that should be considered appropriate. It has parity with penalties imposed upon other airlines who have admitted their participation in similar conduct."
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "Malaysia Airlines Cargo is financially dependent upon Malaysian Airline System for the payment of the proposed penalty. Accordingly, payment of the penalty by instalments is proposed, because of the limited cash flow available to Malaysia Airlines Cargo. Malaysian Airline System has recently announced losses for the 2011 financial year of approximately $500,000,000. Its cash is depleting quickly, with announced cash flow losses of approximately $200,000,000 for the 2011 financial year. It is therefore appropriate that the penalty be payable by agreed instalments."
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "There is no doubt that the contraventions in question have been serious and have involved senior management of Malaysia Airlines Cargo in Indonesia. The conduct involved the global operations of large international airlines, and there is good ground for concluding that the effect of the conduct on competition in Australia was significant. While Malaysia Airlines Cargo was not a major participant in the carriage of goods to Australia, large multi-national companies must be deterred from making and giving effect to anti-competitive arrangements concerning Australia, regardless of the revenue derived from Australians. In all of the circumstances, I propose to make orders in the terms that have been asked for by the parties."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-two (32) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.",
+ "associate": null,
+ "dated": "2012-07-24",
+ "schedules": [
+  {
+   "title": "SCHEDULE 1 – PENALTIES IMPOSED IN PAST AIR CARGO PROCEEDINGS",
+   "text": ""
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "076af69405a344f477b9ee8f23c0f09940b856b6a83191240614b2b27f3b6582",
+ "markdown_file": "data/extracted/2012/2012FCA0767.md"
+}

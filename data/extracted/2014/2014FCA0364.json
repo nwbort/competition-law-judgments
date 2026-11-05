@@ -1,0 +1,615 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2014/2014FCA0364.docx",
+ "metadata": {
+  "citation": "[2014] FCA 364",
+  "name": "Australian Competition and Consumer Commission v Woolworths Limited",
+  "court": "FCA",
+  "year": 2014,
+  "number": 364,
+  "date_of_judgment": "2014-04-14",
+  "file_numbers": [
+   "NSD203/2014"
+  ],
+  "judges": [
+   "ROBERTSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2014-03-26"
+  ],
+  "hearing_raw": "26 March 2014",
+  "number_of_paragraphs": 59,
+  "catchwords": [
+   "TRADE PRACTICES – undertaking under s 87B of the Competition and Consumer Act 2010 (Cth) – proper construction of undertaking – offer of discount to customer on customer’s acquisition at retail of fuel – allowance of discount to customer on the customer’s acquisition at retail of fuel – undertaking not to make such offer or allow such discount where the discount on any single such acquisition greater than 4 cents per litre and contingent on the past acquisition of goods or services from supermarket – whether breach of undertaking in relation to two periods"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 87B"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Coles Group Limited [2014] FCA 363",
+   "Australian Petroleum Pty Ltd v Australian Competition and Consumer Commission (1997) 73 FCR 75",
+   "Maloney v The Queen (2013) 298 ALR 308",
+   "Toll Holdings Ltd v Australian Competition and Consumer Commission (2009) 256 ALR 631"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "WOOLWORTHS LIMITED",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v WOOLWORTHS LIMITED",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr GR Kennett SC with Mr T Glover"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr PJ Brereton SC with Mr D Roche"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0364",
+  "portal_file_numbers": [
+   "NSD203/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2014-04-14"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Woolworths Limited [2014] FCA 364"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v WOOLWORTHS LIMITED"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 203 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "ROBERTSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "14 April 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "TRADE PRACTICES – undertaking under s 87B of the Competition and Consumer Act 2010 (Cth) – proper construction of undertaking – offer of discount to customer on customer’s acquisition at retail of fuel – allowance of discount to customer on the customer’s acquisition at retail of fuel – undertaking not to make such offer or allow such discount where the discount on any single such acquisition greater than 4 cents per litre and contingent on the past acquisition of goods or services from supermarket – whether breach of undertaking in relation to two periods"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 87B"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Coles Group Limited [2014] FCA 363\nAustralian Petroleum Pty Ltd v Australian Competition and Consumer Commission (1997) 73 FCR 75\nMaloney v The Queen (2013) 298 ALR 308\nToll Holdings Ltd v Australian Competition and Consumer Commission (2009) 256 ALR 631"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "26 March 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "59"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr GR Kennett SC with Mr T Glover"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr PJ Brereton SC with Mr D Roche"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD203/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "WOOLWORTHS LIMITED",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "ROBERTSON J"
+   ],
+   "date": "2014-04-14",
+   "date_raw": "14 APRIL 2014",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Within 14 days of the date of this judgment, the parties bring in short minutes giving effect to these reasons and dealing with costs.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "If the parties cannot agree on the appropriate form of orders, including costs, the proceedings be listed at 9:30 am on 12 May 2014 for short oral submissions and for the making of final orders.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "These proceedings were heard with similar proceedings involving the Coles Group Limited and other parties: see Australian Competition and Consumer Commission v Coles Group Limited [2014] FCA 363. They concern the proper construction of paragraph (10)(d) of an undertaking given by the respondent (Woolworths) to the Australian Competition and Consumer Commission (the ACCC) on 6 December 2013 under s 87B of the Competition and Consumer Act 2010 (Cth) (the Undertaking)."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The central provision of the Undertaking is as follows:\n(10) Woolworths undertakes for the purposes of section 87B of the Act, that from the Commencement Date, it will not, and will ensure that its subsidiaries do not:\n(a) make any offer pursuant to which a person may obtain a discount on their acquisition at retail of petrol, diesel or LPG; or\n(b) allow any discount to a customer on their acquisition at retail of petrol, diesel or LPG,\nwhere the discount is:\n(c) funded in whole or in part (and whether by way of cents per litre or product contribution) by any division or subsidiary of Woolworths other than Woolworths Petrol Division; or\n(d) on any single acquisition greater than 4 cents per litre (or the equivalent of greater than 4 cents per litre) and contingent on the past or future acquisition of other goods or services (except goods or services acquired from a petrol station operated by Woolworths Petrol Division, or from a petrol station from which Woolworths Petrol Division sells fuel, or from a business physically located and operated in conjunction with the petrol station (such as a convenience store, car wash, or fast food outlet))."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "The facts"
+    ],
+    "text": "The proceedings concern two periods, the first being between 1 January 2014 and 9 March 2014 (the first period) and the second being on and since 10 March 2014 (the second period)."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "The facts"
+    ],
+    "text": "For the first period, Woolworths offered a saving off the standard purchase price of fuel at Caltex Woolworths/Safeway co-branded fuel outlets where the customer spent at least the qualifying amount (as advertised from time to time) in one transaction at a participating Woolworths/Safeway Supermarket. Certain purchases were excluded from the qualifying amount. The fuel saving for which the customer had thereby qualified was recorded electronically on the customer’s Everyday Rewards Card or printed on the customer’s Woolworths/Safeway Supermarket fuel saving docket. Where the customer bought fuel and presented the Everyday Rewards Card for swiping or surrendered the fuel saving docket at a Caltex Woolworths/Safeway co-branded fuel outlet before the expiry date, 28 days from the date of purchase, the customer would receive the fuel saving. The offer was not available in conjunction with any other offer unless otherwise stated. Woolworths also made to customers an “extra 4c offer” where the customer spent at least a qualifying amount in one transaction at a participating Woolworths/Safeway Supermarket Store plus the customer spent $5 or more on in-store items in one transaction at a Caltex Woolworths or Caltex Safeway co-branded outlet. An advertisement in relation to the first period is as follows. The print below the pictorial representation read “Save 8c per litre on fuel*”. Against the asterisk was the following:\n*Save 4¢ per litre at any CALTEX WOOLWORTHS or CALTEX SAFEWAY co-branded outlet with your fuel docket, received when you spend $30 or more in one transaction at any Woolworths/Safeway supermarket.\nSave an extra 4¢ per litre, if you spend $5 or more on instore items at a [sic] CALTEX WOOLWORTHS or CALTEX SAFEWAY co-branded outlets when you buy your fuel with your fuel discount docket.\n*Conditions Apply. Extra 4¢ offer available from CALTEX WOOLWORTH [sic] or CALTEX SAFEWAY co-branded outlets. Click here for full terms and conditions\nI have summarised earlier in this paragraph those full terms and conditions."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "The facts"
+    ],
+    "text": "It was common ground between the parties that the structure of offers that was extant in the first period was the same as had been offered in earlier years."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "The facts"
+    ],
+    "text": "For the second period, from and since 10 March 2014, the form of promotion was as follows:"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The facts"
+    ],
+    "text": "A document headed “Terms and Conditions: Supermarkets” stated that to receive a saving off the standard purchase price of fuel at Caltex Woolworths/Safeway co-branded fuel outlets, the consumer must spend at least the qualifying amount (as advertised from time to time) in one transaction at a participating Woolworths/Safeway Supermarket. Certain purchases were excluded from the qualifying amount. It was stated that the fuel saving the customer qualified for would be no greater than 4 cents per litre (or the equivalent of 4 cents per litre) and was to be recorded electronically on the customer’s Everyday Rewards Card or printed on the customer’s Woolworths/Safeway Supermarket fuel saving docket. The expiry date remained at 28 days from the date of purchase. To receive the fuel saving the customer was required to buy fuel and either present their Everyday Rewards Card for swiping or surrender the fuel saving docket at a Caltex Woolworths/Safeway co-branded fuel outlet. It was stipulated that the customer may only redeem one supermarket fuel saving offer per transaction. The offer was stated to be only available for purchases at participating Woolworths/Safeway Supermarkets and not available for purchases at Caltex Woolworths/Safeway co-branded fuel outlets or Caltex/Ampol fuel outlets. It was stipulated that the offer was not available in conjunction with any other offer, except the instant 4c in-store offer available from participating Caltex Woolworths/Safeway co-branded outlets, unless otherwise stated."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The facts"
+    ],
+    "text": "A document headed “Terms and Conditions: Instant 4c in-store offer available from participating CALTEX WOOLWORTHS and CALTEX SAFEWAY co-branded outlets” stipulated that to qualify for an instant 4 cent in-store offer, the customer must spend $5 or more on in-store items, in one transaction, at a participating CALTEX WOOLWORTHS or CALTEX SAFEWAY co-branded outlet. It was stipulated that the offer must be redeemed immediately and might only be used for a fuel purchase of up to 150 litres. The offer was stated not to be available in conjunction with any other offer, except the regular Woolworths/Safeway Supermarkets fuel saving offer, unless otherwise stated."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The facts"
+    ],
+    "text": "The respondent, Woolworths, submitted that the only difference between the first period and the second period was that whereas in the first period the full 8 cents per litre discount was only available to a customer who was also redeeming the 4 cents per litre supermarket docket offer, in the second period the discount of 4 cents per litre made available if the customer spent $5 or more on in-store items at a petrol station outlet was open to all petrol station customers, regardless of whether they also redeemed the 4 cents per litre shopper docket offer. For the second period the 4 cents per litre shopper docket offer and the instant 4 cents per litre offer could be redeemed separately or together, at the customer’s option."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The legislation"
+    ],
+    "text": "Section 87B of the Competition and Consumer Act provides:\n87B Enforcement of undertakings\n(1) The Commission may accept a written undertaking given by a person for the purposes of this section in connection with a matter in relation to which the Commission has a power or function under this Act (other than Part X).\n(1A) The Commission may accept a written undertaking given by a person for the purposes of this section in connection with a clearance or an authorisation under Division 3 of Part VII.\n(2) The person may withdraw or vary the undertaking at any time, but only with the consent of the Commission.\n(3) If the Commission considers that the person who gave the undertaking has breached any of its terms, the Commission may apply to the Court for an order under subsection (4).\n(4) If the Court is satisfied that the person has breached a term of the undertaking, the Court may make all or any of the following orders:\n(a) an order directing the person to comply with that term of the undertaking;\n(b) an order directing the person to pay to the Commonwealth an amount up to the amount of any financial benefit that the person has obtained directly or indirectly and that is reasonably attributable to the breach;\n(c) any order that the Court considers appropriate directing the person to compensate any other person who has suffered loss or damage as a result of the breach;\n(d) any other order that the Court considers appropriate."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The present litigation"
+    ],
+    "text": "The proceedings were commenced by an originating application filed on 25 February 2014, which was accompanied by a statement of claim. The respondent filed a defence on 6 March 2014."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The present litigation"
+    ],
+    "text": "On 18 March 2014 the applicant filed an amended originating application claiming the following relief:\n1. A declaration that by advertising and promoting the following two offers together:\n1.1 an offer pursuant to which a person may obtain a discount on their acquisition at retail of petrol, diesel or LPG, where the discount is 4 cents per litre which is contingent on the customer spending $30 or more on goods or services in a supermarket operated by the Respondent (4 cpl offer); and\n1.2 an offer pursuant to which a person may obtain a discount on their acquisition at retail of petrol, diesel or LPG, where the discount is an additional 4 cents per litre which is contingent on the customer (i) being entitled to, and accessing, the 4 cpl offer, and (ii) spending $5 or more on goods or services in a petrol station operated by the Respondent (extra 4 cpl offer),\nthe Respondent has made an offer, pursuant to which a customer could obtain a discount of 8 cents per litre on a single acquisition of petrol, diesel or LPG which was contingent on the previous acquisition of goods or services from a supermarket operated by the Respondent, in breach of clause 10 of the Undertaking given by the Respondent to the Applicant on 6 December 2013 (Undertaking).\n2. A declaration that the Respondent’s conduct in allowing a discount of 8 cents per litre on a single acquisition of petrol, diesel or LPG to a customer, who satisfies the terms of both the 4 cpl offer and the extra 4 cpl offer, is in breach of clause 10 of the Undertaking.\n2A. A declaration that by advertising and promoting the following two offers together:\n2A.1. the 4 cpl offer; and\n2A.2. an offer pursuant to which a person may obtain a discount on their acquisition at retail of petrol, diesel or LPG, where the discount is an additional 4 cents per litre which is contingent on the customer spending $5 or more on goods or services in a petrol station operated by the Respondent (new extra 4 cpl offer),\nthe Respondent has made an offer, pursuant to which a customer could obtain a discount of 8 cents per litre on a single acquisition of petrol, diesel or LPG which was contingent on the previous acquisition of goods or services from a supermarket operated by the Respondent, in breach of clause 10 of the Undertaking.\n2B. A declaration that the Respondent’s conduct in allowing a discount of 8 cents per litre on a single acquisition of petrol, diesel or LPG to a customer, who satisfies the terms of both the 4 cpl offer and the new extra 4 cpl offer, is in breach of clause 10 of the Undertaking.\n3. An order or orders directing the Respondent to comply with the terms of the Undertaking."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The present litigation"
+    ],
+    "text": "The amended originating application was accompanied by an amended statement of claim to which the respondent filed a defence on 19 March 2014."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The applicant, the ACCC, submitted that undertakings accepted under s 87B were properly to be regarded as statutory instruments: Australian Petroleum Pty Ltd v Australian Competition and Consumer Commission (1997) 73 FCR 75 at 88–89. Accordingly, it was submitted, the words of an undertaking were to be construed by reference to the principles of construction of a legislative document, and not by reference to the principles of construction of a private contract: Toll Holdings Ltd v Australian Competition and Consumer Commission (2009) 256 ALR 631, 638–639 [17]–[18]. The exercise of construction began and ended with the text — read always in context, it was submitted: Maloney v The Queen (2013) 298 ALR 308, 398 [324] per Gageler J."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The ACCC submitted that the critical question was whether the 8 cents per litre discount allowed by Woolworths on some transactions (and also offered to all potential customers) was one which was “contingent on the past or future acquisition of other goods or services”, in particular, goods acquired from Woolworths’ businesses other than a petrol station operated by Woolworths Petrol Division or from which Woolworths Petrol Division sells fuel. There was no requirement, it was submitted, in paragraph (10)(d) of the Undertaking that the only, or sole, circumstance or contingency be the acquisition of other goods or services. It was enough if there was a circumstance, or contingency, which was the acquisition of the requisite “other goods or services”."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The ACCC submitted that in the first period there were two conditions which, both being met, enabled the customer to obtain a discount of 8 cents per litre on a single acquisition of fuel pursuant to the terms of the 4 cents per litre offer and the extra 4 cents per litre offer: first, acquiring goods or services (with certain defined exceptions) worth $30 or more from a supermarket operated by Woolworths; and, secondly, (i) being entitled to, and accessing the 4 cents per litre offer, and (ii) spending $5 or more on goods or services (again with certain defined exceptions) in a petrol station operated by Woolworths."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "It was submitted that both of those conditions fell squarely within the terms of paragraph (10)(d) of the Undertaking. So much was clear, it was submitted, in that neither component of the total discount could be obtained unless the customer had spent the requisite sum in a supermarket."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "In the second period, the ACCC submitted, there were also two conditions which, both being met, enabled a customer to obtain a discount of 8 cents per litre on a single acquisition of fuel pursuant to the terms of the 4 cents per litre offer and the new extra 4 cents per litre offer: first, acquiring goods or services (with certain defined exceptions) worth $30 or more from a supermarket operated by Woolworths; and, secondly, spending $5 or more on in-store items (again with certain defined exceptions) in one transaction at a participating Caltex Woolworths or Caltex Safeway co-branded outlet, where the discount was redeemed in the same transaction."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The ACCC submitted that the first of these conditions was squarely within the terms of paragraph (10)(d) of the Undertaking. That was enough, it was submitted, to place the offering and allowing of an 8 cents per litre discount in breach of paragraph (10), because quantum was a necessary element of the “discount”; and a discount of 8 cents (rather than a lesser discount) was obtained only by having obtained goods or services from a supermarket operated by Woolworths. It was not to the point, it was submitted, that the terms and conditions of the new extra 4 cents per litre offer made a 4 cents per litre discount available to a customer who had not acquired goods or services at a supermarket operated by Woolworths or that the new extra 4 cents per litre offer, considered in isolation, would come within the express words of the exception in paragraph (10)(d) and that it was accordingly possible to describe the 8 cents per litre total discount as involving two elements, only one of which was “contingent” upon such an acquisition. It was submitted that paragraph (10)(b) and paragraph (10)(d), at least, looked to the total discount allowed on a transaction."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "In oral submissions, senior counsel for the ACCC made four points about the notion of contingency in paragraph (10)(d). The first point was that in context, “contingent” could not mean solely contingent since there would inevitably be other contingencies, such as making a purchase of fuel at a participating service station. Second, the words in parentheses subtracted from the class of goods and services the purchase of which comprised the contingency or the relevant contingency but they did not take a discount or part of a discount that related to purchases from a fuel station outside the paragraph. Third, paragraph (10)(d) did not use the language “in whole or in part” as paragraph (10)(c) did as “contingent” was not a word that, in its ordinary meaning, called to mind matters of gradation or matters of degree. A discount was either contingent on something, a supermarket purchase, or not. The discount was relevantly contingent if the supermarket purchase was one of the things that must occur in order for the discount to be allowed. Fourth, the discount with which paragraph (10)(d) was concerned was the price reduction which was allowed to a customer in a transaction for the purposes of paragraph (10)(b). The question to be asked was whether that discount, rather than subsets or elements of it, was contingent on the supermarket purchase having been made. Further, it was clear enough from the first line of paragraph (10)(d) that the quantum of the discount was a critical element of it upon which the subparagraph fastened and the phrase “contingent on” needed to be read in that light. The question then posed was whether the amount of the discount actually given was dependent on a supermarket purchase having been made. In the case of a customer who had been to the supermarket and sought to enjoy the benefits of both components, the discount the customer obtained, that is, the quantum of price reduction that he or she obtained, was a direct function of the existence of the supermarket purchase sufficient to make it contingent in the relevant sense."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Senior counsel for the ACCC submitted that paragraph (10)(d) was directed at the offering of large discounts to customers of the supermarkets, that is, the use by Woolworths of its large supermarket customer base to bring people into co-branded service stations and away from other service stations. The concern was not limited to discounts funded by the supermarkets as that was something dealt with by paragraph (10)(c) nor was it limited to discounts by reference to the particular structure of their terms and conditions or to discounts where the only contingency or the only qualifying purchase was a supermarket purchase."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Senior counsel for the ACCC submitted that the material predating the Undertaking was of limited relevance or assistance."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The respondent, Woolworths, agreed with the submission of the ACCC that undertakings accepted under s 87B were properly to be regarded as statutory instruments but submitted that undertakings had some special features apparent from the terms of the section. It was clear that an undertaking was a consensual arrangement. While it had some elements of a private agreement, it did attract the powers of the Court in the event there was a breach and it was relevant to note that breach of the instrument may lead to serious penalties."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Woolworths submitted that the 4 cents per litre shopper docket discount that had been offered in both periods did not, by itself, offend the Undertaking because the discount was not greater than 4 cents per litre. Likewise, the discount of 4 cents per litre to customers who spend $5 or more in-store at the petrol station, as offered in both periods, did not, by itself, offend the Undertaking. That was because the discount was not greater than 4 cents per litre and also because it fell within the exception for goods or services acquired from a petrol station. Accordingly, any contravention could only arise because of a link or connection between the two discounts that rendered the overall conduct unlawful."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "In relation to the first period, Woolworths submitted the two offers were linked because the “extra” saving of 4 cents per litre was only made available to customers at Woolworths petrol stations who were redeeming their 4 cents per litre shopper docket offer. The customers had to first make the qualifying expenditure of $30 or more at a Woolworths supermarket and then, in a later and different transaction, spend $5 or more in-store at the petrol station in order to obtain the extra 4 cents per litre discount."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Woolworths accepted that in the first period it was accurate to speak of an “extra” 4 cents per litre offer, as the extra 4 cents per litre offer was only available to customers at Woolworths petrol stations who had a 4 cents per litre shopper docket offer. Nevertheless, it was submitted, as a matter of substance the extra 4 cents per litre was not relevantly contingent upon acquisitions from Woolworths supermarkets. So far as the extra 4 cents per litre offer was concerned, the true contingency was the requirement that customers spend $5 or more in-store at the petrol station. The contingency concerning a qualifying supermarket expenditure was relevantly exhausted. In substance, there were two offers each having a separate contingency. The conduct in the first period fell outside the Undertaking for essentially the same reasons as applied to the second period."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "In relation to the second period, Woolworths submitted it had been making two different 4 cents per litre offers, each requiring separate qualifying conduct. Each offer reflected the offer of a discount which in each case was a discount of 4 cents per litre. Even if it was appropriate to speak of a total discount of 8 cents per litre, that could not distract from what was really happening. Of the total discount of 8 cents per litre, it was contingent on acquisition of goods or services from a Woolworths supermarket only as to 4 cents per litre. The language of paragraph (10)(d), including the express exception, invited scrutiny of whether part of the total discount fell within the terms of the exception. Once that was done, it was apparent that the relevant conduct did not offend paragraph (10)(d). That was because, in addressing whether the contingency in paragraph (10)(d) was satisfied, it was necessary to make an exception for goods or services acquired from the petrol station. The express exception in paragraph (10)(d) operated so that any contingency based on goods or services acquired from a petrol station must be excluded from the assessment of the contingency. Of the total discount of 8 cents per litre, the discount was only contingent on goods or services not acquired from the petrol station as to 4 cents per litre. Accordingly, paragraph (10)(d) was not offended. The advertisement, which I have set out above at [6], made it plain that Woolworths was offering two discounts in the second period, each of 4 cents per litre, that had separate conditions and could be used separately or together. The advertisement pointed out the obvious fact that if both discounts were used the total saving was 8 cents per litre. This did not detract from, but confirmed, the proposition that both as a matter of substance and form there were two separate discounts being offered and allowed. It was wrong to ignore the substance of what was occurring and to focus simplistically on the saving of 8 cents per litre that was available if both discounts were taken up in a single transaction."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "In oral submissions senior counsel for Woolworths adopted the submissions of senior counsel for Coles, mutatis mutandis: see Australian Competition and Consumer Commission v Coles Group Limited [2014] FCA 363."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "As to the four points made by senior counsel for the ACCC, which I have set out at [20] above, senior counsel for Woolworths adopted the submissions that the first point amounted to a conflation of the legal and factual position as there was a sole contingency governing the 4 cents per litre and there was a different sole contingency governing the extra 4 cents per litre; the second proposition as to the carve out, the words in parentheses, came back to a similar attempt to conflate two different contingencies; third, the absence of any reference to “in whole or in part” in paragraph (10)(d) supported the respondents’ construction; and the fourth point went back to the proposition that discount simply meant the overall saving."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Senior counsel for Woolworths also adopted the criticisms on behalf of Coles made of the corresponding paragraph of the ACCC’s written submissions (adapted by bringing a footnote into the text of the paragraph):\n18. The first of these conditions is, of course, squarely within the terms of subclause 10(d) of the Undertaking. That is enough to place the offering and allowing of an 8 cents per litre discount in breach of clause 10, because quantum is a necessary element of the ‘discount’; and the discount of 8 cents (rather than a lesser discount) is obtained only by having obtained goods or services from a supermarket operated by Woolworths. It is not to the point that the terms and conditions of the new extra 4 cpl offer make a 4 cents per litre discount available to a customer who has not acquired goods or services at a supermarket operated by Woolworths, [or indeed that the new extra 4 cpl offer, considered in isolation, would come within the express words of the exception in subclause 10(d),] and that it is accordingly possible to describe the 8 cents per litre total discount as involving two elements, only one of which is ‘contingent’ upon such an acquisition. Clause 10(b) and (d), at least, look to the total discount allowed on a transaction."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Those criticisms were that the paragraph loosely bundled together the two distinct conditions arising from two different offers and two different contingencies. The proposition that “[t]he discount of [8] cents (rather than a lesser discount) is obtained only by having obtained goods or services from [a supermarket operated by Woolworths]” was, it was submitted by adoption, entirely inaccurate. A discount of 4 cents per litre was obtained only by virtue of having obtained goods and services from supermarkets or other Woolworths stores, not being the petrol station. Any discount that exceeded 4 cents per litre was obtained only by having obtained goods or services from Woolworths Petrol Division in relation to the same transaction."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "The next proposition in paragraph 18 of the ACCC’s written submissions, “[i]t is not to the point that the terms and conditions of the new extra 4 cpl offer make a 4 cents per litre discount available to a customer who has not acquired goods or services at a supermarket operated by Woolworths, or indeed that the new extra 4 cpl offer, considered in isolation, would come within the express words of the exception in subclause 10(d)”, senior counsel for the respondent submitted, was equally invalid and was a rewriting of the contingency that governed the new 4 cents per litre component of the discount and conflated the different contingencies governing the different components of the overall saving."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "Senior counsel for Woolworths submitted that paragraph (5) of the Undertaking states that the ACCC had been conducting an inquiry into the offering of fuel savings offers that focused on the 8 cents per litre and higher fuel saving offers. Paragraph (6) of the Undertaking states that Woolworths understands that the ACCC is concerned about the funding of fuel discount offers, and fuel discount offers above 4 cents per litre which are contingent on the purchase of goods or services (other than purchases at the petrol station)."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "It was submitted that the ACCC was not concerned about fuel discount offers of any amount, be they greater than 4 cents or less than 4 cents, that were contingent on purchases at the petrol station; there was no concern about discounts above 4 cents per se. Nor was there a concern about fuel discount offers of 4 cents per litre or less that were contingent on purchases at supermarkets. Nor was there any identified concern about the aggregation of offers that were themselves not separately a matter of concern."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "It was submitted that the offer made in the first period about which the ACCC complained in the proceedings had been extant in 2012 and 2013. It followed that there was aggregation in the marketplace at the time of the ACCC’s inquiry and if there was a concern about aggregation then the ACCC would have been astute to make that clear in its media release but it did not."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "As to the first period, senior counsel for Woolworths submitted that as a matter of characterisation, the offers should be regarded as separate and giving rise to separate discounts, each of 4 cents per litre and that was because the customer was required to first secure the supermarket discount offer at a supermarket in one transaction and then in a separate and subsequent transaction there was a further condition, being to spend the $5 or more in-store to obtain the extra discount. It was also submitted that even if one started with the premise that there was a discount of 8 cents per litre, the words in parentheses made it necessary to remove from the analysis that part of the discount that was derived from the acquisition of excepted goods or services and it followed that one had to remove from the analysis and not take into account the extra 4 cents that was generated from the purchases in-store. Once one removed the extra 4 cents from the analysis then that left the supermarket docket discount and the Undertaking was not breached."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The submissions of the parties"
+    ],
+    "text": "As to the second period, senior counsel for Woolworths submitted that, as a matter of characterisation, there were two offers being made of separate discounts and, when both were redeemed, Woolworths was allowing two discounts. There was nothing as a matter of construction of paragraph (10) which required some kind of combination. The language was perfectly apt to address separate discounts being offered and allowed as part of the one acquisition of fuel. As separate discounts, each was permitted by paragraph (10)(d). The argument that there was one discount, a combined discount, of 8 cents per litre was a mischaracterisation. When one looked at the offers and studied the terms there was no doubt that there were separate discounts being offered. Even assuming there was a single discount, if one asked the question “is it contingent on the past or future acquisition of other goods or services (except goods or services acquired from a petrol station operated by Woolworths Petrol Division)”, in assessing the contingency it was necessary to except goods or services acquired from a petrol station. Insofar as there was a combined discount of 8 cents, that discount was contingent as to 4 cents on excepted goods or services. Language such as “in whole or in part” was absent from paragraph (10)(d). That language was found in paragraph (10)(c) but not in paragraph (10)(d). Those words would have work to do in respect of the discount and what paragraph (10)(d) did not say was that there was a prohibition if the discount in whole or in part was contingent on the past or future acquisition of supermarket goods or services and that would be expected if it was contemplated that it would be sufficient if part of the discount offended paragraph (10)(d) in order for that paragraph to be enlivened."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I turn to apply paragraph (10) of the Undertaking to the facts in relation to each period. (No separate issue arises in relation to paragraph (10)(c) of the Undertaking. It is an alternative to paragraph (10)(d) as indicated by the word “or” appearing between the two subparagraphs. The ACCC submitted that, in very general terms, the paragraph was directed at cross-subsidising, a discount funded by the supermarket business, and it made no allegation that that was what was occurring or had occurred.)"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As to the first period, in my opinion there was a discount offered or allowed on a customer’s acquisition at retail of petrol on any single acquisition greater than 4 cents per litre, within the meaning of paragraph (10). The focus must be on the discount in fact allowed in the single transaction at retail of petrol. The 8 cents per litre was the difference between the price specified on the pumps and what the customer paid in a particular transaction. I therefore reject the submission made on behalf of Woolworths that, as a matter of characterisation, the offers should be regarded as separate and giving rise to separate discounts, each of 4 cents per litre."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As to the first period, I also reject the related submission made on behalf of Woolworths that, as a matter of substance, the supermarket docket contingency should be regarded as exhausted and, as a matter of substance, the contingency applicable to the extra 4 cents per litre was the expenditure of $5 or more in-store and the second offer did not fall foul of paragraph (10)(d) both because it was 4 cents per litre or less and because it was contingent on the purchase of goods or services in-store. In my opinion that is to focus on the provenance of the offer rather than on the discount offered or allowed on any single transaction at retail of fuel."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion, the central question is whether the discount was contingent on the past acquisition of other goods or services from (Woolworths) supermarkets within the meaning of paragraph (10)(d)."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion the words “contingent on” in the Undertaking mean “conditional on” or “dependent on” since there is here nothing which is referable to chance or accident."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Woolworths submitted as a matter of construction that even if, as I have found, there was a discount of 8 cents per litre, the words in parentheses made it necessary to remove from the analysis that part of the discount that was derived from the acquisition of excepted goods or services and it followed that one had to remove from the analysis and not take into account the extra 4 cents that was generated from the purchases in-store at the petrol station. Once one removed the extra 4 cents from the analysis then that left the supermarket docket discount and the Undertaking was not breached. I reject that construction of paragraph (10)(d) since, in my view, it impermissibly attaches the words in parentheses to the discount rather than to the contingency. The ordinary reading of the language of the paragraph is that the goods or services acquired from a petrol station operated by Woolworths Petrol Division qualify the contingency to which the discount is subject rather than qualifying the discount itself."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Returning to the question whether the discount in the first period was contingent on the past acquisition of other goods or services from (Woolworths) supermarkets within the meaning of paragraph (10)(d), in my opinion it was so contingent. This is because in the first period the discount offered or discount allowed on any single acquisition at retail of fuel was both greater than 4 cents per litre (being 8 cents per litre) and contingent on the past acquisition of Woolworths supermarket goods or services because to qualify for the 8 cents per litre offer it was a prerequisite or essential condition that the customer “must spend” at least the qualifying amount ($30) in one transaction at a participating Woolworths/Safeway Supermarket Store. It follows, in my opinion, that the 8 cents per litre discount on the single acquisition at retail of fuel was contingent on the acquisition of Woolworths supermarket (non-fuel) goods or services since, as a matter of the terms and conditions of the offer, the customer could not obtain that discount absent the customer’s satisfying the prerequisite or except on that condition."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I therefore find that in the first period Woolworths was in breach of its Undertaking and the ACCC is entitled to declarations accordingly, as referred to in paragraphs 1 and 2 of its amended originating application. An order in respect of the first period in the terms of paragraph 3 of the amended originating application, which sought an order that the respondent comply with the terms of the Undertaking, would not appear to be necessary since the first period has ended."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As to the second period, again in my view the focus must be on the discount in fact allowed in the single transaction at retail of petrol."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As with the first period, the first question is whether Woolworths either made an offer pursuant to which a person may obtain a discount on their acquisition at retail of fuel or allowed any discount to a customer on their acquisition at retail of fuel. The second aspect of that matter is whether the discount is 8 cents per litre."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion Woolworths allowed a discount of 8 cents per litre to its customers on their acquisition at retail of fuel. That was the difference between the price specified on the pumps and what the customer paid in a particular transaction."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Also, in my opinion, Woolworths made an offer pursuant to which persons might obtain that discount of 8 cents per litre on their acquisition at retail of fuel. That is the offer at the point of sale or acquisition."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "It follows that the discount on any single acquisition at retail of fuel was 8 cents per litre and therefore greater than 4 cents per litre."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my view it is not to the point that the discount has its source in two offers, one in an acquisition by a customer at a supermarket and the other in an acquisition by a customer at a Woolworths petrol station. It is also not to the point that analysed separately there was one offer from Woolworths of 4 cents per litre and another offer from Woolworths petrol stations where the offer from Woolworths petrol stations was 4 cents per litre. That, in my opinion, is to focus on the wrong offer. The offer in question is the offer which led to the allowance of the discount of 8 cents per litre to a customer on the customer’s acquisition at retail of fuel on any single acquisition."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As with the first period, the dispositive question is whether the discount of 8 cents per litre on any single acquisition at retail of fuel greater than 4 cents per litre was contingent on the past or future acquisition of other goods or services (except those acquired from a petrol station operated by Woolworths Petrol Division)."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "But unlike the first period when, as a matter of the terms and conditions of the offer, to qualify for the 8 cents per litre offer it was a prerequisite or essential condition that the customer “must spend” at least the qualifying amount ($30) in one transaction at a participating Woolworths/Safeway Supermarket Store, the discount in the second period is contingent only in part on the past acquisition of other goods from Woolworths (other than goods acquired from a petrol station operated by Woolworths Petrol Division). That part is not greater than 4 cents per litre."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Although the (total) discount would not be 8 cents per litre without the past acquisition of other goods or services from a Woolworths supermarket, that, in my view, does not make the entirety of the discount of 8 cents contingent on that past acquisition of other goods or services. As a matter of the terms and conditions of the offer, the linkage between the components of the offer in the first period was not present in the second period."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I conclude that in the second period 4 cents per litre of the discount was contingent only on supermarket purchases and 4 cents per litre of the discount was contingent only on an acquisition of goods or services from a petrol station operated by Woolworths Petrol Division. In my opinion the words in parentheses in paragraph (10)(d) “(except goods or services acquired from a petrol station operated by Woolworth Petrol Division …)” qualify the word “contingent” in the sense that they operate to exclude a class of goods or services from the contingency."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I accept it would be unrealistic to assume that a person acquiring goods from a Woolworths supermarket would have been unaware that the docket could be used at a petrol station operated by Woolworths Petrol Division where Woolworths would allow a discount on any single acquisition at retail of fuel greater than 4 cents per litre and that, when combined with the consequence of a purchase from a Woolworths supermarket, the total discount would be greater than 4 cents per litre. However this does not mean, in my opinion, that that offer or allowance of 8 cents per litre was contingent on the past acquisition of non-fuel goods or services, that is, from Woolworths supermarkets. Neither does it mean that the offer or allowance of 4 cents per litre of that offer at the petrol station operated by Woolworths Petrol Division was so contingent."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion, there is no more than a factual linkage between a supermarket-based offer and the size of the discount at the service station but there is not the contingency set out in the Undertaking. While I can understand the ACCC’s submission that, from the policy perspective of the ACCC, paragraph (10)(d) was directed at the offering of large discounts to customers of the supermarkets, that is, the use by Woolworths of its large supermarket customer base to bring people into co-branded service stations and away from other service stations, the text of the Undertaking does not support the conclusion that here the discount on any single acquisition greater than 4 cents per litre (4 cents) was contingent on the past acquisition of goods or services from a Woolworths supermarket."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Accordingly there was no breach of the Undertaking during the second period."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "Within 14 days, the parties should bring in short minutes giving effect to these reasons and dealing with costs. My tentative view is that in light of the partial success of each party, each party should bear its own costs of the proceeding."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-nine (59) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.",
+ "associate": null,
+ "dated": "2014-04-14",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "6acd6ae767d52fe6ab58bd3cbd26c47b8991f942cd9b088ba7e4a9e9b8767e3e",
+ "markdown_file": "data/extracted/2014/2014FCA0364.md"
+}

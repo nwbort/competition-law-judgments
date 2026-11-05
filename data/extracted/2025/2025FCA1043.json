@@ -1,0 +1,1120 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2025/2025FCA1043.docx",
+ "metadata": {
+  "citation": "[2025] FCA 1043",
+  "name": "Australian Competition and Consumer Commission v Mastercard Asia/Pacific Pte Ltd (No 3)",
+  "court": "FCA",
+  "year": 2025,
+  "number": 1043,
+  "date_of_judgment": "2025-08-29",
+  "file_numbers": [
+   "NSD401/2022"
+  ],
+  "judges": [
+   "WIGNEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2025-07-03"
+  ],
+  "hearing_raw": "3 July 2025",
+  "number_of_paragraphs": 104,
+  "catchwords": [
+   "PRIVILEGE – legal professional privilege – implied waiver – filling and service of affidavits – somewhat novel challenge to privilege direct at categories not specific documents – principles of implied waiver – scant particulars of privilege claims – test for inconsistency between conduct and maintenance of privilege – actions involving client’s state of mind –the making of assertions about the contents of communications lays the communications open to scrutiny –whether the party claiming privilege should be given the opportunity to consider whether to read the words in the affidavits that resulted in the waiver – whether waiver of associated documents – voluntary disclosure of privileged communications – whether subsequent communications are subject of separate discreet privilege claims relating to further advice"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 45(1), 46(1) and 47(1)",
+   "Federal Court Rules 2011 (Cth) r 20.32"
+  ],
+  "cases_cited": [
+   "Adelaide Steamship Co Ltd v Spalvins (1998) 81 FCR 360",
+   "Archer Capital 4A Pty Ltd (as trustee for the Archer Capital Trust 4A) v Sage Group PLC (No 3) [2013] FCA 1160; (2013) 306 ALR 414",
+   "Austral Dutch Kaolin Pty Ltd v Hanjin P&C Co Ltd [2011] FCA 638",
+   "Australian Securities and Investments Commission v Australia and New Zealand Banking Group Ltd (No 2) [2020] FCA 1013",
+   "AWB Limited v Honourable Terence Rhoderic Hudson Cole (No 5) [2006] FCA 1234",
+   "Commissioner of Taxation v Rio Tinto Limited (2006) 151 FCR 341; [2006] FCAFC 86",
+   "Council of the NSW Bar Association v Archer (2008) 72 NSWLR 236; [2008] NSWCA 164",
+   "DSE (Holdings) Pty Ltd v Intertan Inc (2003) 127 FCR 499; [2003] FCA 384",
+   "Ferella v Official Trustee in Bankruptcy (as trustee of the bankrupt estates of Ferella) (2010) 188 FCR 68; [2010] FCA 766",
+   "GR Capital Group Pty Ltd v Xinfeng Australia International Investments Pty Ltd [2020] NSWCA 266",
+   "Grocon Group Holdings Pty Limited v Infrastructure NSW (No 2) [2023] NSWSC 1144",
+   "Hall v Arnold Bloch Leibler (a firm) [2020] FCA 1495",
+   "Mann v Carnell (1999) 201 CLR 1; [1999] HCA 66",
+   "Re Idoport Pty Ltd (in liq) [2012] NSWSC 58",
+   "Thomas v New South Wales [2006] NSWSC 380",
+   "Zantran Pty Limited v Crown Resorts Limited (No 2) [2020] FCA 1024"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "MASTERCARD ASIA/PACIFIC PTE LTD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MASTERCARD ASIA/PACIFIC (AUSTRALIA) PTY LTD",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr J Arnott SC with Mr B Hancock"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Johnson Winter Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr C Bannan with Ms T Epstein"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Baker McKenzie"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1043",
+  "portal_file_numbers": [
+   "NSD401/2022"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2025-08-29"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 401 of 2022"
+  },
+  {
+   "label": "Judgment of",
+   "value": "WIGNEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "29 August 2025"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRIVILEGE – legal professional privilege – implied waiver – filling and service of affidavits – somewhat novel challenge to privilege direct at categories not specific documents – principles of implied waiver – scant particulars of privilege claims – test for inconsistency between conduct and maintenance of privilege – actions involving client’s state of mind –the making of assertions about the contents of communications lays the communications open to scrutiny –whether the party claiming privilege should be given the opportunity to consider whether to read the words in the affidavits that resulted in the waiver – whether waiver of associated documents – voluntary disclosure of privileged communications – whether subsequent communications are subject of separate discreet privilege claims relating to further advice"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 45(1), 46(1) and 47(1)\nFederal Court Rules 2011 (Cth) r 20.32"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Adelaide Steamship Co Ltd v Spalvins (1998) 81 FCR 360\nArcher Capital 4A Pty Ltd (as trustee for the Archer Capital Trust 4A) v Sage Group PLC (No 3) [2013] FCA 1160; (2013) 306 ALR 414\nAustral Dutch Kaolin Pty Ltd v Hanjin P&C Co Ltd [2011] FCA 638\nAustralian Securities and Investments Commission v Australia and New Zealand Banking Group Ltd (No 2) [2020] FCA 1013\nAWB Limited v Honourable Terence Rhoderic Hudson Cole (No 5) [2006] FCA 1234\nCommissioner of Taxation v Rio Tinto Limited (2006) 151 FCR 341; [2006] FCAFC 86\nCouncil of the NSW Bar Association v Archer (2008) 72 NSWLR 236; [2008] NSWCA 164\nDSE (Holdings) Pty Ltd v Intertan Inc (2003) 127 FCR 499; [2003] FCA 384\nFerella v Official Trustee in Bankruptcy (as trustee of the bankrupt estates of Ferella) (2010) 188 FCR 68; [2010] FCA 766\nGR Capital Group Pty Ltd v Xinfeng Australia International Investments Pty Ltd [2020] NSWCA 266\nGrocon Group Holdings Pty Limited v Infrastructure NSW (No 2) [2023] NSWSC 1144\nHall v Arnold Bloch Leibler (a firm) [2020] FCA 1495\nMann v Carnell (1999) 201 CLR 1; [1999] HCA 66\nRe Idoport Pty Ltd (in liq) [2012] NSWSC 58\nThomas v New South Wales [2006] NSWSC 380\nZantran Pty Limited v Crown Resorts Limited (No 2) [2020] FCA 1024"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "104"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "3 July 2025"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr J Arnott SC with Mr B Hancock"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Johnson Winter Slattery"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr C Bannan with Ms T Epstein"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Baker McKenzie"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD401/2022",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "MASTERCARD ASIA/PACIFIC PTE LTD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MASTERCARD ASIA/PACIFIC (AUSTRALIA) PTY LTD",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "WIGNEY J"
+   ],
+   "date": "2025-08-29",
+   "date_raw": "29 August 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Subject to orders 2 and 3, the respondents produce for inspection by the applicant, within 28 days of the making of this order, unredacted copies of documents falling within the following descriptions:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "documents created between August 2017 and November 2020 constituting or recording communications to which Mr Koh Wee Keong was a party (including communications authored by Mr Koh and communications received by or copied to Mr Koh) which (in whole or in part) record or refer to the following subject matter: the strategy or purpose of the first respondent and/or the second respondent in offering, negotiating, approving or entering SMAs (as defined in the Further Amended Statement of Claim) (the Koh waived subject-matter);",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "documents created between August 2017 and November 2020 constituting or recording communications to which Mr Naushaza (Bobby) Molu was a party (including communications authored by Mr Molu and communications received by or copied to Mr Molu) which (in whole or in part) record or refer to the following subject matter: the strategy or purpose of the first respondent and/or the second respondent in offering, negotiating, approving or entering SMAs (as defined in the Further Amended Statement of Claim) and/or the likely effect of such SMAs (the Molu waived subject-matter).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The documents produced in accordance with order 1 may be redacted to reflect claims of legal professional privilege insofar as the redacted parts of the documents do not refer to or address either the Koh subject-matter or the Molu subject-matter.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Order 1 does not require the respondents to produce any documents that have already been discovered or otherwise provided to the applicant by the respondents in unredacted form and which the respondents have not subsequently requested that the applicant delete.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Paragraphs 2 – 5 of the applicant’s further amended interlocutory application dated 4 June 2025 be otherwise dismissed.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The costs of the further amended interlocutory application be reserved.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The Australian Competition and Consumer Commission (ACCC) commenced this proceeding alleging that Mastercard Asia/Pacific Pte Ltd (Mastercard Singapore) and Mastercard Asia/Pacific (Australia) Pty Ltd (Mastercard Australia) (collectively Mastercard) contravened, or were involved in contraventions of, s 45(1), 46(1) and 47(1) of the Competition and Consumer Act 2010 (Cth). Mastercard denies the ACCC’s allegations and is defending the proceeding. After some interlocutory disputation and delay, Mastercard have provided an extensive list of documents and produced numerous documents by way of discovery. Mastercard has claimed legal professional privilege in respect of some of the discovered documents, in whole or in part. The interlocutory dispute that is the subject of this judgment concerns whether, as the ACCC claims, Mastercard has waived that privilege in respect of documents that fall within certain categories or which address a certain subject matter. The resolution of this issue is not without its difficulties and complexities.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The ACCC contends that Mastercard has waived privilege in two distinct ways. First, the ACCC contends that, by adducing evidence from two of its officers in respect of a particular issue, Mastercard has acted inconsistently with the maintenance of confidentiality of any otherwise privileged communications in respect of that issue. It is convenient to refer to this as a claim of implied waiver. This was the most contentious and complex aspect of the ACCC’s case in respect of waiver. It accordingly dominated much of the debate. Second, the ACCC contends that, by disclosing certain legal advice, Mastercard not only waived any privilege claims in respect of that advice, but also waived privilege in respect of certain associated material. It is convenient to refer to this as a claim of waiver in respect of associated documents, though as discussed later, that label should not be taken as indicating that it is some different species of associated waiver.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The ACCC’s case in respect of Mastercard’s waiver of privilege is somewhat novel, though not entirely unique, in that the ACCC does not, and apparently is not able to, point to any specific communications or documents in respect of which it claims that privilege has been waived by Mastercard. Rather, it identifies the scope of the alleged waiver by reference to categories of documents.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Before addressing the applicable principles in respect of implied waiver, and the specific facts and circumstances which the ACCC contends has resulted in the waiver of privilege, it is necessary to provide some context by briefly outlining the key allegations made by the ACCC in its substantive case against Mastercard.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "I should also note, at the outset, that some of the extracts from the evidence to which references is made in these reasons are redacted in part to reflect the fact that they are the subject of interim suppression orders. The names of the merchants who entered the agreements with Mastercard which are at the forefront of the ACCC’s case have also been anonymised by referring to them as “Customer 1”, Customer 2” etcetera. Whether final suppression orders will be made in respect of this material remains to be seen. The basis upon which suppression orders is said to be warranted in respect of much of that material is not readily apparent. That issue will be determined at an interlocutory hearing in December 2025.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "In order to determine the ACCC’s waiver claims, in particular its claim of implied waiver, it is necessary to provide a very brief outline of the ACCC’s key allegations against Mastercard, particularly in respect of its case that Mastercard contravened, or was involved in the contravention of, ss 45(1) and 46(1) of the Act. The ACCC’s statement of claim is very long and complex. What follows is no more than a highly simplified thumbnail sketch of the key allegations sufficient to provide some appropriate context. Mastercard’s defence is equally long and complex. It suffices to note for present purposes that the ACCC’s key allegations are all denied by Mastercard.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "The ACCC’s key allegations may be summarised as follows.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "Mastercard Singapore and Mastercard Australia are part of a multinational corporate group that operates and manages a global payments network through which transactions are authorised, cleared and settled. That network involves both credit card and debit card payment schemes. Both companies provide services in Australia in the market for the supply to merchants of credit card acceptance services for credit card transactions (the credit market). They also provide services in a market for the supply to merchants of debit card acceptance services for debit card transactions.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "The ACCC alleges that Mastercard had a substantial degree of power in the credit market at the time the events relevant to the ACCC’s case occurred.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "Eftpos Payments Australia Limited (EPAL) provides debit card acceptance services to merchants in Australia through what is generally referred to as the eftpos network.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "In about 2017, the Reserve Bank of Australia endorsed an initiative to encourage “merchant cost routing” or “least cost routing” for debit card transactions so as to increase competition in the supply of debit card acceptance services in Australia.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "In 2017, Mastercard developed a strategy, described as the credit leverage strategy, which was intended to discourage merchants from choosing to route debit card transactions through the eftpos network and away from the Mastercard network. That strategy included procuring various merchants to enter into agreements, referred to as strategic merchant agreements (SMAs) with Mastercard Singapore. Pursuant to those agreements, Mastercard offered merchants various incentives, including lower prices for credit card acceptance services, if they routed their debit card transactions through the Mastercard scheme.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "The ACCC alleges that a substantial purpose of Mastercard’s credit leverage strategy was to harm, or disrupt or adversely affect the competitive process for the supply of debit card acceptance services and thereby prevent or hinder competition by, among other things, deterring merchants from acquiring debit card acceptance services from EPAL. Mastercard would thereby secure or retain a substantial proportion of debit card volume in the Mastercard network. The ACCC’s case is that Mastercard’s purpose in developing and approving the credit leverage strategy and procuring, negotiating and entering into SMA’s with merchants as part of that strategy, was to substantially lessen competition in the market in Australia for the supply to merchants of debit card acceptance services for debit card transactions.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "The ACCC’s allegation in respect of the strategy and purpose that lay behind the SMAs is perhaps the central issue in the case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "THE KEY ALLEGATIONS AGAINST MASTERCARD"
+    ],
+    "text": "In short, the essence of the ACCC’s case is that, by procuring, negotiating and entering into SMAs with various merchants with the intention of substantially lessening competition in the market for the supply of debit card acceptance services, Mastercard contravened ss 45 and 46 of the Act. While Mastercard did not dispute that it entered into SMAs with various merchants, it denied that it did so for the purpose alleged by the ACCC.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "One of the essential features of a communication that is the subject of legal professional privilege is that the communication was and remains confidential. There will be an implied waiver of that privilege where the conduct of the client is inconsistent with the maintenance of that confidentiality: Mann v Carnell (1999) 201 CLR 1; [1999] HCA 66 at [29]. Implied waiver is not brought about by “some overriding principle of fairness operating at large”, though the assessment of whether the client (or privilege holder) has acted inconsistently with the maintenance of the confidentiality of the communication may be informed, where necessary, by consideration of fairness: Mann v Carnell at [29].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "Inconsistency with the continued confidentiality of a communication may arise where the privilege holder makes an express or implied assertion or brings a case “which is either about the contents of the confidential communication or which necessarily lays open the confidential communication to scrutiny”: DSE (Holdings) Pty Ltd v Intertan Inc (2003) 127 FCR 499; [2003] FCA 384 at [58]; see also Commissioner of Taxation v Rio Tinto Limited (2006) 151 FCR 341; [2006] FCAFC 86 at [52], [61]: Archer Capital 4A Pty Ltd (as trustee for the Archer Capital Trust 4A) v Sage Group PLC (No 3) [2013] FCA 1160; (2013) 306 ALR 414 at [9]-[10]. If “the privilege holder is understood to be asserting something about the contents of the communications, it is but a short step to conclude that it would be inconsistent for it to prevent those contents being scrutinised”: GR Capital Group Pty Ltd v Xinfeng Australia International Investments Pty Ltd [2020] NSWCA 266 at [57(2)] (Macfarlan JA with whom McCallum JA and Simpson AJA agreed at [67], [68]).",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "The “mere relevance of the content of the privileged communications to an issue raised in the proceedings by the privilege holder does not equate to inconsistency – something more is needed”: GR Capital at [57(3)]; see also Adelaide Steamship Co Ltd v Spalvins (1998) 81 FCR 360 at 371; Rio Tinto at [53]; Council of the NSW Bar Association v Archer (2008) 72 NSWLR 236; [2008] NSWCA 164 at [48]; Archer Capital at [13]. Similarly, the mere fact that the privilege holder has put their state of mind in issue does not necessarily mean that they have acted inconsistently with the confidentiality of any privileged communication that might be relevant to that state of mind: Archer Capital at [20]-[26]; DSE at [95], [97]; Ferella v Official Trustee in Bankruptcy (as trustee of the bankrupt estates of Ferella) (2010) 188 FCR 68; [2010] FCA 766 at [65]; Austral Dutch Kaolin Pty Ltd v Hanjin P&C Co Ltd [2011] FCA 638 at [22]; Australian Securities and Investments Commission v Australia and New Zealand Banking Group Ltd (No 2) [2020] FCA 1013 at [35]-[36].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "In its submissions in opposition to the ACCC’s waiver claim, Mastercard relied on a passage in Archer Capital (at [22]) that, considered in isolation, might tend to suggest that the “ultimate question” in determining whether there has been an implied waiver was “whether the privilege holder has expressly or impliedly made an assertion about the contents of an otherwise privileged communication for the purpose of mounting a case or substantiating a defence”. It is tolerably clear, however, that the statement in question was made in the context of an attempt to reconcile the authorities concerning the circumstances in which a privilege holder might waive privilege by putting their state of mind in issue. When read in that context, and in the context of the analysis of the applicable principles that precedes the statement in [22], the statement should not be read as suggesting that relevant inconsistency can only arise where there is an express or implied assertion about the contents of a privileged communication: cf Grocon Group Holdings Pty Limited v Infrastructure NSW (No 2) [2023] NSWSC 1144 at [14]. Nor can that be said to be the ultimate question in determining whether there has been an implied waiver.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "As is made clear in Mann v Carnell, the ultimate question is whether the privilege holder has engaged in conduct which is inconsistent with the maintenance of the confidentiality that attaches to a privileged communication. While the making of an implied assertion about the contents of an otherwise privileged communication will normally be sufficient to amount to a waiver, that is not to say that there will only be a waiver if such an assertion is found to have been made. The test is always one of inconsistency and there is no closed or categorical list of circumstances that constitute the necessary inconsistency that will result in an implied waiver. What is required is a “fact-based inquiry”: Rio Tinto at [61]; Archer Capital at [12]. Each case will turn on its own facts and circumstances and the court is required to “analyse the acts or omissions of the privilege holder that are said to be inconsistent with the maintenance of the privilege”: Rio Tinto at [45].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "IMPLIED WAIVER - APPLICABLE PRINCIPLES"
+    ],
+    "text": "The conduct of a privilege holder may be inconsistent with the maintenance of the confidentiality of a privileged communication if the privilege holder gives evidence on the same issue as the privileged communication. For example, it may be inconsistent for a privilege holder to give evidence to the effect that they were unaware of a particular fact, or that they were not told about a particular fact, or that they had a particular understanding relating to that fact, but nevertheless maintain that legal advice he or she sought or received about that fact, or which referred to that fact, remained confidential: see Grocon at[13], [33] and [37]; GR Capital at [59]. As will be seen, the ACCC contends that Mastercard’s conduct in this case gives rise to inconsistency of this general nature.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?"
+    ],
+    "text": "The essence of the ACCC’s case that Mastercard had waived privilege in respect of certain otherwise privileged communications centres on the fact that Mastercard had filed and served affidavits from two relatively senior Mastercard officers, Mr Koh Wee Keong, Richard and Mr Naushaza (Bobby) Molu. Mr Koh and Mr Molu were both significant figures in relation to the alleged credit leverage strategy and Mastercard’s negotiation and entry into SMAs with merchants.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?"
+    ],
+    "text": "At the relevant time, Mr Koh was employed by Mastercard Singapore and occupied the position of Senior Business Leader, Deal Management within the Finance Division. His responsibilities included reviewing and approving Australian “deals” on behalf of Mastercard Singapore, including proposed SMAs involving Australian merchants. As will be seen, Mr Koh’s affidavit evidence includes that he drafted a paper, referred to as the “SMR paper”, which documented some concerns he had about how one of the initial proposed SMAs might be interpreted. Prior to drafting that paper, Mr Koh states that he consulted with other Mastercard Singapore officers, including Mastercard Singapore’s General Counsel and Mr Molu.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?"
+    ],
+    "text": "As will be discussed in more detail in due course, the ACCC contends that Mr Koh’s evidence contains express or implied assertions about the content of communications that he had with several Mastercard officers, including their in-house counsel, about, among other things, the strategy and purpose that lay behind the SMAs. In the ACCC’s submission, Mastercard has thereby waived any privilege claims it had in respect of those communications.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?"
+    ],
+    "text": "Mr Molu was the Chief Financial Officer of Mastercard Singapore from August 2017. Mr Koh reported to Mr Molu. Mr Molu was also involved in reviewing and approving SMAs on behalf of Mastercard Singapore. As will be seen, his affidavit evidence includes evidence about the considerations to which he had regard when reviewing the SMAs and what he knew and understood about Mastercard’s strategy in entering into the SMAs. The ACCC contends that Mr Molu’s affidavit evidence contains express and implied assertions regarding the content of communications he had with several officers of Mastercard, including in-house counsel, and that Mastercard has accordingly waived privilege in respect of any such communications.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?"
+    ],
+    "text": "It will be necessary to give detailed consideration to the evidence of both Mr Koh and Mr Molu in order to consider the ACCC’s contentions concerning waiver. Before doing so, however, it is necessary to say something briefly about the orders sought by the ACCC based on the alleged implied waiver.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "As adverted to earlier, the ACCC’s application in respect of the alleged waiver is somewhat novel because it does not identify any specific privilege claims by Mastercard which the ACCC maintains have been waived as a result of the filing and service of the affidavits of Mr Koh and Mr Molu. The ACCC does not seek the production of any specific documents, or unredacted copies of any specific documents, which are the subject of Mastercard’s privilege claims. Rather, the ACCC seeks two orders, the first of which would effectively require Mastercard to identify and provide further information about certain categories of documents, and the second of which would require Mastercard to produce unredacted copies of those documents for inspection. The categories of documents relevant to those two orders will be discussed in more detail later. It suffices at this point to note that categories, which are detailed in Annexure B to the further amended interlocutory application, broadly address the subject matters of those parts of the affidavits of Mr Koh and Mr Molu which the ACCC claims have resulted in a waiver of privilege.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "It is not entirely clear why the ACCC seeks to require Mastercard to identify and provide more information about documents that address the subject matters addressed in parts of the affidavits of Mr Koh and Mr Molu, though the rationale appears to be that if it obtains that information, it may better be able to target its claims in respect of waiver of privilege in respect of some or all of those documents. The ACCC submitted that it had effectively been compelled to seek further information about those documents because Mastercard’s descriptions of the documents that are the subject of its privilege claims in Part 2 of its lists of documents are very spare or scant. Many of the documents that are the subject of Mastercard’s privilege claims appear to be emails. Mastercard’s descriptions of the emails simply identify: the date the email was sent; the sender(s) of the email; the person(s) to whom the email was addressed; the person(s) to whom the email was copied; and whether the privilege claim is in respect of the whole of the document or part only and the basis of the privilege claim. The descriptions provide no information about the general subject-matter of the email. The basis of the privilege claim in most instances is simply said to be “(c)onfidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice”. In relation to documents that do not appear to be emails, the information provided about the document is even more scant. No information is provided in respect of the type or nature of the document, let alone its general subject-matter.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "It may be accepted that the very spare and scant information provided by Mastercard in respect of the documents over which it made privilege claims make it very difficult for the ACCC to identify any specific documents in respect of which it claims that Mastercard has waived privilege. Even so, it is difficult to see the utility in the order sought by the ACCC which requires the provision of further information about the documents falling within the Annexure B categories of documents. That is particularly so given that the ACCC is in any event seeking the production of unredacted copies of all the documents that fall within those categories. Why seek further information about the documents if the documents are to be produced in any event?",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "Putting that issue to one side, the more substantive question which arises in respect of the orders sought by the ACCC is whether the fact that the ACCC’s contention in respect of implied waiver is not directed to any specific documents is fatal to, or adversely affects, the merits of the ACCC’s application. Mastercard submitted that the fact that the ACCC’s challenge to Mastercard’s privilege claims on the basis that Mastercard has waived privilege is not conducted “document-by-document” means that the challenge is made entirely in the abstract and therefore lacks merit.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "That submission is rejected.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "While it may be accepted that the ACCC’s case in respect of waiver is somewhat novel, in that it is directed at broad categories of documents, rather than specific documents, in respect of which Mastercard has made, or may have made, privilege claims, its case in that regard is not entirely unique. A similar case of implied waiver was successfully mounted in Grocon. Moreover, in my view the ACCC’s approach is justified by the particular circumstances of this case. As has already been noted, Mastercard’s descriptions of the documents over which it claims privilege are, to say the very least, scant and unhelpful. It is difficult to see why issues arising from the deficiency of Mastercard’s relevant document descriptions should be visited upon the ACCC.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "More significantly, where the inconsistency resulting in the waiver is said to arise from the privilege holder making assertions about a particular topic or subject-matter and at the same time maintaining that advice received on that topic or subject-matter remains confidential, it may be appropriate to order production of otherwise privileged documents which refer or relate to that subject-matter. Justice Ball expressed a similar view in Grocon in circumstances not materially dissimilar to the circumstances of this case. His Honour said (at [30]):\nOnly the privilege holder knows the actual contents of the advice. Where the inconsistency is said to arise from the subject matter of the communication in respect of which privilege is claimed, it seems to me appropriate not to start with the communications but with the basis on which the inconsistency [is] said to arise. If the court is satisfied that it would be inconsistent for a privilege holder both to make a particular allegation or give evidence of a particular matter and claim privilege over legal advice concerning the same subject-matter, then it should tailor the order for production by reference to that subject-matter, leaving it to the privilege holder to produce any documents falling within that description. It should not start with the document over which privilege is claimed and its description. The former approach was the one taken by the Court of Appeal in GR Capital, and I should follow it.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "The reasoning of Ball J in Grocon, with which I respectfully agree, supports the approach taken by the ACCC in the circumstances of this case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "Mastercard also submitted that, if it is found that the filing and service of the affidavits of Mr Koh and Mr Molu gives rise to an implied waiver, the categories of documents in Annexure B are nevertheless too broad. As will be seen, there is some merit in that submission. This issue will be addressed later in the context of considering whether the affidavit evidence of Mr Koh and Mr Molu gives rise to a waiver of privilege in respect of documents that deal with a particular topics or subject-matter.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The orders sought by the ACCC based on implied waiver"
+    ],
+    "text": "There are other issues or potential problems with the form of the orders sought by the ACCC. In particular, the production order sought by the ACCC would require Mastercard to produce for inspection unredacted copies of documents that fall within the document descriptions in Annexure B to the further amended interlocutory application. It accordingly does not provide for the possibility that the documents might be redacted to reflect privilege claims that are not on any view affected by the claimed waiver arising from the filing and service of the affidavits of Mr Koh and Mr Molu.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "The critical parts of Mr Koh’s affidavit which provide the basis of the ACCC’s contentions concerning waiver are those which, broadly speaking, concern his review, evaluation and approval of SMAs proposed by Mastercard Australia. At paragraphs [18] to [22], Mr Koh addresses his involvement in evaluating a proposed SMA with a particular merchant. As adverted to earlier, some of the information disclosed in Mr Koh’s affidavit, including the names of the merchants that entered SMAs with Mastercard, is currently the subject of an interim non-publication order. Mr Koh states as follows in paragraphs [18] – [22] of his affidavit:\n18. In August and September 2017, I was involved in evaluating a proposed SMA with [Customer 3] on behalf of Mastercard Singapore. Carol Liu, who was a Director of Deal Management in the Mastercard Australia finance team, sent me an email on 25 August 2017 regarding the proposed agreement with [Customer 3]. A copy of this email, together with a draft SMA, is at Tab 1 of Exhibit RK-1 [MCD.112.010.1829, MCD.112.010.1831]. The proposed [Customer 3] SMA included [Customer 3] agreeing to [redacted] receiving a strategic interchange rate in the same deal.\n19. Upon reviewing the deal, I was concerned that the proposed SMA could be interpreted as Mastercard leveraging favourable interchange rates in return for receiving commercial benefits (even if indirectly). I held this concern because of my view of Mastercard’s role in relation to interchange rates within the payments ecosystem, which I considered to be “neutral” in that it generally involves Mastercard setting interchange rates for the benefit of the ecosystem as a whole. My concern was that by structuring the SMA in a way that meant that Mastercard could be seen to receive commercial benefits in exchange for providing strategic interchange rates, Mastercard could be perceived as stepping outside of this role.\n20. Although my role was to review and approve SMAs from a finance perspective, and this was not a finance issue, I considered it was part of my role to raise my concern with others within Mastercard Singapore.\n21. On or around 5 September 2017, after obtaining further information from Mastercard Australia about Australian merchants currently receiving strategic merchant rates and merchants identified in the pipeline for potential SMAs, I drafted a document to outline the considerations relevant to such SMAs (SMR Paper). A copy of my SMR Paper is at Tab 2 of Exhibit RK-1 [MCD.112.008.2044]. In light of the concern I discuss above, I wanted to document the considerations relevant to the approach Mastercard Australia was proposing to take with SMAs going forward, and Mastercard Singapore’s internal consensus on this type of SMA to set the parameters for future SMAs.\n22. Prior to drafting the SMR Paper, I consulted others within Mastercard Singapore, including Wayne Twomey, Teong Lee Chuah, and Bobby Molu, on my concern. I no longer recall the content of my discussions however to the best of my recollection, the SMR Paper reflected an internal consensus on the issues I raised.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "The SMR Paper referred to in Mr Koh’s affidavit includes the following discussion of the general nature of the proposed SMAs and the strategy that lay behind them:\nStrategic Merchant Interchange Rates for Australia\nInterchange rates are typically managed by Mastercard, whom takes on the role to ensure that the value delivered by the issuing bank and the benefits of accepting electronic payments by merchants and acquirers is equitable between the parties, and encourages the delivery of services that optimize the effectiveness of the payments system and development of innovative payment solutions.\nIn Australia, the interchange rate (credit, debit and prepaid) is regulated by the Reserve Bank of Australia (RBA), and a Strategic Merchant (SM) interchange rate is available to particular merchants or merchant groups as determined by Mastercard. The current rates are as follows:\n[Table not reproduced]\nIn terms of application, the Australia team wish to tie commercial obligations from the merchants to our offering of the SM rates, where merchants deemed to deliver exceptional value to the Mastercard brand will be deemed as ‘strategic merchants’. Such arrangements will be formalized in an agreement between the parties, and where merchants who fail to deliver or maintain initiatives of strategic importance as per said agreement will cease to receive the SM rate.\nThere is no definitive criteria as to which merchants can be offered the SM rates or the qualifying conditions, and the Australia team can exercise their discretion on this determination. In general the team will run a business model to estimate the benefit of the SM rate to the merchant, and try to obtain commensurate value for the Mastercard brand. As an illustration of commercial commitments which may be obtained (but are not subject or limited to):\n• Requirements to maintain certain Mastercard annual volumes, and continued processing\n• Implementation of Masterpass\n• Utilization of certain Mastercard services, such as data analytics via advisors\n• Commitment to run Mastercard marketing offers such as exclusive marketing campaigns, Priceless Cities content program(s) or sponsorship related benefits\nAustralia market development, public policy and legal have reviewed and approved the approach, and with external regulatory lawyer advice.\nOther Considerations\nDue to Mastercard’s role in managing interchange, there are potential reputational risks in relation to leveraging preferential interchange rates not just for driving acceptance and improving the payments system, but for securing marketing promotions or merchant benefits which are typically funded by Mastercard (via merchant contra) as part of obtaining brand preference and promoting cardholder usage at merchant over competing brands.\nThere are currently 8 large strategic merchants who are offered SM rates, and there is a planned pipeline to increase that number by another 20 merchants. This is detailed in the reference section below.\nAs this initiative becomes more prevalent in market, this has potential to call greater scrutiny onto the selection process, and where there are significant differences in average interchange rates paid on the transactions of strategic merchants as compared to other merchants. The difference as compared to the average benchmark interchange rates could be up to 0.32% for credit and $0.0518 for debit as above (or a >50% reduction), and the RBA has also done a study in 2015 on the variance with higher estimates and has commented on the lack of transparency on interchange for non-strategic merchants.\nThe above has been assessed by the Australia team and viewed that there is no concern.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "In his affidavit, Mr Koh refers to the passage which is highlighted in the above extract under the heading “Other Considerations” and states as follows in relation to it (at [24]):\n24. In making that statement, I was not expressing any concern about Mastercard offering lower rates on credit interchange rates in order to prevent or discourage merchants from routing debit transactions through eftpos. I understand that this is part of the ACCC’s case in these proceedings. However, that formed no part of my thinking and nobody ever suggested anything along those lines to me. Rather, the concern I was expressing was the one I describe above, namely whether the proposed discounting of interchange rates in a way that would benefit Mastercard was inconsistent with what I viewed as Mastercard’s usual role in setting interchange rates.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "As can readily be seen, the effect of that evidence is that nobody had told Mr Koh that the purpose of the SMA “strategy”, and the SMAs themselves, was, to use Mr Koh’s words, “to prevent or discourage merchants from routing debit transactions through eftpos”. In saying that, Mr Koh is effectively asserting, either expressly or impliedly, that none of the communications he received recorded or adverted to the fact that that was the purpose of the SMA strategy or the SMAs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "It is also important to emphasise in that context that there is evidence, including in Mr Koh’s affidavit, that the people with whom he communicated in respect of the review, evaluation and approval of SMAs, included internal and external legal advisers. Mr Koh states (at [22]), for example, that the people he consulted about his concerns prior to drafting the SMR paper included Mr Teong Lee Chuah, who was one of Mastercard Singapore’s in-house counsel. He also states (at [26]) that he circulated his SMR paper to many people, including Mr Chuah and other members of the “Asia Pacific Legal Franchise Integrity” division. It should also be noted that Mr Koh included in the SMR paper a statement that “Australia market development, public policy and legal have reviewed and approved the approach, and with external regulatory lawyer advice” (emphasis added). Moreover, in the email which circulated the SMR paper to various people, including some Mastercard in-house counsel, Mr Koh noted that he had included the “note on external legal advice” which appears in the paper. That tends to suggest that Mr Koh had seen or was aware of that legal advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "Mr Koh’s affidavit evidence is that he subsequently approved the SMA with Customer 3. He also goes on to explain in his affidavit that he was involved in the evaluation and approval of several other SMAs. In approaching that task, he deposes that he relied on the fact that he had raised his concerns and circulated his SMR paper and satisfied himself that the SMAs fell within “the broad framework” referred to in that paper. At [31] of his affidavit, for example, Mr Koh states:\n31. With certain exceptions (notably [Customer 1 and Customer 2]), the SMAs entered into with Australian merchants adopted the same general structure, [redacted]. After having circulated the SMR Paper and raised my concerns, when I approved SMAs, I satisfied myself that the SMA fell within this broad framework, and otherwise approached my evaluation of the SMA from the commercial and financial perspective I describe above.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "Mr Koh’s reference to the “broad framework”, in that context, may be taken to include, at least implicitly, his knowledge or understanding of the purpose of the SMA strategy, informed at least in part by what he claims he was told, or not told, about that purpose.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "Paragraphs [33] to [35] of Mr Koh’s affidavit are also critical in considering whether the filing and service of Mr Koh’s evidence gives rise to an implied waiver. In those paragraphs, Mr Koh states:\n33. During the period in which I held the role of Senior Business Leader, Deal Manager, I was aware that eftpos was a domestic payments scheme, similar to NETS in Singapore, that competed against Mastercard in the Australian market. I was also aware that dual network debit cards were issued that could be used on either the Mastercard network or the eftpos network. I also had a general awareness that there were discussions about the introduction of least cost routing (LCR) in Australia, although I cannot recall when I first became aware of LCR and to the best of my recollection, I was not in any specific discussions about this issue with the Mastercard Australia team.\n34. At no time have I been made aware of any strategy by Mastercard Australia or Mastercard Singapore to use SMAs on credit to prevent eftpos from competing for the routing of debit transactions. I do not recall any such strategy nor was that my understanding of the purpose of SMAs with Australian merchants. At no stage did anyone from Mastercard Australia or Mastercard Singapore indicate to me that such a strategy was being pursued or that this was their purpose in negotiating or approving SMAs.\n35. I understood that the purpose of strategic agreements entered into by Mastercard with merchants (whether they included granting strategic interchange rates or not) was to increase the use of Mastercard cards. I also understood (as discussed above) that Mastercard Australia was using strategic interchange rates to obtain commercial benefits for Mastercard in some instances, by entering into SMAs with merchants [redacted].\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "As can readily be seen, in this part of his affidavit, Mr Koh repeats his assertion that he had not been “made aware” that Mastercard’s purpose of having merchants enter SMAs was to “prevent eftpos from competing for the routing of debit transactions”. He also repeats his assertion that nobody at Mastercard told him that such a strategy was being “pursued” or that this was Mastercard’s purpose in negotiating or approving SMAs. That assertion must again be considered in light of Mr Koh’s earlier statement that he had communicated with many people, including Mastercard’s in-house counsel, about his SMR paper and the SMA strategy more generally.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "The balance of Mr Koh’s affidavit concerns, in general terms, his evaluation and approval of various SMAs with other merchants. It is unnecessary, for present purposes, to give any detailed consideration to what Mr Koh says about the other SMAs, particularly given his statement that, save in respect of two particular merchants, he approached his task by, among other things, considering whether the SMAs fell within the “broad framework” discussed in the SMR paper. It is, however, worth observing that some documents discovered by Mastercard reveal the extent of Mr Koh’s engagement with Mastercard Australia concerning the approval process. Some of Mr Koh’s communications with officers of Mastercard Australia in relation to SMAs involved in-house legal advisers and are subject to privilege claims.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "For example, in one email sent to Mr Koh by a senior officer of Mastercard Australia, Ms Claire Shoemake, on 3 November 2017, Ms Shoemake stated as follows in respect of a proposed agreement with one merchant (Customer 1):\nThis agreement is as much about defending our volume as it is with growth. There is much discussion with retailers about using the local network (eftpos) to reduce costs and our calculations show that [Customer 1] could be significantly better off if they were to make this decision. I can share these calculations with you if required",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Koh’s affidavit"
+    ],
+    "text": "A schedule that includes the descriptions of some of the documents discovered by Mastercard which are subject to privilege claims indicates that, two days after Ms Shoemake sent that email to Mr Koh, she sent another email to Mr Koh, copied to a Mastercard in-house counsel. The contents of that email are subject to a privilege claim by Mastercard on the basis that they are said to comprise a “[c]onfidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.” No other information is revealed concerning the nature or content of that communication.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The scope of the waiver said to result from the filing and service of Mr Koh’s affidavit"
+    ],
+    "text": "The ACCC contends, in effect, that the filing and service of Mr Koh’s affidavit resulted in the waiver of any privilege claims made in respect of the following documents or categories of documents (paragraphs 1 to 5 of Annexure B to the further amended interlocutory application):\n1. All drafts of the “SMR Paper” referred to at [21] of the affidavit of Koh Wee Keong, Richard (Mr Koh) affirmed 25 August 2023 (Koh Affidavit).\n2. All documents created between 25 August 2017 and 5 November 2020 constituting or recording communications about the “SMR Paper” or drafts thereof.\n3. All documents constituting or recording the “external regulatory lawyer advice” referred to in document MCD.112.008.2044 [The SMR paper].\n4. All documents created between 25 August 2017 and 3 November 2017 constituting or recording communications between Mr Koh and any other person within the First Respondent or Second Respondent, including but not limited to Wayne Twomey, Teong Lee Chuah and Bobby Molu, about the SMA with the merchant referred to at [18] of the Koh Affidavit.\n5. All documents created between 25 August 2017 and 5 November 2020 constituting or recording communications to which Mr Koh was a party, recording or referring to a strategy, intention, or purpose in relation to, or possible effect of:\n(a) least cost routing or merchant choice routing;\n(b) offering favourable interchange rates for credit and/or debit transactions to any of the Strategic Merchants or the merchant referred to in [137] of the affidavit of Surin Fernando dated 25 August 2023 in return for:\n(i) any of the commercial benefits described in [18] and [19] of the Koh Affidavit; or\n(ii) any other benefits or potential benefits, including merchants processing debit transactions through the Mastercard network;\n(c) the offer of any of the SMAs, and/or the terms of any of those SMAs; or\n(d) the approval of any SMAs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The scope of the waiver said to result from the filing and service of Mr Koh’s affidavit"
+    ],
+    "text": "As noted earlier, Mastercard submitted that, if it is found that Mr Koh’s affidavit evidence resulted in a waiver of privilege, the categories of documents in Annexure B are expressed too broadly. That submission will be addressed in the context of considering whether Mr Koh’s evidence resulted in a waiver of privilege in respect of documents that referred to a particular topic or subject-matter.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "The submissions of both the ACCC and Mastercard in my view tended to overanalyse and overcomplicate the question whether the filing and service of Mr Koh’s affidavit resulted in any implied waiver. I will endeavour to address the question in more direct and simple terms consistent with the principles identified earlier in these reasons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "In considering whether the filing and service of Mr Koh’s affidavit has resulted in an implied waiver of privilege, the critical statements made by Mr Koh in his affidavit are: (at [24]) “that [Mastercard was offering lower rates on credit interchange rates in order to prevent or discourage merchants from routing debit transactions through eftpos] formed no part of my thinking and nobody ever suggested anything along those lines to me”; (at [34]) that “[a]t no stage did anyone from Mastercard Australia or Mastercard Singapore indicate to me that such a strategy [a strategy of using SMAs on credit to prevent eftpos from competing for the routing of debit transactions] was being pursued or that this was their purpose in negotiating or approving SMAs”; and (at [35]) “I understood that the purpose of strategic agreements entered into by Mastercard with merchants … was to increase the use of Mastercard cards”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "Those statements and assertions must be considered in the context of Mr Koh’s position and responsibilities at Mastercard Singapore, as well as the balance of the evidence in Mr Koh’s affidavit. In broad terms, Mr Koh deposed that, in performing his task of considering, evaluating and approving proposed SMAs, he communicated with many other officers of Mastercard, including in-house lawyers. Mastercard has claimed legal professional privilege in respect of several communications which were authored or received by Mr Koh in that context.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "In my view, the broad assertions by Mr Koh in his affidavit to which reference has just been made amount to express or implied assertions about the contents of his communications with other Mastercard officers, including in-house counsel, in respect of the SMAs. Those assertions included that those communications did not indicate to him, or advert to the fact, that Mastercard’s purpose in negotiating and entering the SMAs was or included “discourag[ing] merchants from routing debit transactions through eftpos” or “prevent[ing] eftpos from competing for the routing of debit transactions”, and that the communications provided the basis for his understanding that the purpose of the agreements was simply to increase the use of Mastercard cards. The making of those assertions about the contents of the communications in my view lays those communications open to scrutiny (cf DSE at [58]) and puts the contents of those communications in issue (cf Rio Tinto at [52]) in a way that is inconsistent with the maintenance of confidentiality in those communications, at least insofar as they concern or address those subject-matters. It is, in short, inconsistent for Mr Koh to make assertions of the kind he made and for Mastercard at the same time to maintain that otherwise privileged communications sent or received by Mr Koh that addressed the subject-matter of those assertions remained confidential.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "That reasoning and conclusion is consistent with the reasoning and conclusion of Ball J in Grocon in circumstances not entirely dissimilar to this case. In that case, the plaintiff (Grocon) alleged that it had relied on misleading or deceptive representations made by the defendant (the Authority) about the meaning and effect of certain clauses (Sight Line Clauses) in a contract. An officer of the plaintiff, Mr Grollo, deposed in an affidavit that nobody had disclosed the meaning and effect of those clauses to him and that, if that had been disclosed to him, he would have acted differently. Justice Ball held that, by adducing or relying on that affidavit evidence, Grocon had waived privilege in respect of any legal advice it may have received which addressed that subject matter or topic. His Honour reasoned (at [33]) that: Grocon and Mr Grollo “may well have obtained internal or external legal advice on the meaning and effect of the clauses”; that the “effect of Mr Grollo’s evidence is that, as a consequence of what was said to him by the Authority, he did not appreciate that the Sight Lines Clauses imposed material restrictions on what the Authority could agree to”; that his evidence therefore “contains an implied assertion that no-one told him that the Sight Lines Clauses imposed restrictions of that kind”; and that it was “inconsistent for Mr Grollo to make an assertion of that kind and for Grocon to maintain that advice on that subject-matter remains confidential”.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "Justice Ball reached a similar conclusion in respect of waiver arising from the evidence of another Grocon witness (Mr Easy) about what he believed, or the views he formed, about certain matters. His Honour reasoned (at [37]) that it was inconsistent for Mr Easy to both “express a view on a particular matter” and to “assert that communications recording his views on those matters remain confidential” even if those communications were otherwise privileged. His Honour also made it clear (at [37]) that it did not matter that Mr Easy may not be understood as having made express or implied assertions about the existence or content of legal advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "I am of course mindful that each case in respect of alleged implied waiver must be considered and decided having regard to its own facts and circumstances. I also acknowledge that the facts and circumstances in Grocon are not entirely on all fours with the facts and circumstances of this case. I nevertheless consider that the reasoning in Grocon is compelling and generally applicable to the circumstances of this case. I should also note that, as Ball J observed in Grocon (at [33]), similar reasoning had been employed, and a similar conclusion had been arrived at, by Macfarlan JA (with whom McCallum JA and Simpson AJA agreed) in GR Capital at [59].",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "The principal planks of Mastercard’s argument that the filing and service of the affidavit evidence of Mr Koh did not result in any implied waiver were, as I understood it: first, it was the ACCC who alleged that Mastercard had a particular state of mind and a party cannot force a waiver by putting the other party’s state of mind in issue (relying on Re Idoport Pty Ltd (in liq) [2012] NSWSC 58 at [67]); and second, Mr Koh’s evidence did not result in any waiver because he did not make any express or implied assertion about any legal advice, or disclose or make any assertion about the substance of any legal advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "I am not persuaded that those arguments compel the conclusion that there is no implied waiver in the circumstances of this case. It may be accepted that Mastercard cannot be taken to have waived privilege merely by merely joining issue with the ACCC’s allegation that it had a particular purpose in negotiating and entering the SMAs. Mr Koh’s evidence, however, goes well beyond simply joining issue with the ACCC’s allegation in that regard. In summary, and as discussed earlier, Mr Koh asserts, in effect, that nobody told him that Mastercard had the impugned purpose and thereby asserted, expressly or impliedly, that the communications between him and others at Mastercard, including those that may have involved in-house legal advisers, did not indicate to him that Mastercard had that purpose. It is the inconsistency of that act and the maintenance of confidentiality in communications which address that subject-matter that give rise to the waiver, not the ACCC’s act in alleging a state of mind, or Mastercard’s mere act of joining issue with that allegation. As Hodgeson JA said in Bar Association v Archer at [48], “it may be sufficient that the client is making assertions about the client’s state of mind, in circumstances where there were confidential communications likely to have affected that state of mind”. This is such a case. That conclusion is fortified by the fact that it is readily apparent Mr Koh was likely to have received otherwise privileged communications that informed his state of mind and understanding in respect of the purpose of the SMAs, and that Mr Koh’s state of mind and understanding in that regard is likely to be a particularly significant issue in this case.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "It also does not matter that Mr Koh’s evidence does not expressly refer to the existence of legal advice, or that Mr Koh’s assertions were not explicitly about, and did not directly or explicitly disclose the content of, any legal advice. It is tolerably clear from the scant details given by Mastercard in respect of its privilege claims that communications to which Mr Koh was a party are said to (in whole or in part) contain, record or reproduce legal advice, or were made for the dominant purpose of obtaining legal advice. Mr Koh’s express or implied assertions about the content of those communications are inconsistent with the confidentiality that would otherwise pertain to those communications and lays them open to scrutiny, and puts their contents in issue, at least to the extent that they address the relevant subject-matter, being the purpose of the SMAs. I should also add that, to the extent that the inconsistency in this respect is informed by considerations of fairness, in my view it would be forensically unfair for Mastercard to maintain the confidentiality of the relevant communications and to deny the ACCC the ability to scrutinise them.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "In my view, however, the extent of the waiver resulting from Mr Koh’s evidence is not as swingeing as the ACCC would have it. I agree with Mastercard’s submission that the terms of the relevant paragraphs (paragraphs 1 to 5) of Annexure B to the further amended interlocutory application are unjustifiably broad. In my view, the waiver bought about by Mr Koh’s evidence does not extend to privilege claims in respect of drafts of the SMR paper (paragraph 1), or all communications about the SMR paper (paragraph 2), or all communications between Mr Koh and any other person at Mastercard about the SMA with Customer 3 (paragraph 4). Rather, the extent of the relevant inconsistency, and therefore the extent of the waiver, is in respect of privileged communications which comprise or record communications in respect of which Mr Koh was a party (including communications authored by Mr Molu and communications received by or copied to Mr Molu) which record or refer to Mastercard’s strategy or purpose in offering, negotiating, approving and entering SMAs with relevant merchants. Paragraph 5 of Annexure B is perhaps closer to the mark, in that it would include such communications, but it unjustifiably extends beyond such documents and includes, among other things, communications recording the possible effect of the SMAs. The express or implied assertions in Mr Koh’s affidavit did not concern what he was told or not told about the effect or possible effect of the SMAs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Koh’s affidavit result in any implied waiver?"
+    ],
+    "text": "I will return to the issue in respect of the extent of the waiver when framing the appropriate orders.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "The key parts of Mr Molu’s affidavit that are relied on by the ACCC in support of its waiver contention are in some respects similar to those parts of Mr Koh’s affidavit which form the basis of the ACCC’s case of waiver resulting from the filing and service of Mr Koh’s affidavit.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "As noted earlier, Mr Koh reported to Mr Molu who, at the relevant time, was the Chief Financial Officer at Mastercard Singapore. Mr Molu states in his affidavit (at [31]) that he was aware that Mastercard Australia “was engaging with a variety of merchants in Australia with a view to entering into agreements with those merchants under which Mastercard Singapore would provide strategic merchant interchange rates (SMRs) in exchange for the merchant investing in Mastercard services”. Mr Molu states (at [33]) that in about September 2017, he was consulted by Mr Koh about that strategy And that he received an email from Mr Koh which attached a copy of the SMR paper (at [34]).",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "Mr Molu refers in his affidavit to the fact that he was involved in reviewing SMAs on behalf of Mastercard Singapore (see [38]). Having addressed, in general terms, the considerations to which he had regard in evaluating and approving SMRs, Mr Molu states (at [39]):\nIn the course of preparing this affidavit I have been made aware that the ACCC alleges in these proceedings that Mastercard leveraged SMRs on credit transactions on condition that merchants also route debit transactions to Mastercard, and that Mastercard Singapore entered into certain SMAs in order to prevent or foreclose eftpos from competing for the debit transactions. To my knowledge, this was not a strategy of Mastercard Australia or Mastercard Singapore. I do not recall having any discussion with anyone at Mastercard to the effect that SMAs entered into by Mastercard Singapore could hinder eftpos’ ability to compete with Mastercard for debit transactions. This was certainly not my objective when I approved or signed any SMAs on behalf of Mastercard Singapore.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "Mr Molu goes on to state that he had discussions with members of Mastercard Australia’s leadership team in respect of Mastercard Australia’s response to the concept of least cost routing in Australia (see [40]-[41]). Importantly, his evidence in relation to those discussions includes (at [42]-[43]):\n42. My recollection of these discussions was that Mastercard Australia was focussed on how it could compete for the debit transactions in order not to lose transaction volume on the Mastercard network. I do not recall any proposal or discussion that involved preventing eftpos from being able to compete or shutting it out from competing for debit transactions. There was no discussion in which I was involved or proposal of which I was aware about preventing eftpos from being able to compete or shutting it out from competing for debit transactions.\n43. I recall being involved in discussions in relation to merchant routing in Australia with the Mastercard Australia leadership team and finance team. For me, from a finance perspective, I was interested to understand what types of transactions Mastercard was losing and the extent to which Mastercard was losing volume. In my view, if Mastercard was continuing to lose transactions, we needed to evaluate our pricing in order to remain competitive. As I explain in paragraph 24 above, this proposal would have been driven by Mastercard Australia and provided to RPIC for consideration and approval. My key focus was on competing for debit and trying to maintain Mastercard's market share. I never tried to “lock out” Visa or eftpos. From at least mid-2019 I understood that there was competition from eftpos and I expected that to continue. I did not consider that entry into an SMA by a particular merchant would mean that eftpos would be unable to compete. I expected that eftpos would continue to compete for business from that merchant.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "Towards the very end of his affidavit, Mr Molu refers to discussions that he had with other Mastercard officers in November 2019 in respect of an SMA with a particular merchant (Customer 8). His affidavit includes the following in relation to those discussions (at [68]-[69]):\n68. On 19 November 2019, I also sent an email to Peter Slater, Chris Chapman and Audrey Cheng titled ‘RE: [Customer 8] Contract to be signed by MAAPL Authority’ in relation to this deal. A copy of this email is at Tab 26. In my email I asked for further information on the deal and stated “looks like we are giving favourable interchange [redacted]. That doesn’t smell right to me. Your thoughts?” This followed a query raised with me by Audrey Cheng, who was at that time relatively new in her role. This was raising a similar issue to that raised by Richard Koh in 2017 regarding whether it was appropriate for Mastercard to use interchange to obtain a direct commercial benefit given that Mastercard was meant to take a neutral role in relation to interchange. As I had been with Mastercard for over two years at this time, I had a better understanding of Mastercards role in setting interchange in 2019 than I did in 2017 when this issue was previously raised. Following internal discussions, I recall that a position was reached internally that these deals were acceptable.\n69. This issue was not related to any suggestion that Mastercard could be leveraging strategic rates on credit to prevent or hinder merchants from using eftpos to process their debit transactions. I never understood that to be any part of Mastercard’s strategy in relation to any SMA and I do not recall being party to any discussions where this was proposed. This was this [sic] my purpose in approving and signing the SMAs referred to above.\n(Emphasis added.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Mr Molu’s affidavit"
+    ],
+    "text": "In my view, these parts of Mr Molu’s affidavit, in particular his statement that “[f]ollowing internal discussions … a position was reached internally that these deals were acceptable”, must be considered in the context of various documents, mostly emails, that have been discovered by Mastercard. Those documents include Mr Peter Slater’s email response to Mr Molu’s email, referenced in paragraph [68] of his affidavit, which stated that “[c]onsistent with all our [Mastercard’s] Strategic Merchant Deals the contract has been reviewed and approved by legal”. Perhaps more significantly, the documents include a further exchange of email correspondence between, among others, Mr Molu, Mr Slater and Mr Chuah who, as noted earlier, was one of Mastercard’s in-house counsel. Much of that correspondence has been redacted in respect of privilege claims.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The scope of the waiver said to result from the filing and service of Mr Molu’s affidavit"
+    ],
+    "text": "The documents, or categories of documents, in respect of which the ACCC contends Mastercard’s privilege claims have been waived (paragraphs 6 to 8 of Annexure B to the further amended interlocutory application) are similar in many respects to the documents or categories of documents considered above in the context of Mr Koh’s evidence:\n6. All documents created between 19 November 2019 and 5 November 2020 constituting, recording or referring to the “internal discussions” referred to in [68] of the affidavit of Naushaza (Bobby) Molu affirmed 7 September 2023 (Molu Affidavit).\n7. All documents created between 19 November 2019 and 28 November 2019 constituting or recording communications between Mr Molu and any other person within the First Respondent or Second Respondent about the SMA with the merchant referred to at [67] of the Molu Affidavit.\n8. All documents created between 25 August 2017 and 5 November 2020 constituting or recording communications to which Mr Molu was a party, recording or referring to a strategy, intention, or purpose in relation to, or possible effect of:\n(a) least cost routing or merchant choice routing;\n(b) offering favourable interchange rates for credit and/or debit transactions to any of the Strategic Merchants or the merchant referred to in [137] of the affidavit of Surin Fernando dated 25 August 2023 in return for:\n(i) any of the commercial benefits described in [18] and [19] of the Koh Affidavit; or\n(ii) any other benefits or potential benefits, including merchants processing debit transactions through the Mastercard network;\n(c) the offer of any of the SMAs, and/or the terms of any of those SMAs; or\n(d) the approval of any SMAs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "The scope of the waiver said to result from the filing and service of Mr Molu’s affidavit"
+    ],
+    "text": "As was the case with the alleged waiver resulting from Mr Koh’s affidavit, Mastercard submitted that, if it is found that Mr Molu’s affidavit evidence resulted in a waiver of privilege, the categories of documents in paragraphs 6 to 8 of Annexure B are expressed too broadly.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "My conclusion in respect of implied waiver resulting from the filing and service of Mr Molu’s affidavit evidence is similar to the conclusion I reached in respect of waiver resulting from Mr Koh’s affidavit evidence.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "In considering whether the filing and service of Mr Molu’s affidavit has resulted in an implied waiver of privilege, the critical statements made by Mr Molu in his affidavit are: (at [39]) “[t]o my knowledge, this [the allegation that Mastercard entered into certain SMAs in order to prevent or foreclose eftpos from competing for debit transactions] was not a strategy of Mastercard Australia or Mastercard Singapore”; (at [39]) “I do not recall any discussions with anyone at Mastercard to the effect that SMAs entered into by Mastercard Singapore could hinder eftpos’ ability to compete with Mastercard for debit transactions” and “[t]his was certainly not my objective when I approved or signed any SMAs on behalf of Mastercard Singapore”; (at [42]) “I do not recall having any proposal or discussion that involved preventing eftpos from being able to compete or shutting it out from competing for debit transactions” and “[t]here was no discussion in which I was involved or proposal of which I was aware about preventing eftpos from being able to compete or shutting it out from competing for debit transactions”; (at [43]) “I never tried to ‘lock out’ … eftpos … I understood that there was competition from eftpos and I expected that to continue” and “I did not consider that entry into an SMA by a particular merchant would mean that eftpos would be unable to compete”; (at [68]) “[f]ollowing internal discussions, I recall that a position was reached internally that these [SMA] deals were acceptable”; and (at [69]) “I never understood that [the allegation that Mastercard was leveraging strategic rates on credit to prevent or hinder merchants from using eftpos to process their debit transactions] to be any part of Mastercard’s strategy in relation to any SMA and I do not recall being party to any discussions where this was proposed” and “[t]his was this [sic] my purpose in approving and signing the SMAs referred to above”. I should note that, when those statements are read in context, it is tolerably clear that Mr Molu’s reference to “discussions” included discussions via email.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "Those statements and assertions by Mr Molu must be considered in the context of Mr Molu’s senior position and responsibilities, as well as the balance of the evidence in his affidavit. The overall effect of Mr Molu’s affidavit evidence was that, in performing his task of approving proposed SMAs, he communicated with many other officers of Mastercard, including in-house lawyers, and that his knowledge or understanding of the purpose and effect of the SMAs was derived from those communications. Mastercard has claimed legal professional privilege in respect of several communications which were authored or received by Mr Molu in that context.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "In my view, the broad statements made by Mr Molu in his affidavit to which reference has just been made amount to express or implied assertions about the contents of his communications with other Mastercard officers, including in-house lawyers, in respect of the SMAs. Those assertions included that the communications did not indicate to Mr Molu, or advert to the fact, that Mastercard’s purpose in negotiating and entering the SMAs, and the likely effect of the SMAs, included “preventing eftpos from being able to compete or shutting it out from competing for debit transactions”, or preventing or hindering merchants from using eftpos to process their debit transactions. Mr Molu also expressly or impliedly asserts that the communications provided the basis for the internal “position” that the SMA “deals were acceptable” and informed his understanding or belief that “entry into an SMA by a particular merchant” would not “mean that eftpos would be unable to compete”. The making of those assertions about the contents of the communications to which Mr Molu was a party in my view lays those communications open to scrutiny and puts the contents of those communications in issue in a way that is inconsistent with the maintenance of confidentiality in the communications, at least insofar as they concern or address those subject matters. It is inconsistent for Mr Molu to make assertions of the kind he has made and for Mastercard at the same time to maintain that otherwise privileged communications sent or received by Mr Molu that address the subject-matter of those assertions remain confidential.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "For the reasons given earlier in the context of implied waiver arising from Mr Koh’s affidavit evidence, I reject Mastercard’s submission to the effect that Mr Molu’s affidavit evidence cannot give rise to any implied waiver because it was the ACCC that effectively put Mastercard’s purpose in issue, or because Mr Molu did not make any express assertion about any legal advice, or disclose or make any direct assertion about the substance of any legal advice. The relevant inconsistency arises not from the mere fact that Mastercard’s state of mind was in issue, but because Mr Molu made express or implied assertions about the contents of communications to which he was a party. It also does not matter, in the particular circumstances of this case, that Mr Molu’s evidence does not expressly refer to the existence of legal advice, or that his assertions were not explicitly about, and did not directly or explicitly disclose the content of, any legal advice. It is tolerably clear that Mr Molu was a party to communications that are said to include, contain, record or reproduce legal advice, or were made for the dominant purpose of obtaining legal advice. His express or implied assertions about the content of those communications are inconsistent with the confidentiality that would otherwise pertain to those communications and lays them open to scrutiny, and puts their contents in issue, at least to the extent that they address the relevant subject-matter, being the purpose and likely effect of the SMAs. It would also in my view be forensically unfair for Mastercard to maintain the confidentiality of the relevant communications and to deny the ACCC the ability to scrutinise them.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Did the filing and service of Mr Molu’s affidavit result in any implied waiver?"
+    ],
+    "text": "As was the case with the implied waiver arising from the affidavit evidence of Mr Koh, I am not persuaded that the waiver extends to the documents or categories of documents in paragraphs 6 to 8 of Annexure B to the further amended interlocutory application. In my view, the extent of the relevant inconsistency, and therefore the extent of the implied waiver, is in respect of documents which comprise or record communications in respect of which Mr Molu was a party (including communications authored by Mr Molu and communications received by or copied to Mr Molu) which record or refer to Mastercard’s strategy or purpose in offering, negotiating, approving and entering SMAs with relevant merchants and the possible effect that those SMAs would have on the ability of eftpos to effectively compete in respect of debit transactions.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Does it matter that the affidavits of Mr Koh and Mr Molu have not been read?"
+    ],
+    "text": "In Archer Capital, the moving party contended that the privilege holder had waived privilege by serving an unsigned statement of anticipated evidence. The court observed (at [53]), that in those circumstances there was some merit in the submission that it was premature to consider whether evidence that the witness might give at trial would result in a waiver of privilege, and that “the serving of an unsigned statement of intended evidence does not amount to a waiver of privilege in relation to all communications that might bear on this anticipated evidence”. Relying on those observations, Mastercard submitted that if the Court considered that the affidavits of Mr Koh and Mr Molu resulted in a waiver of privilege, it should be given the opportunity to consider whether to not rely on or read the words in the affidavits that resulted in the waiver.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Does it matter that the affidavits of Mr Koh and Mr Molu have not been read?"
+    ],
+    "text": "I do not accept that submission. The circumstances of this case are different to and distinguishable from the circumstances considered in Archer Capital. Among other things, the filing and service of sworn affidavits is different to the mere service of an unsigned statement of intended evidence. For the reasons already given, Mastercard’s actions in filing and serving the affidavits of Mr Koh and Mr Molu are inconsistent with the maintenance of privilege in communications which those affidavits lay open to scrutiny. Those actions have resulted in a waiver of privilege in respect of the relevant communications, or parts thereof, even if Mastercard might later decide not to read the offending parts of the affidavits. It follows that I do not consider that it is appropriate to give Mastercard the opportunity to consider whether it will read the offending parts of the affidavits so as to avoid any waiver.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Conclusions in respect of implied waiver"
+    ],
+    "text": "By virtue of having filed and served the affidavit of Mr Koh, Mastercard has waived any privilege claims that it had made in respect of documents falling within the following description:\nDocuments created between August 2017 and November 2020 constituting or recording communications to which Mr Koh Wee Keong was a party (including communications authored by Mr Koh and communications received by or copied to Mr Koh) which (in whole or in part) record or refer to the strategy or purpose of Mastercard Australia and/or Mastercard Singapore in offering, negotiating, approving or entering SMAs (as defined in the Further Amended Statement of Claim).",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Conclusions in respect of implied waiver"
+    ],
+    "text": "Similarly, by virtue of having filed and served the affidavit of Mr Molu, Mastercard has waived any privilege claims that it has made in respect of documents falling within the following description:\nDocuments created between August 2017 and November 2020 constituting or recording communications to which Mr Naushaza (Bobby) Molu was a party (including communications authored by Mr Molu and communications received by or copied to Mr Molu) which (in whole or in part) record or refer to the strategy or purpose of Mastercard Australia and/or Mastercard Singapore in offering, negotiating, approving or entering SMAs (as defined in the Further Amended Statement of Claim) and/or the likely effect of such SMAs.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Conclusions in respect of implied waiver"
+    ],
+    "text": "Mastercard should review its existing privilege claims with a view to ascertaining whether any documents, or parts of documents, which are the subject of those claims fall within those descriptions. If it is ascertained that any documents, or parts of documents, over which privilege has been claimed fall within those descriptions, Mastercard should serve an amended Part 2 of its list of documents that reflects the waiver of those claims.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Conclusions in respect of implied waiver"
+    ],
+    "text": "In light of the difficulties and disputes that have been encountered thus far in respect of Mastercard’s discovery, I consider it appropriate to make an order, pursuant to r 20.32 of the Federal Court Rules 2011 (Cth), that Mastercard produce for inspection, copies of documents that fall within those descriptions. Those documents should be unredacted other than in respect of other privilege claims which have not been waived by the filing and service of the affidavits of Mr Koh and Mr Molu because the material which is the subject of those claims does not relate to or concern the relevant subject-matter addressed by the express or implied assertions in the affidavits that resulted in the waiver. The orders will also not apply to documents that Mastercard has already discovered in a relevantly unredacted form.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "IMPLIED WAIVER BY MASTERCARD?",
+     "Conclusions in respect of implied waiver"
+    ],
+    "text": "I will allow Mastercard 28 days to produce the documents, not only because it may take it some time to ascertain exactly what documents it is required to produce in accordance with the orders, but also so as to give it the opportunity to consider whether it should apply for leave to appeal and to seek a stay pending the outcome of any such application.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The evidence and submissions in relation to this aspect of the ACCC’s claims of waiver were somewhat confusing. As I understand it, the basic facts relevant to the ACCC’s claims are as follows.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "Mastercard disclosed to the ACCC, presumably pursuant to its discovery obligations, an email from Ms Melissa Letford, one of Mastercard Australia’s in-house counsel, to an officer of Customer 2, which was sent at 7.45 am on 22 October 2019 (the Letford email). That email stated:\nI have spoken to our external competition lawyers and they think it will be better to link the termination directly to the Targets, rather than referencing routing. Please see attached mark-up and let me know if this is acceptable. I’d be grateful to receive your other changes urgently too.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "Associated emails that were discovered along with that email suggest that the advice related to an SMA between Mastercard and Customer 2.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The ACCC subsequently served a notice to produce on Mastercard which referred to the Letford email. Mastercard produced documents pursuant to that notice to produce. The documents produced by Mastercard included an email exchange between Ms Letford and Ms Georgina Foster, a partner of Baker & McKenzie, Mastercard’s solicitors, which occurred on 21 October 2021. An email from Ms Letford which formed part of that email exchange referred to the fact that Mastercard was “trying to close the [Customer 2] deal asap” and that Customer 2 had “raised the inclusion of the following clause, as they have also been contacted by the ACCC”. The email contained the wording of the clause in question. Ms Foster provided the following advice (the Foster advice) in response to Ms Letford’s query or request for advice:\nThis imposes an absolute exclusivity requirement on [Customer 2]. Unless there is any specific reason in the [Customer 2] context to include this, in light of the ACCC investigation, I think it would be better if the right to remove the SM rate/SM Review Event and tie this instead to not meeting the Targets in clause 3.1 rather than any use of a non-Mastercard switch. Would that give you sufficient protection?",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "Ms Letford’s reply to Ms Foster’s email indicated that she would make the change referred to in the Foster advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The SMA between Mastercard and Customer 2 was executed just over a month later.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "It was common ground that Mastercard produced the email containing the Foster advice because it accepted that, while that email would otherwise have been privileged, Ms Letford had, by communicating the substance of the Foster advice to Customer 2 in the Letford email, waived privilege in respect of the advice. That would suggest to me that Ms Foster and Baker & McKenzie were the “external competition lawyers” referenced in the Letford email, and that in her email, Ms Letford was essentially paraphrasing the Foster advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The ACCC claimed, or at least intimated, that the waiver of privilege by Mastercard, through Ms Letford, extended to “associated material” and that the associated material, or at least unredacted copies of it, had not been produced by Mastercard. The associated documents that the ACCC contended Mastercard was obliged to produce by reason of the waiver are identified in the following terms in paragraph 9 of Annexure B to the further amended interlocutory application:\nUnredacted copies of all documents created between 21 October 2019 and 30 November 2019 constituting or recording communications to which a Relevant Mastercard Representative, Relevant Mastercard Australia Representative or Melissa Letford was a party, referring to the communications with external competition lawyers referred to in the email dated 22 October 2019 at 7:45am, sent from Melissa Letford to [redacted] (being an email contained in document MCD.008.009.3471).\n(Mark-up not reproduced.)",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The parties’ submissions regarding the ACCC’s claim in respect of the production of the associated documents were, with respect, somewhat convoluted and confusing. It seems to me that the ACCC’s claim in relation to the production of associated documents is best understood as being a claim that Mastercard was maintaining privilege claims in respect of documents which may properly be regarded as having been expressly waived by the Letford email. The ACCC did not, however, identify any specific documents, or any specific parts of documents that had been redacted, that it claimed were not properly the subject of privilege claims given the waiver by reason of the Letford email. That was again because, or said to be because, Mastercard’s particulars of its privilege claims were too spare or scant to enable the ACCC to identify any specific documents the privilege claims in respect of which had been expressly waived by virtue the Letford email.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "Mastercard’s response to the ACCC’s claims appeared to be that it had produced all the material relating to the Foster advice and that it was not required to produce all documents falling within the category of documents described in paragraph 9 of Annexure B to the further amended interlocutory application. It submitted, in that context, that it was not required to produce every document in its possession that referred to the Foster advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "It is extremely difficult to resolve this dispute in the abstract. The dispute also appears to me to be somewhat of a storm in a teacup. Ms Letford’s request for advice, in the Letford email, and the Foster advice itself, have been produced. It is somewhat unclear why the ACCC is pressing for production of all other documents which refer to the Foster advice in circumstances where it already knows what the Foster advice is and what it concerned. The basis upon which the ACCC claims that Mastercard is maintaining privilege claims which have been expressly waived by reason of the Letford email is also somewhat unclear. That said, it is equally unclear to me why Mastercard is resisting the production of other documents which refer or relate to the Foster advice, assuming that it has not produced all such documents. Perhaps more significantly, it is unclear to me whether Mastercard’s resistance to the production of any such documents is based on the contention that the documents remain privileged because, for example, they are the subject of a separate or distinct privilege claim.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "In all the circumstances, I do not propose to make the order sought by the ACCC in respect of the production of documents falling within the category of documents described in paragraph 9 of Annexure B to the further amended interlocutory application. It is not readily apparent to me that every document that falls within that category of documents will necessarily be a document the privilege in respect of which has been waived by the Letford email. That is not to say, however, that I necessarily accept that Mastercard has discovered or disclosed unredacted copies of every document the privilege in respect of which has been waived by the Letford email.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "It seems to me that all that I can do to resolve the issue between the ACCC and Mastercard in relation to the issues that arise from the express waiver of privilege resulting from the Letford email is to outline what I consider to be the scope of the waiver. Mastercard should review its extant privilege claims in light of that what I have said in that regard and produce unredacted copies of all documents that fall within the scope of the waiver. If the ACCC maintains that Mastercard has not produced unredacted copies of all associated documents that fall within the scope of the waiver, it will be a matter for the ACCC to endeavour to identify and challenge any particular privilege claims that Mastercard has proffered in in respect of particular documents or parts of documents.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "It is necessary to say something more about the applicable principles, if only because Mastercard’s submissions tended to suggest that different principles may apply when considering the extent to which an express waiver of privilege extends to associated material.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The scope of the waiver of privilege that results from the voluntary disclosure of privileged communications is to be determined having regard to the principles in Mann v Carnell: Zantran Pty Limited v Crown Resorts Limited (No 2) [2020] FCA 1024 at [41]-[45]; Hall v Arnold Bloch Leibler (a firm) [2020] FCA 1495 at [21]. The waiver flowing from the disclosure of the privileged communication will therefore extend to all other communications or documents the maintenance of confidentiality in which would be inconsistent with the disclosure of the privileged communication. For example, if legal advice is disclosed by a party, the waiver of waiver flowing from that disclosure will extend to all communications created for the purpose of seeking that advice, as well as any other communications that record, refer to or reproduce the advice. That is because the maintenance of confidentiality in respect of such other communications or documents would be inconsistent with the disclosure of the legal advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "The waiver brought about by the disclosure of legal advice may also extend to other related or associated documents, including for example, documents that were relied upon or underpinned the disclosed advice: see for example Thomas v New South Wales [2006] NSWSC 380 at [17]; AWB Limited v Honourable Terence Rhoderic Hudson Cole (No 5) [2006] FCA 1234 at [169]. The waiver in respect of such associated material, however, is properly explained by application of the inconsistency test in Mann v Carnell. In other words, the waiver extends to that material because it would be inconsistent to maintain such material remains confidential in the circumstances. There is no separate species of “associated material waiver” in respect of which principles other than those in Mann v Carnell apply: see Zantran at [44]-[45]. To the extent that Mastercard submitted that different or separate principles apply when considering whether the waiver extends to associated material, those submissions are rejected.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "Mastercard submitted that the waiver brought about by the Letford email and the disclosure of the Foster advice does not necessarily extend to all communications that refer to or reproduce the Foster advice. For example, in Mastercard’s submission, the waiver would not extend to a communication that simply referred to the fact that the Foster advice had been received if that communication was made for the purpose of seeking further or subsequent advice. That submission may perhaps be accepted, but only because that communication would properly be subject to a separate or discreet privilege claim relating to the seeking of that further advice. It does not follow, however, as Mastercard appeared to suggest, that it is somehow relieved or excused from producing unredacted copies of all documents that may refer to or reproduce the Foster advice. It is required to produce all such documents unless they are properly the subject of separate or discreet privilege claims.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "In my view, Mastercard has waived, and therefore cannot maintain, privilege claims in respect of, at least: any documents that comprise or record communications made for the dominant purpose of seeking or obtaining the Foster advice; any documents that comprise or record communications made for the dominant purpose of providing the Foster advice; and any communications (or documents that record communications) that refer to or reproduce the Foster advice, so long as those communications were not made for the dominant purpose of seeking or providing legal advice in respect of a separate or distinct issue. Mastercard should review its existing privilege claims to ensure that they are not maintaining any privilege claims that fall within those categories. If Mastercard is maintaining privilege claims in respect of any documents that refer to or reproduce the Foster advice on the basis that those documents record communications made for the dominant purpose of seeking or providing legal advice in respect of a separate or distinct issue, it should provide the ACCC with proper particulars of those privilege claims. That is of some particular importance given the lack of detail provided in Part 2 of Mastercard’s list of documents.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "WAIVER IN RESPECT OF ASSOCIATED DOCUMENTS?"
+    ],
+    "text": "At this stage, however, I am not persuaded that there is any basis for finding that Mastercard is maintaining privilege claims in respect of documents the privilege in respect of which has been waived by the Letford email and the disclosure of the Foster advice. I am accordingly not persuaded that there is a proper basis for making an order requiring Mastercard to produce documents that fall within paragraph 9 of Annexure B to the further amended interlocutory application.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "CONCLUSION AND DISPOSITION"
+    ],
+    "text": "For the reasons that have been given, by filing and serving the affidavits of Mr Koh and Mr Molu, Mastercard has waived privilege in respect of communications to which Mr Koh and Mr Molu were parties that address certain subjects or topics. In the case of Mr Koh, the subject matter or topic is Mastercard’s strategy or purpose of in offering, negotiating, approving or entering SMAs. In the case of Mr Molu, the subject matter or topic is Mastercard’s strategy or purpose in offering, negotiating, approving or entering SMAs and/or the likely effect of such SMAs. Mastercard should produce unredacted copies of any documents that comprise or refer to any such communications unless they are the subject of an independent privilege claim that does not fall within the scope of the waiver. I will make orders to give effect to that finding. I do not propose to make any order in respect of the ACCC’s claim concerning the production of documents said to have been waived by the Letford email, or documents otherwise referring to the Foster advice.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "CONCLUSION AND DISPOSITION"
+    ],
+    "text": "Given the somewhat mixed result, I propose to reserve making any order in respect of the costs of the ACCC’s further amended interlocutory application. I will entertain submissions at some later point in respect of those costs.",
+    "judge": "WIGNEY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and four (104) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Wigney.",
+ "associate": null,
+ "dated": "2025-08-29",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "ee24323fb148681bfdf56b9d8272b5fe57f706dd2751f2a3c0295dd366965ec3",
+ "markdown_file": "data/extracted/2025/2025FCA1043.md"
+}

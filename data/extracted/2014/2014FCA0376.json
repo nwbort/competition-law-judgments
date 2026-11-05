@@ -1,0 +1,413 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2014/2014FCA0376.docx",
+ "metadata": {
+  "citation": "[2014] FCA 376",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8)",
+  "court": "FCA",
+  "year": 2014,
+  "number": 376,
+  "date_of_judgment": "2014-04-15",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "BESANKO J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2014-02-27"
+  ],
+  "hearing_raw": "27 February 2014",
+  "number_of_paragraphs": 26,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – discovery – application for further and better discovery – application for better description of discovered documents – application for Sabre order – where respondent company part of company group – where respondent company business and documents transferred to subsidiary company – where related companies occupy same business premises – where one director appointed to board of directors in both related companies – whether documents of related company in the control of respondent company – whether documents of related company in the possession, custody or power of the respondent company – whether respondent company had presently enforceable legal right to obtain documents – whether respondent company had actual and immediate ability to inspect documents.",
+   "Held: Application dismissed."
+  ],
+  "legislation": [
+   "Federal Court Rules 2011 (Cth) Sch 1"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L (No 4) (2012) 298 ALR 251; [2012] FCA 1323",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 7) [2014] FCA 5",
+   "Federal Commissioner of Taxation v BHP Billiton Limited (2011) 244 CLR 325",
+   "Industrial Equity Limited and Others v Blackburn and Others (1977) 137 CLR 567",
+   "Linfa Pty Ltd v Citibank Ltd [1995] 1 VR 643",
+   "Lonrho Ltd and Another v Shell Petroleum Co Ltd and Another [1980] 1 WLR 627",
+   "Michael Wilson & Partners Ltd v Nicholls & Others [2008] NSWSC 1230; (2008) 74 NSWLR 218",
+   "Nexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192",
+   "Sabre Corporation Pty Ltd v Russ Kalvin’s Hair Care Company and Others (1993) 46 FCR 428",
+   "Taylor v Santos Ltd (1998) 71 SASR 434",
+   "Walker v Wimborne (1976) 137 CLR 1"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.) and NEXANS SA RCS PARIS 393 525 852",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O'Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr I Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "The Second Respondent did not appear"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0376",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2014-04-15"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.) and NEXANS SA RCS PARIS 393 525 852"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "BESANKO J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "15 April 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – discovery – application for further and better discovery – application for better description of discovered documents – application for Sabre order – where respondent company part of company group – where respondent company business and documents transferred to subsidiary company – where related companies occupy same business premises – where one director appointed to board of directors in both related companies – whether documents of related company in the control of respondent company – whether documents of related company in the possession, custody or power of the respondent company – whether respondent company had presently enforceable legal right to obtain documents – whether respondent company had actual and immediate ability to inspect documents.\nHeld: Application dismissed."
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court Rules 2011 (Cth) Sch 1"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L (No 4) (2012) 298 ALR 251; [2012] FCA 1323\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 7) [2014] FCA 5\nFederal Commissioner of Taxation v BHP Billiton Limited (2011) 244 CLR 325\nIndustrial Equity Limited and Others v Blackburn and Others (1977) 137 CLR 567\nLinfa Pty Ltd v Citibank Ltd [1995] 1 VR 643\nLonrho Ltd and Another v Shell Petroleum Co Ltd and Another [1980] 1 WLR 627\nMichael Wilson & Partners Ltd v Nicholls & Others [2008] NSWSC 1230; (2008) 74 NSWLR 218\nNexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192\nSabre Corporation Pty Ltd v Russ Kalvin’s Hair Care Company and Others (1993) 46 FCR 428\nTaylor v Santos Ltd (1998) 71 SASR 434\nWalker v Wimborne (1976) 137 CLR 1"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "27 February 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "26"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O'Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr I Wylie"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "The Second Respondent did not appear"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J"
+   ],
+   "date": "2014-04-15",
+   "date_raw": "15 April 2014",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant’s application dated 10 February 2014 be dismissed.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "introduction"
+    ],
+    "text": "The Prysmian group of companies is a world-wide group of companies which has two principal business units, one operating in the energy field and the other operating in the telecommunications field. Prysmian S.p.A is the head company and the first respondent to this proceeding is one of its subsidiaries. Another of Prysmian S.p.A.’s subsidiaries is Prysmian Powerlink S.r.l. (“PPL”)."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "introduction"
+    ],
+    "text": "On 5 April 2013, this Court ordered that the first respondent give standard discovery by 31 May 2013. Various alterations were made to the order on 23 May 2013, 4 July 2013 and 4 October 2013, but none of those alterations are relevant for present purposes."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "introduction"
+    ],
+    "text": "On 31 May 2013, the first respondent served a list of documents verified by affidavit. The affidavit was sworn by Mr Fabio Ignazio Romeo on 29 May 2013. In his affidavit, Mr Romeo states that he is the managing director of the first respondent. He states that he is authorised by the first respondent to make the affidavit and that reasonable inquiries have been made as to the existence and location of “the documents specified in the orders”."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "introduction"
+    ],
+    "text": "The list of documents is divided into three Parts. Of present concern is Part 3, that is, documents which have been, but are no longer, in the control of the first respondent. The relevant statements in Part 3 are as follows:\nDescription of document\nAny additional relevant document or documents of the high voltage and submarine energy cables business conducted by the First Respondent prior to 1 January 2008, which the First Respondent is unable to identify with any greater particularity.\nDate of document\nUnknown but prior to 1 January 2008\nWhat became of document\nAny such documents were last in the control of the First Respondent on or about 31 December 2007. From on or about 1 January 2008, as far as the First Respondent is aware, any such documents have been in the control of Prysmian Powerlink S.r.l."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "introduction"
+    ],
+    "text": "It may be noted that the first respondent does not identify documents that have been, but are no longer in its possession, or even whether such documents exist. The first respondent asserts that any such documents were in its control until 31 December 2007, but in PPL’s control on and after 1 January 2008."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "introduction"
+    ],
+    "text": "The applicant does not accept this assertion and has brought an application seeking the following orders:\n1. A declaration that documents of the high voltage and submarine energy cables business conducted by the first respondent (Prysmian), and stated by Prysmian to be in the possession of Prysmian Powerlink S.r.l (PPL), are documents in the control of Prysmian for the purposes of Rule 20.14(1)(c) of the Federal Court Rules 2011 (Cth) (FCRs).\n2. Further or in the alternative to Order 1, an order that Prysmian give further and better discovery of the documents referred to in Order 1.\n3. Further or in the alternative to Orders 1 and 2, an order requiring Prysmian to write to PPL in terms of the attached letter, take all reasonable steps to obtain a response from PPL on or before [ ], and to file and serve an affidavit which:\n3.1 attaches Prysmian’s letter and any response received from PPL and any further correspondence between Prysmian and PPL; and\n3.2 describes any further oral communications between Prysmian and PPL,\nin relation to the letter that is the subject of this Order, on or before [ ].\n4. Further or in the alternative to Orders 1, 2 and 3, an order the Prysmian describe the class of documents referred to in Part 3 of Prysmian’s List of Documents verified by the affidavit of Fabio Romeo sworn 29 May 2013 with greater particularity, including by referring to each separate document rather than by a class or classes of documents.\n5. Prysmian pay the applicant’s costs of and incidental to this application.\n6. Such further or other orders as the Court sees fit."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "introduction"
+    ],
+    "text": "During the course of oral submissions before me, the applicant abandoned the claim in paragraph 1 for a declaration."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "introduction"
+    ],
+    "text": "In terms of the evidence on the application, the applicant relied on an affidavit of a lawyer employed by the Australian Government Solicitor, which represents it in this proceeding."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "introduction"
+    ],
+    "text": "The first respondent relied on an affidavit of a lawyer employed by Johnson Winter & Slattery, which represents it in this proceeding. It also relied on an affidavit of an Italian lawyer, Avvocato Professor Stefano Alberto Villata. Avvocato Professor Villata was asked by the first respondent to give his opinion on various aspects of Italian law, which the first respondent considered are, or may be, relevant to issues arising on the application. Avvocato Professor Villata’s opinions were said to be relevant to the application for a declaration and to the exercise of the Court’s discretion, should that become relevant. I did not understand the first respondent to contest the proposition that an application relating to discovery is a matter of practice and procedure which is governed by the law of the forum (Michael Wilson & Partners Ltd v Nicholls & Others [2008] NSWSC 1230; (2008) 74 NSWLR 218; Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 7) [2014] FCA 5). I received the affidavit of Avvocato Professor Villata subject to a number of objections made by the applicant. The applicant abandoned its claim for a declaration and I have not decided this case by reference to any discretion I may have. In the circumstances, I do not have to consider whether it is appropriate to rely on any of Avvocato Professor Villata’s opinions. I would only add this observation in case the point arises in a future case: foreign law, showing the impossibility of compliance with an order of this Court based on a party’s allegation of inadequate discovery, may well be relevant to whether this Court should make orders."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "introduction"
+    ],
+    "text": "The order for standard discovery made by this Court required the first respondent to give discovery of documents that are, or have been, in its control. “Control” in relation to documents is defined in the Dictionary to the Federal Court Rules 2011 (Cth) (Schedule 1) to mean documents in the possession, custody or power of a party. The applicant submits that the documents said by the first respondent to be in the control of PPL are also in the possession, custody or power of the first respondent. Although the applicant submits that the documents are also in the possession or custody of the first respondent, the burden of its submission is that the documents have, since 1 January 2008, been within the power of the first respondent."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Key facts"
+    ],
+    "text": "The applicant alleges in this proceeding that the first respondent engaged in anti-competitive conduct of a serious nature between late 2001 and late 2003. I will not outline the nature of the applicant’s claim against the first respondent. That has been done in previous judgments in this proceeding and I refer to those judgments: Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L (No 4) (2012) 298 ALR 251; [2012] FCA 1323; Nexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Key facts"
+    ],
+    "text": "The evidence before me on this application establishes the following:\n(1) PPL was incorporated on 19 November 2007;\n(2) On 1 January 2008, the first respondent transferred its high voltage and submarine energy cable business to PPL;\n(3) At that time, PPL was owned (directly and through a wholly owned subsidiary) by the first respondent and the first respondent, in turn, was owned by Prysmian S.p.A. The first respondent and PPL have similar corporate objects;\n(4) Prysmian S.p.A. is the head company of a large number of companies comprising the Prysmian group;\n(5) Sometime in 2012, the first respondent and one of its wholly owned subsidiaries transferred their PPL shares to Prysmian S.p.A. and PPL became, like the first respondent, a wholly owned subsidiary of Prysmian S.p.A.;\n(6) The first respondent and PPL share corporate premises at 222 Viale Sarca, Milan, and secondary corporate premises at 72 Via Chiese, Milan, and 3/A Via Serra, Quattordio. They also had different business offices in various locations;\n(7) At the time Mr Romeo swore his affidavit, he was the chairman of the board of PPL;\n(8) In or about March 2012, Mr Romeo was a director or had an official role in up to 20 companies in the Prysmian group."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Key facts"
+    ],
+    "text": "It seems that in early 2014 and shortly before the argument before me, Mr Romeo, as part of a corporate re-organisation, relinquished his position as director of the first respondent and of PPL."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "Although, as I have said, the main thrust of the applicant’s submissions was that the documents described in Part 3 of the list of documents, assuming there are such documents, are in the power of the first respondent, it also argued that they were within its possession or custody. It submits that possession means the physical or corporeal holding of a document pursuant to the right to its possession, as in the case of an agent or bailee, and that custody means the mere actual physical or corporeal holding of a document regardless of the right to its possession, as in the case of a servant or employee. The applicant submits that I should infer that the documents are stored electronically and that I should infer that anyone with authority within the group had and has access to the documents by way of a computer terminal at the business address, which the companies shared. Insofar as the documents are held in hard copy, I am asked to infer that they are stored at the common premises of the companies and I am asked to infer that all companies within the energy business unit have access to them. If this submission is correct, it means that a large number of companies have access to the documents and possession or custody of them."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "I do not think that the submission is correct. There is no evidence that the documents are stored electronically. Even if I should draw that inference, there is no evidence to support the proposition that they are stored in such a way that there is common access to them. The same may be said insofar as the documents are kept in hard copy. In other words, there is no evidence that a company in the group has unrestricted access to the documents of another company in the group. The relevant business and the documents relating to that business were transferred by the first respondent to PPL on 1 January 2008 and there is no evidence to contradict the assertion that the first respondent did not have possession or custody of the documents after that time."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "I turn now to consider whether the documents are within the power of the first respondent."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "The parties are agreed that the relevant law as to the circumstances in which a document can be said to be in the “power” of a company was stated by Doyle CJ in Taylor v Santos Ltd (1998) 71 SASR 434 (“Taylor”). Two circumstances are relevant. The first was identified by Lord Diplock in Lonrho Ltd and Another v Shell Petroleum Co Ltd and Another [1980] 1 WLR 627 (635-636) and is where the person or company has “a presently enforceable legal right to obtain from whoever actually holds the documents inspection of them without the need to obtain the consent of anyone else”. The second circumstance is where, as described by Doyle CJ in Taylor (at 438), a person or company has “actual and immediate ability to inspect, even though the document is the property of or is held by another person”. A person or company does not have an actual and immediate ability to inspect if he or it is only able to do so if a third party who has control of the document agrees to permit inspection, or agrees to refrain from so exercising that person’s control as to prevent inspection."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "The question of whether a document is in the power of a person or company, albeit that another person has control of a document, may arise in the context of one-person companies or companies in a group where one of the parties is a controlling company and the other is a subsidiary. Doyle CJ said that documents of a subsidiary company are, prima facie, not in the power of the controlling company and that it will not usually be appropriate to engage in a lifting of the corporate veil. His Honour said (at 438):\nProper recognition must be given to the distinct obligations of the directors of a subsidiary company."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "His Honour also said (at 439) that there was a fundamental distinction between an actual immediate ability to inspect without the need to obtain the consent of another person, on the one hand, and the later acquisition or creation of such an ability, on the other."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "In support of its submission that the documents described in Part 3 of the list of documents, assuming there are such documents, are in the power of the first respondent, the applicant relies on the following matters. First, the first respondent and PPL are part of the Prysmian group of companies and they are both subsidiaries of Prysmian S.p.A. Before 1 January 2008, the documents were in the control of the first respondent and they were then transferred to its subsidiary, PPL, as part of a business transfer. The first respondent remained the holding company of PPL until sometime in 2012. They were and are part of the Prysmian energy business, and that is one business. The group’s annual report refers to the companies as being under common control. Secondly, I am asked to infer that the documents of PPL are kept electronically in the same system as the first respondent’s documents and that they can be accessed, either at the principal business address or one of the secondary business addresses. Thirdly, Mr Romeo occupies a controlling position in both the first respondent and PPL. The applicant also relies on the fact that, although Doyle CJ in Taylor did not agree with all of the reasoning of Hedigan J in Linfa Pty Ltd v Citibank Ltd [1995] 1 VR 643, he did not suggest that the result was wrong. The applicant submits that the result in that case supports its submission."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "For its part, the first respondent relies on the statements in Mr Romeo’s affidavit and the separate legal identities of the first respondent and PPL."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "In my opinion, the applicant’s arguments must be rejected. They involve a substantial exception to the doctrine of the separate legal identity of a company because, not only do they seek to equate a holding company and its subsidiary, but they seek to equate all the companies in a particular business unit of a group of companies. This case does not involve a one-person company, nor on the potential application of the alter ego doctrine. In my opinion, the separate corporate personality of the two companies must be recognised and the obligations of the directors of PPL to act in the best interests of that company acknowledged (Walker v Wimborne (1976) 137 CLR 1 at 6-7 per Mason J (as his Honour then was); Industrial Equity Limited and Others v Blackburn and Others (1977) 137 CLR 567 at 577 per Mason J (as his Honour then was); Federal Commissioner of Taxation v BHP Billiton Limited (2011) 244 CLR 325 at [61]-[64] per French CJ, Heydon, Crennan and Bell JJ). The statement in the annual report does not advance the applicant’s argument (Taylor, at 441, per Doyle CJ). Even if it is appropriate to infer that the documents of the two companies are stored electronically, it is not appropriate to infer that the first respondent has the right to inspect them regardless of the wishes of the directors of PPL. Again, the same may be said insofar as the documents are kept in hard copy. Mr Romeo’s dual capacities do not affect the position because he is not the alter ego of either company. I do not think the statement of Doyle CJ in Taylor that the decision in Linfa Pty Ltd v Citibank Ltd is, on the facts, consistent with this approach advances the applicant’s argument. The facts in this case are different from those in Linfa Pty Ltd v Citibank Ltd."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "The documents referred to in Part 3 of the first respondent’s list of documents, assuming there are such documents, are not within the first respondent’s power. I refuse the order sought in paragraph 2 of the applicant’s application."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "In support of the order sought in paragraph 3 of its application, the applicant relies on the decision of Lockhart J in Sabre Corporation Pty Ltd v Russ Kalvin’s Hair Care Company and Others (1993) 46 FCR 428. In that case, Lockhart J indicated that he would make an order requiring an Australian distributor of products manufactured by a United States corporation to request the manufacturer to provide it with certain documents. Critically, his Honour found on the facts, including a clause in a distributorship agreement, that there was a real likelihood that the United States corporation would provide the documents to the Australian distributor. Although the parties in this case are related, I am not able to find such a real likelihood on the facts of this case and I refuse to make the order sought in paragraph 3."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "ISSUES ON THE APPLICATION AND THEIR DETERMINATION"
+    ],
+    "text": "The applicant seeks an order that the first respondent describe the documents with greater particularity. The applicant submitted that the first respondent had not made a sufficient effort to disclose the documents in its control and, in support of that assertion, it tendered before me three emails, which it contended should have been, but were not, described in Parts 1 or 2 of the list of documents. The reason these emails were not disclosed was not explained. Nevertheless, the first respondent, through Mr Romeo, swears that it is unable to describe the documents with greater particularity and I do not think there is sufficient reason to go behind that assertion."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "The applicant’s application must be dismissed."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+ "associate": null,
+ "dated": "2014-04-15",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "5af50eb582b8b29f7967accb8cac7a2f833cd738224b407b5fd5eb91f75fe851",
+ "markdown_file": "data/extracted/2014/2014FCA0376.md"
+}

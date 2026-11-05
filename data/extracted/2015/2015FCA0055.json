@@ -1,0 +1,954 @@
+{
+ "extractor_version": 2,
+ "source_file": "data/judgments/2015/2015FCA0055.docx",
+ "metadata": {
+  "citation": "[2015] FCA 55",
+  "name": "Australian Competition and Consumer Commission v Origin Energy Limited",
+  "court": "FCA",
+  "year": 2015,
+  "number": 55,
+  "date_of_judgment": "2015-02-09",
+  "file_numbers": [
+   "SAD103/2014"
+  ],
+  "judges": [
+   "WHITE J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2014-12-18"
+  ],
+  "hearing_raw": "18 December 2014",
+  "number_of_paragraphs": 67,
+  "catchwords": [
+   "CONSUMER LAW – Penalty hearing – admitted contraventions – whether agreed orders sought by the parties appropriate in the circumstances – pecuniary penalties"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) Sch 2 (Australian Consumer Law) ss 29, 224",
+   "Trade Practices Act 1974 (Cth) ss 76, 76E"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited [2001] ATPR 41-815",
+   "Australian Competition and Consumer Commission v BAJV Pty Ltd [2014] FCAFC 52",
+   "Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146; (2007) 161 FCR 513",
+   "Australian Competition and Consumer Commission v Dimmeys Stores Pty Ltd [1999] FCA 1175",
+   "Australian Competition and Consumer Commission v Energy Australia Pty Ltd [2014] FCA 336",
+   "Australian Competition and Consumer Commission v Mandurvit Pty Ltd [2014] FCA 464",
+   "Australian Competition and Consumer Commission v Marksun Australia Pty Ltd [2011] FCA 695",
+   "Australian Competition and Consumer Commission v MSY Technology Pty Ltd (No 2) [2011] FCA 382; (2011) 279 ALR 609",
+   "Australian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; (2012) 201 FCR 378",
+   "Australian Competition and Consumer Commission v Pepe’s Ducks Ltd [2013] FCA 570",
+   "Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc [1999] FCA 18; (1999) 161 ALR 79",
+   "Australian Competition and Consumer Commission v Safeway Stores Pty Ltd (1997) 145 ALR 36",
+   "Australian Competition and Consumer Commission v Titan Marketing Pty Ltd [2014] FCA 913",
+   "Barbaro v The Queen [2014] HCA 2; (2014) 305 ALR 323",
+   "J McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365; (2000) 172 ALR 532",
+   "Markarian v The Queen [2005] HCA 25; (2005) 228 CLR 357",
+   "Mill v The Queen (1988) 166 CLR 59",
+   "Minister for Industry, Tourism and Resources v Mobil Oil Australia [2004] FCAFC 72",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "Postiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295",
+   "R v E, AD [2005] SASC 332; (2005) 93 SASR 20",
+   "R v Rossi (1988) 142 LSJS 451",
+   "Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20; (2012) 287 ALR 249",
+   "Trade Practices Commission v CSR Limited [1991] ATPR 41-076"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "ORIGIN ENERGY LIMITED",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ORIGIN ENERGY ELECTRICITY LIMITED",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "ORIGIN ENERGY RETAIL LIMITED",
+    "role": "Third Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v ORIGIN ENERGY LIMITED, ORIGIN ENERGY ELECTRICITY LIMITED and ORIGIN ENERGY RETAIL LIMITED",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr D Star"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr C Moore SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0055",
+  "portal_file_numbers": [
+   "SAD103/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2015-02-09"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Origin Energy Limited [2015] FCA 55"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v ORIGIN ENERGY LIMITED, ORIGIN ENERGY ELECTRICITY LIMITED and ORIGIN ENERGY RETAIL LIMITED"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 103 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "WHITE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "9 February 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CONSUMER LAW – Penalty hearing – admitted contraventions – whether agreed orders sought by the parties appropriate in the circumstances – pecuniary penalties"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) Sch 2 (Australian Consumer Law) ss 29, 224\nTrade Practices Act 1974 (Cth) ss 76, 76E"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited [2001] ATPR 41-815\nAustralian Competition and Consumer Commission v BAJV Pty Ltd [2014] FCAFC 52\nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146; (2007) 161 FCR 513\nAustralian Competition and Consumer Commission v Dimmeys Stores Pty Ltd [1999] FCA 1175\nAustralian Competition and Consumer Commission v Energy Australia Pty Ltd [2014] FCA 336\nAustralian Competition and Consumer Commission v Mandurvit Pty Ltd [2014] FCA 464\nAustralian Competition and Consumer Commission v Marksun Australia Pty Ltd [2011] FCA 695\nAustralian Competition and Consumer Commission v MSY Technology Pty Ltd (No 2) [2011] FCA 382; (2011) 279 ALR 609\nAustralian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; (2012) 201 FCR 378\nAustralian Competition and Consumer Commission v Pepe’s Ducks Ltd [2013] FCA 570\nAustralian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc [1999] FCA 18; (1999) 161 ALR 79\nAustralian Competition and Consumer Commission v Safeway Stores Pty Ltd (1997) 145 ALR 36\nAustralian Competition and Consumer Commission v Titan Marketing Pty Ltd [2014] FCA 913\nBarbaro v The Queen [2014] HCA 2; (2014) 305 ALR 323\nJ McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365; (2000) 172 ALR 532\nMarkarian v The Queen [2005] HCA 25; (2005) 228 CLR 357\nMill v The Queen (1988) 166 CLR 59\nMinister for Industry, Tourism and Resources v Mobil Oil Australia [2004] FCAFC 72\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nPostiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295\nR v E, AD [2005] SASC 332; (2005) 93 SASR 20\nR v Rossi (1988) 142 LSJS 451\nSingtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20; (2012) 287 ALR 249\nTrade Practices Commission v CSR Limited [1991] ATPR 41-076"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "18 December 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "67"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr D Star"
+  },
+  {
+   "label": "Solicitors for the Applicant",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr C Moore SC"
+  },
+  {
+   "label": "Solicitors for the Respondents",
+   "value": "Clayton Utz"
+  },
+  {
+   "label": "29 May 2015",
+   "value": "In paragraph 33 the case name “Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc” has been italicised and replaced with “Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc”."
+  },
+  {
+   "label": "29 May 2015",
+   "value": "In paragraph 36 the word “or” has been inserted after “Ch 4”."
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD103/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "ORIGIN ENERGY LIMITED",
+     "role": "First Respondent"
+    },
+    {
+     "name": "ORIGIN ENERGY ELECTRICITY LIMITED",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "ORIGIN ENERGY RETAIL LIMITED",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "WHITE J"
+   ],
+   "date": "2015-02-09",
+   "date_raw": "9 FEBRUARY 2015",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "",
+     "text": "The Website Discount Representation",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Origin Energy Limited (Origin), in trade or commerce, in connection with the promotion of the supply of electricity to residential consumers of electricity in South Australia who consume less than 160MWh of electricity per annum (Electricity Consumers) and the supply of natural gas to residential consumers of natural gas in South Australia who consume less than 1TJ of natural gas per annum (Natural Gas Consumers) (together Consumers) under the energy plan relating to electricity with a duration of 12 months known as the DailySaver Energy Plan (DailySaver Electricity Energy Plan) and the energy plan with a duration of 12 months known as the DailySaver Energy Plan (DailySaver Gas Energy Plan) (together DailySaver Energy Plans):",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "made a false or misleading representation that the supply of electricity and natural gas under the DailySaver Energy Plans had benefits, in contravention of section 29(1)(g) of the Australian Consumer Law (ACL) contained in Schedule 2 to the Competition and Consumer Act 2010 (Cth) (CCA); and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "made a false or misleading representation with respect to the price of electricity and natural gas under the DailySaver Energy Plans, in contravention of section 29(1)(i) of the ACL,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "by making a representation to Consumers during the period 1 February 2013 to 29 May 2013 that, under a DailySaver Energy Plan:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "for electricity, they would receive a discount of up to 16% off Origin’s energy usage charges; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "for natural gas, they would receive a discount of up to 12% off Origin’s energy usage charges,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "by making statements displayed on the website http://www.originenergy.com.au (Origin Website) to the effect that they would receive a discount off their electricity and/or natural gas usage charges as described in sub-paragraphs (c) and (d) above for the duration of the DailySaver Energy Plan by reason that:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "there was no single set of rates for electricity usage charges and gas usage charges for all residential customers of Origin Electricity Limited (Origin Electricity) and Origin Energy Retail Limited (Origin Gas) respectively; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the rates used to calculate their energy usage charges, to which the discount would be applied, would be the rates for energy usage under Origin Electricity and Origin Gas’ market retail contracts which were higher than the rates for energy usage under their Standard Retail Contract.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Confirmation Pack Discount Representation",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Origin Electricity, in trade or commerce, in connection with the supply or possible supply of electricity to Electricity Consumers under the DailySaver Electricity Energy Plan:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "made a false or misleading representation that the supply of electricity under the DailySaver Electricity Energy Plan had benefits, in contravention of section 29(1)(g) of the ACL; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "made a false or misleading representation with respect to the price of electricity under the DailySaver Electricity Energy Plan, in contravention of section 29(1)(i) of the ACL,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "by making a representation to Electricity Consumers during the period 1 February 2013 to 30 June 2013 that, under the DailySaver Electricity Energy Plan, they would receive a discount of up to 16% off Origin Electricity’s energy usage charges, by making statements in a letter and an enclosure sent to them following their agreement to commence a DailySaver Electricity Energy Plan to the effect that they would receive a discount of up to 16% off their electricity usage charges for the duration of the DailySaver Electricity Energy Plan when there was no single set of rates for electricity usage charges for all residential customers of Origin Electricity and the rates used to calculate electricity usage charges, to which the discount would be applied, would be the rates for electricity usage under Origin Electricity’s market retail contract which were higher than the rates for electricity usage under Origin Electricity’s Standard Retail Contract.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Origin Gas, in trade or commerce, in connection with the supply or possible supply of natural gas to Natural Gas Consumers under the DailySaver Gas Energy Plan:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "made a false or misleading representation that the supply of natural gas under the DailySaver Gas Energy Plan had benefits, in contravention of section 29(1)(g) of the ACL; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "made a false or misleading representation with respect to the price of natural gas under the DailySaver Gas Energy Plan, in contravention of section 29(1)(i) of the ACL,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "by making a representation to Natural Gas Consumers during the period 1 February 2013 to 30 June 2013 that, under the DailySaver Gas Energy Plan, they would receive a discount of up to 12% off Origin Gas’ energy usage charges, by making statements in a letter and an enclosure sent to them following their agreement to commence a DailySaver Gas Energy Plan to the effect that they would receive a discount of up to 12% off their natural gas usage charges for the duration of the DailySaver Gas Energy Plan when there was no single set of rates for natural gas usage charges for all residential customers of Origin Gas and the rates used to calculate natural gas usage charges, to which the discount would be applied, would be the rates for natural gas usage under Origin Gas’ market retail contract which were higher than the rates for natural gas usage under Origin Gas’ Standard Retail Contract.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "AND THE COURT ORDERS THAT:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Pecuniary Penalty",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Within 30 days of the date of this order, Origin pay to the Commonwealth of Australia a pecuniary penalty of $125,000 in respect of the acts constituting its contraventions of sections 29(1)(g) and 29(1)(i) of the ACL.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Within 30 days of the date of this order, Origin Electricity and Origin Gas each pay to the Commonwealth of Australia a pecuniary penalty of $100,000 in respect of the acts constituting their contraventions of sections 29(1)(g) and 29(1)(i) of the ACL.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Publication Orders",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Within 21 days of the date of this order, the Respondents jointly publish, at their own expense, a notice in a weekday edition of The Advertiser newspaper which is in the terms and form of Annexure A, and complies with the following specifications:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "is placed within the first 10 pages of the newspaper;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "is of a size of approximately a quarter of a page in that newspaper;",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "has a banner font of sans serif 12 point, bold;",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "has a headline font of 12 point, bold;",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "contains in the body of text font that is no less than 11 point size; and",
+     "level": 0
+    },
+    {
+     "label": "(f)",
+     "text": "has the ACCC and Commonwealth logos of at least 20 millimetres in height and centered.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Each of Origin Electricity and Origin Gas, at its own expense, within 120 days of the date of this order:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "cause a DL sized insert in the terms of Annexure A to be distributed once with each of its South Australian residential customers’ invoices sent by post; or",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "cause a document in the terms of Annexure A to be distributed once with each of its South Australian residential customers’ invoices sent electronically,",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "to all persons with whom:",
+     "level": 0
+    },
+    {
+     "label": "(d)",
+     "text": "Origin Electricity entered into a DailySaver Electricity Energy Plan between 1 February 2013 and 30 June 2013 for the supply of electricity to residential premises in South Australia; and",
+     "level": 0
+    },
+    {
+     "label": "(e)",
+     "text": "Origin Gas entered into a DailySaver Gas Energy Plan between 1 February 2013 and 30 June 2013 for the supply of natural gas to residential premises in South Australia,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "save that if a person commenced a DailySaver Electricity Energy Plan and DailySaver Gas Energy Plan during the Relevant Period, only one notice needs to be sent to that person.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Costs",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "Within 30 days of the date of this order, the Respondents pay the Applicant $25,000 in respect of the Applicant's costs of the proceeding.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Verification Certificate",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "Within 160 days of the date of this order, the Respondents provide to the Applicant a signed certificate verifying compliance with orders 6 and 7 above and:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "in respect of paragraph 6 above, attaching a copy of the notices caused to be published in accordance with these orders; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "in respect of paragraph 7 above, attaching a copy of one DL sized insert and a copy of the electronic notice caused to be distributed in accordance with these orders.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "A MESSAGE TO SOUTH AUSTRALIAN RESIDENTIAL CUSTOMERS WHO SIGNED UP TO ORIGIN’S DAILYSAVER ENERGY PLAN BETWEEN 1 FEBRUARY TO 30 JUNE 2013",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Origin sells electricity and natural gas to residential customers in South Australia.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "From 1 February to 30 June 2013, Origin’s website and the contracts sent to customers contained statements that under a DailySaver energy plan, residential customers would receive a discount on their usage charges of up to 16% for electricity and up to 12% for gas for the 12 month plan.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The rates used to calculate energy usage charges under the DailySaver plan, before the application of the discounts, were the same as the rates which applied under other Origin energy plans offered in conjunction with its market retail contract at the time. However, they were higher than the rates for energy usage charges which applied at the time under Origin’s Standard Retail Contract (also known as its Standing Offer).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "If you entered into a DailySaver energy plan for electricity and/or natural gas between 1 February and 30 June 2013 and believe you were misled about the rates used to calculate the energy usage charges to which the discount would be applied, please contact [insert details].",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Origin has been ordered to publish this message following court action by the ACCC",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "For more information visit www.accc.gov.au",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT DECLARES THAT:",
+    "ANNEXURE A"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The Australian Competition and Consumer Commission (the ACCC) alleges that three members in the Origin Energy Group have made false or misleading representations in contravention of s 29(1)(g) and (i) of the Australian Consumer Law (the ACL, contained in Sch 2 to the Competition and Consumer Act 2010 (the CC Act)) in relation to their supply of electricity and gas to residential consumers in South Australia. The conduct occurred in the period 1 February 2013 to 30 June 2013 (the Relevant Period). The ACCC seeks declaratory and other relief."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The proceedings were listed for trial on 17 December 2014. However, in the preceding week, the parties reached agreement in principle as to the disposition of the proceedings. They provided the Court with a Statement of Agreed Facts (SOAF), agreed proposed orders and a joint set of submissions."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "In essence, the three Origin respondents admit contraventions of s 29(1)(g) and (i) of the ACL; the parties are agreed as to the declarations to be made by the Court with respect to those contraventions; and the parties are agreed on a number of ancillary matters, including the making of a publication order and orders with respect to costs. The parties recognise, however, that the question of relief is a matter for the exercise of the Court’s discretion."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "I consider that effect should be given to the parties’ agreement and that the orders proposed by the parties should be made. My reasons follow."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "The respondents"
+    ],
+    "text": "The Origin Energy Group is engaged in the energy industry. The first respondent, Origin Energy Limited (Origin Energy) is the ultimate holding company of the second and third respondents, Origin Energy Electricity Ltd (Origin Electricity) and Origin Energy Retail Ltd (Origin Gas)."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "The respondents"
+    ],
+    "text": "Origin Electricity is a retailer of electricity to, amongst others, residential consumers in South Australia. Origin Gas is a retailer of natural gas to, amongst others, residential consumers in South Australia."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The conduct of the respondents"
+    ],
+    "text": "In the period between 1 February 2013 and 19 June 2014, Origin Electricity supplied electricity to residential consumers under both Standard Retail Contracts and Market Retail Contracts (as defined in the National Energy Retail Law (South Australia) Act 2011 (SA)). Likewise, Origin Gas in the same period supplied natural gas to residential consumers in South Australia under both Standard Retail and Market Retail Contracts. Subject to one qualification which is not presently relevant, the rates charged for gas and electricity under each of these types of contract were not the subject of any regulation."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The conduct of the respondents"
+    ],
+    "text": "In relation to the supply of both electricity and gas, the Market Retail Contracts gave effect to energy plans which Origin Electricity or Origin Gas, as the case may be, had agreed with consumers. Some of the energy plans provided for discounts from the consumer’s energy usage charges."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The conduct of the respondents"
+    ],
+    "text": "In February 2013, the respondents commenced a campaign to attract consumers. The campaign featured two energy plans: in the case of the supply of electricity, a DailySaver Electricity Energy Plan with a discount from a consumer’s energy usage charges of up to 16%; and, in the case of the supply of natural gas, a DailySaver Gas Energy Plan with a discount from the consumer’s energy usage charges of up to 12%. Part of the offered discounts was unconditional, while other parts were conditional. The conditional parts comprised a 2% discount for customers paying their bills on time, a 1% discount for customers paying their bill by direct debit, and a further 1% for consumers who agreed to take both electricity and gas from the Origin Group (a dual fuel discount)."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "Origin Energy promoted on the Origin Energy website the supply of electricity under the DailySaver Electricity Energy Plan and the supply of natural gas under the DailySaver Gas Energy Plan. It was the registrant of the domain name originenergy.com.au and either owned the copyright on the website content, or was licensed to use that content on its own behalf and on behalf of its subsidiaries. The website provided information about Origin Energy and its subsidiaries to, amongst others, current and prospective customers."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "In the period from 1 February 2013 to 29 May 2013, the Origin website contained a number of pages which, of their nature, would have attracted the attention of customers and prospective customers visiting the site. Website pages, described by the parties as “landing pages”, contained one or more of the following five statements:\n(a) With respect to the supply of electricity under the DailySaver Electricity Energy Plan:\n(i) “Save up to\n16% off electricity\nusage for 12 months\nplus a $50 rebate”;\n(b) With respect to the supply of natural gas under the DailySaver Gas Energy Plan:\n(i) “Save up to\n12% off natural gas\nusage for 12 months”; and\n(c) With respect to the supply of electricity under the DailySaver Electricity Energy Plan and natural gas under the DailySaver Gas Energy Plan:\n(i) “Switch your electricity account to Origin and be rewarded with a DailySaver discount of up to 16%^ off your electricity usage for 12 months plus a $50 bill rebate* AND a DailySaver discount of up to 12% off your natural gas usage for 12 months”;\n(ii) “DailySaver\nEnjoy a discount of up to 16% on your electricity usage and 12% on your natural gas usage for 12 months plus a $50 rebate”; and\n(iii) “Save up to 16% on your electricity usage and 12% on your natural gas usage for 12 months*”.\nThese statements were described by the parties as the “Primary Webpage Statements”."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "In addition to the Primary Webpage Statements, the Origin website included pages containing one or more of the following 12 statements:\n(a) With respect to the supply of electricity under the DailySaver Electricity Energy Plan:\n(i) “Base Discount A 12% discount on the energy usage charges will apply for the Energy Plan Period”;\n(b) With respect to the supply of natural gas under the DailySaver Gas Energy Plan:\n(i) “Base Discount: A 8% discount on the energy usage charges will apply for the Energy Plan Period”;\n(ii) “We will give you a 8% discount on the energy rate component of the Charges (‘DailySaver Discount’) …”;\n(iii) “If you also take up and keep your electricity with us at the same Supply Address, during the Energy Plan Period you will receive a 1% discount on the energy rate component of the Charges”;\n(iv) “We will give you an additional discount of 2% on the energy rate component of the Charges if:\na) you pay the total amount due by the Due Date and do not have any overdue amounts outstanding for your account; and\nb) you do not have an easipay payment plan (other than an easipay payment plan with direct debit); and\nc) the Billing Period for that bill is during the Energy Plan Period”; and\n(c) With respect to the supply of electricity under the DailySaver Electricity Energy Plan and natural gas under the DailySaver Gas Energy Plan:\n(i) “12% Electricity guaranteed base usage discount. 8% Natural Gas guaranteed base usage discount. PLUS an additional 2% pay on time usage discount if you pay your electricity bill by the due date. PLUS an additional 1% dual fuel discount off both your electricity & natural gas usage charges for having both your electricity and natural gas accounts with Origin. PLUS an additional 1% direct debit usage discount if you pay by direct debit”;\n(ii) “The DailySaver discount (and any other discounts you are eligible for such as direct debit) apply only to the energy rate component of the Charges and not to the supply/service or green product charges”;\n(iii) “Direct debit discount A 1% discount on the energy usage charges will apply if your bill is paid by direct debit”;\n(iv) “Dual fuel discount A 1% discount on the electricity usage charges will apply during the Energy Plan Period if you have both gas and electricity with us”;\n(v) “Dual fuel discount A 1% discount on the gas usage charges will apply during the Energy Plan Period if you have both gas and electricity with us”;\n(vi) “Pay on time discount A 2% discount on the energy usage charges will apply if you pay your energy bills on time during the Energy Plan Period. …”; and\n(vii) “With our DailySaver energy offer, you’ll receive:\n• a guaranteed 12% base discount on your electricity usage for 12 months*.\n• a guaranteed 8% base discount on your natural gas usage for 12 months*.\n• an additional 2% discount on your usage when you pay your bills on time for the term of your energy plan*.\n• an additional 1% discount on your usage when you choose Origin for both electricity and natural gas for up to 12 months*.\n• an additional 1% discount on your usage when you pay by Direct Debit*”,\nThese statements were described by the parties as the “Secondary Webpage Statements”."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "It is an agreed fact that Origin Energy made the Primary Webpage Statements and the Secondary Webpage Statements by displaying the statements on the website. It is also an agreed fact that Origin Energy made the statements set out above on behalf of Origin Electricity and Origin Gas respectively."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "The ACCC alleges, and the respondents admit, that by making each of the Primary Webpage Statements alone or in combination with all or any of the Secondary Webpage Statements, Origin Energy represented to consumers in connection with the promotion of the supply of electricity under the DailySaver Electricity Energy Plan and in connection with the supply of natural gas under the DailySaver Gas Energy Plan that they would receive a discount of up to 16% and 12% respectively off Origin’s energy usage charges for the supply of electricity and gas respectively. The parties referred to this representation as the “Website Discount Representation”."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "The respondents also admit that some consumers would have understood, reasonably, that the discounts would be from energy usage charges calculated by reference to rates applicable generally to consumers like themselves."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The website representations"
+    ],
+    "text": "The parties agree that the Website Discount Representation was false or misleading:\nfor electricity consumers by reason that the rates used to calculate their energy usage charges under the DailySaver Electricity Energy Plan, to which the discount would be applied, would be the rates for energy usage under Origin Electricity’s Market Retail Contract which were higher than rates for energy usage under Origin Electricity’s Standard Retail Contract; and\nfor natural gas consumers by reason that the rates used to calculate their energy usage charges under the DailySaver Gas Energy Plan, to which the discount would be applied, would be the rates for energy usage under Origin Gas’ Market Retail Contract which were higher than the rates for energy usage under Origin Gas’ Standard Retail Contract.\nThat is to say, contrary to the reasonable understanding of consumers outlined above, the energy usage charges under the DailySaver Electricity Energy Plan and the DailySaver Gas Energy Plan to which the discounts were to be applied were to be calculated using rates which were, in some cases, higher than the rates applicable generally to residential consumers."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "When consumers agreed to commence a DailySaver Energy Plan in the Relevant Period, Origin Electricity or Origin Gas, as the case may be, sent them a Confirmation Pack. The Confirmation Pack comprised a letter to which was attached an Agreement Schedule; the DailySaver Energy Plan terms and conditions; agreement terms for electricity, natural gas and green products; a customer disclosure statement; a notice of right to cancel; and a cancellation notice. Origin Electricity sent the Confirmation Pack to those consumers agreeing to take a supply of electricity under the DailySaver Electricity Energy Plan and Origin Gas sent the Confirmation Pack to those consumers agreeing to take a supply of natural gas under the DailySaver Gas Energy Plan."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "The Confirmation Pack included the statements:\n(a) “Up to [16.00%/12.00%] discount on your [Electricity/Natural Gas] usage for 12 months ^*”;\n(b) “*The [16.00%/12.00%] discount includes a guaranteed discount of [12.00%/8.00%], a Pay on time discount of 2.00%, a Dual Fuel discount of 1.00% and a Direct Debit discount of 1%. Refer to your Energy Plan and Direct Debit terms for how you can qualify for these additional discounts. These discounts apply to the energy rate component of your Charges only. …”; and\n(c) “Your Reward: Thank you for choosing us as your energy provider and taking up the DailySaver Energy Plan. You are now eligible for a discount of up to [16.00%/12.00%] on your [Electricity/Natural Gas] usage for 12 months”.\nThe parties referred to these statements as the “Primary Confirmation Pack Statements”"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "In addition to the Primary Confirmation Packs Statements, the Confirmation Pack also included the following statements:\n(a) “Pay by Direct Debit and receive a discount on [Electricity/Natural Gas] usage*”;\n(b) “...if you pay by direct debit you receive a discount on the energy rate component of the charges on your bill”;\n(c) “We will give you a guaranteed [12%/8%%] discount on the energy rate component of the Charges”;\n(d) “We will give you a discount of 2% on the energy rate component of the Charges if:\n• you pay the total amount due by the Due Date ...”; and\n(e) “If you also take up and keep your [Electricity/Natural Gas] with us at the same Supply Address, during the Energy Plan Period you will receive a 1% discount on the energy rate components of the Charges. …”.\nThe parties referred to these statements as the “Secondary Confirmation Pack Statements”."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "The ACCC alleges, and the respondents admit, that by making each of the Primary Confirmation Pack Statements alone or in combination with any or all of the Secondary Confirmation Pack Statements, each of Origin Electricity and Origin Gas made representations. Origin Electricity represented to electricity consumers in connection with the supply of electricity under the DailySaver Electricity Energy Plan that, under such a Plan, they would receive a discount of up to 16% off Origin Electricity’s energy usage charges. Origin Gas represented to natural gas consumers in connection with supply of natural gas under the DailySaver Gas Energy Plan that, under such a Plan, they would receive a discount of up to 12% off Origin Gas’ energy usage charges. The parties referred to these representations as the “Confirmation Pack Discount Representation”."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "As with the Website Discount Representation, the respondents admit that some customers would have understood, reasonably, that the discounts would be from energy usage charges calculated by reference to rates applicable generally to consumers like themselves."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The Confirmation Pack Representations"
+    ],
+    "text": "The parties agreed that the Confirmation Pack Discount Representation was false or misleading in the same way as the Website Discount Representation. That is to say, contrary to the reasonable understanding of consumers outlined above, the energy usage charges to which the discounts would be applied would be calculated using rates which were, in some cases, higher than those applicable generally to residential consumers like themselves."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Statutory provisions"
+    ],
+    "text": "Section 29 of the ACL provides, relevantly:\n29 A person must not, in trade or commerce, in connection with the supply or possible supply of goods or services or in connection with the promotion by any means of the supply or use of goods or services:\n…\n(g) Make a false or misleading representation that goods or services have sponsorship, approval, performance characteristics, accessories, uses or benefits; or\n…\n(i) Make a false or misleading representation with respect to the price of goods or services; or\n…"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Statutory provisions"
+    ],
+    "text": "The ACCC application and Amended Fast Track Statement indicated that it also alleged misleading or deceptive conduct in contravention of s 18 of the ACL by each of the respondents. However, the ACCC did not pursue that allegation."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The contraventions"
+    ],
+    "text": "Origin Energy admits that, by making the Website Discount Representation, it:\n(a) made a false or misleading representation that the supply of electricity and natural gas under the DailySaver Energy Plans had benefits, in contravention of s 29(1)(g) of the ACL; and\n(b) made a false or misleading representation with respect to the price of electricity and natural gas under the DailySaver Energy Plans, in contravention of s 29(1)(i) of the ACL."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The contraventions"
+    ],
+    "text": "Origin Electricity admits that by making the Confirmation Pack Discount Representation, it:\n(a) made a false or misleading representation that the supply of electricity under the DailySaver Electricity Energy Plan had benefits, in contravention of s 29(1)(g) of the ACL; and\n(b) made a false or misleading representation with respect to the price of electricity under the DailySaver Electricity Energy Plan, in contravention of s 29(1)(i) of the ACL."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The contraventions"
+    ],
+    "text": "Origin Gas admits that by making the Confirmation Pack Discount Representation, it:\n(a) made a false or misleading representation that the supply of natural gas under the DailySaver Gas Energy Plan had benefits, in contravention of s 29(1)(g) of the ACL; and\n(b) made a false or misleading representation with respect to the price of natural gas under the DailySaver Gas Energy Plan, in contravention of s 29(1)(i) of the ACL."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "The parties submit that the Court should make the agreed declarations and should impose the agreed penalties. The proposed penalties are as follows:\nOrigin Energy | $125,000.00\nOrigin Electricity | $100,000.00\nOrigin Gas | $100,000.00\nTotal | $325,000.00"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "The principles on which this Court acts in relation to the imposition of agreed pecuniary penalties have been discussed in a number of cases and, in particular, in NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285 and in Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72. In Mobil Oil at [51], the Full Court identified the following propositions in the reasons of NW Frozen Foods:\n(i) It is the responsibility of the Court to determine the appropriate penalty to be imposed under s 76 of the TP Act in respect of a contravention of the TP Act.\n(ii) Determining the quantum of a penalty is not an exact science. Within a permissible range, the courts have acknowledged that a particular figure cannot necessarily be said to be more appropriate than another.\n(iii) There is a public interest in promoting settlement of litigation, particularly where it is likely to be lengthy. Accordingly, when the regulator and contravenor have reached agreement, they may present to the Court a statement of facts and opinions as to the effect of those facts, together with joint submissions as to the appropriate penalty to be imposed.\n(iv) The view of the regulator, as a specialist body, is a relevant, but not determinative consideration on the question of penalty. In particular, the views of the regulator on matters within its expertise (such as the ACCC’s views as to the deterrent effect of a proposed penalty in a given market) will usually be given greater weight than its views on more “subjective” matters.\n(v) In determining whether the proposed penalty is appropriate, the Court examines all the circumstances of the case. Where the parties have put forward an agreed statement of facts, the Court may act on that statement if it is appropriate to do so.\n(vi) Where the parties have jointly proposed a penalty, it will not be useful to investigate whether the Court would have arrived at that precise figure in the absence of agreement. The question is whether that figure is, in the Court’s view, appropriate in the circumstances of the case. In answering that question, the Court will not reject the agreed figure simply because it would have been disposed to select some other figure. It will be appropriate if within the permissible range.\nAll the authorities emphasise that the Court is not to act as a mere rubber stamp of the parties’ agreement."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "In Barbaro v The Queen [2014] HCA 2; (2014) 305 ALR 323, the majority of the High Court held that in criminal proceedings the prosecution should not be permitted to make a submission to a sentencing Judge as to the specific penalty, or the range of penalties, which would be appropriate. There is a question as to whether this principle applies in relation to civil penalty proceedings. That question has been considered by the Full Court of this Court, but judgment is presently reserved."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "Reference has been made to the effect of Barbaro in the present context in a number of first instance decisions, including: Australian Competition and Consumer Commission v Energy Australia Pty Ltd [2014] FCA 336 at [113]-[152]; Australian Competition and Consumer Commission v Mandurvit Pty Ltd [2014] FCA 464 at [38]-[80]; Australian Competition and Consumer Commission v Titan Marketing Pty Ltd [2014] FCA 913 at [15]-[16]. In each of these cases, single judges have followed the approach of the Full Court in NW Frozen Foods and Mobil Oil. They have allowed the parties to make submissions as to the appropriate penalty or range of penalties and, in some cases, have given effect to the parties’ agreement. Given that the decisions in NW Frozen Foods and in Mobil Oil were judgments of the Full Court and that the application of the Barbaro principle in civil penalty proceedings has not yet been determined by the Full Court, I consider it appropriate to continue to adopt the approach in NW Frozen Foods and in Mobil Oil set out above."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "However, as Perram J observed at first instance in Australian Competition and Consumer Commission v MSY Technology Pty Ltd (No 2) [2011] FCA 382; (2011) 279 ALR 609 at [7], the parties’ agreement on proposed declarations and civil penalties does not relieve the Court of its obligation to satisfy itself that they are appropriate. That is because of the potentially public nature of the orders. Declaratory relief may affect or declare the state of the law which may, in some circumstances, affect parties not before the Court. So too, the imposition of a penalty serves the end of deterring similar conduct by others not before the Court. Those observations of his Honour were not disturbed on appeal: Australian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; (2012) 201 FCR 378."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The making of orders by consent: principles"
+    ],
+    "text": "In considering the appropriateness of orders agreed upon by the parties, the Court has regard to the public interest in the settlement of cases under legislation such as the ACL. Thus, in NW Frozen Foods at 291, Burchett and Kiefel JJ said:\nThere is an important public policy involved. When corporations acknowledge contraventions, very lengthy and complex litigation is frequently avoided, freeing the Courts to deal with other matters, and investigating officers of the Australian Competition and Consumer Commission to turn to other areas of the economy that await their attention.\nSimilarly, in Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc [1999] FCA 18; (1999) 161 ALR 79 at [18], French J said:\nThe Court has a responsibility to be satisfied that what is proposed is not contrary to the public interest and is at least consistent with it. … Consideration of the public interest, however, must also weigh the desirability of non-litigious resolution of enforcement proceedings."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Section 224 of the ACL"
+    ],
+    "text": "By s 224 of the ACL, the Court may impose a pecuniary penalty on a person who contravenes a provision of Pt 3-1 of the ACL or who has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision (subs (1)(a)(ii) and subs (1)(e)). The Court may impose a pecuniary penalty in respect of each act or omission by the person, as the Court determines to be appropriate (subs (1))."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Section 224 of the ACL"
+    ],
+    "text": "The maximum penalty in respect of each contravention of a provision of Pt 3-1 of the ACL for a body corporate is $1.1 million (s 224(3) Item 2). A person is not liable to more than one pecuniary penalty in respect of conduct constituting a contravention of two or more provisions of Pt 3-1."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Section 224 of the ACL"
+    ],
+    "text": "Section 224(2) requires a Court determining an appropriate penalty to have regard to all relevant matters, including:\n(a) The nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;\n(b) The circumstances in which the act or omission took place; and\n(c) Whether the person has previously been found by a Court in proceedings under Ch 4 or Pt 5-2 to have engaged in any similar conduct."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "Section 224 of the ACL was preceded by, and is in substantially identical terms to, s 76E of the Act when known as the Trade Practices Act 1974 (Cth) (the TPA). It is appropriate to apply the principles developed in the authorities relevant to the imposition of a penalty under the former s 76E in the determination of penalties under s 224: Australian Competition and Consumer Commission v Pepe’s Ducks Ltd [2013] FCA 570 at [16]. The principles developed under the former s 76E of the TPA were in turn informed by the authorities relating to the imposition of a civil penalty under the former s 76 of the TPA, which related to restrictive trade practices. In that way, the authorities developed in relation to the former s 76 are also of assistance in the present context."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "The matters relevant to the assessment of penalty have been identified in a number of the authorities. It is sufficient to refer to Trade Practices Commission v CSR Limited [1991] ATPR 41-076 at 52,152-52,153; NW Frozen Foods at 292-4; J McPhee & Son (Aust) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365, (2000) 172 ALR 532 at [150]-[151]; and Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146, (2007) 161 FCR 513 at [58]-[62]. The relevant matters include:\n(a) The size of the contravening company;\n(b) Whether the contravening conduct was systematic, deliberate or covert and the period over which it extended;\n(c) Whether the contravention arose out of the conduct of senior management of the contravener or at some lower level;\n(d) Whether the contravener has a corporate culture conducive to compliance with the ACL, as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention;\n(e) Whether the contravener has shown a disposition to cooperate with the authorities responsible for the enforcement of the ACL in relation to the contravention;\n(f) Whether the contravener has engaged in similar conduct in the past;\n(g) The financial position of the contravener;\n(h) The need for deterrence, both general and specific; and\n(i) The amount of loss or damage caused, including whether consumers have suffered any loss.\nSeveral of these matters are pertinent in the present case."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "The Court is to determine an appropriate penalty in each case by a process of instinctive synthesis after taking into account all relevant matters: Markarian v The Queen [2005] HCA 25; (2005) 228 CLR 357 at [37]-[39]. Although Markarian involved sentencing for a criminal offence, the process described by the High Court is applicable to the assessment of pecuniary penalties under s 224 of the ACL: Australian Competition and Consumer Commission v Marksun Australia Pty Ltd [2011] FCA 695 at [90]-[91]; and Australian Competition and Consumer Commission v BAJV Pty Ltd [2014] FCAFC 52 at [52]. Markarian also indicates that the Court should not adopt a staged sentencing process, that is, adding or subtracting from a predetermined figure amounts reflecting an allowance for each factor considered to be relevant."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "Deterrence, both specific and general, is particularly important in the assessment of penalties in the present context. In CSR Limited at 52,152, French J said:\nThe principal, and I think probably the only, object of the penalties imposed by s 76 is to attempt to put a price on contraventions that is sufficiently high to deter repetition by the contravener and by others who might be tempted to contravene the Act."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "In NW Frozen Foods at 294-5, the Full Court said:\nThe Court should leave no room for any impression of weakness in its resolve to impose penalties sufficient to ensure the deterrence, not only of the parties actually before it, but also of others who might be tempted to think contravention would pay …"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "The authorities also indicate that penalties should be of such a size so as not to be able to be regarded by contraveners, and potential contraveners, as a mere cost of doing business. In Australian Competition and Consumer Commission v ABB Transmission and Distribution Limited [2001] ATPR 41-815 at [13], Finkelstein J said:\nIf general deterrence is the principal object of imposing a penalty, the number of cases that still come before the court, and the seriousness of the conduct that is involved in some of them, suggests that past penalties are not achieving that object. For a penalty to have the desired effect, it must be imposed at a meaningful level. Most antitrust violations are profitable. Accordingly, the penalty must be at a level that a potentially-offending corporation will see as eliminating any prospect of gain.\nSimilarly, in Singtel Optus Pty Ltd v Australian Competition and Consumer Commission [2012] FCAFC 20; (2012) 287 ALR 249 at [62], the Full Court said:\n[62] There may be room for debate as to the proper place of deterrence in the punishment of some kinds of offences, such as crimes of passion; but in relation to offences of calculation by a corporation where the only punishment is a fine, the punishment must be fixed with a view to ensuring that the penalty is not such as to be regarded by that offender or others as an acceptable cost of doing business. …"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Determination of penalty: principles"
+    ],
+    "text": "The parties submitted that it was not necessary for the Court in the present case to consider the object of specific deterrence. That was because the rates charged by Origin Electricity and Origin Gas in South Australia since 1 July 2013 have been the same as the rates used to calculate energy usage charges under the respective Standard Retail Contracts with the effect that consumers cannot now be misled as was previously the case. I agree that this circumstance is a relevant consideration but it does not eliminate altogether specific deterrence as an element in the determination of the penalties. Of its nature, that element relates to potential conduct by the respondents in the future, whether in South Australia or elsewhere, and not just to the particular conduct giving rise to the contraventions."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The following matters are particularly relevant to the imposition of penalty in the present case: the Origin Group is a substantial group involved principally in the energy industry. Origin Energy is a Top 20 ASX listed company. It or its subsidiaries supply electricity to customers who are mainly in New South Wales, Queensland, South Australia, the Australian Capital Territory and Victoria and supply natural gas to residential customers in those same places. Its size and reputation is such that consumers are likely to have thought that they could rely on the accuracy of its representations."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The representations giving rise to the contraventions were directed to residential consumers of electricity and natural gas in South Australia and as such were directed to a diverse cross-section of the public. It can be assumed that these included persons who are gullible as well as the astute, the not so intelligent as well as the intelligent, and the less well informed as well as the informed. In short, the target audience included persons who could readily be misled by the contravening conduct."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The prominence of the discounts in each of the forms of representation is likely to have attracted consumers. The Origin Group intended that that should be so because the focus of its campaign commencing on 1 February 2013 was on the discount off energy usage charges which consumers could obtain."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The false or misleading representations were made in two separate mediums (the internet and the Confirmation Packs), which would have increased their reach. In the case of Origin Energy, the representations were made on a number of pages on the Origin website over a period of approximately four months (1 February to 29 May 2013). In the case of Origin Electricity and Origin Gas, representations were made in the Confirmation Pack during a five month period (1 February to 30 June 2013)."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "It is not possible to determine with any precision the number of consumers who may have been affected by the false or misleading statements. As at 1 July 2013, the number of Origin customers being supplied electricity under a Market Retail Contract in connection with an energy plan was approximately 7,400 higher than the equivalent number at 1 February 2013. However, it is evident that at least some of these were on a Market Retail Contract in conjunction with an energy plan for which there was no discount. It is also probable that there had been some “churn” of customers in the period between 1 February 2013 and 1 July 2013 with the effect that a direct comparison of the position at 1 July 2013 and 1 February 2013 is not appropriate."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The position is similar with respect to those supplied gas. As at 1 July 2013, the number of Origin customers supplied gas under a Market Retail Contract in conjunction with an energy plan was approximately 11,000 higher than the equivalent number at 1 February 2013. Again however, that difference cannot be regarded as indicative of the number of consumers who may have been affected by the false or misleading statements. That is because the number includes consumers who were on Market Retail Contracts but with a no-discount energy plan and, as with those supplied electricity, it is likely that there had been some “churn” of customers."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "What can be said, is that in each case the number affected, or likely to have been affected, is not insignificant."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "Consumers who were sufficiently alert or sufficiently interested had a means of ascertaining, reasonably readily, that the rates applicable to the DailySaver Energy Plan were higher than those applicable under the respective Standard Retail Contracts. It should not be assumed therefore that all consumers were misled. Further still, the respondents acknowledge only that some of the consumers would have reasonably understood that the discount would be from rates applicable generally to consumers like themselves. It is improbable that all consumers had that understanding, and so some would not have been misled by the misrepresentations."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "Contraventions of s 29(1)(g) and (i) of the ACL are serious, as the maximum penalties which may be imposed indicate. The respondents’ contraventions may not be in the class of the most egregious which have come before the Courts, but nevertheless their nature, the duration for which they continued and their potential effect on consumers means that they must be regarded seriously. The respondents’ departure from the required norms of conduct had, in addition to its effect on consumers, the potential to work unfairness on the competitors of the Origin Group who sought to attract custom by lawful means."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "It is to the credit of the respondents that they have no history of contraventions. I accept that the respondents had in place, and continue to have in place, systems intended to prevent contraventions of the present kind. The Court was not informed of the nature of these systems, only that each of the statements on the webpages and in the Confirmation Pack had been the subject of a “standard approvals process” which involved review by staff in the marketing, compliance and legal teams of the Origin Group. It is an agreed fact that no senior executives in the Origin Group were involved in the conduct. Although the conduct constituting the contraventions was intentional, there is no suggestion that the respondents’ contraventions were deliberate."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "The Origin Group’s conduct in relation to the ACCC investigation and in these proceedings is also mitigatory. The ACCC accepts that the Origin Group provided voluntarily and in a timely manner the information and documents which it sought without it having to resort to s 155 of the CC Act. It also accepts that the respondents made a number of admissions in the proceedings and provided other assistance which narrowed the issues in dispute and foreshortened the length of the anticipated trial. The respondents’ acknowledgement of the contraventions is itself a mitigatory factor and an indication of their contrition."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "Counsel for the respondents also referred to a number other matters: the effect of the declarations of the contraventions on the respondents’ reputations; the effect of the other orders proposed by the parties on the respondents; and the economic consequences for the respondents. Subject to one qualification, I agree that these are relevant matters. The qualification relates to the economic consequences. To the extent that those effects are the consequence of the respondents having to compensate consumers who suffered loss by reason of the false or misleading statements, I do not consider that they should be brought into account as a mitigatory factor."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "It is appropriate to refer particularly to the submission of the parties concerning the totality principle. They submitted that “the Court, in its discretion, should call upon the totality principle rather than imposing penalties for the contraventions of s 29(1)(g) and s 29(1)(i), given that the two contraventions involved in essence the same conduct”. The parties referred in this context to Australian Competition and Consumer Commission v Safeway Stores Pty Ltd (1997) 145 ALR 36 at 53:\nThe totality principle is designed to ensure that overall an appropriate sentence or penalty is appropriate and that the sum of the penalties imposed for several contraventions does not result in the total of the penalties exceeding what it is proper having regard to the totality of the contravening conduct involved."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "In my opinion, there is little, if any, scope for the application of the totality principle in the present case in relation to the single penalty agreed to be appropriate for the two contraventions by each respondent."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "In criminal sentencing, the totality principle has a confined function and purpose and cannot be invoked, as a matter of routine, to reduce sentences which are otherwise appropriate. In Mill v The Queen (1988) 166 CLR 59 at 63, the High Court endorsed the following statement of the principle:\nThe effect of the totality principle is to require a sentencer who has passed a series of sentences, each properly calculated in relation to the offence for which it is imposed and each properly made consecutive in accordance with the principles governing consecutive sentences, to review the aggregate sentence and consider whether the aggregate is “just and appropriate”. The principle has been stated many times in various forms: 'when a number of offences are being dealt with and specific punishments in respect of them are being totted up to make a total, it is always necessary for the court to take a last look at the total just to see whether it looks wrong'; 'when ... cases of multiplicity of offences come before the court, the court must not content itself by doing the arithmetic and passing the sentence which the arithmetic produces. It must look at the totality of the criminal behaviour and ask itself what is the appropriate sentence for all the offences'.\nAs can be seen, this passage contemplates the totality principle having application when a Court has imposed a series of individual sentences for separate offences, and those sentences are to be aggregated."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "There are different aspects to the totality principle. The first is that when an offender is sentenced for a number of offences, the Court must ensure that “the aggregation of the sentences appropriate for each offence is a just and appropriate measure of the total criminality involved”: Postiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295 at 307-8 (McHugh J). The second aspect is that there may be cases in which, while the individual sentences imposed in respect of the separate offences are appropriate, the aggregate of all those sentences will be so “crushing” as to call for some reduction in the aggregate: see King CJ in R v Rossi (1988) 142 LSJS 451, cited by McHugh J in Postiglione at 308. These separate aspects of the totality principle were discussed by Doyle CJ in R v E, AD [2005] SASC 332; (2005) 93 SASR 20 at [36]-[38]."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "In the present case, the parties are not proposing individual sentences for the separate contraventions of s 29(1)(g) and s 29(1)(i). Instead, a single penalty for both contraventions by each respondent is contemplated. It to be expected therefore that the single penalty proposed for each respondent has been assessed as a “just and appropriate measure” of the culpability of each respondent. That has the consequence that there is no further scope for the application of the first aspect of the principle of totality."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "In relation to the second aspect, it can hardly be supposed that, having regard to the size and resources of the Origin Group, the proposed penalty, or even penalties significantly in excess of those, would be “crushing”."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "Counsel for the respondents submitted that the totality principle could be applied by reference to the aggregate of the penalties imposed on the respondents, having regard to the fact that they are members of the one economic group. He submitted that the fact that there were three respondents instead of one in the present case was simply an incident of the way in which the Origin Group had chosen to organise its affairs and suggested that that circumstance attracted the totality principle."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "There are circumstances in which, by reason of the close familial or economic relationships between respondents, it may be appropriate to have regard to the overall effect of an aggregation of proposed penalties, especially if they would result in one entity or person being punished twice for the same, or substantially similar, conduct. In Australian Competition and Consumer Commission v Dimmeys Stores Pty Ltd [1999] FCA 1175, Weinberg J noted that the effect of separate fines on the importer and the retailer of unsafe bicycles would be to punish the owner of both companies twice. His Honour said (at [39]):\nMs Strong submitted that I should not differentiate between the penalties imposed upon each defendant. I reject that submission. The evidence establishes clearly that [the importer] is beneficially owned by Mr Zappelli and the members of his family. He and his family also have a substantial interest in [the retailer]. By fining each defendant separately, the Court is, in effect, punishing Mr Zappelli and his interests twice. Their conduct may warrant separate punishment, but some recognition should be accorded to the fact that the two offences are closely related. In my view these factors warrant the imposition of a somewhat lower penalty than would otherwise be merited upon one of the defendants. I accept Mr Wheelahan’s submission that the defendant to benefit should be [the importer]."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Application of the principles to the present circumstances"
+    ],
+    "text": "However, there is limited scope for the application of a principle of this kind in a context like the present. The imposition of separate penalties on the present respondents does not involve an element of double punishment of any of them. It is in any event evident that the penalties agreed upon by the parties have been structured to reflect the different culpability of each respondent. Further, the respondents must have chosen to organise their affairs in the way that they did, with separate subsidiaries engaged in the retail supply of electricity and natural gas. Presumably they did so because of the advantages which thereby accrued. That being so, it does not seem appropriate to ignore their separate status, simply because it is advantageous, in the present context, to do so."
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Decision on penalties"
+    ],
+    "text": "Having regard to the matters to which I have referred above, I consider that it is appropriate to give effect to the parties’ agreement with respect to the penalties. Absent that agreement, the Court may well have imposed penalties exceeding those agreed by the parties but, in my opinion, the agreed penalties are within the range of penalties which is reasonable in all the circumstances."
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Decision on penalties"
+    ],
+    "text": "The declarations proposed by the parties are also appropriate, as are the proposed publication orders, the proposed orders with respect to costs and the proposed orders with respect to a verification certificate."
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Decision on penalties"
+    ],
+    "text": "In short, I will make orders in the terms proposed by the parties."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixty-seven (67) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice White.",
+ "associate": null,
+ "dated": "2015-02-09",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "source_sha256": "4bc0fcfeabda5a9f87827c86ab19d6958ded3e586cb00f97cacd2e3df43a8633",
+ "markdown_file": "data/extracted/2015/2015FCA0055.md"
+}
