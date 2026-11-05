@@ -1,0 +1,392 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2026/2026FCA1256.docx",
+ "metadata": {
+  "citation": "[2026] FCA 1256",
+  "name": "Australian Competition and Consumer Commission v Borger Crane Hire & Rigging Services Pty Ltd (leave to continue proceedings)",
+  "court": "FCA",
+  "year": 2026,
+  "number": 1256,
+  "date_of_judgment": "2026-08-27",
+  "file_numbers": [
+   "NSD1570/2025"
+  ],
+  "judges": [
+   "CHEESEMAN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2026-08-20",
+  "number_of_paragraphs": 22,
+  "catchwords": [
+   "CORPORATIONS – application for leave under s 500(2) of the Corporations Act 2001 (Cth) to continue proceedings against company in liquidation – civil penalty proceeding alleging cartel conduct – serious question to be tried – declaratory and pecuniary penalty relief unavailable through proof of debt process – public interest in regulatory enforcement and general deterrence – limited prejudice to creditors.",
+   "Held: leave granted subject to condition restricting enforcement of monetary relief."
+  ],
+  "legislation": [
+   "Corporations Act 2001 (Cth) s 500(2)"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Artorios Ink Co Pty Ltd (in liq) [2013] FCA 753",
+   "Australian Competition and Consumer Commission v Australian Institute of Professional Education Pty Ltd (in liq) [2017] FCA 521",
+   "Australian Competition and Consumer Commission v Beacon Products Pty Ltd (in liq) [2025] FCA 426",
+   "Clean Energy Regulator v E Connect Solar & Electrical Pty Ltd [2023] FCA 1082; 171 ACSR 216",
+   "ZOLL Medical Australia Pty Ltd, in the matter of Cardiac Defibrillators Australia Pty Ltd (in liq) v Cardiac Defibrillators Australia Pty Ltd (in liq) [2022] FCA 167"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "BORGER CRANE HIRE & RIGGING SERVICES PTY LTD ACN 001 947 413",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MCR MELROSE PTY LTD ACN 083 164 845",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "TWO WAY CRANES PTY LTD ACN 160 983 246 (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Ibrahim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1256",
+  "portal_file_numbers": [
+   "NSD1570/2025"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2026-08-27"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 1570 of 2025"
+  },
+  {
+   "label": "Judgment of",
+   "value": "CHEESEMAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "27 August 2026"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CORPORATIONS – application for leave under s 500(2) of the Corporations Act 2001 (Cth) to continue proceedings against company in liquidation – civil penalty proceeding alleging cartel conduct – serious question to be tried – declaratory and pecuniary penalty relief unavailable through proof of debt process – public interest in regulatory enforcement and general deterrence – limited prejudice to creditors.\nHeld: leave granted subject to condition restricting enforcement of monetary relief."
+  },
+  {
+   "label": "Legislation",
+   "value": "Corporations Act 2001 (Cth) s 500(2)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Artorios Ink Co Pty Ltd (in liq) [2013] FCA 753\nAustralian Competition and Consumer Commission v Australian Institute of Professional Education Pty Ltd (in liq) [2017] FCA 521\nAustralian Competition and Consumer Commission v Beacon Products Pty Ltd (in liq) [2025] FCA 426\nClean Energy Regulator v E Connect Solar & Electrical Pty Ltd [2023] FCA 1082; 171 ACSR 216\nZOLL Medical Australia Pty Ltd, in the matter of Cardiac Defibrillators Australia Pty Ltd (in liq) v Cardiac Defibrillators Australia Pty Ltd (in liq) [2022] FCA 167"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "22"
+  },
+  {
+   "label": "Date of last submission/s",
+   "value": "20 August 2026"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Ibrahim"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1570/2025",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "BORGER CRANE HIRE & RIGGING SERVICES PTY LTD ACN 001 947 413",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MCR MELROSE PTY LTD ACN 083 164 845",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "TWO WAY CRANES PTY LTD ACN 160 983 246 (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "CHEESEMAN J"
+   ],
+   "date": "2026-08-27",
+   "date_raw": "27 August 2026",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Subject to Order 2, the Applicant be granted leave to continue these proceedings against the Second Respondent, MCR Melrose Pty Ltd (ACN 083 164 845), in liquidation, pursuant to s 500(2) of the Corporations Act 2001 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The Applicant must not enforce payment of any monetary relief granted by the Court against the Second Respondent (in liquidation) without the prior leave of the Court.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Costs of this application be costs in the cause.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The Australian Competition and Consumer Commission (ACCC) applies under s 500(2) of the Corporations Act 2001 (Cth) for leave to continue this proceeding against the second respondent, MCR Melrose Pty Ltd.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "On 23 June 2026, MCR resolved to wind up voluntarily and Geoffrey Trent Hancock and Trent Andrew Devine were appointed as its joint and several liquidators.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The liquidators neither consent to nor oppose the application and have advised that, because MCR has limited financial resources, it is not in a position to contest the proceeding. Each other respondent also neither consents to nor opposes the application. The application may appropriately be determined on the papers.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "For the reasons that follow, I am satisfied that it is appropriate to grant the relief sought by the ACCC.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The ACCC commenced the proceeding on 3 September 2025. Pleadings have closed in respect of the corporate respondents, and the proceeding is listed for a three-week hearing on liability commencing on 10 May 2027, with oral closing submissions on 15 June 2027.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The ACCC alleges that MCR made or arrived at arrangements or understandings containing cartel provisions, gave effect to cartel provisions, and on three occasions attempted to contravene or induce contraventions of s 45AJ of the Competition and Consumer Act 2010 (Cth) (CCA). It also alleges that the sixth and eighth respondents were involved in the contraventions alleged against MCR.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "MCR admits arriving at four understandings and giving effect to them on 34 occasions but denies that the admitted conduct contravened ss 45AJ or 45AK of the CCA as alleged.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "BACKGROUND"
+    ],
+    "text": "The ACCC seeks declarations, pecuniary penalties and a non-indemnification order against MCR.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "EVIDENCE"
+    ],
+    "text": "The ACCC relies on the affidavit of Jacqueline Marika Bisas, Senior Executive Lawyer at the Australian Government Solicitor, sworn 24 July 2026 and the annexures to that affidavit.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "Section 500(2) of the Corporations Act provides:\nAfter the passing of the resolution for voluntary winding up, no action or other civil proceeding is to be proceeded with or commenced against the company except by leave of the Court and subject to such terms as the Court imposes.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "RELEVANT PRINCIPLES"
+    ],
+    "text": "The discretion under s 500(2) is exercised having regard to the circumstances of the particular case. Its purpose includes protecting the assets of a company in liquidation from dissipation through unnecessary litigation. The applicant must establish that the proposed claim has a solid foundation and gives rise to a serious question to be tried. Relevant considerations include whether the relief can be obtained through the proof of debt process, the public interest in continuation of the proceeding, its stage and complexity, and the likely effect on the company’s creditors. The Court may grant leave on conditions directed to protecting the liquidation. See the summary of the relevant principles in ZOLL Medical Australia Pty Ltd, in the matter of Cardiac Defibrillators Australia Pty Ltd (in liq) v Cardiac Defibrillators Australia Pty Ltd (in liq) [2022] FCA 167 at [25] (Halley J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "CONSIDERATION",
+     "Serious question to be tried"
+    ],
+    "text": "The claim against MCR gives rise to a serious question to be tried. The ACCC alleges 40 instances of making arrangements or arriving at understandings containing cartel provisions, 64 instances of giving effect to such provisions, and three instances of attempting to contravene or induce a contravention of s 45AJ of the CCA. MCR admits making four understandings and giving effect to those understandings on 34 occasions, but disputes that the admitted conduct contravened ss 45AJ or 45AK.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "CONSIDERATION",
+     "Serious question to be tried"
+    ],
+    "text": "The admissions provide a sufficient foundation for the proceeding against MCR to satisfy the applicable threshold on this application. Whether the admitted understandings had a purpose of the kind alleged, and whether MCR contravened ss 45AJ or 45AK, remain matters for determination at trial.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "CONSIDERATION",
+     "Serious question to be tried"
+    ],
+    "text": "The ACCC also alleges that the sixth and eighth respondents were involved in MCR’s contraventions. Continuation against MCR will permit the alleged contraventions by MCR, and the alleged involvement of the sixth and eighth respondents in those contraventions, to be determined together. That consideration also weighs in favour of leave: Australian Competition and Consumer Commission v Artorios Ink Co Pty Ltd (in liq) [2013] FCA 753 at [10] (Mortimer J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "CONSIDERATION",
+     "Relief sought not available by proof of debt process"
+    ],
+    "text": "The ACCC seeks declarations, pecuniary penalties and a non-indemnification order against MCR. In particular, the declarations and pecuniary penalties sought cannot be obtained through the proof of debt process: Australian Competition and Consumer Commission v Australian Institute of Professional Education Pty Ltd (in liq) [2017] FCA 521 at [21] (Bromwich J) and Clean Energy Regulator v E Connect Solar & Electrical Pty Ltd [2023] FCA 1082; 171 ACSR 216 at [17(b)] (Derrington J). This consideration weighs materially in favour of leave.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "CONSIDERATION",
+     "Public interest considerations"
+    ],
+    "text": "There is a public interest in the determination of proceedings brought by the ACCC to enforce the cartel provisions of the CCA. Declaratory and pecuniary penalty relief may serve the protective purpose of promoting compliance and general deterrence even where a corporate respondent is in liquidation and may be unable to meet a penalty. See Institute of Professional Education at [26]; Australian Competition and Consumer Commission v Beacon Products Pty Ltd (in liq) [2025] FCA 426 at [9], [13] (Halley J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "CONSIDERATION",
+     "Public interest considerations"
+    ],
+    "text": "The alleged conduct concerns cartel provisions and is said to have occurred over a period of approximately four years. Cartel conduct is identified by the ACCC as an enduring enforcement priority. Continuation of the proceeding against MCR will permit the Court, if liability is established, to determine whether declarations and a penalty are warranted. These considerations favour leave.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "CONSIDERATION",
+     "Status of the proceedings"
+    ],
+    "text": "The proceeding is no longer at an early stage. Pleadings have closed in respect of the corporate respondents, the ACCC has filed its evidence in chief, and the liability hearing is fixed for May and June 2027. Continuation against MCR will allow its alleged liability to be determined within the existing proceeding and hearing.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "CONSIDERATION",
+     "Limited prejudice to creditors"
+    ],
+    "text": "The interests of MCR’s creditors require consideration. The company’s statement of affairs records an estimated deficiency, subject to the costs of the liquidation. However, the liquidators neither consent to nor oppose the application and have advised that, because MCR has limited financial resources, it is not in a position to contest the proceeding. It is therefore unlikely that assets otherwise available in the liquidation will be expended in defending the proceeding.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "CONSIDERATION",
+     "Limited prejudice to creditors"
+    ],
+    "text": "Any remaining risk of prejudice to the liquidation is materially reduced by the condition proposed by the ACCC not to enforce any monetary relief, including pecuniary penalties or costs orders, against MCR without the Court’s prior leave. That condition preserves the Court’s control over any attempted recourse to the assets available in the liquidation.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "The claim against MCR has a sufficient foundation, the relief sought cannot be obtained through the proof of debt process, and continuation serves the public interest in the enforcement of the cartel provisions while permitting the alleged contraventions by MCR and the alleged involvement of the sixth and eighth respondents to be determined together. In circumstances where MCR will not defend the proceeding and enforcement of monetary relief will require further leave, the interests of creditors are adequately protected. Leave will therefore be granted on the terms set out in the orders.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "The application was necessary to permit the ACCC to continue the proceeding against MCR, and the ACCC has succeeded. It is therefore appropriate that the costs of the application be costs in the cause.",
+    "judge": "CHEESEMAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-two (22) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.",
+ "associate": null,
+ "dated": "2026-08-27",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 1570 of 2025\nRespondents\nFourth Respondent: | ULTRA-LIFT CRANES PTY LTD ACN 156 180 291\nFifth Respondent: | SHAWN JASON BORGER\nSixth Respondent: | GREGG PETER MELROSE\nSeventh Respondent: | FRANCIS (FRANK) SAVIOUR ZAMMIT\nEighth Respondent: | RYAN MELROSE"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Borger Crane Hire & Rigging Services Pty Ltd (leave to continue proceedings) [2026] FCA 1256\n\n## Cover sheet\n\n**File number(s):** NSD 1570 of 2025\n\n**Judgment of:** CHEESEMAN J\n\n**Date of judgment:** 27 August 2026\n\n**Catchwords:** CORPORATIONS – application for leave under s 500(2) of the Corporations Act 2001 (Cth) to continue proceedings against company in liquidation – civil penalty proceeding alleging cartel conduct – serious question to be tried – declaratory and pecuniary penalty relief unavailable through proof of debt process – public interest in regulatory enforcement and general deterrence – limited prejudice to creditors.  \nHeld: leave granted subject to condition restricting enforcement of monetary relief.\n\n**Legislation:** Corporations Act 2001 (Cth) s 500(2)\n\n**Cases cited:** Australian Competition and Consumer Commission v Artorios Ink Co Pty Ltd (in liq) [2013] FCA 753  \nAustralian Competition and Consumer Commission v Australian Institute of Professional Education Pty Ltd (in liq) [2017] FCA 521  \nAustralian Competition and Consumer Commission v Beacon Products Pty Ltd (in liq) [2025] FCA 426  \nClean Energy Regulator v E Connect Solar & Electrical Pty Ltd [2023] FCA 1082; 171 ACSR 216  \nZOLL Medical Australia Pty Ltd, in the matter of Cardiac Defibrillators Australia Pty Ltd (in liq) v Cardiac Defibrillators Australia Pty Ltd (in liq) [2022] FCA 167\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 22\n\n**Date of last submission/s:** 20 August 2026\n\n**Date of hearing:** Determined on the papers\n\n**Counsel for the Applicant:** J Ibrahim\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 1570 of 2025 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | BORGER CRANE HIRE & RIGGING SERVICES PTY LTD ACN 001 947 413<br>First Respondent<br>MCR MELROSE PTY LTD ACN 083 164 845<br>Second Respondent<br>TWO WAY CRANES PTY LTD ACN 160 983 246 (and others named in the Schedule)<br>Third Respondent |\n\n| order made by: | CHEESEMAN J |\n|---|---|\n| DATE OF ORDER: | 27 August 2026 |\n\n### THE COURT ORDERS THAT:\n\n1. Subject to Order 2, the Applicant be granted leave to continue these proceedings against the Second Respondent, MCR Melrose Pty Ltd (ACN 083 164 845), in liquidation, pursuant to s 500(2) of the Corporations Act 2001 (Cth).\n\n2. The Applicant must not enforce payment of any monetary relief granted by the Court against the Second Respondent (in liquidation) without the prior leave of the Court.\n\n3. Costs of this application be costs in the cause.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### CHEESEMAN J:\n\n### INTRODUCTION\n\n[1] The Australian Competition and Consumer Commission (ACCC) applies under s 500(2) of the Corporations Act 2001 (Cth) for leave to continue this proceeding against the second respondent, MCR Melrose Pty Ltd.\n\n[2] On 23 June 2026, MCR resolved to wind up voluntarily and Geoffrey Trent Hancock and Trent Andrew Devine were appointed as its joint and several liquidators.\n\n[3] The liquidators neither consent to nor oppose the application and have advised that, because MCR has limited financial resources, it is not in a position to contest the proceeding. Each other respondent also neither consents to nor opposes the application. The application may appropriately be determined on the papers.\n\n[4] For the reasons that follow, I am satisfied that it is appropriate to grant the relief sought by the ACCC.\n\n### BACKGROUND\n\n[5] The ACCC commenced the proceeding on 3 September 2025. Pleadings have closed in respect of the corporate respondents, and the proceeding is listed for a three-week hearing on liability commencing on 10 May 2027, with oral closing submissions on 15 June 2027.\n\n[6] The ACCC alleges that MCR made or arrived at arrangements or understandings containing cartel provisions, gave effect to cartel provisions, and on three occasions attempted to contravene or induce contraventions of s 45AJ of the Competition and Consumer Act 2010 (Cth) (CCA). It also alleges that the sixth and eighth respondents were involved in the contraventions alleged against MCR.\n\n[7] MCR admits arriving at four understandings and giving effect to them on 34 occasions but denies that the admitted conduct contravened ss 45AJ or 45AK of the CCA as alleged.\n\n[8] The ACCC seeks declarations, pecuniary penalties and a non-indemnification order against MCR.\n\n### EVIDENCE\n\n[9] The ACCC relies on the affidavit of Jacqueline Marika Bisas, Senior Executive Lawyer at the Australian Government Solicitor, sworn 24 July 2026 and the annexures to that affidavit.\n\n### RELEVANT PRINCIPLES\n\n[10] Section 500(2) of the Corporations Act provides:\n\n> After the passing of the resolution for voluntary winding up, no action or other civil proceeding is to be proceeded with or commenced against the company except by leave of the Court and subject to such terms as the Court imposes.\n\n[11] The discretion under s 500(2) is exercised having regard to the circumstances of the particular case. Its purpose includes protecting the assets of a company in liquidation from dissipation through unnecessary litigation. The applicant must establish that the proposed claim has a solid foundation and gives rise to a serious question to be tried. Relevant considerations include whether the relief can be obtained through the proof of debt process, the public interest in continuation of the proceeding, its stage and complexity, and the likely effect on the company’s creditors. The Court may grant leave on conditions directed to protecting the liquidation. See the summary of the relevant principles in ZOLL Medical Australia Pty Ltd, in the matter of Cardiac Defibrillators Australia Pty Ltd (in liq) v Cardiac Defibrillators Australia Pty Ltd (in liq) [2022] FCA 167 at [25] (Halley J).\n\n### CONSIDERATION\n\n#### Serious question to be tried\n\n[12] The claim against MCR gives rise to a serious question to be tried. The ACCC alleges 40 instances of making arrangements or arriving at understandings containing cartel provisions, 64 instances of giving effect to such provisions, and three instances of attempting to contravene or induce a contravention of s 45AJ of the CCA. MCR admits making four understandings and giving effect to those understandings on 34 occasions, but disputes that the admitted conduct contravened ss 45AJ or 45AK.\n\n[13] The admissions provide a sufficient foundation for the proceeding against MCR to satisfy the applicable threshold on this application. Whether the admitted understandings had a purpose of the kind alleged, and whether MCR contravened ss 45AJ or 45AK, remain matters for determination at trial.\n\n[14] The ACCC also alleges that the sixth and eighth respondents were involved in MCR’s contraventions. Continuation against MCR will permit the alleged contraventions by MCR, and the alleged involvement of the sixth and eighth respondents in those contraventions, to be determined together. That consideration also weighs in favour of leave: Australian Competition and Consumer Commission v Artorios Ink Co Pty Ltd (in liq) [2013] FCA 753 at [10] (Mortimer J).\n\n#### Relief sought not available by proof of debt process\n\n[15] The ACCC seeks declarations, pecuniary penalties and a non-indemnification order against MCR. In particular, the declarations and pecuniary penalties sought cannot be obtained through the proof of debt process: Australian Competition and Consumer Commission v Australian Institute of Professional Education Pty Ltd (in liq) [2017] FCA 521 at [21] (Bromwich J) and Clean Energy Regulator v E Connect Solar & Electrical Pty Ltd [2023] FCA 1082; 171 ACSR 216 at [17(b)] (Derrington J). This consideration weighs materially in favour of leave.\n\n#### Public interest considerations\n\n[16] There is a public interest in the determination of proceedings brought by the ACCC to enforce the cartel provisions of the CCA. Declaratory and pecuniary penalty relief may serve the protective purpose of promoting compliance and general deterrence even where a corporate respondent is in liquidation and may be unable to meet a penalty. See Institute of Professional Education at [26]; Australian Competition and Consumer Commission v Beacon Products Pty Ltd (in liq) [2025] FCA 426 at [9], [13] (Halley J).\n\n[17] The alleged conduct concerns cartel provisions and is said to have occurred over a period of approximately four years. Cartel conduct is identified by the ACCC as an enduring enforcement priority. Continuation of the proceeding against MCR will permit the Court, if liability is established, to determine whether declarations and a penalty are warranted. These considerations favour leave.\n\n#### Status of the proceedings\n\n[18] The proceeding is no longer at an early stage. Pleadings have closed in respect of the corporate respondents, the ACCC has filed its evidence in chief, and the liability hearing is fixed for May and June 2027. Continuation against MCR will allow its alleged liability to be determined within the existing proceeding and hearing.\n\n#### Limited prejudice to creditors\n\n[19] The interests of MCR’s creditors require consideration. The company’s statement of affairs records an estimated deficiency, subject to the costs of the liquidation. However, the liquidators neither consent to nor oppose the application and have advised that, because MCR has limited financial resources, it is not in a position to contest the proceeding. It is therefore unlikely that assets otherwise available in the liquidation will be expended in defending the proceeding.\n\n[20] Any remaining risk of prejudice to the liquidation is materially reduced by the condition proposed by the ACCC not to enforce any monetary relief, including pecuniary penalties or costs orders, against MCR without the Court’s prior leave. That condition preserves the Court’s control over any attempted recourse to the assets available in the liquidation.\n\n### CONCLUSION\n\n[21] The claim against MCR has a sufficient foundation, the relief sought cannot be obtained through the proof of debt process, and continuation serves the public interest in the enforcement of the cartel provisions while permitting the alleged contraventions by MCR and the alleged involvement of the sixth and eighth respondents to be determined together. In circumstances where MCR will not defend the proceeding and enforcement of monetary relief will require further leave, the interests of creditors are adequately protected. Leave will therefore be granted on the terms set out in the orders.\n\n[22] The application was necessary to permit the ACCC to continue the proceeding against MCR, and the ACCC has succeeded. It is therefore appropriate that the costs of the application be costs in the cause.\n\nI certify that the preceding twenty-two (22) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.\n\nAssociate:\n\nDated: 27 August 2026\n\n### SCHEDULE OF PARTIES\n\n|  | NSD 1570 of 2025 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | ULTRA-LIFT CRANES PTY LTD ACN 156 180 291 |\n| Fifth Respondent: | SHAWN JASON BORGER |\n| Sixth Respondent: | GREGG PETER MELROSE |\n| Seventh Respondent: | FRANCIS (FRANK) SAVIOUR ZAMMIT |\n| Eighth Respondent: | RYAN MELROSE |\n",
+ "source_sha256": "70e88e2844457cc58865b6e9a878e8c940b75f520dd776dbc081f81e0b162ba1"
+}

@@ -1,0 +1,1126 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA0826.docx",
+ "metadata": {
+  "citation": "[2021] FCA 826",
+  "name": "Watt v Shepherd (No 2)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 826,
+  "date_of_judgment": "2021-07-23",
+  "file_numbers": [
+   "NSD922/2019"
+  ],
+  "judges": [
+   "RARES J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_dates": [
+   "2021-07-08"
+  ],
+  "hearing_raw": "8 July 2021",
+  "number_of_paragraphs": 99,
+  "catchwords": [
+   "COMPETITION AND CONSUMER LAW – misleading and deceptive conduct – default judgment under r 5.23 of Federal Court Rules 2011 – unconscionable conduct – accessorial liability – inducement and reliance – unfair tactics – where Competition and Consumer (Industry Codes – Franchising) Regulation 2014 applied – where respondents made multiple misleading and deceptive representations to principal applicant – where respondents intended representations would induce principal applicant to invest and participate in franchising structure and influence other applicants to become franchisees – where representations were as to finance, future matters and profitability of franchise – where respondents lacked reasonable grounds for representations as to future matters – where respondents knew that principal applicant was in a position to influence other proprietors – where respondents knew fees payable by franchisees were not affordable or financially sustainable for franchisees – where respondents failed to make good earlier representations – where respondents failed to prepare or provide franchisees with disclosure documents, or receive from franchisees statement as to independent advice under cl 10 of Code – whether failure to provide documents required by the Code exposed franchisees to situation of vulnerability and disadvantage which was unconscionable conduct – representations made in trade or commerce within meaning of Competition and Consumer Act 2010 (Cth) and Australian Consumer Law – held: representations were misleading and deceptive (ss 18, 21 of the ACL); representations constituted unfair tactics and unconscionable conduct (ss 22(1)(g) and 22(2)(g) of the ACL); first, second and third respondents accessorially liable; franchise agreements voided; default judgment for damages to be assessed (ss 82, 87 of the CC Act and ss 236, 237 and 243 of the ACL)"
+  ],
+  "legislation": [
+   "Australian Consumer Law ss 4, 18, 21, 22, 22A, 236, 237, 243",
+   "Competition and Consumer (Industry Codes – Franchising) Regulation 2014 reg 4, cll 5, 6, 8, 9, 10",
+   "Competition and Consumer Act 2010 (Cth) ss 51ACB, 75B, 82, 87",
+   "Federal Court of Australia Act 1976 (Cth) ss 35P, 37M",
+   "Federal Court Rules 2011 rr 1.40, 5.23, 16.07",
+   "Trade Practices Act 1974 (Cth) ss 51AC, 51D"
+  ],
+  "cases_cited": [
+   "Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175",
+   "Australian Securities and Investments Commission v Kobelt (2019) 267 CLR 1",
+   "Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303",
+   "Giorgianni v The Queen (1985) 156 CLR 473",
+   "Gore v Australian Securities and Investments Commission (2017) 249 FCR 167",
+   "Gould v Vaggelas (1983) 157 CLR 215",
+   "Jonval Builders Pty Ltd v Commissioner for Fair Trading (2020) 104 NSWLR 1",
+   "Master Education Services Pty v Ketchell (2008) 236 CLR 101",
+   "Rafferty v Madgwicks (2012) 203 FCR 1",
+   "Watt v Shepherd [2021] FCA 561",
+   "Yorke v Lucas (1985) 157 CLR 661"
+  ],
+  "parties": [
+   {
+    "name": "ESPIE IAN WATT",
+    "role": "First Applicant"
+   },
+   {
+    "name": "MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "PHILLIP CHARLES SHEPHERD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MARK ROBERT STEIDLE",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr R. Parsons"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Bray Jackson & Co."
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr C. P. O’Neill"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Logie Smith Lanyon Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0826",
+  "portal_file_numbers": [
+   "NSD922/2019"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-07-23"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 922 of 2019"
+  },
+  {
+   "label": "Judgment of",
+   "value": "RARES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "23 July 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION AND CONSUMER LAW – misleading and deceptive conduct – default judgment under r 5.23 of Federal Court Rules 2011 – unconscionable conduct – accessorial liability – inducement and reliance – unfair tactics – where Competition and Consumer (Industry Codes – Franchising) Regulation 2014 applied – where respondents made multiple misleading and deceptive representations to principal applicant – where respondents intended representations would induce principal applicant to invest and participate in franchising structure and influence other applicants to become franchisees – where representations were as to finance, future matters and profitability of franchise – where respondents lacked reasonable grounds for representations as to future matters – where respondents knew that principal applicant was in a position to influence other proprietors – where respondents knew fees payable by franchisees were not affordable or financially sustainable for franchisees – where respondents failed to make good earlier representations – where respondents failed to prepare or provide franchisees with disclosure documents, or receive from franchisees statement as to independent advice under cl 10 of Code – whether failure to provide documents required by the Code exposed franchisees to situation of vulnerability and disadvantage which was unconscionable conduct – representations made in trade or commerce within meaning of Competition and Consumer Act 2010 (Cth) and Australian Consumer Law – held: representations were misleading and deceptive (ss 18, 21 of the ACL); representations constituted unfair tactics and unconscionable conduct (ss 22(1)(g) and 22(2)(g) of the ACL); first, second and third respondents accessorially liable; franchise agreements voided; default judgment for damages to be assessed (ss 82, 87 of the CC Act and ss 236, 237 and 243 of the ACL)"
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Consumer Law ss 4, 18, 21, 22, 22A, 236, 237, 243\nCompetition and Consumer (Industry Codes – Franchising) Regulation 2014 reg 4, cll 5, 6, 8, 9, 10\nCompetition and Consumer Act 2010 (Cth) ss 51ACB, 75B, 82, 87\nFederal Court of Australia Act 1976 (Cth) ss 35P, 37M\nFederal Court Rules 2011 rr 1.40, 5.23, 16.07\nTrade Practices Act 1974 (Cth) ss 51AC, 51D"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175\nAustralian Securities and Investments Commission v Kobelt (2019) 267 CLR 1\nExpense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303\nGiorgianni v The Queen (1985) 156 CLR 473\nGore v Australian Securities and Investments Commission (2017) 249 FCR 167\nGould v Vaggelas (1983) 157 CLR 215\nJonval Builders Pty Ltd v Commissioner for Fair Trading (2020) 104 NSWLR 1\nMaster Education Services Pty v Ketchell (2008) 236 CLR 101\nRafferty v Madgwicks (2012) 203 FCR 1\nWatt v Shepherd [2021] FCA 561\nYorke v Lucas (1985) 157 CLR 661"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "99"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "8 July 2021"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr R. Parsons"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Bray Jackson & Co."
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr C. P. O’Neill"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Logie Smith Lanyon Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD922/2019",
+   "parties": [
+    {
+     "name": "ESPIE IAN WATT",
+     "role": "First Applicant"
+    },
+    {
+     "name": "MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "PHILLIP CHARLES SHEPHERD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MARK ROBERT STEIDLE",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "RARES J"
+   ],
+   "date": "2021-07-23",
+   "date_raw": "23 JULY 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "It be declared that the whole of each of the contracts between the fourth respondent and:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant and the third applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant, the fourth applicant and the fifth applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant and fourth applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the fourth applicant and sixth applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant and sixth applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the first applicant and seventh applicant;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "be void on and from 30 June 2018.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The third respondent do all things necessary on its part to be done:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "to assign to the first applicant the ownership, including sole administrator rights, of the website ‘bushchemist.com.au’;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "to place the first applicant in the position of registered owner of the business name ‘Bush Chemist’.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "There be judgment against each of the respondents for damages to be assessed.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Leave be granted to the applicants to file and serve any further evidence on which they propose to rely in relation to damages and appropriate relief, together with written submissions limited to five pages, on or before 13 August 2021.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Leave be granted to the respondents to file and serve any further evidence on which they propose to rely in relation to damages and appropriate relief, together with written submissions limited to five pages, on or before 3 September 2021.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "Costs be reserved.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 20 May 2021, I struck out the defence and dismissed the cross-claim of the respondents/cross-claimants under s 37P(5) and (6) of the Federal Court of Australia Act 1976 (Cth) (the Federal Court Act) and r 5.23 of the Federal Court Rules 2011 because the respondents were in default of orders to file and serve their evidence: Watt v Shepherd [2021] FCA 561. That situation had persisted over 6 months and the default was not adequately explained. I required the applicants to file and serve submissions identifying the basis on which they sought relief in their originating application and any evidence in support by 3 June 2021, and the respondents to do the same by 17 June 2021. I stood the matter over to 25 June 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "On 25 June 2021, the applicants relied on evidence going to quantification of the loss or damage that was insufficient to allow the hearing to proceed on that occasion, and I stood the proceeding over to 8 July 2021, making orders for the provision of further evidence and materials by the applicants by 30 June 2021, and the respondents by 6 July 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "During the course of the hearing on 8 July 2021, the applicants sought to rely on supplementary material that reduced the quantum originally sought in the originating application from $1,009,510.74, to $548,629.40. It became apparent that that evidence was not sufficiently transparent to allow it to be understood or analysed and I rejected it.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "As I described in Watt [2021] FCA 561 at [51], once the Court gives judgment in default under r 5.23, the plaintiff or applicant who seeks relief in the proceeding can do so in a variety of ways. In my opinion, because the matter is not straightforward, any damages to which the applicants are entitled ought to be assessed pursuant to an order under r 5.23(2)(d). That is because their claims for damages were not articulated or established as liquidated claims. Their quantification may involve an evaluative assessment process that cannot be conducted purely on the basis of the deemed admissions under r 16.07(2) of the allegations in the statement of claim, now that there is no defence.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "The issue"
+    ],
+    "text": "That leaves the question of what other relief, if any, can or ought be granted at the present time. The statement of claim is lengthy and somewhat intricate. I will recount the now admitted allegations in the statement of claim as facts in these reasons. The applicants based their claims upon the respondents’ contraventions of ss 18 and 21 of the Australian Consumer Law (the ACL) in Sch 2 to the Competition and Consumer Act 2010 (Cth) (the CC Act), s 51ACB of that Act and the Competition and Consumer (Industry Codes – Franchising) Regulation 2014 (the Code).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "The provisions of the Code are mandatory by force of reg 4(b) and the fact that it was made under s 51ACB of the CC Act, which provides that:\n51ACB Contravention of industry codes\nA corporation must not trade or commerce, contravene an applicable industry code.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "A franchise agreement, as defined in cl 5 of the Code, can be oral, in writing or implied. It is an agreement which a franchisor grants another person, the franchisee, a right to carry on the business of offering, supplying or distributing goods or services in Australia under a system or marketing plan substantially determined, controlled or suggested by the franchisor, or an associate of the franchisor, under which the operation of the businesses will be substantially or materially associated with a trademark.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "Each party to a franchise agreement must act towards the other party with good faith within the meaning of the unwritten law, from time to time, in respect of any matter arising out of, or in relation to, the agreement itself and the Code (cl 6(1)). For the purposes of determining whether a party to a franchise agreement has contravened cl 6(1), the Court may have regard to whether a party acted honestly and not arbitrarily and whether the party cooperated to achieve the purpose of the agreement (cl 6(3)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "Clause 8 of the Code requires a franchisor to create a document called a disclosure document that relates to the franchise and complies with the provisions of the Code. The purpose of a disclosure document is to give to the prospective franchisee “information from the franchisor to help the franchisee make a reasonably informed decision about the franchise,” as well as giving the franchisee current information from the franchisor that is material to the running of the franchise business. The disclosure document must comply with the form in annexure 1 to the Code, provide the information it requires, and be signed by the franchisor or a director, officer or authorised agent of it. After entering into a franchise agreement, the franchisor must update the disclosure document within four months after the end of each financial year (cl 8(6)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "A franchisor must give to a prospective franchisee a copy of the Code, the disclosure document and a copy of the franchise agreement in the form in which it will be executed at least 14 days before the prospective franchisee enters into the franchise agreement (cl 9(1), (1A)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "A franchisor must not enter into a franchise agreement unless the franchisor has received from the prospective franchisee a written statement that the prospective franchisee has received, read and had a reasonable opportunity to understand the disclosure document and the Code (cl 10(1)). Before a franchise agreement is entered into, the franchisor must have received from the prospective franchisee signed statements that the latter has been given advice about the proposed franchise agreement or franchise business by an independent legal advisor, business advisor or accountant and, for each kind of those statements that the franchisor does not receive, it must instead receive a signed statement by the prospective franchisee that the latter has been given that kind of advice about the proposed franchise agreement or franchise business, or has been told that kind of advice should be sought but has decided not to seek it (cl 10(2)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "The ACL provides, in s 18, that a person must not, in trade or commerce, engage in conduct that is misleading or deceptive and, in s 21, relevantly, that:\n21 Unconscionable conduct in connection with goods or services\n(1) A person must not, in trade or commerce, in connection with:\n(a) the supply or possible supply of goods or services to a person; or\n(b) the acquisition or possible acquisition of goods or services from a person;\nengage in conduct that is, in all the circumstances, unconscionable.\n…\n(3) For the purpose of determining whether a person has contravened subsection (1):\n(a) the court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention;\n…\n(4) It is the intention of the Parliament that:\n(a) this section is not limited by the unwritten law relating to unconscionable conduct; and\n(b) this section is capable of applying to a system of conduct or pattern of behaviour, whether or not a particular individual is identified as having been disadvantaged by the conduct or behaviour; and\n(c) in considering whether conduct to which a contract relates is unconscionable, a court’s consideration of the contract may include consideration of:\n(i) the terms of the contract; and\n(ii) the manner in which and the extent to which the contract is carried out;\nand is not limited to consideration of the circumstances relating to formation of the contract.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "Section 22 provides for matters to which the court may have regard for the purposes of determining whether conduct is unconscionable within the statutory concept. Importantly, s 22(1) provides (and s 22(2) reflects the same concepts in relation to the supply or acquisition of goods or services from a third party)\n22 Matters the court may have regard to for the purposes of section 21\n(1) Without limiting the matters to which the court may have regard for the purpose of determining whether a person (the supplier) has contravened section 21 in connection with the supply or possible supply of goods or services to a person (the customer), the court may have regard to:\n…\n(d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the customer or a person acting on behalf of the customer by the supplier or a person acting on behalf of the supplier in relation to the supply or possible supply of the goods or services; and\n…\n(g) the requirements of any applicable industry code; and\n…\n(l) the extent to which the supplier and the customer acted in good faith.\n(italic emphasis in original; bold emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "The ACL provides in ss 4 and 22A that if a representor does not have reasonable grounds for making a representation as to a future matter it is to be taken to be misleading for the purposes of ss 18 and 21 of the ACL.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The issue",
+     "The legislative context"
+    ],
+    "text": "Relevantly, ss 82 and 87 of the CC Act provide similar remedies to those in ss 236, 237 and 243 of the ACL. A person who suffers loss or damage “because of the conduct of another person” that, relevantly, contravenes ss 18 or 21 of the ACL “may recover the amount of that loss or damage by action against that other person” by force of s 236(1) (which is similar to s 82(1) of the CC Act). Relevantly, ss 237 and 243 provide:\n237 Compensation orders etc. on application by an injured person or the regulator\n(1) A court may:\n(a) on application of a person (the injured person) who has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:\n(i) was engaged in a contravention of a provision of Chapter 2, 3 or 4; or\n(ii) constitutes applying or relying on, or purporting to apply or rely on, a term of a contract that has been declared under section 250 to be an unfair term;\n…\n(2) The order must be an order that the court considers will:\n(a) compensate the injured person, or any such injured persons, in whole or in part for the loss or damage; or\n(b) prevent or reduce the loss or damage suffered, or likely to be suffered, by the injured person or any such injured persons.\n243 Kinds of orders that may be made\nWithout limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following:\n(a) an order declaring the whole or any part of a contract made between the respondent and a person (the injured person) who suffered, or is likely to suffer, the loss or damage referred to in that section, or of a collateral arrangement relating to such a contract:\n(i) to be void; and\n(ii) if the court thinks fit – to have been void ab initio or void at all times on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);\n…\n(d) an order directing the respondent to refund money or return property to the injured person;\n(e) except if the order is to be made under section 239(1) – an order directing the respondent to pay the injured person the amount of the loss or damage;\n…",
+    "judge": "RARES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Background"
+    ],
+    "text": "Espie Watt has been a registered pharmacist since 1980. He built up a pharmacy business comprising nine retail pharmacies in regional New South Wales, six in the Australian Capital Territory (collectively the Watt Group) and a head office for the business conducted by the second applicant, Mazzawattie Pty Ltd which, from 28 May 2001, had been the trustee of the Snowy Mountains Services Unit Trust (SMSUT).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Background"
+    ],
+    "text": "Mr Watt was the guiding mind and will of Mazzawattie, SMSUT and the ninth applicant, Hermidale Pty Limited, which, from June 1981, was the trustee of the Watt Family Trust in relation to the operations of the Watt Group. He was a partner in four of the pharmacies, at Tumbarumba, Batlow, Wagga Wagga and one of the two pharmacies at Tumut, and a shareholder in the seventh applicant, Asbet Pty Ltd, which owned a pharmacy at Young. The applicants seek relief now only in respect of the claims made in respect of seven of the pharmacy businesses, being the five above, a second one in Tumut and another in Cootamundra.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Background"
+    ],
+    "text": "Mr Watt owned the business name, the Bush Chemist, which he later transferred to RX Holdings. He also owned the Bush Chemist trade mark and a leaf design. The Wagga Wagga and the Young pharmacies traded under the Bush Chemist brand name, and the other pharmacies were conducted under the brand name, Summit.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Background"
+    ],
+    "text": "From about 2001, SMSUT provided head office services to the individual pharmacies in the Watt Group, as they were established over time. Those services were plant, equipment and telephone services, bookkeeping, secretarial and administrative services, stationery and consumables, debt collection services, group purchasing services, debtors and creditors management, banking, management and regulatory compliance, marketing, merchandising and website management. The website provided information about the individual pharmacies as well as general medical and pharmaceutical information.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Background"
+    ],
+    "text": "From 1 July 2001, SMSUT accrued amounts approximating the service charges owed by SMSUT pharmacies as debtors and allowed them to be utilised for the business of the SMSUT pharmacies. From time to time Hermidale, as trustee for the Watt Family Trust, provided working capital to Mazzawattie by foregoing drawing profits, as unit holder in SMSUT, and the amounts of those foregone drawings were credited to a loan account of Hermidale in the books and records of SMSUT.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Background"
+    ],
+    "text": "By April 2016, Mazzawattie also provided subleases of premises used in the operations of five pharmacies at Tumbarumba, Wagga, Batlow, and two in Tumut (the SMSUT pharmacies), finance for the individual pharmacies and labour and payment of employees for the SMSUT pharmacies. Mazzawattie also charged the SMSUT pharmacies for some services provided to them within the Watt Group head office operations. In addition, Mazzawattie charged the Cootamundra and Young pharmacies (and others) for providing bookkeeping, secretarial and administrative services performed by the head office employees at a fixed sum per hour. As at 21 April 2016, Mazzawattie owned vehicles and other plant and equipment used in the Watt Group and conducted the bushchemist.com.au website.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Background"
+    ],
+    "text": "By 21 April 2016, SMSUT was carrying accrued debts in respect of the individual pharmacies of about $3.5 million, being trade receivables. Those had increased by 1 January 2017 to about $4.5 million, and remained at that figure two months later. According to SMSUT’s loan accounts, as at 21 April 2016 it owed the Watt Family Trust approximately $3.1 million, which increased by 1 March 2017 to about $3.4 million.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On about 21 April 2016, the first and second respondents, Phillip Shepherd and Mark Steidle, approached Mr Watt and made a proposal that interests associated with them would purchase the Watt Group head office operations. Thereafter, the three men engaged in a series of negotiations in which Mr Shepherd and Mr Steidle made multiple representations as to the future prospects and operation of a proposed franchising business that came to be conducted by the fourth respondent, Summit Pharmacies Group Pty Ltd (SPG). In broad overview, Mr Shepherd and Mr Steidle persuaded Mr Watt over about 11 months to help them establish a pharmacy franchising business run through SPG. A company controlled by Mr Shepherd and Mr Steidle, RX Holdings Pty Ltd, the third respondent, became the sole shareholder of SPG.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "RX Holdings was incorporated on 20 May 2016. Each of Mr Shepherd and Mr Steidle acted in the conduct complained of on behalf of himself and as a director of RX Holdings from 20 May 2016, and SPG from not later than, in Mr Shepherd’s case, when he became a director on 22 November 2016 and, in Mr Steidle’s case, from not later than 15 February 2017, when he became SPG company secretary.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "Mr Shepherd and Mr Steidle made multiple representations to Mr Watt to induce him to invest in and proceed with the franchising business and to influence all of the 15 pharmacies to which SMSUT provided head office and other services to become franchisees of SPG. Many of the representations were as to future matters and, by force of ss 4 and 22A of the ACL and the deemed admissions under r 16.07(2), were misleading because the representor did not have reasonable grounds for making them.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "Importantly, on 21 April 2016, at a meeting at Tumbarumba:\n• Mr Shepherd and Mr Steidle represented to Mr Watt that he should set up a franchising structure comprising a company to be formed, as franchisor, that included the individual pharmacies in the Watt Group;\n• Mr Shepherd and Mr Steidle possessed a wealth of corporate experience and know-how that they would bring to operate the franchising structure;\n• Mr Shepherd would pay $2 million for the transfer of the Watt Group head office operation on the basis that the franchise group would be set up comprising the individual pharmacies as core franchisees and he would provide $2.08 million in cash to the franchisor as operating capital for the franchising structure;\n• Mr Watt would have a financial interest and participation in the franchisor, derive income from that participation and would be able, progressively, to reduce his work in relation to the individual pharmacies;\n• the franchisor would perform the head office operations in place of SMSUT;\n• Mr Watt and entities he wanted to nominate would be shareholders in the franchisor.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On 22 April 2016, Mr Shepherd sent an email to Mr Watt in which he represented that:\n• Mazzawattie, as trustee of SMSUT, should transfer the Watt Group head office functions to the franchisor;\n• Mr Shepherd would cause another company, Better Health Global Software Pty Ltd, controlled by him, Mr Steidle and Russell Beattie, to provide working capital of $2.08 million for the franchising structure;\n• they would cause Better Health to invest the $2.08 million in the franchisor by the purchase of shares to be issued in the franchisor;\n• Mr Shepherd had access to $200 million in investment funds to drive the growth of the enterprise, specifically by increasing the number of franchisees;\n• SMSUT would retain shares to the value of $2 million in the franchisor in consideration of its transfer of the head office operations;\n• Mr Shepherd would bring about an increase in the number of franchisees to create a valuable enterprise which would be owned by the franchisor;\n• within six months the franchisor would have obtained franchise agreements for 100 pharmacies, and within three years, 550 pharmacies.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "In their communications on 21 and 22 April 2016, Mr Shepherd represented to Mr Watt that participation by the individual pharmacies as franchisees in the franchising scheme would deliver them financial benefits by enhancing buying power that would result in lower prices of products and that Mr Watt’s and Mazzawattie’s participation in that structure would deliver the benefits to them by increasing the availability of cashflow as required for use in individual pharmacies and in Mr Watt’s other business interests. At this time, each of Mr Shepherd and Mr Steidle knew, first, that the individual pharmacies were conducted by separate entities and not by Mr Watt alone and, secondly, that Mr Watt was in a position to influence the other proprietors of the individual pharmacies in relation to the franchising proposal and franchising structure, by reason of his personal and commercial relationships with them and his involvement in the affairs of SMSUT and the Watt Group.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On 20 June 2016, Mr Watt agreed in principle with Mr Shepherd that rather than holding shares in a franchisor, Mr Watt and his associated entities should subscribe for shares in RX Holdings in consideration of the transfer of the Watt Group head office operations from Mazzawattie to the franchisor and that RX Holdings would be the sole shareholder in the franchisor.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On about 30 June 2016, Mr Shepherd supplied Mr Watt with a constitution for SPG, a share subscription agreement in respect of SPG and a shareholders agreement in respect of RX Holdings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On 4 July 2016, Mr Steidle informed Mr Watt in an email that Better Health had been replaced by RX Holdings for the purposes of the franchising proposal. Mr Steidle also told Mr Watt on that occasion that:\n• the value of the franchisor and the financing structure would be in the range of $900 million to $1.2 billion within five years;\n• RX Holdings had indicative commitments in place for equity capital raisings totalling $65 million to fund acquisition of additional pharmacy groups to grow and add to the number of franchisees in the franchising structure;\n• RX Holdings had in principle commitments for debt funds to fund growth of the franchise to 550 pharmacies in 30 months;\n• RX Holdings would provide a team to sign on further franchisees, had $20 million available from an institutional source to fund growth to 100 pharmacies within six months and was sourcing $200 million to fund the growth of the number of franchisees through an international investment fund;\n• RX Holdings had agreement in principle from an investor organisation for access up to USD250 million to fund the growth of the franchising structure and was raising $45–$65 million to fund the acquisition of a select group of pharmacy management companies and pharmacy information technology vendors to be incorporated into the franchising structure;\n• RX Holdings was raising $325 million to fund further growth of the franchising structures through a series of convertible notes.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "SPG was a company that Mr Watt originally had within his corporate group. In early June 2016, Mr Watt had identified SPG to Mr Shepherd and Mr Steidle as the prospective franchisor. Commencing in about June 2016, Mr Shepherd and Mr Steidle were in a position to control, directly or indirectly, SPG, and in fact, exercised that control. That was because Mr Shepherd exerted influence over Mr Watt, by his conduct complained of in causing Mr Watt and SPG to pursue the franchising proposal from about June 2016.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "As at 21 November 2016, SMSUT’s assets included its trade receivables, and its liabilities included loans due to the Watt Family Trust and another family trust, totalling approximately $4.5 million.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On 21 November 2016, Mr Shepherd represented in an email to Mr Watt that:\n• Mr Shepherd, Mr Steidle and or RX Holdings had a financial backer that Mr Shepherd identified as Catalyst Wealth and they were at the stage of getting Catalyst to sign a convertible note;\n• Mr Watt needed to sign SPG’s new constitution, the shareholders agreement and a share application for two million shares in RX Holdings by the eighth applicant, Burrows Pty Ltd;\n• Mr Watt needed to cause SPG to issue a share certificate for two million shares to RX Holdings;\n• it was very important that Mr Shepherd receive those documents urgently because that would ensure receipt that week of funds through the proposed convertible note for the pursuit of the franchising proposal.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "In making the representations on 21 November 2016, Mr Shepherd intended to induce Mr Watt to provide the documents he requested for the purposes of drawing Mr Watt and the Watt Group into the franchising structure, procuring and ensuring their participation in it. Mr Watt signed and provided to Mr Shepherd those documents on the faith of the latter’s representations about the Catalyst convertible note. No funds were received through a convertible note from Catalyst.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "In addition, in about October and November 2016, as part of the franchising proposal and structure, Mr Shepherd caused forms of franchise agreements to be created for the purpose of SPG entering into them as franchisor with the proprietors of the individual pharmacies as franchisees.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On about 14 December 2016, Mr Shepherd caused those franchise agreements to be provided to Mr Watt. Mr Shepherd intended that Mr Watt would procure their execution by or on behalf of the respective proprietors of the individual pharmacies. Mr Watt agreed to participate in setting up the franchising structure with SPG as the franchisor and implementing and carrying into effect the franchising proposal, acting on the faith of and in reliance on all of the representations described above. To this end, Mr Watt executed the share transfers, constitution of SPG, share subscription agreement and shareholder agreement, agreed to enable transfer of certain of the Watt Group head office operations to SPG as the franchisor, agreed to do what was necessary on his part to cause the individual pharmacies, in which he was interested, to become franchisees and executed franchise agreements in respect of them. He also agreed to the transfer to RX Holding and SPG of motor vehicles and office equipment, to RX Holdings becoming registered as the proprietor of the Bush Chemist business name and persuaded the other persons interested as proprietors of the individual pharmacies to participate as franchisees under the franchising structure. He procured them to execute the franchise agreements that Mr Shepherd had prepared. Acting under Mr Watt’s influence (although, precisely what Mr Watt said to the individual proprietors or co-directors was not pleaded), the other proprietors of the individual pharmacies agreed to participate in the franchising structure, and executed franchise agreements to give it effect.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "In the defence that I struck out, it was common ground that SPG had not complied with the Code because it had not:\n• created or provided a disclosure document (until 18 July 2017) (cl 8);\n• given a copy of any disclosure document or the Code to any of the proprietors of the individual pharmacies before they executed the franchise agreement and it did not provide any information to them as required by cl 9 of the Code; and\n• received from any of them a signed statement as required by cl 10 of the Code;.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "The franchise agreements contained a schedule which provided for the franchise fees that were to be payable by the franchisees. Each of Mr Shepherd, Mr Steidle, RX Holdings and SPG knew at relevant times that those fees were not affordable or financially sustainable for the individual pharmacies, and that their participation in the franchising structure would not result in financial benefit to those pharmacies unless there were a substantial reduction in those fees. Moreover, Mr Shepherd and Mr Steidle were aware, from their conversations with him, that Mr Watt had agreed to the incorporation of those fees in the franchise agreements on the basis and understanding that their structure and level was temporary in order to assist the franchisor with cashflow for the first six months of its operations, by which time the respondents would have obtained additional franchisees in accordance with Mr Shepherd’s and Mr Steidle’s representations that during that six month period the franchising structure would grow to 100 pharmacies. That would bring about a reduction of the franchise fees to an affordable and financially sustainable level and deliver financial benefits to the individual pharmacies. If the fees were not reduced after the first six months, the Watt Group and the individual pharmacies would be able to leave the franchise and revert to their prior arrangements.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On about 1 February 2017, RX Holdings published an information memorandum and provided it to Symbion Ltd. The information memorandum contained a balance sheet that stated, incorrectly, that the assets of SPG included, among others, the SMSUT trade receivables, then totalling $4,490,288. RX Holdings made that misleading representation in trade or commerce in order to induce Symbion to engage in commercial dealings with RX Holdings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On about 1 March 2017, Mr Shepherd represented to Mr Watt that:\n• savings achieved by each individual pharmacy by participating in the franchising structure would exceed the total fees to be payable by that pharmacy to the franchisor;\n• the franchisor would reduce all the fees payable by the individual pharmacies as franchisees as the number of franchisees participating in the franchising structure increased, and that that would occur within six months of the commencement the franchise;\n• RX Holdings had the ability and available finance to ensure an increase in the number of franchisees, so that within six months of the commencement, the promised savings for each individual pharmacy would be achieved.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "Mr Shepherd intended when making those representations that Mr Watt, himself, would be influenced by each of them to participate in the franchising structure, would communicate them to the proprietors of the individual pharmacies, and exert his influence on his co-proprietors, to induce them to participate in it. Mr Shepherd also intended that Mr Watt would be induced by those representations, as would the proprietors of the individual pharmacies, whom Mr Shepherd also intended would be induced by Mr Watt’s influence exerted on them, to do what was necessary to bring about their participation in the franchising structure, on the basis of the proffered franchising agreements, and, eventually, Mr Watt would use his influence to ensure that they executed the documents.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "On 18 March 2017, Mr Shepherd proposed to Mr Watt that the latter participate in a scheme to avoid disclosing that RX Holdings’ representation in the information memorandum given to Symbion was misleading. As part of that scheme, Mr Shepherd proposed that Hermidale, as trustee of the Watt Family Trust, forego an amount of approximately $3.5 million standing to its loan account with SMSUT and that, in lieu of that asset, RX Holdings would issue Mazzawattie with 375,000 shares and about 1.5 million options for shares in RX Holdings to convert in proportion to the repayment of the SMSUT trade receivables by the individual pharmacies. Mr Shepherd represented to Mr Watt, on behalf of Hermidale, that RX Holdings’ grant of those shares and options would ensure that Mr Watt and Hermidale were appropriately recognised and remunerated in respect of the loan account by the receipt, in due course, of shares in RX Holdings, including upon the maturity of the options. The representation was founded on the proposition that the shares in RX Holdings would have a value commensurate with the loan account. Mr Watt acted in reliance on that representation and, on behalf of Hermidale, agreed to accept the issue of shares and options in lieu of its SMSUT loan account. The RX Holdings shares have never achieved any commercial value and RX Holdings asserts that it is entitled to be paid the SMSUT trade receivables as assignee of them.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "From about 27 June 2017, Mr Watt made requests to the respondents to reduce the fees payable by the franchisees, in order to make good the representations that this would occur by that time and that the individual pharmacies would achieve the promised benefits.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "Mr Watt, on behalf of all of the applicants, requested that the respondents cooperate in dismantling the franchising structure to reinstate the status quo as it had existed prior to them entering into it, but the respondents declined to do so and insisted on the applicants continuing to perform.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Mr Watt’s dealings with Mr Shepherd and Mr Steidle"
+    ],
+    "text": "Each of the proprietors of the individual pharmacies has suffered, or is likely to suffer, loss or damage because of the respondents’ unconscionable conduct.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Falsity of representations"
+    ],
+    "text": "The respondents did not agree to make any reduction in fees payable under the franchise agreements. They never provided the promised working capital of $2.08 million, never raised any of the amounts of money that Mr Shepherd and Mr Steidle represented could or would be raised, nor did they obtain any growth in the number of franchisees and never delivered any profit or net financial benefit to any of the applicants as franchisees or otherwise within the franchising structure.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Falsity of representations"
+    ],
+    "text": "Each of the representations complained of was made in trade or commerce within the meaning of the CC Act and ACL. To the extent that the representations about the available finance of $2.08 million, capital of $2 million, and the funding to flow from the convertible note and other claimed sources of finance, were with respect to future matters, each of those representations as to finance was misleading and deceptive within the meaning of s 18 of the ACL and false. The representations as to the future growth of the franchise business, the convertible note and the benefits that would flow to the individual pharmacy franchisees also related to future matters. In the circumstances, all of the representations as to future matters, accordingly, were misleading by force of ss 4 and 22A.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Falsity of representations"
+    ],
+    "text": "SPG did not act towards each of the proprietors of the individual pharmacies in good faith in respect of its dealings with them relating to the proposed franchise agreements, their negotiation or once they were entered into with SPG. SPG engaged in the conduct complained of in respect of it in trade or commerce and it contravened each of cll 6, 8, 9 and 10 of the Code within the meaning of s 51ACB of the CC Act. Each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in each of the contraventions of the CC Act and the Code by force of s 75B. Each of the respondents, severally, by engaging in the conduct of making the various representations and pursuing the franchising arrangements, in connection with the supply or possible supply, or acquisition or possible acquisition, of goods and services to or by the applicants, engaged in conduct that was unconscionable within the meaning of s 21 of the ACL.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "The unconscionable conduct claim"
+    ],
+    "text": "Relevantly, as I understand the pleading, the unconscionable conduct is said to consist of the contravention of s 21 because the franchise arrangement was intended, first, to supply services, namely head office services, to the individual applicants’ pharmacy businesses and, secondly, to relate to the acquisition, or possible acquisition, of goods from suppliers to the pharmacies by attracting reduced purchase prices that would be achievable through the increased substantial buying power if the representations were made good.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "The unconscionable conduct claim"
+    ],
+    "text": "In effect, the making of the misleading representations as to what would happen through the operation of the franchising structure and the ability of Mr Shepherd, Mr Steidle, RX Holdings and, when they came to be in control of it, SPG, to access finance and capital in order to grow and develop the franchise structure and business, constituted unfair tactics within the meaning of s 22(1)(d) and (2)(d) of the ACL. That is because, by making those misleading representations, the respondents used tactics against Mr Watt, as the customer, or against him in respect of the pharmacies in which he was interested or as a person acting on behalf of the other pharmacies, in relation to the supply or possible supply, or acquisition or possible acquisition of, goods and services the subject of the franchising proposal. The tactics were unfair because the misleading representations caused, as they were intended, Mr Watt to use his influence with the proprietors of the individual pharmacies to induce them to enter into franchise agreements and become part of the franchise structure without accurate information about those matters or any of the safeguards that compliance by the respondents with cll 6, 8, 9 and 10 of the Code would have ensured.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "The unconscionable conduct claim"
+    ],
+    "text": "The applicants seek orders that their seven respective franchise agreements be declared void from 30 June 2018 and that RX Holdings do all things necessary on its part to assign to Mr Watt the ownership, including sole administrator rights, of the website ‘bushchemist.com.au’ and to place him in the position of registering the business name Bush Chemist. They seek orders for payment of money, being the asserted loss of each of the seven pharmacies (that I found could not, on the evidence, be proved at the hearing on 8 July 2021) and the trade receivables, or the assignment to Mazzawattie of the right to the trade receivables. These are claims that fall within ss 236, 237(1) and 243(d) and (e) of the ACL.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "The unconscionable conduct claim"
+    ],
+    "text": "Once a person has suffered loss or damage because of conduct that contravenes ss 18 and or 21 of the ACL, s 236(1) is the gateway to relief of the kind that ss 237 and 243 authorises, namely, further orders to enable the person to obtain appropriate relief.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents argued that the applicants have twice now had the opportunity to and attempted, but failed, to prove loss or damage, because their evidence was not admissible. The respondents submitted that the applicants did not apply for orders striking out their defence and cross claim and proceeding to default judgment that I decided to do on my own motion. They argued that the applicants should strictly adhere to the Rules because they are seeking to have the benefit of the order under r 5.23(2). They contended that that rule provides that an applicant may apply to the Court for orders based on a default and that the Court could not exercise that power absent such an application. The respondents submitted that the overarching purpose of the civil practice and procedure provisions in s 37M of the Federal Court Act and the Rules would not be achieved by affording the applicants any further opportunity to adduce evidence in an admissible form.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents argued that the statement of claim did not properly particularise how the bare assertion of accessorial liability against Mr Shepherd, Mr Steidle and RX Holdings could be made out for breaches of the Code. They contended that, for accessorial liability to be established, the applicants had to plead the facts that attracted one or other basis for the particular respondent to be an accessory under s 75B of the CC Act if they wanted relief against him or it under s 87 for a contravention of the Code by application of s 51ACB. They submitted that the statement of claim did not allege against Mr Shepherd, Mr Steidle or RX Holdings how he or it had contravened, with knowledge, each provision of the Code (cll 6, 8, 9 and 10) on which the applicants relied, and referred to Yorke v Lucas (1985) 157 CLR 661.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents contended that the statement of claim lacked precision and used a scattergun approach, pleading a large number of individual representations made over a lengthy time period, all of which were directed to or acted on only by Mr Watt. They submitted that the pleading used Mr Watt’s actions indirectly and in a way that is unclear, to allege that he had caused the other proprietors of the individual pharmacies to enter into franchise agreements, yet the pleading did not reveal anything that Mr Watt said or did to influence, if he did, any of the other individual proprietors, his co-directors or partners, to enter into the franchise agreements. They submitted that it is impossible to know what Mr Watt did and if it were causative of the actions of the individual pharmacies because of any conduct of the respondents. They argued that, because all the representations are now deemed to have been made and to be misleading, the pleading does not reveal what, if any, role any particular representation played in the decision-making processes on the applicants’ side.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents argued that both Mr Shepherd and Mr Steidle must have made the representations only on behalf of the two corporate entities and not as individuals, and that, therefore, for the purposes of the ACL claims, their role must also have been accessorial, so that they cannot be liable as principals, yet the applicants did not plead that they were accessories for the ACL claims.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "The respondents’ submissions"
+    ],
+    "text": "The respondents contended that the franchise agreements should be declared void ab initio under s 243(a) of the ACL or s 87(2)(a) of the CC Act. They submitted that this would be the only appropriate remedy because it would undo the whole of the transaction and reverse all of the consequences of any misleading or unconscionable conduct. They argued that there was no proper basis to grant the applicants the relief sought orally on 8 July 2021 of avoiding the franchise agreements from 30 June 2018.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion, the respondents’ argument that the power under r 5.23(2) can only be exercised on application by a party is misconceived. Rule 1.40 provides that the Court, at any stage in a proceeding, may exercise a power mentioned in the Rules on its own initiative or on the application of a party. The Rules have been drafted on the basis that the Court is in control of the case management of proceedings. That construction of the Rules is consistent with Pt VB of the Federal Court Act, the analogues of which were construed in Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 and Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Importantly, s 37P(5) and (6) provide that if a party fails to comply with a direction given by the Court, the Court can make such order or direction it thinks appropriate and, in particular, can strike out, amend or limit any part of a party’s defence and award costs, including on an indemnity basis. Moreover, those provisions do not affect the other powers that the Court has to deal with a party’s failure to comply with a direction (s 37P(7)).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Nonetheless, there is some force in the respondents’ complaint that, on 30 June 2021, the applicant provided draft orders, together with their latest submissions and evidence, but those did not specify any date from which they sought that the franchising agreements be voided under s 243(a) of the ACL (or s 87(2)(a) of the CC Act). However, both sides have been able to fully argue that matter and no prejudice has been occasioned to the respondents by doing so.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I do not consider that the applicants have been treated any more favourably than the respondents who, as I noted in my earlier reasons, themselves have had numerous extensions of time in which to serve their outlines of evidence. But, even when the hearing was to take place on 20 May 2021 concerning whether their defence and cross-claim ought be struck out because of their continuing default in complying with orders to serve those outlines, the respondents still had not remedied that position, many months after the original orders had been made and they did not provide any adequate explanation for their default.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The purpose that the applicants were seeking to achieve by the use of the inadmissible affidavits as to quantum was slightly different. That was to avoid a hearing to assess damages by trying to utilise a quicker path home. True it is, they failed in that endeavour and that exercise has taken time and expense, which can be compensated by costs. But it remains to be seen whether, in fact, the latest attempt at quantification, albeit that I have rejected its admissibility here, is ultimately established at a hearing to assess damages.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The principal question is whether the applicants’ pleaded case provides a platform for granting the relief ultimately sought on 8 July 2021, namely the avoidance of the franchise agreements and the restoration of the website and business name.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion, the respondent’s submission is misconceived that it is necessary for any particular representation to be identified and then causally connected to the entry into a relevant agreement. Here, because of the deemed admissions, as a result of the striking out of the defence, the facts are that all of the representations were made and were misleading and, in respect of those representations that related to a future matter, were made without reasonable grounds.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In Gould v Vaggelas (1983) 157 CLR 215 at 236, Wilson J said:\n1. Notwithstanding that a representation is both false and fraudulent, if the representee does not rely upon it he has no case.\n2. If a material representation is made which is calculated to induce the representee to enter into a contract and that person in fact enters into the contract there arises a fair inference of fact that he was induced to do so by the representation.\n3. The inference may be rebutted, for example, by showing that the representee, before he entered into the contract, either was possessed of actual knowledge of the true facts and knew them to be true or alternatively made it plain that whether he knew the true facts or not he did not rely on the representation.\n4. The representation need not be the sole inducement. It is sufficient so long as it plays some part even if only a minor part in contributing to the formation of the contract.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As Wilson J held, a false representation need not be the sole inducement to cause the representee to act on it. It suffices so long as the representation played some, if only a minor, part or made a contribution to the formation of the contract in issue.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The real question here is whether the applicants’ pleading based on the respondents’ unfair tactics of making misleading or false representations to Mr Watt, within the meaning of s 22(1)(d) or (2)(d), can establish that, in fact, each respondents’ conduct was unconscionable, in respect of the part he or it played in, first, Mr Watt’s decisions and his inducement of the other individual pharmacy proprietors to enter into the franchise structure and franchise agreements and, secondly, SPG’s refusal to make good the earlier representations by reducing the fees or introducing any significant benefits for the franchisees.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "While each of Mr Shepherd and Mr Steidle acted in his capacity as an officer of each of RX Holdings and SPG, he was also acting for his own benefit and on his own behalf in making each of the representations. As the principles applied in Gould 157 CLR 215 make clear, albeit in the context of fraudulent representations, the mere fact that an individual who is a representor uses a corporate vehicle to achieve an objective for him or her does not free the representor from direct responsibility for making a misleading statement or engaging in conduct that is actionable, such as being unconscionable, and that is a cause of another person being induced to act to his, her or its detriment. As Wilson J said in Gould 157 CLR at 238:\nThey accord with sound principle, namely, that a plaintiff carries the burden of establishing every element of his cause of action. At the same time, one can readily understand why it is in cases of deceit that a tribunal whose duty it is to find the facts may require a defendant to make some answer to the case that is put against him. Such cases are of a kind where in the general experience of mankind the facts speak for themselves. Where a plaintiff shows that a defendant has made false statements to him intending thereby to induce him to enter into a contract and those statements are of such a nature as would be likely to provide such inducement and the plaintiff did in fact enter into that contract and thereby suffered damage and nothing more appears, common sense would demand the conclusion that the false representations played at least some part in inducing the plaintiff to enter into the contract. However, it is open to the defendant to obstruct the drawing of that natural inference of fact by showing that there were other relevant circumstances.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Brennan J said (157 CLR at 251–252):\nIf the desire for ownership be sufficiently intense, a prospective purchaser is wont to discount the doubts and suspicions that might otherwise hold him back from acting on anything contained in a vendor's representation and, by giving credence to at least part of what he has been told, to tip the scales in favour of buying. If the representor leads the representee to believe any part of the representation which is, and is known by the representor, to be untrue and the representee acts on that belief and suffers damage, the representor does not escape liability because the representee did not believe the representation in full. If the representee's desire to own what was for sale leads to the giving of some credence to the representation which would not otherwise have been given, the representee's self-induced gullibility is no defence to the representor. A knave does not escape liability because he is dealing with a fool.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In Gould 157 CLR 215, Mr Vaggelas fraudulently represented to Mr and Mrs Gould that his company, South Molle Island Pty Ltd, was running a very profitable island resort in order to induce them to purchase it through their company. Brennan J said (157 CLR at 253–254, and see at 219–220 per Gibbs CJ, at 231–232 per Murphy J, at 235–236 per Wilson J):\nIf a defendant, D, by fraudulent misrepresentations made to a plaintiff, P, induces P to lend money to a worthless company, C, whereby the money lent is lost, D is liable for damages in deceit to P. That is clear enough where C is under D's control, and there is no difference in principle when C is not under D's control. If D's fraudulent misrepresentations induce C to part with its assets to purchase a worthless property and induce P to lend money to C in order that C may purchase the property, D is liable for damages in deceit to each of P and C. To C, whom he has induced to part with its assets in exchange for the worthless property; to P, whom he has induced to part with the money lent in exchange for a debt owed by C which C is unable to pay. The causes of action vested in P and C are distinct. D's liability arises, in one case, from his inducing C to purchase property, in the other from his inducing P to lend money to C. In one case, it is the purchase of the worthless property that causes the loss, in the other it is the lending of money to a worthless company. The distinction between the causes of action and the measure of damages is clearer if the property in the one case and the debt in the other are not worthless. Then the difference between the purchase price and the value of the property is, prima facie, the measure of C's damages, while the difference between the money lent and the value of the debt is, prima facie, the measure of P's damages.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Here, Mr Shepherd and Mr Steidle were in an analogous position to that of D, in Brennan J’s example and SPG, under their control, was in the position of C. Each man is liable for what he said or his conduct that induced Mr Watt to act as he did, and as each intended he would, including to influence the proprietors of the individual pharmacies. While, of course, this is not a case where the applicants claim that any of the respondents made a fraudulent representation, the principles in Gould 157 CLR 215 about the liability of a representor and the circumstances in which a representation will be found to have induced the representee to act apply to the representations generally, including ones that are objectively misleading or deceptive.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In my opinion, the admitted case on the pleading thus discloses the potential for each of Mr Shepherd and Mr Steidle to be found personally liable for his respective conduct in making the representations attributed to him. The question of what relief ought to be granted against each of them does not arise at this point in time because it involves the need to determine what, if any, damages are to be assessed and the basis on which they are awarded.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "At the moment it is clear, and the respondents admitted in their defence before it was struck out, that they had contravened the provisions of cll 8, 9 and 10 of the Code. In Master Education Services Pty v Ketchell (2008) 236 CLR 101, Gummow CJ, Kirby, Hayne, Crennan and Kiefel JJ considered the earlier form that the present s 51ACB took in the Trade Practices Act 1974 (Cth) (TPA) as s 51D. Their Honours held that the analogue to s 51ACB does not make performance of a franchise agreement unlawful because it was entered into without compliance under the Code (at 108 [15]). Rather, they said that the prohibition in that section “is directed to securing compliance by franchisors with requirements of industry codes and the consequence of a contravention is the grant of remedies provided in Pt VI of the Act” (at 109 [18]), that include the remedies in ss 82 and 87. Now, in addition, if there were unconscionable conduct, s 22(1)(g) and (2)(g) of the ACL give the requirements of an industry code a role to play in determining whether conduct is unconscionable in contravention of s 21. Their Honours noted that cl 2 of the Code provides that its purpose is to regulate the conduct of participants in franchising towards one another. They said (at 111–112 [25], 113 [29]):\nThe purposes of the scheme of Pt IVB and the Code in question are to regulate the conduct of persons in the franchising industry in order to improve business practices, to provide some protection to franchisees proposing to enter into franchise agreements and to decrease litigation. Those purposes are sought to be achieved, in large part, by ensuring that a prospective franchisee is in a position to make an informed decision about the operation of the franchise and is encouraged to take independent advice before entering into a franchise agreement. The scheme is largely directed to the franchisor, who is obliged to provide that information and advice. Section 51AD may be seen to promote compliance with the Code, by providing, in effect, that non-compliance will amount to a contravention, for which there are remedies available under Pt VI. It is no part of the scheme, and unnecessary to the purposes mentioned, to strike down a contract made by a non-complying franchisor. It is sufficient for the purpose of the scheme that a franchisor is aware of the obligations imposed by the Code and that action may be taken by a franchisee under the Act with respect to a contravention of s 51AD.\n…\nThe 1998 Act also effected amendments to Pt IVA of the Trade Practices Act. The Part at that time contained s 51AA, which provided in general terms that a corporation must not engage in conduct that is unconscionable. It is of some significance that s 51AC was added at the same time as provision was made for the regulation of business conduct as between franchisor and franchisee. Sub-section (1) of that section states that, in trade and commerce, a corporation, in connection with the supply or possible supply of goods or services to a person, should not engage in conduct which is, “in all the circumstances, unconscionable”. The section is clearly relevant to a situation of disadvantage, in which a franchisee, not properly informed by a franchisor, might be.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Their Honours held that where a person to whom the TPA applies did not observe the norms of conduct then in ss 51AC and 51D (now in s 21 of the ACL and s 51ACB of the CC Act) a person who suffers loss or damage by (s 82(1) of the CC Act) or because of (s 236 of the ACL) that conduct is entitled to avail themselves of the flexible remedies in ss 236–243 of the ACL and Pt VI (and relevantly here, ss 82 and 87) of the CC Act (at 114 [31], 117 [38]–[39]). They concluded (at 118 [41]) with respect to cl 11 of the then version of the Code which is now the analogue of the present cl 10:\nIt is possible to agree with the views of Mason P for the Court of Appeal [2007] NSW 161 at [44] that the “franchisor’s breach of cl 11 [of the Code]” was not “inconsequential” and that the “disclosure requirements of [the] Code were clearly enacted for the protection of prospective licensees” without embracing his Honour’s conclusion that the remedy implicit in the circumstances was that provided by the common law. The context of the Act itself, and the range of remedies that it affords for an established breach of an industry code, produce the conclusion that the better view of the legislation is that propounded by the appellant. It is that view to which this Court should give effect.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Here, the contraventions of cll 6, 8, 9 and 10 of the Code were not accidental or inconsequential. The respondents created or brought about the whole franchising structure, with Mr Watt’s cooperation that they obtained on the basis of representations that Mr Shepherd and Mr Steidle made to him with the intention of him procuring the other proprietors to enter into franchise agreements. The substantial number of representations that they made are all the more significant because, had they been put into a disclosure document and had the franchisees, including Mr Watt, had an opportunity to seek independent advice on them, the basis of the franchising structure would have been revealed, including the absence of any financial backing for it and the reason for the high level of fees. Had a disclosure document been provided to Mr Watt and the other franchisees they may or may not have gone ahead to enter into the franchise agreements.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The failure to obtain a statement from a franchisee in compliance with what is now cl 10 is not inconsequential: Ketchell 236 CLR at 118 [41]. But, here, the respondents’ failure went far beyond the failure at issue in that case. They failed, first, to provide a copy of the Code, secondly, to provide a disclosure document of any kind which would have outlined what was sought to be achieved by the franchising arrangements and the basis on which their statements and representations were made, and, thirdly, to obtain a statement under cl 10. In all of those circumstances, having regard to the significant contraventions of cll 6, 8, 9 and 10 of the Code, where the applicants do not wish to remain bound to the franchise agreements and have suffered loss or damage by having to pay fees at a level that are not affordable or financially sustainable and that resulted in them not receiving any substantive financial benefit, they should not be held to those agreements. In my opinion, the only outcome possible is that each of the franchise agreements should be declared void.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The applicants seek that the declaration of avoidance under s 87(2)(a) of the CC Act or s 243(a) of the ACL operate from 30 June 2018. I reject the respondents’ argument that I should declare the agreements to be void ab initio. The applicants have traded under these agreements with third parties, who are not involved in SPG’s contraventions. They wish to have damages or other statutory compensation orders made as against the respondents, who caused them loss or damage that they seek to quantify in respect of the period over which they traded. In my opinion, although the statement of claim does not set out a trading period, it is clear from the struck out defence that by 18 June 2018 SPG returned the motor vehicles and plant and equipment that Mazzawattie had made over to it. I infer that, at about this stage, the relationship had or was about to come to an end and it is appropriate to use 30 June 2018 as the time to formalise that result.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "The applicants did not separately plead each element as part of their accessorial liability claims under s 75B of the CC Act. Rather, in par 92 of the statement of claim they alleged that, by reason of earlier paragraphs that pleaded that each of Mr Shepherd and Mr Steidle acted on his own behalf and was an officer of both RX Holdings and SPG (pars 9–12) and that they made the representations to Mr Watt on 21 and 22 April 2016 (pars 29–34) about the franchising proposal and a structure for it, each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in the “said contraventions” within the meaning of s 75B.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "When I delivered my reasons ex tempore at the conclusion of argument on 8 July 2021, I thought there was some force in the respondents’ argument that the applicants did not plead a basis to find that Mr Shepherd, Mr Steidle and RX Holdings were accessorily liable for any contravention by SPG of cl 6 of the Code, namely that it had not acted towards the applicants with good faith. I also said erroneously that I was not satisfied that Mr Shepherd and Mr Steidle were accessorily liable for any contravention of the Code, despite having raised with counsel for the respondents in oral argument that each knew all of the essential ingredients of the pleaded contraventions of cll 8, 9 and 10; namely, that none of the requirements that a franchisor had to comply with in those clauses was satisfied.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "On 9 July 2021, because the orders that I pronounced orally late on 8 July 2021 had not been entered and those mistakes were in obiter dicta in my reasons that did not reflect my intention correctly or affect the orders that I made then and will make again now, my associate informed the parties that I had vacated the orders and would remake them when delivering these reasons. Subsequently, I have also reconsidered my obiter dicta in relation to the issue of accessorial liability in respect of cl 6 of the Code.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "Because of the place of par 92 in the pleading, it is reasonable to read it, as the respondents did in the oral argument, in the sense that the allegation related to SPG’s contraventions of s 51ACB and cll 6, 8, 9 and 10 of the Code pleaded immediately before in pars 78–92. However, par 92 is not well pleaded and this is what initially caused me to consider that the applicants had not pleaded a sufficient case for finding that Mr Shepherd, Mr Steidle and RX Holdings were accessories under s 75B.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "The position of an individual in respect of a contravention of an applicable industry code under the CC Act, ordinarily, is unlike that under the ACL. Under the ACL, ss 18 and 21 establish norms of conduct for a person (i.e. both individuals and corporations), whereas the CC Act establishes a norm of conduct in s 51ACB only for a corporation. Thus, in order to be accessorily liable under s 75B of the CC Act, the alleged accessory must have, first, participated intentionally in the principal’s contravention and, secondly, had knowledge of the essential matters that made up that contravention. That is, the accessory must have had actual knowledge of all of the facts of the contravention: Giorgianni v The Queen (1985) 156 CLR 473 at 500, 504–505 per Wilson, Deane and Dawson JJ; Yorke 158 CLR at 670 per Mason ACJ, Wilson, Deane and Dawson JJ; Gore v Australian Securities and Investments Commission (2017) 249 FCR 167, 171–173 [6]–[16], 178–179 [34]–[35] per Dowsett and Gleeson JJ (citing Rafferty v Madgwicks (2012) 203 FCR 1 at 63–64 [257]–[258] per Kenny, Stone and Logan JJ), and [168]–[176] per Rares J.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "Here, s 75B of the CC Act required that for an accessory to be knowingly concerned in a contravention, of the Code and s 51ACB, by a corporation, here SPG, he, she or it must have knowledge of all of the material elements constituting the corporate principal’s contravention. In Rafferty 203 FCR at 63–64 [255]–[258], Kenny, Stone and Logan JJ said of the former s 51AD, an analogue of the present s 51ACB:\nWhether there is any merit in the Rafferty parties’ submission that it was unnecessary for them to establish that Madgwicks knew the Code applied depends in the first place upon the correct identification of the essential elements constituting the contraventions of s 51AD of the TPA by T2SA and Embleton. With reference to the RA [Rights Agreement], we consider that these elements were: (1) a corporation (2) acting in trade and commerce (3) entering a franchise agreement (3) without giving a copy of the Code and a disclosure document to the prospective franchisee 14 days before the franchisee enters the franchise agreement; and/or (4) without receiving written statements from the prospective franchisee to the effect that the franchisee has received, read and had a reasonable opportunity to understand the disclosure document and the Code, and has been given advice by an independent lawyer, business advisor or accountant about the proposed franchise agreement, or has been told that that kind of advice should be sought and has decided not to seek it. With reference to the HOA [Heads of Agreement], the elements were much the same, save that the third element was the entering into an agreement to enter into a franchise agreement.\nThat is, on the above analysis, an essential element constituting the contraventions of s 51AD in this case was the fact that the franchisor (T2SA, in the case of the RA and Embleton, in the case of the HOA) entered into a franchise agreement, or an agreement to enter into a franchise agreement. The authorities recognise that an essential fact may be the presence or absence of a document having a particular legal significance: see Giorgianni at 483-484 per Gibbs CJ, citing Callow v Tillstone (1900) 83 LT 411 (a veterinary surgeon was not an accessory to a butcher’s selling unsound meat where a certificate had been honestly but negligently given by the veterinary surgeon that meat was sound and healthy and even though the effective cause of the principal offence by the butcher was the negligent certification) and Smith v Jenner [1968] Crim L R 99 (a driving instructor was not an accessory to a learner driver’s offence of driving without a licence where the instructor had no knowledge that licence had expired).\nWhere the Franchising Code is the applicable industry code, the existence of a franchise agreement, or an agreement to enter into a franchise agreement is the sine qua non of any contravention of s 51AD. Thus in order for Madgwicks to hold the requisite intent, Madgwicks had to be aware that T2SA in the case of the RA, and Embleton in the case of the HOA, were entering into a franchise agreement and an agreement to enter a franchise agreement respectively. Consistently with Rural Press, Madgwicks was not required to make the correct legal judgment that the Code applied, nor was Madgwicks required to know that the relevant conduct was a contravention of s 51AD. However, Madgwicks was required to know that the RA was a franchise agreement and the HOA was an agreement to enter a franchise agreement.\nAccordingly, having regard to our identification of the essential elements of the s 51AD contraventions in this case, we accept, as the Rafferty parties submitted, that, in order to establish that Madgwicks fell within s 75B as a person involved in the contraventions of s 51AD by T2SA and Embleton, it was not necessary for the Rafferty parties to establish that Madgwicks knew that the Code applied to or in relation to the RA and the HOA. It was, however, necessary for Madgwicks to know, with respect to the RA, that T2SA was entering into a franchise agreement and, with respect to the HOA, that Embleton was entering into an agreement to enter into a franchise agreement. In view of our conclusion on this point, it is unnecessary to address the submissions of the Rafferty parties that essential elements of a contravention could only be composed of matters of fact and not matters of fact and law.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "Initially, I was not satisfied, on the basis of the pleading, that the applicants had shown that each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in SPG’s contravention of cll 6, 8, 9 or 10 of the Code within the meaning of s 75B, because the material facts were not pleaded clearly. However, for the reasons discussed during oral argument, each of Mr Shepherd, Mr Steidle and through them, RX Holdings, knew the objective facts that made up the contraventions by SPG, namely, that there was no disclosure document, that no such document or a copy of the Code or information required in cl 9 had been given to any proposed franchisee and SPG had not received a statement from any proposed or actual franchisee under cl 10. Accordingly, by allowing SPG to enter into and proceed with the franchise agreements, each of them was knowingly concerned in SPG’s contraventions of cll 8, 9 and 10 by force of s 75B(1)(c).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "On reflection, read in context, par 92 of the statement of claim also referred to the knowing involvement of each of Mr Shepherd and Mr Steidle in SPG’s failure to act in good faith towards the applicants based on its failure to reduce the franchise fees once it became evident that the future representations had not been made good. Mr Shepherd and Mr Steidle had represented as individuals, and on behalf of SPG, that the franchise structure would grow quickly and that, as a result, the fees were temporary and would be reduced within 6 months. Having told Mr Watt this and secured his agreement to include the higher fees in the franchise agreements, that they intended him to use his influence to persuade the other proprietors to enter into them, good faith required Mr Shepherd and Mr Steidle to cause SPG to make good the position when the 6 months had elapsed. It follows that each of Mr Shepherd and Mr Steidle was also knowingly concerned in SPG’s contravention of cl 6 of the Code by not causing it to make good that position.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "Consideration",
+     "Accessorial liability"
+    ],
+    "text": "Whether that conduct has an effect on what ultimately is available as final relief against them can be determined at a time of the assessment of damages, because the orders that the applicants could obtain immediately on 8 July 2021 involved only orders against the two corporations, being SPG and RX Holdings.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "The next question is whether or not the applicants have established a case of unconscionable conduct. Relevantly, s 21 establishes a norm of conduct that a person must not in trade or commerce, in connection with supply or possible supply, or acquisition or possible acquisition, of goods or services to or from a person, engage in conduct that is, in all circumstances, unconscionable. In addition, s 21(3) provides that a court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention. But the intention of the Parliament was, as s 21(4)(a) states, that the section not be limited by the unwritten law relating to unconscionable conduct and that the section is capable of applying to a system of conduct or pattern of behaviour whether or not a particular individual is identified as having been disadvantaged by the conduct or the behaviour.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "In Australian Securities and Investments Commission v Kobelt (2019) 267 CLR 1 at 17–18 [15], Kiefel CJ and Bell J said that:\n[A] conclusion of unconscionable conduct requires not only that the innocent party be subject to special disadvantage, but that the other party must also unconscientiously take advantage of that special disadvantage. This has variously been described as requiring victimisation, unconscientious conduct or exploitation.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "Here, however, because their defence has been struck out, the respondents admit that they engaged in unconscionable conduct, it is not necessary to make a factual determination about that issue as if it were a contested matter.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "A person who wishes to conduct a franchise business of the scale thatMr Shepherd and Mr Steidle proposed and conveyed to Mr Watt that they had expertise in doing, ought to have been in a position to comply with the law and not take advantage of someone in Mr Watt’s and the other proprietors’ position. In Ketchell 236 CLR at 113 [29], Gummow ACJ, Kirby, Hayne, Crennan and Kiefel JJ said of s 51AC of the TPA, the analogue of what is now s 21(1) of the ACL:\nIt is of some significance that s 51AC was added at the same time as provision was made for the regulation of business conduct as between franchisor and franchisee. Sub-section (1) of that section states that, in trade and commerce, a corporation, in connection with the supply or possible supply of goods or services to a person, should not engage in conduct which is, “in all the circumstances, unconscionable”. The section is clearly relevant to a situation of disadvantage, in which a franchisee, not properly informed by a franchisor, might be.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "Here, Mr Shepherd and Mr Steidle, as the controlling minds at the relevant times of RX Holdings and, at least, by the time they became respectively a director on 22 November 2016 and secretary on 15 February 2017 of SPG, engaged in conduct in which they made many representations to Mr Watt as to the prospective financial resources and success that the new franchise enterprise would have available and obtain. On 21 November 2016, Mr Shepherd pressured Mr Watt into immediately signing the documents on or about that day to constitute SPG as the franchisor so that it could obtain funds by issuing the convertible note to Catalyst. However, that did not ever crystallise. They persuaded Mr Watt as to the “merits” of the franchise proposal and how the franchise arrangements would ultimately create a successful and profitable business for all concerned in order to induce him to use his influence, as he did, with the other proprietors of the individual pharmacies to transfer their business arrangements from SMSUT to SPG, to whom, through SMSUT, he already provided services and with whom he had an existing relationship.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "Mr Shepherd and Mr Steidle made numerous misleading representations to Mr Watt, including ones relating to future matters, without a reasonable basis such as the future financial success, availability of capital and financing resources that the franchise structure would yield, together with each of Mr Shepherd’s and Mr Steidle’s own personal resources or ability to raise funds and operate a successful franchising structure. The admitted facts in the statement of claim suffice to establish that they engaged in unfair tactics, within the meaning of s 22(1)(d) and (2)(d), by making the misleading representations intending that they would induce Mr Watt to influence the other proprietors of the individual pharmacies and used those unfair tactics against Mr Watt in both his personal capacity and as a person acting on behalf of their other targets, namely the other proprietors, in relation to the actual or possible supply, or acquisition of, goods from third parties that had better prices and the supply of services by or from the franchisor, SPG. That occurred in circumstances where cll 8, 9 and 10 of the Code had been contravened, for the reasons I have given. Those contraventions were substantial, not inconsequential.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "Moreover, by the time that it became apparent that the franchise business was not progressing to the development of any, let alone 100, new franchisees within six months, Mr Shepherd and Mr Steidle, and SPG, failed to act in good faith by making good the position and allowing the applicants to leave the arrangement or, at least, to have the fees reduced to an affordable level and so contravened cl 6 of the Code.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "For those reasons, I am satisfied that it would be against conscience for the respondents to have held the franchisees to the franchise agreements. Indeed, Mr Shepherd and Mr Steidle made many misleading representations that never came to fruition and, in the case of ones about future matters, that had no reasonable basis. Their tactics of using Mr Watt to persuade the other franchisees to go along with the proposal, without complying with cll 8, 9 and 10 of the Code, exposed the franchisees to a situation of vulnerability and disadvantage in the absence of the information and opportunity to seek independent advice, to which the Code entitled them, before entering into the franchise agreements, in trusting Mr Watt, who in turn had relied on what the respondents told him: see too Jonval Builders Pty Ltd v Commissioner for Fair Trading (2020) 104 NSWLR 1 at 17 [71]–[72] per Leeming JA, with whom Bathurst CJ and Meagher JA concurred.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "Consideration",
+     "Unconscionability"
+    ],
+    "text": "Mr Shepherd and Mr Steidle pressured Mr Watt into entering into the documents on 21 or 22 November 2016, on the representation that he needed to do so urgently, so that the convertible note would issue and funds would be available to pursue the franchise operation. That representation was made without reasonable grounds and was misleading. That representation also secured Mr Watt’s financial commitment to the scheme as they intended, so that Mr Shepherd and Mr Steidle could then use him to influence the other proprietors who were in a position of trusting Mr Watt and who were likely to rely on Mr Watt’s recommendations. Whether that reliance amounts to a sufficient special disadvantage that the respondents took advantage of unconscientiously may, in other circumstances, be a difficult question, but the deemed admissions make it unnecessary to consider here.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "Further relief"
+    ],
+    "text": "It will be necessary to work out what, if any, loss or damage the applicants, individually, have incurred between the time of entry into the franchise agreements and 30 June 2018. That calculation will involve the need to make just allowances for work or benefits that the respondents did or contributed to the applicants. That can now be done on the basis of the actual transactions that the parties entered into over a defined period and an examination of the basis on which any reward or allowance might be given to the respondents. That is preferable, and simpler, than making the assessment were SPG and or RX Holdings to make a less well defined claim of an offset based on a quantum meruit or the like.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "Further relief"
+    ],
+    "text": "Both s 87(2)(a) of the CC Act and s 243(a) of the ACL give the Court power to declare the franchise agreements void. It is not necessary for the Court, in making orders under powers that are available to it, to select which statutory source authorises such an order when, as here, both do. In my opinion, the appropriate order is to make orders declaring void each of the franchise agreements of the applicants on and after 30 June 2018 and to order that the website and business name be returned to the control of Mr Watt: see too Jonval 104 NSWLR at 13 [49], 16 [64].",
+    "judge": "RARES J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "For these reasons, I will declare that each of the franchise agreements in issue be voided on and from 30 June 2018. I will also order that RX Holdings do all things necessary on its part to, first, assign the ownership, including sole administrator rights, of the bushchemist.com.au website to Mr Watt and, secondly, place him in the position of registered owner of the ‘Bush Chemist’ business name. I will order that there be judgment for the applicants for damages to be assessed. Both sides agree that costs should be reserved.",
+    "judge": "RARES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding ninety-nine (99) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Rares.",
+ "associate": null,
+ "dated": "2021-07-23",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 922 of 2019\nApplicants\nFourth Applicant: | SYLVIA WATT\nFifth Applicant: | GLEN MCCALLUM\nSixth Applicant: | KERRIE PEACOCK\nSeventh Applicant: | ASBET PTY LTD ACN 003 317 404\nEighth Applicant: | BURROUGHS PTY LTD ACN 613 528 028\nNinth Applicant: | HERMIDALE HOLDINGS PTY LTD ACN 151 952 939\nRespondents\nFourth Respondent: | SUMMIT PHARMACY GROUP PTY LTD ACN 152 166 660"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Watt v Shepherd (No 2) [2021] FCA 826\n\n## Cover sheet\n\n**File number(s):** NSD 922 of 2019\n\n**Judgment of:** RARES J\n\n**Date of judgment:** 23 July 2021\n\n**Catchwords:** COMPETITION AND CONSUMER LAW – misleading and deceptive conduct – default judgment under r 5.23 of Federal Court Rules 2011 – unconscionable conduct – accessorial liability – inducement and reliance – unfair tactics – where Competition and Consumer (Industry Codes – Franchising) Regulation 2014 applied – where respondents made multiple misleading and deceptive representations to principal applicant – where respondents intended representations would induce principal applicant to invest and participate in franchising structure and influence other applicants to become franchisees – where representations were as to finance, future matters and profitability of franchise – where respondents lacked reasonable grounds for representations as to future matters – where respondents knew that principal applicant was in a position to influence other proprietors – where respondents knew fees payable by franchisees were not affordable or financially sustainable for franchisees – where respondents failed to make good earlier representations – where respondents failed to prepare or provide franchisees with disclosure documents, or receive from franchisees statement as to independent advice under cl 10 of Code – whether failure to provide documents required by the Code exposed franchisees to situation of vulnerability and disadvantage which was unconscionable conduct – representations made in trade or commerce within meaning of Competition and Consumer Act 2010 (Cth) and Australian Consumer Law – held: representations were misleading and deceptive (ss 18, 21 of the ACL); representations constituted unfair tactics and unconscionable conduct (ss 22(1)(g) and 22(2)(g) of the ACL); first, second and third respondents accessorially liable; franchise agreements voided; default judgment for damages to be assessed (ss 82, 87 of the CC Act and ss 236, 237 and 243 of the ACL)\n\n**Legislation:** Australian Consumer Law ss 4, 18, 21, 22, 22A, 236, 237, 243  \nCompetition and Consumer (Industry Codes – Franchising) Regulation 2014 reg 4, cll 5, 6, 8, 9, 10  \nCompetition and Consumer Act 2010 (Cth) ss 51ACB, 75B, 82, 87  \nFederal Court of Australia Act 1976 (Cth) ss 35P, 37M  \nFederal Court Rules 2011 rr 1.40, 5.23, 16.07  \nTrade Practices Act 1974 (Cth) ss 51AC, 51D\n\n**Cases cited:** Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175  \nAustralian Securities and Investments Commission v Kobelt (2019) 267 CLR 1  \nExpense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303  \nGiorgianni v The Queen (1985) 156 CLR 473  \nGore v Australian Securities and Investments Commission (2017) 249 FCR 167  \nGould v Vaggelas (1983) 157 CLR 215  \nJonval Builders Pty Ltd v Commissioner for Fair Trading (2020) 104 NSWLR 1  \nMaster Education Services Pty v Ketchell (2008) 236 CLR 101  \nRafferty v Madgwicks (2012) 203 FCR 1  \nWatt v Shepherd [2021] FCA 561  \nYorke v Lucas (1985) 157 CLR 661\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Regulator and Consumer Protection\n\n**Number of paragraphs:** 99\n\n**Date of hearing:** 8 July 2021\n\n**Counsel for the Applicants:** Mr R. Parsons\n\n**Solicitor for the Applicants:** Bray Jackson & Co.\n\n**Counsel for the Respondents:** Mr C. P. O’Neill\n\n**Solicitor for the Respondents:** Logie Smith Lanyon Lawyers\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 922 of 2019 |\n|---|---|\n| BETWEEN: | ESPIE IAN WATT<br>First Applicant<br>MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT<br>Second Applicant<br>WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)<br>Third Applicant |\n| AND: | PHILLIP CHARLES SHEPHERD<br>First Respondent<br>MARK ROBERT STEIDLE<br>Second Respondent<br>RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)<br>Third Respondent |\n\n| order made by: | RARES J |\n|---|---|\n| DATE OF ORDER: | 23 JULY 2021 |\n\n### THE COURT ORDERS THAT:\n\n1. It be declared that the whole of each of the contracts between the fourth respondent and:\n\nthe first applicant and the third applicant;\n\nthe first applicant, the fourth applicant and the fifth applicant;\n\nthe first applicant and fourth applicant;\n\nthe fourth applicant and sixth applicant;\n\nthe first applicant and sixth applicant;\n\nthe first applicant;\n\nthe first applicant and seventh applicant;\n\nbe void on and from 30 June 2018.\n\n2. The third respondent do all things necessary on its part to be done:\n\nto assign to the first applicant the ownership, including sole administrator rights, of the website ‘bushchemist.com.au’;\n\nto place the first applicant in the position of registered owner of the business name ‘Bush Chemist’.\n\n3. There be judgment against each of the respondents for damages to be assessed.\n\n4. Leave be granted to the applicants to file and serve any further evidence on which they propose to rely in relation to damages and appropriate relief, together with written submissions limited to five pages, on or before 13 August 2021.\n\n5. Leave be granted to the respondents to file and serve any further evidence on which they propose to rely in relation to damages and appropriate relief, together with written submissions limited to five pages, on or before 3 September 2021.\n\n6. Costs be reserved.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### RARES J:\n\n[1] On 20 May 2021, I struck out the defence and dismissed the cross-claim of the respondents/cross-claimants under s 37P(5) and (6) of the Federal Court of Australia Act 1976 (Cth) (the Federal Court Act) and r 5.23 of the Federal Court Rules 2011 because the respondents were in default of orders to file and serve their evidence: Watt v Shepherd [2021] FCA 561. That situation had persisted over 6 months and the default was not adequately explained. I required the applicants to file and serve submissions identifying the basis on which they sought relief in their originating application and any evidence in support by 3 June 2021, and the respondents to do the same by 17 June 2021. I stood the matter over to 25 June 2021.\n\n[2] On 25 June 2021, the applicants relied on evidence going to quantification of the loss or damage that was insufficient to allow the hearing to proceed on that occasion, and I stood the proceeding over to 8 July 2021, making orders for the provision of further evidence and materials by the applicants by 30 June 2021, and the respondents by 6 July 2021.\n\n[3] During the course of the hearing on 8 July 2021, the applicants sought to rely on supplementary material that reduced the quantum originally sought in the originating application from $1,009,510.74, to $548,629.40. It became apparent that that evidence was not sufficiently transparent to allow it to be understood or analysed and I rejected it.\n\n[4] As I described in Watt [2021] FCA 561 at [51], once the Court gives judgment in default under r 5.23, the plaintiff or applicant who seeks relief in the proceeding can do so in a variety of ways. In my opinion, because the matter is not straightforward, any damages to which the applicants are entitled ought to be assessed pursuant to an order under r 5.23(2)(d). That is because their claims for damages were not articulated or established as liquidated claims. Their quantification may involve an evaluative assessment process that cannot be conducted purely on the basis of the deemed admissions under r 16.07(2) of the allegations in the statement of claim, now that there is no defence.\n\n#### The issue\n\n[5] That leaves the question of what other relief, if any, can or ought be granted at the present time. The statement of claim is lengthy and somewhat intricate. I will recount the now admitted allegations in the statement of claim as facts in these reasons. The applicants based their claims upon the respondents’ contraventions of ss 18 and 21 of the Australian Consumer Law (the ACL) in Sch 2 to the Competition and Consumer Act 2010 (Cth) (the CC Act), s 51ACB of that Act and the Competition and Consumer (Industry Codes – Franchising) Regulation 2014 (the Code).\n\n##### The legislative context\n\n[6] The provisions of the Code are mandatory by force of reg 4(b) and the fact that it was made under s 51ACB of the CC Act, which provides that:\n\n> 51ACB Contravention of industry codes\n\n> A corporation must not trade or commerce, contravene an applicable industry code.\n\n[7] A franchise agreement, as defined in cl 5 of the Code, can be oral, in writing or implied. It is an agreement which a franchisor grants another person, the franchisee, a right to carry on the business of offering, supplying or distributing goods or services in Australia under a system or marketing plan substantially determined, controlled or suggested by the franchisor, or an associate of the franchisor, under which the operation of the businesses will be substantially or materially associated with a trademark.\n\n[8] Each party to a franchise agreement must act towards the other party with good faith within the meaning of the unwritten law, from time to time, in respect of any matter arising out of, or in relation to, the agreement itself and the Code (cl 6(1)). For the purposes of determining whether a party to a franchise agreement has contravened cl 6(1), the Court may have regard to whether a party acted honestly and not arbitrarily and whether the party cooperated to achieve the purpose of the agreement (cl 6(3)).\n\n[9] Clause 8 of the Code requires a franchisor to create a document called a disclosure document that relates to the franchise and complies with the provisions of the Code. The purpose of a disclosure document is to give to the prospective franchisee “information from the franchisor to help the franchisee make a reasonably informed decision about the franchise,” as well as giving the franchisee current information from the franchisor that is material to the running of the franchise business. The disclosure document must comply with the form in annexure 1 to the Code, provide the information it requires, and be signed by the franchisor or a director, officer or authorised agent of it. After entering into a franchise agreement, the franchisor must update the disclosure document within four months after the end of each financial year (cl 8(6)).\n\n[10] A franchisor must give to a prospective franchisee a copy of the Code, the disclosure document and a copy of the franchise agreement in the form in which it will be executed at least 14 days before the prospective franchisee enters into the franchise agreement (cl 9(1), (1A)).\n\n[11] A franchisor must not enter into a franchise agreement unless the franchisor has received from the prospective franchisee a written statement that the prospective franchisee has received, read and had a reasonable opportunity to understand the disclosure document and the Code (cl 10(1)). Before a franchise agreement is entered into, the franchisor must have received from the prospective franchisee signed statements that the latter has been given advice about the proposed franchise agreement or franchise business by an independent legal advisor, business advisor or accountant and, for each kind of those statements that the franchisor does not receive, it must instead receive a signed statement by the prospective franchisee that the latter has been given that kind of advice about the proposed franchise agreement or franchise business, or has been told that kind of advice should be sought but has decided not to seek it (cl 10(2)).\n\n[12] The ACL provides, in s 18, that a person must not, in trade or commerce, engage in conduct that is misleading or deceptive and, in s 21, relevantly, that:\n\n> 21 Unconscionable conduct in connection with goods or services\n\n> (1) A person must not, in trade or commerce, in connection with:\n\n> (a) the supply or possible supply of goods or services to a person; or\n\n> (b) the acquisition or possible acquisition of goods or services from a person;\n\n> engage in conduct that is, in all the circumstances, unconscionable.\n\n> …\n\n> (3) For the purpose of determining whether a person has contravened subsection (1):\n\n> (a) the court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention;\n\n> …\n\n> (4) It is the intention of the Parliament that:\n\n> (a) this section is not limited by the unwritten law relating to unconscionable conduct; and\n\n> (b) this section is capable of applying to a system of conduct or pattern of behaviour, whether or not a particular individual is identified as having been disadvantaged by the conduct or behaviour; and\n\n> (c) in considering whether conduct to which a contract relates is unconscionable, a court’s consideration of the contract may include consideration of:\n\n> (i) the terms of the contract; and\n\n> (ii) the manner in which and the extent to which the contract is carried out;\n\n> and is not limited to consideration of the circumstances relating to formation of the contract.\n\n[13] Section 22 provides for matters to which the court may have regard for the purposes of determining whether conduct is unconscionable within the statutory concept. Importantly, s 22(1) provides (and s 22(2) reflects the same concepts in relation to the supply or acquisition of goods or services from a third party)\n\n> 22 Matters the court may have regard to for the purposes of section 21\n\n> (1) Without limiting the matters to which the court may have regard for the purpose of determining whether a person (the supplier) has contravened section 21 in connection with the supply or possible supply of goods or services to a person (the customer), the court may have regard to:\n\n> …\n\n> (d) whether any undue influence or pressure was exerted on, or any unfair tactics were used against, the customer or a person acting on behalf of the customer by the supplier or a person acting on behalf of the supplier in relation to the supply or possible supply of the goods or services; and\n\n> …\n\n> (g) the requirements of any applicable industry code; and\n\n> …\n\n> (l) the extent to which the supplier and the customer acted in good faith.\n\n> (italic emphasis in original; bold emphasis added)\n\n[14] The ACL provides in ss 4 and 22A that if a representor does not have reasonable grounds for making a representation as to a future matter it is to be taken to be misleading for the purposes of ss 18 and 21 of the ACL.\n\n[15] Relevantly, ss 82 and 87 of the CC Act provide similar remedies to those in ss 236, 237 and 243 of the ACL. A person who suffers loss or damage “because of the conduct of another person” that, relevantly, contravenes ss 18 or 21 of the ACL “may recover the amount of that loss or damage by action against that other person” by force of s 236(1) (which is similar to s 82(1) of the CC Act). Relevantly, ss 237 and 243 provide:\n\n> 237 Compensation orders etc. on application by an injured person or the regulator\n\n> (1) A court may:\n\n> (a) on application of a person (the injured person) who has suffered, or is likely to suffer, loss or damage because of the conduct of another person that:\n\n> (i) was engaged in a contravention of a provision of Chapter 2, 3 or 4; or\n\n> (ii) constitutes applying or relying on, or purporting to apply or rely on, a term of a contract that has been declared under section 250 to be an unfair term;\n\n> …\n\n> (2) The order must be an order that the court considers will:\n\n> (a) compensate the injured person, or any such injured persons, in whole or in part for the loss or damage; or\n\n> (b) prevent or reduce the loss or damage suffered, or likely to be suffered, by the injured person or any such injured persons.\n\n> 243 Kinds of orders that may be made\n\n> Without limiting section 237(1), 238(1) or 239(1), the orders that a court may make under any of those sections against a person (the respondent) include all or any of the following:\n\n> (a) an order declaring the whole or any part of a contract made between the respondent and a person (the injured person) who suffered, or is likely to suffer, the loss or damage referred to in that section, or of a collateral arrangement relating to such a contract:\n\n> (i) to be void; and\n\n> (ii) if the court thinks fit – to have been void ab initio or void at all times on and after such date as is specified in the order (which may be a date that is before the date on which the order is made);\n\n> …\n\n> (d) an order directing the respondent to refund money or return property to the injured person;\n\n> (e) except if the order is to be made under section 239(1) – an order directing the respondent to pay the injured person the amount of the loss or damage;\n\n> …\n\n#### Background\n\n[16] Espie Watt has been a registered pharmacist since 1980. He built up a pharmacy business comprising nine retail pharmacies in regional New South Wales, six in the Australian Capital Territory (collectively the Watt Group) and a head office for the business conducted by the second applicant, Mazzawattie Pty Ltd which, from 28 May 2001, had been the trustee of the Snowy Mountains Services Unit Trust (SMSUT).\n\n[17] Mr Watt was the guiding mind and will of Mazzawattie, SMSUT and the ninth applicant, Hermidale Pty Limited, which, from June 1981, was the trustee of the Watt Family Trust in relation to the operations of the Watt Group. He was a partner in four of the pharmacies, at Tumbarumba, Batlow, Wagga Wagga and one of the two pharmacies at Tumut, and a shareholder in the seventh applicant, Asbet Pty Ltd, which owned a pharmacy at Young. The applicants seek relief now only in respect of the claims made in respect of seven of the pharmacy businesses, being the five above, a second one in Tumut and another in Cootamundra.\n\n[18] Mr Watt owned the business name, the Bush Chemist, which he later transferred to RX Holdings. He also owned the Bush Chemist trade mark and a leaf design. The Wagga Wagga and the Young pharmacies traded under the Bush Chemist brand name, and the other pharmacies were conducted under the brand name, Summit.\n\n[19] From about 2001, SMSUT provided head office services to the individual pharmacies in the Watt Group, as they were established over time. Those services were plant, equipment and telephone services, bookkeeping, secretarial and administrative services, stationery and consumables, debt collection services, group purchasing services, debtors and creditors management, banking, management and regulatory compliance, marketing, merchandising and website management. The website provided information about the individual pharmacies as well as general medical and pharmaceutical information.\n\n[20] From 1 July 2001, SMSUT accrued amounts approximating the service charges owed by SMSUT pharmacies as debtors and allowed them to be utilised for the business of the SMSUT pharmacies. From time to time Hermidale, as trustee for the Watt Family Trust, provided working capital to Mazzawattie by foregoing drawing profits, as unit holder in SMSUT, and the amounts of those foregone drawings were credited to a loan account of Hermidale in the books and records of SMSUT.\n\n[21] By April 2016, Mazzawattie also provided subleases of premises used in the operations of five pharmacies at Tumbarumba, Wagga, Batlow, and two in Tumut (the SMSUT pharmacies), finance for the individual pharmacies and labour and payment of employees for the SMSUT pharmacies. Mazzawattie also charged the SMSUT pharmacies for some services provided to them within the Watt Group head office operations. In addition, Mazzawattie charged the Cootamundra and Young pharmacies (and others) for providing bookkeeping, secretarial and administrative services performed by the head office employees at a fixed sum per hour. As at 21 April 2016, Mazzawattie owned vehicles and other plant and equipment used in the Watt Group and conducted the bushchemist.com.au website.\n\n[22] By 21 April 2016, SMSUT was carrying accrued debts in respect of the individual pharmacies of about $3.5 million, being trade receivables. Those had increased by 1 January 2017 to about $4.5 million, and remained at that figure two months later. According to SMSUT’s loan accounts, as at 21 April 2016 it owed the Watt Family Trust approximately $3.1 million, which increased by 1 March 2017 to about $3.4 million.\n\n#### Mr Watt’s dealings with Mr Shepherd and Mr Steidle\n\n[23] On about 21 April 2016, the first and second respondents, Phillip Shepherd and Mark Steidle, approached Mr Watt and made a proposal that interests associated with them would purchase the Watt Group head office operations. Thereafter, the three men engaged in a series of negotiations in which Mr Shepherd and Mr Steidle made multiple representations as to the future prospects and operation of a proposed franchising business that came to be conducted by the fourth respondent, Summit Pharmacies Group Pty Ltd (SPG). In broad overview, Mr Shepherd and Mr Steidle persuaded Mr Watt over about 11 months to help them establish a pharmacy franchising business run through SPG. A company controlled by Mr Shepherd and Mr Steidle, RX Holdings Pty Ltd, the third respondent, became the sole shareholder of SPG.\n\n[24] RX Holdings was incorporated on 20 May 2016. Each of Mr Shepherd and Mr Steidle acted in the conduct complained of on behalf of himself and as a director of RX Holdings from 20 May 2016, and SPG from not later than, in Mr Shepherd’s case, when he became a director on 22 November 2016 and, in Mr Steidle’s case, from not later than 15 February 2017, when he became SPG company secretary.\n\n[25] Mr Shepherd and Mr Steidle made multiple representations to Mr Watt to induce him to invest in and proceed with the franchising business and to influence all of the 15 pharmacies to which SMSUT provided head office and other services to become franchisees of SPG. Many of the representations were as to future matters and, by force of ss 4 and 22A of the ACL and the deemed admissions under r 16.07(2), were misleading because the representor did not have reasonable grounds for making them.\n\n[26] Importantly, on 21 April 2016, at a meeting at Tumbarumba:\n\n• Mr Shepherd and Mr Steidle represented to Mr Watt that he should set up a franchising structure comprising a company to be formed, as franchisor, that included the individual pharmacies in the Watt Group;\n\n• Mr Shepherd and Mr Steidle possessed a wealth of corporate experience and know-how that they would bring to operate the franchising structure;\n\n• Mr Shepherd would pay $2 million for the transfer of the Watt Group head office operation on the basis that the franchise group would be set up comprising the individual pharmacies as core franchisees and he would provide $2.08 million in cash to the franchisor as operating capital for the franchising structure;\n\n• Mr Watt would have a financial interest and participation in the franchisor, derive income from that participation and would be able, progressively, to reduce his work in relation to the individual pharmacies;\n\n• the franchisor would perform the head office operations in place of SMSUT;\n\n• Mr Watt and entities he wanted to nominate would be shareholders in the franchisor.\n\n[27] On 22 April 2016, Mr Shepherd sent an email to Mr Watt in which he represented that:\n\n• Mazzawattie, as trustee of SMSUT, should transfer the Watt Group head office functions to the franchisor;\n\n• Mr Shepherd would cause another company, Better Health Global Software Pty Ltd, controlled by him, Mr Steidle and Russell Beattie, to provide working capital of $2.08 million for the franchising structure;\n\n• they would cause Better Health to invest the $2.08 million in the franchisor by the purchase of shares to be issued in the franchisor;\n\n• Mr Shepherd had access to $200 million in investment funds to drive the growth of the enterprise, specifically by increasing the number of franchisees;\n\n• SMSUT would retain shares to the value of $2 million in the franchisor in consideration of its transfer of the head office operations;\n\n• Mr Shepherd would bring about an increase in the number of franchisees to create a valuable enterprise which would be owned by the franchisor;\n\n• within six months the franchisor would have obtained franchise agreements for 100 pharmacies, and within three years, 550 pharmacies.\n\n[28] In their communications on 21 and 22 April 2016, Mr Shepherd represented to Mr Watt that participation by the individual pharmacies as franchisees in the franchising scheme would deliver them financial benefits by enhancing buying power that would result in lower prices of products and that Mr Watt’s and Mazzawattie’s participation in that structure would deliver the benefits to them by increasing the availability of cashflow as required for use in individual pharmacies and in Mr Watt’s other business interests. At this time, each of Mr Shepherd and Mr Steidle knew, first, that the individual pharmacies were conducted by separate entities and not by Mr Watt alone and, secondly, that Mr Watt was in a position to influence the other proprietors of the individual pharmacies in relation to the franchising proposal and franchising structure, by reason of his personal and commercial relationships with them and his involvement in the affairs of SMSUT and the Watt Group.\n\n[29] On 20 June 2016, Mr Watt agreed in principle with Mr Shepherd that rather than holding shares in a franchisor, Mr Watt and his associated entities should subscribe for shares in RX Holdings in consideration of the transfer of the Watt Group head office operations from Mazzawattie to the franchisor and that RX Holdings would be the sole shareholder in the franchisor.\n\n[30] On about 30 June 2016, Mr Shepherd supplied Mr Watt with a constitution for SPG, a share subscription agreement in respect of SPG and a shareholders agreement in respect of RX Holdings.\n\n[31] On 4 July 2016, Mr Steidle informed Mr Watt in an email that Better Health had been replaced by RX Holdings for the purposes of the franchising proposal. Mr Steidle also told Mr Watt on that occasion that:\n\n• the value of the franchisor and the financing structure would be in the range of $900 million to $1.2 billion within five years;\n\n• RX Holdings had indicative commitments in place for equity capital raisings totalling $65 million to fund acquisition of additional pharmacy groups to grow and add to the number of franchisees in the franchising structure;\n\n• RX Holdings had in principle commitments for debt funds to fund growth of the franchise to 550 pharmacies in 30 months;\n\n• RX Holdings would provide a team to sign on further franchisees, had $20 million available from an institutional source to fund growth to 100 pharmacies within six months and was sourcing $200 million to fund the growth of the number of franchisees through an international investment fund;\n\n• RX Holdings had agreement in principle from an investor organisation for access up to USD250 million to fund the growth of the franchising structure and was raising $45–$65 million to fund the acquisition of a select group of pharmacy management companies and pharmacy information technology vendors to be incorporated into the franchising structure;\n\n• RX Holdings was raising $325 million to fund further growth of the franchising structures through a series of convertible notes.\n\n[32] SPG was a company that Mr Watt originally had within his corporate group. In early June 2016, Mr Watt had identified SPG to Mr Shepherd and Mr Steidle as the prospective franchisor. Commencing in about June 2016, Mr Shepherd and Mr Steidle were in a position to control, directly or indirectly, SPG, and in fact, exercised that control. That was because Mr Shepherd exerted influence over Mr Watt, by his conduct complained of in causing Mr Watt and SPG to pursue the franchising proposal from about June 2016.\n\n[33] As at 21 November 2016, SMSUT’s assets included its trade receivables, and its liabilities included loans due to the Watt Family Trust and another family trust, totalling approximately $4.5 million.\n\n[34] On 21 November 2016, Mr Shepherd represented in an email to Mr Watt that:\n\n• Mr Shepherd, Mr Steidle and or RX Holdings had a financial backer that Mr Shepherd identified as Catalyst Wealth and they were at the stage of getting Catalyst to sign a convertible note;\n\n• Mr Watt needed to sign SPG’s new constitution, the shareholders agreement and a share application for two million shares in RX Holdings by the eighth applicant, Burrows Pty Ltd;\n\n• Mr Watt needed to cause SPG to issue a share certificate for two million shares to RX Holdings;\n\n• it was very important that Mr Shepherd receive those documents urgently because that would ensure receipt that week of funds through the proposed convertible note for the pursuit of the franchising proposal.\n\n[35] In making the representations on 21 November 2016, Mr Shepherd intended to induce Mr Watt to provide the documents he requested for the purposes of drawing Mr Watt and the Watt Group into the franchising structure, procuring and ensuring their participation in it. Mr Watt signed and provided to Mr Shepherd those documents on the faith of the latter’s representations about the Catalyst convertible note. No funds were received through a convertible note from Catalyst.\n\n[36] In addition, in about October and November 2016, as part of the franchising proposal and structure, Mr Shepherd caused forms of franchise agreements to be created for the purpose of SPG entering into them as franchisor with the proprietors of the individual pharmacies as franchisees.\n\n[37] On about 14 December 2016, Mr Shepherd caused those franchise agreements to be provided to Mr Watt. Mr Shepherd intended that Mr Watt would procure their execution by or on behalf of the respective proprietors of the individual pharmacies. Mr Watt agreed to participate in setting up the franchising structure with SPG as the franchisor and implementing and carrying into effect the franchising proposal, acting on the faith of and in reliance on all of the representations described above. To this end, Mr Watt executed the share transfers, constitution of SPG, share subscription agreement and shareholder agreement, agreed to enable transfer of certain of the Watt Group head office operations to SPG as the franchisor, agreed to do what was necessary on his part to cause the individual pharmacies, in which he was interested, to become franchisees and executed franchise agreements in respect of them. He also agreed to the transfer to RX Holding and SPG of motor vehicles and office equipment, to RX Holdings becoming registered as the proprietor of the Bush Chemist business name and persuaded the other persons interested as proprietors of the individual pharmacies to participate as franchisees under the franchising structure. He procured them to execute the franchise agreements that Mr Shepherd had prepared. Acting under Mr Watt’s influence (although, precisely what Mr Watt said to the individual proprietors or co-directors was not pleaded), the other proprietors of the individual pharmacies agreed to participate in the franchising structure, and executed franchise agreements to give it effect.\n\n[38] In the defence that I struck out, it was common ground that SPG had not complied with the Code because it had not:\n\n• created or provided a disclosure document (until 18 July 2017) (cl 8);\n\n• given a copy of any disclosure document or the Code to any of the proprietors of the individual pharmacies before they executed the franchise agreement and it did not provide any information to them as required by cl 9 of the Code; and\n\n• received from any of them a signed statement as required by cl 10 of the Code;.\n\n[39] The franchise agreements contained a schedule which provided for the franchise fees that were to be payable by the franchisees. Each of Mr Shepherd, Mr Steidle, RX Holdings and SPG knew at relevant times that those fees were not affordable or financially sustainable for the individual pharmacies, and that their participation in the franchising structure would not result in financial benefit to those pharmacies unless there were a substantial reduction in those fees. Moreover, Mr Shepherd and Mr Steidle were aware, from their conversations with him, that Mr Watt had agreed to the incorporation of those fees in the franchise agreements on the basis and understanding that their structure and level was temporary in order to assist the franchisor with cashflow for the first six months of its operations, by which time the respondents would have obtained additional franchisees in accordance with Mr Shepherd’s and Mr Steidle’s representations that during that six month period the franchising structure would grow to 100 pharmacies. That would bring about a reduction of the franchise fees to an affordable and financially sustainable level and deliver financial benefits to the individual pharmacies. If the fees were not reduced after the first six months, the Watt Group and the individual pharmacies would be able to leave the franchise and revert to their prior arrangements.\n\n[40] On about 1 February 2017, RX Holdings published an information memorandum and provided it to Symbion Ltd. The information memorandum contained a balance sheet that stated, incorrectly, that the assets of SPG included, among others, the SMSUT trade receivables, then totalling $4,490,288. RX Holdings made that misleading representation in trade or commerce in order to induce Symbion to engage in commercial dealings with RX Holdings.\n\n[41] On about 1 March 2017, Mr Shepherd represented to Mr Watt that:\n\n• savings achieved by each individual pharmacy by participating in the franchising structure would exceed the total fees to be payable by that pharmacy to the franchisor;\n\n• the franchisor would reduce all the fees payable by the individual pharmacies as franchisees as the number of franchisees participating in the franchising structure increased, and that that would occur within six months of the commencement the franchise;\n\n• RX Holdings had the ability and available finance to ensure an increase in the number of franchisees, so that within six months of the commencement, the promised savings for each individual pharmacy would be achieved.\n\n[42] Mr Shepherd intended when making those representations that Mr Watt, himself, would be influenced by each of them to participate in the franchising structure, would communicate them to the proprietors of the individual pharmacies, and exert his influence on his co-proprietors, to induce them to participate in it. Mr Shepherd also intended that Mr Watt would be induced by those representations, as would the proprietors of the individual pharmacies, whom Mr Shepherd also intended would be induced by Mr Watt’s influence exerted on them, to do what was necessary to bring about their participation in the franchising structure, on the basis of the proffered franchising agreements, and, eventually, Mr Watt would use his influence to ensure that they executed the documents.\n\n[43] On 18 March 2017, Mr Shepherd proposed to Mr Watt that the latter participate in a scheme to avoid disclosing that RX Holdings’ representation in the information memorandum given to Symbion was misleading. As part of that scheme, Mr Shepherd proposed that Hermidale, as trustee of the Watt Family Trust, forego an amount of approximately $3.5 million standing to its loan account with SMSUT and that, in lieu of that asset, RX Holdings would issue Mazzawattie with 375,000 shares and about 1.5 million options for shares in RX Holdings to convert in proportion to the repayment of the SMSUT trade receivables by the individual pharmacies. Mr Shepherd represented to Mr Watt, on behalf of Hermidale, that RX Holdings’ grant of those shares and options would ensure that Mr Watt and Hermidale were appropriately recognised and remunerated in respect of the loan account by the receipt, in due course, of shares in RX Holdings, including upon the maturity of the options. The representation was founded on the proposition that the shares in RX Holdings would have a value commensurate with the loan account. Mr Watt acted in reliance on that representation and, on behalf of Hermidale, agreed to accept the issue of shares and options in lieu of its SMSUT loan account. The RX Holdings shares have never achieved any commercial value and RX Holdings asserts that it is entitled to be paid the SMSUT trade receivables as assignee of them.\n\n[44] From about 27 June 2017, Mr Watt made requests to the respondents to reduce the fees payable by the franchisees, in order to make good the representations that this would occur by that time and that the individual pharmacies would achieve the promised benefits.\n\n[45] Mr Watt, on behalf of all of the applicants, requested that the respondents cooperate in dismantling the franchising structure to reinstate the status quo as it had existed prior to them entering into it, but the respondents declined to do so and insisted on the applicants continuing to perform.\n\n[46] Each of the proprietors of the individual pharmacies has suffered, or is likely to suffer, loss or damage because of the respondents’ unconscionable conduct.\n\n#### Falsity of representations\n\n[47] The respondents did not agree to make any reduction in fees payable under the franchise agreements. They never provided the promised working capital of $2.08 million, never raised any of the amounts of money that Mr Shepherd and Mr Steidle represented could or would be raised, nor did they obtain any growth in the number of franchisees and never delivered any profit or net financial benefit to any of the applicants as franchisees or otherwise within the franchising structure.\n\n[48] Each of the representations complained of was made in trade or commerce within the meaning of the CC Act and ACL. To the extent that the representations about the available finance of $2.08 million, capital of $2 million, and the funding to flow from the convertible note and other claimed sources of finance, were with respect to future matters, each of those representations as to finance was misleading and deceptive within the meaning of s 18 of the ACL and false. The representations as to the future growth of the franchise business, the convertible note and the benefits that would flow to the individual pharmacy franchisees also related to future matters. In the circumstances, all of the representations as to future matters, accordingly, were misleading by force of ss 4 and 22A.\n\n[49] SPG did not act towards each of the proprietors of the individual pharmacies in good faith in respect of its dealings with them relating to the proposed franchise agreements, their negotiation or once they were entered into with SPG. SPG engaged in the conduct complained of in respect of it in trade or commerce and it contravened each of cll 6, 8, 9 and 10 of the Code within the meaning of s 51ACB of the CC Act. Each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in each of the contraventions of the CC Act and the Code by force of s 75B. Each of the respondents, severally, by engaging in the conduct of making the various representations and pursuing the franchising arrangements, in connection with the supply or possible supply, or acquisition or possible acquisition, of goods and services to or by the applicants, engaged in conduct that was unconscionable within the meaning of s 21 of the ACL.\n\n#### The unconscionable conduct claim\n\n[50] Relevantly, as I understand the pleading, the unconscionable conduct is said to consist of the contravention of s 21 because the franchise arrangement was intended, first, to supply services, namely head office services, to the individual applicants’ pharmacy businesses and, secondly, to relate to the acquisition, or possible acquisition, of goods from suppliers to the pharmacies by attracting reduced purchase prices that would be achievable through the increased substantial buying power if the representations were made good.\n\n[51] In effect, the making of the misleading representations as to what would happen through the operation of the franchising structure and the ability of Mr Shepherd, Mr Steidle, RX Holdings and, when they came to be in control of it, SPG, to access finance and capital in order to grow and develop the franchise structure and business, constituted unfair tactics within the meaning of s 22(1)(d) and (2)(d) of the ACL. That is because, by making those misleading representations, the respondents used tactics against Mr Watt, as the customer, or against him in respect of the pharmacies in which he was interested or as a person acting on behalf of the other pharmacies, in relation to the supply or possible supply, or acquisition or possible acquisition of, goods and services the subject of the franchising proposal. The tactics were unfair because the misleading representations caused, as they were intended, Mr Watt to use his influence with the proprietors of the individual pharmacies to induce them to enter into franchise agreements and become part of the franchise structure without accurate information about those matters or any of the safeguards that compliance by the respondents with cll 6, 8, 9 and 10 of the Code would have ensured.\n\n[52] The applicants seek orders that their seven respective franchise agreements be declared void from 30 June 2018 and that RX Holdings do all things necessary on its part to assign to Mr Watt the ownership, including sole administrator rights, of the website ‘bushchemist.com.au’ and to place him in the position of registering the business name Bush Chemist. They seek orders for payment of money, being the asserted loss of each of the seven pharmacies (that I found could not, on the evidence, be proved at the hearing on 8 July 2021) and the trade receivables, or the assignment to Mazzawattie of the right to the trade receivables. These are claims that fall within ss 236, 237(1) and 243(d) and (e) of the ACL.\n\n[53] Once a person has suffered loss or damage because of conduct that contravenes ss 18 and or 21 of the ACL, s 236(1) is the gateway to relief of the kind that ss 237 and 243 authorises, namely, further orders to enable the person to obtain appropriate relief.\n\n#### The respondents’ submissions\n\n[54] The respondents argued that the applicants have twice now had the opportunity to and attempted, but failed, to prove loss or damage, because their evidence was not admissible. The respondents submitted that the applicants did not apply for orders striking out their defence and cross claim and proceeding to default judgment that I decided to do on my own motion. They argued that the applicants should strictly adhere to the Rules because they are seeking to have the benefit of the order under r 5.23(2). They contended that that rule provides that an applicant may apply to the Court for orders based on a default and that the Court could not exercise that power absent such an application. The respondents submitted that the overarching purpose of the civil practice and procedure provisions in s 37M of the Federal Court Act and the Rules would not be achieved by affording the applicants any further opportunity to adduce evidence in an admissible form.\n\n[55] The respondents argued that the statement of claim did not properly particularise how the bare assertion of accessorial liability against Mr Shepherd, Mr Steidle and RX Holdings could be made out for breaches of the Code. They contended that, for accessorial liability to be established, the applicants had to plead the facts that attracted one or other basis for the particular respondent to be an accessory under s 75B of the CC Act if they wanted relief against him or it under s 87 for a contravention of the Code by application of s 51ACB. They submitted that the statement of claim did not allege against Mr Shepherd, Mr Steidle or RX Holdings how he or it had contravened, with knowledge, each provision of the Code (cll 6, 8, 9 and 10) on which the applicants relied, and referred to Yorke v Lucas (1985) 157 CLR 661.\n\n[56] The respondents contended that the statement of claim lacked precision and used a scattergun approach, pleading a large number of individual representations made over a lengthy time period, all of which were directed to or acted on only by Mr Watt. They submitted that the pleading used Mr Watt’s actions indirectly and in a way that is unclear, to allege that he had caused the other proprietors of the individual pharmacies to enter into franchise agreements, yet the pleading did not reveal anything that Mr Watt said or did to influence, if he did, any of the other individual proprietors, his co-directors or partners, to enter into the franchise agreements. They submitted that it is impossible to know what Mr Watt did and if it were causative of the actions of the individual pharmacies because of any conduct of the respondents. They argued that, because all the representations are now deemed to have been made and to be misleading, the pleading does not reveal what, if any, role any particular representation played in the decision-making processes on the applicants’ side.\n\n[57] The respondents argued that both Mr Shepherd and Mr Steidle must have made the representations only on behalf of the two corporate entities and not as individuals, and that, therefore, for the purposes of the ACL claims, their role must also have been accessorial, so that they cannot be liable as principals, yet the applicants did not plead that they were accessories for the ACL claims.\n\n[58] The respondents contended that the franchise agreements should be declared void ab initio under s 243(a) of the ACL or s 87(2)(a) of the CC Act. They submitted that this would be the only appropriate remedy because it would undo the whole of the transaction and reverse all of the consequences of any misleading or unconscionable conduct. They argued that there was no proper basis to grant the applicants the relief sought orally on 8 July 2021 of avoiding the franchise agreements from 30 June 2018.\n\n#### Consideration\n\n[59] In my opinion, the respondents’ argument that the power under r 5.23(2) can only be exercised on application by a party is misconceived. Rule 1.40 provides that the Court, at any stage in a proceeding, may exercise a power mentioned in the Rules on its own initiative or on the application of a party. The Rules have been drafted on the basis that the Court is in control of the case management of proceedings. That construction of the Rules is consistent with Pt VB of the Federal Court Act, the analogues of which were construed in Aon Risk Services Australia Ltd v Australian National University (2009) 239 CLR 175 and Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303.\n\n[60] Importantly, s 37P(5) and (6) provide that if a party fails to comply with a direction given by the Court, the Court can make such order or direction it thinks appropriate and, in particular, can strike out, amend or limit any part of a party’s defence and award costs, including on an indemnity basis. Moreover, those provisions do not affect the other powers that the Court has to deal with a party’s failure to comply with a direction (s 37P(7)).\n\n[61] Nonetheless, there is some force in the respondents’ complaint that, on 30 June 2021, the applicant provided draft orders, together with their latest submissions and evidence, but those did not specify any date from which they sought that the franchising agreements be voided under s 243(a) of the ACL (or s 87(2)(a) of the CC Act). However, both sides have been able to fully argue that matter and no prejudice has been occasioned to the respondents by doing so.\n\n[62] I do not consider that the applicants have been treated any more favourably than the respondents who, as I noted in my earlier reasons, themselves have had numerous extensions of time in which to serve their outlines of evidence. But, even when the hearing was to take place on 20 May 2021 concerning whether their defence and cross-claim ought be struck out because of their continuing default in complying with orders to serve those outlines, the respondents still had not remedied that position, many months after the original orders had been made and they did not provide any adequate explanation for their default.\n\n[63] The purpose that the applicants were seeking to achieve by the use of the inadmissible affidavits as to quantum was slightly different. That was to avoid a hearing to assess damages by trying to utilise a quicker path home. True it is, they failed in that endeavour and that exercise has taken time and expense, which can be compensated by costs. But it remains to be seen whether, in fact, the latest attempt at quantification, albeit that I have rejected its admissibility here, is ultimately established at a hearing to assess damages.\n\n[64] The principal question is whether the applicants’ pleaded case provides a platform for granting the relief ultimately sought on 8 July 2021, namely the avoidance of the franchise agreements and the restoration of the website and business name.\n\n[65] In my opinion, the respondent’s submission is misconceived that it is necessary for any particular representation to be identified and then causally connected to the entry into a relevant agreement. Here, because of the deemed admissions, as a result of the striking out of the defence, the facts are that all of the representations were made and were misleading and, in respect of those representations that related to a future matter, were made without reasonable grounds.\n\n[66] In Gould v Vaggelas (1983) 157 CLR 215 at 236, Wilson J said:\n\n> 1. Notwithstanding that a representation is both false and fraudulent, if the representee does not rely upon it he has no case.\n\n> 2. If a material representation is made which is calculated to induce the representee to enter into a contract and that person in fact enters into the contract there arises a fair inference of fact that he was induced to do so by the representation.\n\n> 3. The inference may be rebutted, for example, by showing that the representee, before he entered into the contract, either was possessed of actual knowledge of the true facts and knew them to be true or alternatively made it plain that whether he knew the true facts or not he did not rely on the representation.\n\n> 4. The representation need not be the sole inducement. It is sufficient so long as it plays some part even if only a minor part in contributing to the formation of the contract.\n\n> (emphasis added)\n\n[67] As Wilson J held, a false representation need not be the sole inducement to cause the representee to act on it. It suffices so long as the representation played some, if only a minor, part or made a contribution to the formation of the contract in issue.\n\n[68] The real question here is whether the applicants’ pleading based on the respondents’ unfair tactics of making misleading or false representations to Mr Watt, within the meaning of s 22(1)(d) or (2)(d), can establish that, in fact, each respondents’ conduct was unconscionable, in respect of the part he or it played in, first, Mr Watt’s decisions and his inducement of the other individual pharmacy proprietors to enter into the franchise structure and franchise agreements and, secondly, SPG’s refusal to make good the earlier representations by reducing the fees or introducing any significant benefits for the franchisees.\n\n[69] While each of Mr Shepherd and Mr Steidle acted in his capacity as an officer of each of RX Holdings and SPG, he was also acting for his own benefit and on his own behalf in making each of the representations. As the principles applied in Gould 157 CLR 215 make clear, albeit in the context of fraudulent representations, the mere fact that an individual who is a representor uses a corporate vehicle to achieve an objective for him or her does not free the representor from direct responsibility for making a misleading statement or engaging in conduct that is actionable, such as being unconscionable, and that is a cause of another person being induced to act to his, her or its detriment. As Wilson J said in Gould 157 CLR at 238:\n\n> They accord with sound principle, namely, that a plaintiff carries the burden of establishing every element of his cause of action. At the same time, one can readily understand why it is in cases of deceit that a tribunal whose duty it is to find the facts may require a defendant to make some answer to the case that is put against him. Such cases are of a kind where in the general experience of mankind the facts speak for themselves. Where a plaintiff shows that a defendant has made false statements to him intending thereby to induce him to enter into a contract and those statements are of such a nature as would be likely to provide such inducement and the plaintiff did in fact enter into that contract and thereby suffered damage and nothing more appears, common sense would demand the conclusion that the false representations played at least some part in inducing the plaintiff to enter into the contract. However, it is open to the defendant to obstruct the drawing of that natural inference of fact by showing that there were other relevant circumstances.\n\n> (emphasis added)\n\n[70] Brennan J said (157 CLR at 251–252):\n\n> If the desire for ownership be sufficiently intense, a prospective purchaser is wont to discount the doubts and suspicions that might otherwise hold him back from acting on anything contained in a vendor's representation and, by giving credence to at least part of what he has been told, to tip the scales in favour of buying. If the representor leads the representee to believe any part of the representation which is, and is known by the representor, to be untrue and the representee acts on that belief and suffers damage, the representor does not escape liability because the representee did not believe the representation in full. If the representee's desire to own what was for sale leads to the giving of some credence to the representation which would not otherwise have been given, the representee's self-induced gullibility is no defence to the representor. A knave does not escape liability because he is dealing with a fool.\n\n> (emphasis added)\n\n[71] In Gould 157 CLR 215, Mr Vaggelas fraudulently represented to Mr and Mrs Gould that his company, South Molle Island Pty Ltd, was running a very profitable island resort in order to induce them to purchase it through their company. Brennan J said (157 CLR at 253–254, and see at 219–220 per Gibbs CJ, at 231–232 per Murphy J, at 235–236 per Wilson J):\n\n> If a defendant, D, by fraudulent misrepresentations made to a plaintiff, P, induces P to lend money to a worthless company, C, whereby the money lent is lost, D is liable for damages in deceit to P. That is clear enough where C is under D's control, and there is no difference in principle when C is not under D's control. If D's fraudulent misrepresentations induce C to part with its assets to purchase a worthless property and induce P to lend money to C in order that C may purchase the property, D is liable for damages in deceit to each of P and C. To C, whom he has induced to part with its assets in exchange for the worthless property; to P, whom he has induced to part with the money lent in exchange for a debt owed by C which C is unable to pay. The causes of action vested in P and C are distinct. D's liability arises, in one case, from his inducing C to purchase property, in the other from his inducing P to lend money to C. In one case, it is the purchase of the worthless property that causes the loss, in the other it is the lending of money to a worthless company. The distinction between the causes of action and the measure of damages is clearer if the property in the one case and the debt in the other are not worthless. Then the difference between the purchase price and the value of the property is, prima facie, the measure of C's damages, while the difference between the money lent and the value of the debt is, prima facie, the measure of P's damages.\n\n> (emphasis added)\n\n[72] Here, Mr Shepherd and Mr Steidle were in an analogous position to that of D, in Brennan J’s example and SPG, under their control, was in the position of C. Each man is liable for what he said or his conduct that induced Mr Watt to act as he did, and as each intended he would, including to influence the proprietors of the individual pharmacies. While, of course, this is not a case where the applicants claim that any of the respondents made a fraudulent representation, the principles in Gould 157 CLR 215 about the liability of a representor and the circumstances in which a representation will be found to have induced the representee to act apply to the representations generally, including ones that are objectively misleading or deceptive.\n\n[73] In my opinion, the admitted case on the pleading thus discloses the potential for each of Mr Shepherd and Mr Steidle to be found personally liable for his respective conduct in making the representations attributed to him. The question of what relief ought to be granted against each of them does not arise at this point in time because it involves the need to determine what, if any, damages are to be assessed and the basis on which they are awarded.\n\n[74] At the moment it is clear, and the respondents admitted in their defence before it was struck out, that they had contravened the provisions of cll 8, 9 and 10 of the Code. In Master Education Services Pty v Ketchell (2008) 236 CLR 101, Gummow CJ, Kirby, Hayne, Crennan and Kiefel JJ considered the earlier form that the present s 51ACB took in the Trade Practices Act 1974 (Cth) (TPA) as s 51D. Their Honours held that the analogue to s 51ACB does not make performance of a franchise agreement unlawful because it was entered into without compliance under the Code (at 108 [15]). Rather, they said that the prohibition in that section “is directed to securing compliance by franchisors with requirements of industry codes and the consequence of a contravention is the grant of remedies provided in Pt VI of the Act” (at 109 [18]), that include the remedies in ss 82 and 87. Now, in addition, if there were unconscionable conduct, s 22(1)(g) and (2)(g) of the ACL give the requirements of an industry code a role to play in determining whether conduct is unconscionable in contravention of s 21. Their Honours noted that cl 2 of the Code provides that its purpose is to regulate the conduct of participants in franchising towards one another. They said (at 111–112 [25], 113 [29]):\n\n> The purposes of the scheme of Pt IVB and the Code in question are to regulate the conduct of persons in the franchising industry in order to improve business practices, to provide some protection to franchisees proposing to enter into franchise agreements and to decrease litigation. Those purposes are sought to be achieved, in large part, by ensuring that a prospective franchisee is in a position to make an informed decision about the operation of the franchise and is encouraged to take independent advice before entering into a franchise agreement. The scheme is largely directed to the franchisor, who is obliged to provide that information and advice. Section 51AD may be seen to promote compliance with the Code, by providing, in effect, that non-compliance will amount to a contravention, for which there are remedies available under Pt VI. It is no part of the scheme, and unnecessary to the purposes mentioned, to strike down a contract made by a non-complying franchisor. It is sufficient for the purpose of the scheme that a franchisor is aware of the obligations imposed by the Code and that action may be taken by a franchisee under the Act with respect to a contravention of s 51AD.\n\n> …\n\n> The 1998 Act also effected amendments to Pt IVA of the Trade Practices Act. The Part at that time contained s 51AA, which provided in general terms that a corporation must not engage in conduct that is unconscionable. It is of some significance that s 51AC was added at the same time as provision was made for the regulation of business conduct as between franchisor and franchisee. Sub-section (1) of that section states that, in trade and commerce, a corporation, in connection with the supply or possible supply of goods or services to a person, should not engage in conduct which is, “in all the circumstances, unconscionable”. The section is clearly relevant to a situation of disadvantage, in which a franchisee, not properly informed by a franchisor, might be.\n\n> (emphasis added)\n\n[75] Their Honours held that where a person to whom the TPA applies did not observe the norms of conduct then in ss 51AC and 51D (now in s 21 of the ACL and s 51ACB of the CC Act) a person who suffers loss or damage by (s 82(1) of the CC Act) or because of (s 236 of the ACL) that conduct is entitled to avail themselves of the flexible remedies in ss 236–243 of the ACL and Pt VI (and relevantly here, ss 82 and 87) of the CC Act (at 114 [31], 117 [38]–[39]). They concluded (at 118 [41]) with respect to cl 11 of the then version of the Code which is now the analogue of the present cl 10:\n\n> It is possible to agree with the views of Mason P for the Court of Appeal [2007] NSW 161 at [44] that the “franchisor’s breach of cl 11 [of the Code]” was not “inconsequential” and that the “disclosure requirements of [the] Code were clearly enacted for the protection of prospective licensees” without embracing his Honour’s conclusion that the remedy implicit in the circumstances was that provided by the common law. The context of the Act itself, and the range of remedies that it affords for an established breach of an industry code, produce the conclusion that the better view of the legislation is that propounded by the appellant. It is that view to which this Court should give effect.\n\n> (emphasis added)\n\n[76] Here, the contraventions of cll 6, 8, 9 and 10 of the Code were not accidental or inconsequential. The respondents created or brought about the whole franchising structure, with Mr Watt’s cooperation that they obtained on the basis of representations that Mr Shepherd and Mr Steidle made to him with the intention of him procuring the other proprietors to enter into franchise agreements. The substantial number of representations that they made are all the more significant because, had they been put into a disclosure document and had the franchisees, including Mr Watt, had an opportunity to seek independent advice on them, the basis of the franchising structure would have been revealed, including the absence of any financial backing for it and the reason for the high level of fees. Had a disclosure document been provided to Mr Watt and the other franchisees they may or may not have gone ahead to enter into the franchise agreements.\n\n[77] The failure to obtain a statement from a franchisee in compliance with what is now cl 10 is not inconsequential: Ketchell 236 CLR at 118 [41]. But, here, the respondents’ failure went far beyond the failure at issue in that case. They failed, first, to provide a copy of the Code, secondly, to provide a disclosure document of any kind which would have outlined what was sought to be achieved by the franchising arrangements and the basis on which their statements and representations were made, and, thirdly, to obtain a statement under cl 10. In all of those circumstances, having regard to the significant contraventions of cll 6, 8, 9 and 10 of the Code, where the applicants do not wish to remain bound to the franchise agreements and have suffered loss or damage by having to pay fees at a level that are not affordable or financially sustainable and that resulted in them not receiving any substantive financial benefit, they should not be held to those agreements. In my opinion, the only outcome possible is that each of the franchise agreements should be declared void.\n\n[78] The applicants seek that the declaration of avoidance under s 87(2)(a) of the CC Act or s 243(a) of the ACL operate from 30 June 2018. I reject the respondents’ argument that I should declare the agreements to be void ab initio. The applicants have traded under these agreements with third parties, who are not involved in SPG’s contraventions. They wish to have damages or other statutory compensation orders made as against the respondents, who caused them loss or damage that they seek to quantify in respect of the period over which they traded. In my opinion, although the statement of claim does not set out a trading period, it is clear from the struck out defence that by 18 June 2018 SPG returned the motor vehicles and plant and equipment that Mazzawattie had made over to it. I infer that, at about this stage, the relationship had or was about to come to an end and it is appropriate to use 30 June 2018 as the time to formalise that result.\n\n##### Accessorial liability\n\n[79] The applicants did not separately plead each element as part of their accessorial liability claims under s 75B of the CC Act. Rather, in par 92 of the statement of claim they alleged that, by reason of earlier paragraphs that pleaded that each of Mr Shepherd and Mr Steidle acted on his own behalf and was an officer of both RX Holdings and SPG (pars 9–12) and that they made the representations to Mr Watt on 21 and 22 April 2016 (pars 29–34) about the franchising proposal and a structure for it, each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in the “said contraventions” within the meaning of s 75B.\n\n[80] When I delivered my reasons ex tempore at the conclusion of argument on 8 July 2021, I thought there was some force in the respondents’ argument that the applicants did not plead a basis to find that Mr Shepherd, Mr Steidle and RX Holdings were accessorily liable for any contravention by SPG of cl 6 of the Code, namely that it had not acted towards the applicants with good faith. I also said erroneously that I was not satisfied that Mr Shepherd and Mr Steidle were accessorily liable for any contravention of the Code, despite having raised with counsel for the respondents in oral argument that each knew all of the essential ingredients of the pleaded contraventions of cll 8, 9 and 10; namely, that none of the requirements that a franchisor had to comply with in those clauses was satisfied.\n\n[81] On 9 July 2021, because the orders that I pronounced orally late on 8 July 2021 had not been entered and those mistakes were in obiter dicta in my reasons that did not reflect my intention correctly or affect the orders that I made then and will make again now, my associate informed the parties that I had vacated the orders and would remake them when delivering these reasons. Subsequently, I have also reconsidered my obiter dicta in relation to the issue of accessorial liability in respect of cl 6 of the Code.\n\n[82] Because of the place of par 92 in the pleading, it is reasonable to read it, as the respondents did in the oral argument, in the sense that the allegation related to SPG’s contraventions of s 51ACB and cll 6, 8, 9 and 10 of the Code pleaded immediately before in pars 78–92. However, par 92 is not well pleaded and this is what initially caused me to consider that the applicants had not pleaded a sufficient case for finding that Mr Shepherd, Mr Steidle and RX Holdings were accessories under s 75B.\n\n[83] The position of an individual in respect of a contravention of an applicable industry code under the CC Act, ordinarily, is unlike that under the ACL. Under the ACL, ss 18 and 21 establish norms of conduct for a person (i.e. both individuals and corporations), whereas the CC Act establishes a norm of conduct in s 51ACB only for a corporation. Thus, in order to be accessorily liable under s 75B of the CC Act, the alleged accessory must have, first, participated intentionally in the principal’s contravention and, secondly, had knowledge of the essential matters that made up that contravention. That is, the accessory must have had actual knowledge of all of the facts of the contravention: Giorgianni v The Queen (1985) 156 CLR 473 at 500, 504–505 per Wilson, Deane and Dawson JJ; Yorke 158 CLR at 670 per Mason ACJ, Wilson, Deane and Dawson JJ; Gore v Australian Securities and Investments Commission (2017) 249 FCR 167, 171–173 [6]–[16], 178–179 [34]–[35] per Dowsett and Gleeson JJ (citing Rafferty v Madgwicks (2012) 203 FCR 1 at 63–64 [257]–[258] per Kenny, Stone and Logan JJ), and [168]–[176] per Rares J.\n\n[84] Here, s 75B of the CC Act required that for an accessory to be knowingly concerned in a contravention, of the Code and s 51ACB, by a corporation, here SPG, he, she or it must have knowledge of all of the material elements constituting the corporate principal’s contravention. In Rafferty 203 FCR at 63–64 [255]–[258], Kenny, Stone and Logan JJ said of the former s 51AD, an analogue of the present s 51ACB:\n\n> Whether there is any merit in the Rafferty parties’ submission that it was unnecessary for them to establish that Madgwicks knew the Code applied depends in the first place upon the correct identification of the essential elements constituting the contraventions of s 51AD of the TPA by T2SA and Embleton. With reference to the RA [Rights Agreement], we consider that these elements were: (1) a corporation (2) acting in trade and commerce (3) entering a franchise agreement (3) without giving a copy of the Code and a disclosure document to the prospective franchisee 14 days before the franchisee enters the franchise agreement; and/or (4) without receiving written statements from the prospective franchisee to the effect that the franchisee has received, read and had a reasonable opportunity to understand the disclosure document and the Code, and has been given advice by an independent lawyer, business advisor or accountant about the proposed franchise agreement, or has been told that that kind of advice should be sought and has decided not to seek it. With reference to the HOA [Heads of Agreement], the elements were much the same, save that the third element was the entering into an agreement to enter into a franchise agreement.\n\n> That is, on the above analysis, an essential element constituting the contraventions of s 51AD in this case was the fact that the franchisor (T2SA, in the case of the RA and Embleton, in the case of the HOA) entered into a franchise agreement, or an agreement to enter into a franchise agreement. The authorities recognise that an essential fact may be the presence or absence of a document having a particular legal significance: see Giorgianni at 483-484 per Gibbs CJ, citing Callow v Tillstone (1900) 83 LT 411 (a veterinary surgeon was not an accessory to a butcher’s selling unsound meat where a certificate had been honestly but negligently given by the veterinary surgeon that meat was sound and healthy and even though the effective cause of the principal offence by the butcher was the negligent certification) and Smith v Jenner [1968] Crim L R 99 (a driving instructor was not an accessory to a learner driver’s offence of driving without a licence where the instructor had no knowledge that licence had expired).\n\n> Where the Franchising Code is the applicable industry code, the existence of a franchise agreement, or an agreement to enter into a franchise agreement is the sine qua non of any contravention of s 51AD. Thus in order for Madgwicks to hold the requisite intent, Madgwicks had to be aware that T2SA in the case of the RA, and Embleton in the case of the HOA, were entering into a franchise agreement and an agreement to enter a franchise agreement respectively. Consistently with Rural Press, Madgwicks was not required to make the correct legal judgment that the Code applied, nor was Madgwicks required to know that the relevant conduct was a contravention of s 51AD. However, Madgwicks was required to know that the RA was a franchise agreement and the HOA was an agreement to enter a franchise agreement.\n\n> Accordingly, having regard to our identification of the essential elements of the s 51AD contraventions in this case, we accept, as the Rafferty parties submitted, that, in order to establish that Madgwicks fell within s 75B as a person involved in the contraventions of s 51AD by T2SA and Embleton, it was not necessary for the Rafferty parties to establish that Madgwicks knew that the Code applied to or in relation to the RA and the HOA. It was, however, necessary for Madgwicks to know, with respect to the RA, that T2SA was entering into a franchise agreement and, with respect to the HOA, that Embleton was entering into an agreement to enter into a franchise agreement. In view of our conclusion on this point, it is unnecessary to address the submissions of the Rafferty parties that essential elements of a contravention could only be composed of matters of fact and not matters of fact and law.\n\n> (emphasis added)\n\n[85] Initially, I was not satisfied, on the basis of the pleading, that the applicants had shown that each of Mr Shepherd, Mr Steidle and RX Holdings was a person involved in SPG’s contravention of cll 6, 8, 9 or 10 of the Code within the meaning of s 75B, because the material facts were not pleaded clearly. However, for the reasons discussed during oral argument, each of Mr Shepherd, Mr Steidle and through them, RX Holdings, knew the objective facts that made up the contraventions by SPG, namely, that there was no disclosure document, that no such document or a copy of the Code or information required in cl 9 had been given to any proposed franchisee and SPG had not received a statement from any proposed or actual franchisee under cl 10. Accordingly, by allowing SPG to enter into and proceed with the franchise agreements, each of them was knowingly concerned in SPG’s contraventions of cll 8, 9 and 10 by force of s 75B(1)(c).\n\n[86] On reflection, read in context, par 92 of the statement of claim also referred to the knowing involvement of each of Mr Shepherd and Mr Steidle in SPG’s failure to act in good faith towards the applicants based on its failure to reduce the franchise fees once it became evident that the future representations had not been made good. Mr Shepherd and Mr Steidle had represented as individuals, and on behalf of SPG, that the franchise structure would grow quickly and that, as a result, the fees were temporary and would be reduced within 6 months. Having told Mr Watt this and secured his agreement to include the higher fees in the franchise agreements, that they intended him to use his influence to persuade the other proprietors to enter into them, good faith required Mr Shepherd and Mr Steidle to cause SPG to make good the position when the 6 months had elapsed. It follows that each of Mr Shepherd and Mr Steidle was also knowingly concerned in SPG’s contravention of cl 6 of the Code by not causing it to make good that position.\n\n[87] Whether that conduct has an effect on what ultimately is available as final relief against them can be determined at a time of the assessment of damages, because the orders that the applicants could obtain immediately on 8 July 2021 involved only orders against the two corporations, being SPG and RX Holdings.\n\n##### Unconscionability\n\n[88] The next question is whether or not the applicants have established a case of unconscionable conduct. Relevantly, s 21 establishes a norm of conduct that a person must not in trade or commerce, in connection with supply or possible supply, or acquisition or possible acquisition, of goods or services to or from a person, engage in conduct that is, in all circumstances, unconscionable. In addition, s 21(3) provides that a court must not have regard to any circumstances that were not reasonably foreseeable at the time of the alleged contravention. But the intention of the Parliament was, as s 21(4)(a) states, that the section not be limited by the unwritten law relating to unconscionable conduct and that the section is capable of applying to a system of conduct or pattern of behaviour whether or not a particular individual is identified as having been disadvantaged by the conduct or the behaviour.\n\n[89] In Australian Securities and Investments Commission v Kobelt (2019) 267 CLR 1 at 17–18 [15], Kiefel CJ and Bell J said that:\n\n> [A] conclusion of unconscionable conduct requires not only that the innocent party be subject to special disadvantage, but that the other party must also unconscientiously take advantage of that special disadvantage. This has variously been described as requiring victimisation, unconscientious conduct or exploitation.\n\n[90] Here, however, because their defence has been struck out, the respondents admit that they engaged in unconscionable conduct, it is not necessary to make a factual determination about that issue as if it were a contested matter.\n\n[91] A person who wishes to conduct a franchise business of the scale thatMr Shepherd and Mr Steidle proposed and conveyed to Mr Watt that they had expertise in doing, ought to have been in a position to comply with the law and not take advantage of someone in Mr Watt’s and the other proprietors’ position. In Ketchell 236 CLR at 113 [29], Gummow ACJ, Kirby, Hayne, Crennan and Kiefel JJ said of s 51AC of the TPA, the analogue of what is now s 21(1) of the ACL:\n\n> It is of some significance that s 51AC was added at the same time as provision was made for the regulation of business conduct as between franchisor and franchisee. Sub-section (1) of that section states that, in trade and commerce, a corporation, in connection with the supply or possible supply of goods or services to a person, should not engage in conduct which is, “in all the circumstances, unconscionable”. The section is clearly relevant to a situation of disadvantage, in which a franchisee, not properly informed by a franchisor, might be.\n\n[92] Here, Mr Shepherd and Mr Steidle, as the controlling minds at the relevant times of RX Holdings and, at least, by the time they became respectively a director on 22 November 2016 and secretary on 15 February 2017 of SPG, engaged in conduct in which they made many representations to Mr Watt as to the prospective financial resources and success that the new franchise enterprise would have available and obtain. On 21 November 2016, Mr Shepherd pressured Mr Watt into immediately signing the documents on or about that day to constitute SPG as the franchisor so that it could obtain funds by issuing the convertible note to Catalyst. However, that did not ever crystallise. They persuaded Mr Watt as to the “merits” of the franchise proposal and how the franchise arrangements would ultimately create a successful and profitable business for all concerned in order to induce him to use his influence, as he did, with the other proprietors of the individual pharmacies to transfer their business arrangements from SMSUT to SPG, to whom, through SMSUT, he already provided services and with whom he had an existing relationship.\n\n[93] Mr Shepherd and Mr Steidle made numerous misleading representations to Mr Watt, including ones relating to future matters, without a reasonable basis such as the future financial success, availability of capital and financing resources that the franchise structure would yield, together with each of Mr Shepherd’s and Mr Steidle’s own personal resources or ability to raise funds and operate a successful franchising structure. The admitted facts in the statement of claim suffice to establish that they engaged in unfair tactics, within the meaning of s 22(1)(d) and (2)(d), by making the misleading representations intending that they would induce Mr Watt to influence the other proprietors of the individual pharmacies and used those unfair tactics against Mr Watt in both his personal capacity and as a person acting on behalf of their other targets, namely the other proprietors, in relation to the actual or possible supply, or acquisition of, goods from third parties that had better prices and the supply of services by or from the franchisor, SPG. That occurred in circumstances where cll 8, 9 and 10 of the Code had been contravened, for the reasons I have given. Those contraventions were substantial, not inconsequential.\n\n[94] Moreover, by the time that it became apparent that the franchise business was not progressing to the development of any, let alone 100, new franchisees within six months, Mr Shepherd and Mr Steidle, and SPG, failed to act in good faith by making good the position and allowing the applicants to leave the arrangement or, at least, to have the fees reduced to an affordable level and so contravened cl 6 of the Code.\n\n[95] For those reasons, I am satisfied that it would be against conscience for the respondents to have held the franchisees to the franchise agreements. Indeed, Mr Shepherd and Mr Steidle made many misleading representations that never came to fruition and, in the case of ones about future matters, that had no reasonable basis. Their tactics of using Mr Watt to persuade the other franchisees to go along with the proposal, without complying with cll 8, 9 and 10 of the Code, exposed the franchisees to a situation of vulnerability and disadvantage in the absence of the information and opportunity to seek independent advice, to which the Code entitled them, before entering into the franchise agreements, in trusting Mr Watt, who in turn had relied on what the respondents told him: see too Jonval Builders Pty Ltd v Commissioner for Fair Trading (2020) 104 NSWLR 1 at 17 [71]–[72] per Leeming JA, with whom Bathurst CJ and Meagher JA concurred.\n\n[96] Mr Shepherd and Mr Steidle pressured Mr Watt into entering into the documents on 21 or 22 November 2016, on the representation that he needed to do so urgently, so that the convertible note would issue and funds would be available to pursue the franchise operation. That representation was made without reasonable grounds and was misleading. That representation also secured Mr Watt’s financial commitment to the scheme as they intended, so that Mr Shepherd and Mr Steidle could then use him to influence the other proprietors who were in a position of trusting Mr Watt and who were likely to rely on Mr Watt’s recommendations. Whether that reliance amounts to a sufficient special disadvantage that the respondents took advantage of unconscientiously may, in other circumstances, be a difficult question, but the deemed admissions make it unnecessary to consider here.\n\n#### Further relief\n\n[97] It will be necessary to work out what, if any, loss or damage the applicants, individually, have incurred between the time of entry into the franchise agreements and 30 June 2018. That calculation will involve the need to make just allowances for work or benefits that the respondents did or contributed to the applicants. That can now be done on the basis of the actual transactions that the parties entered into over a defined period and an examination of the basis on which any reward or allowance might be given to the respondents. That is preferable, and simpler, than making the assessment were SPG and or RX Holdings to make a less well defined claim of an offset based on a quantum meruit or the like.\n\n[98] Both s 87(2)(a) of the CC Act and s 243(a) of the ACL give the Court power to declare the franchise agreements void. It is not necessary for the Court, in making orders under powers that are available to it, to select which statutory source authorises such an order when, as here, both do. In my opinion, the appropriate order is to make orders declaring void each of the franchise agreements of the applicants on and after 30 June 2018 and to order that the website and business name be returned to the control of Mr Watt: see too Jonval 104 NSWLR at 13 [49], 16 [64].\n\n#### Conclusion\n\n[99] For these reasons, I will declare that each of the franchise agreements in issue be voided on and from 30 June 2018. I will also order that RX Holdings do all things necessary on its part to, first, assign the ownership, including sole administrator rights, of the bushchemist.com.au website to Mr Watt and, secondly, place him in the position of registered owner of the ‘Bush Chemist’ business name. I will order that there be judgment for the applicants for damages to be assessed. Both sides agree that costs should be reserved.\n\nI certify that the preceding ninety-nine (99) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Rares.\n\nAssociate:\n\nDated: 23 July 2021\n\nSCHEDULE OF PARTIES\n\n|  | NSD 922 of 2019 |\n|---|---|\n| Applicants |  |\n| Fourth Applicant: | SYLVIA WATT |\n| Fifth Applicant: | GLEN MCCALLUM |\n| Sixth Applicant: | KERRIE PEACOCK |\n| Seventh Applicant: | ASBET PTY LTD ACN 003 317 404 |\n| Eighth Applicant: | BURROUGHS PTY LTD ACN 613 528 028 |\n| Ninth Applicant: | HERMIDALE HOLDINGS PTY LTD ACN 151 952 939 |\n| Respondents |  |\n| Fourth Respondent: | SUMMIT PHARMACY GROUP PTY LTD ACN 152 166 660 |\n",
+ "source_sha256": "ecb5c20a51205201974cfaf802f8128fa2b7d69643407f828f15cbb0afb0d7b5"
+}

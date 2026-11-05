@@ -1,0 +1,330 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2015/2015FCA0378.docx",
+ "metadata": {
+  "citation": "[2015] FCA 378",
+  "name": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 14)",
+  "court": "FCA",
+  "year": 2015,
+  "number": 378,
+  "date_of_judgment": "2015-04-24",
+  "file_numbers": [
+   "NSD534/2010",
+   "NSD955/2009"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2015-02-04"
+  ],
+  "hearing_raw": "4 February 2015",
+  "number_of_paragraphs": 16,
+  "catchwords": [
+   "COSTS – how costs to be allocated – extent to which parties’ mixed success on issues to bear on allocation"
+  ],
+  "legislation": [
+   "Federal Court Rules 2011 (Cth) r 22.03"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Boral Ltd (No 2) [2000] ATPR 41-738"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   },
+   {
+    "name": "P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant in NSD 534 of 2010 and NSD 955 of 2009",
+    "name": "Mr JA Halley SC and Mr C Arnott"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant in NSD 534 of 2010 and NSD 955 of 2009",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent in NSD 534 of 2010",
+    "name": "Mr RM Smith SC and Mr R Yezerski"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent in NSD 534 of 2010",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent in NSD 955 of 2009",
+    "name": "Mr T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent in NSD 955 of 2009",
+    "name": "Norton White"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0378",
+  "portal_file_numbers": [
+   "NSD955/2009",
+   "NSD534/2010"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2015-04-24"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 14) [2015] FCA 378"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)"
+  },
+  {
+   "label": "File numbers",
+   "value": "NSD 534 of 2010\nNSD 955 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "24 April 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – how costs to be allocated – extent to which parties’ mixed success on issues to bear on allocation"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court Rules 2011 (Cth) r 22.03"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Boral Ltd (No 2) [2000] ATPR 41-738"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "4 February 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "16"
+  },
+  {
+   "label": "Counsel for the Applicant in NSD 534 of 2010 and NSD 955 of 2009",
+   "value": "Mr JA Halley SC and Mr C Arnott"
+  },
+  {
+   "label": "Solicitor for the Applicant in NSD 534 of 2010 and NSD 955 of 2009",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent in NSD 534 of 2010",
+   "value": "Mr RM Smith SC and Mr R Yezerski"
+  },
+  {
+   "label": "Solicitor for the Respondent in NSD 534 of 2010",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for the Respondent in NSD 955 of 2009",
+   "value": "Mr T Brennan"
+  },
+  {
+   "label": "Solicitor for the Respondent in NSD 955 of 2009",
+   "value": "Norton White"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD534/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2015-04-24",
+   "date_raw": "24 APRIL 2015",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The parties are to prepare short minutes of order to give effect to these reasons within fourteen days hereof.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "NSD955/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2015-04-24",
+   "date_raw": "24 APRIL 2015",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The parties are to prepare short minutes of order to give effect to these reasons within fourteen days hereof.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "There remains the question of costs. I deal first with the position of Air New Zealand Limited (‘Air NZ’). At the commencement of the trial the Australian Competition and Consumer Commission (‘the Commission’) had on foot three separate cases against Air NZ relating to alleged collusive behaviour in the air cargo markets for flights destined to airports in Australia from airports in:\n(a) Japan;\n(b) Singapore; and\n(c) Hong Kong."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "On the first day of the trial, the Commission abandoned its case in relation to Japan. Air NZ submitted that there was no evidence as to why this had occurred and I should infer it was because the proceedings had been unreasonably commenced. Consequently, I should order the Commission to pay the costs associated with the preparation of its case on Japan on an indemnity basis."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "I am satisfied that it is appropriate to apportion costs by reference to the separate cases advanced in respect of each origin port, both for P.T. Garuda Indonesia Limited (‘Garuda’) and Air NZ. Effectively, the cases in each airport were separate, involving different allegations, largely different personnel and different issues. Although there was a degree of overlap on some factual matters in the cases of Singapore and Hong Kong and on some legal issues in the cases of Hong Kong and Indonesia, these were not significant in the overall scheme of things."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "I accept, therefore, that separate costs orders should be made for Japan, Singapore, Hong Kong and Indonesia."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "In the case of Japan, I am not satisfied that an order should be made on an indemnity basis. Plainly, by the commencement of the trial the Commission thought that it was in its best interests to abandon its case relating to Japan but I would not infer from that that the case thus abandoned lacked a reasonable basis for its commencement or, until its discontinuance, its pursuit."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Mr Smith SC, for Air NZ, had sought to cross-examine the Commission’s solicitor, Mr Owbridge, presumably on this matter, but this I did not permit. Contrary to Air NZ’s submissions, a costs hearing is interlocutory in nature and it had no right to cross-examine Mr Owbridge. My experience of the very large cases pursued in the balance of the trial in respect of Singapore, Hong Kong and Indonesia led me to believe that in litigation of this size there could be no utility in seeking to address in the side wind which is a costs debate the underlying merits of complex cartel litigation. Still less would it be appropriate to do so through a single witness such as Mr Owbridge."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "I am unpersuaded that the Commission’s proceedings against Air NZ in respect of Japan involved any kind of misconduct on its part or were otherwise unreasonable. I decline to order the Commission to pay Air NZ’s costs relating to Japan on an indemnity basis."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Turning then to Singapore, it is plain that the Commission must pay Air NZ’s costs. Air NZ prevailed overall and succeeded on most issues. There was one alleged understanding which the Commission did succeed in establishing but it was minor and of little moment in the overall picture. Further, Air NZ succeeded in demonstrating that the alleged conduct did not occur in a market in Australia and hence could not involve a contravention of the Trade Practices Act 1974 (Cth). It is true that Air NZ failed on some legal arguments which were raised in the alternative but, contrary to my impression whilst preparing the reasons for judgment, these did not have a large impact on the course of the trial."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "In the case of Hong Kong, Air NZ’s victory was less complete. It succeeded on several of the understandings but failed on a significant number too. However, I am not satisfied that it would be sensibly possible to apportion the costs between the various understandings. Air NZ failed on the issue of foreign state compulsion although its expert was accepted over the Commission’s. It succeeded on the market issue. I do not think that in such a mixed bag it would be productive to separate out the various issues in play. Substantially, Air NZ won and is entitled to its costs."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "I turn then to Garuda. Whilst I accept that, for the same reasons I have given in the case of Air NZ, Garuda should have its costs for Hong Kong paid by the Commission, the appropriate order in the case of Indonesia is that the Commission should pay only 20% of Garuda’s costs."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The basis for this conclusion is Garuda’s limited success with its legal arguments and overwhelming defeat on the substantive issues. I accepted nearly all the Commission’s case on the facts with Garuda’s victory being limited on the facts to only one understanding and to one other understanding on pleading grounds. It lost the debate on the content of Indonesian law and its foreign state compulsion defence turned out to have no substance. I rejected its plethora of legal arguments finding most were without substance. It won the market issue but, although determinative, this was a small part of the overall case. It would be quite unjust for the Commission to have to pay for the robust attitude with which Garuda proceeded to advance arguments which were at the frontiers of legal originality. Being generous to Garuda, I assess the market case as involving 20% of the activity involved in the Indonesia component of the trial. I have considered whether I should make Garuda pay the Commission’s costs of the balance of the 80% of the case that Garuda lost but have concluded, not without some hesitation, that it would be inappropriate for Garuda, as a successful party, to have to pay a net amount to the losing party. The dispositive reason for this is that the proceedings were for a civil penalty: cf. Australian Competition and Consumer Commission v Boral Ltd (No 2) [2000] ATPR 41-738. Accordingly, the Commission is to pay 20% of Garuda’s costs for Indonesia."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "In reaching that conclusion I reject a number of submissions advanced by Garuda:\n(a) I do not accept that there should be any adjustment to this order because some of the findings made might have assisted Garuda at the penalty phase of the hearing. These issues simply never arose – that is the end of the matter;\n(b) I do not remotely accept that Garuda is entitled to any form of indemnity costs order. Further:\n(i) I do not accept that the Commission’s refusal to accept Garuda’s ‘offer’ of 11 October 2012 to accept the discontinuance of the proceedings with no order as to costs was in any way unreasonable. Indeed, with respect to those who drafted the letter, its offer bore no relationship to the reality of the very substantial exposure Garuda had and it constituted no sensible or reasonable settlement proposal. The Commission’s rejection of it was entirely reasonable. In truth, Garuda was severely exposed on the facts and substantially at risk on the law. It has succeeded only on difficult questions of economics about which minds can differ. Otherwise, it was roundly defeated;\n(ii) I do not accept that in the context of the complexity of these proceedings that the pursuit by the Commission of any of the allegations it made in its pleading warrant any form of special costs order; and\n(iii) I do not accept that the proceedings were precipitously commenced. Subject only to the contestable issue of market, the Commission was confronted by a blatant collection of price fixing behaviours. The vast bulk of Garuda’s defence was rejected."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "There are three further issues requiring resolution. The first concerns two notices to admit facts issued by Garuda to the Commission relating to the issues surrounding Hong Kong law and practice. These were not admitted by the Commission but some were subsequently proved. The Commission put before me evidence as to why they had not been admitted which shows the non-admission was understandable. I do not think, however, that Garuda should be denied the costs which the notice to admit procedure gives it by r 22.03 of the Federal Court Rules 2011 (Cth)."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The second concerns an argument raised in the case of Garuda about its implementation discovery. I have not been able to understand from the written submissions or the transcript what this issue precisely was. If it was the contention that it should not have been necessary for Garuda to give discovery about implementation in TC1 and TC2, I reject it. It was necessary because it went to the issue of whether the understandings had been reached. In any event, I would not have been minded to permit this to be dealt with separately outside the global costs order."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "The third issue concerns $2.5 million received by the Commission from various international airlines as a result of the settlement of other similar proceedings brought by the Commission against them relating to Hong Kong and Singapore. The Commission accepted that this should be brought to account. I too accept this."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "The parties are to bring in short minutes of order to give effect to these reasons. Insofar as the costs of these applications are concerned, there should be no order as to costs in relation to the Air NZ debate. Garuda should pay half the Commission’s costs."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2015-04-24",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Air New Zealand Limited (No 14) [2015] FCA 378\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 14) [2015] FCA 378\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)  \nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)\n\n**File numbers:** NSD 534 of 2010  \nNSD 955 of 2009\n\n**Judge:** PERRAM J\n\n**Date of judgment:** 24 April 2015\n\n**Catchwords:** COSTS – how costs to be allocated – extent to which parties’ mixed success on issues to bear on allocation\n\n**Legislation:** Federal Court Rules 2011 (Cth) r 22.03\n\n**Cases cited:** Australian Competition and Consumer Commission v Boral Ltd (No 2) [2000] ATPR 41-738\n\n**Date of hearing:** 4 February 2015\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 16\n\n**Counsel for the Applicant in NSD 534 of 2010 and NSD 955 of 2009:** Mr JA Halley SC and Mr C Arnott\n\n**Solicitor for the Applicant in NSD 534 of 2010 and NSD 955 of 2009:** Australian Government Solicitor\n\n**Counsel for the Respondent in NSD 534 of 2010:** Mr RM Smith SC and Mr R Yezerski\n\n**Solicitor for the Respondent in NSD 534 of 2010:** Corrs Chambers Westgarth\n\n**Counsel for the Respondent in NSD 955 of 2009:** Mr T Brennan\n\n**Solicitor for the Respondent in NSD 955 of 2009:** Norton White\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 24 APRIL 2015 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The parties are to prepare short minutes of order to give effect to these reasons within fourteen days hereof.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 24 APRIL 2015 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The parties are to prepare short minutes of order to give effect to these reasons within fourteen days hereof.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P.T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE: | 24 APRIL 2015 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] There remains the question of costs. I deal first with the position of Air New Zealand Limited (‘Air NZ’). At the commencement of the trial the Australian Competition and Consumer Commission (‘the Commission’) had on foot three separate cases against Air NZ relating to alleged collusive behaviour in the air cargo markets for flights destined to airports in Australia from airports in:\n\n(a) Japan;\n\n(b) Singapore; and\n\n(c) Hong Kong.\n\n[2] On the first day of the trial, the Commission abandoned its case in relation to Japan. Air NZ submitted that there was no evidence as to why this had occurred and I should infer it was because the proceedings had been unreasonably commenced. Consequently, I should order the Commission to pay the costs associated with the preparation of its case on Japan on an indemnity basis.\n\n[3] I am satisfied that it is appropriate to apportion costs by reference to the separate cases advanced in respect of each origin port, both for P.T. Garuda Indonesia Limited (‘Garuda’) and Air NZ. Effectively, the cases in each airport were separate, involving different allegations, largely different personnel and different issues. Although there was a degree of overlap on some factual matters in the cases of Singapore and Hong Kong and on some legal issues in the cases of Hong Kong and Indonesia, these were not significant in the overall scheme of things.\n\n[4] I accept, therefore, that separate costs orders should be made for Japan, Singapore, Hong Kong and Indonesia.\n\n[5] In the case of Japan, I am not satisfied that an order should be made on an indemnity basis. Plainly, by the commencement of the trial the Commission thought that it was in its best interests to abandon its case relating to Japan but I would not infer from that that the case thus abandoned lacked a reasonable basis for its commencement or, until its discontinuance, its pursuit.\n\n[6] Mr Smith SC, for Air NZ, had sought to cross-examine the Commission’s solicitor, Mr Owbridge, presumably on this matter, but this I did not permit. Contrary to Air NZ’s submissions, a costs hearing is interlocutory in nature and it had no right to cross-examine Mr Owbridge. My experience of the very large cases pursued in the balance of the trial in respect of Singapore, Hong Kong and Indonesia led me to believe that in litigation of this size there could be no utility in seeking to address in the side wind which is a costs debate the underlying merits of complex cartel litigation. Still less would it be appropriate to do so through a single witness such as Mr Owbridge.\n\n[7] I am unpersuaded that the Commission’s proceedings against Air NZ in respect of Japan involved any kind of misconduct on its part or were otherwise unreasonable. I decline to order the Commission to pay Air NZ’s costs relating to Japan on an indemnity basis.\n\n[8] Turning then to Singapore, it is plain that the Commission must pay Air NZ’s costs. Air NZ prevailed overall and succeeded on most issues. There was one alleged understanding which the Commission did succeed in establishing but it was minor and of little moment in the overall picture. Further, Air NZ succeeded in demonstrating that the alleged conduct did not occur in a market in Australia and hence could not involve a contravention of the Trade Practices Act 1974 (Cth). It is true that Air NZ failed on some legal arguments which were raised in the alternative but, contrary to my impression whilst preparing the reasons for judgment, these did not have a large impact on the course of the trial.\n\n[9] In the case of Hong Kong, Air NZ’s victory was less complete. It succeeded on several of the understandings but failed on a significant number too. However, I am not satisfied that it would be sensibly possible to apportion the costs between the various understandings. Air NZ failed on the issue of foreign state compulsion although its expert was accepted over the Commission’s. It succeeded on the market issue. I do not think that in such a mixed bag it would be productive to separate out the various issues in play. Substantially, Air NZ won and is entitled to its costs.\n\n[10] I turn then to Garuda. Whilst I accept that, for the same reasons I have given in the case of Air NZ, Garuda should have its costs for Hong Kong paid by the Commission, the appropriate order in the case of Indonesia is that the Commission should pay only 20% of Garuda’s costs.\n\n[11] The basis for this conclusion is Garuda’s limited success with its legal arguments and overwhelming defeat on the substantive issues. I accepted nearly all the Commission’s case on the facts with Garuda’s victory being limited on the facts to only one understanding and to one other understanding on pleading grounds. It lost the debate on the content of Indonesian law and its foreign state compulsion defence turned out to have no substance. I rejected its plethora of legal arguments finding most were without substance. It won the market issue but, although determinative, this was a small part of the overall case. It would be quite unjust for the Commission to have to pay for the robust attitude with which Garuda proceeded to advance arguments which were at the frontiers of legal originality. Being generous to Garuda, I assess the market case as involving 20% of the activity involved in the Indonesia component of the trial. I have considered whether I should make Garuda pay the Commission’s costs of the balance of the 80% of the case that Garuda lost but have concluded, not without some hesitation, that it would be inappropriate for Garuda, as a successful party, to have to pay a net amount to the losing party. The dispositive reason for this is that the proceedings were for a civil penalty: cf. Australian Competition and Consumer Commission v Boral Ltd (No 2) [2000] ATPR 41-738. Accordingly, the Commission is to pay 20% of Garuda’s costs for Indonesia.\n\n[12] In reaching that conclusion I reject a number of submissions advanced by Garuda:\n\n(a) I do not accept that there should be any adjustment to this order because some of the findings made might have assisted Garuda at the penalty phase of the hearing. These issues simply never arose – that is the end of the matter;\n\n(b) I do not remotely accept that Garuda is entitled to any form of indemnity costs order. Further:\n\n(i) I do not accept that the Commission’s refusal to accept Garuda’s ‘offer’ of 11 October 2012 to accept the discontinuance of the proceedings with no order as to costs was in any way unreasonable. Indeed, with respect to those who drafted the letter, its offer bore no relationship to the reality of the very substantial exposure Garuda had and it constituted no sensible or reasonable settlement proposal. The Commission’s rejection of it was entirely reasonable. In truth, Garuda was severely exposed on the facts and substantially at risk on the law. It has succeeded only on difficult questions of economics about which minds can differ. Otherwise, it was roundly defeated;\n\n(ii) I do not accept that in the context of the complexity of these proceedings that the pursuit by the Commission of any of the allegations it made in its pleading warrant any form of special costs order; and\n\n(iii) I do not accept that the proceedings were precipitously commenced. Subject only to the contestable issue of market, the Commission was confronted by a blatant collection of price fixing behaviours. The vast bulk of Garuda’s defence was rejected.\n\n[13] There are three further issues requiring resolution. The first concerns two notices to admit facts issued by Garuda to the Commission relating to the issues surrounding Hong Kong law and practice. These were not admitted by the Commission but some were subsequently proved. The Commission put before me evidence as to why they had not been admitted which shows the non-admission was understandable. I do not think, however, that Garuda should be denied the costs which the notice to admit procedure gives it by r 22.03 of the Federal Court Rules 2011 (Cth).\n\n[14] The second concerns an argument raised in the case of Garuda about its implementation discovery. I have not been able to understand from the written submissions or the transcript what this issue precisely was. If it was the contention that it should not have been necessary for Garuda to give discovery about implementation in TC1 and TC2, I reject it. It was necessary because it went to the issue of whether the understandings had been reached. In any event, I would not have been minded to permit this to be dealt with separately outside the global costs order.\n\n[15] The third issue concerns $2.5 million received by the Commission from various international airlines as a result of the settlement of other similar proceedings brought by the Commission against them relating to Hong Kong and Singapore. The Commission accepted that this should be brought to account. I too accept this.\n\n[16] The parties are to bring in short minutes of order to give effect to these reasons. Insofar as the costs of these applications are concerned, there should be no order as to costs in relation to the Air NZ debate. Garuda should pay half the Commission’s costs.\n\nI certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 24 April 2015\n",
+ "source_sha256": "6df03181f29f4fdeff22dcbaf33d5201e853a70319fe554e3e7661169035e795"
+}

@@ -1,0 +1,363 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA0428.docx",
+ "metadata": {
+  "citation": "[2013] FCA 428",
+  "name": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 11)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 428,
+  "date_of_judgment": "2013-05-09",
+  "file_numbers": [
+   "NSD534/2010",
+   "NSD955/2009"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-04-17"
+  ],
+  "hearing_raw": "17 April 2013",
+  "number_of_paragraphs": 14,
+  "catchwords": [
+   "EVIDENCE – discretion to exclude – whether probative value of document prepared in contemplation of legal proceedings (not related to current proceedings) outweighed prejudicial effect"
+  ],
+  "legislation": [
+   "Evidence Act 1995 (Cth) ss 135, 136"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Air New Zealand Limited (No 7) [2013] FCA 83 varied",
+   "Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322 cited",
+   "Papakosmas v The Queen (1999) 196 CLR 297 cited",
+   "Seven Network Ltd v News Ltd (No 8) (2005) 224 ALR 317 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   },
+   {
+    "name": "P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Halley SC, J Clarke"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "Air New Zealand",
+    "name": "R Smith SC, N Owens, R Yezerski"
+   },
+   {
+    "role": "solicitor",
+    "for": "Air New Zealand",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "Garuda",
+    "name": "M Leeming SC, T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "Garuda",
+    "name": "Norton White"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0428",
+  "portal_file_numbers": [
+   "NSD534/2010"
+  ],
+  "portal_event": "Part Heard",
+  "portal_event_date": "2013-05-09"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 11) [2013] FCA 428"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)"
+  },
+  {
+   "label": "File numbers",
+   "value": "NSD 534 of 2010\nNSD 955 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "9 May 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "EVIDENCE – discretion to exclude – whether probative value of document prepared in contemplation of legal proceedings (not related to current proceedings) outweighed prejudicial effect"
+  },
+  {
+   "label": "Legislation",
+   "value": "Evidence Act 1995 (Cth) ss 135, 136"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 7) [2013] FCA 83 varied\nAustralian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322 cited\nPapakosmas v The Queen (1999) 196 CLR 297 cited\nSeven Network Ltd v News Ltd (No 8) (2005) 224 ALR 317 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "17 April 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "14"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Halley SC, J Clarke"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for Air New Zealand",
+   "value": "R Smith SC, N Owens, R Yezerski"
+  },
+  {
+   "label": "Solicitor for Air New Zealand",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for Garuda",
+   "value": "M Leeming SC, T Brennan"
+  },
+  {
+   "label": "Solicitor for Garuda",
+   "value": "Norton White"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD534/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-05-09",
+   "date_raw": "9 May 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Annexure CLSY-16 to the affidavit of Ms Christine Liu sworn 2 May 2012 form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The email dated 12 December 2001 sent to Ms Maggie Goh (ANZ.093.0716) form part of the evidence.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "NSD955/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-05-09",
+   "date_raw": "9 May 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Annexure CLSY-16 to the affidavit of Ms Christine Liu sworn 2 May 2012 form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The email dated 12 December 2001 sent to Ms Maggie Goh (ANZ.093.0716) form part of the evidence.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "These reasons deal with two issues:\n(a) whether annexure CLSY-16 should be admitted into evidence; and\n(b) whether an email to Ms Maggie Goh dated 12 December 2001 (ANZ.093.0716) should be admitted into evidence."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "On 18 February 2013 I rejected the tender of a document known as CLSY-16 which was a letter from the Hong Kong Civil Aviation Department (‘HKCAD’) to the President of the European Commission dated 3 September 2009. I did this although I had concluded that the letter was an admissible business record. I did so pursuant to s 135 of the Evidence Act 1995 (Cth) (‘the Act’) concluding that there was a danger its prejudicial effect outweighed its probative value: see Australian Competition and Consumer Commission v Air New Zealand Limited (No 7) [2013] FCA 83 at [16] - [25]. Part of the reasoning leading to that conclusion was that its prejudicial value was high precisely because of its apparent probative value: see [24]. That reasoning is contrary to the orthodox understanding of what constitutes prejudice for the purposes of ss 135 and 136: cf Papakosmas v The Queen (1999) 196 CLR 297, 325 at [91] and 327 at [98]. On 11 April 2013 I indicated that this was so and I invited either party to reconsider the position of CLSY-16: see Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322 at [83]. On 17 April 2013 Air New Zealand sought to retender the document."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "My prior determination that the document was a business record was not re-agitated. The only issue for debate was, therefore, whether CLSY-16 should now be excluded pursuant to s 135 of the Act. Mr Halley, for the Commission, pointed to a number of aspects of the letter which were said to be prejudicial. It was written in contemplation of the European Commission’s investigation; it was written at the behest of Cathay Pacific; the HKCAD was a manifestation of the State of China which also owned, through various intervening entities, a substantial part of Cathay Pacific; the letter was an exercise in advocacy and was not reliable; its author, a Mr Norman Lo, had not been involved in the events in question; and, still worse, the document itself postdated by many years those same events."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "All of these matters may, in due course, constitute good reason to discount the value of the letter from an evidentiary perspective but I do not think that they constitute very much in the way of unfair prejudice at least within the meaning of s 135. Prejudice under that section may be substantive or procedural. Insofar as substantial prejudice is concerned, I do not think that it is at all likely that I will be irrationally swayed by the letter into according it more or less decisive weight than it in fact deserves. In at least its substantive sense that is the kind of prejudice with which ss 135 and 136 are concerned: see Seven Network Ltd v News Ltd (No 8) (2005) 224 ALR 317, 322 at [21] per Sackville J. Whilst it is true that prejudice for the purposes of s 135 may also have a procedural aspect to it, this was not relied upon by the Commission in the case of CLSY-16."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "Section 135 requires an assessment of the danger that the evidence might be unfairly prejudicial to the Commission. For the reasons just given I assess that danger as small. The section also requires one to assess the probative value of the letter. Mr Halley submitted that the probative value of the letter was low principally for all the reasons given above relating to its reliability."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "Probative value is defined in the Dictionary of the Act in relation to evidence to mean:\nthe extent to which the evidence could rationally affect the assessment of the probability of the existence of a fact in issue."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "The question then is not whether the letter proves what Air New Zealand ultimately contends it does, but whether it is rationally capable of doing so. I propose, therefore, to approach the question on the basis of asking what the letter may rationally be seen as capable of proving and then asking what the probative value would be if it was accepted."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "Viewed that way, the letter has a high probative value for the reasons I gave at [24] in Air New Zealand (No 7). In those circumstances I conclude that the probative value of CLSY-16 is not outweighed by the danger that it is unfairly prejudicial to the Commission."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "CLSY-16"
+    ],
+    "text": "Mr Halley also advanced the argument that the use of CLSY-16 might result in an undue waste of time within the meaning of s 135(c). I think that the letter is likely to lengthen the proceedings very little; in any event, whatever lengthening does occur is outweighed by the probative value of the letter."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "CLSY-16",
+     "The email of 12 December 2001"
+    ],
+    "text": "On day 36 of the trial Mr Smith re-examined Ms Goh. During re-examination he sought to tender an email dated 12 February 2001. This email had not been discovered by Air New Zealand to the Commission. The effect of the email was to show that Ms Goh had been instructed that headquarters at Air New Zealand were to be involved in any decision to remove or reduce a fuel surcharge. Part of the email read:\nRe above it is important, HO [sic] be involved in any decision to remove or reduce."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "CLSY-16",
+     "The email of 12 December 2001"
+    ],
+    "text": "Ms Goh had been cross-examined to suggest that she could make decisions about increases and decreases in the fuel surcharge herself and it was about this that she was re-examined by Mr Smith. It was during that part of the re-examination that this document was tendered to show that that was not so."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "CLSY-16",
+     "The email of 12 December 2001"
+    ],
+    "text": "Mr Halley submitted that I should reject the tender under s 135 because the Commission’s cross-examination had been prejudiced by not having been provided with the email beforehand. It was said that the nature of the cross-examination had been irrevocably affected by the default in discovery."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "CLSY-16",
+     "The email of 12 December 2001"
+    ],
+    "text": "The probative value of the email is reasonable. If accepted, it tends to suggest that the attack on Ms Goh should not succeed and that she did seek approval from those in a more senior position when reaching decisions about the imposition of fuel surcharges. Whilst I accept that the Commission might have approached her cross-examination perhaps differently had it known of the email, the difficulties which arise may, so it seems to me, be adequately addressed by submissions it can make about that topic."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "CLSY-16",
+     "The email of 12 December 2001"
+    ],
+    "text": "In those circumstances I conclude that the document should be admitted."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fourteen (14) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2013-05-09",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Air New Zealand Limited (No 11) [2013] FCA 428\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 11) [2013] FCA 428\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)  \nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)\n\n**File numbers:** NSD 534 of 2010  \nNSD 955 of 2009\n\n**Judge:** PERRAM J\n\n**Date of judgment:** 9 May 2013\n\n**Catchwords:** EVIDENCE – discretion to exclude – whether probative value of document prepared in contemplation of legal proceedings (not related to current proceedings) outweighed prejudicial effect\n\n**Legislation:** Evidence Act 1995 (Cth) ss 135, 136\n\n**Cases cited:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 7) [2013] FCA 83 varied  \nAustralian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322 cited  \nPapakosmas v The Queen (1999) 196 CLR 297 cited  \nSeven Network Ltd v News Ltd (No 8) (2005) 224 ALR 317 cited\n\n**Date of hearing:** 17 April 2013\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 14\n\n**Counsel for the Applicant:** J Halley SC, J Clarke\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for Air New Zealand:** R Smith SC, N Owens, R Yezerski\n\n**Solicitor for Air New Zealand:** Corrs Chambers Westgarth\n\n**Counsel for Garuda:** M Leeming SC, T Brennan\n\n**Solicitor for Garuda:** Norton White\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 9 May 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Annexure CLSY-16 to the affidavit of Ms Christine Liu sworn 2 May 2012 form part of the evidence.\n\n2. The email dated 12 December 2001 sent to Ms Maggie Goh (ANZ.093.0716) form part of the evidence.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 9 May 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Annexure CLSY-16 to the affidavit of Ms Christine Liu sworn 2 May 2012 form part of the evidence.\n\n2. The email dated 12 December 2001 sent to Ms Maggie Goh (ANZ.093.0716) form part of the evidence.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P.T. GARUDA INDONESIA LTD (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE: | 9 may 2013 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] These reasons deal with two issues:\n\n(a) whether annexure CLSY-16 should be admitted into evidence; and\n\n(b) whether an email to Ms Maggie Goh dated 12 December 2001 (ANZ.093.0716) should be admitted into evidence.\n\n#### CLSY-16\n\n[2] On 18 February 2013 I rejected the tender of a document known as CLSY-16 which was a letter from the Hong Kong Civil Aviation Department (‘HKCAD’) to the President of the European Commission dated 3 September 2009. I did this although I had concluded that the letter was an admissible business record. I did so pursuant to s 135 of the Evidence Act 1995 (Cth) (‘the Act’) concluding that there was a danger its prejudicial effect outweighed its probative value: see Australian Competition and Consumer Commission v Air New Zealand Limited (No 7) [2013] FCA 83 at [16] - [25]. Part of the reasoning leading to that conclusion was that its prejudicial value was high precisely because of its apparent probative value: see [24]. That reasoning is contrary to the orthodox understanding of what constitutes prejudice for the purposes of ss 135 and 136: cf Papakosmas v The Queen (1999) 196 CLR 297, 325 at [91] and 327 at [98]. On 11 April 2013 I indicated that this was so and I invited either party to reconsider the position of CLSY-16: see Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322 at [83]. On 17 April 2013 Air New Zealand sought to retender the document.\n\n[3] My prior determination that the document was a business record was not re-agitated. The only issue for debate was, therefore, whether CLSY-16 should now be excluded pursuant to s 135 of the Act. Mr Halley, for the Commission, pointed to a number of aspects of the letter which were said to be prejudicial. It was written in contemplation of the European Commission’s investigation; it was written at the behest of Cathay Pacific; the HKCAD was a manifestation of the State of China which also owned, through various intervening entities, a substantial part of Cathay Pacific; the letter was an exercise in advocacy and was not reliable; its author, a Mr Norman Lo, had not been involved in the events in question; and, still worse, the document itself postdated by many years those same events.\n\n[4] All of these matters may, in due course, constitute good reason to discount the value of the letter from an evidentiary perspective but I do not think that they constitute very much in the way of unfair prejudice at least within the meaning of s 135. Prejudice under that section may be substantive or procedural. Insofar as substantial prejudice is concerned, I do not think that it is at all likely that I will be irrationally swayed by the letter into according it more or less decisive weight than it in fact deserves. In at least its substantive sense that is the kind of prejudice with which ss 135 and 136 are concerned: see Seven Network Ltd v News Ltd (No 8) (2005) 224 ALR 317, 322 at [21] per Sackville J. Whilst it is true that prejudice for the purposes of s 135 may also have a procedural aspect to it, this was not relied upon by the Commission in the case of CLSY-16.\n\n[5] Section 135 requires an assessment of the danger that the evidence might be unfairly prejudicial to the Commission. For the reasons just given I assess that danger as small. The section also requires one to assess the probative value of the letter. Mr Halley submitted that the probative value of the letter was low principally for all the reasons given above relating to its reliability.\n\n[6] Probative value is defined in the Dictionary of the Act in relation to evidence to mean:\n\n> the extent to which the evidence could rationally affect the assessment of the probability of the existence of a fact in issue.\n\n[7] The question then is not whether the letter proves what Air New Zealand ultimately contends it does, but whether it is rationally capable of doing so. I propose, therefore, to approach the question on the basis of asking what the letter may rationally be seen as capable of proving and then asking what the probative value would be if it was accepted.\n\n[8] Viewed that way, the letter has a high probative value for the reasons I gave at [24] in Air New Zealand (No 7). In those circumstances I conclude that the probative value of CLSY-16 is not outweighed by the danger that it is unfairly prejudicial to the Commission.\n\n[9] Mr Halley also advanced the argument that the use of CLSY-16 might result in an undue waste of time within the meaning of s 135(c). I think that the letter is likely to lengthen the proceedings very little; in any event, whatever lengthening does occur is outweighed by the probative value of the letter.\n\n##### The email of 12 December 2001\n\n[10] On day 36 of the trial Mr Smith re-examined Ms Goh. During re-examination he sought to tender an email dated 12 February 2001. This email had not been discovered by Air New Zealand to the Commission. The effect of the email was to show that Ms Goh had been instructed that headquarters at Air New Zealand were to be involved in any decision to remove or reduce a fuel surcharge. Part of the email read:\n\n> Re above it is important, HO [sic] be involved in any decision to remove or reduce.\n\n[11] Ms Goh had been cross-examined to suggest that she could make decisions about increases and decreases in the fuel surcharge herself and it was about this that she was re-examined by Mr Smith. It was during that part of the re-examination that this document was tendered to show that that was not so.\n\n[12] Mr Halley submitted that I should reject the tender under s 135 because the Commission’s cross-examination had been prejudiced by not having been provided with the email beforehand. It was said that the nature of the cross-examination had been irrevocably affected by the default in discovery.\n\n[13] The probative value of the email is reasonable. If accepted, it tends to suggest that the attack on Ms Goh should not succeed and that she did seek approval from those in a more senior position when reaching decisions about the imposition of fuel surcharges. Whilst I accept that the Commission might have approached her cross-examination perhaps differently had it known of the email, the difficulties which arise may, so it seems to me, be adequately addressed by submissions it can make about that topic.\n\n[14] In those circumstances I conclude that the document should be admitted.\n\nI certify that the preceding fourteen (14) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 9 May 2013\n",
+ "source_sha256": "93eca517ea8e3cdb15005f7599c91e7e8c250c6b2b5ded1a0726fc1ede9796dd"
+}

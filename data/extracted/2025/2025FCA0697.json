@@ -1,0 +1,409 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2025/2025FCA0697.docx",
+ "metadata": {
+  "citation": "[2025] FCA 697",
+  "name": "Monarch Advisory Group Pty Ltd (in liquidation) v Puxty (Costs)",
+  "court": "FCA",
+  "year": 2025,
+  "number": 697,
+  "date_of_judgment": "2025-06-26",
+  "file_numbers": [
+   "NSD951/2020"
+  ],
+  "judges": [
+   "MARKOVIC J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Commercial Contracts, Banking, Finance and Insurance",
+  "hearing_raw": "Determined on the papers",
+  "number_of_paragraphs": 29,
+  "catchwords": [
+   "COSTS – application for costs to be paid on an indemnity basis – where applicant had partial success at trial – where cross-claimants had partial success at trial – where offer of compromise and Calderbank offer made – whether offeror achieved a more favourable result at trial than the terms of the offer of compromise – application for indemnity costs dismissed – costs awarded on a party and party basis commensurate with success at trial"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 43",
+   "Federal Court Rules 2011 (Cth) rr 25.01, 25.14"
+  ],
+  "cases_cited": [
+   "Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 8) [2017] FCA 258",
+   "Calderbank v Calderbank [1975] 3 All ER 333",
+   "Caporaso Pty Ltd v Mercato Centrale Australia Pty Ltd (Costs) [2025] FCAFC 29",
+   "Ezy-Fit Engineering Group Pty Limited v Microm Nominees Pty Limited (No 4) [2025] FCA 411",
+   "Monarch Advisory Group Pty Ltd v Puxty (No 4) [2025] FCA 534"
+  ],
+  "parties": [
+   {
+    "name": "MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)",
+    "role": "Applicant"
+   },
+   {
+    "name": "BRETT JAMES PUXTY",
+    "role": "First Respondent"
+   },
+   {
+    "name": "FRANCIS COGGAN",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "ODYSSEY ADVISORY SERVICES PTY LTD",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "BRETT JAMES PUXTY (and another named in the Schedule)",
+    "role": "First Cross-Claimant"
+   },
+   {
+    "name": "MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)",
+    "role": "Cross-Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr D Mahendra"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Madison Marcus Law Firm"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr V Bedrossian SC and Ms S Erian"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Edge Legal Group"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca0697",
+  "portal_file_numbers": [
+   "NSD951/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2025-06-26"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 951 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "MARKOVIC J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "26 June 2025"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – application for costs to be paid on an indemnity basis – where applicant had partial success at trial – where cross-claimants had partial success at trial – where offer of compromise and Calderbank offer made – whether offeror achieved a more favourable result at trial than the terms of the offer of compromise – application for indemnity costs dismissed – costs awarded on a party and party basis commensurate with success at trial"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 43\nFederal Court Rules 2011 (Cth) rr 25.01, 25.14"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 8) [2017] FCA 258\nCalderbank v Calderbank [1975] 3 All ER 333\nCaporaso Pty Ltd v Mercato Centrale Australia Pty Ltd (Costs) [2025] FCAFC 29\nEzy-Fit Engineering Group Pty Limited v Microm Nominees Pty Limited (No 4) [2025] FCA 411\nMonarch Advisory Group Pty Ltd v Puxty (No 4) [2025] FCA 534"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Commercial Contracts, Banking, Finance and Insurance"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "29"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr D Mahendra"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Madison Marcus Law Firm"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr V Bedrossian SC and Ms S Erian"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Edge Legal Group"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD951/2020",
+   "parties": [
+    {
+     "name": "MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)",
+     "role": "Applicant"
+    },
+    {
+     "name": "BRETT JAMES PUXTY",
+     "role": "First Respondent"
+    },
+    {
+     "name": "FRANCIS COGGAN",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "ODYSSEY ADVISORY SERVICES PTY LTD",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "BRETT JAMES PUXTY (and another named in the Schedule)",
+     "role": "First Cross-Claimant"
+    },
+    {
+     "name": "MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)",
+     "role": "Cross-Respondent"
+    }
+   ],
+   "judges": [
+    "MARKOVIC J"
+   ],
+   "date": "2025-06-26",
+   "date_raw": "26 june 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondents are to pay 60% of the applicant’s costs of the amended statement of claim filed on 4 February 2022.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The cross-respondent is to pay 20% of the cross-claimants’ costs of the amended statement of cross claim filed on 27 February 2023.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 23 May 2025 I made orders requiring the parties to provide draft orders to my Associate following publication of reasons including on the question of costs. If the parties could not agree on the form of orders to be made, they were to provide short submissions together with their respective proposed orders: see Monarch Advisory Group Pty Ltd v Puxty (No 4) [2025] FCA 534.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Thereafter the parties provided their proposed orders and submission in support. The area of disagreement between the parties is in relation to costs of the proceeding. The parties have agreed that I should determine the questions of costs on the papers. Accordingly, these reasons address the parties’ respective positions.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "Monarch Advisory Group Pty Ltd (in liquidation), the applicant in the proceeding and the respondent to the cross claim, seeks all of its costs of the proceeding including the cross claim on the ordinary basis up to 11 am on 31 January 2024, or alternatively up to and including 27 February 2024, and thereafter on an indemnity basis, or alternatively it seeks its costs of the proceeding including the cross-claim on the ordinary basis.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Brett James Puxty, the first respondent and first cross claimant, Francis Coggan, the second respondent, and Odyssey Advisory Services Pty Ltd, the third respondent and second cross claimant, resist those orders. They contend that Monarch is only entitled to 50% to 60% of its costs of the proceeding on the ordinary basis. Mr Puxty and Odyssey (together, cross claimants) contend that they are entitled to 20% to 25% of their costs of the cross claim.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Three questions arise. First is Monarch entitled to all or only a portion of its costs of the proceeding? Secondly, are the cross claimants entitled to any of their costs of the cross claim? Thirdly, is Monarch entitled to its costs assessed on the indemnity basis from 11 am on 31 January 2024 , being two business days after, the date on which it served an offer of compromise under r 25.01 of the Federal Court Rules 2011 (Cth), or alternatively from 27 February 20204, the day on which its offer made pursuant to the principles in Calderbank v Calderbank [1975] 3 All ER 333 expired?",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "It is convenient to address the first two questions together.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "As to its claim for costs, Monarch submits that, notwithstanding that it did not press its claims under the Australian Consumer Law, being Sch 2 to the Competition and Consumer Act 2010 (Cth) (ACL) and its claims under the Corporations Act 2001 (Cth), the relevant facts giving rise to those claims were the same as those relied on by it in relation to the claim on which it was successful. They contend that the claims that were not pressed were substantially legal arguments that arose from the same factual substratum and, to the extent that other facts may have supported those claims, they were of no material significance. In support of that submission, Monarch relied on an analysis of the affidavits filed by the parties which categorised the evidence by reference to the issue to which it went. The result of that analysis was that the evidence was either for background, concerned the restraint clauses in the employment agreements between Monarch and each of Messrs Puxty and Coggan, concerned the issue of consent raised by the respondents by way of defence and cross claim or went to damages.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Monarch submits that on any proper analysis of the evidence, submissions and time taken at the trial it is abundantly clear that the focus of the proceeding was on Monarch’s primary claim that Messrs Puxty and Coggan had breached the restraint clauses in their respective employment agreements with Monarch. It contends that Odyssey did not take any active role in the proceeding in that the respondents relied on evidence given by Messrs Puxty and Coggan and Odyssey was simply their alter ego.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Monarch submits that the vast majority of the proceeding was focussed on two issues: first, the respondents’ contention that Monarch had consented to Mr Puxty continuing to service a group of clients; and secondly, the reasonableness of the restraints. It says that it was successful on both issues.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "In relation to the cross-claim, Monarch submits that the primary focus of that claim was Mr Puxty’s contention that an agreement had been reached that he would be entitled to take back those clients he had referred to Monarch if the arrangement with Madison Marcus did not eventuate, an issue which had a significant overlap with the first issue referred to in the preceding paragraph, and on which the cross-claimants did not succeed.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "It was not in dispute that ordinarily costs follow the event. Applying that rule, I would make an order that the respondents pay Monarch’s costs of the proceeding and that Monarch pay the cross claimants’ costs of the cross claim. However, s 43 of the Federal Court of Australia Act 1976 (Cth) confers a broad discretion on the Court in relation to costs, which is not subject to any limitations and is only confined to the extent that the subject matter, scope and purpose of the Federal Court Act indicates otherwise and by the obligation imposed by s 37M(3) of the Federal Court Act to exercise the power in a way that best facilitates the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible: see Caporaso Pty Ltd v Mercato Centrale Australia Pty Ltd (Costs) [2025] FCAFC 29 (Katzmann, Wheelahan and Hespe JJ) at [16].",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The Full Court in Caporaso also observed (at [16]) that, while in general a successful party will be awarded its costs, it may also be deprived of its costs of those issues and in some cases may be ordered to pay its opponent’s costs. The outcome will depend on the circumstances of the particular case.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "Here Monarch pleaded a wide ranging case alleging not only breaches by Messrs Puxty and Coggan of the employment agreements but breaches of s 18 of the ACL and s 182 and s 183 of the Corporations Act and claimed damages for those breaches. Monarch abandoned those latter claims at the “eleventh hour”, upon delivery of its closing submissions. Monarch’s analysis of the lay evidence suggests that it was relevant to the single claim it ultimately pressed and the cross claim. However, that analysis is not determinative nor can it be viewed in isolation.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Contrary to Monarch’s submission, the pleading and pursuit of the abandoned claims, which covered a number of distinct legal areas and involved serious allegations, would have resulted in wasted costs on the part of the respondents when the whole of the proceeding is considered. For example, the need to plead to the wider case, in considering any discovery or other document disclosure, in preparing evidence and in preparation for trial. As I observed in Monarch Advisory at [7], [120] and [209] Monarch abandoned all of its claims against Odyssey and a significant portion of its claims against Messrs Puxty and Coggan.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Monarch succeeded on the remaining claim in which it alleged breach of the restraint clauses in the employment agreements. It should have its costs insofar as it did so. In my view, having regard to all of the issues raised by Monarch in the proceeding, those which were abandoned and the claim on which it was successful, Monarch is entitled to 60% of its costs of the proceeding.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "As for the cross-claim, the cross-claimants achieved some success, namely in relation to their claim for $30,000 as a debt, which the cross claimants accept was the minor part of their claim. I am satisfied the cross claimants should have their costs reflecting their measure of success and in that regard should have 20% of their costs of the cross claim.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "The final question concerns whether Monarch is entitled to its costs on the indemnity basis from 27 February 2024. Relevantly, on 29 January 2024 Monarch served an offer of compromise pursuant to r 25.01 of the Rules which was in the following terms:\nThe applicant / cross-respondent offers to compromise this proceeding in its entirety.\nThe offer is:\nStatement of claim\n(a) Judgment entered in favour of the applicant in the sum of $500,000.\n(b) No order as to costs.\n(c) All costs in this proceeding, together with any costs orders made in proceedings no. NSD779/2021, be set aside.\nCross-claim\n(d) Judgment entered in favour of the cross-respondent.\n(e) No order as to costs.\nThe amount of the offer in respect of the claim is $500,000 and the amount of interest (if any) is $0.\nThe offer is inclusive of costs.\nThis offer of compromise is open to be accepted for twenty eight (28) days after service of this offer of compromise.\nThe amount of the offer will be paid within 28 days after acceptance of this offer.\nThis offer is made without prejudice.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The letter under cover of which the offer of compromise was served included a summary of the claims made by Monarch in the proceeding and against it in the cross claim and its views as to why it would be successful in its claim for breach of the restraint clauses and in defending the cross claim. The letter referred to and repeated the contents of the enclosed offer of compromise and concluded in the following way:\n20. In respect of the judgment amount referred to in paragraph 19(a) above, we note it has been calculated as follows:\n(a) the sum of $300,000, for damages, constituting a discount of approximately 40 per cent on Monarch's damages claim; and\n(b) the sum of $200,000 for costs, constituting a discount of approximately 35 per cent of the costs Monarch has incurred. We note in this respect that Monarch has incurred in excess of $300,000 in costs in this proceeding to date, much of which (as noted above) Monarch will be entitled to recover from your client regardless of the outcome of the proceeding.\n21. If for any reason, the Offer of Compromise is found not to comply with the relevant provisions in the Rules, then the Offer of Compromise is also made on the same terms in accordance with the principles set out in Calderbank v Calderbank [1975] 3 All ER 333.\n22. The Offer of Compromise is open for acceptance for twenty-eight (28) days from the date of this letter.\n23. For inter alia the reasons set out above the Offer of Compromise constitutes a significant compromise of Monarch's position in respect of the matter in circumstances where inter alia:\n(a) the monetary sum is less than the total of Monarch's claim for damages and is exclusive of interest;\n(b) the costs component of Monarch's offer constitutes a 35 per cent discount on the costs it has incurred in respect of the matter; and\n(c) Monarch is confident that it will succeed should the matter proceed to a final hearing.\n24. Monarch reserves its right to rely on this letter as to the question of indemnity costs.\n25. Monarch otherwise reserves its rights.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "Monarch submits that at the time it issued the offer of compromise and Calderbank offer the judgment sum plus interest was $315,204.11 (including interest of $44,610.51 calculated from 2 February 2021 to 29 January 2024), it had incurred in excess of $300,000 in legal costs and the existing costs orders made in this proceeding and in proceeding NSD779/2021 in its favour were estimated to be about $100,000. Monarch contends that it is clear that it has achieved a more favourable result than the terms of the offer of compromise and that on application of r 25.14(3) of the Rules it is entitled to an order for party-party costs up to 11 am on the second business day after the offer was served and thereafter to an order for costs on an indemnity basis. Alternatively, Monarch submits that it is entitled to its costs on the indemnity basis from the date that its Calderbank offer expired, 27 February 2024, because the respondents acted unreasonably in failing to accept the offer having regard to the circumstances that existed at the time.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Part 25 of the Rules concerns offers of compromise. Rule 25.01 permits a party to make an offer to compromise by serving a notice in the prescribed form. Rule 25.14 provides for the costs consequences where an offer made in accordance with r 25.01 is not accepted. Relevantly r 25.14(3) provides:\nIf an offer is made by an applicant and not accepted by a respondent, and the applicant obtains a judgment that is more favourable than the terms of the offer, the applicant is entitled to an order that the respondent pay the applicant's costs:\n(a) before 11.00 am on the second business day after the offer was served--on a party and party basis; and\n(b) after the time mentioned in paragraph (a)--on an indemnity basis.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "In Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 8) [2017] FCA 258 Besanko J said the following about the operation of r 25.14 of the Rules at [101]:\nThe effect of an offer falling within s 25.14(1) is to give rise to a rebuttable presumption in favour of an order for indemnity costs. That follows from the fact that the Court’s power to make an order inconsistent with the Rules (r 1.35) is equivalent to the “otherwise orders” that appeared in O 23 r 11(6) of the former Rules (Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141). The party resisting the order for indemnity costs (in this case Basetec) bears the onus of showing that it should not be made (Futuretronics.com.au Pty Ltd v Graphix Labels Pty Ltd [2009] FCAFC 40 at [10]). (See generally, Specsavers Pty Limited v The Optical Superstore Pty Ltd (2012) 208 FCR 78 at [21].) Although a case dealing with the former Rules, I think the Full Court’s observation in Richardson v Oracle Corporation Australia Pty Ltd (No 2) [2014] FCAFC 139 at [11] applies to the current Rules, that is, that the presumption is not applied if proper reasons exist which, in general, only arise in an exceptional case.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "In Ezy-Fit Engineering Group Pty Limited v Microm Nominees Pty Limited (No 4) [2025] FCA 411 Banks-Smith J set out the following principles in relation to offers of compromise under the Rules and Calderbank offers at [43]-[46]:\n43 The Court may make an order that is inconsistent with the Federal Court Rules: r 1.35. There is power to make an order inconsistent with r 25.14 where there is reason to do so, including in those cases where the application of r 25.14 would lead to or cause injustice or not meet the justice of the case: Sydney Equine Coaches Pty Ltd v Gorst [2017] FCAFC 34 (Rares, Flick and Bromwich JJ) at [14]-[24].\n44 As to consideration of a Calderbank offer, the mere refusal of the offer does not lead to an award of indemnity costs. It must be shown that the rejection of the offer was imprudent or unreasonable: Keays v JP Morgan Administrative Services Australia Ltd [2012] FCAFC 100 at [125] (Besanko J, Gray and North JJ agreeing). Assessment of whether an offeree's refusal is unreasonable is a wide-ranging inquiry that is not restricted to consideration of matters such as the quantum rejected: Anchorage Capital Partners Pty Limited v ACPA Pty Ltd (No 2) [2018] FCAFC 112 at [8] (Nicholas, Yates and Beach JJ).\n45 The factors that night be taken into account in such assessment are well-recognised: Hazeldene's Chicken Farm Pty Ltd v Victorian WorkCover Authority (No 2) [2005] VSCA 298; (2005) 13 VR 435 at [25] (Warren CJ, Maxwell P and Harper AJA). They include:\n(a) the stage of the proceeding at which the offer was received;\n(b) the time allowed to the offeree to consider the offer;\n(c) the extent of the compromise offered;\n(d) the offeree's prospects of success, assessed as at the date of the offer;\n(e) the clarity with which the terms of the offer were expressed; and\n(f) whether the offer foreshadowed an application for indemnity costs in the event of the offeree rejecting it.\n46 Having regard to r 25.03, it is apparent that an offer under the regime in the Federal Court Rules may be made inclusive of costs. In the context of Calderbank principles, such offers have sometimes not been treated as effective. However, the circumstances of the case must always be considered.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "In my view Monarch is not entitled to indemnity costs based on its offer of compromise or Calderbank offer. That is primarily because it did not obtain a judgment that is more favourable than the terms of the offer.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "First, the offer of compromise was for judgment of $500,000. However, Monarch succeeded against only two of the three respondents for a principal amount of $300,593.60 on its claim and for a net amount of $270,593.60, taking into account the amount that Monarch is to pay the cross claimants on the cross claim.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "Secondly, the offer of compromise included the release of various interlocutory costs orders and a costs order made in a different proceeding. As to the former, at the time the offer was made the respondents could not assess the likely amount payable to satisfy those orders. Monarch’s attempt to quantify those costs after the fact in evidence recently compiled and relied on for the purpose of the present determination of the question of costs of the proceeding does not assist. As to the latter, the inclusion of a costs order in a different proceeding meant that the offer of compromise went beyond the proceeding in which it was made.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "Relatedly, the offer of compromise was put on a costs inclusive basis. The respondents were not provided with information to test and assess that component of the offer. As I have already observed, evidence now relied on by Monarch as to what costs were incurred by Monarch at the time the offer was made do not assist. That information was not provided or made available at the time the offer of compromise was served to enable the respondents to assess the reasonableness of the offer.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "Thirdly, the offer of compromise included a term that the cross claim be dismissed with no order as to costs. In fact, the cross claimants enjoyed some success on the cross claim so that Monarch did not achieve a more favourable result following the hearing on the cross claim.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "It follows from the above that the respondents are to pay 60% of Monarch’s costs of the proceeding on the amended statement of claim on the ordinary basis and that Monarch is to pay 20% of the cross claimants’ costs of the amended cross claim on the ordinary basis.",
+    "judge": "MARKOVIC J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "conclusion"
+    ],
+    "text": "I will make orders accordingly.",
+    "judge": "MARKOVIC J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-nine (29) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Markovic.",
+ "associate": null,
+ "dated": "2025-06-26",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 951 of 2020\nCross-Claimants\nSecond Cross-Claimant: | ODYSSEY ADVISORY SERVICES PTY LTD"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Monarch Advisory Group Pty Ltd (in liquidation) v Puxty (Costs) [2025] FCA 697\n\n## Cover sheet\n\n**File number:** NSD 951 of 2020\n\n**Judgment of:** MARKOVIC J\n\n**Date of judgment:** 26 June 2025\n\n**Catchwords:** COSTS – application for costs to be paid on an indemnity basis – where applicant had partial success at trial – where cross-claimants had partial success at trial – where offer of compromise and Calderbank offer made – whether offeror achieved a more favourable result at trial than the terms of the offer of compromise – application for indemnity costs dismissed – costs awarded on a party and party basis commensurate with success at trial\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) s 43  \nFederal Court Rules 2011 (Cth) rr 25.01, 25.14\n\n**Cases cited:** Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 8) [2017] FCA 258  \nCalderbank v Calderbank [1975] 3 All ER 333  \nCaporaso Pty Ltd v Mercato Centrale Australia Pty Ltd (Costs) [2025] FCAFC 29  \nEzy-Fit Engineering Group Pty Limited v Microm Nominees Pty Limited (No 4) [2025] FCA 411  \nMonarch Advisory Group Pty Ltd v Puxty (No 4) [2025] FCA 534\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Commercial Contracts, Banking, Finance and Insurance\n\n**Number of paragraphs:** 29\n\n**Date of hearing:** Determined on the papers\n\n**Counsel for the Applicant:** Mr D Mahendra\n\n**Solicitor for the Applicant:** Madison Marcus Law Firm\n\n**Counsel for the Respondents:** Mr V Bedrossian SC and Ms S Erian\n\n**Solicitor for the Respondents:** Edge Legal Group\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 951 of 2020 |\n|---|---|\n| BETWEEN: | MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)<br>Applicant |\n| AND: | BRETT JAMES PUXTY<br>First Respondent<br>FRANCIS COGGAN<br>Second Respondent<br>ODYSSEY ADVISORY SERVICES PTY LTD<br>Third Respondent |\n| AND BETWEEN: | BRETT JAMES PUXTY (and another named in the Schedule)<br>First Cross-Claimant |\n| AND: | MONARCH ADVISORY GROUP PTY LTD (IN LIQUIDATION)<br>Cross-Respondent |\n\n| order made by: | MARKOVIC J |\n|---|---|\n| DATE OF ORDER: | 26 june 2025 |\n\n### THE COURT ORDERS THAT:\n\n1. The respondents are to pay 60% of the applicant’s costs of the amended statement of claim filed on 4 February 2022.\n\n2. The cross-respondent is to pay 20% of the cross-claimants’ costs of the amended statement of cross claim filed on 27 February 2023.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### MARKOVIC J:\n\n[1] On 23 May 2025 I made orders requiring the parties to provide draft orders to my Associate following publication of reasons including on the question of costs. If the parties could not agree on the form of orders to be made, they were to provide short submissions together with their respective proposed orders: see Monarch Advisory Group Pty Ltd v Puxty (No 4) [2025] FCA 534.\n\n[2] Thereafter the parties provided their proposed orders and submission in support. The area of disagreement between the parties is in relation to costs of the proceeding. The parties have agreed that I should determine the questions of costs on the papers. Accordingly, these reasons address the parties’ respective positions.\n\n[3] Monarch Advisory Group Pty Ltd (in liquidation), the applicant in the proceeding and the respondent to the cross claim, seeks all of its costs of the proceeding including the cross claim on the ordinary basis up to 11 am on 31 January 2024, or alternatively up to and including 27 February 2024, and thereafter on an indemnity basis, or alternatively it seeks its costs of the proceeding including the cross-claim on the ordinary basis.\n\n[4] Brett James Puxty, the first respondent and first cross claimant, Francis Coggan, the second respondent, and Odyssey Advisory Services Pty Ltd, the third respondent and second cross claimant, resist those orders. They contend that Monarch is only entitled to 50% to 60% of its costs of the proceeding on the ordinary basis. Mr Puxty and Odyssey (together, cross claimants) contend that they are entitled to 20% to 25% of their costs of the cross claim.\n\n[5] Three questions arise. First is Monarch entitled to all or only a portion of its costs of the proceeding? Secondly, are the cross claimants entitled to any of their costs of the cross claim? Thirdly, is Monarch entitled to its costs assessed on the indemnity basis from 11 am on 31 January 2024 , being two business days after, the date on which it served an offer of compromise under r 25.01 of the Federal Court Rules 2011 (Cth), or alternatively from 27 February 20204, the day on which its offer made pursuant to the principles in Calderbank v Calderbank [1975] 3 All ER 333 expired?\n\n[6] It is convenient to address the first two questions together.\n\n[7] As to its claim for costs, Monarch submits that, notwithstanding that it did not press its claims under the Australian Consumer Law, being Sch 2 to the Competition and Consumer Act 2010 (Cth) (ACL) and its claims under the Corporations Act 2001 (Cth), the relevant facts giving rise to those claims were the same as those relied on by it in relation to the claim on which it was successful. They contend that the claims that were not pressed were substantially legal arguments that arose from the same factual substratum and, to the extent that other facts may have supported those claims, they were of no material significance. In support of that submission, Monarch relied on an analysis of the affidavits filed by the parties which categorised the evidence by reference to the issue to which it went. The result of that analysis was that the evidence was either for background, concerned the restraint clauses in the employment agreements between Monarch and each of Messrs Puxty and Coggan, concerned the issue of consent raised by the respondents by way of defence and cross claim or went to damages.\n\n[8] Monarch submits that on any proper analysis of the evidence, submissions and time taken at the trial it is abundantly clear that the focus of the proceeding was on Monarch’s primary claim that Messrs Puxty and Coggan had breached the restraint clauses in their respective employment agreements with Monarch. It contends that Odyssey did not take any active role in the proceeding in that the respondents relied on evidence given by Messrs Puxty and Coggan and Odyssey was simply their alter ego.\n\n[9] Monarch submits that the vast majority of the proceeding was focussed on two issues: first, the respondents’ contention that Monarch had consented to Mr Puxty continuing to service a group of clients; and secondly, the reasonableness of the restraints. It says that it was successful on both issues.\n\n[10] In relation to the cross-claim, Monarch submits that the primary focus of that claim was Mr Puxty’s contention that an agreement had been reached that he would be entitled to take back those clients he had referred to Monarch if the arrangement with Madison Marcus did not eventuate, an issue which had a significant overlap with the first issue referred to in the preceding paragraph, and on which the cross-claimants did not succeed.\n\n[11] It was not in dispute that ordinarily costs follow the event. Applying that rule, I would make an order that the respondents pay Monarch’s costs of the proceeding and that Monarch pay the cross claimants’ costs of the cross claim. However, s 43 of the Federal Court of Australia Act 1976 (Cth) confers a broad discretion on the Court in relation to costs, which is not subject to any limitations and is only confined to the extent that the subject matter, scope and purpose of the Federal Court Act indicates otherwise and by the obligation imposed by s 37M(3) of the Federal Court Act to exercise the power in a way that best facilitates the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible: see Caporaso Pty Ltd v Mercato Centrale Australia Pty Ltd (Costs) [2025] FCAFC 29 (Katzmann, Wheelahan and Hespe JJ) at [16].\n\n[12] The Full Court in Caporaso also observed (at [16]) that, while in general a successful party will be awarded its costs, it may also be deprived of its costs of those issues and in some cases may be ordered to pay its opponent’s costs. The outcome will depend on the circumstances of the particular case.\n\n[13] Here Monarch pleaded a wide ranging case alleging not only breaches by Messrs Puxty and Coggan of the employment agreements but breaches of s 18 of the ACL and s 182 and s 183 of the Corporations Act and claimed damages for those breaches. Monarch abandoned those latter claims at the “eleventh hour”, upon delivery of its closing submissions. Monarch’s analysis of the lay evidence suggests that it was relevant to the single claim it ultimately pressed and the cross claim. However, that analysis is not determinative nor can it be viewed in isolation.\n\n[14] Contrary to Monarch’s submission, the pleading and pursuit of the abandoned claims, which covered a number of distinct legal areas and involved serious allegations, would have resulted in wasted costs on the part of the respondents when the whole of the proceeding is considered. For example, the need to plead to the wider case, in considering any discovery or other document disclosure, in preparing evidence and in preparation for trial. As I observed in Monarch Advisory at [7], [120] and [209] Monarch abandoned all of its claims against Odyssey and a significant portion of its claims against Messrs Puxty and Coggan.\n\n[15] Monarch succeeded on the remaining claim in which it alleged breach of the restraint clauses in the employment agreements. It should have its costs insofar as it did so. In my view, having regard to all of the issues raised by Monarch in the proceeding, those which were abandoned and the claim on which it was successful, Monarch is entitled to 60% of its costs of the proceeding.\n\n[16] As for the cross-claim, the cross-claimants achieved some success, namely in relation to their claim for $30,000 as a debt, which the cross claimants accept was the minor part of their claim. I am satisfied the cross claimants should have their costs reflecting their measure of success and in that regard should have 20% of their costs of the cross claim.\n\n[17] The final question concerns whether Monarch is entitled to its costs on the indemnity basis from 27 February 2024. Relevantly, on 29 January 2024 Monarch served an offer of compromise pursuant to r 25.01 of the Rules which was in the following terms:\n\n> The applicant / cross-respondent offers to compromise this proceeding in its entirety.\n\n> The offer is:\n\n> Statement of claim\n\n> (a) Judgment entered in favour of the applicant in the sum of $500,000.\n\n> (b) No order as to costs.\n\n> (c) All costs in this proceeding, together with any costs orders made in proceedings no. NSD779/2021, be set aside.\n\n> Cross-claim\n\n> (d) Judgment entered in favour of the cross-respondent.\n\n> (e) No order as to costs.\n\n> The amount of the offer in respect of the claim is $500,000 and the amount of interest (if any) is $0.\n\n> The offer is inclusive of costs.\n\n> This offer of compromise is open to be accepted for twenty eight (28) days after service of this offer of compromise.\n\n> The amount of the offer will be paid within 28 days after acceptance of this offer.\n\n> This offer is made without prejudice.\n\n[18] The letter under cover of which the offer of compromise was served included a summary of the claims made by Monarch in the proceeding and against it in the cross claim and its views as to why it would be successful in its claim for breach of the restraint clauses and in defending the cross claim. The letter referred to and repeated the contents of the enclosed offer of compromise and concluded in the following way:\n\n> 20. In respect of the judgment amount referred to in paragraph 19(a) above, we note it has been calculated as follows:\n\n> (a) the sum of $300,000, for damages, constituting a discount of approximately 40 per cent on Monarch's damages claim; and\n\n> (b) the sum of $200,000 for costs, constituting a discount of approximately 35 per cent of the costs Monarch has incurred. We note in this respect that Monarch has incurred in excess of $300,000 in costs in this proceeding to date, much of which (as noted above) Monarch will be entitled to recover from your client regardless of the outcome of the proceeding.\n\n> 21. If for any reason, the Offer of Compromise is found not to comply with the relevant provisions in the Rules, then the Offer of Compromise is also made on the same terms in accordance with the principles set out in Calderbank v Calderbank [1975] 3 All ER 333.\n\n> 22. The Offer of Compromise is open for acceptance for twenty-eight (28) days from the date of this letter.\n\n> 23. For inter alia the reasons set out above the Offer of Compromise constitutes a significant compromise of Monarch's position in respect of the matter in circumstances where inter alia:\n\n> (a) the monetary sum is less than the total of Monarch's claim for damages and is exclusive of interest;\n\n> (b) the costs component of Monarch's offer constitutes a 35 per cent discount on the costs it has incurred in respect of the matter; and\n\n> (c) Monarch is confident that it will succeed should the matter proceed to a final hearing.\n\n> 24. Monarch reserves its right to rely on this letter as to the question of indemnity costs.\n\n> 25. Monarch otherwise reserves its rights.\n\n[19] Monarch submits that at the time it issued the offer of compromise and Calderbank offer the judgment sum plus interest was $315,204.11 (including interest of $44,610.51 calculated from 2 February 2021 to 29 January 2024), it had incurred in excess of $300,000 in legal costs and the existing costs orders made in this proceeding and in proceeding NSD779/2021 in its favour were estimated to be about $100,000. Monarch contends that it is clear that it has achieved a more favourable result than the terms of the offer of compromise and that on application of r 25.14(3) of the Rules it is entitled to an order for party-party costs up to 11 am on the second business day after the offer was served and thereafter to an order for costs on an indemnity basis. Alternatively, Monarch submits that it is entitled to its costs on the indemnity basis from the date that its Calderbank offer expired, 27 February 2024, because the respondents acted unreasonably in failing to accept the offer having regard to the circumstances that existed at the time.\n\n[20] Part 25 of the Rules concerns offers of compromise. Rule 25.01 permits a party to make an offer to compromise by serving a notice in the prescribed form. Rule 25.14 provides for the costs consequences where an offer made in accordance with r 25.01 is not accepted. Relevantly r 25.14(3) provides:\n\n> If an offer is made by an applicant and not accepted by a respondent, and the applicant obtains a judgment that is more favourable than the terms of the offer, the applicant is entitled to an order that the respondent pay the applicant's costs:\n\n> (a) before 11.00 am on the second business day after the offer was served--on a party and party basis; and\n\n> (b) after the time mentioned in paragraph (a)--on an indemnity basis.\n\n[21] In Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 8) [2017] FCA 258 Besanko J said the following about the operation of r 25.14 of the Rules at [101]:\n\n> The effect of an offer falling within s 25.14(1) is to give rise to a rebuttable presumption in favour of an order for indemnity costs. That follows from the fact that the Court’s power to make an order inconsistent with the Rules (r 1.35) is equivalent to the “otherwise orders” that appeared in O 23 r 11(6) of the former Rules (Kooee Communications Pty Ltd v Primus Telecommunications Pty Ltd (No 2) [2011] FCAFC 141). The party resisting the order for indemnity costs (in this case Basetec) bears the onus of showing that it should not be made (Futuretronics.com.au Pty Ltd v Graphix Labels Pty Ltd [2009] FCAFC 40 at [10]). (See generally, Specsavers Pty Limited v The Optical Superstore Pty Ltd (2012) 208 FCR 78 at [21].) Although a case dealing with the former Rules, I think the Full Court’s observation in Richardson v Oracle Corporation Australia Pty Ltd (No 2) [2014] FCAFC 139 at [11] applies to the current Rules, that is, that the presumption is not applied if proper reasons exist which, in general, only arise in an exceptional case.\n\n[22] In Ezy-Fit Engineering Group Pty Limited v Microm Nominees Pty Limited (No 4) [2025] FCA 411 Banks-Smith J set out the following principles in relation to offers of compromise under the Rules and Calderbank offers at [43]-[46]:\n\n> 43 The Court may make an order that is inconsistent with the Federal Court Rules: r 1.35. There is power to make an order inconsistent with r 25.14 where there is reason to do so, including in those cases where the application of r 25.14 would lead to or cause injustice or not meet the justice of the case: Sydney Equine Coaches Pty Ltd v Gorst [2017] FCAFC 34 (Rares, Flick and Bromwich JJ) at [14]-[24].\n\n> 44 As to consideration of a Calderbank offer, the mere refusal of the offer does not lead to an award of indemnity costs. It must be shown that the rejection of the offer was imprudent or unreasonable: Keays v JP Morgan Administrative Services Australia Ltd [2012] FCAFC 100 at [125] (Besanko J, Gray and North JJ agreeing). Assessment of whether an offeree's refusal is unreasonable is a wide-ranging inquiry that is not restricted to consideration of matters such as the quantum rejected: Anchorage Capital Partners Pty Limited v ACPA Pty Ltd (No 2) [2018] FCAFC 112 at [8] (Nicholas, Yates and Beach JJ).\n\n> 45 The factors that night be taken into account in such assessment are well-recognised: Hazeldene's Chicken Farm Pty Ltd v Victorian WorkCover Authority (No 2) [2005] VSCA 298; (2005) 13 VR 435 at [25] (Warren CJ, Maxwell P and Harper AJA). They include:\n\n> (a) the stage of the proceeding at which the offer was received;\n\n> (b) the time allowed to the offeree to consider the offer;\n\n> (c) the extent of the compromise offered;\n\n> (d) the offeree's prospects of success, assessed as at the date of the offer;\n\n> (e) the clarity with which the terms of the offer were expressed; and\n\n> (f) whether the offer foreshadowed an application for indemnity costs in the event of the offeree rejecting it.\n\n> 46 Having regard to r 25.03, it is apparent that an offer under the regime in the Federal Court Rules may be made inclusive of costs. In the context of Calderbank principles, such offers have sometimes not been treated as effective. However, the circumstances of the case must always be considered.\n\n[23] In my view Monarch is not entitled to indemnity costs based on its offer of compromise or Calderbank offer. That is primarily because it did not obtain a judgment that is more favourable than the terms of the offer.\n\n[24] First, the offer of compromise was for judgment of $500,000. However, Monarch succeeded against only two of the three respondents for a principal amount of $300,593.60 on its claim and for a net amount of $270,593.60, taking into account the amount that Monarch is to pay the cross claimants on the cross claim.\n\n[25] Secondly, the offer of compromise included the release of various interlocutory costs orders and a costs order made in a different proceeding. As to the former, at the time the offer was made the respondents could not assess the likely amount payable to satisfy those orders. Monarch’s attempt to quantify those costs after the fact in evidence recently compiled and relied on for the purpose of the present determination of the question of costs of the proceeding does not assist. As to the latter, the inclusion of a costs order in a different proceeding meant that the offer of compromise went beyond the proceeding in which it was made.\n\n[26] Relatedly, the offer of compromise was put on a costs inclusive basis. The respondents were not provided with information to test and assess that component of the offer. As I have already observed, evidence now relied on by Monarch as to what costs were incurred by Monarch at the time the offer was made do not assist. That information was not provided or made available at the time the offer of compromise was served to enable the respondents to assess the reasonableness of the offer.\n\n[27] Thirdly, the offer of compromise included a term that the cross claim be dismissed with no order as to costs. In fact, the cross claimants enjoyed some success on the cross claim so that Monarch did not achieve a more favourable result following the hearing on the cross claim.\n\n### conclusion\n\n[28] It follows from the above that the respondents are to pay 60% of Monarch’s costs of the proceeding on the amended statement of claim on the ordinary basis and that Monarch is to pay 20% of the cross claimants’ costs of the amended cross claim on the ordinary basis.\n\n[29] I will make orders accordingly.\n\nI certify that the preceding twenty-nine (29) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Markovic.\n\nAssociate:\n\nDated: 26 June 2025\n\n### SCHEDULE OF PARTIES\n\n|  | NSD 951 of 2020 |\n|---|---|\n| Cross-Claimants |  |\n| Second Cross-Claimant: | ODYSSEY ADVISORY SERVICES PTY LTD |\n",
+ "source_sha256": "939adf30668f053c5cc7d6fd5b1d99259dfc02256203938cb4faaf75d1f54467"
+}

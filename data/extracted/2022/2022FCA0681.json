@@ -1,0 +1,688 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2022/2022FCA0681.docx",
+ "metadata": {
+  "citation": "[2022] FCA 681",
+  "name": "Hamilton v Meta Platforms, Inc (Service out of Jurisdiction)",
+  "court": "FCA",
+  "year": 2022,
+  "number": 681,
+  "date_of_judgment": "2022-06-10",
+  "file_numbers": [
+   "NSD899/2020"
+  ],
+  "judges": [
+   "CHEESEMAN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Commercial Contracts, Banking, Finance and Insurance",
+  "hearing_dates": [
+   "2021-09-24",
+   "2021-10-05",
+   "2021-10-11"
+  ],
+  "hearing_raw": "24 September 2021, 5 October 2021 and 11 October 2021",
+  "number_of_paragraphs": 50,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – service – ex parte interlocutory application to serve respondents in the United States of America pursuant to rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth) – where proceedings are representative proceedings which include claims for relief in respect of alleged contravention of provisions in Part IV of the Competition and Consumer Act 2010 (Cth) – whether applicant has satisfied the elements of rr 10.43(3) and 10.44(2) of the Rules – whether leave should be granted – Held: leave to serve out of jurisdiction granted.",
+   "PRACTICE AND PROCEDURE – application in respect of respondents in the United States of America for substituted service by email under r 10.24 of the Rules – where no evidence filed as to practicality of service being effected in accordance with the Rules – whether substituted service orders should be made – Held: application for substituted service dismissed."
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth), ss 4, 5(1)(g), 45AC, 45AD, 45AK, 45(1)(b), 45(1)(c), 45(3), 80, 82(1), 82(4), 86(1), 87(1), 138B, 163A(1), 163A(3A)",
+   "Evidence Act 1995 (Cth), ss 75, 144(1)(a)",
+   "Federal Court of Australia Act 1976 (Cth), ss 21, 22, 33V",
+   "Federal Court Rules 2011 (Cth), rr 1.34, 10.23, 10.24, 10.43(2), 10.43(3), 10.43(4), 10.44(1), 10.45, 10.48"
+  ],
+  "cases_cited": [
+   "ACN 117 641 004 Pty Ltd (in liq) formerly Vale Pty Ltd) v S&P Global, Inc [2020] FCA 1745",
+   "Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 6) [2010] FCA 704; 270 ALR 504",
+   "Australian Competition and Consumer Commission v Facebook, Inc [2021] FCA 244",
+   "Australian Competition and Consumer Commission v Yellow Page Marketing BV [2010] FCA 1218",
+   "Australian Information Commission v Facebook Inc [2020] FCA 531; 144 ACSR 88",
+   "Bray v F.Hoffmann-La Roche Ltd [2003] FCAFC 153; 130 FCR 317",
+   "Century Insurance (in prov liq) v New Zealand Guardian Trust Ltd [1996] FCA 376",
+   "Commissioner of Taxation v Caratti (No 2) [2018] FCA 1500",
+   "Epic Games v Apple Inc [2021] FCAFC 122; 286 FCR 105",
+   "Epic Games, Inc v Google LLC (Service Out of Jurisdiction) [2021] FCA 666",
+   "Facebook Inc v Australian Information Commissioner [2022] FCAFC 9",
+   "Federal Commissioner of Taxation v Zeitouni [2013] FCA 1011; 306 ALR 603",
+   "Ho v Akai Pty Ltd (in liq) [2006] FCAFC 159; 247 FCR 205",
+   "Humane Society International Inc v Kyodo Senpaku Kaisha Ltd [2006] FCAFC 116; 154 FCR 425",
+   "Israel Discount Bank Limited v ACN 078 272 867 Pty Ltd (in liq) (formerly Advance Finances Pty Ltd) [2019] FCAFC 90; 367 ALR 71",
+   "Jasmin Solar Pty Ltd v Trina Solar Australia Pty Ltd [2015] FCA 1453; 331 ALR 108",
+   "Kosmos Capital Pty Ltd v Turiya Ventures LLC [2019] FCA 528",
+   "NPP Australia Limited v Ripple Labs, Inc [2020] FCA 1237",
+   "Ross v Cotter [2015] FCA 310",
+   "Sanum Investments Limited v ST Group Co Ltd (No 2) [2019] FCA 1047",
+   "Webster v Computer Systems Pty Ltd v Fujitsu Ltd [2007] FCA 825"
+  ],
+  "parties": [
+   {
+    "name": "ANDREW HAMILTON",
+    "role": "Applicant"
+   },
+   {
+    "name": "META PLATFORMS, INC",
+    "role": "First Respondent"
+   },
+   {
+    "name": "GOOGLE LLC",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "The applicant appeared in person"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0681",
+  "portal_file_numbers": [
+   "NSD899/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2022-06-10"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 899 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "CHEESEMAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "10 June 2022"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – service – ex parte interlocutory application to serve respondents in the United States of America pursuant to rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth) – where proceedings are representative proceedings which include claims for relief in respect of alleged contravention of provisions in Part IV of the Competition and Consumer Act 2010 (Cth) – whether applicant has satisfied the elements of rr 10.43(3) and 10.44(2) of the Rules – whether leave should be granted – Held: leave to serve out of jurisdiction granted.\nPRACTICE AND PROCEDURE – application in respect of respondents in the United States of America for substituted service by email under r 10.24 of the Rules – where no evidence filed as to practicality of service being effected in accordance with the Rules – whether substituted service orders should be made – Held: application for substituted service dismissed."
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth), ss 4, 5(1)(g), 45AC, 45AD, 45AK, 45(1)(b), 45(1)(c), 45(3), 80, 82(1), 82(4), 86(1), 87(1), 138B, 163A(1), 163A(3A)\nEvidence Act 1995 (Cth), ss 75, 144(1)(a)\nFederal Court of Australia Act 1976 (Cth), ss 21, 22, 33V\nFederal Court Rules 2011 (Cth), rr 1.34, 10.23, 10.24, 10.43(2), 10.43(3), 10.43(4), 10.44(1), 10.45, 10.48"
+  },
+  {
+   "label": "Cases cited",
+   "value": "ACN 117 641 004 Pty Ltd (in liq) formerly Vale Pty Ltd) v S&P Global, Inc [2020] FCA 1745\nAustralian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 6) [2010] FCA 704; 270 ALR 504\nAustralian Competition and Consumer Commission v Facebook, Inc [2021] FCA 244\nAustralian Competition and Consumer Commission v Yellow Page Marketing BV [2010] FCA 1218\nAustralian Information Commission v Facebook Inc [2020] FCA 531; 144 ACSR 88\nBray v F.Hoffmann-La Roche Ltd [2003] FCAFC 153; 130 FCR 317\nCentury Insurance (in prov liq) v New Zealand Guardian Trust Ltd [1996] FCA 376\nCommissioner of Taxation v Caratti (No 2) [2018] FCA 1500\nEpic Games v Apple Inc [2021] FCAFC 122; 286 FCR 105\nEpic Games, Inc v Google LLC (Service Out of Jurisdiction) [2021] FCA 666\nFacebook Inc v Australian Information Commissioner [2022] FCAFC 9\nFederal Commissioner of Taxation v Zeitouni [2013] FCA 1011; 306 ALR 603\nHo v Akai Pty Ltd (in liq) [2006] FCAFC 159; 247 FCR 205\nHumane Society International Inc v Kyodo Senpaku Kaisha Ltd [2006] FCAFC 116; 154 FCR 425\nIsrael Discount Bank Limited v ACN 078 272 867 Pty Ltd (in liq) (formerly Advance Finances Pty Ltd) [2019] FCAFC 90; 367 ALR 71\nJasmin Solar Pty Ltd v Trina Solar Australia Pty Ltd [2015] FCA 1453; 331 ALR 108\nKosmos Capital Pty Ltd v Turiya Ventures LLC [2019] FCA 528\nNPP Australia Limited v Ripple Labs, Inc [2020] FCA 1237\nRoss v Cotter [2015] FCA 310\nSanum Investments Limited v ST Group Co Ltd (No 2) [2019] FCA 1047\nWebster v Computer Systems Pty Ltd v Fujitsu Ltd [2007] FCA 825"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Commercial Contracts, Banking, Finance and Insurance"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "50"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "24 September 2021, 5 October 2021 and 11 October 2021"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "The applicant appeared in person"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD899/2020",
+   "parties": [
+    {
+     "name": "ANDREW HAMILTON",
+     "role": "Applicant"
+    },
+    {
+     "name": "META PLATFORMS, INC",
+     "role": "First Respondent"
+    },
+    {
+     "name": "GOOGLE LLC",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "CHEESEMAN J"
+   ],
+   "date": "2022-06-10",
+   "date_raw": "10 JUNE 2022",
+   "orders": [
+    {
+     "label": "",
+     "text": "Court Documents means:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the Further Amended Originating Application dated 25 November 2021;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the Further Amended Statement of Claim dated 25 November 2021;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the applicant’s Genuine Steps Statement dated 13 August 2020;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the Interlocutory Application dated 27 August 2020;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the affidavits of Andrew Hamilton sworn on:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "27 August 2020;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "6 September 2020;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "10 December 2020;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1 March 2021;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "12 July 2021; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "7 October 2021;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the applicant’s consolidated written submissions dated 15 July 2021;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "these orders; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the accompanying reasons for judgment.",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "Pursuant to rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth), the applicant be granted leave to serve the Court Documents on the respondents in the United States of America in accordance with article 10(a) of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters opened for signature 15 November 1965, 658 UNTS 163 (entered into force 10 February 1969).",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "DEFINITIONS:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The applicant, Andrew Stuart Hamilton, has commenced representative proceedings against two companies incorporated outside Australia, namely Facebook, Inc (now Meta Platforms, Inc) and Google LLC, the first and second respondents respectively. Neither of the respondents have been served with any document in the proceeding. These reasons address Mr Hamilton’s ex parte interlocutory application for leave under rr 10.43 and 10.44 of the Federal Court Rules 2011 (Cth) to serve the Further Amended Originating Application, the Further Amended Statement of Claim (FASOC) and related documents on Facebook and Google in the United States of America in accordance with Art 10(a) of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, opened for signature 15 November 1965, 658 UNTS 163 (entered into force 10 February 1969) (the Hague Convention). These reasons also address Mr Hamilton’s application for substituted service under r 10.24 of the Rules.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "As part of this interlocutory application, Mr Hamilton sought an order under s 82(4) of the Competition and Consumer Act 2010 (Cth) (the CCA) that he not be liable for any of the costs of Facebook and Google, regardless of the outcome or likely outcome of the proceedings. In the event that such an order is refused, Mr Hamilton seeks leave under s 33V of the Federal Court of Australia Act 1976 (Cth) (FCA Act) to discontinue the proceedings, with leave to re-file proceedings at a later date. I declined to hear argument on Mr Hamilton’s application for an order limiting any future adverse costs order until after the application to serve out of jurisdiction was determined. If Mr Hamilton obtains leave to serve out of jurisdiction and then presses the application for adverse costs protection orders, the Court will have the benefit of a contradictor.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "Noting that the proceedings are brought as representative proceedings on behalf of group members, I will, for convenience, refer to Mr Hamilton as the proponent of the claims. Mr Hamilton’s claims can be traced to the period between 29 January 2018 and about July 2018 during which it is alleged that Facebook and Google introduced measures which prohibited or substantially restricted advertising related to cryptocurrency and, more broadly, the cryptocurrency industry. Mr Hamilton alleges that the restriction on advertising applied not only on the Facebook and Google platforms but also affected advertising on other platforms which drew advertising content from Facebook and/or Google. The restrictions on advertising of which Mr Hamilton complains were progressively modified by each of Facebook and Google, with the most recent modifications alleged to have taken effect in May 2019 (Facebook) and sometime between October 2018 and September 2019 (Google). Mr Hamilton seeks relief in respect of alleged contraventions of the CCA (including restrictive trade practices, misleading and deceptive conduct and accessorial liability) and tortious conduct (including deceit, malicious falsehood and conspiracy).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Issues to be determined",
+     "Leave Application"
+    ],
+    "text": "In the interlocutory application for leave to serve out of Australia, Mr Hamilton must establish first, that the Court has jurisdiction in the proceedings (r 10.43(4)(a)); second, that the proceedings are of a kind mentioned in r 10.42 of the Rules (r 10.43(4)(b)); and third, that he has a prima facie case for all or any of the relief claimed in the proceedings: (r 10.43(4)(c)). The application for leave to serve out must be accompanied by an affidavit stating (1) the name of the foreign country where the person to be served is or is likely to be; (2) the proposed method of service; and (3) that the proposed method of service is permitted, relevantly in the present application, under the Hague Convention: r 10.43(3). If Mr Hamilton establishes each of the matters in rr 10.43(3) and (4) of the Rules, the Court has a residual discretion as to whether to grant leave: Humane Society International Inc v Kyodo Senpaku Kaisha Ltd [2006] FCAFC 116; 154 FCR 425, 428 at [3] (Black CJ and Finkelstein J); Jasmin Solar Pty Ltd v Trina Solar Australia Pty Ltd [2015] FCA 1453; 331 ALR 108, 119 at [66] (Edelman J, when his Honour was in this Court).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Issues to be determined",
+     "Leave Application"
+    ],
+    "text": "Mr Hamilton need not establish a prima facie case in respect of all of his pleaded claims. He need only establish a prima facie case in relation to one cause of action or remedy: r 10.43(4)(c) of the Rules; Israel Discount Bank Limited v ACN 078 272 867 Pty Ltd (in liq) (formerly Advance Finances Pty Ltd) [2019] FCAFC 90; 367 ALR 71, 84 at [48] (Yates, Beach and Moshinsky JJ).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Issues to be determined",
+     "Leave Application"
+    ],
+    "text": "Although Mr Hamilton brings this application in respect of representative proceedings, he does not need to establish a prima facie case in respect of all potential categories of group members. Leave to serve out process where the proceedings are brought by way of representative proceedings is considered by applying the three conditions in r 10.43(4)(a) – (c): ACN 117 641 004 Pty Ltd (in liq) formerly Vale Pty Ltd) v S&P Global, Inc [2020] FCA 1745 at [25] (Rares J); Philipsen v American Medical Systems LLC [2018] FCA 246 at [18] (Katzmann J). For the purpose of this application, it is sufficient if Mr Hamilton establishes that he, as a group member, has a prima facie case in respect of one of his pleaded claims: S&P Global at [25].",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Issues to be determined",
+     "Substituted Service"
+    ],
+    "text": "The issue on the substituted service application reduces, in essence, to whether Mr Hamilton has established that it is not practicable for him, using reasonable effort, to serve the respondents in the manner required under the Rules and is to be considered taking into account considerations of the principles of international comity.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Documents the subject of the service application"
+    ],
+    "text": "The documents proposed to be served by Mr Hamilton, updated to take into account additional and updated materials provided after the interlocutory application was filed, are as follows:\nthe Further Amended Originating Application dated 25 November 2021;\nthe FASOC;\nthe applicant’s Genuine Steps Statement dated 13 August 2020;\nthe Interlocutory Application dated 27 August 2020;\nthe affidavits of Andrew Hamilton sworn on 27 August 2020, 6 September 2020, 10 December 2020, 1 March 2021, 12 July 2021 and 7 October 2021;\nthe applicant’s consolidated written submissions dated 15 July 2021;\nthe orders of the Court upon hearing this Interlocutory Application and the accompanying reasons for judgment;\n(together, the Court Documents).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "At the hearing of the present application, Mr Hamilton relied on affidavits sworn by him on 27 August 2020, 6 September 2020, 10 December 2020, 1 March 2021, 12 July 2021 and 7 October 2021, as well as discrete documentary tenders. Section 75 of the Evidence Act 1995 (Cth) is relevant to the assessment of the sufficiency of the material adduced. Section 75 provides that the hearsay rule does not apply in an interlocutory proceeding, if the party adducing the evidence also adduces evidence of the source of the hearsay evidence. Mr Hamilton did not rely on any expert evidence.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "For the purpose of this application, Mr Hamilton has chosen to focus on the three claims advanced in the FASOC which are founded on Part IV of the CCA (together, the Part IV CCA Claims).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that Facebook is a substantial supplier and acquirer of online advertising services, in Australia and globally, via its products Facebook, Instagram, Messenger and\nthird-party websites and applications. Mr Hamilton relies on Facebook’s Annual Reports from 2017 to 2019 to demonstrate that Facebook derives substantial revenue from selling advertising placements to marketers which can appear in multiple places including on Facebook, Instagram, Messenger, and third-party applications and websites. Mr Hamilton relies on the Facebook Annual Report 2019 to demonstrate that Facebook’s revenue from the supply of online advertising services was substantial in the years 2017, 2018 and 2019.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton also alleges that Facebook is a substantial supplier and acquirer of online communications services, in Australia and globally, including instant messaging (WhatsApp and Facebook Messenger) and video streaming (Facebook and Instagram), social media platform services (Facebook and Instagram) and other online services on the internet.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that Google is a substantial supplier and acquirer of online advertising services, in Australia and globally, via its products including Google Search, YouTube and third-party websites and applications. He relies on the Google Annual Report 2019 to demonstrate that Google derives significant revenue from online advertising placement and display. Mr Hamilton relies on the Google Annual Report 2019 to demonstrate Google’s revenue related to advertising services was substantial in each of the years spanning 2017 to 2019.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton also alleges that Google is a substantial supplier of online communications services, in Australia and globally, including web search (Google Search), email (Gmail), video conferencing (Google.Meet), video sharing (YouTube), web browser (Chrome) cloud storage (Google Cloud) and other online services on the internet.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that the respondents each respectively have standard contracts with all persons who use their services. He further alleges that Google uses Facebook in that it has many Facebook pages and is thus a party to Facebook’s standard contract for users. Mr Hamilton alleges that Facebook and Google use a “clickwrap” mechanism as part of their standard contracts with users whereby users are deemed to have accepted the terms and conditions by signing up to use the services. Similarly, by their continued use of services, users are alleged to accept updated or amended terms and conditions incorporated into the standard contracts.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "In addition, Mr Hamilton contends that each of the respondents had standard terms in relation to the supply and/or acquisition of online advertising content and services to, or from, them which are the subject of standard contracts with all their advertising customers. Mr Hamilton alleges that because Facebook and Google acquire online advertising services from each other they are respectively parties to each other’s standard contracts relating to online advertising services.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton relies on s 45AC of the CCA to contend that Facebook and Google respectively should be taken to be a party to the standard contracts to which their related companies are party and that Facebook Ireland Limited and Google Australia Pty Ltd are relevantly related to Facebook and Google respectively.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that Facebook and Google supply and acquire online advertising services to, and from, each other and to, and from, persons who are parties to their respective standard contracts. In this way, Mr Hamilton contends that there are numerous contracts between Facebook and Google respectively and persons with whom they are competitive in relation to the supply and/or acquisition of advertising services.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Central to the Part IV CCA Claims is Mr Hamilton’s contention that between 29 January 2018 and July 2018, Facebook and Google respectively, progressively introduced measures that prohibited or substantially restricted cryptocurrency-related advertising. Mr Hamilton labels the totality of the alleged restrictions introduced by each of Facebook and Google collectively as the Ad Ban Provisions. Mr Hamilton alleges that the Ad Ban Provisions were incorporated into and formed part of the respondents’ respective standard contracts for their users and for suppliers and acquirers of their online advertising services. Broadly, Mr Hamilton contends that as a result there was a substantial downturn in many, if not all, parts, of the cryptocurrency industry.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that many persons supplying cryptocurrency-related goods and services were negatively impacted by the Ad Ban Provisions. Mr Hamilton alleges that a substantial purpose of each of the Ad Ban Provisions is, inter alia, to: (1) restrict or prevent the supply of online advertising services by the respondents to members of the cryptocurrency industry; and (2) the acquisition of online advertising services from the respondents by members of the cryptocurrency industry who are party to standard contracts with the respondents, or either of them.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that Facebook and Google gave effect to the Ad Ban Provisions by: (1) publicly announcing the Ad Ban Provisions; (2) implementing the Ad Ban Provisions in the software algorithms by which they provide online advertising services; and (3) encouraging and enabling their users to assist in the implementation of the Ad Ban Provisions.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton’s overarching contention is that the Ad Ban Provisions caused a substantial reduction in advertising opportunities for cryptocurrency-related goods and services which resulted in a substantial reduction in demand for those goods and services. Mr Hamilton contends that the operation of the Ad Ban Provisions has resulted in the loss of a “substantial economic benefit” from the cryptocurrency industry, which has in turn caused group members to suffer loss or damage, of which his personal claim is an example. Broadly, and without being exhaustive, Mr Hamilton claims he suffered loss occasioned by: (1) a reduction in the profitability of cryptocurrency mining, which was the primary business of Green Freedom Limited (Israel), a company wholly owned by Mr Hamilton; (2) diminution in the value of his investment in STEEM, a cryptocurrency, which Mr Hamilton contends experienced severe decline following the introduction of the Ad Ban Provisions; (3) loss of the business opportunity to operate a successful cryptocurrency consulting practice specialising in investment in the cryptocurrency industry which Mr Hamilton says he established with his wife under the name, Grant Hamilton Crypto Advisory, before introduction of the Ad Ban Provisions; and (4) a reduction in the value of his unsold cryptocurrency holdings.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Three examples are given, on an inclusive basis, in respect of the damage suffered by group members as a result of the drop in demand caused by the implementation of the Ad Ban provisions on the following goods and services: (1) 33 named and listed cryptocurrencies; (2) services of cryptocurrency exchanges; and (3) online services which rely upon cryptocurrency-enabled public blockchain technologies, including social media, content (including video) sharing, search engine and web browser services.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "In the context of the Part IV CCA Claims, Mr Hamilton alleges that the Ad Ban Provisions are exclusionary cartel provisions, that they had the effect of substantially lessening competition in markets for cryptocurrencies and that the introduction and implementation of the Ad Ban Provisions was relevantly part of a concerted practice.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton alleges that in:\n(a) giving effect to Ad Ban Provisions, which Mr Hamilton submitted satisfied each of the elements of s 45AD, in their respective standard contracts with users each of the respondents contravened s 45AK of the CCA;\n(b) giving effect to provisions in their respective standard contracts with users, which had the effect of substantially lessening competition in the market(s) for cryptocurrencies in Australia, each of the respondents acted in contravention of s 45(1)(b) of the CCA; and/or\n(c) engaging in a concerted practice, which had the effect of substantially lessening competition in the market(s) for cryptocurrencies in Australia, each of the respondents acted in contravention of s 45(1)(c) of the CCA.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "In seeking to establish a prima facie case, Mr Hamilton made detailed submissions in respect of the claim premised on a contravention of s 45(1)(b) as to the nature of the markets for cryptocurrencies in Australia and as to the meaning of “competition” for the purpose of s 45(3) of the CCA. I have had regard to these submissions in coming to my conclusion at [38].",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Consideration: Service out"
+    ],
+    "text": "Mr Hamilton claims relief in the form of damages, including aggravated damages and exemplary damages, under s 82(1) of the CCA and s 22 of the FCA Act respectively, declaratory relief under s 163A of the CCA and/or s 21 of the FCA Act, a permanent injunction under s 80 of the CCA requiring the respondents to cease the alleged contravening conduct and other relief under s 87(1) of the CCA including a public apology and the provision of certain services to group members at no cost, and without restriction, for a period of time equal to the period of the alleged contravening conduct.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Consideration: Service out",
+     "Affidavit under r 10.43(3)"
+    ],
+    "text": "Mr Hamilton has satisfied the requirements of r 10.43(3) by his affidavit of 27 August 2020. Mr Hamilton seeks an order for substituted service by email to the email addresses nominated in the notices of address for service filed by each of the respondents in separate proceedings in this Court in which each is a party. I will return to the issue of substituted service below.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Consideration: Service out",
+     "Jurisdiction – r 10.43(4)(a)"
+    ],
+    "text": "Facebook and Google are incorporated outside Australia. Each is a foreign corporation and a corporation under s 4 of the CCA. Mr Hamilton alleges that Part IV of the CCA extends to conduct engaged in outside of Australia by each of the respondents because they are corporations carrying on business within Australia: s 5(1)(g) of the CCA.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Consideration: Service out",
+     "Jurisdiction – r 10.43(4)(a)"
+    ],
+    "text": "Mr Hamilton alleges that Facebook was carrying on business in Australia by reason of engaging in the following conduct on a repetitive basis for the purpose of generating revenue during the relevant period:\nentering into standard contracts with and providing interactive, transactional services under those contracts to users resident in Australia, and to residents of the United States and Canada at times when such residents were physically present in Australia;\ninstalling, operating and removing cookies on the devices of users located in Australia;\nmaking its Application Programming Interfaces (APIs), including Graph API, available to third party app developers in Australia; and\ncollecting and storing information in Australia via caching servers.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Consideration: Service out",
+     "Jurisdiction – r 10.43(4)(a)"
+    ],
+    "text": "Similarly, in respect of Google, Mr Hamilton alleges that Google was carrying on business within Australia by reason of engaging in the following conduct on a repetitive basis for the purpose of generating revenue during the relevant period:\nentering into standard contracts with and providing interactive, transactional services under those contracts to users resident in Australia;\ninstalling, operating and removing cookies on the devices of users at times when such users were physically located in Australia;\nmaking its APIs available to third party app developers in Australia; and\ncollecting and storing information in Australia via caching servers.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Consideration: Service out",
+     "Jurisdiction – r 10.43(4)(a)"
+    ],
+    "text": "This Court has jurisdiction to entertain the Part IV CCA Claims pursuant to s 86(1) of the CCA and s 163A(1): ss 163A(1) and (3A) of the CCA; Bray v F.Hoffmann-La Roche Ltd [2003] FCAFC 153; 130 FCR 317, 353 at [166] – [170] (Branson J with whom Carr and Finkelstein JJ agreed). I have had regard to the evidence which Mr Hamilton placed before the Court on this application and to his submissions. I am satisfied that in the context of the present application that Mr Hamilton has established that an inference is available that each of the respondents are corporations carrying on business within Australia. In so finding I have had regard to Facebook Inc v Australian Information Commissioner [2022] FCAFC 9 in which the Full Court upheld the primary judge’s finding that conduct substantially similar to that alleged by Mr Hamilton (as summarised in [30(2)-(3)] and [31(2)-(3)] above), albeit arising in the context of a different part of Facebook’s operations, gave rise to an inference that Facebook was carrying on business in Australia: [66] – [68], [106] (Perram J with whom Allsop CJ and Yates J agreed). Mr Hamilton goes further to contend that engagement by Facebook and Google in the activities described in [30(1)], [30(4)], [31(1)] and [31(4)] above amounts to carrying on business in Australia. I am satisfied having regard to the material before the Court on the present application that there is an inference available that by engaging in the conduct so described the respondents were carrying on business in Australia. Significantly, the jurisdiction conferred on this Court by s 86(1) of the CCA is subject to limited exceptions, exclusive of the jurisdiction of any other Court: s 86(4) of the CCA; Epic Games v Apple Inc [2021] FCAFC 122; 286 FCR 105, 113 – 114 at [35] (Middleton, Jagot and Moshinsky JJ) (Epic Appeal).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Consideration: Service out",
+     "Proceeding of a kind listed in r 10.42"
+    ],
+    "text": "Rule 10.42 provides that subject to r 10.43, an originating application may be served on a person in a foreign country in a proceeding that consists of, or includes, any one or more of the kinds of proceeding identified in that rule.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Consideration: Service out",
+     "Proceeding of a kind listed in r 10.42"
+    ],
+    "text": "The Part IV CCA Claims are of a kind listed in the following items of the table in r 10.42: proceeding based on a contravention of an Act that is committed in Australia (item 12); proceeding based on a contravention of an Act (wherever occurring) seeking relief in relation to damage suffered wholly or partly in Australia (item 13); proceeding in relation to the construction, effect or enforcement of an Act, regulations or any other instrument having, or purporting to have, effect under an Act (item 14); proceeding seeking any relief or remedy under an Act, including the Judiciary Act 1903 (item 15). I note that satisfaction of any one item is sufficient to meet the r 10.42 requirement: see Australian Competition and Consumer Commission v Facebook, Inc [2021] FCA 244 at [26] (Griffiths J) citing Australian Competition and Consumer Commission v Yellow Page Marketing BV [2010] FCA 1218 at [23] (Gordon J, when his Honour was in this Court).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Consideration: Service out",
+     "Proceeding of a kind listed in r 10.42"
+    ],
+    "text": "Where, as here, the originating application includes any one of the kinds of proceedings listed in r 10.42, regardless of whatever other relief is sought, the Court has power to order service outside Australia: Webster v Computer Systems Pty Ltd v Fujitsu Ltd [2007] FCA 825 at [12] (Conti J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Consideration: Service out",
+     "Prima face case – r 10.43(4)(c)"
+    ],
+    "text": "The requirement for the applicant to establish a prima facie case for all or any of the relief claimed in the proceeding under r 10.43(4)(c) is “not particularly onerous”: Yellow Page Marketing at [25] (Gordon J). A prima facie case is made out where, upon a broad examination rather than an intense scrutiny of the material before the Court, inferences are shown to be open which, if translated into findings of fact, would support the relief claimed: Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 6) [2010] FCA 704; 270 ALR 504, 507 at [8] (Bennett J) and the cases cited therein. A detailed analysis of the evidence is not called for: NPP Australia Limited v Ripple Labs, Inc [2020] FCA 1237 at [27] (Burley J). This is particularly apposite where the party served has an entitlement to apply to set aside service under r 13.01(1)(b) of the Rules: Epic Games, Inc v Google LLC (Service Out of Jurisdiction) [2021] FCA 666 at [9] (Perram J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Consideration: Service out",
+     "Prima face case – r 10.43(4)(c)"
+    ],
+    "text": "Rule 10.43(4)(c) requires Mr Hamilton to demonstrate that he has a prima facie case for all or any of the relief claimed in the proceeding. As mentioned at the outset, in the present case, it is not necessary to prove that there is a prima facie case in respect of each of the categories of group members as defined at [16] – [24] of Mr Hamilton’s further amended originating application. It will be sufficient if Mr Hamilton can prove that he, as a member of the group, has a prima facie case of the kind required to support the grant of leave.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Consideration: Service out",
+     "Prima face case – r 10.43(4)(c)"
+    ],
+    "text": "The evidence before the Court was extensive. In addition Mr Hamilton provided detailed written and oral submissions directed to, inter alia, the prima facie case requirement in respect of the Part IV CCA Claims. I am satisfied on the basis of the evidence before the Court that Mr Hamilton has met the requirements of r 10.43(4)(c). Findings of fact are available and inferences are open to be drawn which establish a prima facie case for the relief claimed in respect of the Part IV CCA Claims. Accordingly, the power to grant leave to serve out is enlivened.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Consideration: Service out",
+     "Should leave to serve out be granted"
+    ],
+    "text": "The final consideration is whether as a matter of residual discretion, the power being enlivened, the power should be exercised and leave granted. The relevant consideration was described in the following terms by Lee J in Century Insurance (in prov liq) v New Zealand Guardian Trust Ltd [1996] FCA 376, a formulation subsequently approved by the Full Court in Ho v Akai Pty Ltd (in liq) [2006] FCAFC 159; 247 FCR 205, 208 at [10]:\nWhat the court must determine is whether the case made out on the material presented shows that a controversy exists between the parties that warrants the use of the court’s processes to resolve it and whether causing a proposed respondent to be involved in the litigation in the court in Australia is justified.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Consideration: Service out",
+     "Should leave to serve out be granted"
+    ],
+    "text": "In the present application, where the application for leave has focussed on the Part IV CCA Claims, it is appropriate to take into account the observations made by the Full Court in the Epic Appeal at [98] – [105] in relation to Part IV of the CCA, which may be summarised as follows:\nas a matter of public policy, claims pursuant to Part IV should be determined in Australia (preferably in this Court) owing to the economic significance of conduct regulated by Part IV to Australia;\nthe various prohibitions on anti-competitive practices contained in Part IV are concerned with the protection of competition in Australian markets which, in turn, is a vehicle for the betterment of the welfare of Australians through the attainment of economic efficiency;\nclaims under Part IV necessarily have a public dimension, whilst claims under the Australian Consumer Law (ACL) are of a private nature. Accordingly, jurisdiction for Part IV claims is conferred exclusively on the Federal Court, and claims under the ACL are also able to be heard in state courts: s 138B of the CCA;\nthe hearing of Part IV claims in the Federal Court facilitates a number of ancillary advantages that would not be available when such claims are determined in a foreign jurisdiction, including the expertise of specialist judges of this Court, and the ability for the regulator, the Australian Competition and Consumer Commission (ACCC) to intervene in such matters if it chooses to do so; and\nprivate proceedings supplement the role of the ACCC in enforcing the provisions of Part IV and can often achieve the same benefits as the investigative powers of the ACCC and the relief that it may seek. I interpolate to add that this is particularly so where the private proceedings are brought as representative proceedings.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Consideration: Service out",
+     "Should leave to serve out be granted"
+    ],
+    "text": "I am satisfied on the basis of the evidence and submissions made on this ex parte application that the Part IV CCA Claims in the present representative proceedings are such that it is appropriate to grant leave to serve out. I am satisfied that requiring the respondents to be involved in litigation in this Court in Australia is justified.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "In respect of substituted service, r 10.24 of the Rules relevantly provides that if it is not practicable to serve a document on a person in a way required by these Rules, a party may apply to the Court without notice for an order substituting another method of service. By reason of r 10.45, r 10.24 applies to service of respondents outside of Australia provided that the rule is regarded as consistent with Pt 10 and, in particular, Div 10.4 and with the Hague Convention or foreign law: Australian Information Commission v Facebook Inc [2020] FCA 531; 144 ACSR 88, 102 at [65] – [66] (Thawley J) (AIC v Facebook).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "Rule 10.49 provides for substituted service in the context of service outside Australia. Mr Hamilton does not bring his application under this rule. That is presumably because he has not attempted to serve the respondents. Rule 10.49 implicitly requires that some attempt at service first be made. Alternatively that the power in r 1.34 be exercised to dispense with compliance with the implied requirement for attempted service. It has been observed that cases where it is appropriate to make such an order under r 1.34 will be rare: see AIC v Facebook, 102 at [63] (Thawley J) citing Park (Trustee) v Tschannen (Bankrupt) [2016] FCA 137; 341 ALR 452, 456 at [18] (Edelman J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "Where the person to be served is in a foreign country, it is not appropriate for the Court to consider an order for substituted service unless an order has first been obtained granting leave to serve outside Australia in accordance with r 10.43 of the Rules: Federal Commissioner of Taxation v Zeitouni [2013] FCA 1011; 306 ALR 603, 609 at [26] (Katzmann J) and the cases cited therein.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "The condition that \"service is [or was] not practicable\" in the way otherwise required by the Rules appears in rr 10.23, 10.24 and 10.48 of the Rules. The phrase \"not practicable\" is given the same meaning for the purposes of each of those rules and is to be understood to contemplate a \"state of affairs which is practically impossible to navigate without substantial difficulty\": Sanum Investments Limited v ST Group Co Ltd (No 2) [2019] FCA 1047 at [45], [151] (Foster J). It is not necessary to go so far as to demonstrate that there is an inability to effect personal service or that it would be extraordinarily difficult to do so — it will suffice for an applicant to demonstrate that it is not sensible or realistic to effect personal service even though it may be possible or feasible to do so: Commissioner of Taxation v Caratti (No 2) [2018] FCA 1500 at [10] (Colvin J). Evidence of attempts to serve, attempts to contact the intended recipient and knowledge (or lack of knowledge) of the whereabouts of the intended recipient are relevant to the question of practicability: see, Ross v Cotter [2015] FCA 310 at [2] (Reeves J); and Kosmos Capital Pty Ltd v Turiya Ventures LLC [2019] FCA 528 at [50] (Jackson J).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "As Thawley J recognised in AIC v Facebook at [72], a consideration against ordering substituted service arises out of principles of international comity. There is an applicable agreed regime for service outside the jurisdiction. That agreed regime is potentially subverted where jurisdiction is exercised permitting a party to substitute an alternative form of service.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "Mr Hamilton applies for substituted service under r 10.24 of the Rules. In the event that the Court is not satisfied that it is not practicable to serve the document in the requisite way, Mr Hamilton urges the Court to dispense with the impracticability requirement in r 10.24 by using the power conferred by r 1.34. Mr Hamilton has not attempted to serve the respondents in accordance with the Hague Convention. Clearly, it would be premature for him to have done so before obtaining a grant of leave to serve out of the jurisdiction. However, he could have, and was given an opportunity to, provide evidence as to why in the present circumstances, it would be neither sensible nor realistic for him to effect service in the manner required.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "Mr Hamilton urges the Court to adopt the same approach that was taken in AIC v Facebook. In that case, substituted service was ordered. The applicant led evidence in relation to the impediments to serving the respondent in accordance with the requirements of the Hague Convention at the relevant time. That evidence included evidence that demonstrated that the contractor for the United States Department of Justice, Civil Division, Office of International Judicial Assistance, the entity through which it was proposed to serve the respondent, had “suspended service of process nationwide” across the United States in response to the\nCOVID-19 pandemic. In addition, the Court took judicial notice under s 144(1)(a) of the Evidence Act of the global pandemic. Accordingly, the Court was there satisfied that it was not practicable to effect service as required under the Hague Convention without substantial difficulty.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Consideration: Substituted Service"
+    ],
+    "text": "In the circumstances of the present application, and in the absence of any evidence by way of update to the position that currently pertains in respect of serving in accordance with the Hague Convention in the United States, I am not satisfied, particularly having regard to principles of international comity, that orders for substituted service pursuant to r 10.24 of the Rules should be made.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "For the reasons detailed above, leave to serve the Court Documents on Facebook and Google in the United States in accordance with article 10(a) of the Hague Convention granted. I will make orders accordingly.",
+    "judge": "CHEESEMAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty (50) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.",
+ "associate": null,
+ "dated": "2022-06-10",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Hamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681\n\n## Cover sheet\n\n**File number:** NSD 899 of 2020\n\n**Judgment of:** CHEESEMAN J\n\n**Date of judgment:** 10 June 2022\n\n**Catchwords:** PRACTICE AND PROCEDURE – service – ex parte interlocutory application to serve respondents in the United States of America pursuant to rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth) – where proceedings are representative proceedings which include claims for relief in respect of alleged contravention of provisions in Part IV of the Competition and Consumer Act 2010 (Cth) – whether applicant has satisfied the elements of rr 10.43(3) and 10.44(2) of the Rules – whether leave should be granted – Held: leave to serve out of jurisdiction granted.  \nPRACTICE AND PROCEDURE – application in respect of respondents in the United States of America for substituted service by email under r 10.24 of the Rules – where no evidence filed as to practicality of service being effected in accordance with the Rules – whether substituted service orders should be made – Held: application for substituted service dismissed.\n\n**Legislation:** Competition and Consumer Act 2010 (Cth), ss 4, 5(1)(g), 45AC, 45AD, 45AK, 45(1)(b), 45(1)(c), 45(3), 80, 82(1), 82(4), 86(1), 87(1), 138B, 163A(1), 163A(3A)  \nEvidence Act 1995 (Cth), ss 75, 144(1)(a)  \nFederal Court of Australia Act 1976 (Cth), ss 21, 22, 33V  \nFederal Court Rules 2011 (Cth), rr 1.34, 10.23, 10.24, 10.43(2), 10.43(3), 10.43(4), 10.44(1), 10.45, 10.48\n\n**Cases cited:** ACN 117 641 004 Pty Ltd (in liq) formerly Vale Pty Ltd) v S&P Global, Inc [2020] FCA 1745  \nAustralian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 6) [2010] FCA 704; 270 ALR 504  \nAustralian Competition and Consumer Commission v Facebook, Inc [2021] FCA 244  \nAustralian Competition and Consumer Commission v Yellow Page Marketing BV [2010] FCA 1218  \nAustralian Information Commission v Facebook Inc [2020] FCA 531; 144 ACSR 88  \nBray v F.Hoffmann-La Roche Ltd [2003] FCAFC 153; 130 FCR 317  \nCentury Insurance (in prov liq) v New Zealand Guardian Trust Ltd [1996] FCA 376  \nCommissioner of Taxation v Caratti (No 2) [2018] FCA 1500  \nEpic Games v Apple Inc [2021] FCAFC 122; 286 FCR 105  \nEpic Games, Inc v Google LLC (Service Out of Jurisdiction) [2021] FCA 666  \nFacebook Inc v Australian Information Commissioner [2022] FCAFC 9  \nFederal Commissioner of Taxation v Zeitouni [2013] FCA 1011; 306 ALR 603  \nHo v Akai Pty Ltd (in liq) [2006] FCAFC 159; 247 FCR 205  \nHumane Society International Inc v Kyodo Senpaku Kaisha Ltd [2006] FCAFC 116; 154 FCR 425  \nIsrael Discount Bank Limited v ACN 078 272 867 Pty Ltd (in liq) (formerly Advance Finances Pty Ltd) [2019] FCAFC 90; 367 ALR 71  \nJasmin Solar Pty Ltd v Trina Solar Australia Pty Ltd [2015] FCA 1453; 331 ALR 108  \nKosmos Capital Pty Ltd v Turiya Ventures LLC [2019] FCA 528  \nNPP Australia Limited v Ripple Labs, Inc [2020] FCA 1237  \nRoss v Cotter [2015] FCA 310  \nSanum Investments Limited v ST Group Co Ltd (No 2) [2019] FCA 1047  \nWebster v Computer Systems Pty Ltd v Fujitsu Ltd [2007] FCA 825\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Commercial Contracts, Banking, Finance and Insurance\n\n**Number of paragraphs:** 50\n\n**Date of hearing:** 24 September 2021, 5 October 2021 and 11 October 2021\n\n**Counsel for the Applicant:** The applicant appeared in person\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 899 of 2020 |\n|---|---|\n| BETWEEN: | ANDREW HAMILTON<br>Applicant |\n| AND: | META PLATFORMS, INC<br>First Respondent<br>GOOGLE LLC<br>Second Respondent |\n\n| order made by: | CHEESEMAN J |\n|---|---|\n| DATE OF ORDER: | 10 JUNE 2022 |\n\n### DEFINITIONS:\n\nCourt Documents means:\n\nthe Further Amended Originating Application dated 25 November 2021;\n\nthe Further Amended Statement of Claim dated 25 November 2021;\n\nthe applicant’s Genuine Steps Statement dated 13 August 2020;\n\nthe Interlocutory Application dated 27 August 2020;\n\nthe affidavits of Andrew Hamilton sworn on:\n\n27 August 2020;\n\n6 September 2020;\n\n10 December 2020;\n\n1 March 2021;\n\n12 July 2021; and\n\n7 October 2021;\n\nthe applicant’s consolidated written submissions dated 15 July 2021;\n\nthese orders; and\n\nthe accompanying reasons for judgment.\n\n### THE COURT ORDERS THAT:\n\n1. Pursuant to rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth), the applicant be granted leave to serve the Court Documents on the respondents in the United States of America in accordance with article 10(a) of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters opened for signature 15 November 1965, 658 UNTS 163 (entered into force 10 February 1969).\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### CHEESEMAN J:\n\n### Introduction\n\n[1] The applicant, Andrew Stuart Hamilton, has commenced representative proceedings against two companies incorporated outside Australia, namely Facebook, Inc (now Meta Platforms, Inc) and Google LLC, the first and second respondents respectively. Neither of the respondents have been served with any document in the proceeding. These reasons address Mr Hamilton’s ex parte interlocutory application for leave under rr 10.43 and 10.44 of the Federal Court Rules 2011 (Cth) to serve the Further Amended Originating Application, the Further Amended Statement of Claim (FASOC) and related documents on Facebook and Google in the United States of America in accordance with Art 10(a) of the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, opened for signature 15 November 1965, 658 UNTS 163 (entered into force 10 February 1969) (the Hague Convention). These reasons also address Mr Hamilton’s application for substituted service under r 10.24 of the Rules.\n\n[2] As part of this interlocutory application, Mr Hamilton sought an order under s 82(4) of the Competition and Consumer Act 2010 (Cth) (the CCA) that he not be liable for any of the costs of Facebook and Google, regardless of the outcome or likely outcome of the proceedings. In the event that such an order is refused, Mr Hamilton seeks leave under s 33V of the Federal Court of Australia Act 1976 (Cth) (FCA Act) to discontinue the proceedings, with leave to re-file proceedings at a later date. I declined to hear argument on Mr Hamilton’s application for an order limiting any future adverse costs order until after the application to serve out of jurisdiction was determined. If Mr Hamilton obtains leave to serve out of jurisdiction and then presses the application for adverse costs protection orders, the Court will have the benefit of a contradictor.\n\n[3] Noting that the proceedings are brought as representative proceedings on behalf of group members, I will, for convenience, refer to Mr Hamilton as the proponent of the claims. Mr Hamilton’s claims can be traced to the period between 29 January 2018 and about July 2018 during which it is alleged that Facebook and Google introduced measures which prohibited or substantially restricted advertising related to cryptocurrency and, more broadly, the cryptocurrency industry. Mr Hamilton alleges that the restriction on advertising applied not only on the Facebook and Google platforms but also affected advertising on other platforms which drew advertising content from Facebook and/or Google. The restrictions on advertising of which Mr Hamilton complains were progressively modified by each of Facebook and Google, with the most recent modifications alleged to have taken effect in May 2019 (Facebook) and sometime between October 2018 and September 2019 (Google). Mr Hamilton seeks relief in respect of alleged contraventions of the CCA (including restrictive trade practices, misleading and deceptive conduct and accessorial liability) and tortious conduct (including deceit, malicious falsehood and conspiracy).\n\n### Issues to be determined\n\n#### Leave Application\n\n[4] In the interlocutory application for leave to serve out of Australia, Mr Hamilton must establish first, that the Court has jurisdiction in the proceedings (r 10.43(4)(a)); second, that the proceedings are of a kind mentioned in r 10.42 of the Rules (r 10.43(4)(b)); and third, that he has a prima facie case for all or any of the relief claimed in the proceedings: (r 10.43(4)(c)). The application for leave to serve out must be accompanied by an affidavit stating (1) the name of the foreign country where the person to be served is or is likely to be; (2) the proposed method of service; and (3) that the proposed method of service is permitted, relevantly in the present application, under the Hague Convention: r 10.43(3). If Mr Hamilton establishes each of the matters in rr 10.43(3) and (4) of the Rules, the Court has a residual discretion as to whether to grant leave: Humane Society International Inc v Kyodo Senpaku Kaisha Ltd [2006] FCAFC 116; 154 FCR 425, 428 at [3] (Black CJ and Finkelstein J); Jasmin Solar Pty Ltd v Trina Solar Australia Pty Ltd [2015] FCA 1453; 331 ALR 108, 119 at [66] (Edelman J, when his Honour was in this Court).\n\n[5] Mr Hamilton need not establish a prima facie case in respect of all of his pleaded claims. He need only establish a prima facie case in relation to one cause of action or remedy: r 10.43(4)(c) of the Rules; Israel Discount Bank Limited v ACN 078 272 867 Pty Ltd (in liq) (formerly Advance Finances Pty Ltd) [2019] FCAFC 90; 367 ALR 71, 84 at [48] (Yates, Beach and Moshinsky JJ).\n\n[6] Although Mr Hamilton brings this application in respect of representative proceedings, he does not need to establish a prima facie case in respect of all potential categories of group members. Leave to serve out process where the proceedings are brought by way of representative proceedings is considered by applying the three conditions in r 10.43(4)(a) – (c): ACN 117 641 004 Pty Ltd (in liq) formerly Vale Pty Ltd) v S&P Global, Inc [2020] FCA 1745 at [25] (Rares J); Philipsen v American Medical Systems LLC [2018] FCA 246 at [18] (Katzmann J). For the purpose of this application, it is sufficient if Mr Hamilton establishes that he, as a group member, has a prima facie case in respect of one of his pleaded claims: S&P Global at [25].\n\n#### Substituted Service\n\n[7] The issue on the substituted service application reduces, in essence, to whether Mr Hamilton has established that it is not practicable for him, using reasonable effort, to serve the respondents in the manner required under the Rules and is to be considered taking into account considerations of the principles of international comity.\n\n### Documents the subject of the service application\n\n[8] The documents proposed to be served by Mr Hamilton, updated to take into account additional and updated materials provided after the interlocutory application was filed, are as follows:\n\nthe Further Amended Originating Application dated 25 November 2021;\n\nthe FASOC;\n\nthe applicant’s Genuine Steps Statement dated 13 August 2020;\n\nthe Interlocutory Application dated 27 August 2020;\n\nthe affidavits of Andrew Hamilton sworn on 27 August 2020, 6 September 2020, 10 December 2020, 1 March 2021, 12 July 2021 and 7 October 2021;\n\nthe applicant’s consolidated written submissions dated 15 July 2021;\n\nthe orders of the Court upon hearing this Interlocutory Application and the accompanying reasons for judgment;\n\n(together, the Court Documents).\n\n### Consideration: Service out\n\n[9] At the hearing of the present application, Mr Hamilton relied on affidavits sworn by him on 27 August 2020, 6 September 2020, 10 December 2020, 1 March 2021, 12 July 2021 and 7 October 2021, as well as discrete documentary tenders. Section 75 of the Evidence Act 1995 (Cth) is relevant to the assessment of the sufficiency of the material adduced. Section 75 provides that the hearsay rule does not apply in an interlocutory proceeding, if the party adducing the evidence also adduces evidence of the source of the hearsay evidence. Mr Hamilton did not rely on any expert evidence.\n\n[10] For the purpose of this application, Mr Hamilton has chosen to focus on the three claims advanced in the FASOC which are founded on Part IV of the CCA (together, the Part IV CCA Claims).\n\n[11] Mr Hamilton alleges that Facebook is a substantial supplier and acquirer of online advertising services, in Australia and globally, via its products Facebook, Instagram, Messenger and\nthird-party websites and applications. Mr Hamilton relies on Facebook’s Annual Reports from 2017 to 2019 to demonstrate that Facebook derives substantial revenue from selling advertising placements to marketers which can appear in multiple places including on Facebook, Instagram, Messenger, and third-party applications and websites. Mr Hamilton relies on the Facebook Annual Report 2019 to demonstrate that Facebook’s revenue from the supply of online advertising services was substantial in the years 2017, 2018 and 2019.\n\n[12] Mr Hamilton also alleges that Facebook is a substantial supplier and acquirer of online communications services, in Australia and globally, including instant messaging (WhatsApp and Facebook Messenger) and video streaming (Facebook and Instagram), social media platform services (Facebook and Instagram) and other online services on the internet.\n\n[13] Mr Hamilton alleges that Google is a substantial supplier and acquirer of online advertising services, in Australia and globally, via its products including Google Search, YouTube and third-party websites and applications. He relies on the Google Annual Report 2019 to demonstrate that Google derives significant revenue from online advertising placement and display. Mr Hamilton relies on the Google Annual Report 2019 to demonstrate Google’s revenue related to advertising services was substantial in each of the years spanning 2017 to 2019.\n\n[14] Mr Hamilton also alleges that Google is a substantial supplier of online communications services, in Australia and globally, including web search (Google Search), email (Gmail), video conferencing (Google.Meet), video sharing (YouTube), web browser (Chrome) cloud storage (Google Cloud) and other online services on the internet.\n\n[15] Mr Hamilton alleges that the respondents each respectively have standard contracts with all persons who use their services. He further alleges that Google uses Facebook in that it has many Facebook pages and is thus a party to Facebook’s standard contract for users. Mr Hamilton alleges that Facebook and Google use a “clickwrap” mechanism as part of their standard contracts with users whereby users are deemed to have accepted the terms and conditions by signing up to use the services. Similarly, by their continued use of services, users are alleged to accept updated or amended terms and conditions incorporated into the standard contracts.\n\n[16] In addition, Mr Hamilton contends that each of the respondents had standard terms in relation to the supply and/or acquisition of online advertising content and services to, or from, them which are the subject of standard contracts with all their advertising customers. Mr Hamilton alleges that because Facebook and Google acquire online advertising services from each other they are respectively parties to each other’s standard contracts relating to online advertising services.\n\n[17] Mr Hamilton relies on s 45AC of the CCA to contend that Facebook and Google respectively should be taken to be a party to the standard contracts to which their related companies are party and that Facebook Ireland Limited and Google Australia Pty Ltd are relevantly related to Facebook and Google respectively.\n\n[18] Mr Hamilton alleges that Facebook and Google supply and acquire online advertising services to, and from, each other and to, and from, persons who are parties to their respective standard contracts. In this way, Mr Hamilton contends that there are numerous contracts between Facebook and Google respectively and persons with whom they are competitive in relation to the supply and/or acquisition of advertising services.\n\n[19] Central to the Part IV CCA Claims is Mr Hamilton’s contention that between 29 January 2018 and July 2018, Facebook and Google respectively, progressively introduced measures that prohibited or substantially restricted cryptocurrency-related advertising. Mr Hamilton labels the totality of the alleged restrictions introduced by each of Facebook and Google collectively as the Ad Ban Provisions. Mr Hamilton alleges that the Ad Ban Provisions were incorporated into and formed part of the respondents’ respective standard contracts for their users and for suppliers and acquirers of their online advertising services. Broadly, Mr Hamilton contends that as a result there was a substantial downturn in many, if not all, parts, of the cryptocurrency industry.\n\n[20] Mr Hamilton alleges that many persons supplying cryptocurrency-related goods and services were negatively impacted by the Ad Ban Provisions. Mr Hamilton alleges that a substantial purpose of each of the Ad Ban Provisions is, inter alia, to: (1) restrict or prevent the supply of online advertising services by the respondents to members of the cryptocurrency industry; and (2) the acquisition of online advertising services from the respondents by members of the cryptocurrency industry who are party to standard contracts with the respondents, or either of them.\n\n[21] Mr Hamilton alleges that Facebook and Google gave effect to the Ad Ban Provisions by: (1) publicly announcing the Ad Ban Provisions; (2) implementing the Ad Ban Provisions in the software algorithms by which they provide online advertising services; and (3) encouraging and enabling their users to assist in the implementation of the Ad Ban Provisions.\n\n[22] Mr Hamilton’s overarching contention is that the Ad Ban Provisions caused a substantial reduction in advertising opportunities for cryptocurrency-related goods and services which resulted in a substantial reduction in demand for those goods and services. Mr Hamilton contends that the operation of the Ad Ban Provisions has resulted in the loss of a “substantial economic benefit” from the cryptocurrency industry, which has in turn caused group members to suffer loss or damage, of which his personal claim is an example. Broadly, and without being exhaustive, Mr Hamilton claims he suffered loss occasioned by: (1) a reduction in the profitability of cryptocurrency mining, which was the primary business of Green Freedom Limited (Israel), a company wholly owned by Mr Hamilton; (2) diminution in the value of his investment in STEEM, a cryptocurrency, which Mr Hamilton contends experienced severe decline following the introduction of the Ad Ban Provisions; (3) loss of the business opportunity to operate a successful cryptocurrency consulting practice specialising in investment in the cryptocurrency industry which Mr Hamilton says he established with his wife under the name, Grant Hamilton Crypto Advisory, before introduction of the Ad Ban Provisions; and (4) a reduction in the value of his unsold cryptocurrency holdings.\n\n[23] Three examples are given, on an inclusive basis, in respect of the damage suffered by group members as a result of the drop in demand caused by the implementation of the Ad Ban provisions on the following goods and services: (1) 33 named and listed cryptocurrencies; (2) services of cryptocurrency exchanges; and (3) online services which rely upon cryptocurrency-enabled public blockchain technologies, including social media, content (including video) sharing, search engine and web browser services.\n\n[24] In the context of the Part IV CCA Claims, Mr Hamilton alleges that the Ad Ban Provisions are exclusionary cartel provisions, that they had the effect of substantially lessening competition in markets for cryptocurrencies and that the introduction and implementation of the Ad Ban Provisions was relevantly part of a concerted practice.\n\n[25] Mr Hamilton alleges that in:\n\n(a) giving effect to Ad Ban Provisions, which Mr Hamilton submitted satisfied each of the elements of s 45AD, in their respective standard contracts with users each of the respondents contravened s 45AK of the CCA;\n\n(b) giving effect to provisions in their respective standard contracts with users, which had the effect of substantially lessening competition in the market(s) for cryptocurrencies in Australia, each of the respondents acted in contravention of s 45(1)(b) of the CCA; and/or\n\n(c) engaging in a concerted practice, which had the effect of substantially lessening competition in the market(s) for cryptocurrencies in Australia, each of the respondents acted in contravention of s 45(1)(c) of the CCA.\n\n[26] In seeking to establish a prima facie case, Mr Hamilton made detailed submissions in respect of the claim premised on a contravention of s 45(1)(b) as to the nature of the markets for cryptocurrencies in Australia and as to the meaning of “competition” for the purpose of s 45(3) of the CCA. I have had regard to these submissions in coming to my conclusion at [38].\n\n[27] Mr Hamilton claims relief in the form of damages, including aggravated damages and exemplary damages, under s 82(1) of the CCA and s 22 of the FCA Act respectively, declaratory relief under s 163A of the CCA and/or s 21 of the FCA Act, a permanent injunction under s 80 of the CCA requiring the respondents to cease the alleged contravening conduct and other relief under s 87(1) of the CCA including a public apology and the provision of certain services to group members at no cost, and without restriction, for a period of time equal to the period of the alleged contravening conduct.\n\n#### Affidavit under r 10.43(3)\n\n[28] Mr Hamilton has satisfied the requirements of r 10.43(3) by his affidavit of 27 August 2020. Mr Hamilton seeks an order for substituted service by email to the email addresses nominated in the notices of address for service filed by each of the respondents in separate proceedings in this Court in which each is a party. I will return to the issue of substituted service below.\n\n#### Jurisdiction – r 10.43(4)(a)\n\n[29] Facebook and Google are incorporated outside Australia. Each is a foreign corporation and a corporation under s 4 of the CCA. Mr Hamilton alleges that Part IV of the CCA extends to conduct engaged in outside of Australia by each of the respondents because they are corporations carrying on business within Australia: s 5(1)(g) of the CCA.\n\n[30] Mr Hamilton alleges that Facebook was carrying on business in Australia by reason of engaging in the following conduct on a repetitive basis for the purpose of generating revenue during the relevant period:\n\nentering into standard contracts with and providing interactive, transactional services under those contracts to users resident in Australia, and to residents of the United States and Canada at times when such residents were physically present in Australia;\n\ninstalling, operating and removing cookies on the devices of users located in Australia;\n\nmaking its Application Programming Interfaces (APIs), including Graph API, available to third party app developers in Australia; and\n\ncollecting and storing information in Australia via caching servers.\n\n[31] Similarly, in respect of Google, Mr Hamilton alleges that Google was carrying on business within Australia by reason of engaging in the following conduct on a repetitive basis for the purpose of generating revenue during the relevant period:\n\nentering into standard contracts with and providing interactive, transactional services under those contracts to users resident in Australia;\n\ninstalling, operating and removing cookies on the devices of users at times when such users were physically located in Australia;\n\nmaking its APIs available to third party app developers in Australia; and\n\ncollecting and storing information in Australia via caching servers.\n\n[32] This Court has jurisdiction to entertain the Part IV CCA Claims pursuant to s 86(1) of the CCA and s 163A(1): ss 163A(1) and (3A) of the CCA; Bray v F.Hoffmann-La Roche Ltd [2003] FCAFC 153; 130 FCR 317, 353 at [166] – [170] (Branson J with whom Carr and Finkelstein JJ agreed). I have had regard to the evidence which Mr Hamilton placed before the Court on this application and to his submissions. I am satisfied that in the context of the present application that Mr Hamilton has established that an inference is available that each of the respondents are corporations carrying on business within Australia. In so finding I have had regard to Facebook Inc v Australian Information Commissioner [2022] FCAFC 9 in which the Full Court upheld the primary judge’s finding that conduct substantially similar to that alleged by Mr Hamilton (as summarised in [30(2)-(3)] and [31(2)-(3)] above), albeit arising in the context of a different part of Facebook’s operations, gave rise to an inference that Facebook was carrying on business in Australia: [66] – [68], [106] (Perram J with whom Allsop CJ and Yates J agreed). Mr Hamilton goes further to contend that engagement by Facebook and Google in the activities described in [30(1)], [30(4)], [31(1)] and [31(4)] above amounts to carrying on business in Australia. I am satisfied having regard to the material before the Court on the present application that there is an inference available that by engaging in the conduct so described the respondents were carrying on business in Australia. Significantly, the jurisdiction conferred on this Court by s 86(1) of the CCA is subject to limited exceptions, exclusive of the jurisdiction of any other Court: s 86(4) of the CCA; Epic Games v Apple Inc [2021] FCAFC 122; 286 FCR 105, 113 – 114 at [35] (Middleton, Jagot and Moshinsky JJ) (Epic Appeal).\n\n#### Proceeding of a kind listed in r 10.42\n\n[33] Rule 10.42 provides that subject to r 10.43, an originating application may be served on a person in a foreign country in a proceeding that consists of, or includes, any one or more of the kinds of proceeding identified in that rule.\n\n[34] The Part IV CCA Claims are of a kind listed in the following items of the table in r 10.42: proceeding based on a contravention of an Act that is committed in Australia (item 12); proceeding based on a contravention of an Act (wherever occurring) seeking relief in relation to damage suffered wholly or partly in Australia (item 13); proceeding in relation to the construction, effect or enforcement of an Act, regulations or any other instrument having, or purporting to have, effect under an Act (item 14); proceeding seeking any relief or remedy under an Act, including the Judiciary Act 1903 (item 15). I note that satisfaction of any one item is sufficient to meet the r 10.42 requirement: see Australian Competition and Consumer Commission v Facebook, Inc [2021] FCA 244 at [26] (Griffiths J) citing Australian Competition and Consumer Commission v Yellow Page Marketing BV [2010] FCA 1218 at [23] (Gordon J, when his Honour was in this Court).\n\n[35] Where, as here, the originating application includes any one of the kinds of proceedings listed in r 10.42, regardless of whatever other relief is sought, the Court has power to order service outside Australia: Webster v Computer Systems Pty Ltd v Fujitsu Ltd [2007] FCA 825 at [12] (Conti J).\n\n#### Prima face case – r 10.43(4)(c)\n\n[36] The requirement for the applicant to establish a prima facie case for all or any of the relief claimed in the proceeding under r 10.43(4)(c) is “not particularly onerous”: Yellow Page Marketing at [25] (Gordon J). A prima facie case is made out where, upon a broad examination rather than an intense scrutiny of the material before the Court, inferences are shown to be open which, if translated into findings of fact, would support the relief claimed: Australian Competition and Consumer Commission v April International Marketing Services Australia Pty Ltd (No 6) [2010] FCA 704; 270 ALR 504, 507 at [8] (Bennett J) and the cases cited therein. A detailed analysis of the evidence is not called for: NPP Australia Limited v Ripple Labs, Inc [2020] FCA 1237 at [27] (Burley J). This is particularly apposite where the party served has an entitlement to apply to set aside service under r 13.01(1)(b) of the Rules: Epic Games, Inc v Google LLC (Service Out of Jurisdiction) [2021] FCA 666 at [9] (Perram J).\n\n[37] Rule 10.43(4)(c) requires Mr Hamilton to demonstrate that he has a prima facie case for all or any of the relief claimed in the proceeding. As mentioned at the outset, in the present case, it is not necessary to prove that there is a prima facie case in respect of each of the categories of group members as defined at [16] – [24] of Mr Hamilton’s further amended originating application. It will be sufficient if Mr Hamilton can prove that he, as a member of the group, has a prima facie case of the kind required to support the grant of leave.\n\n[38] The evidence before the Court was extensive. In addition Mr Hamilton provided detailed written and oral submissions directed to, inter alia, the prima facie case requirement in respect of the Part IV CCA Claims. I am satisfied on the basis of the evidence before the Court that Mr Hamilton has met the requirements of r 10.43(4)(c). Findings of fact are available and inferences are open to be drawn which establish a prima facie case for the relief claimed in respect of the Part IV CCA Claims. Accordingly, the power to grant leave to serve out is enlivened.\n\n#### Should leave to serve out be granted\n\n[39] The final consideration is whether as a matter of residual discretion, the power being enlivened, the power should be exercised and leave granted. The relevant consideration was described in the following terms by Lee J in Century Insurance (in prov liq) v New Zealand Guardian Trust Ltd [1996] FCA 376, a formulation subsequently approved by the Full Court in Ho v Akai Pty Ltd (in liq) [2006] FCAFC 159; 247 FCR 205, 208 at [10]:\n\n> What the court must determine is whether the case made out on the material presented shows that a controversy exists between the parties that warrants the use of the court’s processes to resolve it and whether causing a proposed respondent to be involved in the litigation in the court in Australia is justified.\n\n[40] In the present application, where the application for leave has focussed on the Part IV CCA Claims, it is appropriate to take into account the observations made by the Full Court in the Epic Appeal at [98] – [105] in relation to Part IV of the CCA, which may be summarised as follows:\n\nas a matter of public policy, claims pursuant to Part IV should be determined in Australia (preferably in this Court) owing to the economic significance of conduct regulated by Part IV to Australia;\n\nthe various prohibitions on anti-competitive practices contained in Part IV are concerned with the protection of competition in Australian markets which, in turn, is a vehicle for the betterment of the welfare of Australians through the attainment of economic efficiency;\n\nclaims under Part IV necessarily have a public dimension, whilst claims under the Australian Consumer Law (ACL) are of a private nature. Accordingly, jurisdiction for Part IV claims is conferred exclusively on the Federal Court, and claims under the ACL are also able to be heard in state courts: s 138B of the CCA;\n\nthe hearing of Part IV claims in the Federal Court facilitates a number of ancillary advantages that would not be available when such claims are determined in a foreign jurisdiction, including the expertise of specialist judges of this Court, and the ability for the regulator, the Australian Competition and Consumer Commission (ACCC) to intervene in such matters if it chooses to do so; and\n\nprivate proceedings supplement the role of the ACCC in enforcing the provisions of Part IV and can often achieve the same benefits as the investigative powers of the ACCC and the relief that it may seek. I interpolate to add that this is particularly so where the private proceedings are brought as representative proceedings.\n\n[41] I am satisfied on the basis of the evidence and submissions made on this ex parte application that the Part IV CCA Claims in the present representative proceedings are such that it is appropriate to grant leave to serve out. I am satisfied that requiring the respondents to be involved in litigation in this Court in Australia is justified.\n\n### Consideration: Substituted Service\n\n[42] In respect of substituted service, r 10.24 of the Rules relevantly provides that if it is not practicable to serve a document on a person in a way required by these Rules, a party may apply to the Court without notice for an order substituting another method of service. By reason of r 10.45, r 10.24 applies to service of respondents outside of Australia provided that the rule is regarded as consistent with Pt 10 and, in particular, Div 10.4 and with the Hague Convention or foreign law: Australian Information Commission v Facebook Inc [2020] FCA 531; 144 ACSR 88, 102 at [65] – [66] (Thawley J) (AIC v Facebook).\n\n[43] Rule 10.49 provides for substituted service in the context of service outside Australia. Mr Hamilton does not bring his application under this rule. That is presumably because he has not attempted to serve the respondents. Rule 10.49 implicitly requires that some attempt at service first be made. Alternatively that the power in r 1.34 be exercised to dispense with compliance with the implied requirement for attempted service. It has been observed that cases where it is appropriate to make such an order under r 1.34 will be rare: see AIC v Facebook, 102 at [63] (Thawley J) citing Park (Trustee) v Tschannen (Bankrupt) [2016] FCA 137; 341 ALR 452, 456 at [18] (Edelman J).\n\n[44] Where the person to be served is in a foreign country, it is not appropriate for the Court to consider an order for substituted service unless an order has first been obtained granting leave to serve outside Australia in accordance with r 10.43 of the Rules: Federal Commissioner of Taxation v Zeitouni [2013] FCA 1011; 306 ALR 603, 609 at [26] (Katzmann J) and the cases cited therein.\n\n[45] The condition that \"service is [or was] not practicable\" in the way otherwise required by the Rules appears in rr 10.23, 10.24 and 10.48 of the Rules. The phrase \"not practicable\" is given the same meaning for the purposes of each of those rules and is to be understood to contemplate a \"state of affairs which is practically impossible to navigate without substantial difficulty\": Sanum Investments Limited v ST Group Co Ltd (No 2) [2019] FCA 1047 at [45], [151] (Foster J). It is not necessary to go so far as to demonstrate that there is an inability to effect personal service or that it would be extraordinarily difficult to do so — it will suffice for an applicant to demonstrate that it is not sensible or realistic to effect personal service even though it may be possible or feasible to do so: Commissioner of Taxation v Caratti (No 2) [2018] FCA 1500 at [10] (Colvin J). Evidence of attempts to serve, attempts to contact the intended recipient and knowledge (or lack of knowledge) of the whereabouts of the intended recipient are relevant to the question of practicability: see, Ross v Cotter [2015] FCA 310 at [2] (Reeves J); and Kosmos Capital Pty Ltd v Turiya Ventures LLC [2019] FCA 528 at [50] (Jackson J).\n\n[46] As Thawley J recognised in AIC v Facebook at [72], a consideration against ordering substituted service arises out of principles of international comity. There is an applicable agreed regime for service outside the jurisdiction. That agreed regime is potentially subverted where jurisdiction is exercised permitting a party to substitute an alternative form of service.\n\n[47] Mr Hamilton applies for substituted service under r 10.24 of the Rules. In the event that the Court is not satisfied that it is not practicable to serve the document in the requisite way, Mr Hamilton urges the Court to dispense with the impracticability requirement in r 10.24 by using the power conferred by r 1.34. Mr Hamilton has not attempted to serve the respondents in accordance with the Hague Convention. Clearly, it would be premature for him to have done so before obtaining a grant of leave to serve out of the jurisdiction. However, he could have, and was given an opportunity to, provide evidence as to why in the present circumstances, it would be neither sensible nor realistic for him to effect service in the manner required.\n\n[48] Mr Hamilton urges the Court to adopt the same approach that was taken in AIC v Facebook. In that case, substituted service was ordered. The applicant led evidence in relation to the impediments to serving the respondent in accordance with the requirements of the Hague Convention at the relevant time. That evidence included evidence that demonstrated that the contractor for the United States Department of Justice, Civil Division, Office of International Judicial Assistance, the entity through which it was proposed to serve the respondent, had “suspended service of process nationwide” across the United States in response to the\nCOVID-19 pandemic. In addition, the Court took judicial notice under s 144(1)(a) of the Evidence Act of the global pandemic. Accordingly, the Court was there satisfied that it was not practicable to effect service as required under the Hague Convention without substantial difficulty.\n\n[49] In the circumstances of the present application, and in the absence of any evidence by way of update to the position that currently pertains in respect of serving in accordance with the Hague Convention in the United States, I am not satisfied, particularly having regard to principles of international comity, that orders for substituted service pursuant to r 10.24 of the Rules should be made.\n\n### Conclusion\n\n[50] For the reasons detailed above, leave to serve the Court Documents on Facebook and Google in the United States in accordance with article 10(a) of the Hague Convention granted. I will make orders accordingly.\n\nI certify that the preceding fifty (50) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.\n\nAssociate:\n\nDated: 10 June 2022\n",
+ "source_sha256": "da50eb0333f5111d60be5611180c667eb77f0ed4b20a08c680d14afc91a70e7f"
+}

@@ -1,0 +1,285 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2019/2019FCA1187.docx",
+ "metadata": {
+  "citation": "[2019] FCA 1187",
+  "name": "Aucare Dairy (Aust) Pty Ltd v Huang (No 4)",
+  "court": "FCA",
+  "year": 2019,
+  "number": 1187,
+  "date_of_judgment": "2019-08-02",
+  "file_numbers": [
+   "VID674/2016"
+  ],
+  "judges": [
+   "DAVIES J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2019-07-26"
+  ],
+  "hearing_raw": "26 July 2019",
+  "number_of_paragraphs": 7,
+  "catchwords": [
+   "COSTS – application for indemnity costs – where applicant succeeded in action for dishonest and fraudulent breaches of fiduciary duty – where respondents unrepresented at trial – where respondents persisted in wilful disregard of known facts – indemnity costs awarded"
+  ],
+  "cases_cited": [
+   "Aucare Dairy (Aust) Pty Ltd v Huang [2017] FCA 746",
+   "Colgate-Palmolive Company v Cussons Pty Limited (1993) 46 FCR 225; [1993] FCA 801",
+   "Donaldson v Worrells [2019] FCA 180",
+   "Hamod v NSW [2002] FCA 424; (2002) 188 ALR 659",
+   "Neville’s Bus Service Pty Ltd v Pitcher Partners Consulting (No 2) [2019] FCA 198",
+   "Shaw v MAB Corporation Pty Ltd (No 2) [2014] FCA 227",
+   "Wu v Avin Operations Pty Ltd (No 2) [2006] FCA 792"
+  ],
+  "parties": [
+   {
+    "name": "AUCARE DAIRY (AUST) PTY LTD",
+    "role": "First Applicant"
+   },
+   {
+    "name": "YANFENG BAI",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "YUNLING HUANG",
+    "role": "First Respondent"
+   },
+   {
+    "name": "ZHIXIN GUO",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr T Duggan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Xiao Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents",
+    "name": "Mr J Burnside QC and Mr D Morgan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents",
+    "name": "King & Wood Mallesons"
+   },
+   {
+    "role": "counsel",
+    "for": "the Seventh Respondent",
+    "name": "Mr C Robinson"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Seventh Respondent",
+    "name": "Tahota Law"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2019/2019fca1187",
+  "portal_file_numbers": [
+   "VID674/2016"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2019-08-02"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 674 of 2016"
+  },
+  {
+   "label": "Judge",
+   "value": "DAVIES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "2 August 2019"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – application for indemnity costs – where applicant succeeded in action for dishonest and fraudulent breaches of fiduciary duty – where respondents unrepresented at trial – where respondents persisted in wilful disregard of known facts – indemnity costs awarded"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Aucare Dairy (Aust) Pty Ltd v Huang [2017] FCA 746\nColgate-Palmolive Company v Cussons Pty Limited (1993) 46 FCR 225; [1993] FCA 801\nDonaldson v Worrells [2019] FCA 180\nHamod v NSW [2002] FCA 424; (2002) 188 ALR 659\nNeville’s Bus Service Pty Ltd v Pitcher Partners Consulting (No 2) [2019] FCA 198\nShaw v MAB Corporation Pty Ltd (No 2) [2014] FCA 227\nWu v Avin Operations Pty Ltd (No 2) [2006] FCA 792"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "26 July 2019"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "7"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr T Duggan SC"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Xiao Lawyers"
+  },
+  {
+   "label": "Counsel for the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents",
+   "value": "Mr J Burnside QC and Mr D Morgan"
+  },
+  {
+   "label": "Solicitor for the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents",
+   "value": "King & Wood Mallesons"
+  },
+  {
+   "label": "Counsel for the Seventh Respondent",
+   "value": "Mr C Robinson"
+  },
+  {
+   "label": "Solicitor for the Seventh Respondent",
+   "value": "Tahota Law"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID674/2016",
+   "parties": [
+    {
+     "name": "AUCARE DAIRY (AUST) PTY LTD",
+     "role": "First Applicant"
+    },
+    {
+     "name": "YANFENG BAI",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "YUNLING HUANG",
+     "role": "First Respondent"
+    },
+    {
+     "name": "ZHIXIN GUO",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "DAVIES J"
+   ],
+   "date": "2019-08-02",
+   "date_raw": "2 August 2019",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The first to sixth and eighth respondents are to pay the applicants’ costs of the proceedings on an indemnity basis.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The payment of the costs referred to in Order 1 be stayed pending the hearing and determination of the respondents’ application for an extension of time in which to appeal the judgment delivered in these proceedings on 27 March 2019.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "In Aucare Dairy (Aust) Pty Ltd v Huang (No 3) [2019] FCA 412, I found that the first and second respondents had engaged in dishonest and fraudulent breaches of fiduciary duty and the other respondents had knowingly participated in those breaches. I made declarations that the first and second respondents had entered into and given effect to a dishonest and fraudulent scheme to deprive the applicants of the joint venture enterprise and that each of the third to eighth respondents knowingly assisted the first and second respondents in that dishonest and fraudulent scheme. The first to sixth and eighth respondents (collectively “the respondents”) were also ordered to pay the applicants’ costs with the question of whether a special order was to be made reserved. The applicants now seek an order that their legal costs be assessed on an indemnity basis. Those orders are opposed by the first to sixth and eighth respondents.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The applicants rely on the deceitful conduct of those respondents giving rise to the necessity of these proceedings in order for the applicants to protect their interests. The applicants further argued that the first and second respondents maintained their defences in wilful disregard of the facts, the law and for ulterior purposes, namely in furtherance of their fraudulent design to continue to deprive the applicants of their interests in the plant and equipment the subject of the claims against them, and in circumstances where the case against them was set out in detail in the prior decision in Aucare Dairy (Aust) Pty Ltd v Huang [2017] FCA 746 (O’Callaghan J) (“the privilege judgment”), which should have put them on notice that they had no prospects of successfully defending the claims against them. The applicants also relied upon what were said to be unreasonable and baseless assertions and denials in their defences. Put against that submission was the contention that a failure to deny the relevant allegations would have amounted to a capitulation.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The relevant principles for an award of indemnity costs are well-established. Costs ordinarily follow the event and are awarded on a party-party basis unless there are particular or special circumstances which would warrant the Court making a special costs order, including an order that costs be assessed on an indemnity basis: Colgate-Palmolive Company v Cussons Pty Limited (1993) 46 FCR 225; [1993] FCA 801 (“Colgate-Palmolive”) at 232-234. In Colgate-Palmolive, Sheppard J noted some examples of circumstances which might warrant the exercise of the discretion to order indemnity costs. Circumstances identified by his Honour included the conduct of proceedings in wilful disregard of known facts or clearly established law and the undue prolongation of a case by groundless contentions.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The respondents argued that the primary reason why indemnity costs should not be awarded in the present case is that the respondents were self-represented. Reference was made to Hamod v NSW [2002] FCA 424; (2002) 188 ALR 659 (“Hamod”) at [20] where the Full Court said:\nIndemnity costs are not designed to punish a party for persisting with a case that turns out to fail. They are not awarded as a means of deterring litigants from putting forward arguments that might be attended by uncertainty. Rather, they serve the purpose of compensating a party fully for costs incurred, as a normal costs order could not be expected to do, when the Court takes the view that it was unreasonable for the party against whom the order is made to have subjected the innocent party to the expenditure of costs.\nFurther reference was made to other cases in support of the proposition that the fact that a party is self-represented tends against the award of costs: see Wu v Avin Operations Pty Ltd (No 2) [2006] FCA 792 at [45] (Kenny J); Donaldson v Worrells [2019] FCA 180 at [16]–[18]. It was submitted that a litigant in person cannot be expected to appreciate the strengths and weaknesses of his or her own case in the same way that a represented party can. In Shaw v MAB Corporation Pty Ltd (No 2) [2014] FCA 227, Mortimer J observed at [10]:\nBoth the pursuit of a claim without any reasonable justification, and the pursuit of a claim in a manner that cannot reasonably be justified, are common themes in the authorities. The confidence with which Courts may reach these conclusions is likely to be affected by consideration of what can be expected from the legal representatives of an unsuccessful party. The matters to which the authorities refer contain norms of behaviour in litigation which can be expected from parties who are legally advised and represented. They may also proceed on unstated assumptions about norms which operate in terms of advice passing between lawyers and clients concerning the prospects of success of particular litigation, or the manner in which litigation should be conducted. This may, in part, explain the general reluctance of courts to make orders for indemnity costs against litigants in person, although, in an appropriate case, they will make such an order: see the observations of Kenny J in Wu v Avin Operations Pty Ltd (No 2) [2006] FCA 792 at [45].\nThese authorities recognise that the considerations affecting the exercise of the Court’s discretion may be different, or differently weighted, where a litigant is self-represented.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "It was further submitted that here the respondents were not just unrepresented but had the disadvantage of having very limited English and were poorly served by the interpreters provided.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "It is noted that although the respondents were unrepresented at the trial, they had legal representation during many of the trial steps, including the preparation of defences and the cross-claim that the first and second respondents brought against their former solicitors who acted for them in respect of the matters which became the subject of these proceedings and in the privilege dispute which was the subject of the decision in the privilege judgment. In the circumstances, whilst it is relevant to take into account that the respondents were unrepresented at trial, I do not place significant weight on that fact as a consideration which, of itself, justifies rejecting the applicants’ application for indemnity costs.",
+    "judge": "DAVIES J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "In my view, it is appropriate for an award of indemnity costs to be made in this case. This is not just a case where the respondents persisted with a case that turned out to fail: cf Hamod. In the present case, the applicants were the victims of fraud and the respondents should be accountable for their actions: see Neville’s Bus Service Pty Ltd v Pitcher Partners Consulting (No 2) [2019] FCA 198 (O’Callaghan J) (“Neville’s Bus Service”). By parity of reasoning with Neville’s Bus Service, this was a case where, as the Court found, the first and second respondents knew that removing the main and auxiliary equipment was a contravention of their duties to the joint venture and had received advice that their ownership claim of the clean room equipment was “extremely flimsy at best” but nonetheless not just removed all of the plant and equipment but did so by setting up a corporate structure and taking the steps they did to transfer ownership of the plant and equipment to entities which they controlled and to operate a new business to the exclusion of the applicants. As the Court found, this was all done with knowledge of the rights asserted by the applicants with respect to that plant and equipment. In the circumstances, the respondents should be accountable for their actions. This is the kind of case where it was unreasonable for the respondents to have subjected the applicants to the expenditure for costs of litigation which is the result of the respondents’ dishonesty. The respondents’ submissions fail to grapple with the fundamental point that the applicants were the victims of a fraud and, in such circumstances, the respondents persisted with their defence of the proceedings in wilful disregard of known facts.",
+    "judge": "DAVIES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding seven (7) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Davies.",
+ "associate": null,
+ "dated": "2019-08-02",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 674 of 2016\nRespondents\nFourth Respondent: | NOYIER DAIRY AUSTRALIA PTY LTD\nFifth Respondent: | CFM ASSOCIATES PTY LTD (ACN 601 042 595)\nSixth Respondent: | AUSTRALIA GREEN DAIRY PTY LTD\nSeventh Respondent: | NUTRITIONAL CHOICE AUSTRALIA PTY LTD\nEighth Respondent: | HUANG QIONG\nNinth Respondent: | MACPHERSON + KELLEY LAWYERS PTY LTD\nTenth Respondent: | GRANT GUENTHER"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Aucare Dairy (Aust) Pty Ltd v Huang (No 4) [2019] FCA 1187\n\n## Cover sheet\n\n**File number:** VID 674 of 2016\n\n**Judge:** DAVIES J\n\n**Date of judgment:** 2 August 2019\n\n**Catchwords:** COSTS – application for indemnity costs – where applicant succeeded in action for dishonest and fraudulent breaches of fiduciary duty – where respondents unrepresented at trial – where respondents persisted in wilful disregard of known facts – indemnity costs awarded\n\n**Cases cited:** Aucare Dairy (Aust) Pty Ltd v Huang [2017] FCA 746  \nColgate-Palmolive Company v Cussons Pty Limited (1993) 46 FCR 225; [1993] FCA 801  \nDonaldson v Worrells [2019] FCA 180  \nHamod v NSW [2002] FCA 424; (2002) 188 ALR 659  \nNeville’s Bus Service Pty Ltd v Pitcher Partners Consulting (No 2) [2019] FCA 198  \nShaw v MAB Corporation Pty Ltd (No 2) [2014] FCA 227  \nWu v Avin Operations Pty Ltd (No 2) [2006] FCA 792\n\n**Date of hearing:** 26 July 2019\n\n**Registry:** Victoria\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Corporations and Corporate Insolvency\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 7\n\n**Counsel for the Applicants:** Mr T Duggan SC\n\n**Solicitor for the Applicants:** Xiao Lawyers\n\n**Counsel for the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents:** Mr J Burnside QC and Mr D Morgan\n\n**Solicitor for the First, Second, Third, Fourth, Fifth, Sixth and Eighth Respondents:** King & Wood Mallesons\n\n**Counsel for the Seventh Respondent:** Mr C Robinson\n\n**Solicitor for the Seventh Respondent:** Tahota Law\n\n## Judgment\n\n### ORDERS\n\n|  | VID 674 of 2016 |\n|---|---|\n| BETWEEN: | AUCARE DAIRY (AUST) PTY LTD<br>First Applicant<br>YANFENG BAI<br>Second Applicant |\n| AND: | YUNLING HUANG<br>First Respondent<br>ZHIXIN GUO<br>Second Respondent<br>GREAT VISION AUSTRALIA PTY LTD (and others named in the Schedule)<br>Third Respondent |\n\n| JUDGE: | DAVIES J |\n|---|---|\n| DATE OF ORDER: | 2 August 2019 |\n\n### THE COURT ORDERS THAT:\n\n1. The first to sixth and eighth respondents are to pay the applicants’ costs of the proceedings on an indemnity basis.\n\n2. The payment of the costs referred to in Order 1 be stayed pending the hearing and determination of the respondents’ application for an extension of time in which to appeal the judgment delivered in these proceedings on 27 March 2019.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### DAVIES J:\n\n[1] In Aucare Dairy (Aust) Pty Ltd v Huang (No 3) [2019] FCA 412, I found that the first and second respondents had engaged in dishonest and fraudulent breaches of fiduciary duty and the other respondents had knowingly participated in those breaches. I made declarations that the first and second respondents had entered into and given effect to a dishonest and fraudulent scheme to deprive the applicants of the joint venture enterprise and that each of the third to eighth respondents knowingly assisted the first and second respondents in that dishonest and fraudulent scheme. The first to sixth and eighth respondents (collectively “the respondents”) were also ordered to pay the applicants’ costs with the question of whether a special order was to be made reserved. The applicants now seek an order that their legal costs be assessed on an indemnity basis. Those orders are opposed by the first to sixth and eighth respondents.\n\n[2] The applicants rely on the deceitful conduct of those respondents giving rise to the necessity of these proceedings in order for the applicants to protect their interests. The applicants further argued that the first and second respondents maintained their defences in wilful disregard of the facts, the law and for ulterior purposes, namely in furtherance of their fraudulent design to continue to deprive the applicants of their interests in the plant and equipment the subject of the claims against them, and in circumstances where the case against them was set out in detail in the prior decision in Aucare Dairy (Aust) Pty Ltd v Huang [2017] FCA 746 (O’Callaghan J) (“the privilege judgment”), which should have put them on notice that they had no prospects of successfully defending the claims against them. The applicants also relied upon what were said to be unreasonable and baseless assertions and denials in their defences. Put against that submission was the contention that a failure to deny the relevant allegations would have amounted to a capitulation.\n\n[3] The relevant principles for an award of indemnity costs are well-established. Costs ordinarily follow the event and are awarded on a party-party basis unless there are particular or special circumstances which would warrant the Court making a special costs order, including an order that costs be assessed on an indemnity basis: Colgate-Palmolive Company v Cussons Pty Limited (1993) 46 FCR 225; [1993] FCA 801 (“Colgate-Palmolive”) at 232-234. In Colgate-Palmolive, Sheppard J noted some examples of circumstances which might warrant the exercise of the discretion to order indemnity costs. Circumstances identified by his Honour included the conduct of proceedings in wilful disregard of known facts or clearly established law and the undue prolongation of a case by groundless contentions.\n\n[4] The respondents argued that the primary reason why indemnity costs should not be awarded in the present case is that the respondents were self-represented. Reference was made to Hamod v NSW [2002] FCA 424; (2002) 188 ALR 659 (“Hamod”) at [20] where the Full Court said:\n\n> Indemnity costs are not designed to punish a party for persisting with a case that turns out to fail. They are not awarded as a means of deterring litigants from putting forward arguments that might be attended by uncertainty. Rather, they serve the purpose of compensating a party fully for costs incurred, as a normal costs order could not be expected to do, when the Court takes the view that it was unreasonable for the party against whom the order is made to have subjected the innocent party to the expenditure of costs.\n\nFurther reference was made to other cases in support of the proposition that the fact that a party is self-represented tends against the award of costs: see Wu v Avin Operations Pty Ltd (No 2) [2006] FCA 792 at [45] (Kenny J); Donaldson v Worrells [2019] FCA 180 at [16]–[18]. It was submitted that a litigant in person cannot be expected to appreciate the strengths and weaknesses of his or her own case in the same way that a represented party can. In Shaw v MAB Corporation Pty Ltd (No 2) [2014] FCA 227, Mortimer J observed at [10]:\n\n> Both the pursuit of a claim without any reasonable justification, and the pursuit of a claim in a manner that cannot reasonably be justified, are common themes in the authorities. The confidence with which Courts may reach these conclusions is likely to be affected by consideration of what can be expected from the legal representatives of an unsuccessful party. The matters to which the authorities refer contain norms of behaviour in litigation which can be expected from parties who are legally advised and represented. They may also proceed on unstated assumptions about norms which operate in terms of advice passing between lawyers and clients concerning the prospects of success of particular litigation, or the manner in which litigation should be conducted. This may, in part, explain the general reluctance of courts to make orders for indemnity costs against litigants in person, although, in an appropriate case, they will make such an order: see the observations of Kenny J in Wu v Avin Operations Pty Ltd (No 2) [2006] FCA 792 at [45].\n\nThese authorities recognise that the considerations affecting the exercise of the Court’s discretion may be different, or differently weighted, where a litigant is self-represented.\n\n[5] It was further submitted that here the respondents were not just unrepresented but had the disadvantage of having very limited English and were poorly served by the interpreters provided.\n\n[6] It is noted that although the respondents were unrepresented at the trial, they had legal representation during many of the trial steps, including the preparation of defences and the cross-claim that the first and second respondents brought against their former solicitors who acted for them in respect of the matters which became the subject of these proceedings and in the privilege dispute which was the subject of the decision in the privilege judgment. In the circumstances, whilst it is relevant to take into account that the respondents were unrepresented at trial, I do not place significant weight on that fact as a consideration which, of itself, justifies rejecting the applicants’ application for indemnity costs.\n\n[7] In my view, it is appropriate for an award of indemnity costs to be made in this case. This is not just a case where the respondents persisted with a case that turned out to fail: cf Hamod. In the present case, the applicants were the victims of fraud and the respondents should be accountable for their actions: see Neville’s Bus Service Pty Ltd v Pitcher Partners Consulting (No 2) [2019] FCA 198 (O’Callaghan J) (“Neville’s Bus Service”). By parity of reasoning with Neville’s Bus Service, this was a case where, as the Court found, the first and second respondents knew that removing the main and auxiliary equipment was a contravention of their duties to the joint venture and had received advice that their ownership claim of the clean room equipment was “extremely flimsy at best” but nonetheless not just removed all of the plant and equipment but did so by setting up a corporate structure and taking the steps they did to transfer ownership of the plant and equipment to entities which they controlled and to operate a new business to the exclusion of the applicants. As the Court found, this was all done with knowledge of the rights asserted by the applicants with respect to that plant and equipment. In the circumstances, the respondents should be accountable for their actions. This is the kind of case where it was unreasonable for the respondents to have subjected the applicants to the expenditure for costs of litigation which is the result of the respondents’ dishonesty. The respondents’ submissions fail to grapple with the fundamental point that the applicants were the victims of a fraud and, in such circumstances, the respondents persisted with their defence of the proceedings in wilful disregard of known facts.\n\nI certify that the preceding seven (7) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Davies.\n\nAssociate:\n\nDated: 2 August 2019\n\n### SCHEDULE OF PARTIES\n\n|  | VID 674 of 2016 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | NOYIER DAIRY AUSTRALIA PTY LTD |\n| Fifth Respondent: | CFM ASSOCIATES PTY LTD (ACN 601 042 595) |\n| Sixth Respondent: | AUSTRALIA GREEN DAIRY PTY LTD |\n| Seventh Respondent: | NUTRITIONAL CHOICE AUSTRALIA PTY LTD |\n| Eighth Respondent: | HUANG QIONG |\n| Ninth Respondent: | MACPHERSON + KELLEY LAWYERS PTY LTD |\n| Tenth Respondent: | GRANT GUENTHER |\n",
+ "source_sha256": "800a25921d54a358e0f30d32f7081959ccf8dd3276ac9c7c688c71166abf230a"
+}

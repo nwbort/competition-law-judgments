@@ -1,0 +1,316 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA0409.docx",
+ "metadata": {
+  "citation": "[2021] FCA 409",
+  "name": "Freedom Foods Pty Ltd v Blue Diamond Growers (No 2)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 409,
+  "date_of_judgment": "2021-04-23",
+  "file_numbers": [
+   "VID644/2020"
+  ],
+  "judges": [
+   "MOSHINSKY J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Commercial Contracts, Banking, Finance and Insurance",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2021-04-07",
+  "number_of_paragraphs": 9,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – costs – international arbitration – where respondent sought stay of the proceeding pursuant to s 7(2) of the International Arbitration Act 1974 (Cth) – where stay granted – where respondent substantially successful – whether to depart from ordinary rule that costs follow the event"
+  ],
+  "legislation": [
+   "International Arbitration Act 1974 (Cth), s 7"
+  ],
+  "cases_cited": [
+   "ACN 154 520 199 Pty Ltd (in liq) v Commissioner of Taxation (No 2) [2020] FCAFC 225",
+   "Re Minister for Immigration and Ethnic Affairs; Ex parte Lai Qin (1997) 186 CLR 622"
+  ],
+  "parties": [
+   {
+    "name": "FREEDOM FOODS PTY LTD (ACN 068 972 181)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "FREEDOM FOODS GROUP INGLEBURN PTY LTD (ACN 600 569 382)",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "FREEDOM FOODS GROUP TRADING PTY LTD (ACN 614 863 286) (and another named in the Schedule)",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "BLUE DIAMOND GROWERS",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr PD Crutchfield QC with Dr AM Dinelli"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Arnold Bloch Leibler"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Dr JP Moore QC, with Ms HA Tiplady and Mr T Farhall"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Norton Rose Fulbright Australia"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0409",
+  "portal_file_numbers": [
+   "VID644/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-04-23"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 644 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "MOSHINSKY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "23 April 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – costs – international arbitration – where respondent sought stay of the proceeding pursuant to s 7(2) of the International Arbitration Act 1974 (Cth) – where stay granted – where respondent substantially successful – whether to depart from ordinary rule that costs follow the event"
+  },
+  {
+   "label": "Legislation",
+   "value": "International Arbitration Act 1974 (Cth), s 7"
+  },
+  {
+   "label": "Cases cited",
+   "value": "ACN 154 520 199 Pty Ltd (in liq) v Commissioner of Taxation (No 2) [2020] FCAFC 225\nRe Minister for Immigration and Ethnic Affairs; Ex parte Lai Qin (1997) 186 CLR 622"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Commercial Contracts, Banking, Finance and Insurance"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "9"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "7 April 2021"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr PD Crutchfield QC with Dr AM Dinelli"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Arnold Bloch Leibler"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Dr JP Moore QC, with Ms HA Tiplady and Mr T Farhall"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Norton Rose Fulbright Australia"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID644/2020",
+   "parties": [
+    {
+     "name": "FREEDOM FOODS PTY LTD (ACN 068 972 181)",
+     "role": "First Applicant"
+    },
+    {
+     "name": "FREEDOM FOODS GROUP INGLEBURN PTY LTD (ACN 600 569 382)",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "FREEDOM FOODS GROUP TRADING PTY LTD (ACN 614 863 286) (and another named in the Schedule)",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "BLUE DIAMOND GROWERS",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "MOSHINSKY J"
+   ],
+   "date": "2021-04-23",
+   "date_raw": "23 APRIL 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicants pay the respondent’s costs of and incidental to:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the applicants’ interlocutory application dated 20 November 2020; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the respondent’s interlocutory application dated 15 December 2020,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "including the costs reserved by the orders made on 24 December 2020, 5 February 2021 and 10 February 2021.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "In relation to the other costs of the proceeding to date (including other reserved costs), there be no order as to costs.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The costs referred to in paragraph 1 be fixed by way of a lump sum.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Within 14 days, the parties file any agreed proposed minutes of orders fixing a lump sum in relation to the respondent’s costs.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "In the absence of any agreement:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "within 21 days, the respondent file and serve an affidavit constituting a Costs Summary in accordance with paragraphs 4.10 to 4.12 of the Court’s Costs Practice Note (GPN-COSTS);",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "within a further 14 days, the applicants file and serve any Costs Response in accordance with paragraphs 4.13 to 4.14 of the Costs Practice Note (GPN-COSTS); and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "in the absence of any agreement having been reached within a further 14 days, the matter of an appropriate lump sum figure for the respondent’s costs be referred to a Registrar for determination.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "THE COURT DIRECTS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 5 March 2021, I published reasons for judgment and made orders in relation to two interlocutory applications: Freedom Foods Pty Ltd v Blue Diamond Growers [2021] FCA 172. I now deal with the issues of costs, both of the interlocutory applications and of the proceeding to date. These reasons should be read together with the reasons dated 5 March 2021. I will adopt the abbreviations used in the 5 March 2021 reasons.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The parties have filed the following submissions on costs: BDG filed submissions on 26 March 2021; the applicants filed submissions on 29 March 2021; and BDG filed reply submissions on 7 April 2021. The respective positions of the parties are as follows:\n(a) BDG seeks orders that the applicants pay, on a party and party basis, BDG’s costs of and incidental to the two interlocutory applications and otherwise of the proceeding. BDG also seeks an order that these costs be assessed in accordance with the lump sum procedure set out in the Court’s Costs Practice Note (GPN-COSTS).\n(b) The applicants submit that the appropriate costs orders are:\nthe applicants pay 50% of BDG’s costs of the interlocutory applications; and\nthere otherwise be no order as to the costs of the proceeding.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The applicable principles relating to costs are well established. It is sufficient for present purposes to refer to the recent summary of those principles in ACN 154 520 199 Pty Ltd (in liq) v Commissioner of Taxation (No 2) [2020] FCAFC 225 at [9]-[11].",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "I will deal first with the costs of the two interlocutory applications. These applications were heard together and there was an overlap in the evidence and submissions as between the two interlocutory applications. It is appropriate to deal together with the costs of the two interlocutory applications.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "BDG was substantially successful in relation to both interlocutory applications. By BDG’s interlocutory application, BDG sought an order that the proceeding be stayed pursuant to s 7(2) of the International Arbitration Act 1974 (Cth). I made such an order. By the applicants’ interlocutory application, the applicants sought injunctions to restrain BDG from pursuing the Californian Arbitration and the US District Court Proceeding: see [12] of the 5 March 2021 reasons. I dismissed the applicants’ interlocutory application. Insofar as the applicants submit that, because BDG proffered, and the Court accepted, an undertaking that BDG would discontinue the US District Court Proceeding (and certain other undertakings), the applicants obtained some of the relief they sought, I do not accept that submission. The undertaking relating to the US District Court Proceeding was offered as part of BDG’s oral submissions in the context of a suggestion by the applicants that BDG was adopting inconsistent positions (see the 5 March 2021 reasons at [68]). It was offered with a view to the relevant claims being brought in the Californian Arbitration, not in the present proceeding. While the undertaking may overlap to some extent with the relief sought by the applicants, BDG was nevertheless substantially successful in relation to both interlocutory applications: the present proceeding was stayed and the Californian Arbitration is to continue.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "I note that the applicants were successful in respect of a number of the issues considered in the 5 March 2021 reasons, namely whether paragraph (d) of cl 5(1) of the Franchising Code was satisfied (considered at [115]-[116]); the 20% Issue (considered at [118]-[134]); and the issues considered at [136]-[139] of the 5 March 2021 reasons. However, none of those issues was determinative. In the circumstances of this case, I do not consider it appropriate to adopt an “issue by issue” approach to costs, or to depart from the usual rule that costs follow the event on account of the applicants’ success in respect of a number of issues. The issue of costs arises in the context of interlocutory applications (rather than a final hearing) and there was considerable overlap in the evidence and submissions as between the issues that arose for determination. In these circumstances, I consider it appropriate to focus on the overall outcomes of the interlocutory applications. As described above, BDG was substantially successful in the outcomes.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Accordingly, I consider it appropriate to order that the applicants pay BDG’s costs of and incidental to the interlocutory applications. There were several case management hearings related to the interlocutory applications. The costs of those hearings were reserved, by orders made on 24 December 2020, 5 February 2021 and 10 February 2021. These reserved costs should form part of the costs of the interlocutory applications, and I will indicate this in the orders.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "I turn now to consider the other costs of the proceeding to date. These costs are likely to be relatively limited, as the proceeding was at an early stage at the time when it was stayed. While BDG has been successful in obtaining a stay of the proceeding, there has been no adjudication on the merits of the claims: cf Re Minister for Immigration and Ethnic Affairs; Ex parte Lai Qin (1997) 186 CLR 622 at 624-625 per McHugh J. I do not consider that the applicants acted unreasonably in commencing the proceeding, notwithstanding the existence of the arbitration clause. As the reasons of 5 March 2021 indicate, there were arguments available to the applicants to support the view that a proceeding could be commenced in this jurisdiction. In the circumstances, I consider it appropriate to order that, in relation to the other costs of the proceeding to date (including other reserved costs), there be no order as to costs.",
+    "judge": "MOSHINSKY J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "BDG has sought an order that the costs be fixed by way of a lump sum. The applicants did not submit otherwise. I consider it appropriate to order that the costs be fixed by way of a lump sum, and will make directions for the filing of costs affidavits in accordance with the applicable practice note, and for the lump sum to be determined by a Registrar.",
+    "judge": "MOSHINSKY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding nine (9) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Moshinsky.",
+ "associate": null,
+ "dated": "2021-04-23",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 644 of 2020\nApplicants\nFourth Applicant: | PACTUM AUSTRALIA PTY LTD (ACN 112 913 336)"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Freedom Foods Pty Ltd v Blue Diamond Growers (No 2) [2021] FCA 409\n\n## Cover sheet\n\n**File number:** VID 644 of 2020\n\n**Judgment of:** MOSHINSKY J\n\n**Date of judgment:** 23 April 2021\n\n**Catchwords:** PRACTICE AND PROCEDURE – costs – international arbitration – where respondent sought stay of the proceeding pursuant to s 7(2) of the International Arbitration Act 1974 (Cth) – where stay granted – where respondent substantially successful – whether to depart from ordinary rule that costs follow the event\n\n**Legislation:** International Arbitration Act 1974 (Cth), s 7\n\n**Cases cited:** ACN 154 520 199 Pty Ltd (in liq) v Commissioner of Taxation (No 2) [2020] FCAFC 225  \nRe Minister for Immigration and Ethnic Affairs; Ex parte Lai Qin (1997) 186 CLR 622\n\n**Division:** General Division\n\n**Registry:** Victoria\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Commercial Contracts, Banking, Finance and Insurance\n\n**Number of paragraphs:** 9\n\n**Date of last submissions:** 7 April 2021\n\n**Date of hearing:** Determined on the papers\n\n**Counsel for the Applicants:** Mr PD Crutchfield QC with Dr AM Dinelli\n\n**Solicitor for the Applicants:** Arnold Bloch Leibler\n\n**Counsel for the Respondent:** Dr JP Moore QC, with Ms HA Tiplady and Mr T Farhall\n\n**Solicitor for the Respondent:** Norton Rose Fulbright Australia\n\n## Judgment\n\n### ORDERS\n\n|  | VID 644 of 2020 |\n|---|---|\n| BETWEEN: | FREEDOM FOODS PTY LTD (ACN 068 972 181)<br>First Applicant<br>FREEDOM FOODS GROUP INGLEBURN PTY LTD (ACN 600 569 382)<br>Second Applicant<br>FREEDOM FOODS GROUP TRADING PTY LTD (ACN 614 863 286) (and another named in the Schedule)<br>Third Applicant |\n| AND: | BLUE DIAMOND GROWERS<br>Respondent |\n\n| order made by: | MOSHINSKY J |\n|---|---|\n| DATE OF ORDER: | 23 APRIL 2021 |\n\n### THE COURT ORDERS THAT:\n\n1. The applicants pay the respondent’s costs of and incidental to:\n\nthe applicants’ interlocutory application dated 20 November 2020; and\n\nthe respondent’s interlocutory application dated 15 December 2020,\n\nincluding the costs reserved by the orders made on 24 December 2020, 5 February 2021 and 10 February 2021.\n\n2. In relation to the other costs of the proceeding to date (including other reserved costs), there be no order as to costs.\n\n3. The costs referred to in paragraph 1 be fixed by way of a lump sum.\n\n### THE COURT DIRECTS THAT:\n\n4. Within 14 days, the parties file any agreed proposed minutes of orders fixing a lump sum in relation to the respondent’s costs.\n\n5. In the absence of any agreement:\n\nwithin 21 days, the respondent file and serve an affidavit constituting a Costs Summary in accordance with paragraphs 4.10 to 4.12 of the Court’s Costs Practice Note (GPN-COSTS);\n\nwithin a further 14 days, the applicants file and serve any Costs Response in accordance with paragraphs 4.13 to 4.14 of the Costs Practice Note (GPN-COSTS); and\n\nin the absence of any agreement having been reached within a further 14 days, the matter of an appropriate lump sum figure for the respondent’s costs be referred to a Registrar for determination.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### MOSHINSKY J:\n\n[1] On 5 March 2021, I published reasons for judgment and made orders in relation to two interlocutory applications: Freedom Foods Pty Ltd v Blue Diamond Growers [2021] FCA 172. I now deal with the issues of costs, both of the interlocutory applications and of the proceeding to date. These reasons should be read together with the reasons dated 5 March 2021. I will adopt the abbreviations used in the 5 March 2021 reasons.\n\n[2] The parties have filed the following submissions on costs: BDG filed submissions on 26 March 2021; the applicants filed submissions on 29 March 2021; and BDG filed reply submissions on 7 April 2021. The respective positions of the parties are as follows:\n\n(a) BDG seeks orders that the applicants pay, on a party and party basis, BDG’s costs of and incidental to the two interlocutory applications and otherwise of the proceeding. BDG also seeks an order that these costs be assessed in accordance with the lump sum procedure set out in the Court’s Costs Practice Note (GPN-COSTS).\n\n(b) The applicants submit that the appropriate costs orders are:\n\nthe applicants pay 50% of BDG’s costs of the interlocutory applications; and\n\nthere otherwise be no order as to the costs of the proceeding.\n\n[3] The applicable principles relating to costs are well established. It is sufficient for present purposes to refer to the recent summary of those principles in ACN 154 520 199 Pty Ltd (in liq) v Commissioner of Taxation (No 2) [2020] FCAFC 225 at [9]-[11].\n\n[4] I will deal first with the costs of the two interlocutory applications. These applications were heard together and there was an overlap in the evidence and submissions as between the two interlocutory applications. It is appropriate to deal together with the costs of the two interlocutory applications.\n\n[5] BDG was substantially successful in relation to both interlocutory applications. By BDG’s interlocutory application, BDG sought an order that the proceeding be stayed pursuant to s 7(2) of the International Arbitration Act 1974 (Cth). I made such an order. By the applicants’ interlocutory application, the applicants sought injunctions to restrain BDG from pursuing the Californian Arbitration and the US District Court Proceeding: see [12] of the 5 March 2021 reasons. I dismissed the applicants’ interlocutory application. Insofar as the applicants submit that, because BDG proffered, and the Court accepted, an undertaking that BDG would discontinue the US District Court Proceeding (and certain other undertakings), the applicants obtained some of the relief they sought, I do not accept that submission. The undertaking relating to the US District Court Proceeding was offered as part of BDG’s oral submissions in the context of a suggestion by the applicants that BDG was adopting inconsistent positions (see the 5 March 2021 reasons at [68]). It was offered with a view to the relevant claims being brought in the Californian Arbitration, not in the present proceeding. While the undertaking may overlap to some extent with the relief sought by the applicants, BDG was nevertheless substantially successful in relation to both interlocutory applications: the present proceeding was stayed and the Californian Arbitration is to continue.\n\n[6] I note that the applicants were successful in respect of a number of the issues considered in the 5 March 2021 reasons, namely whether paragraph (d) of cl 5(1) of the Franchising Code was satisfied (considered at [115]-[116]); the 20% Issue (considered at [118]-[134]); and the issues considered at [136]-[139] of the 5 March 2021 reasons. However, none of those issues was determinative. In the circumstances of this case, I do not consider it appropriate to adopt an “issue by issue” approach to costs, or to depart from the usual rule that costs follow the event on account of the applicants’ success in respect of a number of issues. The issue of costs arises in the context of interlocutory applications (rather than a final hearing) and there was considerable overlap in the evidence and submissions as between the issues that arose for determination. In these circumstances, I consider it appropriate to focus on the overall outcomes of the interlocutory applications. As described above, BDG was substantially successful in the outcomes.\n\n[7] Accordingly, I consider it appropriate to order that the applicants pay BDG’s costs of and incidental to the interlocutory applications. There were several case management hearings related to the interlocutory applications. The costs of those hearings were reserved, by orders made on 24 December 2020, 5 February 2021 and 10 February 2021. These reserved costs should form part of the costs of the interlocutory applications, and I will indicate this in the orders.\n\n[8] I turn now to consider the other costs of the proceeding to date. These costs are likely to be relatively limited, as the proceeding was at an early stage at the time when it was stayed. While BDG has been successful in obtaining a stay of the proceeding, there has been no adjudication on the merits of the claims: cf Re Minister for Immigration and Ethnic Affairs; Ex parte Lai Qin (1997) 186 CLR 622 at 624-625 per McHugh J. I do not consider that the applicants acted unreasonably in commencing the proceeding, notwithstanding the existence of the arbitration clause. As the reasons of 5 March 2021 indicate, there were arguments available to the applicants to support the view that a proceeding could be commenced in this jurisdiction. In the circumstances, I consider it appropriate to order that, in relation to the other costs of the proceeding to date (including other reserved costs), there be no order as to costs.\n\n[9] BDG has sought an order that the costs be fixed by way of a lump sum. The applicants did not submit otherwise. I consider it appropriate to order that the costs be fixed by way of a lump sum, and will make directions for the filing of costs affidavits in accordance with the applicable practice note, and for the lump sum to be determined by a Registrar.\n\nI certify that the preceding nine (9) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Moshinsky.\n\nAssociate:\n\nDated: 23 April 2021\n\n### SCHEDULE OF PARTIES\n\n|  | VID 644 of 2020 |\n|---|---|\n| Applicants |  |\n| Fourth Applicant: | PACTUM AUSTRALIA PTY LTD (ACN 112 913 336) |\n",
+ "source_sha256": "d7dc564831fc8929583f96e36e952a15e45c192e1e58d749eaaca85d58ae2ca1"
+}

@@ -1,0 +1,559 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA0077.docx",
+ "metadata": {
+  "citation": "[2013] FCA 77",
+  "name": "McHugh v Australian Jockey Club Limited (No 14)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 77,
+  "date_of_judgment": "2013-02-15",
+  "file_numbers": [
+   "NSD1187/2009"
+  ],
+  "judges": [
+   "ROBERTSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2013-02-08",
+  "number_of_paragraphs": 36,
+  "catchwords": [
+   "COSTS – unsuccessful applicant– whether litigation relevantly brought in the public interest – appropriate costs order – whether applicant should pay any of the costs of a respondent joined on its own application"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 43",
+   "Federal Court Rules 2011 r 24.22"
+  ],
+  "cases_cited": [
+   "Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645",
+   "Kadkhudayan v W D & H O Wills (Aust) Ltd (2002) ATPR 41-874; [2002] FCAFC 110",
+   "Oshlack v Richmond River Council (1998) 193 CLR 72"
+  ],
+  "parties": [
+   {
+    "name": "BRUCE MCHUGH",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN JOCKEY CLUB LIMITED",
+    "role": "First Respondent"
+   },
+   {
+    "name": "VICTORIA RACING CLUB LIMITED",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "AUSTRALIAN RACING BOARD LIMITED",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "THOROUGHBRED BREEDERS AUSTRALIA LIMITED",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "AUSTRALIAN TURF CLUB LIMITED",
+    "role": "Sixth Respondent"
+   }
+  ],
+  "parties_summary": "BRUCE MCHUGH v AUSTRALIAN JOCKEY CLUB LIMITED, VICTORIA RACING CLUB LIMITED, AUSTRALIAN RACING BOARD LIMITED, THOROUGHBRED BREEDERS AUSTRALIA LIMITED and AUSTRALIAN TURF CLUB LIMITED",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr AI Tonking SC with Mr JE Lazarus"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Brock Partners"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Sixth Respondents",
+    "name": "Mr AJ Bannon SC with Dr RCA Higgins"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First, Second and Sixth Respondents",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr BW Walker SC with Mr GES Ng"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Yeldham Price O’Brien Lusk"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fifth Respondent",
+    "name": "Mr JS Emmett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fifth Respondent",
+    "name": "Esplins Solicitors"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0077",
+  "portal_file_numbers": [
+   "NSD1187/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-02-15"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "McHugh v Australian Jockey Club Limited (No 14) [2013] FCA 77"
+  },
+  {
+   "label": "Parties",
+   "value": "BRUCE MCHUGH v AUSTRALIAN JOCKEY CLUB LIMITED, VICTORIA RACING CLUB LIMITED, AUSTRALIAN RACING BOARD LIMITED, THOROUGHBRED BREEDERS AUSTRALIA LIMITED and AUSTRALIAN TURF CLUB LIMITED"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 1187 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "ROBERTSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "15 February 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – unsuccessful applicant– whether litigation relevantly brought in the public interest – appropriate costs order – whether applicant should pay any of the costs of a respondent joined on its own application"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 43\nFederal Court Rules 2011 r 24.22"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645\nKadkhudayan v W D & H O Wills (Aust) Ltd (2002) ATPR 41-874; [2002] FCAFC 110\nOshlack v Richmond River Council (1998) 193 CLR 72"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "8 February 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "36"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr AI Tonking SC with Mr JE Lazarus"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Brock Partners"
+  },
+  {
+   "label": "Counsel for the First, Second and Sixth Respondents",
+   "value": "Mr AJ Bannon SC with Dr RCA Higgins"
+  },
+  {
+   "label": "Solicitor for the First, Second and Sixth Respondents",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr BW Walker SC with Mr GES Ng"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Yeldham Price O’Brien Lusk"
+  },
+  {
+   "label": "Counsel for the Fifth Respondent",
+   "value": "Mr JS Emmett"
+  },
+  {
+   "label": "Solicitor for the Fifth Respondent",
+   "value": "Esplins Solicitors"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1187/2009",
+   "parties": [
+    {
+     "name": "BRUCE MCHUGH",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN JOCKEY CLUB LIMITED",
+     "role": "First Respondent"
+    },
+    {
+     "name": "VICTORIA RACING CLUB LIMITED",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "AUSTRALIAN RACING BOARD LIMITED",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "THOROUGHBRED BREEDERS AUSTRALIA LIMITED",
+     "role": "Fifth Respondent"
+    },
+    {
+     "name": "AUSTRALIAN TURF CLUB LIMITED",
+     "role": "Sixth Respondent"
+    }
+   ],
+   "judges": [
+    "ROBERTSON J"
+   ],
+   "date": "2013-02-15",
+   "date_raw": "15 FEBRUARY 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant pay the costs of the first, second, third and sixth respondents, as agreed or taxed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant pay the fifth respondent’s costs of complying with its discovery obligations, as agreed or taxed.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The fifth respondent’s application for its costs be otherwise dismissed.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "This judgment deals with the question of costs."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The applicant submits that although he was ultimately unsuccessful in obtaining the relief he sought, he should not be liable for 100 percent of the costs of the Australian Stud Book (ASB) respondents and of the Australian Racing Board (ARB), together the first, second, third and sixth respondents. The applicant submits that he should not be required to pay all of the costs of those respondents and should be required to pay only such proportion of those costs as the Court considers appropriate, having regard to the predominantly public interest nature of the litigation."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ASB and ARB respondents submit jointly that the applicant should be ordered to pay their costs. They submit that the applicant’s submissions misconceive the significance and meaning of the expression “public interest litigation” in the context of awarding costs."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "As to the fifth respondent, by order made on 13 July 2010 it was joined to the proceedings on certain conditions and the Court then noted that unless good reason was advanced to the contrary, it would be responsible for its costs of the proceeding. The fifth respondent submits that there is good reason to make a costs order in its favour and seeks an order that the applicant pay:\na its costs of complying with its discovery obligations;\nb its costs of preparing the affidavit evidence of the witnesses who were called to give evidence by the fifth respondent; and/or\nc such portion of its other costs of the proceedings as the Court thinks just, having regard to the Court’s assessment of the fifth respondent’s contribution to relevant issues by way of cross-examination or submission at trial."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The applicant submits that the fifth respondent should bear its own costs. In reply to the fifth respondent, the applicant submits that the fifth respondent’s application for a costs order in its favour should be dismissed and it should pay the applicant’s costs of dealing with its application."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant points out, and I accept, that the Court has a general discretion under s 43 of the Federal Court of Australia Act 1976 (Cth) not to award costs against an unsuccessful litigant."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant first submits that the proceedings are correctly characterised as public interest litigation. He acknowledges that the mere categorisation of litigation as having been brought in the public interest is, on its own, not sufficient to justify departure from the usual order as to costs but “there must be special circumstances justifying the Court’s exercise of its discretion not to make the usual costs order in favour of the successful parties”."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant submits that courts have identified a number of special circumstances which may justify a departure from the ordinary rule, including: cases which raise a novel question of law of general importance; where the subject matter of the dispute is a matter of public debate; where the public interest involves a significant number of members of the public and is concerned with a wider and significant geographic area; and that the litigation has contributed, in a material way, to the proper understanding, development or administration of the law. The applicant submits that each of these considerations was present in this case."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "He refers to Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 per Lee J who said, in concluding at [74] that he was satisfied that in all the circumstances there was good reason to direct that there be no order as to costs (Oshlack v Richmond River Council (1998) 193 CLR 72 (Oshlack) per Gaudron and Gummow JJ at [35]):\n[73] Third, an application in respect of alleged contraventions of s 46 and s 48 of the [Trade Practices] Act involves a substantial degree of public interest. The Act, in setting out norms for the conduct of corporations in trade or commerce to protect the interest of the public as consumers, has entrusted the enforcement of those provisions to the pursuit of private rights by aggrieved parties, supplemented by proceedings that may be instituted by the ACCC. Notwithstanding that the applicants have failed in this matter, the statement of claim pleaded circumstances that warranted inquiry in the public interest."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant in the present case submits that it was left to him to pursue the case out of his own resources but in the interests of breeders all over Australia. Furthermore, he submits that the proceedings raised novel issues of general importance for the Australian racing and breeding industries and, arguably, for their international counterparts. He points to the certainty as to the legal position which the resolution of the proceedings has achieved and submits that this significant benefit for the industry would not have been possible but for the involvement of the applicant as contradictor."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant submits that the case has also materially contributed to the development of the law, particularly concerning the issue of whether a series of vertical contracts incorporating like provisions is sufficient to engage the operation of s 45, as well as deciding important points relating to the operation of the aggregation provision in s 45(4)."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The applicant also submits that his concern for the welfare of thoroughbreds was part of his motivation for pursuing the proceedings."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The ASB respondents and the ARB, together the first, second, third and sixth respondents, submit that the principle that emerged from Oshlack was not that public interest litigation sits in some separate category where the establishment of further special circumstances suffices to deprive a successful respondent of its costs. Rather, the principle is that a Court may have regard to the public-minded motivation, if any, of the applicant as one among several circumstances. Thus these respondents submit that the true issue is not whether the present case was public interest litigation but whether the conduct of the litigation disclosed any special circumstance capable of justifying a departure from the ordinary rule as to costs."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "These respondents submit that the litigation did not turn on policy issues capable of attracting public debate. Further these respondents submit that the applicant’s own interests were at the centre of the dispute which culminated in the commencement of the litigation."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "These respondents also submit that if the applicant was advancing the commercial interests of other breeders, this should not have the effect of reducing the respondents’ presumptive entitlement to their costs."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "As to the applicant’s concern for the welfare of his mares, these respondents submit that that concern was secondary to his commercial and recreational interest in the breeding of thoroughbreds. If the proceeding did qualify as an instance of public interest litigation, these respondents submit that the applicant could not point to special circumstances warranting a costs order other than that he pay the respondents’ costs."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "These respondents also take issue with the applicant’s contention that the case concerned a novel question of law of general importance or materially contributed to the development of the law in relation to s 45 or s 45(4)."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "In my opinion, a primary consideration relevant to the exercise of the Court’s discretion is that the applicant failed in his claims against the first, second, third and sixth respondents."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "Next, I have referred above to the applicant’s reliance on Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 . However, on appeal, in Kadkhudayan v W D & H O Wills (Aust) Ltd (2002) ATPR 41-874; [2002] FCAFC 110 the Full Court, in setting aside the order made by the primary judge that there be no order as to the costs of the proceedings at first instance and ordering in lieu thereof that the appellants pay the respondent’s costs of the proceedings at first instance, said:\nCosts\n[60]The primary judge declined to make an order for costs against the appellants even though they failed in their claim. The grounds on which his Honour declined to do so were:\n…\n- alleged contraventions of s 46 and s 48 TPA involve a substantial degree of public interest. The Statement of Claim pleaded circumstances that warranted enquiry in the public interest.\n…\n[63] The discretion whether or not to depart from the usual order that costs follow the event must be exercised judicially, in accordance with established principle and factors directly connected with the litigation: Oshlack v Richmond River Council (1998) 193 CLR 72 at [29], [51], [65] and [134].\n…\n[65] The fact that the application alleged contraventions of s 46 and s 48 TPA is also an irrelevant consideration as the allegations were not established. The proceedings at first instance were not an “inquiry in the public interest”. The appellants brought an action seeking damages. They sought to enforce private rights. They did not bring their claim for the benefit of anyone other than themselves.\nThus the very reasoning in Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 at first instance, relied on by the applicant, was disapproved by the Full Court."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "I am not persuaded that the character of the litigation and the factors relied on by the applicant, considered cumulatively as well as separately, should lead me to exercise the discretion in relation to costs otherwise than to order the applicant to pay the costs of the first, second, third and sixth respondents."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "Although the applicant did not seek damages he was personally interested in the outcome and in the relevant sense he did not bring his claim for the benefit of anyone other than himself. This is in my view confirmed by the applicant’s general law restraint of trade case. The character of the litigation was commercial."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "I do not regard the case as raising a novel question of law of general importance or that the litigation has contributed in a material way to the proper understanding, development or administration of the law. In my view the case turned largely on questions of fact."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "I am also not persuaded that the subject matter of the dispute was a matter of public debate or interest, although I accept that the merits of artificial insemination in thoroughbred breeding and racing has been debated for many decades, primarily in international forums, and with occasional reference to competition law issues."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "In my view the applicant did not establish that he was pursuing the case in the interests of breeders all over Australia: indeed the fifth respondent represented breeders opposed to the applicant’s case."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "I do not accept that the reference in the applicant’s evidence to the welfare of thoroughbreds, whether considered by itself or in combination with the other matters to which the applicant refers in his submissions as to costs, should lead to a different outcome."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "As to certainty, it is insufficient for a litigant to say that the relevant uncertainty is that which arose as a consequence of the commencement of the proceedings. In addition, because the present case turned largely on questions of fact, I do not think that any more general removal of uncertainty is made out so as to lead to the exercise of the Court’s discretion as the applicant contends."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Consideration",
+     "Costs of the first, second, third and sixth respondents"
+    ],
+    "text": "The appropriate order is that the applicant pay the costs of the first, second, third and sixth respondents."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "In my view it is appropriate to take into account both the terms of the joinder of the fifth respondent, over the applicant’s opposition, and to look, retrospectively, at the role the fifth respondent took in the proceedings."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "As to the former, I note that no relief was sought by the applicant against the fifth respondent and to that extent the fifth respondent was not a necessary party. I also note that the fifth respondent contended that the interests of its members could or would be affected and that was the basis for the application for joinder."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "As to the latter, I accept that a number of affidavits were served by the fifth respondent but that only some of those affidavits were read into evidence by the fifth respondent."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "I also accept that the fifth respondent, by its counsel, cross-examined various witnesses and took primary responsibility for the cross-examination of the statistical expert called by the applicant."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "The fifth respondent, by its counsel, made useful written and oral submissions."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "Nevertheless I am not persuaded that the applicant should be ordered to pay the fifth respondent’s costs of preparing the affidavit evidence of its witnesses who were called to give evidence, or a portion of the fifth respondent’s other costs of the proceedings."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "This is because, in my assessment, the interests of the fifth respondent sought to be protected or advanced by the fifth respondent’s participation in the proceedings are insufficient to found an exercise of the discretion to order costs in its favour. Further, I do not regard the fifth respondent’s participation as having sufficiently affected the outcome of the proceedings so as to justify a costs order in its favour. In other words I do not accept, in the circumstances of this particular case, the fifth respondent’s submission that it made a sufficiently important contribution to the reasons why the applicant failed in the proceedings so as to justify a costs order in its favour."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Consideration",
+     "Costs of the fifth respondent"
+    ],
+    "text": "I am however persuaded that the fifth respondent should have its costs of complying with its discovery obligations. The applicant sought discovery against the fifth respondent, amongst other respondents. The applicant therefore gained access to the documents of the fifth respondent relevant to the issues in the case. In addition, a not insubstantial number of those documents were tendered into evidence by the applicant. Further, if the fifth respondent had not been made a party the applicant could have obtained compulsory access to those documents only by way of a subpoena. In respect of such a subpoena the fifth respondent is likely to have obtained an order, pursuant to rule 24.22 of the Federal Court Rules 2011 or its predecessor, that it be compensated for any reasonable loss or expense incurred in complying with the subpoena."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "I shall make orders to give effect to these reasons."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-six (36) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.",
+ "associate": null,
+ "dated": "2013-02-15",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# McHugh v Australian Jockey Club Limited (No 14) [2013] FCA 77\n\n## Cover sheet\n\n**Citation:** McHugh v Australian Jockey Club Limited (No 14) [2013] FCA 77\n\n**Parties:** BRUCE MCHUGH v AUSTRALIAN JOCKEY CLUB LIMITED, VICTORIA RACING CLUB LIMITED, AUSTRALIAN RACING BOARD LIMITED, THOROUGHBRED BREEDERS AUSTRALIA LIMITED and AUSTRALIAN TURF CLUB LIMITED\n\n**File number:** NSD 1187 of 2009\n\n**Judge:** ROBERTSON J\n\n**Date of judgment:** 15 February 2013\n\n**Catchwords:** COSTS – unsuccessful applicant– whether litigation relevantly brought in the public interest – appropriate costs order – whether applicant should pay any of the costs of a respondent joined on its own application\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) s 43  \nFederal Court Rules 2011 r 24.22\n\n**Cases cited:** Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645  \nKadkhudayan v W D & H O Wills (Aust) Ltd (2002) ATPR 41-874; [2002] FCAFC 110  \nOshlack v Richmond River Council (1998) 193 CLR 72\n\n**Date of hearing:** Determined on the papers\n\n**Date of last submissions:** 8 February 2013\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 36\n\n**Counsel for the Applicant:** Mr AI Tonking SC with Mr JE Lazarus\n\n**Solicitor for the Applicant:** Brock Partners\n\n**Counsel for the First, Second and Sixth Respondents:** Mr AJ Bannon SC with Dr RCA Higgins\n\n**Solicitor for the First, Second and Sixth Respondents:** Johnson Winter & Slattery\n\n**Counsel for the Third Respondent:** Mr BW Walker SC with Mr GES Ng\n\n**Solicitor for the Third Respondent:** Yeldham Price O’Brien Lusk\n\n**Counsel for the Fifth Respondent:** Mr JS Emmett\n\n**Solicitor for the Fifth Respondent:** Esplins Solicitors\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 1187 of 2009 |\n\n| BETWEEN: | BRUCE MCHUGH<br>Applicant |\n|---|---|\n| AND: | AUSTRALIAN JOCKEY CLUB LIMITED<br>First Respondent<br>VICTORIA RACING CLUB LIMITED<br>Second Respondent<br>AUSTRALIAN RACING BOARD LIMITED<br>Third Respondent<br>THOROUGHBRED BREEDERS AUSTRALIA LIMITED<br>Fifth Respondent<br>AUSTRALIAN TURF CLUB LIMITED<br>Sixth Respondent |\n\n| JUDGE: | ROBERTSON J |\n|---|---|\n| DATE OF ORDER: | 15 FEBRUARY 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The applicant pay the costs of the first, second, third and sixth respondents, as agreed or taxed.\n\n2. The applicant pay the fifth respondent’s costs of complying with its discovery obligations, as agreed or taxed.\n\n3. The fifth respondent’s application for its costs be otherwise dismissed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 1187 of 2009 |\n\n| BETWEEN: | BRUCE MCHUGH<br>Applicant |\n|---|---|\n| AND: | AUSTRALIAN JOCKEY CLUB LIMITED<br>First Respondent<br>VICTORIA RACING CLUB LIMITED<br>Second Respondent<br>AUSTRALIAN RACING BOARD LIMITED<br>Third Respondent<br>THOROUGHBRED BREEDERS AUSTRALIA LIMITED<br>Fifth Respondent<br>AUSTRALIAN TURF CLUB LIMITED<br>Sixth Respondent |\n\n| JUDGE: | ROBERTSON J |\n|---|---|\n| DATE: | 15 FEBRUARY 2013 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n#### Introduction\n\n[1] This judgment deals with the question of costs.\n\n[2] The applicant submits that although he was ultimately unsuccessful in obtaining the relief he sought, he should not be liable for 100 percent of the costs of the Australian Stud Book (ASB) respondents and of the Australian Racing Board (ARB), together the first, second, third and sixth respondents. The applicant submits that he should not be required to pay all of the costs of those respondents and should be required to pay only such proportion of those costs as the Court considers appropriate, having regard to the predominantly public interest nature of the litigation.\n\n[3] The ASB and ARB respondents submit jointly that the applicant should be ordered to pay their costs. They submit that the applicant’s submissions misconceive the significance and meaning of the expression “public interest litigation” in the context of awarding costs.\n\n[4] As to the fifth respondent, by order made on 13 July 2010 it was joined to the proceedings on certain conditions and the Court then noted that unless good reason was advanced to the contrary, it would be responsible for its costs of the proceeding. The fifth respondent submits that there is good reason to make a costs order in its favour and seeks an order that the applicant pay:\n\na its costs of complying with its discovery obligations;\n\nb its costs of preparing the affidavit evidence of the witnesses who were called to give evidence by the fifth respondent; and/or\n\nc such portion of its other costs of the proceedings as the Court thinks just, having regard to the Court’s assessment of the fifth respondent’s contribution to relevant issues by way of cross-examination or submission at trial.\n\n[5] The applicant submits that the fifth respondent should bear its own costs. In reply to the fifth respondent, the applicant submits that the fifth respondent’s application for a costs order in its favour should be dismissed and it should pay the applicant’s costs of dealing with its application.\n\n#### Consideration\n\n##### Costs of the first, second, third and sixth respondents\n\n[6] The applicant points out, and I accept, that the Court has a general discretion under s 43 of the Federal Court of Australia Act 1976 (Cth) not to award costs against an unsuccessful litigant.\n\n[7] The applicant first submits that the proceedings are correctly characterised as public interest litigation. He acknowledges that the mere categorisation of litigation as having been brought in the public interest is, on its own, not sufficient to justify departure from the usual order as to costs but “there must be special circumstances justifying the Court’s exercise of its discretion not to make the usual costs order in favour of the successful parties”.\n\n[8] The applicant submits that courts have identified a number of special circumstances which may justify a departure from the ordinary rule, including: cases which raise a novel question of law of general importance; where the subject matter of the dispute is a matter of public debate; where the public interest involves a significant number of members of the public and is concerned with a wider and significant geographic area; and that the litigation has contributed, in a material way, to the proper understanding, development or administration of the law. The applicant submits that each of these considerations was present in this case.\n\n[9] He refers to Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 per Lee J who said, in concluding at [74] that he was satisfied that in all the circumstances there was good reason to direct that there be no order as to costs (Oshlack v Richmond River Council (1998) 193 CLR 72 (Oshlack) per Gaudron and Gummow JJ at [35]):\n\n> [73] Third, an application in respect of alleged contraventions of s 46 and s 48 of the [Trade Practices] Act involves a substantial degree of public interest. The Act, in setting out norms for the conduct of corporations in trade or commerce to protect the interest of the public as consumers, has entrusted the enforcement of those provisions to the pursuit of private rights by aggrieved parties, supplemented by proceedings that may be instituted by the ACCC. Notwithstanding that the applicants have failed in this matter, the statement of claim pleaded circumstances that warranted inquiry in the public interest.\n\n[10] The applicant in the present case submits that it was left to him to pursue the case out of his own resources but in the interests of breeders all over Australia. Furthermore, he submits that the proceedings raised novel issues of general importance for the Australian racing and breeding industries and, arguably, for their international counterparts. He points to the certainty as to the legal position which the resolution of the proceedings has achieved and submits that this significant benefit for the industry would not have been possible but for the involvement of the applicant as contradictor.\n\n[11] The applicant submits that the case has also materially contributed to the development of the law, particularly concerning the issue of whether a series of vertical contracts incorporating like provisions is sufficient to engage the operation of s 45, as well as deciding important points relating to the operation of the aggregation provision in s 45(4).\n\n[12] The applicant also submits that his concern for the welfare of thoroughbreds was part of his motivation for pursuing the proceedings.\n\n[13] The ASB respondents and the ARB, together the first, second, third and sixth respondents, submit that the principle that emerged from Oshlack was not that public interest litigation sits in some separate category where the establishment of further special circumstances suffices to deprive a successful respondent of its costs. Rather, the principle is that a Court may have regard to the public-minded motivation, if any, of the applicant as one among several circumstances. Thus these respondents submit that the true issue is not whether the present case was public interest litigation but whether the conduct of the litigation disclosed any special circumstance capable of justifying a departure from the ordinary rule as to costs.\n\n[14] These respondents submit that the litigation did not turn on policy issues capable of attracting public debate. Further these respondents submit that the applicant’s own interests were at the centre of the dispute which culminated in the commencement of the litigation.\n\n[15] These respondents also submit that if the applicant was advancing the commercial interests of other breeders, this should not have the effect of reducing the respondents’ presumptive entitlement to their costs.\n\n[16] As to the applicant’s concern for the welfare of his mares, these respondents submit that that concern was secondary to his commercial and recreational interest in the breeding of thoroughbreds. If the proceeding did qualify as an instance of public interest litigation, these respondents submit that the applicant could not point to special circumstances warranting a costs order other than that he pay the respondents’ costs.\n\n[17] These respondents also take issue with the applicant’s contention that the case concerned a novel question of law of general importance or materially contributed to the development of the law in relation to s 45 or s 45(4).\n\n[18] In my opinion, a primary consideration relevant to the exercise of the Court’s discretion is that the applicant failed in his claims against the first, second, third and sixth respondents.\n\n[19] Next, I have referred above to the applicant’s reliance on Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 . However, on appeal, in Kadkhudayan v W D & H O Wills (Aust) Ltd (2002) ATPR 41-874; [2002] FCAFC 110 the Full Court, in setting aside the order made by the primary judge that there be no order as to the costs of the proceedings at first instance and ordering in lieu thereof that the appellants pay the respondent’s costs of the proceedings at first instance, said:\n\n> Costs\n\n> [60]The primary judge declined to make an order for costs against the appellants even though they failed in their claim. The grounds on which his Honour declined to do so were:\n\n> …\n\n> - alleged contraventions of s 46 and s 48 TPA involve a substantial degree of public interest. The Statement of Claim pleaded circumstances that warranted enquiry in the public interest.\n\n> …\n\n> [63] The discretion whether or not to depart from the usual order that costs follow the event must be exercised judicially, in accordance with established principle and factors directly connected with the litigation: Oshlack v Richmond River Council (1998) 193 CLR 72 at [29], [51], [65] and [134].\n\n> …\n\n> [65] The fact that the application alleged contraventions of s 46 and s 48 TPA is also an irrelevant consideration as the allegations were not established. The proceedings at first instance were not an “inquiry in the public interest”. The appellants brought an action seeking damages. They sought to enforce private rights. They did not bring their claim for the benefit of anyone other than themselves.\n\nThus the very reasoning in Kadkhudayan v W D & H O Wills (Australia) Ltd (2001) ATPR 41-822; [2001] FCA 645 at first instance, relied on by the applicant, was disapproved by the Full Court.\n\n[20] I am not persuaded that the character of the litigation and the factors relied on by the applicant, considered cumulatively as well as separately, should lead me to exercise the discretion in relation to costs otherwise than to order the applicant to pay the costs of the first, second, third and sixth respondents.\n\n[21] Although the applicant did not seek damages he was personally interested in the outcome and in the relevant sense he did not bring his claim for the benefit of anyone other than himself. This is in my view confirmed by the applicant’s general law restraint of trade case. The character of the litigation was commercial.\n\n[22] I do not regard the case as raising a novel question of law of general importance or that the litigation has contributed in a material way to the proper understanding, development or administration of the law. In my view the case turned largely on questions of fact.\n\n[23] I am also not persuaded that the subject matter of the dispute was a matter of public debate or interest, although I accept that the merits of artificial insemination in thoroughbred breeding and racing has been debated for many decades, primarily in international forums, and with occasional reference to competition law issues.\n\n[24] In my view the applicant did not establish that he was pursuing the case in the interests of breeders all over Australia: indeed the fifth respondent represented breeders opposed to the applicant’s case.\n\n[25] I do not accept that the reference in the applicant’s evidence to the welfare of thoroughbreds, whether considered by itself or in combination with the other matters to which the applicant refers in his submissions as to costs, should lead to a different outcome.\n\n[26] As to certainty, it is insufficient for a litigant to say that the relevant uncertainty is that which arose as a consequence of the commencement of the proceedings. In addition, because the present case turned largely on questions of fact, I do not think that any more general removal of uncertainty is made out so as to lead to the exercise of the Court’s discretion as the applicant contends.\n\n[27] The appropriate order is that the applicant pay the costs of the first, second, third and sixth respondents.\n\n##### Costs of the fifth respondent\n\n[28] In my view it is appropriate to take into account both the terms of the joinder of the fifth respondent, over the applicant’s opposition, and to look, retrospectively, at the role the fifth respondent took in the proceedings.\n\n[29] As to the former, I note that no relief was sought by the applicant against the fifth respondent and to that extent the fifth respondent was not a necessary party. I also note that the fifth respondent contended that the interests of its members could or would be affected and that was the basis for the application for joinder.\n\n[30] As to the latter, I accept that a number of affidavits were served by the fifth respondent but that only some of those affidavits were read into evidence by the fifth respondent.\n\n[31] I also accept that the fifth respondent, by its counsel, cross-examined various witnesses and took primary responsibility for the cross-examination of the statistical expert called by the applicant.\n\n[32] The fifth respondent, by its counsel, made useful written and oral submissions.\n\n[33] Nevertheless I am not persuaded that the applicant should be ordered to pay the fifth respondent’s costs of preparing the affidavit evidence of its witnesses who were called to give evidence, or a portion of the fifth respondent’s other costs of the proceedings.\n\n[34] This is because, in my assessment, the interests of the fifth respondent sought to be protected or advanced by the fifth respondent’s participation in the proceedings are insufficient to found an exercise of the discretion to order costs in its favour. Further, I do not regard the fifth respondent’s participation as having sufficiently affected the outcome of the proceedings so as to justify a costs order in its favour. In other words I do not accept, in the circumstances of this particular case, the fifth respondent’s submission that it made a sufficiently important contribution to the reasons why the applicant failed in the proceedings so as to justify a costs order in its favour.\n\n[35] I am however persuaded that the fifth respondent should have its costs of complying with its discovery obligations. The applicant sought discovery against the fifth respondent, amongst other respondents. The applicant therefore gained access to the documents of the fifth respondent relevant to the issues in the case. In addition, a not insubstantial number of those documents were tendered into evidence by the applicant. Further, if the fifth respondent had not been made a party the applicant could have obtained compulsory access to those documents only by way of a subpoena. In respect of such a subpoena the fifth respondent is likely to have obtained an order, pursuant to rule 24.22 of the Federal Court Rules 2011 or its predecessor, that it be compensated for any reasonable loss or expense incurred in complying with the subpoena.\n\n#### Conclusion\n\n[36] I shall make orders to give effect to these reasons.\n\nI certify that the preceding thirty-six (36) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.\n\nAssociate:\n\nDated: 15 February 2013\n",
+ "source_sha256": "3242b04a115a2c36176bbab93a85fd3a784e22ca6ceb0d0bc1e20539c652d7b2"
+}

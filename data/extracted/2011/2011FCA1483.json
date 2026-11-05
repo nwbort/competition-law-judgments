@@ -1,0 +1,648 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2011/2011FCA1483.docx",
+ "metadata": {
+  "citation": "[2011] FCA 1483",
+  "name": "Rafferty v Time 2000 West Pty Ltd (No 9)",
+  "court": "FCA",
+  "year": 2011,
+  "number": 1483,
+  "date_of_judgment": "2011-12-21",
+  "file_numbers": [
+   "SAD122/2008"
+  ],
+  "judges": [
+   "LANDER J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2011-12-07",
+   "2011-12-09"
+  ],
+  "hearing_raw": "7 and 9 December 2011",
+  "number_of_paragraphs": 73,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – judgments and orders – freezing order – application for variation of orders – whether orders should be varied – whether variation would defeat purpose of orders"
+  ],
+  "cases_cited": [
+   "Cardile v LED Builders Pty Ltd (1999) 198 CLR 380 cited",
+   "Dwyer v Ross (1992) 34 FCR 463 considered",
+   "R & I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 cited",
+   "Rafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931 cited",
+   "Rafferty v Time 2000 West Pty Ltd (No 7) [2011] FCA 405 cited"
+  ],
+  "parties": [
+   {
+    "name": "PATRICK CAMPBELL RAFFERTY",
+    "role": "First Applicant"
+   },
+   {
+    "name": "SANTORA HOLDINGS PTY LIMITED ACN 128 467 550",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "TIME 2000 WEST PTY LIMITED ACN 127 893 270",
+    "role": "First Respondent"
+   },
+   {
+    "name": "TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG)",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "STEPHEN GERARD DONOVAN",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "MADGWICKS",
+    "role": "Sixth Respondent"
+   }
+  ],
+  "parties_summary": "PATRICK CAMPBELL RAFFERTY, SANTORA HOLDINGS PTY LIMITED ACN 128 467 550 and KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178 v TIME 2000 WEST PTY LIMITED ACN 127 893 270, TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614, TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541, EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG), STEPHEN GERARD DONOVAN and MADGWICKS",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr D Whitington QC with Mr A Rosser"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Cosoff Cudmore Knox"
+   },
+   {
+    "role": "counsel",
+    "for": "Gemhall Holdings Pty Ltd",
+    "name": "Mr A Lazarevich"
+   },
+   {
+    "role": "solicitor",
+    "for": "Gemhall holdings Pty Ltd",
+    "name": "Pace Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1483",
+  "portal_file_numbers": [
+   "SAD122/2008"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2011-12-21"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Rafferty v Time 2000 West Pty Ltd (No 9)\n[2011] FCA 1483"
+  },
+  {
+   "label": "Parties",
+   "value": "PATRICK CAMPBELL RAFFERTY, SANTORA HOLDINGS PTY LIMITED ACN 128 467 550 and KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178 v TIME 2000 WEST PTY LIMITED ACN 127 893 270, TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614, TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541, EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG), STEPHEN GERARD DONOVAN and MADGWICKS"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 122 of 2008"
+  },
+  {
+   "label": "Judge",
+   "value": "LANDER J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "21 December 2011"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – judgments and orders – freezing order – application for variation of orders – whether orders should be varied – whether variation would defeat purpose of orders"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Cardile v LED Builders Pty Ltd (1999) 198 CLR 380 cited\nDwyer v Ross (1992) 34 FCR 463 considered\nR & I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 cited\nRafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931 cited\nRafferty v Time 2000 West Pty Ltd (No 7) [2011] FCA 405 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "7 and 9 December 2011"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "73"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr D Whitington QC with Mr A Rosser"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Cosoff Cudmore Knox"
+  },
+  {
+   "label": "Counsel for Gemhall Holdings Pty Ltd",
+   "value": "Mr A Lazarevich"
+  },
+  {
+   "label": "Solicitor for Gemhall holdings Pty Ltd",
+   "value": "Pace Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD122/2008",
+   "parties": [
+    {
+     "name": "PATRICK CAMPBELL RAFFERTY",
+     "role": "First Applicant"
+    },
+    {
+     "name": "SANTORA HOLDINGS PTY LIMITED ACN 128 467 550",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "TIME 2000 WEST PTY LIMITED ACN 127 893 270",
+     "role": "First Respondent"
+    },
+    {
+     "name": "TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG)",
+     "role": "Fourth Respondent"
+    },
+    {
+     "name": "STEPHEN GERARD DONOVAN",
+     "role": "Fifth Respondent"
+    },
+    {
+     "name": "MADGWICKS",
+     "role": "Sixth Respondent"
+    }
+   ],
+   "judges": [
+    "LANDER J"
+   ],
+   "date": "2011-12-21",
+   "date_raw": "21 DECEMBER 2011",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "That paragraph 5 of the orders made by Justice Besanko on 19 December 2008 be varied as set out in paragraph 2 of this order, but otherwise remain in full force and effect.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Until further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:",
+     "level": 0
+    },
+    {
+     "label": "2.1",
+     "text": "causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;",
+     "level": 1
+    },
+    {
+     "label": "2.2",
+     "text": "causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;",
+     "level": 1
+    },
+    {
+     "label": "2.3",
+     "text": "causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;",
+     "level": 1
+    },
+    {
+     "label": "2.4",
+     "text": "causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;",
+     "level": 1
+    },
+    {
+     "label": "2.5",
+     "text": "causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and",
+     "level": 1
+    },
+    {
+     "label": "2.6",
+     "text": "causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited.",
+     "level": 1
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "This is an application by Gemhall Holdings Pty Ltd (Gemhall) and Mrs Donovan to revoke freezing orders made by a judge of this Court on 19 December 2008, which were later varied by him on 31 August 2010, and by me on 15 November 2010, 22 November 2010, 15 February 2011, 23 February 2011, 3 November 2011, and 7 November 2011."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The applicants on the other hand are seeking to vary the order so as to further restrict the fifth respondent, Mrs Donovan and Gemhall in relation to Gemhall’s conduct."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The fifth respondent (Mr Donovan) was at the relevant times the shareholder and director of the first four respondents, and also of Gemhall, which is a trustee company, and the trustee of the Stephen Donovan Family Trust. Mr Donovan was the first appointor of that Trust, but is no longer the appointor."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Mrs Donovan is Mr Donovan’s wife, and they are the parents of James Donovan, who is two and a half years of age. Mr and Mrs Donovan married on 21 December 2008."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Gemhall is not a party to this proceeding but, as will be demonstrated, is affected by freezing orders made by Besanko J on 19 December 2008."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "This proceeding, which was started by the applicants on 14 August 2008, concerns a Heads of Agreement, a Rights Agreement, and a Joint Venture and Shareholders Agreement entered into between the applicants and the respondents. The applicants claimed those agreements were franchise agreements within the meaning of the Franchising Code of Conduct, and that the agreements were void abinitio or, in the alternative, voidable. The applicants also sought orders that monies paid by the applicants to the respondents pursuant to those agreements be repaid."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "On 13 July 2010 Besanko J delivered reasons for finding in favour of the applicants against the respondents. On 17 August 2010 he made orders setting aside the Heads of Agreement, the Rights Agreement, and the Joint Venture and Shareholders Agreement, and ordered the respondents jointly and severally pay the applicants the sum of $1.7 million."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "He also ordered the first, second, fourth and fifth respondents pay interest in the sum of $416,111.29. He ordered the second and fourth respondents pay the applicants’ costs on a party and party basis prior to 30 January 2009, and on an indemnity basis after that time. He ordered the fifth respondent to pay the applicants’ costs after 31 August 2009."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The effect of his Honour’s orders was to make Mr Donovan liable to pay the applicants the sum of $1.7 million, interest of $416,111.29, and the costs to which I have referred."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The respondents, apart from Time 2000 West Pty Limited, appealed against the trial judge’s orders. That appeal was heard in the February sessions of the Full Court, but the Full Court has not yet delivered its judgment."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "On 14 December 2010 one of the applicants, Karaville Holdings Pty Ltd (Karaville), who by virtue of Besanko J’s orders was awarded $1.5 million of the $1.7 million awarded in total and interest, lodged a caveat over a property at 529 Chapel Street, South Yarra (the Chapel Street property) citing as the ground “Constructive Trust between Gemhall Holdings Pty Ltd (ACN 065 706 381) and Karaville Holdings Pty Ltd (ACN 009 439 178)."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "On 15 February 2011 Karaville issued a creditor’s petition against Mr Donovan based upon the judgment debt outstanding. The petition has been adjourned from time to time pending the judgment of the Full Court. On 21 November 2011 the creditor’s petition was adjourned to 13 February 2012 with liberty to apply."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "Gemhall is, as I have said, the Trustee of the Stephen Donovan Family Trust. Originally the appointor of the Trust was Mr Donovan, but he resigned as appointor on or about 10 December 2008. On the same day Mrs Donovan was appointed the appointor of the Stephen Donovan Family Trust in lieu of Mr Donovan."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Mr Donovan was also the sole director of Gemhall, but on 10 December 2008 Mrs Donovan was appointed as an additional director. Mr Donovan was and remains the sole shareholder of Gemhall."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "The Stephen Donovan Family Trust is a discretionary trust of which there are a number of beneficiaries, including Mr Donovan, Mrs Donovan, their son James, and a number of Mr Donovan’s more remote family."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "On or about 3 December 1996 Gemhall executed a contract for the purchase of the Chapel Street property. On 6 February 1998 settlement of the Chapel Street property took place. The Chapel Street property was subject to a mortgage."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "On 5 December 2008 the applicants sought freezing orders against the respondents and Gemhall alleging that the respondents and Gemhall were intending to dispose of their property so as to put their assets beyond the reach of the applicants in case the applicants were successful in the proceeding."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "It may be inferred that the applicant’s application was the catalyst which gave rise to Mr Donovan’s resignation as appointor of the Stephen Donovan Family Trust, Mrs Donovan’s appointment as appointor of that Trust, and Mrs Donovan’s appointment as a director of Gemhall."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "On 19 December 2008 Besanko J made a number of orders which impacted upon the manner in which Gemhall could deal with the proceeds of the sale of the Chapel Street property, which are unimportant for the purposes of these reasons."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "However, he made the following order:\n5. Until further order, the Fifth Respondent is to notify the solicitors for the Applicants in writing of any proposed change in the shareholding or directorships of Gemhall Holdings Pty Limited or Time 2000 Pty Limited or any proposed change to the Appointors, trustees or beneficiaries of the Stephen Donovan Family Trust or the Diamanti Trust ten business days prior to the making of any such change."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "The only respondent affected by that order is Mr Donovan. Mrs Donovan and Gemhall seek the discharge of that order."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "On the other hand, the applicants seek an order varying paragraph 5 in the following manner:\nUntil further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:\n1. causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;\n2. causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;\n3. causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;\n4. causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;\n5. causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and\n6. causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "On 16 May 2011 Gemhall entered into a contract for the sale of the Chapel Street property for the sum of $3.4 million. The contract provided for settlement to take place on 8 November 2011."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "On 30 May 2011 the respondents’ then solicitors advised the applicants’ solicitor that Gemhall had entered into the contract for sale of the Chapel Street property, and provided a copy of the contract. That led to an exchange of correspondence between the solicitors in respect of the deposit payable under the contract, and the variation of the freezing orders. Gemhall offered to give an undertaking that $1.7 million of the proceeds of the sale be paid into and remain in an interest bearing account until the Court authorised Gemhall to appropriate that amount. At the same time Gemhall invited the applicants to agree to discharge the freezing orders because the effect of the freezing orders is “to subvert the law of trusts”, and was causing Gemhall to suffer loss and damage. Gemhall warned the applicants that it would seek costs and call upon the undertaking as to damages."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "On 2 November 2011 Frenkel Partners, Gemhall’s solicitors, proffered a draft of undertakings to be given to the Court on the assumption that they would retain the sum of $1.7 million in an interest bearing account."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "Meanwhile on 10 June 2011 Mr Donovan ceased to be a director of Gemhall. No notice was given in accordance with paragraph 5 of Besanko J’s orders of 19 December 2008."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "Prior to the settlement the applicants made an application to the Court seeking an order that $1.7 million of the proceeds of the sale be retained by Gemhall’s solicitors and invested in an interest bearing account in the name of the Stephen Donovan Family Trust."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "On 3 November 2011 I made an order by consent that the orders made against Gemhall on 19 December 2008, 31 August 2010, 22 November 2010, 15 February 2011, and 23 February 2011 be varied to allow Gemhall to settle on the sale of the Chapel Street property. Relevantly the orders provided:\n(a) That Gemhall is permitted to settle on the sale of the land [the Chapel Street property], provided such settlement is effected by and through Gemhall’s Victorian solicitors, Frenkel Partners, and no other person, including not by Gemhall in its own right, unless the Court otherwise gives permission or the applicants otherwise, by notice in writing, give consent.\n(b) Subject to Frenkel Partners undertaking to the Court and the applicants:\n(i) to retain $1.7 million of the sale proceeds from the surplus proceeds at settlement of the sale of the Land in an interest bearing account in the name of The Stephen Donovan Family Trust;\n(ii) not to allow settlement to take place unless they are in receipt of a cheque for the said sum;\n(iii) not to disperse the said sum until either the Court gives its permission to deal with the said sum or the applicants, by notice in writing, so consent, or in the event that Mr Donovan is declared bankrupt and his trustee in bankruptcy provides a written consent to release the funds to the Stephen Donovan Family Trust;\n(iv) to email a monthly statement of the account to Cosoff Cudmore Knox and to Gemhall."
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "On 7 November 2011 I amended the order in paragraph (b)(i) to include after the words “the Stephen Donovan Family Trust” the words “of which the only signatory is Frenkel Partners.”"
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "Settlement took place on 9 November 2011. At settlement Gemhall discharged a mortgage over the property to the Bank of Queensland and paid out the expenses associated with the sale of the Chapel Street property. Those expenses, which included agents’ commission and solicitors’ fees, totalled $55,332.94. It caused the sum of $1.7 million to be held in accordance with the orders made on 3 November 2011, as varied on 7 November 2011."
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "On 15 November 2011 the balance of the purchase proceeds was paid to Time Apartments Pty Limited (Time Apartments), which is the trustee of the Donovan Trust. The Donovan Trust is a discretionary family trust of which Mrs Donovan is the appointor and the sole director. Mr and Mrs Donovan’s son, James Donovan, is the sole shareholder of the trustee Time Apartments. Mrs Donovan acts as her son’s signatory, and will do so until he reaches the age of 18 years. The Donovan Trust has exactly the same beneficiaries as the Stephen Donovan Family Trust. Both Trusts have 33 eligible general beneficiaries who, as I have previously said, include Mr Donovan, Mrs Donovan, James Donovan, and Mr Donovan’s remote family."
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "On 11 November 2011 Karaville applied in the Federal Magistrates Court for an order for the appointment of trustees to take control of Mr Donovan’s property."
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "On 15 November 2011 Lindsay FM made an order that John Sheahan and Ian Lock of Sheahan Lock Partners jointly and severally take control of any property Mr Donovan acquired with or derived from the proceeds of the sale by Gemhall of the Chapel Street property, and retain such control of that property."
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "On 17 November 2011 a further $55,740.62 was paid out of the amount which had been paid to Time Apartments, to solicitors and Contour Consultants totalling $55,740.62."
+   },
+   {
+    "n": 35,
+    "headings": [],
+    "text": "The residual proceeds held by Time Apartments were paid to Mrs Donovan’s personal account “for the purpose of investment in my capacity as sole director of the trustee company”."
+   },
+   {
+    "n": 36,
+    "headings": [],
+    "text": "The Donovan Trust was established to purchase a property at 5-7 Wilson Street, South Yarra (Wilson Street property), which Mrs Donovan has said she identified as “a good investment opportunity” for the Trust."
+   },
+   {
+    "n": 37,
+    "headings": [],
+    "text": "On 13 May 2011 Time Apartments, as Trustee for the Donovan Trust, entered into a contract with the owner of the Wilson Street property to purchase the Wilson Street property for $1,856,500 plus GST. Frenkel Partners are also the solicitors acting for Time Apartments."
+   },
+   {
+    "n": 38,
+    "headings": [],
+    "text": "The contract provided for settlement on 11 November 2011. Mrs Donovan guaranteed Time Apartments’ performance of the contract."
+   },
+   {
+    "n": 39,
+    "headings": [],
+    "text": "The contract did not settle on 11 November 2011. Mrs Donovan deposed that Time Apartments, as trustee of the Donovan Trust, now intends to settle on the Wilson Street property on 23 December 2011."
+   },
+   {
+    "n": 40,
+    "headings": [],
+    "text": "On 18 November 2011 Mrs Donovan decided to appoint Time Apartments as the new Trustee of the Stephen Donovan Family Trust in lieu of Gemhall. On that day, pursuant to the orders made on 19 December 2008, Mrs Donovan gave notice to the applicants of her intention to appoint Time Apartments as the new trustee of the Stephen Donovan Family Trust."
+   },
+   {
+    "n": 41,
+    "headings": [],
+    "text": "In her affidavit she states that she is of the opinion that it is in the best interests of all of the beneficiaries of the Stephen Donovan Family Trust to appoint Time Apartments as trustee in lieu of Gemhall for the following reasons:\na) The SDFT [the Stephen Donovan Family Trust] has no beneficial interest in any assets, save and except the $1.7 million referred to …\nb) Time apartments, in its capacity as trustee for the DT [Donovan Trust], intends to settle on the Wilson Street Property on 23 December 2011, being a good investment opportunity.\nc) Since signing the contract to purchase the Wilson Street Property, Time Apartments has received a town planning permit for 30 apartments, 17 car spaces and a small café …\nd) Time Apartments intends to submit an application for an amendment to the plans which, if approved, will allow the development to include two additional penthouse apartments.\ne) It is my view that the said permit adds significant value to the Wilson Street Property over and above the purchase price. I have instructed Savills Australia Pty Ltd of 140 William Street, Melbourne to provide their analysis of the value of the land with the said permit.\nf) … It should be noted that the land value in this indicative feasibility is $3.2M a substantial increase from the purchase price.\ng) The increase in value of the Wilson Street Property is a good financial investment, which is likely to benefit the beneficiaries of the SDFT."
+   },
+   {
+    "n": 42,
+    "headings": [],
+    "text": "On 24 November 2011 the applicants’ solicitors wrote to the Court seeking an urgent hearing for the purpose of obtaining an order restraining Mrs Donovan from appointing Time Apartments as trustee in lieu of Gemhall."
+   },
+   {
+    "n": 43,
+    "headings": [],
+    "text": "On 6 December 2011 Gemhall identified the orders which it seeks, being:\n1. The orders made against Gemhall Holdings Pty Ltd (Gemhall) on 19 December 2008, 31 August 2010, 22 November 2010, 15 February 2011, 23 February 2011, 3 November 2011, and 7 November 2011 be varied to allow Gemhall to receive funds of $1.7 million (“the said sum”) from Frenkel Partners.\n2. The Court gives permission to Frenkel Partners to transfer the said sum to Gemhall pursuant to Order 2(iii) made on 7 December 2011."
+   },
+   {
+    "n": 44,
+    "headings": [],
+    "text": "On 29 November 2011 I made orders preserving the status quo until such time as the parties could be heard."
+   },
+   {
+    "n": 45,
+    "headings": [],
+    "text": "On 7 December 2011 I commenced hearing the parties. I heard submissions on 9 December. During submissions Mrs Donovan and Gemhall’s counsel identified three arguments that might be put against his client, and put contentions in answer to those three arguments. The three arguments were:\n(1) the appointment of Time Apartments as trustee of the Stephen Donovan Family Trust is an attempt by Mrs Donovan to put Gemhall’s assets beyond the reach of a trustee in bankruptcy and therefore should be prevented;\n(2) the present application is no more than a re-run of two previous applications of the same kind;\n(3) only two weeks ago Gemhall consented to an order that Frenkel Partners invest the sum of $1.7 million in an interest bearing account and hold that money until further order of the Court or upon the consent of the applicants. At that time Gemhall did not disclose to the Court that Time Apartments had entered into a contract for the purchase of the Wilson Street property, and that Gemhall’s assets would be necessary to meet the contract price."
+   },
+   {
+    "n": 46,
+    "headings": [],
+    "text": "Gemhall contended that Mrs Donovan should be entitled to exercise her power of appointment of a trustee unless the applicants could demonstrate:\n(1) that they have a sufficiently strong argument that a trustee in bankruptcy could legitimately act in the manner consistent with their case theory; and\n(2) that the trustee in bankruptcy could act in a manner detrimental to the interest of the beneficiaries of the Stephen Donovan Family Trust so as to cause a distribution of $1.7 million to Mr Donovan and therefore, if Mr Donovan was to be bankrupted, the trustee in bankruptcy."
+   },
+   {
+    "n": 47,
+    "headings": [],
+    "text": "The applicants claim that in the event that a sequestration order was made against Mr Donovan’s estate the trustee in bankruptcy would become entitled to the legal ownership of the single share issued to Mr Donovan, and would thereby control Gemhall. The trustee in bankruptcy, it was contended, could appoint himself or herself as the director of Gemhall. Once appointed as director the trustee in bankruptcy could cause Gemhall to distribute the sum of $1.7 million to Mr Donovan, which would become acquired property and which would vest in the trustee."
+   },
+   {
+    "n": 48,
+    "headings": [],
+    "text": "If those events were to occur the applicants would be forced to prove in the administration of the estate for the sum of $1.7 million."
+   },
+   {
+    "n": 49,
+    "headings": [],
+    "text": "The respondents contended that Gemhall, as the trustee of the Stephen Donovan Family Trust, is the legal owner of the assets of the discretionary trust, and those persons who are identified as eligible beneficiaries under the trust deed have no proprietary interest in the assets of the trust: R & I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79 per Owen J. An eligible beneficiary who has no entitlement to distributions and is dependent on the exercise of a discretion by the trustee does not have a proprietary interest: Dwyer v Ross (1992) 34 FCR 463. That eligible beneficiary has only a personal equitable right of the due administration of the trust by the trustee. That personal right to due administration does not pass to any trustee in bankruptcy: Dwyer v Ross at 466 per Davies J."
+   },
+   {
+    "n": 50,
+    "headings": [],
+    "text": "Mrs Donovan was cross-examined on her affidavits and, in particular, in relation to her reasons for seeking to appoint Time Apartments as the trustee of the Stephen Donovan Family Trust in lieu of Gemhall, and for establishing the Donovan Trust."
+   },
+   {
+    "n": 51,
+    "headings": [],
+    "text": "I think it fair to say that she gave two reasons for doing what she has done, and for why she wants to do what she seeks to do. First, Gemhall is infected commercially by the freezing orders, and whilst those orders exist parties will not deal with Gemhall because of the uncertainty of Gemhall’s position caused by the freezing orders. Secondly, she wants to protect the beneficiaries of the Stephen Donovan Family Trust and the Donovan Trust by freeing up the assets of the Stephen Donovan Family Trust so that a distribution might be made to Time Apartments as trustee of the Donovan Trust in order that Time Apartments can settle in relation to the Wilson Street property. If a distribution is made to Time Apartments as trustee of the Donovan Trust then that will avoid the freezing orders in relation to Gemhall."
+   },
+   {
+    "n": 52,
+    "headings": [],
+    "text": "I think that clearly Mrs Donovan wants to avoid the effect of the freezing orders so that if Mr Donovan is adjudged bankrupt his trustee in bankruptcy could not assume the governance of Gemhall, and thereby direct a distribution solely to Mr Donovan, and therefore to his creditors."
+   },
+   {
+    "n": 53,
+    "headings": [],
+    "text": "I therefore find that the application by Mrs Donovan to be allowed to appoint Time Apartments as trustee of the Stephen Donovan Family Trust in lieu of Gemhall, and to allow for a distribution to Time Apartments as trustee for the Donovan Trust, has been made for the purpose of avoiding the consequences of the freezing orders. That means those parties cannot answer the first question posed by counsel."
+   },
+   {
+    "n": 54,
+    "headings": [],
+    "text": "However, that does not deal entirely with the respondents’ contention that the freezing orders should be discharged because if Mr Donovan is adjudged bankrupt the trustee in bankruptcy could not, even if the trustee became the sole director of Gemhall and therefore controlled Gemhall, make a distribution to Mr Donovan for the purpose of paying his creditors."
+   },
+   {
+    "n": 55,
+    "headings": [],
+    "text": "It may be assumed, as was put by counsel for Mrs Donovan and Gemhall, that the beneficiaries under the discretionary trust of which Gemhall is director have no proprietary interest in the assets of the trust, and no entitlement to claim any distribution to them. It may also be assumed that they only have a personal equitable right of due administration of the trust by the trustee, which may not pass to any trustee in bankruptcy."
+   },
+   {
+    "n": 56,
+    "headings": [],
+    "text": "However that does not mean that if Mr Donovan is adjudged bankrupt and his trustee in bankruptcy becomes the sole director of Gemhall through Mr Donovan’s single share in that company, that the trustee in bankruptcy could not cause Gemhall, in accordance with its trustee’s obligations, to make a distribution of some kind to Mr Donovan himself. If the trustee in bankruptcy was entitled to cause Gemhall to make any sort of distribution to Mr Donovan then that distribution would be available to Mr Donovan’s creditors."
+   },
+   {
+    "n": 57,
+    "headings": [],
+    "text": "Counsel for Mrs Donovan and Gemhall relied upon a statement by Davies J in Dwyer v Ross, when he said at 467-468:\nIt follows that no trustee of the Bylong Trust should exercise the trust powers for the purpose of benefitting not the beneficiaries of the Trust but the creditors in the bankrupt estate of one of the beneficiaries. It is one thing for a trustee to pay or advance money to a beneficiary to enable the beneficiary to pay his debts, which action could benefit the beneficiary. It is another matter entirely for a trustee to act, not in the interests of the beneficiaries, but in the interests of the creditors of a beneficiary. If Mr Ross is made bankrupt, that will be a relevant fact for the trustee to take into account when exercising its discretion to pay or apply income or capital to or for the benefit of the “Eligible Beneficiaries”. Such a factor may indeed encourage the Trustee to pay or apply the Trust funds to or for the benefit of other beneficiaries, a step which will achieve the objects of the Trust, rather than to pay the funds to Mr Ross and thereby benefit not him but his creditors."
+   },
+   {
+    "n": 58,
+    "headings": [],
+    "text": "Counsel rather suggested that the statement meant that if Mr Donovan’s trustee in bankruptcy became the director of Gemhall no distribution could be made to Mr Donovan. In my view that is incorrect. If the event which is contemplated occurred, Mr Donovan’s trustee in bankruptcy would have to cause Gemhall to act in accordance with its trustee obligations to the eligible beneficiaries of the trust. That does not mean, however, that the trustee in bankruptcy could not as a director of Gemhall make a distribution to Mr Donovan and thereby his creditors. Rather, it only means that the trustee could not make that distribution in breach of the trustee’s fiduciary duties to the beneficiaries."
+   },
+   {
+    "n": 59,
+    "headings": [],
+    "text": "There is a considerable body of evidence to support the proposition put by Mr Whitington QC, counsel for the applicants, that all of the assets of the trust have been accumulated through the endeavours of Mr Donovan and, in those circumstances, that would be relevant for Gemhall to consider if a distribution were to be made."
+   },
+   {
+    "n": 60,
+    "headings": [],
+    "text": "As it is, what is contemplated by this application is that Gemhall make a distribution without regard to all of the efforts of Mr Donovan so as to ensure that none of the assets become available to Mr Donovan’s creditors."
+   },
+   {
+    "n": 61,
+    "headings": [],
+    "text": "If Gemhall were to act in that way, and so as to disregard all of Mr Donovan’s rights and entitlements, he might be heard to complain if in fact in due course he were not adjudged bankrupt."
+   },
+   {
+    "n": 62,
+    "headings": [],
+    "text": "The test for making a freezing order was identified by the High Court in Cardile v LED Builders Pty Ltd [1999] HCA 18; (1999) 198 CLR 380 in the joint reasons of Gaudron, McHugh, Gummow and Callinan JJ at [57]:\n[57] What then is the principle to guide the courts in determining whether to grant Mareva relief in a case such as the present where the activities of third parties are the object sought to be restrained? In our opinion such an order may, and we emphasise the word “may”, be appropriate, assuming the existence of other relevant criteria and discretionary factors, in circumstances in which: (i) the third party holds, is using, or has exercised or is exercising a power of disposition over, or is otherwise in possession of, assets, including “claims and expectancies”, of the judgment debtor or potential judgment debtor; or (ii) some process, ultimately enforceable by the courts, is or may be available to the judgment creditor as a consequence of a judgment against that actual or potential judgment debtor, pursuant to which, whether by appointment of a liquidator, trustee in bankruptcy, receiver or otherwise, the third party may be obliged to disgorge property or otherwise contribute to the funds or property of the judgment debtor to help satisfy the judgment against the judgment debtor.\n(Footnote omitted)"
+   },
+   {
+    "n": 63,
+    "headings": [],
+    "text": "In his reasons supporting the orders made on 19 December 2008 (Rafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931) Besanko J said at [25]:\n[25] The respondents’ submission that Mr Donovan, as a member of a class of possible objects of appointment, has no proprietary interest in the trust assets is correct: In re Coleman; Henry v Strong (1888) 39 Ch D 443; In re Weir’s Settlement Trusts; Macpherson v Inland Revenue Commissioners [1971] Ch 145. However, I do not think that is fatal to the applicants’ application. I say that for the following reason. I think the test formulated by the High Court in Cardile ((ii) in the passage quoted above at [15]) and reflected in O 25A r 5(5) is wide enough to cover the present circumstances. Both refer to a process which “is or may ultimately be available” and the fact that the third party “may be obliged to disgorge assets” or contribute towards satisfying the judgment or prospective judgment. It is possible that Mr Donovan will receive an interest under the Stephen Donovan Family Trust which is recoverable by a trustee in bankruptcy in the event that the applicants obtain a judgment against Mr Donovan and he is placed into bankruptcy upon being unable to satisfy that judgment. I am mindful of the fact that considerable caution must be exercised in making freezing orders against third parties, but at the same time there needs to be some flexibility in the test, as the circumstances of this case plainly show. Other courts have considered that the use of the word “may” is significant: Westpac Banking Corporation v Hilliard [2001] VSC 187; Audio Products Group Pty Ltd v Mamone [2005] NSWSC 982; Robmatjus Pty Ltd v Violet Home Loans Australia Pty Ltd [2007] VSC 165."
+   },
+   {
+    "n": 64,
+    "headings": [],
+    "text": "His Honour’s reasons indicate that the arguments put forward today on behalf of Mrs Donovan and Gemhall are a re-run of previous applications: see also Rafferty v Time 2000 West Pty Ltd (No 7) [2011] FCA 405."
+   },
+   {
+    "n": 65,
+    "headings": [],
+    "text": "The continuing purpose of the freezing orders is to preserve assets until such time as the Full Court has determined the appeal because it is likely that if the appeal is dismissed Mr Donovan will be adjudged bankrupt. If that were to happen Mr Donovan may become entitled to the trust assets by way of distribution."
+   },
+   {
+    "n": 66,
+    "headings": [],
+    "text": "The orders should stand as sought to be modified by the applicants so as to protect the integrity of the orders pending the disposal of the appeal."
+   },
+   {
+    "n": 67,
+    "headings": [],
+    "text": "This will mean of course that funds will not become available to Time Apartments because Gemhall could not make a distribution to Time Apartments, and therefore Time Apartments will not be able to settle on the Wilson Street property on 23 December 2011."
+   },
+   {
+    "n": 68,
+    "headings": [],
+    "text": "However, Mrs Donovan, Gemhall and Time Apartments all knew before the contract for the purchase of the Wilson Street property was signed that Gemhall’s assets were subject to freezing orders made by Besanko J on 19 December 2008."
+   },
+   {
+    "n": 69,
+    "headings": [],
+    "text": "Time Apartments and Mrs Donovan entered into the contract with their eyes open and with full knowledge of those risks."
+   },
+   {
+    "n": 70,
+    "headings": [],
+    "text": "They also failed to advise the Court of the existence of the Wilson Street property at the time that the Court allowed Gemhall to settle on the sale of the Chapel Street property. That would have been a relevant fact for the Court to have known at the time that the Court made its order permitting Gemhall to settle on the Chapel Street property."
+   },
+   {
+    "n": 71,
+    "headings": [],
+    "text": "They also failed to advise the Court of the Wilson Street property contract at the time they offered undertakings through Frenkel Partners to the Court to hold $1.7 million in a secured account pending the disposal of the appeal by the Full Court. Again that would have been a relevant fact to have known at that time. Mrs Donovan and Gemhall have failed to advise the Court from time to time of facts relevant to the exercise of the Court’s power."
+   },
+   {
+    "n": 72,
+    "headings": [],
+    "text": "However, in the end Mrs Donovan and Gemhall’s application is dismissed not for those reasons, but because the freezing orders should stand pending the decision of the Full Court."
+   },
+   {
+    "n": 73,
+    "headings": [],
+    "text": "I make the following orders:\n1. That paragraph 5 of the orders made by Justice Besanko on 19 December 2008 be varied as set out in paragraph 2 of this order, but otherwise remain in full force and effect.\n2. Until further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:\n2.1 causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;\n2.2 causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;\n2.3 causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;\n2.4 causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;\n2.5 causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and\n2.6 causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding seventy-three (73) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lander.",
+ "associate": null,
+ "dated": "2011-12-21",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Rafferty v Time 2000 West Pty Ltd (No 9) [2011] FCA 1483\n\n## Cover sheet\n\n**Citation:** Rafferty v Time 2000 West Pty Ltd (No 9)  \n[2011] FCA 1483\n\n**Parties:** PATRICK CAMPBELL RAFFERTY, SANTORA HOLDINGS PTY LIMITED ACN 128 467 550 and KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178 v TIME 2000 WEST PTY LIMITED ACN 127 893 270, TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614, TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541, EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG), STEPHEN GERARD DONOVAN and MADGWICKS\n\n**File number:** SAD 122 of 2008\n\n**Judge:** LANDER J\n\n**Date of judgment:** 21 December 2011\n\n**Catchwords:** PRACTICE AND PROCEDURE – judgments and orders – freezing order – application for variation of orders – whether orders should be varied – whether variation would defeat purpose of orders\n\n**Cases cited:** Cardile v LED Builders Pty Ltd (1999) 198 CLR 380 cited  \nDwyer v Ross (1992) 34 FCR 463 considered  \nR & I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 cited  \nRafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931 cited  \nRafferty v Time 2000 West Pty Ltd (No 7) [2011] FCA 405 cited\n\n**Date of hearing:** 7 and 9 December 2011\n\n**Place:** Adelaide\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 73\n\n**Counsel for the Applicants:** Mr D Whitington QC with Mr A Rosser\n\n**Solicitor for the Applicants:** Cosoff Cudmore Knox\n\n**Counsel for Gemhall Holdings Pty Ltd:** Mr A Lazarevich\n\n**Solicitor for Gemhall holdings Pty Ltd:** Pace Lawyers\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 122 of 2008 |\n\n| BETWEEN: | PATRICK CAMPBELL RAFFERTY<br>First Applicant<br>SANTORA HOLDINGS PTY LIMITED ACN 128 467 550<br>Second Applicant<br>KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178<br>Third Applicant |\n|---|---|\n| AND: | TIME 2000 WEST PTY LIMITED ACN 127 893 270<br>First Respondent<br>TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614<br>Second Respondent<br>TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541<br>Third Respondent<br>EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG)<br>Fourth Respondent<br>STEPHEN GERARD DONOVAN<br>Fifth Respondent<br>MADGWICKS<br>Sixth Respondent |\n\n| JUDGE: | LANDER J |\n|---|---|\n| DATE OF ORDER: | 21 DECEMBER 2011 |\n| WHERE MADE: | ADELAIDE |\n\n### THE COURT ORDERS THAT:\n\n1. That paragraph 5 of the orders made by Justice Besanko on 19 December 2008 be varied as set out in paragraph 2 of this order, but otherwise remain in full force and effect.\n\n2. Until further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:\n\n  2.1 causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;\n\n  2.2 causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;\n\n  2.3 causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;\n\n  2.4 causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;\n\n  2.5 causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and\n\n  2.6 causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 122 of 2008 |\n\n| BETWEEN: | PATRICK CAMPBELL RAFFERTY<br>First Applicant<br>SANTORA HOLDINGS PTY LIMITED ACN 128 467 550<br>Second Applicant<br>KARAVILLE HOLDINGS PTY LIMITED ACN 009 439 178<br>Third Applicant |\n|---|---|\n| AND: | TIME 2000 WEST PTY LIMITED ACN 127 893 270<br>First Respondent<br>TIME 2000 SYSTEMS (AUSTRALIA) PTY LIMITED ACN 127 853 614<br>Second Respondent<br>TIME 2000 OPERATIONS (AUSTRALIA) PTY LIMITED ACN 128 700 541<br>Third Respondent<br>EMBLETON LIMITED (A COMPANY INCORPORATED IN HONG KONG)<br>Fourth Respondent<br>STEPHEN GERARD DONOVAN<br>Fifth Respondent<br>MADGWICKS<br>Sixth Respondent |\n\n| JUDGE: | LANDER J |\n|---|---|\n| DATE: | 21 DECEMBER 2011 |\n| PLACE: | ADELAIDE |\n\n### REASONS FOR JUDGMENT\n\n[1] This is an application by Gemhall Holdings Pty Ltd (Gemhall) and Mrs Donovan to revoke freezing orders made by a judge of this Court on 19 December 2008, which were later varied by him on 31 August 2010, and by me on 15 November 2010, 22 November 2010, 15 February 2011, 23 February 2011, 3 November 2011, and 7 November 2011.\n\n[2] The applicants on the other hand are seeking to vary the order so as to further restrict the fifth respondent, Mrs Donovan and Gemhall in relation to Gemhall’s conduct.\n\n[3] The fifth respondent (Mr Donovan) was at the relevant times the shareholder and director of the first four respondents, and also of Gemhall, which is a trustee company, and the trustee of the Stephen Donovan Family Trust. Mr Donovan was the first appointor of that Trust, but is no longer the appointor.\n\n[4] Mrs Donovan is Mr Donovan’s wife, and they are the parents of James Donovan, who is two and a half years of age. Mr and Mrs Donovan married on 21 December 2008.\n\n[5] Gemhall is not a party to this proceeding but, as will be demonstrated, is affected by freezing orders made by Besanko J on 19 December 2008.\n\n[6] This proceeding, which was started by the applicants on 14 August 2008, concerns a Heads of Agreement, a Rights Agreement, and a Joint Venture and Shareholders Agreement entered into between the applicants and the respondents. The applicants claimed those agreements were franchise agreements within the meaning of the Franchising Code of Conduct, and that the agreements were void abinitio or, in the alternative, voidable. The applicants also sought orders that monies paid by the applicants to the respondents pursuant to those agreements be repaid.\n\n[7] On 13 July 2010 Besanko J delivered reasons for finding in favour of the applicants against the respondents. On 17 August 2010 he made orders setting aside the Heads of Agreement, the Rights Agreement, and the Joint Venture and Shareholders Agreement, and ordered the respondents jointly and severally pay the applicants the sum of $1.7 million.\n\n[8] He also ordered the first, second, fourth and fifth respondents pay interest in the sum of $416,111.29. He ordered the second and fourth respondents pay the applicants’ costs on a party and party basis prior to 30 January 2009, and on an indemnity basis after that time. He ordered the fifth respondent to pay the applicants’ costs after 31 August 2009.\n\n[9] The effect of his Honour’s orders was to make Mr Donovan liable to pay the applicants the sum of $1.7 million, interest of $416,111.29, and the costs to which I have referred.\n\n[10] The respondents, apart from Time 2000 West Pty Limited, appealed against the trial judge’s orders. That appeal was heard in the February sessions of the Full Court, but the Full Court has not yet delivered its judgment.\n\n[11] On 14 December 2010 one of the applicants, Karaville Holdings Pty Ltd (Karaville), who by virtue of Besanko J’s orders was awarded $1.5 million of the $1.7 million awarded in total and interest, lodged a caveat over a property at 529 Chapel Street, South Yarra (the Chapel Street property) citing as the ground “Constructive Trust between Gemhall Holdings Pty Ltd (ACN 065 706 381) and Karaville Holdings Pty Ltd (ACN 009 439 178).\n\n[12] On 15 February 2011 Karaville issued a creditor’s petition against Mr Donovan based upon the judgment debt outstanding. The petition has been adjourned from time to time pending the judgment of the Full Court. On 21 November 2011 the creditor’s petition was adjourned to 13 February 2012 with liberty to apply.\n\n[13] Gemhall is, as I have said, the Trustee of the Stephen Donovan Family Trust. Originally the appointor of the Trust was Mr Donovan, but he resigned as appointor on or about 10 December 2008. On the same day Mrs Donovan was appointed the appointor of the Stephen Donovan Family Trust in lieu of Mr Donovan.\n\n[14] Mr Donovan was also the sole director of Gemhall, but on 10 December 2008 Mrs Donovan was appointed as an additional director. Mr Donovan was and remains the sole shareholder of Gemhall.\n\n[15] The Stephen Donovan Family Trust is a discretionary trust of which there are a number of beneficiaries, including Mr Donovan, Mrs Donovan, their son James, and a number of Mr Donovan’s more remote family.\n\n[16] On or about 3 December 1996 Gemhall executed a contract for the purchase of the Chapel Street property. On 6 February 1998 settlement of the Chapel Street property took place. The Chapel Street property was subject to a mortgage.\n\n[17] On 5 December 2008 the applicants sought freezing orders against the respondents and Gemhall alleging that the respondents and Gemhall were intending to dispose of their property so as to put their assets beyond the reach of the applicants in case the applicants were successful in the proceeding.\n\n[18] It may be inferred that the applicant’s application was the catalyst which gave rise to Mr Donovan’s resignation as appointor of the Stephen Donovan Family Trust, Mrs Donovan’s appointment as appointor of that Trust, and Mrs Donovan’s appointment as a director of Gemhall.\n\n[19] On 19 December 2008 Besanko J made a number of orders which impacted upon the manner in which Gemhall could deal with the proceeds of the sale of the Chapel Street property, which are unimportant for the purposes of these reasons.\n\n[20] However, he made the following order:\n\n> 5. Until further order, the Fifth Respondent is to notify the solicitors for the Applicants in writing of any proposed change in the shareholding or directorships of Gemhall Holdings Pty Limited or Time 2000 Pty Limited or any proposed change to the Appointors, trustees or beneficiaries of the Stephen Donovan Family Trust or the Diamanti Trust ten business days prior to the making of any such change.\n\n[21] The only respondent affected by that order is Mr Donovan. Mrs Donovan and Gemhall seek the discharge of that order.\n\n[22] On the other hand, the applicants seek an order varying paragraph 5 in the following manner:\n\n> Until further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:\n\n> 1. causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;\n\n> 2. causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;\n\n> 3. causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;\n\n> 4. causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;\n\n> 5. causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and\n\n> 6. causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited.\n\n[23] On 16 May 2011 Gemhall entered into a contract for the sale of the Chapel Street property for the sum of $3.4 million. The contract provided for settlement to take place on 8 November 2011.\n\n[24] On 30 May 2011 the respondents’ then solicitors advised the applicants’ solicitor that Gemhall had entered into the contract for sale of the Chapel Street property, and provided a copy of the contract. That led to an exchange of correspondence between the solicitors in respect of the deposit payable under the contract, and the variation of the freezing orders. Gemhall offered to give an undertaking that $1.7 million of the proceeds of the sale be paid into and remain in an interest bearing account until the Court authorised Gemhall to appropriate that amount. At the same time Gemhall invited the applicants to agree to discharge the freezing orders because the effect of the freezing orders is “to subvert the law of trusts”, and was causing Gemhall to suffer loss and damage. Gemhall warned the applicants that it would seek costs and call upon the undertaking as to damages.\n\n[25] On 2 November 2011 Frenkel Partners, Gemhall’s solicitors, proffered a draft of undertakings to be given to the Court on the assumption that they would retain the sum of $1.7 million in an interest bearing account.\n\n[26] Meanwhile on 10 June 2011 Mr Donovan ceased to be a director of Gemhall. No notice was given in accordance with paragraph 5 of Besanko J’s orders of 19 December 2008.\n\n[27] Prior to the settlement the applicants made an application to the Court seeking an order that $1.7 million of the proceeds of the sale be retained by Gemhall’s solicitors and invested in an interest bearing account in the name of the Stephen Donovan Family Trust.\n\n[28] On 3 November 2011 I made an order by consent that the orders made against Gemhall on 19 December 2008, 31 August 2010, 22 November 2010, 15 February 2011, and 23 February 2011 be varied to allow Gemhall to settle on the sale of the Chapel Street property. Relevantly the orders provided:\n\n> (a) That Gemhall is permitted to settle on the sale of the land [the Chapel Street property], provided such settlement is effected by and through Gemhall’s Victorian solicitors, Frenkel Partners, and no other person, including not by Gemhall in its own right, unless the Court otherwise gives permission or the applicants otherwise, by notice in writing, give consent.\n\n> (b) Subject to Frenkel Partners undertaking to the Court and the applicants:\n\n> (i) to retain $1.7 million of the sale proceeds from the surplus proceeds at settlement of the sale of the Land in an interest bearing account in the name of The Stephen Donovan Family Trust;\n\n> (ii) not to allow settlement to take place unless they are in receipt of a cheque for the said sum;\n\n> (iii) not to disperse the said sum until either the Court gives its permission to deal with the said sum or the applicants, by notice in writing, so consent, or in the event that Mr Donovan is declared bankrupt and his trustee in bankruptcy provides a written consent to release the funds to the Stephen Donovan Family Trust;\n\n> (iv) to email a monthly statement of the account to Cosoff Cudmore Knox and to Gemhall.\n\n[29] On 7 November 2011 I amended the order in paragraph (b)(i) to include after the words “the Stephen Donovan Family Trust” the words “of which the only signatory is Frenkel Partners.”\n\n[30] Settlement took place on 9 November 2011. At settlement Gemhall discharged a mortgage over the property to the Bank of Queensland and paid out the expenses associated with the sale of the Chapel Street property. Those expenses, which included agents’ commission and solicitors’ fees, totalled $55,332.94. It caused the sum of $1.7 million to be held in accordance with the orders made on 3 November 2011, as varied on 7 November 2011.\n\n[31] On 15 November 2011 the balance of the purchase proceeds was paid to Time Apartments Pty Limited (Time Apartments), which is the trustee of the Donovan Trust. The Donovan Trust is a discretionary family trust of which Mrs Donovan is the appointor and the sole director. Mr and Mrs Donovan’s son, James Donovan, is the sole shareholder of the trustee Time Apartments. Mrs Donovan acts as her son’s signatory, and will do so until he reaches the age of 18 years. The Donovan Trust has exactly the same beneficiaries as the Stephen Donovan Family Trust. Both Trusts have 33 eligible general beneficiaries who, as I have previously said, include Mr Donovan, Mrs Donovan, James Donovan, and Mr Donovan’s remote family.\n\n[32] On 11 November 2011 Karaville applied in the Federal Magistrates Court for an order for the appointment of trustees to take control of Mr Donovan’s property.\n\n[33] On 15 November 2011 Lindsay FM made an order that John Sheahan and Ian Lock of Sheahan Lock Partners jointly and severally take control of any property Mr Donovan acquired with or derived from the proceeds of the sale by Gemhall of the Chapel Street property, and retain such control of that property.\n\n[34] On 17 November 2011 a further $55,740.62 was paid out of the amount which had been paid to Time Apartments, to solicitors and Contour Consultants totalling $55,740.62.\n\n[35] The residual proceeds held by Time Apartments were paid to Mrs Donovan’s personal account “for the purpose of investment in my capacity as sole director of the trustee company”.\n\n[36] The Donovan Trust was established to purchase a property at 5-7 Wilson Street, South Yarra (Wilson Street property), which Mrs Donovan has said she identified as “a good investment opportunity” for the Trust.\n\n[37] On 13 May 2011 Time Apartments, as Trustee for the Donovan Trust, entered into a contract with the owner of the Wilson Street property to purchase the Wilson Street property for $1,856,500 plus GST. Frenkel Partners are also the solicitors acting for Time Apartments.\n\n[38] The contract provided for settlement on 11 November 2011. Mrs Donovan guaranteed Time Apartments’ performance of the contract.\n\n[39] The contract did not settle on 11 November 2011. Mrs Donovan deposed that Time Apartments, as trustee of the Donovan Trust, now intends to settle on the Wilson Street property on 23 December 2011.\n\n[40] On 18 November 2011 Mrs Donovan decided to appoint Time Apartments as the new Trustee of the Stephen Donovan Family Trust in lieu of Gemhall. On that day, pursuant to the orders made on 19 December 2008, Mrs Donovan gave notice to the applicants of her intention to appoint Time Apartments as the new trustee of the Stephen Donovan Family Trust.\n\n[41] In her affidavit she states that she is of the opinion that it is in the best interests of all of the beneficiaries of the Stephen Donovan Family Trust to appoint Time Apartments as trustee in lieu of Gemhall for the following reasons:\n\n> a) The SDFT [the Stephen Donovan Family Trust] has no beneficial interest in any assets, save and except the $1.7 million referred to …\n\n> b) Time apartments, in its capacity as trustee for the DT [Donovan Trust], intends to settle on the Wilson Street Property on 23 December 2011, being a good investment opportunity.\n\n> c) Since signing the contract to purchase the Wilson Street Property, Time Apartments has received a town planning permit for 30 apartments, 17 car spaces and a small café …\n\n> d) Time Apartments intends to submit an application for an amendment to the plans which, if approved, will allow the development to include two additional penthouse apartments.\n\n> e) It is my view that the said permit adds significant value to the Wilson Street Property over and above the purchase price. I have instructed Savills Australia Pty Ltd of 140 William Street, Melbourne to provide their analysis of the value of the land with the said permit.\n\n> f) … It should be noted that the land value in this indicative feasibility is $3.2M a substantial increase from the purchase price.\n\n> g) The increase in value of the Wilson Street Property is a good financial investment, which is likely to benefit the beneficiaries of the SDFT.\n\n[42] On 24 November 2011 the applicants’ solicitors wrote to the Court seeking an urgent hearing for the purpose of obtaining an order restraining Mrs Donovan from appointing Time Apartments as trustee in lieu of Gemhall.\n\n[43] On 6 December 2011 Gemhall identified the orders which it seeks, being:\n\n> 1. The orders made against Gemhall Holdings Pty Ltd (Gemhall) on 19 December 2008, 31 August 2010, 22 November 2010, 15 February 2011, 23 February 2011, 3 November 2011, and 7 November 2011 be varied to allow Gemhall to receive funds of $1.7 million (“the said sum”) from Frenkel Partners.\n\n> 2. The Court gives permission to Frenkel Partners to transfer the said sum to Gemhall pursuant to Order 2(iii) made on 7 December 2011.\n\n[44] On 29 November 2011 I made orders preserving the status quo until such time as the parties could be heard.\n\n[45] On 7 December 2011 I commenced hearing the parties. I heard submissions on 9 December. During submissions Mrs Donovan and Gemhall’s counsel identified three arguments that might be put against his client, and put contentions in answer to those three arguments. The three arguments were:\n\n(1) the appointment of Time Apartments as trustee of the Stephen Donovan Family Trust is an attempt by Mrs Donovan to put Gemhall’s assets beyond the reach of a trustee in bankruptcy and therefore should be prevented;\n\n(2) the present application is no more than a re-run of two previous applications of the same kind;\n\n(3) only two weeks ago Gemhall consented to an order that Frenkel Partners invest the sum of $1.7 million in an interest bearing account and hold that money until further order of the Court or upon the consent of the applicants. At that time Gemhall did not disclose to the Court that Time Apartments had entered into a contract for the purchase of the Wilson Street property, and that Gemhall’s assets would be necessary to meet the contract price.\n\n[46] Gemhall contended that Mrs Donovan should be entitled to exercise her power of appointment of a trustee unless the applicants could demonstrate:\n\n(1) that they have a sufficiently strong argument that a trustee in bankruptcy could legitimately act in the manner consistent with their case theory; and\n\n(2) that the trustee in bankruptcy could act in a manner detrimental to the interest of the beneficiaries of the Stephen Donovan Family Trust so as to cause a distribution of $1.7 million to Mr Donovan and therefore, if Mr Donovan was to be bankrupted, the trustee in bankruptcy.\n\n[47] The applicants claim that in the event that a sequestration order was made against Mr Donovan’s estate the trustee in bankruptcy would become entitled to the legal ownership of the single share issued to Mr Donovan, and would thereby control Gemhall. The trustee in bankruptcy, it was contended, could appoint himself or herself as the director of Gemhall. Once appointed as director the trustee in bankruptcy could cause Gemhall to distribute the sum of $1.7 million to Mr Donovan, which would become acquired property and which would vest in the trustee.\n\n[48] If those events were to occur the applicants would be forced to prove in the administration of the estate for the sum of $1.7 million.\n\n[49] The respondents contended that Gemhall, as the trustee of the Stephen Donovan Family Trust, is the legal owner of the assets of the discretionary trust, and those persons who are identified as eligible beneficiaries under the trust deed have no proprietary interest in the assets of the trust: R & I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79 per Owen J. An eligible beneficiary who has no entitlement to distributions and is dependent on the exercise of a discretion by the trustee does not have a proprietary interest: Dwyer v Ross (1992) 34 FCR 463. That eligible beneficiary has only a personal equitable right of the due administration of the trust by the trustee. That personal right to due administration does not pass to any trustee in bankruptcy: Dwyer v Ross at 466 per Davies J.\n\n[50] Mrs Donovan was cross-examined on her affidavits and, in particular, in relation to her reasons for seeking to appoint Time Apartments as the trustee of the Stephen Donovan Family Trust in lieu of Gemhall, and for establishing the Donovan Trust.\n\n[51] I think it fair to say that she gave two reasons for doing what she has done, and for why she wants to do what she seeks to do. First, Gemhall is infected commercially by the freezing orders, and whilst those orders exist parties will not deal with Gemhall because of the uncertainty of Gemhall’s position caused by the freezing orders. Secondly, she wants to protect the beneficiaries of the Stephen Donovan Family Trust and the Donovan Trust by freeing up the assets of the Stephen Donovan Family Trust so that a distribution might be made to Time Apartments as trustee of the Donovan Trust in order that Time Apartments can settle in relation to the Wilson Street property. If a distribution is made to Time Apartments as trustee of the Donovan Trust then that will avoid the freezing orders in relation to Gemhall.\n\n[52] I think that clearly Mrs Donovan wants to avoid the effect of the freezing orders so that if Mr Donovan is adjudged bankrupt his trustee in bankruptcy could not assume the governance of Gemhall, and thereby direct a distribution solely to Mr Donovan, and therefore to his creditors.\n\n[53] I therefore find that the application by Mrs Donovan to be allowed to appoint Time Apartments as trustee of the Stephen Donovan Family Trust in lieu of Gemhall, and to allow for a distribution to Time Apartments as trustee for the Donovan Trust, has been made for the purpose of avoiding the consequences of the freezing orders. That means those parties cannot answer the first question posed by counsel.\n\n[54] However, that does not deal entirely with the respondents’ contention that the freezing orders should be discharged because if Mr Donovan is adjudged bankrupt the trustee in bankruptcy could not, even if the trustee became the sole director of Gemhall and therefore controlled Gemhall, make a distribution to Mr Donovan for the purpose of paying his creditors.\n\n[55] It may be assumed, as was put by counsel for Mrs Donovan and Gemhall, that the beneficiaries under the discretionary trust of which Gemhall is director have no proprietary interest in the assets of the trust, and no entitlement to claim any distribution to them. It may also be assumed that they only have a personal equitable right of due administration of the trust by the trustee, which may not pass to any trustee in bankruptcy.\n\n[56] However that does not mean that if Mr Donovan is adjudged bankrupt and his trustee in bankruptcy becomes the sole director of Gemhall through Mr Donovan’s single share in that company, that the trustee in bankruptcy could not cause Gemhall, in accordance with its trustee’s obligations, to make a distribution of some kind to Mr Donovan himself. If the trustee in bankruptcy was entitled to cause Gemhall to make any sort of distribution to Mr Donovan then that distribution would be available to Mr Donovan’s creditors.\n\n[57] Counsel for Mrs Donovan and Gemhall relied upon a statement by Davies J in Dwyer v Ross, when he said at 467-468:\n\n> It follows that no trustee of the Bylong Trust should exercise the trust powers for the purpose of benefitting not the beneficiaries of the Trust but the creditors in the bankrupt estate of one of the beneficiaries. It is one thing for a trustee to pay or advance money to a beneficiary to enable the beneficiary to pay his debts, which action could benefit the beneficiary. It is another matter entirely for a trustee to act, not in the interests of the beneficiaries, but in the interests of the creditors of a beneficiary. If Mr Ross is made bankrupt, that will be a relevant fact for the trustee to take into account when exercising its discretion to pay or apply income or capital to or for the benefit of the “Eligible Beneficiaries”. Such a factor may indeed encourage the Trustee to pay or apply the Trust funds to or for the benefit of other beneficiaries, a step which will achieve the objects of the Trust, rather than to pay the funds to Mr Ross and thereby benefit not him but his creditors.\n\n[58] Counsel rather suggested that the statement meant that if Mr Donovan’s trustee in bankruptcy became the director of Gemhall no distribution could be made to Mr Donovan. In my view that is incorrect. If the event which is contemplated occurred, Mr Donovan’s trustee in bankruptcy would have to cause Gemhall to act in accordance with its trustee obligations to the eligible beneficiaries of the trust. That does not mean, however, that the trustee in bankruptcy could not as a director of Gemhall make a distribution to Mr Donovan and thereby his creditors. Rather, it only means that the trustee could not make that distribution in breach of the trustee’s fiduciary duties to the beneficiaries.\n\n[59] There is a considerable body of evidence to support the proposition put by Mr Whitington QC, counsel for the applicants, that all of the assets of the trust have been accumulated through the endeavours of Mr Donovan and, in those circumstances, that would be relevant for Gemhall to consider if a distribution were to be made.\n\n[60] As it is, what is contemplated by this application is that Gemhall make a distribution without regard to all of the efforts of Mr Donovan so as to ensure that none of the assets become available to Mr Donovan’s creditors.\n\n[61] If Gemhall were to act in that way, and so as to disregard all of Mr Donovan’s rights and entitlements, he might be heard to complain if in fact in due course he were not adjudged bankrupt.\n\n[62] The test for making a freezing order was identified by the High Court in Cardile v LED Builders Pty Ltd [1999] HCA 18; (1999) 198 CLR 380 in the joint reasons of Gaudron, McHugh, Gummow and Callinan JJ at [57]:\n\n> [57] What then is the principle to guide the courts in determining whether to grant Mareva relief in a case such as the present where the activities of third parties are the object sought to be restrained? In our opinion such an order may, and we emphasise the word “may”, be appropriate, assuming the existence of other relevant criteria and discretionary factors, in circumstances in which: (i) the third party holds, is using, or has exercised or is exercising a power of disposition over, or is otherwise in possession of, assets, including “claims and expectancies”, of the judgment debtor or potential judgment debtor; or (ii) some process, ultimately enforceable by the courts, is or may be available to the judgment creditor as a consequence of a judgment against that actual or potential judgment debtor, pursuant to which, whether by appointment of a liquidator, trustee in bankruptcy, receiver or otherwise, the third party may be obliged to disgorge property or otherwise contribute to the funds or property of the judgment debtor to help satisfy the judgment against the judgment debtor.\n\n> (Footnote omitted)\n\n[63] In his reasons supporting the orders made on 19 December 2008 (Rafferty v Time 2000 West Pty Limited (No 2) [2008] FCA 1931) Besanko J said at [25]:\n\n> [25] The respondents’ submission that Mr Donovan, as a member of a class of possible objects of appointment, has no proprietary interest in the trust assets is correct: In re Coleman; Henry v Strong (1888) 39 Ch D 443; In re Weir’s Settlement Trusts; Macpherson v Inland Revenue Commissioners [1971] Ch 145. However, I do not think that is fatal to the applicants’ application. I say that for the following reason. I think the test formulated by the High Court in Cardile ((ii) in the passage quoted above at [15]) and reflected in O 25A r 5(5) is wide enough to cover the present circumstances. Both refer to a process which “is or may ultimately be available” and the fact that the third party “may be obliged to disgorge assets” or contribute towards satisfying the judgment or prospective judgment. It is possible that Mr Donovan will receive an interest under the Stephen Donovan Family Trust which is recoverable by a trustee in bankruptcy in the event that the applicants obtain a judgment against Mr Donovan and he is placed into bankruptcy upon being unable to satisfy that judgment. I am mindful of the fact that considerable caution must be exercised in making freezing orders against third parties, but at the same time there needs to be some flexibility in the test, as the circumstances of this case plainly show. Other courts have considered that the use of the word “may” is significant: Westpac Banking Corporation v Hilliard [2001] VSC 187; Audio Products Group Pty Ltd v Mamone [2005] NSWSC 982; Robmatjus Pty Ltd v Violet Home Loans Australia Pty Ltd [2007] VSC 165.\n\n[64] His Honour’s reasons indicate that the arguments put forward today on behalf of Mrs Donovan and Gemhall are a re-run of previous applications: see also Rafferty v Time 2000 West Pty Ltd (No 7) [2011] FCA 405.\n\n[65] The continuing purpose of the freezing orders is to preserve assets until such time as the Full Court has determined the appeal because it is likely that if the appeal is dismissed Mr Donovan will be adjudged bankrupt. If that were to happen Mr Donovan may become entitled to the trust assets by way of distribution.\n\n[66] The orders should stand as sought to be modified by the applicants so as to protect the integrity of the orders pending the disposal of the appeal.\n\n[67] This will mean of course that funds will not become available to Time Apartments because Gemhall could not make a distribution to Time Apartments, and therefore Time Apartments will not be able to settle on the Wilson Street property on 23 December 2011.\n\n[68] However, Mrs Donovan, Gemhall and Time Apartments all knew before the contract for the purchase of the Wilson Street property was signed that Gemhall’s assets were subject to freezing orders made by Besanko J on 19 December 2008.\n\n[69] Time Apartments and Mrs Donovan entered into the contract with their eyes open and with full knowledge of those risks.\n\n[70] They also failed to advise the Court of the existence of the Wilson Street property at the time that the Court allowed Gemhall to settle on the sale of the Chapel Street property. That would have been a relevant fact for the Court to have known at the time that the Court made its order permitting Gemhall to settle on the Chapel Street property.\n\n[71] They also failed to advise the Court of the Wilson Street property contract at the time they offered undertakings through Frenkel Partners to the Court to hold $1.7 million in a secured account pending the disposal of the appeal by the Full Court. Again that would have been a relevant fact to have known at that time. Mrs Donovan and Gemhall have failed to advise the Court from time to time of facts relevant to the exercise of the Court’s power.\n\n[72] However, in the end Mrs Donovan and Gemhall’s application is dismissed not for those reasons, but because the freezing orders should stand pending the decision of the Full Court.\n\n[73] I make the following orders:\n\n1. That paragraph 5 of the orders made by Justice Besanko on 19 December 2008 be varied as set out in paragraph 2 of this order, but otherwise remain in full force and effect.\n\n2. Until further order, the fifth respondent and Kamila Joanna Donovan, be restrained from:\n\n2.1 causing or permitting, whether directly or indirectly, any dealing with the shares held by any person in Gemhall Holdings Pty Limited;\n\n2.2 causing or permitting, whether directly or indirectly, the appointment of any other person as a director of Gemhall Holdings Pty Limited;\n\n2.3 causing or permitting, whether directly or indirectly, any change to the trusts, powers, terms or conditions of the Stephen Donovan Family Trust, being the trust established by deed dated 6 April 1994 made between Bruce Heaney and Gemhall Holdings Pty Limited;\n\n2.4 causing or permitting, whether directly or indirectly, the appointment of any person or entity other than Gemhall Holdings Pty Limited as the Trustee, or any change of the Trustee, of the Stephen Donovan Family Trust;\n\n2.5 causing or permitting, whether directly or indirectly, any other person to hold the position of Appointor (as that term is defined in the Stephen Donovan Family Trust) or to exercise any of the powers which might be exercisable by the Appointor so defined; and\n\n2.6 causing or permitting, whether directly or indirectly, any amendment, addition, deletion or change of any kind to the Memorandum and Articles of Association of Gemhall Holdings Pty Limited.\n\nI certify that the preceding seventy-three (73) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lander.\n\nAssociate:\n\nDated: 21 December 2011\n",
+ "source_sha256": "a24d14ba2553c3b9b3ad096d97d919348c5a370008e1d94b40757e4b45422933"
+}

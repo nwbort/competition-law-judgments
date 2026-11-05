@@ -1,0 +1,620 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2022/2022FCA0112.docx",
+ "metadata": {
+  "citation": "[2022] FCA 112",
+  "name": "Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation)",
+  "court": "FCA",
+  "year": 2022,
+  "number": 112,
+  "date_of_judgment": "2022-02-17",
+  "file_numbers": [
+   "QUD257/2021"
+  ],
+  "judges": [
+   "DOWNES J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2022-01-20",
+  "number_of_paragraphs": 40,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – discontinuance – interpretation of r 26.12 Federal Court Rules – whether leave required to discontinue – whether pleadings had closed – whether leave to discontinue should be granted on conditions – where pleading filed in proceeding was defective – whether condition should be imposed requiring applicants to obtain leave to commence further proceedings “arising out of substantially the same facts” – leave granted nunc pro tunc – condition as to indemnity costs imposed"
+  ],
+  "legislation": [
+   "Acts Interpretation Act 1901 (Cth) s 36(1)",
+   "Federal Court Rules 2011 (Cth) rr 16.01(a), 16.12, 16.21 16.31, 16.32, 16.33, 26.12, 40.02(a)"
+  ],
+  "cases_cited": [
+   "Frigger v Banning (No 11) [2020] FCA 1257"
+  ],
+  "parties": [
+   {
+    "name": "QUEENSLAND NICKEL SALES PTY LTD (ACN 009 872 566)",
+    "role": "First Applicant"
+   },
+   {
+    "name": "QNI RESOURCES PTY LTD (ACN 054 117 921)",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "QNI METALS PTY LTD (ACN 066 656 175)",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "QUEENSLAND NICKEL PTY LTD (IN LIQUIDATION) ACN 009 842 068",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JOHN RICHARD PARK",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "KELLY-ANNE TRENFIELD (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Alexander Law"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second, Third, Fourth and Fifth Respondents",
+    "name": "Mr N J Derrington"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second, Third, Fourth and Fifth Respondents",
+    "name": "HWL Ebsworth Lawyers"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Sixth Respondent",
+    "name": "HWL Ebsworth Lawyers"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Seventh Respondent",
+    "name": "Corrs Chambers Westgarth Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca0112",
+  "portal_file_numbers": [
+   "QUD257/2021"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2022-02-17"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 257 of 2021"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DOWNES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "17 February 2022"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – discontinuance – interpretation of r 26.12 Federal Court Rules – whether leave required to discontinue – whether pleadings had closed – whether leave to discontinue should be granted on conditions – where pleading filed in proceeding was defective – whether condition should be imposed requiring applicants to obtain leave to commence further proceedings “arising out of substantially the same facts” – leave granted nunc pro tunc – condition as to indemnity costs imposed"
+  },
+  {
+   "label": "Legislation",
+   "value": "Acts Interpretation Act 1901 (Cth) s 36(1)\nFederal Court Rules 2011 (Cth) rr 16.01(a), 16.12, 16.21 16.31, 16.32, 16.33, 26.12, 40.02(a)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Frigger v Banning (No 11) [2020] FCA 1257"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "40"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "20 January 2022"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Alexander Law"
+  },
+  {
+   "label": "Counsel for the Second, Third, Fourth and Fifth Respondents",
+   "value": "Mr N J Derrington"
+  },
+  {
+   "label": "Solicitor for the Second, Third, Fourth and Fifth Respondents",
+   "value": "HWL Ebsworth Lawyers"
+  },
+  {
+   "label": "Solicitor for the Sixth Respondent",
+   "value": "HWL Ebsworth Lawyers"
+  },
+  {
+   "label": "Solicitor for the Seventh Respondent",
+   "value": "Corrs Chambers Westgarth Lawyers"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD257/2021",
+   "parties": [
+    {
+     "name": "QUEENSLAND NICKEL SALES PTY LTD (ACN 009 872 566)",
+     "role": "First Applicant"
+    },
+    {
+     "name": "QNI RESOURCES PTY LTD (ACN 054 117 921)",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "QNI METALS PTY LTD (ACN 066 656 175)",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "QUEENSLAND NICKEL PTY LTD (IN LIQUIDATION) ACN 009 842 068",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JOHN RICHARD PARK",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "KELLY-ANNE TRENFIELD (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "DOWNES J"
+   ],
+   "date": "2022-02-17",
+   "date_raw": "17 FEBRUARY 2022",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to r 26.12(2)(c) Federal Court Rules 2011 (Cth), the applicants have leave nunc pro tunc to file their notice of discontinuance on 10 December 2021.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicants shall pay the second to seventh respondents’ costs of and incidental to the proceeding on the indemnity basis, such costs to include the preparation and filing of submissions by the second to seventh respondents in compliance with the orders made on 10 December 2021 and the review of the applicants’ submissions filed on 20 January 2022.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to r 40.02(b) Federal Court Rules, the second to seventh respondents’ costs be fixed by way of lump sum.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "On or before 4.00 pm AEST 18 March 2022, the second to fifth respondents shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "On or before 4.00 pm AEST 18 March 2022, the sixth respondent shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "On or before 4.00 pm AEST 18 March 2022, the seventh respondent shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "On or before 4.00 pm AEST 1 April 2022, the applicants shall file and serve any affidavit in the form of a Costs Response (as referred to at and drawn in accordance with paragraphs 4.13 and 4.14 of the Costs Practice Note (GPN-Costs)).",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "On or before 4.00 pm AEST 15 April 2022, the parties shall file and serve any submissions in accordance with paragraph 4.15 of the Costs Practice Note (GPN-Costs).",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The matter shall be referred to a Registrar for determination of the quantum of the second to seventh respondents’ costs payable by the applicants and the date by which that sum shall be payable.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Background"
+    ],
+    "text": "This proceeding was commenced by originating application and statement of claim filed on 9 August 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Background"
+    ],
+    "text": "The originating application seeks relief against the first respondent which is a company in liquidation. An application for leave to proceed against the first respondent has been set down for hearing on 11 March 2022.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Background"
+    ],
+    "text": "The originating application also seeks relief against six other respondents, including the liquidators of the first respondent.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Background"
+    ],
+    "text": "At a case management hearing before Lee J held on 13 August 2021, senior counsel for the first to fifth respondents submitted to the effect that the statement of claim was deficient in that there was a “basic failure to attend to the elements of the causes of action”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Background"
+    ],
+    "text": "Senior counsel who appeared for the applicants submitted that he had not settled the pleading. Contrary to r 16.01(a) Federal Court Rules 2011 (Cth), the statement of claim did not state the name of the person who had prepared it.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Background"
+    ],
+    "text": "Justice Lee made an order that:\n1. The applicants file and serve any application for leave to proceed against any of the respondents by no later than the earlier of:\na. the date that is 7 days after the determination of the applications for special leave to appeal against the orders made by the Queensland Court of Appeal on 25 June 2021 in proceeding 7119/20; or\nb. 12 November 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Background"
+    ],
+    "text": "When discussing these orders at the hearing, Lee J observed that the proposed timing “would also give the opportunity [to the applicants’ counsel] to give consideration to the pleading and ensure the pleading which is attached to the application for leave reflects the case that his clients wish to run”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Background"
+    ],
+    "text": "By the next case management hearing which was held on 19 November 2021, no application for leave to proceed had been filed and no amendments had been made to the statement of claim. The time for compliance with the order dated 13 August 2021 (as referred to above) was extended to 3 December 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Background"
+    ],
+    "text": "No application for leave to proceed was filed by 3 December 2021. No amended statement of claim was filed either.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Case management hearing on 10 December 2021"
+    ],
+    "text": "At 9.45am on 10 December 2021, the matter came on before me for case management. Just prior to the hearing, at 9.32am, the applicants filed an application seeking leave to proceed against the first respondent and a supporting affidavit of Mr Sameh Iskander which annexed a proposed statement of claim. That proposed statement of claim only sought relief against the first respondent.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Case management hearing on 10 December 2021"
+    ],
+    "text": "At that case management hearing, Mr Byrne of counsel submitted that the proposed statement of claim was the one in respect of which leave would be sought to proceed against the first respondent and that notices of discontinuance had been filed or were in the process of being filed against the other respondents.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Case management hearing on 10 December 2021"
+    ],
+    "text": "At that hearing, following submissions by the parties, an order was made on 10 December 2021 that:\n2. By 4.00 pm on 22 December 2021, the second to seventh respondents shall file and serve any written submissions in relation to any application by them for indemnity costs or any conditions to be attached to the proposed discontinuance by the applicants.\n3. By 4.00 pm on 14 January 2022, the applicants shall file and serve any written submissions in response to the written submissions filed pursuant to order 2.\n4. The issue of whether the costs to be paid to the second to seventh respondents are to be taxed on the indemnity basis and whether there should be any conditions attached to the proposed discontinuance will be determined on the papers.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Case management hearing on 10 December 2021"
+    ],
+    "text": "On 10 December 2021 at 9.58am (being while the case management hearing was in progress), the applicants filed a notice of discontinuance against the second to seventh respondents.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Case management hearing on 10 December 2021"
+    ],
+    "text": "Following submissions being filed by the respondents, the applicants commenced fresh proceedings against the second to seventh respondents on 20 January 2022, being proceeding QUD15/2022.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Indemnity Costs"
+    ],
+    "text": "Having regard to the submissions by the respondents and as an order for indemnity costs is not opposed by the applicants, an order will be made in those terms.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Indemnity Costs"
+    ],
+    "text": "As the proceeding was only on foot for a short period of time, this is an appropriate case to order that the costs be assessed on a lump sum basis pursuant to r 40.02(b) of the Rules.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "The applicants submit that the discontinuance was as of right under r 26.12(2)(a)(ii) of the Rules.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Rule 26.12 of the Rules provides:\n26.12 Discontinuance\n(1) A party claiming relief may discontinue a proceeding in whole or in part by filing a notice of discontinuance, in accordance with Form 48.\n(2) The party may file the notice of discontinuance:\n(a) without the leave of the Court or the other party’s consent:\n(i) at any time before the return date fixed in the originating application; or\n(ii) if the proceeding is continuing on pleadings—at any time before the pleadings have closed; or\n(b) with the opposing party’s consent—before judgment has been entered in the proceeding; or\n(c) with the leave of the Court—at any time.\nNote 1: For when pleadings close, see rule 16.12.\nNote 2: The Court may give leave subject to conditions including costs—see rule 1.33.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "The return date fixed in the originating application is 13 August 2021. The notice of discontinuance was not filed before that date. Nor was it filed with the consent of the respondents. This means that rr 26.12(2)(a)(i) and 26.12(2)(b) do not apply. That appears to be accepted by the applicants.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "To avoid the need to obtain leave of the Court pursuant to r 26.12(2)(c), the applicants must therefore demonstrate that the notice of discontinuance was filed before the pleadings closed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Rule 16.12 of the Rules provides:\n16.12 Close of pleadings\n(1) As between an applicant and a respondent, the pleadings close at the end of the latest of the times fixed by these Rules for filing a defence or reply, or other pleading between those parties.\n(2) The pleadings close under subrule (1) even if a request or order for particulars has not been complied with.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Rule 16.31 of the Rules provides:\n16.31 Application of Division 16.3\nThis Division applies if a proceeding is started by an originating application supported by a statement of claim or the Court has ordered that the proceeding continues on pleadings.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "This is a proceeding which was started by an originating application supported by a statement of claim. Accordingly, Division 16.3 of the Rules applies.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Rule 16.32 of the Rules, which is contained in Division 16.3, provides:\n16.32 Defence to application\nA respondent must file a defence, in accordance with Form 33, within 28 days after service of the statement of claim.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "There is no evidence as to the date on which the applicants’ statement of claim was served (or at least none that any party has relied upon in their submissions). The date on which the respondents’ solicitors filed a ‘Notice of Acting’ was no later than 12 August 2021. I infer that the statement of claim was served on the respondents by that date. This inference is supported by the fact that the pleading was the subject of submissions before Lee J on 13 August 2021. It is also supported by the affidavit of Mr Catchpoole sworn 22 December 2021 (in relation to service on the seventh respondent by 12 August 2021).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "The period of 28 days after 12 August 2021 is 9 September 2021. That is because 12 August 2021 is not counted as a day pursuant to item 6 under s 36(1) of the Acts Interpretation Act 1901 (Cth). This is the time fixed by the Rules for filing a defence within the meaning of r 16.12. On one view, in circumstances where there was no order made extending the time for filing a defence, the pleadings closed on 9 September 2021: see Frigger v Banning (No 11) [2020] FCA 1257 at [33].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Rule 16.33 of the Rules provides:\n16.33 Reply\nIf a respondent files a defence and the applicant wants to plead a matter of fact or point of law of the kind mentioned in rule 16.08, the applicant must file a reply, in accordance with Form 34, within 14 days after being served with the defence.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "The period of 14 days after 9 September 2021 is 23 September 2021 (if 9 September 2021 is not counted). This is the time fixed by the Rules for filing a reply within the meaning of r 16.12. Taking a generous view, it could be argued that the pleadings closed on 23 September 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "Applying r 16.12(1) of the Rules, the pleadings closed at the end of the latest of the times fixed by the Rules for filing a defence or reply, that is, by either 9 September 2021 or 23 September 2021. As both dates precede 10 December 2021, it is not necessary to decide the precise date on which the pleadings closed in this case.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "For these reasons, r 26.12(2)(a)(ii) of the Rules does not apply and the applicants require the leave of the Court pursuant to r 26.12(2)(c) to file a notice of discontinuance in relation to their proceeding against the second to seventh respondents.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Discontinuance",
+     "Whether leave required to discontinue"
+    ],
+    "text": "This conclusion is not affected by the fact that the applicants have purported to file a notice of discontinuance without such leave.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "The second to seventh respondents appear to accept that, if required, leave should be granted to the applicants to discontinue the proceeding against them. On that basis, leave will be granted to the applicants to file the notice of discontinuance nunc pro tunc.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "The respondents seek that a condition be imposed on that leave in these terms:\nWithout leave of the Court in proceeding QUD235/2021 first being sought and obtained, the Applicants not commence any proceeding against the [Second to Seventh Respondents] arising out of substantially the same facts pleaded in the statement of claim filed 9 August 2021.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "By an outline of submissions filed on 20 January 2022, the applicants submitted as follows:\n3. At the outset, the Applicants indicate that, regrettably, the discontinuance against the second to seventh respondents (Respondents), was in error. The Applicants apologise to the Court and to the other parties for the error.\n…\n5. The Applicants have commenced a separate proceeding against the Respondents.\n6. The Respondents seek orders that (in summary) a condition be attached to the discontinuance to the effect that the applicants not be permitted to commence any proceeding arising out of substantially the same facts without leave.\n…\n9. The condition otherwise is unwarranted and an unnecessary fetter on the Applicants’ right to invoke the jurisdiction of the Court.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "The statement of claim filed in this proceeding has some deficiencies in relation to the claims made against the second to seventh respondents. It is not necessary to address these defects because of the discontinuance. Rather, I infer from the fact that, as the applicants have now abandoned their claims in this proceeding without any proper explanation, there has been an appreciation by them that at least some aspects of the pleaded case were problematic.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "As to this, the submission by the applicants’ counsel that the discontinuance was in error is not accepted. There is no evidence to support such a submission and the circumstances tell the opposite story. The statement of claim was the subject of criticism in August 2021 at the first case management hearing but nothing was done by the applicants to address the problems with the statement of claim; instead, the applicants sought to discontinue their proceeding against the second to seventh respondents nearly four months later. This conduct indicates that consideration was given to the claims made in the statement of claim and an informed decision was made by the applicants to file a notice of discontinuance, such that no error was made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "However, in circumstances where the applicants have now sought to discontinue the proceeding and have accepted that they should pay indemnity costs, the imposition of the condition proposed by the second to seventh respondents is not in the interests of justice for the following reasons.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "Had part or all of the statement of claim been struck out following an application pursuant to r 16.21 of the Rules, for example, the applicants would likely have been given the opportunity to replead, without the need to obtain leave of the Court in relation to any proposed amendments (at least on the first occasion). As the applicants seek to discontinue their proceeding, they should not be placed in a worse position than if they had sought to maintain the pleading.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "Further, the second to seventh respondents have procedural remedies available to them in the event that new proceedings are brought which are based on a pleaded case which has the same or similar defects to the statement of claim which was filed in this proceeding. Such remedies mean that the absence of the condition sought by the respondents will not cause them any significant prejudice.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Discontinuance",
+     "Whether leave should be granted and, if so, on what conditions"
+    ],
+    "text": "As further costs were incurred by the second to seventh respondents after the notice of discontinuance was filed and for the purposes of addressing issues arising from the decision of the applicants to discontinue, it is appropriate to grant leave on condition that these additional costs are also paid on an indemnity basis to avoid any debate as to whether those costs are incidental to the proceeding.",
+    "judge": "DOWNES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty (40) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.",
+ "associate": null,
+ "dated": "2022-02-17",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "QUD 257 of 2021\nRespondents\nFourth Respondent: | QUENTIN JAMES OLDE\nFifth Respondent: | STEFAN DOPKING\nSixth Respondent: | HWL EBSWORTH (A FIRM)\nSeventh Respondent: | VANNIN CAPITAL OPERATIONS LTD"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Queensland Nickel Sales Pty Ltd v Queensland Nickel Pty Ltd (in liquidation) [2022] FCA 112\n\n## Cover sheet\n\n**File number(s):** QUD 257 of 2021\n\n**Judgment of:** DOWNES J\n\n**Date of judgment:** 17 February 2022\n\n**Catchwords:** PRACTICE AND PROCEDURE – discontinuance – interpretation of r 26.12 Federal Court Rules – whether leave required to discontinue – whether pleadings had closed – whether leave to discontinue should be granted on conditions – where pleading filed in proceeding was defective – whether condition should be imposed requiring applicants to obtain leave to commence further proceedings “arising out of substantially the same facts” – leave granted nunc pro tunc – condition as to indemnity costs imposed\n\n**Legislation:** Acts Interpretation Act 1901 (Cth) s 36(1)  \nFederal Court Rules 2011 (Cth) rr 16.01(a), 16.12, 16.21 16.31, 16.32, 16.33, 26.12, 40.02(a)\n\n**Cases cited:** Frigger v Banning (No 11) [2020] FCA 1257\n\n**Division:** General Division\n\n**Registry:** Queensland\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Corporations and Corporate Insolvency\n\n**Number of paragraphs:** 40\n\n**Date of last submissions:** 20 January 2022\n\n**Date of hearing:** Determined on the papers\n\n**Solicitor for the Applicants:** Alexander Law\n\n**Counsel for the Second, Third, Fourth and Fifth Respondents:** Mr N J Derrington\n\n**Solicitor for the Second, Third, Fourth and Fifth Respondents:** HWL Ebsworth Lawyers\n\n**Solicitor for the Sixth Respondent:** HWL Ebsworth Lawyers\n\n**Solicitor for the Seventh Respondent:** Corrs Chambers Westgarth Lawyers\n\n## Judgment\n\n### ORDERS\n\n|  | QUD 257 of 2021 |\n|---|---|\n| BETWEEN: | QUEENSLAND NICKEL SALES PTY LTD (ACN 009 872 566)<br>First Applicant<br>QNI RESOURCES PTY LTD (ACN 054 117 921)<br>Second Applicant<br>QNI METALS PTY LTD (ACN 066 656 175)<br>Third Applicant |\n| AND: | QUEENSLAND NICKEL PTY LTD (IN LIQUIDATION) ACN 009 842 068<br>First Respondent<br>JOHN RICHARD PARK<br>Second Respondent<br>KELLY-ANNE TRENFIELD (and others named in the Schedule)<br>Third Respondent |\n\n| order made by: | DOWNES J |\n|---|---|\n| DATE OF ORDER: | 17 FEBRUARY 2022 |\n\n### THE COURT ORDERS THAT:\n\n1. Pursuant to r 26.12(2)(c) Federal Court Rules 2011 (Cth), the applicants have leave nunc pro tunc to file their notice of discontinuance on 10 December 2021.\n\n2. The applicants shall pay the second to seventh respondents’ costs of and incidental to the proceeding on the indemnity basis, such costs to include the preparation and filing of submissions by the second to seventh respondents in compliance with the orders made on 10 December 2021 and the review of the applicants’ submissions filed on 20 January 2022.\n\n3. Pursuant to r 40.02(b) Federal Court Rules, the second to seventh respondents’ costs be fixed by way of lump sum.\n\n4. On or before 4.00 pm AEST 18 March 2022, the second to fifth respondents shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).\n\n5. On or before 4.00 pm AEST 18 March 2022, the sixth respondent shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).\n\n6. On or before 4.00 pm AEST 18 March 2022, the seventh respondent shall file and serve any affidavit in the form of a Costs Summary (as referred to at and drawn in accordance with paragraphs 4.10, 4.11 and 4.12 of the Costs Practice Note (GPN-Costs)).\n\n7. On or before 4.00 pm AEST 1 April 2022, the applicants shall file and serve any affidavit in the form of a Costs Response (as referred to at and drawn in accordance with paragraphs 4.13 and 4.14 of the Costs Practice Note (GPN-Costs)).\n\n8. On or before 4.00 pm AEST 15 April 2022, the parties shall file and serve any submissions in accordance with paragraph 4.15 of the Costs Practice Note (GPN-Costs).\n\n9. The matter shall be referred to a Registrar for determination of the quantum of the second to seventh respondents’ costs payable by the applicants and the date by which that sum shall be payable.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### DOWNES J\n\n### Background\n\n[1] This proceeding was commenced by originating application and statement of claim filed on 9 August 2021.\n\n[2] The originating application seeks relief against the first respondent which is a company in liquidation. An application for leave to proceed against the first respondent has been set down for hearing on 11 March 2022.\n\n[3] The originating application also seeks relief against six other respondents, including the liquidators of the first respondent.\n\n[4] At a case management hearing before Lee J held on 13 August 2021, senior counsel for the first to fifth respondents submitted to the effect that the statement of claim was deficient in that there was a “basic failure to attend to the elements of the causes of action”.\n\n[5] Senior counsel who appeared for the applicants submitted that he had not settled the pleading. Contrary to r 16.01(a) Federal Court Rules 2011 (Cth), the statement of claim did not state the name of the person who had prepared it.\n\n[6] Justice Lee made an order that:\n\n> 1. The applicants file and serve any application for leave to proceed against any of the respondents by no later than the earlier of:\n\n> a. the date that is 7 days after the determination of the applications for special leave to appeal against the orders made by the Queensland Court of Appeal on 25 June 2021 in proceeding 7119/20; or\n\n> b. 12 November 2021.\n\n[7] When discussing these orders at the hearing, Lee J observed that the proposed timing “would also give the opportunity [to the applicants’ counsel] to give consideration to the pleading and ensure the pleading which is attached to the application for leave reflects the case that his clients wish to run”.\n\n[8] By the next case management hearing which was held on 19 November 2021, no application for leave to proceed had been filed and no amendments had been made to the statement of claim. The time for compliance with the order dated 13 August 2021 (as referred to above) was extended to 3 December 2021.\n\n[9] No application for leave to proceed was filed by 3 December 2021. No amended statement of claim was filed either.\n\n### Case management hearing on 10 December 2021\n\n[10] At 9.45am on 10 December 2021, the matter came on before me for case management. Just prior to the hearing, at 9.32am, the applicants filed an application seeking leave to proceed against the first respondent and a supporting affidavit of Mr Sameh Iskander which annexed a proposed statement of claim. That proposed statement of claim only sought relief against the first respondent.\n\n[11] At that case management hearing, Mr Byrne of counsel submitted that the proposed statement of claim was the one in respect of which leave would be sought to proceed against the first respondent and that notices of discontinuance had been filed or were in the process of being filed against the other respondents.\n\n[12] At that hearing, following submissions by the parties, an order was made on 10 December 2021 that:\n\n> 2. By 4.00 pm on 22 December 2021, the second to seventh respondents shall file and serve any written submissions in relation to any application by them for indemnity costs or any conditions to be attached to the proposed discontinuance by the applicants.\n\n> 3. By 4.00 pm on 14 January 2022, the applicants shall file and serve any written submissions in response to the written submissions filed pursuant to order 2.\n\n> 4. The issue of whether the costs to be paid to the second to seventh respondents are to be taxed on the indemnity basis and whether there should be any conditions attached to the proposed discontinuance will be determined on the papers.\n\n[13] On 10 December 2021 at 9.58am (being while the case management hearing was in progress), the applicants filed a notice of discontinuance against the second to seventh respondents.\n\n[14] Following submissions being filed by the respondents, the applicants commenced fresh proceedings against the second to seventh respondents on 20 January 2022, being proceeding QUD15/2022.\n\n### Indemnity Costs\n\n[15] Having regard to the submissions by the respondents and as an order for indemnity costs is not opposed by the applicants, an order will be made in those terms.\n\n[16] As the proceeding was only on foot for a short period of time, this is an appropriate case to order that the costs be assessed on a lump sum basis pursuant to r 40.02(b) of the Rules.\n\n### Discontinuance\n\n#### Whether leave required to discontinue\n\n[17] The applicants submit that the discontinuance was as of right under r 26.12(2)(a)(ii) of the Rules.\n\n[18] Rule 26.12 of the Rules provides:\n\n> 26.12 Discontinuance\n\n> (1) A party claiming relief may discontinue a proceeding in whole or in part by filing a notice of discontinuance, in accordance with Form 48.\n\n> (2) The party may file the notice of discontinuance:\n\n> (a) without the leave of the Court or the other party’s consent:\n\n> (i) at any time before the return date fixed in the originating application; or\n\n> (ii) if the proceeding is continuing on pleadings—at any time before the pleadings have closed; or\n\n> (b) with the opposing party’s consent—before judgment has been entered in the proceeding; or\n\n> (c) with the leave of the Court—at any time.\n\n> Note 1: For when pleadings close, see rule 16.12.\n\n> Note 2: The Court may give leave subject to conditions including costs—see rule 1.33.\n\n[19] The return date fixed in the originating application is 13 August 2021. The notice of discontinuance was not filed before that date. Nor was it filed with the consent of the respondents. This means that rr 26.12(2)(a)(i) and 26.12(2)(b) do not apply. That appears to be accepted by the applicants.\n\n[20] To avoid the need to obtain leave of the Court pursuant to r 26.12(2)(c), the applicants must therefore demonstrate that the notice of discontinuance was filed before the pleadings closed.\n\n[21] Rule 16.12 of the Rules provides:\n\n> 16.12 Close of pleadings\n\n> (1) As between an applicant and a respondent, the pleadings close at the end of the latest of the times fixed by these Rules for filing a defence or reply, or other pleading between those parties.\n\n> (2) The pleadings close under subrule (1) even if a request or order for particulars has not been complied with.\n\n[22] Rule 16.31 of the Rules provides:\n\n> 16.31 Application of Division 16.3\n\n> This Division applies if a proceeding is started by an originating application supported by a statement of claim or the Court has ordered that the proceeding continues on pleadings.\n\n[23] This is a proceeding which was started by an originating application supported by a statement of claim. Accordingly, Division 16.3 of the Rules applies.\n\n[24] Rule 16.32 of the Rules, which is contained in Division 16.3, provides:\n\n> 16.32 Defence to application\n\n> A respondent must file a defence, in accordance with Form 33, within 28 days after service of the statement of claim.\n\n[25] There is no evidence as to the date on which the applicants’ statement of claim was served (or at least none that any party has relied upon in their submissions). The date on which the respondents’ solicitors filed a ‘Notice of Acting’ was no later than 12 August 2021. I infer that the statement of claim was served on the respondents by that date. This inference is supported by the fact that the pleading was the subject of submissions before Lee J on 13 August 2021. It is also supported by the affidavit of Mr Catchpoole sworn 22 December 2021 (in relation to service on the seventh respondent by 12 August 2021).\n\n[26] The period of 28 days after 12 August 2021 is 9 September 2021. That is because 12 August 2021 is not counted as a day pursuant to item 6 under s 36(1) of the Acts Interpretation Act 1901 (Cth). This is the time fixed by the Rules for filing a defence within the meaning of r 16.12. On one view, in circumstances where there was no order made extending the time for filing a defence, the pleadings closed on 9 September 2021: see Frigger v Banning (No 11) [2020] FCA 1257 at [33].\n\n[27] Rule 16.33 of the Rules provides:\n\n> 16.33 Reply\n\n> If a respondent files a defence and the applicant wants to plead a matter of fact or point of law of the kind mentioned in rule 16.08, the applicant must file a reply, in accordance with Form 34, within 14 days after being served with the defence.\n\n[28] The period of 14 days after 9 September 2021 is 23 September 2021 (if 9 September 2021 is not counted). This is the time fixed by the Rules for filing a reply within the meaning of r 16.12. Taking a generous view, it could be argued that the pleadings closed on 23 September 2021.\n\n[29] Applying r 16.12(1) of the Rules, the pleadings closed at the end of the latest of the times fixed by the Rules for filing a defence or reply, that is, by either 9 September 2021 or 23 September 2021. As both dates precede 10 December 2021, it is not necessary to decide the precise date on which the pleadings closed in this case.\n\n[30] For these reasons, r 26.12(2)(a)(ii) of the Rules does not apply and the applicants require the leave of the Court pursuant to r 26.12(2)(c) to file a notice of discontinuance in relation to their proceeding against the second to seventh respondents.\n\n[31] This conclusion is not affected by the fact that the applicants have purported to file a notice of discontinuance without such leave.\n\n#### Whether leave should be granted and, if so, on what conditions\n\n[32] The second to seventh respondents appear to accept that, if required, leave should be granted to the applicants to discontinue the proceeding against them. On that basis, leave will be granted to the applicants to file the notice of discontinuance nunc pro tunc.\n\n[33] The respondents seek that a condition be imposed on that leave in these terms:\n\n> Without leave of the Court in proceeding QUD235/2021 first being sought and obtained, the Applicants not commence any proceeding against the [Second to Seventh Respondents] arising out of substantially the same facts pleaded in the statement of claim filed 9 August 2021.\n\n[34] By an outline of submissions filed on 20 January 2022, the applicants submitted as follows:\n\n> 3. At the outset, the Applicants indicate that, regrettably, the discontinuance against the second to seventh respondents (Respondents), was in error. The Applicants apologise to the Court and to the other parties for the error.\n\n> …\n\n> 5. The Applicants have commenced a separate proceeding against the Respondents.\n\n> 6. The Respondents seek orders that (in summary) a condition be attached to the discontinuance to the effect that the applicants not be permitted to commence any proceeding arising out of substantially the same facts without leave.\n\n> …\n\n> 9. The condition otherwise is unwarranted and an unnecessary fetter on the Applicants’ right to invoke the jurisdiction of the Court.\n\n[35] The statement of claim filed in this proceeding has some deficiencies in relation to the claims made against the second to seventh respondents. It is not necessary to address these defects because of the discontinuance. Rather, I infer from the fact that, as the applicants have now abandoned their claims in this proceeding without any proper explanation, there has been an appreciation by them that at least some aspects of the pleaded case were problematic.\n\n[36] As to this, the submission by the applicants’ counsel that the discontinuance was in error is not accepted. There is no evidence to support such a submission and the circumstances tell the opposite story. The statement of claim was the subject of criticism in August 2021 at the first case management hearing but nothing was done by the applicants to address the problems with the statement of claim; instead, the applicants sought to discontinue their proceeding against the second to seventh respondents nearly four months later. This conduct indicates that consideration was given to the claims made in the statement of claim and an informed decision was made by the applicants to file a notice of discontinuance, such that no error was made.\n\n[37] However, in circumstances where the applicants have now sought to discontinue the proceeding and have accepted that they should pay indemnity costs, the imposition of the condition proposed by the second to seventh respondents is not in the interests of justice for the following reasons.\n\n[38] Had part or all of the statement of claim been struck out following an application pursuant to r 16.21 of the Rules, for example, the applicants would likely have been given the opportunity to replead, without the need to obtain leave of the Court in relation to any proposed amendments (at least on the first occasion). As the applicants seek to discontinue their proceeding, they should not be placed in a worse position than if they had sought to maintain the pleading.\n\n[39] Further, the second to seventh respondents have procedural remedies available to them in the event that new proceedings are brought which are based on a pleaded case which has the same or similar defects to the statement of claim which was filed in this proceeding. Such remedies mean that the absence of the condition sought by the respondents will not cause them any significant prejudice.\n\n[40] As further costs were incurred by the second to seventh respondents after the notice of discontinuance was filed and for the purposes of addressing issues arising from the decision of the applicants to discontinue, it is appropriate to grant leave on condition that these additional costs are also paid on an indemnity basis to avoid any debate as to whether those costs are incidental to the proceeding.\n\nI certify that the preceding forty (40) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.\n\nAssociate:\n\nDated: 17 February 2022\n\n### SCHEDULE OF PARTIES\n\n|  | QUD 257 of 2021 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | QUENTIN JAMES OLDE |\n| Fifth Respondent: | STEFAN DOPKING |\n| Sixth Respondent: | HWL EBSWORTH (A FIRM) |\n| Seventh Respondent: | VANNIN CAPITAL OPERATIONS LTD |\n",
+ "source_sha256": "d00a256bbcc733b8259076844771b529f319bf64d8c8041403d3dbf49647c80b"
+}

@@ -1,0 +1,270 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2018/2018FCA2057.docx",
+ "metadata": {
+  "citation": "[2018] FCA 2057",
+  "name": "Abbott v Zoetis Australia Pty Ltd",
+  "court": "FCA",
+  "year": 2018,
+  "number": 2057,
+  "date_of_judgment": "2018-12-07",
+  "file_numbers": [
+   "NSD406/2018"
+  ],
+  "judges": [
+   "LEE J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2018-12-07"
+  ],
+  "hearing_raw": "7 December 2018",
+  "number_of_paragraphs": 13,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – pleadings – purpose of a statement of claim in Part IVA proceedings – necessity to plead with sufficient specificity to afford procedural fairness and sufficient generality to reflect the fact that group member claims are not to be determined at initial trial – seventh version of the pleading – failure to descend to the detail of material facts pleaded – failure to adhere to orthodox Part IVA pleading practice"
+  ],
+  "legislation": [
+   "Australian Consumer Law s 18",
+   "Federal Court of Australia Act 1976 (Cth) Part IVA, s 33C",
+   "Federal Court Rules 2011 (Cth) r 16.02"
+  ],
+  "parties": [
+   {
+    "name": "RACHAEL ABBOTT",
+    "role": "Applicant"
+   },
+   {
+    "name": "ZOETIS AUSTRALIA PTY LTD",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr C Barry QC with Mr J Rowe"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "LHD Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr S Fitzpatrick"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Piper Alderman"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca2057",
+  "portal_file_numbers": [
+   "NSD406/2018"
+  ],
+  "portal_event": "Case Management Hearing",
+  "portal_event_date": "2018-12-07"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 406 of 2018"
+  },
+  {
+   "label": "Judge",
+   "value": "LEE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "7 December 2018"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – pleadings – purpose of a statement of claim in Part IVA proceedings – necessity to plead with sufficient specificity to afford procedural fairness and sufficient generality to reflect the fact that group member claims are not to be determined at initial trial – seventh version of the pleading – failure to descend to the detail of material facts pleaded – failure to adhere to orthodox Part IVA pleading practice"
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Consumer Law s 18\nFederal Court of Australia Act 1976 (Cth) Part IVA, s 33C\nFederal Court Rules 2011 (Cth) r 16.02"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "7 December 2018"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "13"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr C Barry QC with Mr J Rowe"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "LHD Lawyers"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr S Fitzpatrick"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Piper Alderman"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD406/2018",
+   "parties": [
+    {
+     "name": "RACHAEL ABBOTT",
+     "role": "Applicant"
+    },
+    {
+     "name": "ZOETIS AUSTRALIA PTY LTD",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LEE J"
+   ],
+   "date": "2018-12-07",
+   "date_raw": "7 DECEMBER 2018",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant provide to the respondent and to the Associate to Lee J, on or by 1 February 2019, a further version of the further amended statement of claim in respect of which they seek leave to file.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The matter be adjourned for a further case management hearing at 9.30am on 8 February 2019.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicant seeks leave to amend her pleading in the form of a document served on Zoetis Australia Pty Ltd (Zoetis), and provided to the Court, on 25 October 2018 (Proposed Pleading). A statement of claim in a Part IVA proceeding such as this has two broad purposes.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The first is that it must demonstrate that each of the threshold requirements referred to in s 33C of the Federal Court of Australia Act 1976 (Cth) are satisfied. These threshold requirements, the preconditions for commencing a representative proceeding, exist anterior to and separately from the proceeding itself. Most importantly, this includes the notion that there is a claim of both the applicant and group members which has certain characteristics.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The second purpose is that the statement of claim must, in accordance with the usual rules of pleading, articulate a claim on behalf of a representative applicant in such a way as to provide procedural fairness to a respondent as to the case that the respondent is required to meet at any initial trial.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "There was some debate concerning the content of the obligation in order to fulfil the requirements of the first purpose, but it is now well established that the claims of the group members need to be pleaded in a way which is sufficient to demonstrate satisfaction of the threshold requirements, but at a level of generality which reflects the fact that the group member claims are, in the usual course, not to be determined at any initial trial.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Turning to general pleading requirements, Rule 16.02 of the Federal Court Rules 2011 (Cth) makes plain that the principal functions of pleadings are :\nto define the issues for decision in the proceeding and, thereby, enable the relevance and admissibility of evidence to be understood and determined at the trial; and\nto enable the opposing party to understand and assess the pleaded case for the purposes of the litigation (including the potential non-curial resolution of the proceeding).",
+    "judge": "LEE J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The Proposed Pleading falls short of meeting these requirements. It has a long history. It appears to be the seventh version of the pleading served on Zoetis. It is unnecessary for me to deal with the Proposed Pleading at any particular length, but it seems to me there is an insuperable difficulty with the way in which the case is currently framed. There is a disconnect or a lack of intelligible relationship between: (a) the identification of the alleged contravening conduct; and (b) how that contravening conduct, if proved, is said to be causally related to the loss suffered by the applicant.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Additionally, Zoetis makes the complaint that there are a large number of allegations made in the pleading concerning breaches of s 18 of the Australian Consumer Law which appear to be hypothetical. I am not convinced that that is the case. It may be, in due course, that the pleadings of contravening conduct are relevant to the determination of at least some group member claims.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "As noted above, the real problem with the pleading is that although there is an identification of both the conduct engaged in by Zoetis and why it is said to be misleading and deceptive, it is wholly unclear, by reference to the claim of the applicant, as to how that conduct is casually related to any currently pleaded claim. It may be, in due course, that the representative applicant will point to either one or other group members who did rely on other alleged instances of contravening conduct or otherwise suffered loss by reason of the contravening conduct, but at present, that is entirely unclear from the pleading.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "This vice can be seen clearly by descending into a little more detail. The applicant pleads that she was informed by a livestock manager of her employer that her horses had to be vaccinated for the Hendra virus or her employment would be terminated. It has also been pleaded that the veterinarian then injected two horses owned by the applicant with a product, being a vaccine developed and sold by Zoetis to treat the Hendra virus. The complaint is made that the applicant was not advised by the veterinarian of various matters relating to the product, such as the fact that it had side-effects; that no studies had been conducted into the concurrent use of the product with other veterinary products; and the fact that the effect of the product on pregnant mares or horses intended for breeding was unknown. A second dose was administered to the applicant’s horses and, thereafter, it is suggested that neither horse fully recovered from the effects of the injections and lost significant value.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The difficulty with this is that the immediate cause of the alleged damage occasioned to both horses occurred, on the pleading, by reason of a direction by a livestock manager and the administration of injection by two veterinarians. No doubt what is suggested (in general terms) is that various aspects of the contravening conduct pleaded at [19]-[23] informed the actions of both the livestock manager and the veterinarians in acting the way they did towards the applicant. This seems to be the case because in the particulars to [24] it is said that “the recipients of the information” concerning the product “relied on the information”, and included a generalised reference to “veterinarians” and “employers”. What is lacking, however, is a necessary descent to the detail of pleading the material facts upon which it is alleged that the actions of the livestock manager and the veterinarians who had dealings with the applicant directly factually caused the loss suffered by the applicant and how this is linked back indirectly to the contravening conduct of Zoetis so as to make out legal causation.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Accordingly, it is unclear to me at the moment as to precisely what contravening conduct is said to arise in determining the applicant’s claim and what is truly hypothetical.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "This is not a novel pleading and it seems to me, on the basis of the material that I have seen, that it is likely that a pleading can be prepared which pleads out the case of the applicant and group members in accordance with orthodox Part IVA pleading practice. Accordingly, I do not think there is any question that leave to re-plead should be given in this instance, and I propose to allow time for the applicants to plead a case. The sooner this is done the better so the matter can move through the interlocutory stages and obtain either an early initial trial or a resolution through the compulsory mediation process.",
+    "judge": "LEE J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "Accordingly, I refuse leave to file the pleading in the form served on the respondent and filed with the Court on 25 October 2018.",
+    "judge": "LEE J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirteen (13) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lee.",
+ "associate": null,
+ "dated": "2018-12-18",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Abbott v Zoetis Australia Pty Ltd [2018] FCA 2057\n\n## Cover sheet\n\n**File number:** NSD 406 of 2018\n\n**Judge:** LEE J\n\n**Date of judgment:** 7 December 2018\n\n**Catchwords:** PRACTICE AND PROCEDURE – pleadings – purpose of a statement of claim in Part IVA proceedings – necessity to plead with sufficient specificity to afford procedural fairness and sufficient generality to reflect the fact that group member claims are not to be determined at initial trial – seventh version of the pleading – failure to descend to the detail of material facts pleaded – failure to adhere to orthodox Part IVA pleading practice\n\n**Legislation:** Australian Consumer Law s 18  \nFederal Court of Australia Act 1976 (Cth) Part IVA, s 33C  \nFederal Court Rules 2011 (Cth) r 16.02\n\n**Date of hearing:** 7 December 2018\n\n**Registry:** New South Wales\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Regulator and Consumer Protection\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 13\n\n**Counsel for the Applicant:** Mr C Barry QC with Mr J Rowe\n\n**Solicitor for the Applicant:** LHD Lawyers\n\n**Counsel for the Respondent:** Mr S Fitzpatrick\n\n**Solicitor for the Respondent:** Piper Alderman\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 406 of 2018 |\n|---|---|\n| BETWEEN: | RACHAEL ABBOTT<br>Applicant |\n| AND: | ZOETIS AUSTRALIA PTY LTD<br>Respondent |\n\n| JUDGE: | LEE J |\n|---|---|\n| DATE OF ORDER: | 7 DECEMBER 2018 |\n\n### THE COURT ORDERS THAT:\n\n1. The applicant provide to the respondent and to the Associate to Lee J, on or by 1 February 2019, a further version of the further amended statement of claim in respect of which they seek leave to file.\n\n2. The matter be adjourned for a further case management hearing at 9.30am on 8 February 2019.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### Revised from the transcript\n\n### LEE J:\n\n[1] The applicant seeks leave to amend her pleading in the form of a document served on Zoetis Australia Pty Ltd (Zoetis), and provided to the Court, on 25 October 2018 (Proposed Pleading). A statement of claim in a Part IVA proceeding such as this has two broad purposes.\n\n[2] The first is that it must demonstrate that each of the threshold requirements referred to in s 33C of the Federal Court of Australia Act 1976 (Cth) are satisfied. These threshold requirements, the preconditions for commencing a representative proceeding, exist anterior to and separately from the proceeding itself. Most importantly, this includes the notion that there is a claim of both the applicant and group members which has certain characteristics.\n\n[3] The second purpose is that the statement of claim must, in accordance with the usual rules of pleading, articulate a claim on behalf of a representative applicant in such a way as to provide procedural fairness to a respondent as to the case that the respondent is required to meet at any initial trial.\n\n[4] There was some debate concerning the content of the obligation in order to fulfil the requirements of the first purpose, but it is now well established that the claims of the group members need to be pleaded in a way which is sufficient to demonstrate satisfaction of the threshold requirements, but at a level of generality which reflects the fact that the group member claims are, in the usual course, not to be determined at any initial trial.\n\n[5] Turning to general pleading requirements, Rule 16.02 of the Federal Court Rules 2011 (Cth) makes plain that the principal functions of pleadings are :\n\nto define the issues for decision in the proceeding and, thereby, enable the relevance and admissibility of evidence to be understood and determined at the trial; and\n\nto enable the opposing party to understand and assess the pleaded case for the purposes of the litigation (including the potential non-curial resolution of the proceeding).\n\n[6] The Proposed Pleading falls short of meeting these requirements. It has a long history. It appears to be the seventh version of the pleading served on Zoetis. It is unnecessary for me to deal with the Proposed Pleading at any particular length, but it seems to me there is an insuperable difficulty with the way in which the case is currently framed. There is a disconnect or a lack of intelligible relationship between: (a) the identification of the alleged contravening conduct; and (b) how that contravening conduct, if proved, is said to be causally related to the loss suffered by the applicant.\n\n[7] Additionally, Zoetis makes the complaint that there are a large number of allegations made in the pleading concerning breaches of s 18 of the Australian Consumer Law which appear to be hypothetical. I am not convinced that that is the case. It may be, in due course, that the pleadings of contravening conduct are relevant to the determination of at least some group member claims.\n\n[8] As noted above, the real problem with the pleading is that although there is an identification of both the conduct engaged in by Zoetis and why it is said to be misleading and deceptive, it is wholly unclear, by reference to the claim of the applicant, as to how that conduct is casually related to any currently pleaded claim. It may be, in due course, that the representative applicant will point to either one or other group members who did rely on other alleged instances of contravening conduct or otherwise suffered loss by reason of the contravening conduct, but at present, that is entirely unclear from the pleading.\n\n[9] This vice can be seen clearly by descending into a little more detail. The applicant pleads that she was informed by a livestock manager of her employer that her horses had to be vaccinated for the Hendra virus or her employment would be terminated. It has also been pleaded that the veterinarian then injected two horses owned by the applicant with a product, being a vaccine developed and sold by Zoetis to treat the Hendra virus. The complaint is made that the applicant was not advised by the veterinarian of various matters relating to the product, such as the fact that it had side-effects; that no studies had been conducted into the concurrent use of the product with other veterinary products; and the fact that the effect of the product on pregnant mares or horses intended for breeding was unknown. A second dose was administered to the applicant’s horses and, thereafter, it is suggested that neither horse fully recovered from the effects of the injections and lost significant value.\n\n[10] The difficulty with this is that the immediate cause of the alleged damage occasioned to both horses occurred, on the pleading, by reason of a direction by a livestock manager and the administration of injection by two veterinarians. No doubt what is suggested (in general terms) is that various aspects of the contravening conduct pleaded at [19]-[23] informed the actions of both the livestock manager and the veterinarians in acting the way they did towards the applicant. This seems to be the case because in the particulars to [24] it is said that “the recipients of the information” concerning the product “relied on the information”, and included a generalised reference to “veterinarians” and “employers”. What is lacking, however, is a necessary descent to the detail of pleading the material facts upon which it is alleged that the actions of the livestock manager and the veterinarians who had dealings with the applicant directly factually caused the loss suffered by the applicant and how this is linked back indirectly to the contravening conduct of Zoetis so as to make out legal causation.\n\n[11] Accordingly, it is unclear to me at the moment as to precisely what contravening conduct is said to arise in determining the applicant’s claim and what is truly hypothetical.\n\n[12] This is not a novel pleading and it seems to me, on the basis of the material that I have seen, that it is likely that a pleading can be prepared which pleads out the case of the applicant and group members in accordance with orthodox Part IVA pleading practice. Accordingly, I do not think there is any question that leave to re-plead should be given in this instance, and I propose to allow time for the applicants to plead a case. The sooner this is done the better so the matter can move through the interlocutory stages and obtain either an early initial trial or a resolution through the compulsory mediation process.\n\n[13] Accordingly, I refuse leave to file the pleading in the form served on the respondent and filed with the Court on 25 October 2018.\n\nI certify that the preceding thirteen (13) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lee.\n\nAssociate:\n\nDated: 18 December 2018\n",
+ "source_sha256": "beaca49a5f6fc56e52cd70e6c1f3db000dcd3d06a83e3693e6eafbeb160ffef1"
+}

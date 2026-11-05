@@ -1,0 +1,300 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2011/2011FCA1402.docx",
+ "metadata": {
+  "citation": "[2011] FCA 1402",
+  "name": "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited",
+  "court": "FCA",
+  "year": 2011,
+  "number": 1402,
+  "date_of_judgment": "2011-12-06",
+  "file_numbers": [
+   "NSD702/2006"
+  ],
+  "judges": [
+   "JACOBSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2011-12-06"
+  ],
+  "hearing_raw": "6 December 2011",
+  "number_of_paragraphs": 13,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Representative proceedings – Approval of fees for administration of settlement scheme"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth), s 33ZF"
+  ],
+  "cases_cited": [
+   "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115",
+   "Pharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 9) [2011] FCA 1111"
+  ],
+  "parties": [
+   {
+    "name": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425",
+    "role": "Applicant"
+   },
+   {
+    "name": "AMCOR LIMITED ACN 000 017 372",
+    "role": "First Respondent"
+   },
+   {
+    "name": "AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "VISY BOARD PTY LTD ACN 005 787 913",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+    "role": "Sixth Respondent"
+   }
+  ],
+  "parties_summary": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "I S Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Maurice Blackburn"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Third Respondents",
+    "name": "The First, Second and Third Respondents did not appear"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth, Fifth and Sixth Respondents",
+    "name": "The Fourth, Fifth and Sixth Respondents did not appear"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1402",
+  "portal_file_numbers": [
+   "NSD702/2006"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2011-12-06"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1402"
+  },
+  {
+   "label": "Parties",
+   "value": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615"
+  },
+  {
+   "label": "File number(s)",
+   "value": "NSD 702 of 2006"
+  },
+  {
+   "label": "Judge",
+   "value": "JACOBSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "6 December 2011"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Representative proceedings – Approval of fees for administration of settlement scheme"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth), s 33ZF"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115\nPharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 9) [2011] FCA 1111"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "6 December 2011"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "13"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "I S Wylie"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Maurice Blackburn"
+  },
+  {
+   "label": "Counsel for the First, Second and Third Respondents",
+   "value": "The First, Second and Third Respondents did not appear"
+  },
+  {
+   "label": "Counsel for the Fourth, Fifth and Sixth Respondents",
+   "value": "The Fourth, Fifth and Sixth Respondents did not appear"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD702/2006",
+   "parties": [
+    {
+     "name": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425",
+     "role": "Applicant"
+    },
+    {
+     "name": "AMCOR LIMITED ACN 000 017 372",
+     "role": "First Respondent"
+    },
+    {
+     "name": "AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "VISY BOARD PTY LTD ACN 005 787 913",
+     "role": "Fourth Respondent"
+    },
+    {
+     "name": "VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968",
+     "role": "Fifth Respondent"
+    },
+    {
+     "name": "VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+     "role": "Sixth Respondent"
+    }
+   ],
+   "judges": [
+    "JACOBSON J"
+   ],
+   "date": "2011-12-06",
+   "date_raw": "6 DECEMBER 2011",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to clause 8 (Application of interest) of the Settlement Distribution Scheme approved by the Court on 2 May 2011 and section 33ZF of the Federal Court of Australia Act 1976 (Cth), the Court approve the application of $436,947.69 of the interest earned on the Settlement Distribution Fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme in the period 31 August 2011 to 30 November 2011 and the further estimated Administration Costs required to finalise the Scheme, as described in the affidavit Richard Erle Ryan affirmed on 30 November 2011.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 7 September 2011 I made orders, pursuant to clause 8 of the Settlement Distribution Scheme approved by the court on 2 May 2011 (“the Scheme”) and s 33ZF of the Federal Court of Australia Act 1976 (Cth) (“the Act”), approving the application of $733,852 out of the interest earned on the settlement distribution fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme during the period 15 March 2011 to 31 August 2011: see Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "I have before me this morning a further interlocutory application seeking orders pursuant to clause 8 of the Scheme and s 33ZF of the Act for the approval of the application of $436,947.69 for the interest earned on the settlement distribution fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the scheme in the period 31 August 2011 to 30 November 2011. The amount claimed also includes a sum for the further administration cost required to finalise the scheme from 1 December 2011 to 8 December 2011, on which date Maurice Blackburn expects to make payment to group members participating in the settlement. The group members will receive an amount of approximately $73,000 on average out of the total of the settlement fund."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The evidence upon which today’s application is made is contained in affidavit of Mr Richard Erle Ryan, sworn on 30 November 2011. Mr Ryan also filed a supplementary affidavit sworn on 5 December 2011. Importantly, Mr Ryan says that at all times the settlement administration team has, to his observation and in his opinion, attended to the administration work properly on behalf of the participating group members as a whole, and in an orderly and efficient manner with a keen focus on the requirement that the administration work be conducted as quickly, inexpensively and efficiently as possible. The major steps taken in the administration of the scheme from 31 August 2011 to 30 November 2011 are as follows:\n• The process of verifying which of the 1,531 claimants in the settlement are eligible participating group members, has been concluded in accordance with clause 4 of the Scheme. The effect of Mr Ryan’s evidence is that 1,316 claims have been verified as eligible and submitted by group members.\n• Notices of claim data have been issued to the 1,316 participating group members in accordance with clause 5 of the scheme.\n• Professor Rubinfeld has assessed the claims of each participating group member by applying his loss assessment formula to each participating group member’s notice of claim data in accordance with clause 6 of the Scheme.\n• Assessment notices have been issued to each participating group member notifying them of the reasonable estimate of the final assessed value of their claim in accordance with clause 6.5 of the Scheme."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The participating group members have notified Maurice Blackburn of their bank account details to allow the payment and distribution by way of electronic transfer of funds with the exception of four group members who will receive their distribution by cheque rather than by electronic transfer. Mr Ryan’s affidavit discloses that the total amount of interest which will have been earned on the Amcor settlement reserve fund, the Visy settlement reserve fund and the settlement distribution fund as at 8 December 2011 will be $3,309,289. Of that amount, $90,184 was paid in reimbursement payments pursuant to an order which I made on 2 May 2011, and $733,852 was paid to Maurice Blackburn as the first tranche of administration costs pursuant to the orders which I made on 7 September 2011. The effect of this is that there will be a balance of $2,485,253 of earned interest. That sum will be added to the net settlement sum of $95 million leaving an amount of approximately $97,485,000 to be distributed to participating group members."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The detail of the administration work is set out in full in Mr Ryan’s affidavit of 30 November, and I do not need to describe the work that has been done. The total amount of costs and disbursements as at 30 November was $370,262.69 inclusive of GST. The evidence provides a breakdown of the professional fee summary which shows that much of the detailed work has been carried out by employees whose hourly rates are at the lower end of the fees, which were the subject of the terms of the settlement deed, although the solicitor principally responsible, Mr Richard Ryan, has devoted substantial time to supervision and coordination of the administration work."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Mr Ryan says in his affidavit that the total fees and disbursements set out in the account are in accordance with the terms of the scheme and have, in his opinion, been necessarily and properly incurred in performing administration work pursuant to the scheme. The disbursements that are comprised in the account for $370,262 are also explained in Mr Ryan’s affidavit. He points out that the disbursements are based upon hourly rates which an experienced costs consultant, Mr Joseph Mazzeo, has said were fair, reasonable and appropriate. Some of the disbursements relate to work carried out by Messrs Greenwood and Freehills for certain tax advisory work. Mr Ryan has reviewed the invoices for that firm. He is of the opinion that the attendances have been necessarily and reasonably incurred, and that the rates charged are reasonable given the nature of the instructions and the work that was required. Mr Ryan also expresses an opinion that the work undertaken by Mr Wylie of counsel is reasonable, and the work undertaken by him has been necessarily and reasonably incurred."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Mr Ryan explains in paragraph 37 of his affidavit why it is necessary to seek approval of the estimated administration costs for the further administration work up to December. This is required so as to finalise the Scheme for the reasons explained in the affidavit. In particular, in the interests of conducting the administration as quickly, inexpensively and efficiently as possible, Maurice Blackburn proposes to make a single and final distribution to participating group members in accordance with clauses 9.2 and 9.3 of the Scheme."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Also, before a final distribution can be paid to participating group members, clause 9.6 of the Scheme requires the final assessed value of every participating group member to be determined, and the administration costs to be paid in full. Further in order to be able to make single and final distribution, it is necessary to know the amount of residual interest so that each participating group member’s entitlement to residual interest can be calculated and added to the final assessed value of each participating group member’s individual claim before payments are made to participating group members. In order to calculate each participating group member’s entitlement to residual interest in accordance with clause 8.4 of the Scheme, it is necessary to know the total amount of interest that will have accrued as at the intended date of distribution and the total and final amount of administration costs that will be deducted from interest thereby yielding the residual interest amount."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "I am satisfied that I have power to approve the estimated administration cost for the period up to the intended distribution date on 8 December 2011. It seems to me that the definition of administration costs in the Scheme is wide enough to cover estimated costs. Also, I consider that I have power to make the order under s 33ZF of the Act. I note that in the AWB class action (Federal Court proceeding NSD 2020 of 2007), Foster J made orders on 25 June 2010 which included approving estimated administration costs in an amount of approximately $32,000 for work to be done to complete distributions to participating group members in that scheme. Whilst no written reasons were apparently given for his Honour’s orders, it is important to bear in mind that the settlement distribution scheme in the AWB class action was in virtually identical terms to the present scheme."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "I also take in to account, in exercising in my power to approve the payment of the estimated administration costs that, Mr Ryan says that Maurice Blackburn will not make any further claim in the proceeding for payment of administration costs, unless some presently unforseen circumstance arises such as, for example, an application by a group member to which Maurice Blackburn may have to respond."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "In exercising my power to make the orders sought in this morning’s application, I have taken in to account the observations made by Flick J in Pharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 9) [2011] FCA 1111 (“Pharm-a-Care”). His Honour said at [9] that in making orders approving payment of administration costs, the court can properly place reliance upon the opinions of solicitors who owe particular (and onerous) obligations to the court. In the present matter I have placed reliance upon the opinions expressed by Mr Ryan in his affidavit."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Also, Flick J observed in Pharm-a-Care at [10] that although the task of approving administration costs may have some hallmarks of a process akin to the taxation of costs incurred in litigation, the review which is undertaken does not necessarily require the same detailed attention to each and every service for which a fee has been charged. His Honour observed that the task may in some respects be more akin to the role undertaken by the Court when fixing a gross sum of costs to be paid pursuant to its rules providing for an award of a lump sum payment. His Honour also referred to authorities which suggest that it is appropriate to apply “a much broader brush” to an application of this type than may be applicable to the process of carrying out a taxation of costs."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "For these reasons I propose to make the order sought by the Applicant in the amended interlocutory application filed in court this morning."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirteen (13) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+ "associate": null,
+ "dated": "2011-12-13",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1402\n\n## Cover sheet\n\n**Citation:** Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1402\n\n**Parties:** JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615\n\n**File number(s):** NSD 702 of 2006\n\n**Judge:** JACOBSON J\n\n**Date of judgment:** 6 December 2011\n\n**Catchwords:** PRACTICE AND PROCEDURE – Representative proceedings – Approval of fees for administration of settlement scheme\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth), s 33ZF\n\n**Cases cited:** Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115  \nPharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 9) [2011] FCA 1111\n\n**Date of hearing:** 6 December 2011\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 13\n\n**Counsel for the Applicant:** I S Wylie\n\n**Solicitor for the Applicant:** Maurice Blackburn\n\n**Counsel for the First, Second and Third Respondents:** The First, Second and Third Respondents did not appear\n\n**Counsel for the Fourth, Fifth and Sixth Respondents:** The Fourth, Fifth and Sixth Respondents did not appear\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 702 of 2006 |\n\n| BETWEEN: | JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425<br>Applicant |\n|---|---|\n| AND: | AMCOR LIMITED ACN 000 017 372<br>First Respondent<br>AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165<br>Second Respondent<br>FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517<br>Third Respondent<br>VISY BOARD PTY LTD ACN 005 787 913<br>Fourth Respondent<br>VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968<br>Fifth Respondent<br>VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615<br>Sixth Respondent |\n\n| JUDGE: | JACOBSON J |\n|---|---|\n| DATE OF ORDER: | 6 DECEMBER 2011 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Pursuant to clause 8 (Application of interest) of the Settlement Distribution Scheme approved by the Court on 2 May 2011 and section 33ZF of the Federal Court of Australia Act 1976 (Cth), the Court approve the application of $436,947.69 of the interest earned on the Settlement Distribution Fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme in the period 31 August 2011 to 30 November 2011 and the further estimated Administration Costs required to finalise the Scheme, as described in the affidavit Richard Erle Ryan affirmed on 30 November 2011.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 702 of 2006 |\n\n| BETWEEN: | JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425<br>Applicant |\n|---|---|\n| AND: | AMCOR LIMITED ACN 000 017 372<br>First Respondent<br>AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165<br>Second Respondent<br>FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517<br>Third Respondent<br>VISY BOARD PTY LTD ACN 005 787 913<br>Fourth Respondent<br>VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968<br>Fifth Respondent<br>VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615<br>Sixth Respondent |\n\n| JUDGE: | JACOBSON J |\n|---|---|\n| DATE: | 6 DECEMBER 2011 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] On 7 September 2011 I made orders, pursuant to clause 8 of the Settlement Distribution Scheme approved by the court on 2 May 2011 (“the Scheme”) and s 33ZF of the Federal Court of Australia Act 1976 (Cth) (“the Act”), approving the application of $733,852 out of the interest earned on the settlement distribution fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme during the period 15 March 2011 to 31 August 2011: see Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115.\n\n[2] I have before me this morning a further interlocutory application seeking orders pursuant to clause 8 of the Scheme and s 33ZF of the Act for the approval of the application of $436,947.69 for the interest earned on the settlement distribution fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the scheme in the period 31 August 2011 to 30 November 2011. The amount claimed also includes a sum for the further administration cost required to finalise the scheme from 1 December 2011 to 8 December 2011, on which date Maurice Blackburn expects to make payment to group members participating in the settlement. The group members will receive an amount of approximately $73,000 on average out of the total of the settlement fund.\n\n[3] The evidence upon which today’s application is made is contained in affidavit of Mr Richard Erle Ryan, sworn on 30 November 2011. Mr Ryan also filed a supplementary affidavit sworn on 5 December 2011. Importantly, Mr Ryan says that at all times the settlement administration team has, to his observation and in his opinion, attended to the administration work properly on behalf of the participating group members as a whole, and in an orderly and efficient manner with a keen focus on the requirement that the administration work be conducted as quickly, inexpensively and efficiently as possible. The major steps taken in the administration of the scheme from 31 August 2011 to 30 November 2011 are as follows:\n\n• The process of verifying which of the 1,531 claimants in the settlement are eligible participating group members, has been concluded in accordance with clause 4 of the Scheme. The effect of Mr Ryan’s evidence is that 1,316 claims have been verified as eligible and submitted by group members.\n\n• Notices of claim data have been issued to the 1,316 participating group members in accordance with clause 5 of the scheme.\n\n• Professor Rubinfeld has assessed the claims of each participating group member by applying his loss assessment formula to each participating group member’s notice of claim data in accordance with clause 6 of the Scheme.\n\n• Assessment notices have been issued to each participating group member notifying them of the reasonable estimate of the final assessed value of their claim in accordance with clause 6.5 of the Scheme.\n\n[4] The participating group members have notified Maurice Blackburn of their bank account details to allow the payment and distribution by way of electronic transfer of funds with the exception of four group members who will receive their distribution by cheque rather than by electronic transfer. Mr Ryan’s affidavit discloses that the total amount of interest which will have been earned on the Amcor settlement reserve fund, the Visy settlement reserve fund and the settlement distribution fund as at 8 December 2011 will be $3,309,289. Of that amount, $90,184 was paid in reimbursement payments pursuant to an order which I made on 2 May 2011, and $733,852 was paid to Maurice Blackburn as the first tranche of administration costs pursuant to the orders which I made on 7 September 2011. The effect of this is that there will be a balance of $2,485,253 of earned interest. That sum will be added to the net settlement sum of $95 million leaving an amount of approximately $97,485,000 to be distributed to participating group members.\n\n[5] The detail of the administration work is set out in full in Mr Ryan’s affidavit of 30 November, and I do not need to describe the work that has been done. The total amount of costs and disbursements as at 30 November was $370,262.69 inclusive of GST. The evidence provides a breakdown of the professional fee summary which shows that much of the detailed work has been carried out by employees whose hourly rates are at the lower end of the fees, which were the subject of the terms of the settlement deed, although the solicitor principally responsible, Mr Richard Ryan, has devoted substantial time to supervision and coordination of the administration work.\n\n[6] Mr Ryan says in his affidavit that the total fees and disbursements set out in the account are in accordance with the terms of the scheme and have, in his opinion, been necessarily and properly incurred in performing administration work pursuant to the scheme. The disbursements that are comprised in the account for $370,262 are also explained in Mr Ryan’s affidavit. He points out that the disbursements are based upon hourly rates which an experienced costs consultant, Mr Joseph Mazzeo, has said were fair, reasonable and appropriate. Some of the disbursements relate to work carried out by Messrs Greenwood and Freehills for certain tax advisory work. Mr Ryan has reviewed the invoices for that firm. He is of the opinion that the attendances have been necessarily and reasonably incurred, and that the rates charged are reasonable given the nature of the instructions and the work that was required. Mr Ryan also expresses an opinion that the work undertaken by Mr Wylie of counsel is reasonable, and the work undertaken by him has been necessarily and reasonably incurred.\n\n[7] Mr Ryan explains in paragraph 37 of his affidavit why it is necessary to seek approval of the estimated administration costs for the further administration work up to December. This is required so as to finalise the Scheme for the reasons explained in the affidavit. In particular, in the interests of conducting the administration as quickly, inexpensively and efficiently as possible, Maurice Blackburn proposes to make a single and final distribution to participating group members in accordance with clauses 9.2 and 9.3 of the Scheme.\n\n[8] Also, before a final distribution can be paid to participating group members, clause 9.6 of the Scheme requires the final assessed value of every participating group member to be determined, and the administration costs to be paid in full. Further in order to be able to make single and final distribution, it is necessary to know the amount of residual interest so that each participating group member’s entitlement to residual interest can be calculated and added to the final assessed value of each participating group member’s individual claim before payments are made to participating group members. In order to calculate each participating group member’s entitlement to residual interest in accordance with clause 8.4 of the Scheme, it is necessary to know the total amount of interest that will have accrued as at the intended date of distribution and the total and final amount of administration costs that will be deducted from interest thereby yielding the residual interest amount.\n\n[9] I am satisfied that I have power to approve the estimated administration cost for the period up to the intended distribution date on 8 December 2011. It seems to me that the definition of administration costs in the Scheme is wide enough to cover estimated costs. Also, I consider that I have power to make the order under s 33ZF of the Act. I note that in the AWB class action (Federal Court proceeding NSD 2020 of 2007), Foster J made orders on 25 June 2010 which included approving estimated administration costs in an amount of approximately $32,000 for work to be done to complete distributions to participating group members in that scheme. Whilst no written reasons were apparently given for his Honour’s orders, it is important to bear in mind that the settlement distribution scheme in the AWB class action was in virtually identical terms to the present scheme.\n\n[10] I also take in to account, in exercising in my power to approve the payment of the estimated administration costs that, Mr Ryan says that Maurice Blackburn will not make any further claim in the proceeding for payment of administration costs, unless some presently unforseen circumstance arises such as, for example, an application by a group member to which Maurice Blackburn may have to respond.\n\n[11] In exercising my power to make the orders sought in this morning’s application, I have taken in to account the observations made by Flick J in Pharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 9) [2011] FCA 1111 (“Pharm-a-Care”). His Honour said at [9] that in making orders approving payment of administration costs, the court can properly place reliance upon the opinions of solicitors who owe particular (and onerous) obligations to the court. In the present matter I have placed reliance upon the opinions expressed by Mr Ryan in his affidavit.\n\n[12] Also, Flick J observed in Pharm-a-Care at [10] that although the task of approving administration costs may have some hallmarks of a process akin to the taxation of costs incurred in litigation, the review which is undertaken does not necessarily require the same detailed attention to each and every service for which a fee has been charged. His Honour observed that the task may in some respects be more akin to the role undertaken by the Court when fixing a gross sum of costs to be paid pursuant to its rules providing for an award of a lump sum payment. His Honour also referred to authorities which suggest that it is appropriate to apply “a much broader brush” to an application of this type than may be applicable to the process of carrying out a taxation of costs.\n\n[13] For these reasons I propose to make the order sought by the Applicant in the amended interlocutory application filed in court this morning.\n\nI certify that the preceding thirteen (13) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.\n\nAssociate:\n\nDated: 13 December 2011\n",
+ "source_sha256": "76b96a6b04c899d7cc57061643923d62e340135a26e81f700f7c102a74b4210d"
+}

@@ -1,0 +1,517 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2014/2014FCA0992.docx",
+ "metadata": {
+  "citation": "[2014] FCA 992",
+  "name": "Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd (No 2)",
+  "court": "FCA",
+  "year": 2014,
+  "number": 992,
+  "date_of_judgment": "2014-09-12",
+  "file_numbers": [
+   "WAD218/2010"
+  ],
+  "judges": [
+   "BARKER J"
+  ],
+  "registry": "Western Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Perth",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2014-03-19",
+  "number_of_paragraphs": 40,
+  "catchwords": [
+   "COSTS – application for security for costs granted in primary proceeding – appropriate costs order to be made – “Calderbank” offer – whether indemnity costs should be awarded"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Federal Court Rules 2011 (Cth) Pt 25"
+  ],
+  "cases_cited": [
+   "Calderbank v Calderbank [1976] Fam 93; [1975] 3 All ER 333",
+   "Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203",
+   "Kiefel v State of Victoria [2014] FCA 411",
+   "MGICA (1992) Pty Ltd v Kenny & Good Pty Ltd (No 2) (1996) 70 FCR 236",
+   "Pacific Acceptance Corp Ltd v Forsyth (No 2) [1967] 2 NSWR 402",
+   "Specialised Building Materials Pty Ltd v EU Occusted Pty Ltd (1981) 37 ACTR 8",
+   "Specsavers Pty Limited v Luxottica Retail Australia Pty Limited (No 2) [2013] FCA 807"
+  ],
+  "parties": [
+   {
+    "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSSIE CAR LOANS PTY LTD ACN 077 683 820",
+    "role": "Respondent"
+   },
+   {
+    "name": "AUSSIE CAR LOANS PTY LTD ACN 077 683 820",
+    "role": "Cross-Claimant in the First Cross-Claim"
+   },
+   {
+    "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+    "role": "First Cross-Respondent in the First Cross-Claim"
+   },
+   {
+    "name": "SHINING LIGHT PTY LTD ACN 124 689 621",
+    "role": "Second Cross-Respondent in the First Cross-Claim"
+   },
+   {
+    "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+    "role": "First Cross-Claimant in the Second Cross-Claim"
+   },
+   {
+    "name": "SHINING LIGHT PTY LTD ACN 124 689 621",
+    "role": "Second Cross-Claimant in the Second Cross-Claim"
+   },
+   {
+    "name": "AUSSIE CAR LOANS PTY LTD",
+    "role": "Cross-Respondent in the Second Cross-Claim"
+   }
+  ],
+  "parties_summary": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 v AUSSIE CAR LOANS PTY LTD ACN 077 683 820; AUSSIE CAR LOANS PTY LTD ACN 077 683 820, CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 and SHINING LIGHT PTY LTD ACN 124 689 621; CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915, SHINING LIGHT PTY LTD and AUSSIE CAR LOANS PTY LTD",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr S Crabb"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Clayton Utz Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "The Respondent did not file any written submissions"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca0992",
+  "portal_file_numbers": [
+   "WAD218/2010"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2014-09-12"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd (No 2) [2014] FCA 992"
+  },
+  {
+   "label": "Parties",
+   "value": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 v AUSSIE CAR LOANS PTY LTD ACN 077 683 820; AUSSIE CAR LOANS PTY LTD ACN 077 683 820, CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 and SHINING LIGHT PTY LTD ACN 124 689 621; CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915, SHINING LIGHT PTY LTD and AUSSIE CAR LOANS PTY LTD"
+  },
+  {
+   "label": "File number",
+   "value": "WAD 218 of 2010"
+  },
+  {
+   "label": "Judge",
+   "value": "BARKER J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "12 September 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – application for security for costs granted in primary proceeding – appropriate costs order to be made – “Calderbank” offer – whether indemnity costs should be awarded"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 37M\nFederal Court Rules 2011 (Cth) Pt 25"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Calderbank v Calderbank [1976] Fam 93; [1975] 3 All ER 333\nCapitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203\nKiefel v State of Victoria [2014] FCA 411\nMGICA (1992) Pty Ltd v Kenny & Good Pty Ltd (No 2) (1996) 70 FCR 236\nPacific Acceptance Corp Ltd v Forsyth (No 2) [1967] 2 NSWR 402\nSpecialised Building Materials Pty Ltd v EU Occusted Pty Ltd (1981) 37 ACTR 8\nSpecsavers Pty Limited v Luxottica Retail Australia Pty Limited (No 2) [2013] FCA 807"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "19 March 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Perth"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "40"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr S Crabb"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Clayton Utz Lawyers"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "The Respondent did not file any written submissions"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "WAD218/2010",
+   "parties": [
+    {
+     "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSSIE CAR LOANS PTY LTD ACN 077 683 820",
+     "role": "Respondent"
+    },
+    {
+     "name": "AUSSIE CAR LOANS PTY LTD ACN 077 683 820",
+     "role": "Cross-Claimant in the First Cross-Claim"
+    },
+    {
+     "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+     "role": "First Cross-Respondent in the First Cross-Claim"
+    },
+    {
+     "name": "SHINING LIGHT PTY LTD ACN 124 689 621",
+     "role": "Second Cross-Respondent in the First Cross-Claim"
+    },
+    {
+     "name": "CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915",
+     "role": "First Cross-Claimant in the Second Cross-Claim"
+    },
+    {
+     "name": "SHINING LIGHT PTY LTD ACN 124 689 621",
+     "role": "Second Cross-Claimant in the Second Cross-Claim"
+    },
+    {
+     "name": "AUSSIE CAR LOANS PTY LTD",
+     "role": "Cross-Respondent in the Second Cross-Claim"
+    }
+   ],
+   "judges": [
+    "BARKER J"
+   ],
+   "date": "2014-09-12",
+   "date_raw": "12 september 2014",
+   "place": "PERTH",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Aussie Car Loans Pty Ltd pay Shining Light Pty Ltd’s costs of and incidental to Aussie Car Loans Pty Ltd’s application for orders requiring Shining Light Pty Ltd to give security.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The costs of Aussie Car Loans Pty Ltd’s application for security otherwise be costs in the cause.",
+     "level": 0
+    }
+   ],
+   "registry": "Western Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 12 March 2014, the Court delivered judgment in respect of Aussie Car Loans’ interlocutory application for security for costs. The Court ordered that the applicant, Capitalcorp, give security for Aussie Car Loans’ future costs in the primary proceeding in the sum of $56,500. See Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Aussie Car Loans had brought its application for security against Capitalcorp in the primary proceeding and against Capitalcorp and Shining Light, as cross-applicants on the second cross-claim. I declined, however, to make an order for security for costs in respect of the second cross-claim."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "On the question of costs, I ordered that Capitalcorp pay Aussie Car Loans’ costs of and incidental to Aussie Car Loans’ interlocutory application, to be taxed if not agreed."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Following representations by Capitalcorp, this order was vacated and I invited the parties to make further written submissions on the question of costs. While Capitalcorp filed an outline of submissions and an affidavit, Aussie Car Loans did not file any materials."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The question is therefore whether Aussie Car Loans is entitled to an order for costs, and if so, on what terms."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Although Aussie Car Loans did not present any further written submissions, its position on the interlocutory application was that Capitalcorp and Shining Light should pay its costs of and incidental to the application."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Capitalcorp and Shining Light submit that the appropriate costs orders are as follows:\n(1) Aussie Car Loans pay Shining Light’s costs of and incidental to Aussie Car Loans’ application for orders requiring Shining Light to give security.\n(2) Aussie Car Loans pay Capitalcorp’s costs of and incidental to Aussie Car Loans’ application for orders requiring Capitalcorp to give security except in so far as they are of an unreasonable amount or have been unreasonably incurred from\n21 November 2013 so that, subject to the above exceptions, Capitalcorp will be completely indemnified by Aussie Car Loans for its costs, such costs to be taxed in default of agreement.\n(3) The costs of Aussie Car Loans’ application for orders requiring Capitalcorp to give security otherwise be costs in the cause."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Capitalcorp and Shining Light contend that where a respondent is successful on a security for costs application, the starting point is that costs should be in the cause, as the application is premised upon an outcome yet to be determined, namely, the applicant’s failure on substantive issues at trial. Relying on Pacific Acceptance Corp Ltd v Forsyth (No 2) [1967] 2 NSWR 402 and Specialised Building Materials Pty Ltd v EU Occusted Pty Ltd (1981) 37 ACTR 8, they say that it is only on rare occasions that costs will follow the outcome of the application."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "As to the second cross-claim, Capitalcorp and Shining Light submit that Aussie Car Loans did not lead any evidence regarding the financial position of Shining Light, effectively abandoned its application in respect of Shining Light at the hearing and its application never had any prospects of success. They note that the Court declined to make an order requiring Shining Light to give security, or an order for security in respect of the second cross-claim generally."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In these circumstances, Capitalcorp contends it is appropriate for Aussie Car Loans to pay Shining Light’s costs in respect of the second cross-claim."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In the primary proceeding, Capitalcorp accepts that it was ordered to give security for Aussie Car Loans’ costs in the amount of $56,500, but submits that this amount was far less than the amount of security sought by Aussie Car Loans, and the Court declined to make an order in respect of prospective costs. On this basis, Capitalcorp argues that Aussie Car Loans’ success on the interlocutory application was “extremely limited”."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Further, Capitalcorp submits that Aussie Car Loans unreasonably failed to accept an offer it made, which would have allowed Aussie Car Loans to achieve an outcome far superior to the outcome it ultimately obtained."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Capitalcorp relies on an offer of compromise its solicitors made by email on 20 November 2013 at 5:10pm WST, as set out in the affidavit of Nina McLaughlin dated 19 March 2014. In this email, Capitalcorp stated that it would consent to an order for security in the primary proceeding in the sum of $120,000. This offer was expressed to be open for acceptance until 12:00 WST the next day. Capitalcorp stated that if Aussie Car Loans did not accept this offer, it would rely upon this communication on the question of costs."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "On 21 November 2013 at 1:08pm WST, Aussie Car Loans’ solicitors indicated that they had now received instructions from their client on this offer and “[t]he amount is too low, however we are happy to discuss a higher figure”. They noted they would be boarding for a flight in fifteen minutes."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In response at 1:16pm WST, Capitalcorp’s solicitors sought confirmation as to a figure Aussie Car Loans would be prepared to accept. Yet, according to Ms McLaughlin, no reply was received from Aussie Car Loans’ solicitors."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In the event, Capitcalcorp submits that Aussie Car Loans achieved an outcome which is less than half of its offer of compromise. By refusing to accept this offer, it says that the parties were required to incur the costs of a contested hearing and the Court’s resources were called upon unnecessarily."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Capitalcorp relies on the principle in Calderbank v Calderbank [1976] Fam 93; [1975] 3 All ER 333 (Calderbank) and submits that Aussie Car Loans should pay its costs of the application on an indemnity basis from the time of refusal of the offer at 1pm WST on\n21 November 2013. As to the costs prior to this point, Capitalcorp contends that costs should be in the cause."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "For the reasons that follow, I accept that Capitalcorp’s proposed costs orders (1) and (3) are appropriate, although would decline to order indemnity costs against Aussie Car Loans."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In my decision of 12 March 2014, I generally accepted the submissions made on behalf of Capitalcorp and did not make an order for security in respect of the second cross-claim."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "As Aussie Car Loans was unsuccessful in its application for security against Shining Light on the second cross-claim, it would seem appropriate to order that costs should follow the event. I would therefore order that Aussie Car Loans pay Shining Light’s costs of and incidental to Aussie Car Loans’ application for security against Shining Light."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "I then turn to the issue of costs in the primary proceeding."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In determining an appropriate costs order, much will turn on the circumstances of each case. An award of costs is ultimately a matter for the Court’s discretion, such discretion to be exercised judicially."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "The question in this case is whether Capitalcorp should be entitled to an order for indemnity costs, on the basis that Aussie Car Loans’s failure to accept the offer was unreasonable."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "The principle in Calderbank is well-understood, namely, that if a party makes an offer which, in the circumstances, is reasonable, and the other party persists with the proceedings and ultimately recovers a lesser amount, the party making the offer should be entitled to recover their costs from the date the offer is rejected on an indemnity basis."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "These costs consequences are consistent with the overarching purpose of civil litigation to facilitate the just resolution of disputes as quickly, inexpensively and efficiently as possible, as expressed in s 37M of the Federal Court of Australia Act 1976 (Cth)."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Rules regarding offers of compromise and the costs consequences of such offers are provided in Pt 25 of the Federal Court Rules 2011 (Cth), although there is no suggestion that Capitalcorp’s offer was made under this regime, as it was not expressed to be open for a period longer than 14 days."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In this case, I am satisfied that Aussie Car Loans obtained an order for security for costs in an amount less favourable than the terms of Capitalcorp’s offer. As it transpired, I ordered that Capitalcorp pay security for costs in the amount of $56,500 in the primary proceeding, an amount lower than Capitalcorp’s offer of $120,000."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "However, the mere fact that a party has refused an offer of compromise and obtained a less favourable outcome is not sufficient to obtain an award of indemnity costs; it must also be shown that the refusal of the offer was unreasonable in the circumstances: MGICA (1992) Pty Ltd v Kenny & Good Pty Ltd (No 2) (1996) 70 FCR 236 at 239."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Once a viable offer is made and not accepted by the offeree, the offeror bears the onus of establishing that the offeree’s rejection or non-acceptance of the offer was unreasonable. The reasonableness of the rejection or non-acceptance will be determined in light of the circumstances at the time the offer was rejected or not accepted: Kiefel v State of Victoria [2014] FCA 411 at [38]."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "I have had regard to the correspondence between Capitalcorp’s solicitors and Aussie Car Loans’ solicitors in which the offer of compromise was made. This reveals that Capitalcorp’s solicitors sought to negotiate with Aussie Car Loans’ solicitors to obtain a consent position and were prepared to negotiate a higher amount of security for costs to resolve the matter. Aussie Car Loans’ solicitors did not engage in any further discussions or indicate an amount their client would be prepared to accept, with the result that the matter continued to an interlocutory hearing on 22 November 2013."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "On its face, Aussie Car Loans’ failure to accept Capitalcorp’s offer might seem unreasonable. However, it is also necessary to consider the timing of Capitalcorp’s offer."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In Specsavers Pty Limited v Luxottica Retail Australia Pty Limited (No 2) [2013] FCA 807 (Specsavers), the Court declined to make an order for indemnity costs, finding that the respondent’s two offers of compromise were not reasonable in the circumstances. The first offer was made in the early afternoon before the hearing and expressed to be open for acceptance until 5:00pm that day, and the second was said to be open for acceptance until 9:00am on the day of the hearing. Griffiths J held that it was not reasonable for the respondent to delay until the day before the hearing to make the offers and neither offer gave the applicant sufficient time to consider whether or not to accept the offer."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Griffiths J set out at [10] of his judgment a non-exhaustive list of circumstances that a Court may take into account in determining whether the rejection of an offer of compromise is unreasonable:\n(1) the stage of the proceeding at which the offer was received;\n(2) the time allowed to the offeree to consider the offer;\n(3) the extent of the compromise offered;\n(4) the offeree’s prospects of success, assessed as at the date of the offer;\n(5) the clarity with which the terms of the offer were expressed; and\n(6) whether the offer foreshadowed an application for indemnity costs in the event of the offeree’s rejection of it."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In this case, Capitalcorp’s offer was not made as close to the hearing as the offers considered by Griffiths J in Specsavers. However, that being said, Capitalcorp’s offer was made late in the day, two days before the hearing, and expressed to be open until 12:00pm on the day before the hearing."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "It can be inferred from the email of Aussie Car Loans’ solicitors on 21 November 2013 at 1:08pm that they had only just obtained instructions from their client, in circumstances where they were preparing for the interlocutory hearing and due to be flying interstate that afternoon. At the time of Capitalcorp’s offer, two days before the interlocutory hearing, it could be expected that Aussie Car Loans’ solicitors would be occupied with a number of matters in preparation for the interlocutory hearing."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "In circumstances where Aussie Car Loans’ solicitors were given limited time to consider the offer, and where the offer was made at a late stage before the interlocutory hearing, I am not satisfied that Aussie Car Loans’ refusal of Capitalcorp’s offer was unreasonable."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "I would observe that in my reasons for judgment in Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203 at [49], I accepted that these proceedings appear to have been rather dragged out by Capitalcorp, that Capitalcorp had simply not gone into evidence on its trading and pecuniosity, and that Capitalcorp’s failure to respond to correspondence in relation to its capacity to meet a costs order raised some serious questions."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "Although I ordered security in the amount of one third of Aussie Car Loans’ estimated future costs, I do not accept that its success on the interlocutory application was “extremely limited”. Aussie Car Loans was ultimately successful, at least in part, on its interlocutory application. Particularly in circumstances where Capitalcorp had not gone into evidence about its ability to pay a costs order, Aussie Car Loans’ failure to accept the offer of compromise was not unreasonable."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?"
+    ],
+    "text": "For these reasons, I would decline to make an order for indemnity costs against Aussie Car Loans. Instead, in circumstances where Aussie Car Loans’ application was made at an interlocutory stage, it would seem appropriate to order that the balance of the costs of Aussie Car Loans’ application be made costs in the cause."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "conclusion and order"
+    ],
+    "text": "The appropriate order would therefore appear to be as follows:\n1. Aussie Car Loans Pty Ltd pay Shining Light Pty Ltd’s costs of and incidental to Aussie Car Loans Pty Ltd’s application for orders requiring Shining Light Pty Ltd to give security.\n2. The costs of Aussie Car Loans Pty Ltd’s application for security otherwise be costs in the cause."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty (40) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Barker.",
+ "associate": null,
+ "dated": "2014-09-12",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd (No 2) [2014] FCA 992\n\n## Cover sheet\n\n**Citation:** Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd (No 2) [2014] FCA 992\n\n**Parties:** CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 v AUSSIE CAR LOANS PTY LTD ACN 077 683 820; AUSSIE CAR LOANS PTY LTD ACN 077 683 820, CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915 and SHINING LIGHT PTY LTD ACN 124 689 621; CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915, SHINING LIGHT PTY LTD and AUSSIE CAR LOANS PTY LTD\n\n**File number:** WAD 218 of 2010\n\n**Judge:** BARKER J\n\n**Date of judgment:** 12 September 2014\n\n**Catchwords:** COSTS – application for security for costs granted in primary proceeding – appropriate costs order to be made – “Calderbank” offer – whether indemnity costs should be awarded\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) s 37M  \nFederal Court Rules 2011 (Cth) Pt 25\n\n**Cases cited:** Calderbank v Calderbank [1976] Fam 93; [1975] 3 All ER 333  \nCapitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203  \nKiefel v State of Victoria [2014] FCA 411  \nMGICA (1992) Pty Ltd v Kenny & Good Pty Ltd (No 2) (1996) 70 FCR 236  \nPacific Acceptance Corp Ltd v Forsyth (No 2) [1967] 2 NSWR 402  \nSpecialised Building Materials Pty Ltd v EU Occusted Pty Ltd (1981) 37 ACTR 8  \nSpecsavers Pty Limited v Luxottica Retail Australia Pty Limited (No 2) [2013] FCA 807\n\n**Date of hearing:** Determined on the papers\n\n**Date of last submissions:** 19 March 2014\n\n**Place:** Perth\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 40\n\n**Counsel for the Applicant:** Mr S Crabb\n\n**Solicitor for the Applicant:** Clayton Utz Lawyers\n\n**Counsel for the Respondent:** The Respondent did not file any written submissions\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| western australia district registry |  |\n| GENERAL DIVISION | WAD 218 of 2010 |\n\n| BETWEEN: | CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>Applicant |\n|---|---|\n| AND: | AUSSIE CAR LOANS PTY LTD ACN 077 683 820<br>Respondent<br>AUSSIE CAR LOANS PTY LTD ACN 077 683 820<br>Cross-Claimant in the First Cross-Claim<br>CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>First Cross-Respondent in the First Cross-Claim<br>SHINING LIGHT PTY LTD ACN 124 689 621<br>Second Cross-Respondent in the First Cross-Claim<br>CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>First Cross-Claimant in the Second Cross-Claim<br>SHINING LIGHT PTY LTD ACN 124 689 621<br>Second Cross-Claimant in the Second Cross-Claim<br>AUSSIE CAR LOANS PTY LTD<br>Cross-Respondent in the Second Cross-Claim |\n\n| JUDGE: | BARKER J |\n|---|---|\n| DATE OF ORDER: | 12 september 2014 |\n| WHERE MADE: | PERTH |\n\n### THE COURT ORDERS THAT:\n\n1. Aussie Car Loans Pty Ltd pay Shining Light Pty Ltd’s costs of and incidental to Aussie Car Loans Pty Ltd’s application for orders requiring Shining Light Pty Ltd to give security.\n\n2. The costs of Aussie Car Loans Pty Ltd’s application for security otherwise be costs in the cause.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| WESTERN AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | WAD 218 of 2010 |\n\n| BETWEEN: | CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>Applicant |\n|---|---|\n| AND: | AUSSIE CAR LOANS PTY LTD ACN 077 683 820<br>Respondent<br>AUSSIE CAR LOANS PTY LTD ACN 077 683 820<br>Cross-Claimant in the First Cross-Claim<br>CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>First Cross-Respondent in the First Cross-Claim<br>SHINING LIGHT PTY LTD ACN 124 689 621<br>Second Cross-Respondent in the First Cross-Claim<br>CAPITALCORP FINANCE & LEASING PTY LTD ACN 010 110 915<br>First Cross-Claimant in the Second Cross-Claim<br>SHINING LIGHT PTY LTD ACN 124 689 621<br>Second Cross-Claimant in the Second Cross-Claim<br>AUSSIE CAR LOANS PTY LTD<br>Cross-Respondent in the Second Cross-Claim |\n\n| JUDGE: | BARKER J |\n|---|---|\n| DATE: | 12 september 2014 |\n| PLACE: | PERTH |\n\n### REASONS FOR JUDGMENT\n\n[1] On 12 March 2014, the Court delivered judgment in respect of Aussie Car Loans’ interlocutory application for security for costs. The Court ordered that the applicant, Capitalcorp, give security for Aussie Car Loans’ future costs in the primary proceeding in the sum of $56,500. See Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203.\n\n[2] Aussie Car Loans had brought its application for security against Capitalcorp in the primary proceeding and against Capitalcorp and Shining Light, as cross-applicants on the second cross-claim. I declined, however, to make an order for security for costs in respect of the second cross-claim.\n\n[3] On the question of costs, I ordered that Capitalcorp pay Aussie Car Loans’ costs of and incidental to Aussie Car Loans’ interlocutory application, to be taxed if not agreed.\n\n[4] Following representations by Capitalcorp, this order was vacated and I invited the parties to make further written submissions on the question of costs. While Capitalcorp filed an outline of submissions and an affidavit, Aussie Car Loans did not file any materials.\n\n[5] The question is therefore whether Aussie Car Loans is entitled to an order for costs, and if so, on what terms.\n\n### IS AUSSIE CAR LOANS ENTITLED TO AN ORDER FOR COSTS?\n\n[6] Although Aussie Car Loans did not present any further written submissions, its position on the interlocutory application was that Capitalcorp and Shining Light should pay its costs of and incidental to the application.\n\n[7] Capitalcorp and Shining Light submit that the appropriate costs orders are as follows:\n\n(1) Aussie Car Loans pay Shining Light’s costs of and incidental to Aussie Car Loans’ application for orders requiring Shining Light to give security.\n\n(2) Aussie Car Loans pay Capitalcorp’s costs of and incidental to Aussie Car Loans’ application for orders requiring Capitalcorp to give security except in so far as they are of an unreasonable amount or have been unreasonably incurred from\n21 November 2013 so that, subject to the above exceptions, Capitalcorp will be completely indemnified by Aussie Car Loans for its costs, such costs to be taxed in default of agreement.\n\n(3) The costs of Aussie Car Loans’ application for orders requiring Capitalcorp to give security otherwise be costs in the cause.\n\n[8] Capitalcorp and Shining Light contend that where a respondent is successful on a security for costs application, the starting point is that costs should be in the cause, as the application is premised upon an outcome yet to be determined, namely, the applicant’s failure on substantive issues at trial. Relying on Pacific Acceptance Corp Ltd v Forsyth (No 2) [1967] 2 NSWR 402 and Specialised Building Materials Pty Ltd v EU Occusted Pty Ltd (1981) 37 ACTR 8, they say that it is only on rare occasions that costs will follow the outcome of the application.\n\n[9] As to the second cross-claim, Capitalcorp and Shining Light submit that Aussie Car Loans did not lead any evidence regarding the financial position of Shining Light, effectively abandoned its application in respect of Shining Light at the hearing and its application never had any prospects of success. They note that the Court declined to make an order requiring Shining Light to give security, or an order for security in respect of the second cross-claim generally.\n\n[10] In these circumstances, Capitalcorp contends it is appropriate for Aussie Car Loans to pay Shining Light’s costs in respect of the second cross-claim.\n\n[11] In the primary proceeding, Capitalcorp accepts that it was ordered to give security for Aussie Car Loans’ costs in the amount of $56,500, but submits that this amount was far less than the amount of security sought by Aussie Car Loans, and the Court declined to make an order in respect of prospective costs. On this basis, Capitalcorp argues that Aussie Car Loans’ success on the interlocutory application was “extremely limited”.\n\n[12] Further, Capitalcorp submits that Aussie Car Loans unreasonably failed to accept an offer it made, which would have allowed Aussie Car Loans to achieve an outcome far superior to the outcome it ultimately obtained.\n\n[13] Capitalcorp relies on an offer of compromise its solicitors made by email on 20 November 2013 at 5:10pm WST, as set out in the affidavit of Nina McLaughlin dated 19 March 2014. In this email, Capitalcorp stated that it would consent to an order for security in the primary proceeding in the sum of $120,000. This offer was expressed to be open for acceptance until 12:00 WST the next day. Capitalcorp stated that if Aussie Car Loans did not accept this offer, it would rely upon this communication on the question of costs.\n\n[14] On 21 November 2013 at 1:08pm WST, Aussie Car Loans’ solicitors indicated that they had now received instructions from their client on this offer and “[t]he amount is too low, however we are happy to discuss a higher figure”. They noted they would be boarding for a flight in fifteen minutes.\n\n[15] In response at 1:16pm WST, Capitalcorp’s solicitors sought confirmation as to a figure Aussie Car Loans would be prepared to accept. Yet, according to Ms McLaughlin, no reply was received from Aussie Car Loans’ solicitors.\n\n[16] In the event, Capitcalcorp submits that Aussie Car Loans achieved an outcome which is less than half of its offer of compromise. By refusing to accept this offer, it says that the parties were required to incur the costs of a contested hearing and the Court’s resources were called upon unnecessarily.\n\n[17] Capitalcorp relies on the principle in Calderbank v Calderbank [1976] Fam 93; [1975] 3 All ER 333 (Calderbank) and submits that Aussie Car Loans should pay its costs of the application on an indemnity basis from the time of refusal of the offer at 1pm WST on\n21 November 2013. As to the costs prior to this point, Capitalcorp contends that costs should be in the cause.\n\n[18] For the reasons that follow, I accept that Capitalcorp’s proposed costs orders (1) and (3) are appropriate, although would decline to order indemnity costs against Aussie Car Loans.\n\n[19] In my decision of 12 March 2014, I generally accepted the submissions made on behalf of Capitalcorp and did not make an order for security in respect of the second cross-claim.\n\n[20] As Aussie Car Loans was unsuccessful in its application for security against Shining Light on the second cross-claim, it would seem appropriate to order that costs should follow the event. I would therefore order that Aussie Car Loans pay Shining Light’s costs of and incidental to Aussie Car Loans’ application for security against Shining Light.\n\n[21] I then turn to the issue of costs in the primary proceeding.\n\n[22] In determining an appropriate costs order, much will turn on the circumstances of each case. An award of costs is ultimately a matter for the Court’s discretion, such discretion to be exercised judicially.\n\n[23] The question in this case is whether Capitalcorp should be entitled to an order for indemnity costs, on the basis that Aussie Car Loans’s failure to accept the offer was unreasonable.\n\n[24] The principle in Calderbank is well-understood, namely, that if a party makes an offer which, in the circumstances, is reasonable, and the other party persists with the proceedings and ultimately recovers a lesser amount, the party making the offer should be entitled to recover their costs from the date the offer is rejected on an indemnity basis.\n\n[25] These costs consequences are consistent with the overarching purpose of civil litigation to facilitate the just resolution of disputes as quickly, inexpensively and efficiently as possible, as expressed in s 37M of the Federal Court of Australia Act 1976 (Cth).\n\n[26] Rules regarding offers of compromise and the costs consequences of such offers are provided in Pt 25 of the Federal Court Rules 2011 (Cth), although there is no suggestion that Capitalcorp’s offer was made under this regime, as it was not expressed to be open for a period longer than 14 days.\n\n[27] In this case, I am satisfied that Aussie Car Loans obtained an order for security for costs in an amount less favourable than the terms of Capitalcorp’s offer. As it transpired, I ordered that Capitalcorp pay security for costs in the amount of $56,500 in the primary proceeding, an amount lower than Capitalcorp’s offer of $120,000.\n\n[28] However, the mere fact that a party has refused an offer of compromise and obtained a less favourable outcome is not sufficient to obtain an award of indemnity costs; it must also be shown that the refusal of the offer was unreasonable in the circumstances: MGICA (1992) Pty Ltd v Kenny & Good Pty Ltd (No 2) (1996) 70 FCR 236 at 239.\n\n[29] Once a viable offer is made and not accepted by the offeree, the offeror bears the onus of establishing that the offeree’s rejection or non-acceptance of the offer was unreasonable. The reasonableness of the rejection or non-acceptance will be determined in light of the circumstances at the time the offer was rejected or not accepted: Kiefel v State of Victoria [2014] FCA 411 at [38].\n\n[30] I have had regard to the correspondence between Capitalcorp’s solicitors and Aussie Car Loans’ solicitors in which the offer of compromise was made. This reveals that Capitalcorp’s solicitors sought to negotiate with Aussie Car Loans’ solicitors to obtain a consent position and were prepared to negotiate a higher amount of security for costs to resolve the matter. Aussie Car Loans’ solicitors did not engage in any further discussions or indicate an amount their client would be prepared to accept, with the result that the matter continued to an interlocutory hearing on 22 November 2013.\n\n[31] On its face, Aussie Car Loans’ failure to accept Capitalcorp’s offer might seem unreasonable. However, it is also necessary to consider the timing of Capitalcorp’s offer.\n\n[32] In Specsavers Pty Limited v Luxottica Retail Australia Pty Limited (No 2) [2013] FCA 807 (Specsavers), the Court declined to make an order for indemnity costs, finding that the respondent’s two offers of compromise were not reasonable in the circumstances. The first offer was made in the early afternoon before the hearing and expressed to be open for acceptance until 5:00pm that day, and the second was said to be open for acceptance until 9:00am on the day of the hearing. Griffiths J held that it was not reasonable for the respondent to delay until the day before the hearing to make the offers and neither offer gave the applicant sufficient time to consider whether or not to accept the offer.\n\n[33] Griffiths J set out at [10] of his judgment a non-exhaustive list of circumstances that a Court may take into account in determining whether the rejection of an offer of compromise is unreasonable:\n\n(1) the stage of the proceeding at which the offer was received;\n\n(2) the time allowed to the offeree to consider the offer;\n\n(3) the extent of the compromise offered;\n\n(4) the offeree’s prospects of success, assessed as at the date of the offer;\n\n(5) the clarity with which the terms of the offer were expressed; and\n\n(6) whether the offer foreshadowed an application for indemnity costs in the event of the offeree’s rejection of it.\n\n[34] In this case, Capitalcorp’s offer was not made as close to the hearing as the offers considered by Griffiths J in Specsavers. However, that being said, Capitalcorp’s offer was made late in the day, two days before the hearing, and expressed to be open until 12:00pm on the day before the hearing.\n\n[35] It can be inferred from the email of Aussie Car Loans’ solicitors on 21 November 2013 at 1:08pm that they had only just obtained instructions from their client, in circumstances where they were preparing for the interlocutory hearing and due to be flying interstate that afternoon. At the time of Capitalcorp’s offer, two days before the interlocutory hearing, it could be expected that Aussie Car Loans’ solicitors would be occupied with a number of matters in preparation for the interlocutory hearing.\n\n[36] In circumstances where Aussie Car Loans’ solicitors were given limited time to consider the offer, and where the offer was made at a late stage before the interlocutory hearing, I am not satisfied that Aussie Car Loans’ refusal of Capitalcorp’s offer was unreasonable.\n\n[37] I would observe that in my reasons for judgment in Capitalcorp Finance & Leasing Pty Ltd v Aussie Car Loans Pty Ltd [2014] FCA 203 at [49], I accepted that these proceedings appear to have been rather dragged out by Capitalcorp, that Capitalcorp had simply not gone into evidence on its trading and pecuniosity, and that Capitalcorp’s failure to respond to correspondence in relation to its capacity to meet a costs order raised some serious questions.\n\n[38] Although I ordered security in the amount of one third of Aussie Car Loans’ estimated future costs, I do not accept that its success on the interlocutory application was “extremely limited”. Aussie Car Loans was ultimately successful, at least in part, on its interlocutory application. Particularly in circumstances where Capitalcorp had not gone into evidence about its ability to pay a costs order, Aussie Car Loans’ failure to accept the offer of compromise was not unreasonable.\n\n[39] For these reasons, I would decline to make an order for indemnity costs against Aussie Car Loans. Instead, in circumstances where Aussie Car Loans’ application was made at an interlocutory stage, it would seem appropriate to order that the balance of the costs of Aussie Car Loans’ application be made costs in the cause.\n\n### conclusion and order\n\n[40] The appropriate order would therefore appear to be as follows:\n\n1. Aussie Car Loans Pty Ltd pay Shining Light Pty Ltd’s costs of and incidental to Aussie Car Loans Pty Ltd’s application for orders requiring Shining Light Pty Ltd to give security.\n\n2. The costs of Aussie Car Loans Pty Ltd’s application for security otherwise be costs in the cause.\n\nI certify that the preceding forty (40) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Barker.\n\nAssociate:\n\nDated: 12 September 2014\n",
+ "source_sha256": "b46d73768114d9e81d693e634e1b0cc3abcf9e5e1f4c0a3077827a117d57c272"
+}

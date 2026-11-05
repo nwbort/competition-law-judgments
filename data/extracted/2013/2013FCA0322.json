@@ -1,0 +1,935 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA0322.docx",
+ "metadata": {
+  "citation": "[2013] FCA 322",
+  "name": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 10)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 322,
+  "date_of_judgment": "2013-04-11",
+  "file_numbers": [
+   "NSD534/2010",
+   "NSD955/2009"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-03-19"
+  ],
+  "hearing_raw": "19 March 2013",
+  "number_of_paragraphs": 87,
+  "catchwords": [
+   "EVIDENCE – Re-examination – Proper scope of re-examination – Whether evidence not given in examination in chief can properly arise in re-examination – Particular facts of the representation made",
+   "EVIDENCE – Exception to hearsay rule – Where maker of representation overseas – Whether reasonable efforts to secure witness had been made – Whether notice requirements in s 192(2) of the Evidence Act 1995 (Cth) complied with",
+   "EVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when hearsay adduced in re-examination – Whether such evidence should be the subject of a direction under s 135 or s 136 of the Evidence Act 1995 (Cth)",
+   "EVIDENCE – Witnesses – Unfavourable witness – Evidence Act 1995 (Cth) s 38 – Whether a party should call a witness to disprove an unfavourable statement adduced by hearsay",
+   "EVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when maker of the representation is not available for cross-examination"
+  ],
+  "legislation": [
+   "Evidence Act 1995 (Cth) ss 38, 60, 63, 67, 69, 135, 136, 192, Sch 1",
+   "Foreign Evidence Act 1994 (Cth)",
+   "Evidence Regulations 1995 (Cth) reg 5",
+   "Federal Court Rules 2011 (Cth) r 30.29"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Air New Zealand Limited (ARBN 000 312 685) (No 7) [2013] FCA 83 considered",
+   "Arhill Pty Ltd v General Terminal Co Pty Ltd (1990) 23 NSWLR 545 cited",
+   "Bakerland Pty Ltd v Colridge [2002] NSWCA 30 cited",
+   "Caswell v Sony/ATV Music Publishing (Australia) Pty Ltd [2012] NSWSC 986 cited",
+   "Papakosmas v The Queen (1999) 196 CLR 297 cited",
+   "Seven Network Ltd and Another v News Ltd and Others (2005) 224 ALR 317 cited",
+   "Tim Barr Pty Ltd and Another v Narui Gold Coast Pty Ltd (2009) 258 ALR 598 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   },
+   {
+    "name": "P. T. GARUDA INDONESIA (ARBN 000 861 165)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "E Collins SC, J Clarke"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "Air New Zealand",
+    "name": "R Smith SC, N Owens"
+   },
+   {
+    "role": "solicitor",
+    "for": "Air New Zealand",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "Garuda",
+    "name": "T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "Garuda",
+    "name": "Norton White"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0322",
+  "portal_file_numbers": [
+   "NSD534/2010"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-04-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 534 of 2010"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 955 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 April 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "EVIDENCE – Re-examination – Proper scope of re-examination – Whether evidence not given in examination in chief can properly arise in re-examination – Particular facts of the representation made\nEVIDENCE – Exception to hearsay rule – Where maker of representation overseas – Whether reasonable efforts to secure witness had been made – Whether notice requirements in s 192(2) of the Evidence Act 1995 (Cth) complied with\nEVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when hearsay adduced in re-examination – Whether such evidence should be the subject of a direction under s 135 or s 136 of the Evidence Act 1995 (Cth)\nEVIDENCE – Witnesses – Unfavourable witness – Evidence Act 1995 (Cth) s 38 – Whether a party should call a witness to disprove an unfavourable statement adduced by hearsay\nEVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when maker of the representation is not available for cross-examination"
+  },
+  {
+   "label": "Legislation",
+   "value": "Evidence Act 1995 (Cth) ss 38, 60, 63, 67, 69, 135, 136, 192, Sch 1\nForeign Evidence Act 1994 (Cth)\nEvidence Regulations 1995 (Cth) reg 5\nFederal Court Rules 2011 (Cth) r 30.29"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (ARBN 000 312 685) (No 7) [2013] FCA 83 considered\nArhill Pty Ltd v General Terminal Co Pty Ltd (1990) 23 NSWLR 545 cited\nBakerland Pty Ltd v Colridge [2002] NSWCA 30 cited\nCaswell v Sony/ATV Music Publishing (Australia) Pty Ltd [2012] NSWSC 986 cited\nPapakosmas v The Queen (1999) 196 CLR 297 cited\nSeven Network Ltd and Another v News Ltd and Others (2005) 224 ALR 317 cited\nTim Barr Pty Ltd and Another v Narui Gold Coast Pty Ltd (2009) 258 ALR 598 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "19 March 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "87"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "E Collins SC, J Clarke"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for Air New Zealand",
+   "value": "R Smith SC, N Owens"
+  },
+  {
+   "label": "Solicitor for Air New Zealand",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for Garuda",
+   "value": "T Brennan"
+  },
+  {
+   "label": "Solicitor for Garuda",
+   "value": "Norton White"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD534/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-04-11",
+   "date_raw": "11 APRIL 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Mr Smith’s question of Ms Christine Liu in re-examination and the whole of the answer commencing at page 2712 line 25 in the transcript of these proceedings form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The affidavit of Mr Mohammed Nazim Bin Ros sworn 24 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 2.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The affidavit of Mr Tan Chung Kee Clinton sworn 28 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 4.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The evidence given by Ms Christine Liu at page 2712 line 25 in the transcript of these proceedings be limited to prove that the third party representations were made, not the truth of the statements.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The evidence given my Ms Liu at page 2672 line 6 in the transcript of these proceedings be limited to prove that the third party representation was made by Mr Carsten, not the truth of the statement.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "NSD955/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "P. T. GARUDA INDONESIA (ARBN 000 861 165)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-04-11",
+   "date_raw": "11 April 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Mr Smith’s question of Ms Liu in re-examination and the whole of the answer commencing at page 2712 line 25 in the transcript of these proceedings form part of the evidence.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The affidavit of Mr Mohammed Nazim Bin Ros sworn 24 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 2.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The affidavit of Mr Tan Chung Kee Clinton sworn 28 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 4.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The evidence given by Ms Liu at page 2712 line 25 in the transcript of these proceedings be limited to prove that the third party representations were made, not the truth of the statements.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The evidence given my Ms Liu at page 2672 line 6 in the transcript of these proceedings be limited to prove that the third party representation was made by Mr Carsten, not the truth of the statement.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "These reasons deal with:\n(a) whether the question at page 2712 line 25 of the transcript (‘trans 2712.25’) was properly an aspect of re-examination and whether the answer given to it by Ms Christine Liu at trans 2712.25 was responsive;\n(b) whether the affidavits of Mr Mohammed Nazim Bin Ros (‘Mr Ros’) and Mr Tan Chung Kee Clinton (‘Mr Tan’) are admissible notwithstanding that they are not to be called to give evidence; and\n(c) the extent to which directions under s 135 and/or s 136 of the Evidence Act 1995 (Cth) (‘the Act’) should be made excluding, or restricting the use of, the evidence in (a) or (b) or some other evidence given by Ms Liu under cross-examination of a statement made by a Mr Carsten Hernig."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "My conclusions are that Mr Smith’s question was properly in re-examination; that Ms Liu’s answer to it was responsive; that the affidavits of Messrs Ros and Tan are admissible; that neither Ms Liu’s oral testimony about what Mr Hernig said nor her answer at trans 2712.25 should be permitted to be used for a hearsay purpose: and, that no order excluding the affidavits of Mr Ros or Mr Tan should be made."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "In her affidavit of 26 October 2012 Ms Liu gave evidence that in September 2005 she had a discussion with a Ms Amy Poon of the Hong Kong Civil Aviation Department (‘HK CAD’) in which Ms Poon told her that the HK CAD had granted approval to the members of the Board of Airlines Representatives Cargo Sub-Committee (‘BAR-CSC’) to apply a surcharge based on the approved mechanism referred to in its ‘application letter’; that any deviation from that was not allowed; and, that none of the airlines that were part of the application should charge anything other than that dictated by the approval."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "An email was sent by Ms Liu to her superior, a Mr Ron Mathison, on 13 October 2005. In this email, Ms Liu sought guidance on the question of whether Cathay Pacific (‘Cathay’) should increase its surcharge in Hong Kong in light of a movement in the Lufthansa index. One of the matters which concerned her was the fact that some carriers had not introduced an increase in the surcharge in Europe notwithstanding the move which had occurred in the index. In relation to what should happen in Hong Kong Ms Liu suggested to Mr Mathison as follows:\nOur suggestion is to take the same practice as last time and to increase fsc to level 12 locally in HK. We will also lobby with other carriers and get their buy in to increase at the same time.\nHowever, if any carrier refused to increase FSC in HK we would be at risk of being complained by Shippers Council…"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Mr Mathison responded by email on the same day instructing Ms Liu to ‘follow the Index and move to level 12.pls lobby the other airlines to follow suit.’"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "The following day Ms Liu wrote to Ms Poon informing her that the surcharge would be increased on and from 28 October 2005."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "In relation to this letter Ms Liu initially agreed with the cross-examiner that she had been able to write it because she had indeed lobbied the airlines to follow suit. She then said her answer had been incorrect."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Subsequently she was challenged to the effect that if she had actually had the concern she expressed in her email to Mr Mathison then she would have referred in that email to her discussion with Ms Poon. The underlying theory of the question, as I understand it, was the conceptual inconsistency between Ms Poon’s view that no choice was available to airlines as to whether to implement a surcharge (or not) and the concept of lobbying other airlines to implement a surcharge. To put it another way, in a domain which included Ms Poon’s notion of surcharge compulsion there could be no room for Ms Liu’s process of lobbying."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "At trans 2589.18 the following exchange then occurred:\nMR CLARKE: Ms Liu, my question was, what I am suggesting is that if you had this concern - as demonstrated in this email - but you had been told by the CAD that they have to charge the amount that is approved, you would have said so in this email; correct?---That happened in mid September. This is the second incident. So I don't have to repeat myself. Ron knows about it already. There wouldn't - Ms Liu, you are accepting that what you say Ms Poon, from the CAD, said to you about \"required to levy the amount approved\" was something said to you prior to this email?---Yes.\nAnd what I want to say to you - what I am suggesting to you - is that if that had been said, that's a matter which you would have recorded in this email?---Why?"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "The reference to ‘Ron’ is a reference to Mr Mathison. At an earlier juncture in the cross-examination the witness had attempted to proffer an explanation on this issue:\nMR CLARKE: And the direction given back to you in response from Mr Mathison is that you should lobby the other airlines to follow suit; do you see that? --- Yes.\nIs that what you did? --- Yes, and - - -\nAnd the basis upon which you were able to write the letter the following day was that you had lobbied the airlines to follow suit; correct; correct? --- Yes. I was incorrect in that statement, because I thought it’s a normal letter, but this is a very special incident where I have to call the airlines. So if you want me to explain - - -\nSo your previous answer with respect to the letter to the CAD of 14 October was incorrect? --- Yes. For that particular letter.\nYou made a mistake?--- Yes. I didn’t’ realise it was this particular incident where I wrote that letter."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Mr Clarke did not question Ms Liu about the special incident or obtain from her an account of the explanation she had offered."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Mr Smith, for Air New Zealand, then re-examined Ms Liu. He posed for her consideration the second of the two passages set out above and then asked this question: ‘Can you tell us why this was a very special incident?’"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Mr Clarke immediately objected that the question did not arise from the cross-examination but the question was allowed. The question was then reformulated and, in its final form, was thus: ‘Can you tell us, Ms Liu, why this incident was special?’"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Ms Liu then gave this answer at trans 2712.25:\nNormally, when we - when the trigger level was - how should I say? When a new trigger level is being triggered, all we have to do is to inform CAD that in two weeks time, we will be changing the fuel surcharges to a new level - either decrease or increase - and we do not get other airlines involved. The only involvement for other airlines would be we copied the letter to the CAD, which - where we informed them that in two weeks time the fuel surcharge would be changed, by copy to them, so that they know that in two weeks time they would have to charge a new fuel surcharge in the market as well. This incident is very special, as well as the one that happened in mid September, was that in other parts of the world, particularly in Europe, Lufthansa at least, I know – I don’t know, I’m not sure about other carriers, but at least Lufthansa – has decided not to follow their own index, because they feel that – I think in mid September there was a case of Katrina, the what’s it called? Typhoon – not typhoon - - -"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Mr Smith then suggested that the word Ms Liu was searching for was ‘hurricane’ after which she carried on:\nYes, hurricane, in the US, where suddenly the oil price shoot up, and it was shooting up really quite drastically in a very short period of time. And because of that incident, the oil price shoot up and the trigger levels was being triggered very quickly, and Lufthansa in Europe has decided not to follow the index, but to remain the fuel surcharge as it was for a period of time. We actually got asked by other airlines whether we should do so. So there are questions raised by the airlines themselves, whether we can - we should follow suit in Hong Kong, because we have been using the Lufthansa index as well. In that particular instance, I actually checked. First, I checked internally with my colleagues, because I was quite new then. I joined in July and this happened in September/October. So I actually first checked with my colleagues and see whether they do know the answer. And there are colleagues who worked in the department for quite some time and who was the BAR secretary, so he knows this stuff inside out from the BAR point of view, and he told me that, actually, this was not the first incident either. It happened before, but before I joined, that actually Lufthansa or other carriers have this - has the same concern, because other parts of the world had not been following the Lufthansa index. And they said that, actually, they clarified with CAD before, that because the fuel surcharge - although we are adopting the Lufthansa index model, but is an application individually sent to CAD, and that application is in black and white, and CAD approved that particular table that we submitted, and in that case, CAD is expecting us to follow exactly what we have submitted, which is a trigger level and a price - and a charge with the exact amount. No more, no less. So that has happened before, and they have clarified it before. But this time, just to play safe, I also gave Amy a call to reconfirm my understanding. I told her, \"This is my understanding from my colleagues. Could you reconfirm that this is the case?\" And she said, \"Yes\". So I made a few phone calls ---"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "At this point Mr Clarke objected to the answer and I deferred to now the question of whether it could go in. The quotation above does not capture adequately a sense of the length of the answer which went for a few minutes."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "Two issues arise. The first is whether the question was a legitimate exercise in re-examination. The second is whether Ms Liu’s answer was responsive either in whole or in part."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "As to the first issue, Mr Smith submitted that he was entitled to elicit matters in re-examination which, although not elicited in chief, supported the witness’s account where that account had been challenged in cross-examination. He drew particular attention to Ms Liu’s offer to provide an explanation of why the statement allegedly made by Ms Poon did not appear in the email."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "In my opinion, the question asked by Mr Smith was a proper question. Ms Liu was being challenged on why something was absent from the email and it was legitimate for Mr Smith to give her the opportunity to explain that absence which was being put against the plausibility of her account."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "As to the second issue, Mr Clarke submitted that the question posed concerned why one incident was special and Ms Liu’s answer had ranged well beyond that into, at least, an explanation of a second allegedly special incident. Further, so he submitted, the answer given contained quite a lot of hearsay which, had it been elicited in chief, would have been limited in its use to establishing Ms Liu’s understanding rather than as evidence of the truth of the reported statements."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "To this Mr Smith rejoined that the substance of the answer did go to the issue of why Ms Liu had not mentioned any discussion with Ms Poon in her email to Mr Mathison. As to the issue of hearsay, he submitted that Mr Clarke had opened the topic of what was said to Ms Liu by his line of cross-examination."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "It is true that Ms Liu was asked about only one special incident and that this was not an express invitation to discourse on other incidents. But this does not entail that the answer was not responsive."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "The basic points in Ms Liu’s answer were as follows:\n• in an ordinary case, she did not contact the other airlines (beyond sending them a reporting letter) but dealt only with the HK CAD to inform it about an increase or decrease in the levy;\n• the occurrence of Hurricane Katrina in September/October had caused a sharp spike in oil prices which caused the trigger points on the Lufthansa index to be reached rapidly;\n• Lufthansa in Europe had decided not to follow its own index;\n• the question arose therefore whether the other carriers in Hong Kong should follow suit;\n• Ms Liu first checked with her own colleagues as to whether they knew what to do;\n• she was informed that prior discussions with the HK CAD had involved her colleagues at Cathay being told that the airlines would be expected to follow the methodology which had been approved, ‘no more, no less’;\n• to play safe, she had spoken with Ms Poon who had confirmed that this was indeed so; and\n• she then made some telephone calls."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "I have no doubt that the first four bullet points were directly responsive to the question which had been asked which was why the incident was special. Viewed in isolation, however, it is not difficult to see the second four bullet points as being non-responsive: the actual question was why a particular incident was special; the second four bullet points relate not to the specialty of an incident but instead to the steps which were then taken in the aftermath of the incident. It is a mistake, however, to view the question in isolation. Both the cross-examination of Ms Liu and this re-examination were directed at the same ultimate goal which was the ascertainment of the reasons why the discussion with Ms Poon did not appear in Ms Liu’s email to Mr Mathison. The challenge to Ms Liu in cross-examination was that she would have mentioned the discussion in the email if it had occurred. Her response was that she did not include it in the email because the situation had arisen in the context of a special incident. But the speciality of the incident was itself only an intermediate explanation of why the discussion had not appeared in the email. The balance of that explanation appears in the second of the four bullet points. Effectively it was that the substance of the discussions on the ‘no more, no less’ topic had occurred between other people at earlier times and that her conversation with Ms Poon had, in those circumstances, been merely confirmatory and, inferentially, insufficiently important to include in the email. When the matter is viewed in that more global fashion, it seems to me that the answer is, indeed, responsive although it may be accepted that this is not apparently so at first inspection, particularly given its length."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "I conclude therefore that Ms Liu’s answer to Mr Smith’s question was both responsive and legitimately to be seen as evidence in re-examination."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "(a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it"
+    ],
+    "text": "I deal below at [57] ff with the question of whether there should be a s 135 or a s 136 direction in relation to the answer."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Mr Ros lives in Singapore and is the Assistant Manager, Industry Affairs for Singapore Airlines Cargo Pte Ltd. Mr Tan also lives in Singapore and works in a senior position in a company owned by Singapore Airlines. During the times relevant to this litigation, he was the Deputy General Manager for Hong Kong and Macau and at a later time held a similar position in Singapore. At an earlier time in this litigation, the Commission was pursuing Singapore Airlines and it was that airline which filed the affidavits of Mr Ros and Mr Tan in anticipation of its defence. Subsequently, Singapore Airlines and the Commission have settled their proceedings meaning that Singapore Airlines will no longer be calling Messrs Ros and Tan as witnesses."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "In response to that situation, Air New Zealand now seeks to tender the two affidavits. The Commission has objected on the basis that both were being used for hearsay purposes (as they certainly are). Mr Owens, who appeared on this limb of the debate for Air New Zealand, then led evidence which indicated that neither Mr Ros nor Mr Tan is inclined to come to Australia to be cross-examined. Having done so, he invoked the exception to the hearsay rule contained in s 63 of the Act:\nException: civil proceedings if maker not available\n(1) This section applies in a civil proceeding if a person who made a previous representation is not available to give evidence about an asserted fact.\n(2) The hearsay rule does not apply to:\n(a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made; or\n(b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.\nNote 1: Section 67 imposes notice requirements relating to this subsection.\nNote 2: Clause 4 of Part 2 of the Dictionary is about the availability of persons."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "The concept of a person not available to give evidence is regulated by cl 4 Pt 2 of the Dictionary to the Act which by subclauses (e) and (f) deem a person not to be available if:\n(e) all reasonable steps have been taken, by the party seeking to prove the person is not available, to find the person or to secure his or her attendance, but without success; or\n(f) all reasonable steps have been taken, by the party seeking to prove the person is not available, to compel the person to give the evidence, but without success."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "The first debate between the parties was whether Air New Zealand had taken all such reasonable steps."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "For the Commission, Ms Collins submitted that it had not. The steps which were taken are known. The two affidavits in question were served by Singapore Airlines on 1 June 2012 in the months leading up the trial. The trial itself started on 6 November 2012 at which time Singapore Airlines remained a party. On 8 November 2012, however, Singapore Airlines and the Commission announced that an accommodation between them had been reached and Singapore Airlines was thereafter excused from further attendance."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "The resolution of the Singapore Airlines proceedings naturally posed a quandary for the remaining airlines as to what to do about the testimony of the witnesses who Singapore Airlines had intended to call. On 13 November 2012, Air New Zealand’s solicitors wrote to the Commission’s solicitors indicating an expectation – ultimately disappointed – that the Commission might call Messrs Ros and Tan and its intention, in default on the Commission’s part, to call them itself if necessary. Against the possibility of an eventual inability on Air New Zealand’s part to compel their attendance, the solicitors foreshadowed invoking s 63 of the Act. On the same day, the question of s 63 and its relation to these witnesses was raised in open court. At that time Mr Smith, for Air New Zealand, indicated that the Commission should proceed on the basis, for the purposes of s 63, that Air New Zealand would rely on each and every part of the two affidavits."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Around two weeks later, on 26 November 2012, the Commission’s solicitors wrote to Air New Zealand’s indicating that it would not be calling any of Singapore Airlines’ witnesses and noting the invocation by Air New Zealand of s 63."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "This was foreseen by the solicitors for Air New Zealand. A few days before they had sought the consent of Singapore Airlines’ solicitors to their contacting directly Messrs Ros and Tan and this consent had been forthcoming on 26 November 2012. Two days later, on 28 November 2012, the solicitors for Air New Zealand sent emails to Mr Ros and Mr Tan. The two emails were in the same terms. I will set out the email to Mr Tan:\nDear Mr Tan,\nI am writing to you in my capacity as the Australian solicitor for Air New Zealand Limited.\nAir New Zealand is currently defending legal proceedings brought by the Australian Competition and Consumer Commission (ACCC) in the Federal Court of Australia relating to, among other things, fuel surcharges in the period 2000 – 2006 from Singapore.\nSingapore Airlines has now resolved its issues with the ACCC and as a result does not require your attendance in Australia to give evidence. However, Air New Zealand would still like you to attend to give evidence in the ACCC proceedings against Air New Zealand. If you are willing to do so, this would likely mean travelling to Australia to give evidence in person (though it is possible that other arrangements, such as video conferencing, could be organised).\nI have written to Singapore Airline’s solicitors, Minter Ellison, to ask whether Singapore Airlines would consent to you giving evidence in the Air New Zealand Proceedings. Minter Ellison responded that Singapore Airlines will not require you to give evidence, but that it would not prevent you from doing so voluntarily if you wanted to. To that end, Singapore Airlines has provided us with your email address. We emphasise, however, that this request is not being made by or on behalf of Singapore Airlines.\nCould you let me know by return email whether you would be willing to give your evidence for Air New Zealand in Australia and if necessary, to come to Australia to give your evidence?\nI look forward to hearing from you.\n(emphasis in original)"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "The emails did not, in terms, offer to pay the costs of transporting Messrs Ros and Tan to Australia or their accommodation expenses. I do not think, however, in the context of this litigation that anyone, least of all Messrs Ros and Tan, would have doubted that Air New Zealand would be footing the bill."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "On the same day that the requests were sent both Mr Ros and Mr Tan replied indicating politely that they would not be attending. On 13 March 2013, the solicitors for Air New Zealand renewed their invitation this time making express an offer to cover travel expenses. Again, both Mr Ros and Mr Tan politely declined (‘Thank you for your email, but regret that I not be able to assist further on this’)."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "One final piece of evidence concerns the request made of Singapore Airlines. Air New Zealand’s solicitors had written to Singapore Airlines on 13 November 2012 asking whether it would make its witnesses available and it had replied on 22 November 2012 that it would not be asking Messrs Ros and Mr Tan to attend in Australia."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "It was common ground that Air New Zealand had not subsequently repeated that request of Singapore Airlines."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Ms Collins submitted that the question of whether reasonable steps to secure the attendance of Messrs Ros and Tan had been taken had to be seen in the full context of what had occurred, a submission which I accept. The next step in the argument was to contend that Air New Zealand had not shown what Singapore Airlines’ response would have been if Air New Zealand had more recently renewed its request to make Messrs Ros and Tan available. This is true, no doubt, but as a contention it assumes that there might have been some reason to repeat the request for reasons extending beyond the merely recreational."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Ms Collins submitted that such a reason could be located in three matters. First, Singapore Airlines had since settling its case with the Commission, become a respondent to class action proceedings before Tracey J in this Court involving many similar allegations. Here the contention was that it was more likely that Singapore Airlines would permit Messrs Ros and Tan to be cross-examined in these proceedings now that it had a stake in the outcome of any findings about their evidence."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Secondly, and as an adjunct to that first matter, Ms Collins submitted that the present proceedings were not going well for Air New Zealand and this was a matter which, if communicated to Singapore Airlines, might be expected perhaps to impact, in a favourable way, on its assessment of whether it should offer up Messrs Ros and Tan for cross-examination in these proceedings."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Thirdly, it was noted that Singapore Airlines had very recently changed its position on a confidentiality claim it had been making."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "I can deal with the third matter immediately. The fact that Singapore Airlines changed its mind on a confidentiality claim tells one nothing, so far as I can see, about whether it may have suffered a change of mind on the question of whether to call Messrs Ros and Tan."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "As to the other two matters, it seems to me that the situation is the opposite of that propounded by the Commission. If there are now civil proceedings pending against Singapore Airlines involving matters upon which Messrs Ros and Tan might be expected to testify, it would be a bold litigator who provided them for cross-examination in an earlier case to which Singapore Airlines was no longer a party. There could be little upside: the finding in these proceedings have no evidential consequences in the class action proceedings. But the cross-examination of Messrs Ros and Tan would result in transcript which would carry with it the risk not only of a much more detailed cross-examination in the second proceeding but a cross-examination in which the witnesses would have already committed themselves in public to particular answers. Far from the class action proceedings providing an incentive to encourage Messrs Ros and Tan to participate in these proceedings, they provide a powerful disincentive."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Nor do I easily understand how Air New Zealand’s allegedly perilous condition in this litigation (a matter about which distinctly I make no comment) could provide in the leastwise any reason for Singapore Airlines now to send in Messrs Ros and Tan into the fray on what would be, as I understood it, some sort of rescue mission. To the contrary, such actions would be the actions of a misguided, or certainly poorly advised, party. I have no reason to believe Singapore Airlines suffers from either of those deficiencies."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "In those circumstances, I am satisfied that Air New Zealand has taken reasonable steps to procure the attendance of Messrs Ros and Tan. In reaching that conclusion, I have not overlooked either the possibility of video conferencing or the taking of evidence on commission. As to the former, however, it is apparent that neither witness is amenable to that suggestion either. As to the latter, I did not apprehend the Commission to take issue with Air New Zealand’s contention that the taking of evidence on commission under the Foreign Evidence Act 1994 (Cth) would not be the securing of Messrs Ros and Tan’s ‘attendance’ at the hearing because it would be in a separate proceeding: cf Tim Barr Pty Ltd and Another v Narui Gold Coast Pty Ltd (2009) 258 ALR 598, 601-604; [2009] NSWSC 769 at [13]-[22] per Barrett J."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "There was no exploration of the ability of this Court to issue a subpoena to give evidence to witnesses situated in Singapore (cf. Arhill Pty Ltd v General Terminal Co Pty Ltd (1990) 23 NSWLR 545, 550-553 per Rogers CJ; Caswell v Sony/ATV Music Publishing (Australia) Pty Ltd [2012] NSWSC 986 at [101] per Hallen AsJ) but regardless, on any view, the exercise of such a jurisdiction (if it exists) would be, at the very least, unusual. Since it was not the subject of debate I need say no more about it."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Next the Commission submitted that Air New Zealand had not complied with the notice requirements in s 67 of the Act. It provides:\n67 Notice to be given\n(1) Subsections 63(2), 64(2) and 65(2), (3) and (8) do not apply to evidence adduced by a party unless that party has given reasonable notice in writing to each other party of the party’s intention to adduce the evidence.\n(2) Notices given under subsection (1) are to be given in accordance with any regulations or rules of court made for the purposes of this section.\n(3) The notice must state:\n(a) the particular provisions of this Division on which the party intends to rely in arguing that the hearsay rule does not apply to the evidence; and\n(b) if subsection 64(2) is such a provision—the grounds, specified in that provision, on which the party intends to rely.\n(4) Despite subsection (1), if notice has not been given, the court may, on the application of a party, direct that one or more of those subsections is to apply despite the party’s failure to give notice.\n(5) The direction:\n(a) is subject to such conditions (if any) as the court thinks fit; and\n(b) in particular, may provide that, in relation to specified evidence, the subsection or subsections concerned apply with such modifications as the court specifies."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Air New Zealand accepted that it had not, as a matter of formality, issued the requisite notice. Instead, its submission was that the Court should direct pursuant to s 67(4) of the Act that s 63(2) of the Act should not apply. The basis for this application was that all of the information required by the notice had been provided to the Commission by other means."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "I accept this submission. By s 67(2) the required notice is to be given in accordance with any regulation which is in place. Regulation 5(2) of the Evidence Regulations 1995 (Cth) requires a notice under s 67 to state:\nExceptions to hearsay rule — notices of previous representations\n(2) A notice of previous representation must state:\n(a) subject to subregulation (6), the substance of evidence of a previous representation that the notifying party intends to adduce; and\n(b) the substance of all other relevant representations made by the person who made that previous representation, so far as they are known to the notifying party; and\n(c) particulars of:\n(i) the date, time, place and circumstances at or in which each of the representations mentioned in paragraph (a) or (b) was made; and\n(ii) the names of the persons by whom, and the persons to whom, each of those representations was made; and\n(iii) in a civil proceeding — the address of each person so named;\nso far as they are known to the notifying party."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "The fact that Air New Zealand was proposing to rely upon the whole of the affidavits of Messrs Ros and Tan has been clearly known to the Court and the Commission since 13 November 2012 when Mr Smith said in open Court:\nMy learned friend should proceed on that basis. He should proceed on the basis that every sentence in each of those statements will be read and relied upon. He should proceed on the basis that we will make inquiries to produce these witnesses for cross-examination and, if we can’t , then we will proceed with our section 63 applications."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "That statement provided all of the information otherwise required by reg 5(2)."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "It is true that Mr Smith’s statement to the Court did not provide the details of why it was said that Messrs Ros and Tan were unavailable to be called and, in this, the details required by reg 5(3) were not furnished. The emails from Messrs Ros and Tan which were tendered make clear, however, that they are not going to give evidence because they do not want to and Singapore Airlines letter of 22 November 2012 makes likewise clear that it is not going to make Messrs Ros and Tan attend."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "It follows that all of the information which regs 5(2)-(3) contemplates should be provided is before the Court. In order to dispense with the requirement of a notice under s 67(2) the Court must make a direction under s 67(4). Section 192(2) dictates five mandatory matters to be taken into account in determining whether to give such a direction. These are:\nLeave, permission or direction may be given on terms\n(2) Without limiting the matters that the court may take into account in deciding whether to give the leave, permission or direction, it is to take into account:\n(a) the extent to which to do so would be likely to add unduly to, or to shorten, the length of the hearing; and\n(b) the extent to which to do so would be unfair to a party or to a witness; and\n(c) the importance of the evidence in relation to which the leave, permission or direction is sought; and\n(d) the nature of the proceeding; and\n(e) the power (if any) of the court to adjourn the hearing or to make another order or to give a direction in relation to the evidence."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "As to (a), the direction will lengthen the hearing, at least potentially, because it will introduce additional material about which submissions will need to be made. As to (b), I perceive no unfairness as the Commission has all of the information it would have received had the notice been issued. As to (c), the evidence of Messrs Ros and Tan is potentially of considerable significance depending on the weight it is afforded. As to (d), the proceedings are civil penalty proceedings of middle order magnitude in terms of length and complexity. As to (e), I do not see that granting an adjournment would make the attendance of Messrs Ros and Tan more likely."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "(b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012"
+    ],
+    "text": "Taking into account each of those matters, I conclude that a direction under s 67(4) should be made. In so doing, I do not disregard Ms Collins’ submission that s 67 requires more than a mere mechanical exercise to obtain the presence of a witness but I do not accept that Air New Zealand’s efforts were mechanical as suggested. Nor do I overlook the submission that r 30.29 of the Federal Court Rules 2011 (Cth) (‘the Rules’) requires a notice under cl 5 to be in the form of a Form 62 and that this was not done. I do not read r 30.29 of the Rules as altering the operation of ss 67(4) and 192 of the Act and, indeed, I would not read the Federal Court Rules as being able to modify what would otherwise be the operation of a statute. It may, in any event, be doubted whether r 30.29 has any operation in a case where no notice has been given at all. Lest it be relevant, however, I have taken into account in making the direction under s 67(4) Air New Zealand’s failure to use the Form 62 together with Mr Owens’ statement from the Bar table at trans 2788.22 that the reason the notice was not given was because Air New Zealand’s advisers believed, in light of what Mr Smith had said in open Court, that it was not necessary, a belief the holding of which I accept."
+   },
+   {
+    "n": 57,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The evidence given by Ms Liu at trans 2712.25 included statements to the effect that third parties had said certain things. These statements were:\n• other airlines had asked Cathay what to do in light of the increase in the index;\n• a colleague who was previously the BAR-CSC Secretary told her that this was not the first time that airlines had failed to implement an increase in the surcharge suggested by the Lufthansa index; and\n• the former BAR-CSC secretary or other Cathay personnel said that the HK CAD had told Cathay that it expected airlines to implement the surcharge in accordance with the approved index ‘no more; no less’."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "Mr Clarke submitted that this evidence should have been elicited in chief rather than in re-examination, and had that occurred, an order limiting the use of the evidence to non-hearsay purposes would have been made under s 136. Sections 135 and 136 provide:\n135 General discretion to exclude evidence\nThe court may refuse to admit evidence if its probative value is substantially outweighed by the danger that the evidence might:\n(a) be unfairly prejudicial to a party; or\n(b) be misleading or confusing; or\n(c) cause or result in undue waste of time.\n136 General discretion to limit use of evidence\nThe court may limit the use to be made of evidence if there is a danger that a particular use of the evidence might:\n(a) be unfairly prejudicial to a party; or\n(b) be misleading or confusing."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The expression ‘unfairly prejudicial’ is not defined in the Act. Despite some obiter remarks of McHugh J to the contrary in Papakosmas v The Queen (1999) 196 CLR 297, 325 at [93] it has been accepted at an intermediate appellate level that unfair prejudice can include an inability to cross-examine: Bakerland Pty Ltd v Colridge [2002] NSWCA 30 at [55] per Giles JA (Heydon JA and Grove J agreeing). A series of first instance judgments in this Court are to the same effect: see the authorities collected by Sackville J in Seven Network v News Ltd (2006) 224 ALR 317, 322 at [20]."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "On the other hand, a number of decisions have held that some circumspection should be exercised in judge-alone trials where the risk of the unfairness is more readily ameliorated: see, for e.g., Seven Network at [21]."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "What is required by s 136 is a danger that a use might be unfairly prejudicial. The provision is concerned with risks, not certainties. Hence its focus on the presence of a ‘danger’ and even then only a danger that the use of the evidence ‘might be’ unfairly prejudicial. The provision is doubly subjunctive. Here the former Chairman of the BAR-CSC – a central witness – will not be cross-examined. There is a double uncertainty at play: whether he said what Ms Liu suggests at all (which depends on the accuracy of Ms Liu’s account) and whether, if he said it, it was true."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "I am cognisant of a judge’s ability to be aware of the potential pitfalls of relying upon evidence which has not been tested by cross-examination. But I am far from clear as to how I might do so here. The evidence is untested – that is clear – but that tells one nothing about whether one ought or ought not to accept it. Perhaps it merely calls for heightened care. No doubt, the Commission may be able to assemble the documents the Chairman of the BAR-CSC might have been cross-examined on if he had been called. But I cannot foresee what his answers were likely to have been. The evidence thus far has suggested that the documentary record on this issue is less than clear. To force the Commission into that voluminous material just so a rather speculative fact finding process could be undertaken would not, at this stage, be fair. Had the evidence been elicited in chief, as part of an affidavit as it well could have been, the time available to the Commission to deal with the matter would have been greater. Instead, it is left to examine a potentially large quantity of documents towards the end of the trial. These matters constitute unfair prejudice to the Commission."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "So far as Ms Liu’s remarks concern persons who are not identified the situation is only worse."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "There should be an appropriate s 136 direction."
+   },
+   {
+    "n": 65,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "Mr Brennan, for Garuda, sought the revocation of two s 136 directions made at trans 2673.30 and trans 2675.5. These too were made during the course of Mr Clarke’s cross-examination of Ms Liu."
+   },
+   {
+    "n": 66,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The question and answer giving rise to the first direction was at trans 2672.6 – 2672.17:\nWhat do you say occurred between the 13th and the 26th to say that that is incorrect?---There were actually two things, two incidents. First is, as we have run through before, if I am correct, on 19 September - you have to get back to - but, basically, it is the chain of emails where Lufthansa included the statement saying, \"CAD does not accept applications by individual airlines, but requires a joint BAR-CSC application\". So that one incident. The second incident was actually the BAR-CSC ExCom meeting held - if - I can't remember the exact date, but if - according to the correspondence, it should be held on 25 September - where the BAR ExCom members were sitting together, including Lufthansa, and Carsten, of Lufthansa, in that meeting, has explained to us that, actually, he has talked to CAD about an individual application."
+   },
+   {
+    "n": 67,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The objection was that Ms Liu’s evidence as to what ‘Carsten’ (Mr Hernig) from Lufthansa had said was hearsay. Pausing there, that evidence was only that he had spoken with the HK CAD about the topic of the individual application. However, a second answer went further (at trans 2674.43 – 2675.4):\nMR CLARKE: I have been asked to let you finish?---Do you want me - okay. I will repeat myself. So it was based on the fact that I was told by Lufthansa in email, black and white, that they tried - just to read it out again - \"CAD does not accept application by individual airlines, but requires a joint BAR-CSC application\". Plus the fact that we met on the 25th - if I was correct - in the BAR-CSC ExCom meeting, where we discussed about the next steps. Carsten reconfirms that he has met with CAD and tried to apply individually, but he failed, and he noted that and said, \"You guys, you can try, but you will fail.\" So that's his note in the meeting."
+   },
+   {
+    "n": 68,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "In the case of both answers I limited the use of the evidence about what Mr Hernig had said as merely evidence that he had said such a thing and not as evidence that it was true."
+   },
+   {
+    "n": 69,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "It was these directions that Garuda sought to have revoked."
+   },
+   {
+    "n": 70,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "I have generally accepted that conversations of the present kind are relevant to an assessment of a witness’s understanding. So in the case of Ms Liu, for example, her understanding of what others had said about the single application issue is relevant to an assessment of her evidence about her own actions."
+   },
+   {
+    "n": 71,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "In this case, it is clear that Mr Hernig is not going to be called to give evidence. Mr Brennan submitted that the s 136 directions I have made should be revoked because, consistently with the remarks made by Sackville J in Seven Network, I could adequately address any unfairness arising from an inability to cross-examine Mr Hernig. More substantively, he submitted that the facts established that Mr Hernig was available to the Commission to call in its own case if it wished."
+   },
+   {
+    "n": 72,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "I do not think that the unfairness which arises in this case from an inability to cross-examine Mr Hernig may be safely ameliorated by my own awareness of the hearsay nature of the statements attributed to him. The evidence concerns an important issue in the case. Although the Commission will have the opportunity to make submissions about the documents upon which Mr Hernig might have been cross-examined, this, I do not believe, will be an adequate substitute for seeing Mr Hernig tested on the material. There is the added difficulty that I must rely upon Ms Liu’s account of what Mr Hernig said rather than some documentary form of testimony by Mr Hernig tendered in his absence. By this I mean to draw attention to the distinction in terms of clarity between a hearsay account in written form by the absent third party (for example, a signed statement) and an oral account by one witness of what the third party said. For similar reasons to those given at [62] I am concerned too about the procedural fairness of such material being elicited in cross-examination when it could have been adduced in affidavit form in chief."
+   },
+   {
+    "n": 73,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The suggestion that the Commission is at liberty to call Mr Hernig raises different issues. As a matter of fact, the submission rests upon the contention that under the terms of the Commission’s settlement with Lufthansa the latter is obliged to co-operate with the Commission including by way of facilitating testimony by its employees. I accept that in all likelihood if the Commission wished to secure Mr Hernig to give evidence it could do so."
+   },
+   {
+    "n": 74,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "Were it the case that Mr Hernig was present within the confines of the Commonwealth the Commission could cause him to give evidence by means of a subpoena. In that sense, the Commission’s ability to call Mr Hernig is no different to its ability to call any person to give evidence except that the Commission is able to overcome, by means of its agreement with Lufthansa, what would otherwise be the possibly insurmountable obstacle presented by Mr Hernig’s absence from the jurisdiction."
+   },
+   {
+    "n": 75,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The mere fact that a party against whom a third party statement is tendered has the ability to subpoena the third party to give evidence (or, as here, otherwise the possible capacity to secure the attendance of the party) cannot suffice for present purposes. This is because the unfairness springs from an inability to cross-examine rather than an inability to call the person as a witness. What is involved as the distinction between evidence tested and evidence adduced."
+   },
+   {
+    "n": 76,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "To this Mr Brennan rejoined that it was open to the Commission to call Mr Hernig, to ask him whether he had had the suggested discussion with the HK CAD and, if he agreed that he had, the Commission could apply to cross-examine him under s 38 of the Act. Section 38(1) provides:\n38 Unfavourable witnesses\n(1) A party who called a witness may, with the leave of the court, question the witness, as though the party were cross examining the witness, about:\n(a) evidence given by the witness that is unfavourable to the party; or\n(b) a matter of which the witness may reasonably be supposed to have knowledge and about which it appears to the court the witness is not, in examination in chief, making a genuine attempt to give evidence; or\n(c) whether the witness has, at any time, made a prior inconsistent statement."
+   },
+   {
+    "n": 77,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "I reject this submission. The only way that the Commission will obtain an entitlement to cross-examine is after Mr Hernig first gives evidence unfavourable to the Commission. I do not see how it can be right to say that the Commission suffers no prejudice because of what Ms Liu says Mr Hernig said because it can call Mr Hernig to say the same thing and then cross-examine him as an unfavourable witness. Requiring a party to prove its opponent’s case as the gateway to dispelling prejudice is not a state of affairs I would embrace."
+   },
+   {
+    "n": 78,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "In those circumstances, I decline to revoke the directions."
+   },
+   {
+    "n": 79,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "Ms Collins submitted that I should exclude significant portions of Messrs Ros and Tan’s affidavits under s 135. Forty four examples of this unfairness were proffered."
+   },
+   {
+    "n": 80,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "In the case of all forty-four instances (41 in writing, 3 oral) the basic point was the same. The evidence went to a matter of significance between the parties and the denial of the opportunity to cross-examine the two gentlemen constituted a species of unfair prejudice which ought to be remedied under s 135. Paragraph 47 of Mr Ros’s affidavit will serve as a useful example:\nI have also been told that the ACCC alleges in this proceeding that the word “agreed” in certain minutes of the Singapore BAR-CSC meetings and the like means that the attendees of the meeting reached an agreement with each other in relation to the “agreed” subject matter, which on some occasions concerned surcharges. That is untrue for any minutes that I prepared, and I am distressed that minutes I prepared may be misunderstood in that way. As I stated earlier, the Singapore BAR-CSC was not a decision making body and no vote was taken at the meetings that I attended. No such agreements or commitments were given by any attendee in my presence at the meetings and the minutes of the meetings that I prepared were not intended to mean that that occurred. When I described something as “agreed” in the minutes, it was because the Chairman had made a statement and no-one said anything by way of disagreement or dissent. Very few attendees spoke at the meetings and often no-one said anything in response to statements made by the Chairman. I also used the word “agreed” if the Chairman made a statement and an attendee nodded in response or said that he had a similar view about the statement. I never understood or took such a statement to be any sort of commitment or undertaking about the future commercial decisions of that attendee’s airline."
+   },
+   {
+    "n": 81,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "This evidence relates to an important matter viz whether the alleged understandings were reached. Were it to be accepted it would be a large part of an answer to the Commission’s case."
+   },
+   {
+    "n": 82,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "Ms Collins submitted, and I accept, that in many instances these affidavits are likely to be quite probative and that this makes their utilisation all the riskier. In Australian Competition and Consumer Commission v Air New Zealand Limited (ARBN 000 312 685) (No 7) [2013] FCA 83 I concluded at [25] that the more probative hearsay evidence was the greater the risk of unfair prejudice and this, no doubt, supports Ms Collins’ contention. I have since reconsidered what I said in Air New Zealand (No 7). There I made an order under s 135 refusing to admit into evidence a letter from the HK CAD to the President of the European Commission dated 3 September 2009. I had concluded that it was admissible as a business record because, although written in contemplation of the European Commission’s investigation, that was not a proceeding in a foreign court for the purposes of s 69(3). I said this:\n24 But that, of course, is only half the inquiry. Section 135 requires me to assess the letter’s probative value against that danger. The letter is, so it seems to me, potentially of considerable probative value. It emanates from a regulator whose actions are significantly in issue. It is addressed to another State entity. It carries with it, quite possibly, the presumption that it is unlikely to have been sent in bad faith. Whilst in due course it may emerge that the relationship between Cathay Pacific and the HK CAD could provide a motive for its writing, this is very far from certain at this stage. Should that inference not be drawn, the letter is likely to be the closest this Court will come to receiving direct testimony from the HK CAD.\n25 The inability to test the contents of this letter creates a danger of prejudice that exceeds, and only increases in line with, its probative value. In my opinion, that danger substantially outweighs its probative value precisely for that reason. The power in s 135 is, therefore, enlivened. In my opinion, the unfairness which it presents requires that the discretion should be exercised in the ACCC’s favour. I will exclude Annexure CLSY-16 from the evidence. I will also reject the third sentence of paragraph 22(f) which accompanies it. I will receive the first sentence of paragraph 25 as a submission."
+   },
+   {
+    "n": 83,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "I am concerned that this reasoning may be unsound. The fact that the evidence is probative, perhaps strongly so, cannot be a form of substantive prejudice to which s 135 is directed. As McHugh J observed in Papakosmas 297, 325 at [91] and 297, 327 [98] the fact that evidence is legitimately damaging to an opponent’s case cannot be the kind of prejudice with which s 136 is concerned. Were it otherwise, the two provisions could operate to remove from a case all evidence which by its nature was compelling. Prejudice will be unfair under s 135 (and s 136) in at least two situations. The first, will be those situations where the Tribunal of fact may handle the evidence irrationally. The second, supported by the cases referred to above at [59] - [60], will involve deprivation of procedural entitlements such as loss of the right of cross-examination."
+   },
+   {
+    "n": 84,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "A more likely analysis, in light of those observations is that in Air New Zealand (No 7) the letter should have been admitted, the Court being satisfied of its own ability rationally to assess the weight of the evidence in light of the inability of the Commission to cross-examine its author."
+   },
+   {
+    "n": 85,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "The present reasons afford no occasion to revoke the ruling in Air New Zealand (No 7) although I will indicate that whether I should is a matter upon which I will hear the parties if either of them wishes."
+   },
+   {
+    "n": 86,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "What I will say is that I do not accept that the probative value of the affidavits of Messrs Ros and Tan affords in itself a good reason to make s 135 directions. This is because I do not think, in light of Seven Network, that I need do any more than be aware that Messrs Ros and Tan have not been cross-examined. I do not perceive procedural or substantive prejudice ranging beyond that. The affidavits are the sworn written accounts of the two men so that unlike the evidence of Ms Liu concerning Mr Hernig there is no doubt that it is, in fact, their testimony. The Commission was, until 8 November 2012, going to cross-examine these witnesses and it knew, even after then, that s 63 was being put forward as a basis upon which their affidavits might ultimately be used. In those circumstances, I am satisfied that the difficulties flowing from the fact that they will not be cross-examined can be adequately and fairly addressed and that the danger that unfair prejudice might be caused to the Commission does not substantially outweigh the material’s probative value."
+   },
+   {
+    "n": 87,
+    "headings": [
+     "(c) Directions under ss 135-136 of the Act"
+    ],
+    "text": "There will be orders accordingly."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eighty-seven (87) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2013-04-11",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 10) [2013] FCA 322\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\n\n**File number:** NSD 534 of 2010\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)\n\n**File number:** NSD 955 of 2009\n\n**Judge:** PERRAM J\n\n**Date of judgment:** 11 April 2013\n\n**Catchwords:** EVIDENCE – Re-examination – Proper scope of re-examination – Whether evidence not given in examination in chief can properly arise in re-examination – Particular facts of the representation made  \nEVIDENCE – Exception to hearsay rule – Where maker of representation overseas – Whether reasonable efforts to secure witness had been made – Whether notice requirements in s 192(2) of the Evidence Act 1995 (Cth) complied with  \nEVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when hearsay adduced in re-examination – Whether such evidence should be the subject of a direction under s 135 or s 136 of the Evidence Act 1995 (Cth)  \nEVIDENCE – Witnesses – Unfavourable witness – Evidence Act 1995 (Cth) s 38 – Whether a party should call a witness to disprove an unfavourable statement adduced by hearsay  \nEVIDENCE – Discretion to exclude – Whether evidence unfairly prejudicial when maker of the representation is not available for cross-examination\n\n**Legislation:** Evidence Act 1995 (Cth) ss 38, 60, 63, 67, 69, 135, 136, 192, Sch 1  \nForeign Evidence Act 1994 (Cth)  \nEvidence Regulations 1995 (Cth) reg 5  \nFederal Court Rules 2011 (Cth) r 30.29\n\n**Cases cited:** Australian Competition and Consumer Commission v Air New Zealand Limited (ARBN 000 312 685) (No 7) [2013] FCA 83 considered  \nArhill Pty Ltd v General Terminal Co Pty Ltd (1990) 23 NSWLR 545 cited  \nBakerland Pty Ltd v Colridge [2002] NSWCA 30 cited  \nCaswell v Sony/ATV Music Publishing (Australia) Pty Ltd [2012] NSWSC 986 cited  \nPapakosmas v The Queen (1999) 196 CLR 297 cited  \nSeven Network Ltd and Another v News Ltd and Others (2005) 224 ALR 317 cited  \nTim Barr Pty Ltd and Another v Narui Gold Coast Pty Ltd (2009) 258 ALR 598 cited\n\n**Date of hearing:** 19 March 2013\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 87\n\n**Counsel for the Applicant:** E Collins SC, J Clarke\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for Air New Zealand:** R Smith SC, N Owens\n\n**Solicitor for Air New Zealand:** Corrs Chambers Westgarth\n\n**Counsel for Garuda:** T Brennan\n\n**Solicitor for Garuda:** Norton White\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 11 APRIL 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Mr Smith’s question of Ms Christine Liu in re-examination and the whole of the answer commencing at page 2712 line 25 in the transcript of these proceedings form part of the evidence.\n\n2. The affidavit of Mr Mohammed Nazim Bin Ros sworn 24 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).\n\n3. Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 2.\n\n4. The affidavit of Mr Tan Chung Kee Clinton sworn 28 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).\n\n5. Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 4.\n\n6. The evidence given by Ms Christine Liu at page 2712 line 25 in the transcript of these proceedings be limited to prove that the third party representations were made, not the truth of the statements.\n\n7. The evidence given my Ms Liu at page 2672 line 6 in the transcript of these proceedings be limited to prove that the third party representation was made by Mr Carsten, not the truth of the statement.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P. T. GARUDA INDONESIA (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 11 April 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Mr Smith’s question of Ms Liu in re-examination and the whole of the answer commencing at page 2712 line 25 in the transcript of these proceedings form part of the evidence.\n\n2. The affidavit of Mr Mohammed Nazim Bin Ros sworn 24 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).\n\n3. Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 2.\n\n4. The affidavit of Mr Tan Chung Kee Clinton sworn 28 May 2012 form part of the evidence pursuant to the exception in s 63(2) of the Evidence Act 1995 (Cth).\n\n5. Section 67(2) of the Evidence Act 1995 (Cth) not apply to the affidavit the subject of order 4.\n\n6. The evidence given by Ms Liu at page 2712 line 25 in the transcript of these proceedings be limited to prove that the third party representations were made, not the truth of the statements.\n\n7. The evidence given my Ms Liu at page 2672 line 6 in the transcript of these proceedings be limited to prove that the third party representation was made by Mr Carsten, not the truth of the statement.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P. T. GARUDA INDONESIA (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE: | 11 APRIL 2013 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] These reasons deal with:\n\n(a) whether the question at page 2712 line 25 of the transcript (‘trans 2712.25’) was properly an aspect of re-examination and whether the answer given to it by Ms Christine Liu at trans 2712.25 was responsive;\n\n(b) whether the affidavits of Mr Mohammed Nazim Bin Ros (‘Mr Ros’) and Mr Tan Chung Kee Clinton (‘Mr Tan’) are admissible notwithstanding that they are not to be called to give evidence; and\n\n(c) the extent to which directions under s 135 and/or s 136 of the Evidence Act 1995 (Cth) (‘the Act’) should be made excluding, or restricting the use of, the evidence in (a) or (b) or some other evidence given by Ms Liu under cross-examination of a statement made by a Mr Carsten Hernig.\n\n[2] My conclusions are that Mr Smith’s question was properly in re-examination; that Ms Liu’s answer to it was responsive; that the affidavits of Messrs Ros and Tan are admissible; that neither Ms Liu’s oral testimony about what Mr Hernig said nor her answer at trans 2712.25 should be permitted to be used for a hearsay purpose: and, that no order excluding the affidavits of Mr Ros or Mr Tan should be made.\n\n##### (a) Mr Smith’s question at trans 2712.25 and Ms Liu’s answer to it\n\n[3] In her affidavit of 26 October 2012 Ms Liu gave evidence that in September 2005 she had a discussion with a Ms Amy Poon of the Hong Kong Civil Aviation Department (‘HK CAD’) in which Ms Poon told her that the HK CAD had granted approval to the members of the Board of Airlines Representatives Cargo Sub-Committee (‘BAR-CSC’) to apply a surcharge based on the approved mechanism referred to in its ‘application letter’; that any deviation from that was not allowed; and, that none of the airlines that were part of the application should charge anything other than that dictated by the approval.\n\n[4] An email was sent by Ms Liu to her superior, a Mr Ron Mathison, on 13 October 2005. In this email, Ms Liu sought guidance on the question of whether Cathay Pacific (‘Cathay’) should increase its surcharge in Hong Kong in light of a movement in the Lufthansa index. One of the matters which concerned her was the fact that some carriers had not introduced an increase in the surcharge in Europe notwithstanding the move which had occurred in the index. In relation to what should happen in Hong Kong Ms Liu suggested to Mr Mathison as follows:\n\n> Our suggestion is to take the same practice as last time and to increase fsc to level 12 locally in HK. We will also lobby with other carriers and get their buy in to increase at the same time.\n\n> However, if any carrier refused to increase FSC in HK we would be at risk of being complained by Shippers Council…\n\n[5] Mr Mathison responded by email on the same day instructing Ms Liu to ‘follow the Index and move to level 12.pls lobby the other airlines to follow suit.’\n\n[6] The following day Ms Liu wrote to Ms Poon informing her that the surcharge would be increased on and from 28 October 2005.\n\n[7] In relation to this letter Ms Liu initially agreed with the cross-examiner that she had been able to write it because she had indeed lobbied the airlines to follow suit. She then said her answer had been incorrect.\n\n[8] Subsequently she was challenged to the effect that if she had actually had the concern she expressed in her email to Mr Mathison then she would have referred in that email to her discussion with Ms Poon. The underlying theory of the question, as I understand it, was the conceptual inconsistency between Ms Poon’s view that no choice was available to airlines as to whether to implement a surcharge (or not) and the concept of lobbying other airlines to implement a surcharge. To put it another way, in a domain which included Ms Poon’s notion of surcharge compulsion there could be no room for Ms Liu’s process of lobbying.\n\n[9] At trans 2589.18 the following exchange then occurred:\n\n> MR CLARKE: Ms Liu, my question was, what I am suggesting is that if you had this concern - as demonstrated in this email - but you had been told by the CAD that they have to charge the amount that is approved, you would have said so in this email; correct?---That happened in mid September. This is the second incident. So I don't have to repeat myself. Ron knows about it already. There wouldn't - Ms Liu, you are accepting that what you say Ms Poon, from the CAD, said to you about \"required to levy the amount approved\" was something said to you prior to this email?---Yes.\n\n> And what I want to say to you - what I am suggesting to you - is that if that had been said, that's a matter which you would have recorded in this email?---Why?\n\n[10] The reference to ‘Ron’ is a reference to Mr Mathison. At an earlier juncture in the cross-examination the witness had attempted to proffer an explanation on this issue:\n\n> MR CLARKE: And the direction given back to you in response from Mr Mathison is that you should lobby the other airlines to follow suit; do you see that? --- Yes.\n\n> Is that what you did? --- Yes, and - - -\n\n> And the basis upon which you were able to write the letter the following day was that you had lobbied the airlines to follow suit; correct; correct? --- Yes. I was incorrect in that statement, because I thought it’s a normal letter, but this is a very special incident where I have to call the airlines. So if you want me to explain - - -\n\n> So your previous answer with respect to the letter to the CAD of 14 October was incorrect? --- Yes. For that particular letter.\n\n> You made a mistake?--- Yes. I didn’t’ realise it was this particular incident where I wrote that letter.\n\n[11] Mr Clarke did not question Ms Liu about the special incident or obtain from her an account of the explanation she had offered.\n\n[12] Mr Smith, for Air New Zealand, then re-examined Ms Liu. He posed for her consideration the second of the two passages set out above and then asked this question: ‘Can you tell us why this was a very special incident?’\n\n[13] Mr Clarke immediately objected that the question did not arise from the cross-examination but the question was allowed. The question was then reformulated and, in its final form, was thus: ‘Can you tell us, Ms Liu, why this incident was special?’\n\n[14] Ms Liu then gave this answer at trans 2712.25:\n\n> Normally, when we - when the trigger level was - how should I say? When a new trigger level is being triggered, all we have to do is to inform CAD that in two weeks time, we will be changing the fuel surcharges to a new level - either decrease or increase - and we do not get other airlines involved. The only involvement for other airlines would be we copied the letter to the CAD, which - where we informed them that in two weeks time the fuel surcharge would be changed, by copy to them, so that they know that in two weeks time they would have to charge a new fuel surcharge in the market as well. This incident is very special, as well as the one that happened in mid September, was that in other parts of the world, particularly in Europe, Lufthansa at least, I know – I don’t know, I’m not sure about other carriers, but at least Lufthansa – has decided not to follow their own index, because they feel that – I think in mid September there was a case of Katrina, the what’s it called? Typhoon – not typhoon - - -\n\n[15] Mr Smith then suggested that the word Ms Liu was searching for was ‘hurricane’ after which she carried on:\n\n> Yes, hurricane, in the US, where suddenly the oil price shoot up, and it was shooting up really quite drastically in a very short period of time. And because of that incident, the oil price shoot up and the trigger levels was being triggered very quickly, and Lufthansa in Europe has decided not to follow the index, but to remain the fuel surcharge as it was for a period of time. We actually got asked by other airlines whether we should do so. So there are questions raised by the airlines themselves, whether we can - we should follow suit in Hong Kong, because we have been using the Lufthansa index as well. In that particular instance, I actually checked. First, I checked internally with my colleagues, because I was quite new then. I joined in July and this happened in September/October. So I actually first checked with my colleagues and see whether they do know the answer. And there are colleagues who worked in the department for quite some time and who was the BAR secretary, so he knows this stuff inside out from the BAR point of view, and he told me that, actually, this was not the first incident either. It happened before, but before I joined, that actually Lufthansa or other carriers have this - has the same concern, because other parts of the world had not been following the Lufthansa index. And they said that, actually, they clarified with CAD before, that because the fuel surcharge - although we are adopting the Lufthansa index model, but is an application individually sent to CAD, and that application is in black and white, and CAD approved that particular table that we submitted, and in that case, CAD is expecting us to follow exactly what we have submitted, which is a trigger level and a price - and a charge with the exact amount. No more, no less. So that has happened before, and they have clarified it before. But this time, just to play safe, I also gave Amy a call to reconfirm my understanding. I told her, \"This is my understanding from my colleagues. Could you reconfirm that this is the case?\" And she said, \"Yes\". So I made a few phone calls ---\n\n[16] At this point Mr Clarke objected to the answer and I deferred to now the question of whether it could go in. The quotation above does not capture adequately a sense of the length of the answer which went for a few minutes.\n\n[17] Two issues arise. The first is whether the question was a legitimate exercise in re-examination. The second is whether Ms Liu’s answer was responsive either in whole or in part.\n\n[18] As to the first issue, Mr Smith submitted that he was entitled to elicit matters in re-examination which, although not elicited in chief, supported the witness’s account where that account had been challenged in cross-examination. He drew particular attention to Ms Liu’s offer to provide an explanation of why the statement allegedly made by Ms Poon did not appear in the email.\n\n[19] In my opinion, the question asked by Mr Smith was a proper question. Ms Liu was being challenged on why something was absent from the email and it was legitimate for Mr Smith to give her the opportunity to explain that absence which was being put against the plausibility of her account.\n\n[20] As to the second issue, Mr Clarke submitted that the question posed concerned why one incident was special and Ms Liu’s answer had ranged well beyond that into, at least, an explanation of a second allegedly special incident. Further, so he submitted, the answer given contained quite a lot of hearsay which, had it been elicited in chief, would have been limited in its use to establishing Ms Liu’s understanding rather than as evidence of the truth of the reported statements.\n\n[21] To this Mr Smith rejoined that the substance of the answer did go to the issue of why Ms Liu had not mentioned any discussion with Ms Poon in her email to Mr Mathison. As to the issue of hearsay, he submitted that Mr Clarke had opened the topic of what was said to Ms Liu by his line of cross-examination.\n\n[22] It is true that Ms Liu was asked about only one special incident and that this was not an express invitation to discourse on other incidents. But this does not entail that the answer was not responsive.\n\n[23] The basic points in Ms Liu’s answer were as follows:\n\n• in an ordinary case, she did not contact the other airlines (beyond sending them a reporting letter) but dealt only with the HK CAD to inform it about an increase or decrease in the levy;\n\n• the occurrence of Hurricane Katrina in September/October had caused a sharp spike in oil prices which caused the trigger points on the Lufthansa index to be reached rapidly;\n\n• Lufthansa in Europe had decided not to follow its own index;\n\n• the question arose therefore whether the other carriers in Hong Kong should follow suit;\n\n• Ms Liu first checked with her own colleagues as to whether they knew what to do;\n\n• she was informed that prior discussions with the HK CAD had involved her colleagues at Cathay being told that the airlines would be expected to follow the methodology which had been approved, ‘no more, no less’;\n\n• to play safe, she had spoken with Ms Poon who had confirmed that this was indeed so; and\n\n• she then made some telephone calls.\n\n[24] I have no doubt that the first four bullet points were directly responsive to the question which had been asked which was why the incident was special. Viewed in isolation, however, it is not difficult to see the second four bullet points as being non-responsive: the actual question was why a particular incident was special; the second four bullet points relate not to the specialty of an incident but instead to the steps which were then taken in the aftermath of the incident. It is a mistake, however, to view the question in isolation. Both the cross-examination of Ms Liu and this re-examination were directed at the same ultimate goal which was the ascertainment of the reasons why the discussion with Ms Poon did not appear in Ms Liu’s email to Mr Mathison. The challenge to Ms Liu in cross-examination was that she would have mentioned the discussion in the email if it had occurred. Her response was that she did not include it in the email because the situation had arisen in the context of a special incident. But the speciality of the incident was itself only an intermediate explanation of why the discussion had not appeared in the email. The balance of that explanation appears in the second of the four bullet points. Effectively it was that the substance of the discussions on the ‘no more, no less’ topic had occurred between other people at earlier times and that her conversation with Ms Poon had, in those circumstances, been merely confirmatory and, inferentially, insufficiently important to include in the email. When the matter is viewed in that more global fashion, it seems to me that the answer is, indeed, responsive although it may be accepted that this is not apparently so at first inspection, particularly given its length.\n\n[25] I conclude therefore that Ms Liu’s answer to Mr Smith’s question was both responsive and legitimately to be seen as evidence in re-examination.\n\n[26] I deal below at [57] ff with the question of whether there should be a s 135 or a s 136 direction in relation to the answer.\n\n##### (b) Whether Air New Zealand should be permitted to tender the affidavits of Mr Ros sworn on 24 May 2012 and the affidavit of Mr Tan sworn 28 May 2012\n\n[27] Mr Ros lives in Singapore and is the Assistant Manager, Industry Affairs for Singapore Airlines Cargo Pte Ltd. Mr Tan also lives in Singapore and works in a senior position in a company owned by Singapore Airlines. During the times relevant to this litigation, he was the Deputy General Manager for Hong Kong and Macau and at a later time held a similar position in Singapore. At an earlier time in this litigation, the Commission was pursuing Singapore Airlines and it was that airline which filed the affidavits of Mr Ros and Mr Tan in anticipation of its defence. Subsequently, Singapore Airlines and the Commission have settled their proceedings meaning that Singapore Airlines will no longer be calling Messrs Ros and Tan as witnesses.\n\n[28] In response to that situation, Air New Zealand now seeks to tender the two affidavits. The Commission has objected on the basis that both were being used for hearsay purposes (as they certainly are). Mr Owens, who appeared on this limb of the debate for Air New Zealand, then led evidence which indicated that neither Mr Ros nor Mr Tan is inclined to come to Australia to be cross-examined. Having done so, he invoked the exception to the hearsay rule contained in s 63 of the Act:\n\n> Exception: civil proceedings if maker not available\n\n> (1) This section applies in a civil proceeding if a person who made a previous representation is not available to give evidence about an asserted fact.\n\n> (2) The hearsay rule does not apply to:\n\n> (a) evidence of the representation that is given by a person who saw, heard or otherwise perceived the representation being made; or\n\n> (b) a document so far as it contains the representation, or another representation to which it is reasonably necessary to refer in order to understand the representation.\n\n> Note 1: Section 67 imposes notice requirements relating to this subsection.\n\n> Note 2: Clause 4 of Part 2 of the Dictionary is about the availability of persons.\n\n[29] The concept of a person not available to give evidence is regulated by cl 4 Pt 2 of the Dictionary to the Act which by subclauses (e) and (f) deem a person not to be available if:\n\n> (e) all reasonable steps have been taken, by the party seeking to prove the person is not available, to find the person or to secure his or her attendance, but without success; or\n\n> (f) all reasonable steps have been taken, by the party seeking to prove the person is not available, to compel the person to give the evidence, but without success.\n\n[30] The first debate between the parties was whether Air New Zealand had taken all such reasonable steps.\n\n[31] For the Commission, Ms Collins submitted that it had not. The steps which were taken are known. The two affidavits in question were served by Singapore Airlines on 1 June 2012 in the months leading up the trial. The trial itself started on 6 November 2012 at which time Singapore Airlines remained a party. On 8 November 2012, however, Singapore Airlines and the Commission announced that an accommodation between them had been reached and Singapore Airlines was thereafter excused from further attendance.\n\n[32] The resolution of the Singapore Airlines proceedings naturally posed a quandary for the remaining airlines as to what to do about the testimony of the witnesses who Singapore Airlines had intended to call. On 13 November 2012, Air New Zealand’s solicitors wrote to the Commission’s solicitors indicating an expectation – ultimately disappointed – that the Commission might call Messrs Ros and Tan and its intention, in default on the Commission’s part, to call them itself if necessary. Against the possibility of an eventual inability on Air New Zealand’s part to compel their attendance, the solicitors foreshadowed invoking s 63 of the Act. On the same day, the question of s 63 and its relation to these witnesses was raised in open court. At that time Mr Smith, for Air New Zealand, indicated that the Commission should proceed on the basis, for the purposes of s 63, that Air New Zealand would rely on each and every part of the two affidavits.\n\n[33] Around two weeks later, on 26 November 2012, the Commission’s solicitors wrote to Air New Zealand’s indicating that it would not be calling any of Singapore Airlines’ witnesses and noting the invocation by Air New Zealand of s 63.\n\n[34] This was foreseen by the solicitors for Air New Zealand. A few days before they had sought the consent of Singapore Airlines’ solicitors to their contacting directly Messrs Ros and Tan and this consent had been forthcoming on 26 November 2012. Two days later, on 28 November 2012, the solicitors for Air New Zealand sent emails to Mr Ros and Mr Tan. The two emails were in the same terms. I will set out the email to Mr Tan:\n\n> Dear Mr Tan,\n\n> I am writing to you in my capacity as the Australian solicitor for Air New Zealand Limited.\n\n> Air New Zealand is currently defending legal proceedings brought by the Australian Competition and Consumer Commission (ACCC) in the Federal Court of Australia relating to, among other things, fuel surcharges in the period 2000 – 2006 from Singapore.\n\n> Singapore Airlines has now resolved its issues with the ACCC and as a result does not require your attendance in Australia to give evidence. However, Air New Zealand would still like you to attend to give evidence in the ACCC proceedings against Air New Zealand. If you are willing to do so, this would likely mean travelling to Australia to give evidence in person (though it is possible that other arrangements, such as video conferencing, could be organised).\n\n> I have written to Singapore Airline’s solicitors, Minter Ellison, to ask whether Singapore Airlines would consent to you giving evidence in the Air New Zealand Proceedings. Minter Ellison responded that Singapore Airlines will not require you to give evidence, but that it would not prevent you from doing so voluntarily if you wanted to. To that end, Singapore Airlines has provided us with your email address. We emphasise, however, that this request is not being made by or on behalf of Singapore Airlines.\n\n> Could you let me know by return email whether you would be willing to give your evidence for Air New Zealand in Australia and if necessary, to come to Australia to give your evidence?\n\n> I look forward to hearing from you.\n\n> (emphasis in original)\n\n[35] The emails did not, in terms, offer to pay the costs of transporting Messrs Ros and Tan to Australia or their accommodation expenses. I do not think, however, in the context of this litigation that anyone, least of all Messrs Ros and Tan, would have doubted that Air New Zealand would be footing the bill.\n\n[36] On the same day that the requests were sent both Mr Ros and Mr Tan replied indicating politely that they would not be attending. On 13 March 2013, the solicitors for Air New Zealand renewed their invitation this time making express an offer to cover travel expenses. Again, both Mr Ros and Mr Tan politely declined (‘Thank you for your email, but regret that I not be able to assist further on this’).\n\n[37] One final piece of evidence concerns the request made of Singapore Airlines. Air New Zealand’s solicitors had written to Singapore Airlines on 13 November 2012 asking whether it would make its witnesses available and it had replied on 22 November 2012 that it would not be asking Messrs Ros and Mr Tan to attend in Australia.\n\n[38] It was common ground that Air New Zealand had not subsequently repeated that request of Singapore Airlines.\n\n[39] Ms Collins submitted that the question of whether reasonable steps to secure the attendance of Messrs Ros and Tan had been taken had to be seen in the full context of what had occurred, a submission which I accept. The next step in the argument was to contend that Air New Zealand had not shown what Singapore Airlines’ response would have been if Air New Zealand had more recently renewed its request to make Messrs Ros and Tan available. This is true, no doubt, but as a contention it assumes that there might have been some reason to repeat the request for reasons extending beyond the merely recreational.\n\n[40] Ms Collins submitted that such a reason could be located in three matters. First, Singapore Airlines had since settling its case with the Commission, become a respondent to class action proceedings before Tracey J in this Court involving many similar allegations. Here the contention was that it was more likely that Singapore Airlines would permit Messrs Ros and Tan to be cross-examined in these proceedings now that it had a stake in the outcome of any findings about their evidence.\n\n[41] Secondly, and as an adjunct to that first matter, Ms Collins submitted that the present proceedings were not going well for Air New Zealand and this was a matter which, if communicated to Singapore Airlines, might be expected perhaps to impact, in a favourable way, on its assessment of whether it should offer up Messrs Ros and Tan for cross-examination in these proceedings.\n\n[42] Thirdly, it was noted that Singapore Airlines had very recently changed its position on a confidentiality claim it had been making.\n\n[43] I can deal with the third matter immediately. The fact that Singapore Airlines changed its mind on a confidentiality claim tells one nothing, so far as I can see, about whether it may have suffered a change of mind on the question of whether to call Messrs Ros and Tan.\n\n[44] As to the other two matters, it seems to me that the situation is the opposite of that propounded by the Commission. If there are now civil proceedings pending against Singapore Airlines involving matters upon which Messrs Ros and Tan might be expected to testify, it would be a bold litigator who provided them for cross-examination in an earlier case to which Singapore Airlines was no longer a party. There could be little upside: the finding in these proceedings have no evidential consequences in the class action proceedings. But the cross-examination of Messrs Ros and Tan would result in transcript which would carry with it the risk not only of a much more detailed cross-examination in the second proceeding but a cross-examination in which the witnesses would have already committed themselves in public to particular answers. Far from the class action proceedings providing an incentive to encourage Messrs Ros and Tan to participate in these proceedings, they provide a powerful disincentive.\n\n[45] Nor do I easily understand how Air New Zealand’s allegedly perilous condition in this litigation (a matter about which distinctly I make no comment) could provide in the leastwise any reason for Singapore Airlines now to send in Messrs Ros and Tan into the fray on what would be, as I understood it, some sort of rescue mission. To the contrary, such actions would be the actions of a misguided, or certainly poorly advised, party. I have no reason to believe Singapore Airlines suffers from either of those deficiencies.\n\n[46] In those circumstances, I am satisfied that Air New Zealand has taken reasonable steps to procure the attendance of Messrs Ros and Tan. In reaching that conclusion, I have not overlooked either the possibility of video conferencing or the taking of evidence on commission. As to the former, however, it is apparent that neither witness is amenable to that suggestion either. As to the latter, I did not apprehend the Commission to take issue with Air New Zealand’s contention that the taking of evidence on commission under the Foreign Evidence Act 1994 (Cth) would not be the securing of Messrs Ros and Tan’s ‘attendance’ at the hearing because it would be in a separate proceeding: cf Tim Barr Pty Ltd and Another v Narui Gold Coast Pty Ltd (2009) 258 ALR 598, 601-604; [2009] NSWSC 769 at [13]-[22] per Barrett J.\n\n[47] There was no exploration of the ability of this Court to issue a subpoena to give evidence to witnesses situated in Singapore (cf. Arhill Pty Ltd v General Terminal Co Pty Ltd (1990) 23 NSWLR 545, 550-553 per Rogers CJ; Caswell v Sony/ATV Music Publishing (Australia) Pty Ltd [2012] NSWSC 986 at [101] per Hallen AsJ) but regardless, on any view, the exercise of such a jurisdiction (if it exists) would be, at the very least, unusual. Since it was not the subject of debate I need say no more about it.\n\n[48] Next the Commission submitted that Air New Zealand had not complied with the notice requirements in s 67 of the Act. It provides:\n\n> 67 Notice to be given\n\n> (1) Subsections 63(2), 64(2) and 65(2), (3) and (8) do not apply to evidence adduced by a party unless that party has given reasonable notice in writing to each other party of the party’s intention to adduce the evidence.\n\n> (2) Notices given under subsection (1) are to be given in accordance with any regulations or rules of court made for the purposes of this section.\n\n> (3) The notice must state:\n\n> (a) the particular provisions of this Division on which the party intends to rely in arguing that the hearsay rule does not apply to the evidence; and\n\n> (b) if subsection 64(2) is such a provision—the grounds, specified in that provision, on which the party intends to rely.\n\n> (4) Despite subsection (1), if notice has not been given, the court may, on the application of a party, direct that one or more of those subsections is to apply despite the party’s failure to give notice.\n\n> (5) The direction:\n\n> (a) is subject to such conditions (if any) as the court thinks fit; and\n\n> (b) in particular, may provide that, in relation to specified evidence, the subsection or subsections concerned apply with such modifications as the court specifies.\n\n[49] Air New Zealand accepted that it had not, as a matter of formality, issued the requisite notice. Instead, its submission was that the Court should direct pursuant to s 67(4) of the Act that s 63(2) of the Act should not apply. The basis for this application was that all of the information required by the notice had been provided to the Commission by other means.\n\n[50] I accept this submission. By s 67(2) the required notice is to be given in accordance with any regulation which is in place. Regulation 5(2) of the Evidence Regulations 1995 (Cth) requires a notice under s 67 to state:\n\n> Exceptions to hearsay rule — notices of previous representations\n\n> (2) A notice of previous representation must state:\n\n> (a) subject to subregulation (6), the substance of evidence of a previous representation that the notifying party intends to adduce; and\n\n> (b) the substance of all other relevant representations made by the person who made that previous representation, so far as they are known to the notifying party; and\n\n> (c) particulars of:\n\n> (i) the date, time, place and circumstances at or in which each of the representations mentioned in paragraph (a) or (b) was made; and\n\n> (ii) the names of the persons by whom, and the persons to whom, each of those representations was made; and\n\n> (iii) in a civil proceeding — the address of each person so named;\n\n> so far as they are known to the notifying party.\n\n[51] The fact that Air New Zealand was proposing to rely upon the whole of the affidavits of Messrs Ros and Tan has been clearly known to the Court and the Commission since 13 November 2012 when Mr Smith said in open Court:\n\n> My learned friend should proceed on that basis. He should proceed on the basis that every sentence in each of those statements will be read and relied upon. He should proceed on the basis that we will make inquiries to produce these witnesses for cross-examination and, if we can’t , then we will proceed with our section 63 applications.\n\n[52] That statement provided all of the information otherwise required by reg 5(2).\n\n[53] It is true that Mr Smith’s statement to the Court did not provide the details of why it was said that Messrs Ros and Tan were unavailable to be called and, in this, the details required by reg 5(3) were not furnished. The emails from Messrs Ros and Tan which were tendered make clear, however, that they are not going to give evidence because they do not want to and Singapore Airlines letter of 22 November 2012 makes likewise clear that it is not going to make Messrs Ros and Tan attend.\n\n[54] It follows that all of the information which regs 5(2)-(3) contemplates should be provided is before the Court. In order to dispense with the requirement of a notice under s 67(2) the Court must make a direction under s 67(4). Section 192(2) dictates five mandatory matters to be taken into account in determining whether to give such a direction. These are:\n\n> Leave, permission or direction may be given on terms\n\n> (2) Without limiting the matters that the court may take into account in deciding whether to give the leave, permission or direction, it is to take into account:\n\n> (a) the extent to which to do so would be likely to add unduly to, or to shorten, the length of the hearing; and\n\n> (b) the extent to which to do so would be unfair to a party or to a witness; and\n\n> (c) the importance of the evidence in relation to which the leave, permission or direction is sought; and\n\n> (d) the nature of the proceeding; and\n\n> (e) the power (if any) of the court to adjourn the hearing or to make another order or to give a direction in relation to the evidence.\n\n[55] As to (a), the direction will lengthen the hearing, at least potentially, because it will introduce additional material about which submissions will need to be made. As to (b), I perceive no unfairness as the Commission has all of the information it would have received had the notice been issued. As to (c), the evidence of Messrs Ros and Tan is potentially of considerable significance depending on the weight it is afforded. As to (d), the proceedings are civil penalty proceedings of middle order magnitude in terms of length and complexity. As to (e), I do not see that granting an adjournment would make the attendance of Messrs Ros and Tan more likely.\n\n[56] Taking into account each of those matters, I conclude that a direction under s 67(4) should be made. In so doing, I do not disregard Ms Collins’ submission that s 67 requires more than a mere mechanical exercise to obtain the presence of a witness but I do not accept that Air New Zealand’s efforts were mechanical as suggested. Nor do I overlook the submission that r 30.29 of the Federal Court Rules 2011 (Cth) (‘the Rules’) requires a notice under cl 5 to be in the form of a Form 62 and that this was not done. I do not read r 30.29 of the Rules as altering the operation of ss 67(4) and 192 of the Act and, indeed, I would not read the Federal Court Rules as being able to modify what would otherwise be the operation of a statute. It may, in any event, be doubted whether r 30.29 has any operation in a case where no notice has been given at all. Lest it be relevant, however, I have taken into account in making the direction under s 67(4) Air New Zealand’s failure to use the Form 62 together with Mr Owens’ statement from the Bar table at trans 2788.22 that the reason the notice was not given was because Air New Zealand’s advisers believed, in light of what Mr Smith had said in open Court, that it was not necessary, a belief the holding of which I accept.\n\n##### (c) Directions under ss 135-136 of the Act\n\n[57] The evidence given by Ms Liu at trans 2712.25 included statements to the effect that third parties had said certain things. These statements were:\n\n• other airlines had asked Cathay what to do in light of the increase in the index;\n\n• a colleague who was previously the BAR-CSC Secretary told her that this was not the first time that airlines had failed to implement an increase in the surcharge suggested by the Lufthansa index; and\n\n• the former BAR-CSC secretary or other Cathay personnel said that the HK CAD had told Cathay that it expected airlines to implement the surcharge in accordance with the approved index ‘no more; no less’.\n\n[58] Mr Clarke submitted that this evidence should have been elicited in chief rather than in re-examination, and had that occurred, an order limiting the use of the evidence to non-hearsay purposes would have been made under s 136. Sections 135 and 136 provide:\n\n> 135 General discretion to exclude evidence\n\n> The court may refuse to admit evidence if its probative value is substantially outweighed by the danger that the evidence might:\n\n> (a) be unfairly prejudicial to a party; or\n\n> (b) be misleading or confusing; or\n\n> (c) cause or result in undue waste of time.\n\n> 136 General discretion to limit use of evidence\n\n> The court may limit the use to be made of evidence if there is a danger that a particular use of the evidence might:\n\n> (a) be unfairly prejudicial to a party; or\n\n> (b) be misleading or confusing.\n\n[59] The expression ‘unfairly prejudicial’ is not defined in the Act. Despite some obiter remarks of McHugh J to the contrary in Papakosmas v The Queen (1999) 196 CLR 297, 325 at [93] it has been accepted at an intermediate appellate level that unfair prejudice can include an inability to cross-examine: Bakerland Pty Ltd v Colridge [2002] NSWCA 30 at [55] per Giles JA (Heydon JA and Grove J agreeing). A series of first instance judgments in this Court are to the same effect: see the authorities collected by Sackville J in Seven Network v News Ltd (2006) 224 ALR 317, 322 at [20].\n\n[60] On the other hand, a number of decisions have held that some circumspection should be exercised in judge-alone trials where the risk of the unfairness is more readily ameliorated: see, for e.g., Seven Network at [21].\n\n[61] What is required by s 136 is a danger that a use might be unfairly prejudicial. The provision is concerned with risks, not certainties. Hence its focus on the presence of a ‘danger’ and even then only a danger that the use of the evidence ‘might be’ unfairly prejudicial. The provision is doubly subjunctive. Here the former Chairman of the BAR-CSC – a central witness – will not be cross-examined. There is a double uncertainty at play: whether he said what Ms Liu suggests at all (which depends on the accuracy of Ms Liu’s account) and whether, if he said it, it was true.\n\n[62] I am cognisant of a judge’s ability to be aware of the potential pitfalls of relying upon evidence which has not been tested by cross-examination. But I am far from clear as to how I might do so here. The evidence is untested – that is clear – but that tells one nothing about whether one ought or ought not to accept it. Perhaps it merely calls for heightened care. No doubt, the Commission may be able to assemble the documents the Chairman of the BAR-CSC might have been cross-examined on if he had been called. But I cannot foresee what his answers were likely to have been. The evidence thus far has suggested that the documentary record on this issue is less than clear. To force the Commission into that voluminous material just so a rather speculative fact finding process could be undertaken would not, at this stage, be fair. Had the evidence been elicited in chief, as part of an affidavit as it well could have been, the time available to the Commission to deal with the matter would have been greater. Instead, it is left to examine a potentially large quantity of documents towards the end of the trial. These matters constitute unfair prejudice to the Commission.\n\n[63] So far as Ms Liu’s remarks concern persons who are not identified the situation is only worse.\n\n[64] There should be an appropriate s 136 direction.\n\n[65] Mr Brennan, for Garuda, sought the revocation of two s 136 directions made at trans 2673.30 and trans 2675.5. These too were made during the course of Mr Clarke’s cross-examination of Ms Liu.\n\n[66] The question and answer giving rise to the first direction was at trans 2672.6 – 2672.17:\n\n> What do you say occurred between the 13th and the 26th to say that that is incorrect?---There were actually two things, two incidents. First is, as we have run through before, if I am correct, on 19 September - you have to get back to - but, basically, it is the chain of emails where Lufthansa included the statement saying, \"CAD does not accept applications by individual airlines, but requires a joint BAR-CSC application\". So that one incident. The second incident was actually the BAR-CSC ExCom meeting held - if - I can't remember the exact date, but if - according to the correspondence, it should be held on 25 September - where the BAR ExCom members were sitting together, including Lufthansa, and Carsten, of Lufthansa, in that meeting, has explained to us that, actually, he has talked to CAD about an individual application.\n\n[67] The objection was that Ms Liu’s evidence as to what ‘Carsten’ (Mr Hernig) from Lufthansa had said was hearsay. Pausing there, that evidence was only that he had spoken with the HK CAD about the topic of the individual application. However, a second answer went further (at trans 2674.43 – 2675.4):\n\n> MR CLARKE: I have been asked to let you finish?---Do you want me - okay. I will repeat myself. So it was based on the fact that I was told by Lufthansa in email, black and white, that they tried - just to read it out again - \"CAD does not accept application by individual airlines, but requires a joint BAR-CSC application\". Plus the fact that we met on the 25th - if I was correct - in the BAR-CSC ExCom meeting, where we discussed about the next steps. Carsten reconfirms that he has met with CAD and tried to apply individually, but he failed, and he noted that and said, \"You guys, you can try, but you will fail.\" So that's his note in the meeting.\n\n[68] In the case of both answers I limited the use of the evidence about what Mr Hernig had said as merely evidence that he had said such a thing and not as evidence that it was true.\n\n[69] It was these directions that Garuda sought to have revoked.\n\n[70] I have generally accepted that conversations of the present kind are relevant to an assessment of a witness’s understanding. So in the case of Ms Liu, for example, her understanding of what others had said about the single application issue is relevant to an assessment of her evidence about her own actions.\n\n[71] In this case, it is clear that Mr Hernig is not going to be called to give evidence. Mr Brennan submitted that the s 136 directions I have made should be revoked because, consistently with the remarks made by Sackville J in Seven Network, I could adequately address any unfairness arising from an inability to cross-examine Mr Hernig. More substantively, he submitted that the facts established that Mr Hernig was available to the Commission to call in its own case if it wished.\n\n[72] I do not think that the unfairness which arises in this case from an inability to cross-examine Mr Hernig may be safely ameliorated by my own awareness of the hearsay nature of the statements attributed to him. The evidence concerns an important issue in the case. Although the Commission will have the opportunity to make submissions about the documents upon which Mr Hernig might have been cross-examined, this, I do not believe, will be an adequate substitute for seeing Mr Hernig tested on the material. There is the added difficulty that I must rely upon Ms Liu’s account of what Mr Hernig said rather than some documentary form of testimony by Mr Hernig tendered in his absence. By this I mean to draw attention to the distinction in terms of clarity between a hearsay account in written form by the absent third party (for example, a signed statement) and an oral account by one witness of what the third party said. For similar reasons to those given at [62] I am concerned too about the procedural fairness of such material being elicited in cross-examination when it could have been adduced in affidavit form in chief.\n\n[73] The suggestion that the Commission is at liberty to call Mr Hernig raises different issues. As a matter of fact, the submission rests upon the contention that under the terms of the Commission’s settlement with Lufthansa the latter is obliged to co-operate with the Commission including by way of facilitating testimony by its employees. I accept that in all likelihood if the Commission wished to secure Mr Hernig to give evidence it could do so.\n\n[74] Were it the case that Mr Hernig was present within the confines of the Commonwealth the Commission could cause him to give evidence by means of a subpoena. In that sense, the Commission’s ability to call Mr Hernig is no different to its ability to call any person to give evidence except that the Commission is able to overcome, by means of its agreement with Lufthansa, what would otherwise be the possibly insurmountable obstacle presented by Mr Hernig’s absence from the jurisdiction.\n\n[75] The mere fact that a party against whom a third party statement is tendered has the ability to subpoena the third party to give evidence (or, as here, otherwise the possible capacity to secure the attendance of the party) cannot suffice for present purposes. This is because the unfairness springs from an inability to cross-examine rather than an inability to call the person as a witness. What is involved as the distinction between evidence tested and evidence adduced.\n\n[76] To this Mr Brennan rejoined that it was open to the Commission to call Mr Hernig, to ask him whether he had had the suggested discussion with the HK CAD and, if he agreed that he had, the Commission could apply to cross-examine him under s 38 of the Act. Section 38(1) provides:\n\n> 38 Unfavourable witnesses\n\n> (1) A party who called a witness may, with the leave of the court, question the witness, as though the party were cross examining the witness, about:\n\n> (a) evidence given by the witness that is unfavourable to the party; or\n\n> (b) a matter of which the witness may reasonably be supposed to have knowledge and about which it appears to the court the witness is not, in examination in chief, making a genuine attempt to give evidence; or\n\n> (c) whether the witness has, at any time, made a prior inconsistent statement.\n\n[77] I reject this submission. The only way that the Commission will obtain an entitlement to cross-examine is after Mr Hernig first gives evidence unfavourable to the Commission. I do not see how it can be right to say that the Commission suffers no prejudice because of what Ms Liu says Mr Hernig said because it can call Mr Hernig to say the same thing and then cross-examine him as an unfavourable witness. Requiring a party to prove its opponent’s case as the gateway to dispelling prejudice is not a state of affairs I would embrace.\n\n[78] In those circumstances, I decline to revoke the directions.\n\n[79] Ms Collins submitted that I should exclude significant portions of Messrs Ros and Tan’s affidavits under s 135. Forty four examples of this unfairness were proffered.\n\n[80] In the case of all forty-four instances (41 in writing, 3 oral) the basic point was the same. The evidence went to a matter of significance between the parties and the denial of the opportunity to cross-examine the two gentlemen constituted a species of unfair prejudice which ought to be remedied under s 135. Paragraph 47 of Mr Ros’s affidavit will serve as a useful example:\n\n> I have also been told that the ACCC alleges in this proceeding that the word “agreed” in certain minutes of the Singapore BAR-CSC meetings and the like means that the attendees of the meeting reached an agreement with each other in relation to the “agreed” subject matter, which on some occasions concerned surcharges. That is untrue for any minutes that I prepared, and I am distressed that minutes I prepared may be misunderstood in that way. As I stated earlier, the Singapore BAR-CSC was not a decision making body and no vote was taken at the meetings that I attended. No such agreements or commitments were given by any attendee in my presence at the meetings and the minutes of the meetings that I prepared were not intended to mean that that occurred. When I described something as “agreed” in the minutes, it was because the Chairman had made a statement and no-one said anything by way of disagreement or dissent. Very few attendees spoke at the meetings and often no-one said anything in response to statements made by the Chairman. I also used the word “agreed” if the Chairman made a statement and an attendee nodded in response or said that he had a similar view about the statement. I never understood or took such a statement to be any sort of commitment or undertaking about the future commercial decisions of that attendee’s airline.\n\n[81] This evidence relates to an important matter viz whether the alleged understandings were reached. Were it to be accepted it would be a large part of an answer to the Commission’s case.\n\n[82] Ms Collins submitted, and I accept, that in many instances these affidavits are likely to be quite probative and that this makes their utilisation all the riskier. In Australian Competition and Consumer Commission v Air New Zealand Limited (ARBN 000 312 685) (No 7) [2013] FCA 83 I concluded at [25] that the more probative hearsay evidence was the greater the risk of unfair prejudice and this, no doubt, supports Ms Collins’ contention. I have since reconsidered what I said in Air New Zealand (No 7). There I made an order under s 135 refusing to admit into evidence a letter from the HK CAD to the President of the European Commission dated 3 September 2009. I had concluded that it was admissible as a business record because, although written in contemplation of the European Commission’s investigation, that was not a proceeding in a foreign court for the purposes of s 69(3). I said this:\n\n> 24 But that, of course, is only half the inquiry. Section 135 requires me to assess the letter’s probative value against that danger. The letter is, so it seems to me, potentially of considerable probative value. It emanates from a regulator whose actions are significantly in issue. It is addressed to another State entity. It carries with it, quite possibly, the presumption that it is unlikely to have been sent in bad faith. Whilst in due course it may emerge that the relationship between Cathay Pacific and the HK CAD could provide a motive for its writing, this is very far from certain at this stage. Should that inference not be drawn, the letter is likely to be the closest this Court will come to receiving direct testimony from the HK CAD.\n\n> 25 The inability to test the contents of this letter creates a danger of prejudice that exceeds, and only increases in line with, its probative value. In my opinion, that danger substantially outweighs its probative value precisely for that reason. The power in s 135 is, therefore, enlivened. In my opinion, the unfairness which it presents requires that the discretion should be exercised in the ACCC’s favour. I will exclude Annexure CLSY-16 from the evidence. I will also reject the third sentence of paragraph 22(f) which accompanies it. I will receive the first sentence of paragraph 25 as a submission.\n\n[83] I am concerned that this reasoning may be unsound. The fact that the evidence is probative, perhaps strongly so, cannot be a form of substantive prejudice to which s 135 is directed. As McHugh J observed in Papakosmas 297, 325 at [91] and 297, 327 [98] the fact that evidence is legitimately damaging to an opponent’s case cannot be the kind of prejudice with which s 136 is concerned. Were it otherwise, the two provisions could operate to remove from a case all evidence which by its nature was compelling. Prejudice will be unfair under s 135 (and s 136) in at least two situations. The first, will be those situations where the Tribunal of fact may handle the evidence irrationally. The second, supported by the cases referred to above at [59] - [60], will involve deprivation of procedural entitlements such as loss of the right of cross-examination.\n\n[84] A more likely analysis, in light of those observations is that in Air New Zealand (No 7) the letter should have been admitted, the Court being satisfied of its own ability rationally to assess the weight of the evidence in light of the inability of the Commission to cross-examine its author.\n\n[85] The present reasons afford no occasion to revoke the ruling in Air New Zealand (No 7) although I will indicate that whether I should is a matter upon which I will hear the parties if either of them wishes.\n\n[86] What I will say is that I do not accept that the probative value of the affidavits of Messrs Ros and Tan affords in itself a good reason to make s 135 directions. This is because I do not think, in light of Seven Network, that I need do any more than be aware that Messrs Ros and Tan have not been cross-examined. I do not perceive procedural or substantive prejudice ranging beyond that. The affidavits are the sworn written accounts of the two men so that unlike the evidence of Ms Liu concerning Mr Hernig there is no doubt that it is, in fact, their testimony. The Commission was, until 8 November 2012, going to cross-examine these witnesses and it knew, even after then, that s 63 was being put forward as a basis upon which their affidavits might ultimately be used. In those circumstances, I am satisfied that the difficulties flowing from the fact that they will not be cross-examined can be adequately and fairly addressed and that the danger that unfair prejudice might be caused to the Commission does not substantially outweigh the material’s probative value.\n\n[87] There will be orders accordingly.\n\nI certify that the preceding eighty-seven (87) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 11 April 2013\n",
+ "source_sha256": "aee98f64390b7cc82a72264b5c803303e6452e6eb7349ca035baaa7f1a3910c2"
+}

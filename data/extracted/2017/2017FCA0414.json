@@ -1,0 +1,686 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2017/2017FCA0414.docx",
+ "metadata": {
+  "citation": "[2017] FCA 414",
+  "name": "Muswellbrook Shire Council v The Royal Bank of Scotland NV",
+  "court": "FCA",
+  "year": 2017,
+  "number": 414,
+  "date_of_judgment": "2017-04-21",
+  "file_numbers": [
+   "NSD1322/2012"
+  ],
+  "judges": [
+   "WIGNEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Corporations and Corporate Insolvency",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-11-01"
+  ],
+  "hearing_raw": "1 November 2016",
+  "number_of_paragraphs": 47,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – representative proceeding – application for Court approval of settlement of proceedings under s 33V of the Federal Court of Australia Act 1976 (Cth) – whether the settlement is fair and reasonable and in the interests of the group members as a whole – factors relevant to the reasonableness of the settlement – where the Court ordered that group members be sent notices prior to mediation offering participating group members the opportunity to opt out and requiring non-participating group members to register for the settlement, opt out or do nothing – where failure to register or opt out meant non-participating group members were excluded from benefit of settlement and barred from commencing future proceedings against the respondents – whether settlement is fair and reasonable to non-participating group members – whether fair and reasonable that non-participating group members are excluded from participating in settlement – whether strong and compelling reasons for approving a settlement that gives preferential treatment to participating group members"
+  ],
+  "legislation": [
+   "Australian Securities and Investments Commission Act 2001 (Cth), s 12DA",
+   "Corporations Act 2001 (Cth), ss 1041E, 1041H",
+   "Federal Court of Australia Act 1976 (Cth), Part IVA, ss 33J, 33V, 33X, 33Y, 33ZB, 33ZF, 37AF, 37AG",
+   "Fair Trading Act 1942 (NSW), s 42"
+  ],
+  "cases_cited": [
+   "ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1",
+   "Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200",
+   "Muswellbrook Shire Council v The Royal Bank of Scotland NV [2016] FCA 819",
+   "Newstart 123 Pty Ltd v Billabong International Ltd [2016] FCA 1194",
+   "Stanford v DePuy International Ltd (No 6) [2016] FCA 1452"
+  ],
+  "parties": [
+   {
+    "name": "MUSWELLBROOK SHIRE COUNCIL",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE ROYAL BANK OF SCOTLAND NV ARBN 84 079 478 612",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr C H Withers with Ms E Bathurst"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Squire Patton Boggs"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Ms J Campbell of Allens"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr I J M Ahmed"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0414",
+  "portal_file_numbers": [
+   "NSD1322/2012"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2017-04-21"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 1322 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "WIGNEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "21 April 2017"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – representative proceeding – application for Court approval of settlement of proceedings under s 33V of the Federal Court of Australia Act 1976 (Cth) – whether the settlement is fair and reasonable and in the interests of the group members as a whole – factors relevant to the reasonableness of the settlement – where the Court ordered that group members be sent notices prior to mediation offering participating group members the opportunity to opt out and requiring non-participating group members to register for the settlement, opt out or do nothing – where failure to register or opt out meant non-participating group members were excluded from benefit of settlement and barred from commencing future proceedings against the respondents – whether settlement is fair and reasonable to non-participating group members – whether fair and reasonable that non-participating group members are excluded from participating in settlement – whether strong and compelling reasons for approving a settlement that gives preferential treatment to participating group members"
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Securities and Investments Commission Act 2001 (Cth), s 12DA\nCorporations Act 2001 (Cth), ss 1041E, 1041H\nFederal Court of Australia Act 1976 (Cth), Part IVA, ss 33J, 33V, 33X, 33Y, 33ZB, 33ZF, 37AF, 37AG\nFair Trading Act 1942 (NSW), s 42"
+  },
+  {
+   "label": "Cases cited",
+   "value": "ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1\nBathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200\nMuswellbrook Shire Council v The Royal Bank of Scotland NV [2016] FCA 819\nNewstart 123 Pty Ltd v Billabong International Ltd [2016] FCA 1194\nStanford v DePuy International Ltd (No 6) [2016] FCA 1452"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "1 November 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Corporations and Corporate Insolvency"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "47"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr C H Withers with Ms E Bathurst"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Squire Patton Boggs"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Ms J Campbell of Allens"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr I J M Ahmed"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1322/2012",
+   "parties": [
+    {
+     "name": "MUSWELLBROOK SHIRE COUNCIL",
+     "role": "Applicant"
+    },
+    {
+     "name": "THE ROYAL BANK OF SCOTLAND NV ARBN 84 079 478 612",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "WIGNEY J"
+   ],
+   "date": "2017-04-21",
+   "date_raw": "21 April 2017",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to sections 37AF and 37AG(1)(a) of the Federal Court of Australia Act 1976 (Cth) (Act), until further order, in order to prevent prejudice to the proper administration of justice:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "Confidential Exhibit AKB-6 to the affidavit of Amanda Kim Banton sworn 27 October 2016;",
+     "level": 1
+    },
+    {
+     "label": "(b)",
+     "text": "the Confidential Affidavit of Amanda Kim Banton sworn 27 October 2016, including Confidential Exhibit AKB-7, Confidential Annexure AKB-8 and Confidential Exhibit AKB-9;",
+     "level": 1
+    },
+    {
+     "label": "(c)",
+     "text": "Confidential Annexure RPM-1, Confidential Exhibit RPM-3 and Confidential Exhibit RPM-4 to the affidavit of Roland Patrick Matters sworn 28 October 2016;",
+     "level": 1
+    },
+    {
+     "label": "(d)",
+     "text": "Annexure GL-1 and GL-2 to the affidavit of Grant Joseph O’Leary sworn 27 October 2016;",
+     "level": 1
+    },
+    {
+     "label": "(e)",
+     "text": "Confidential Affidavit of Amanda Kim Banton sworn 1 November 2016,",
+     "level": 1
+    },
+    {
+     "label": "",
+     "text": "are:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "to be treated as confidential;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "to be sealed on the Court file in an envelope marked “Not to be opened except by leave of the Court or a Judge” and are not to be published or made available and any electronic version thereof is to be treated in an analogous fashion; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "not to be disclosed to any person other than the Applicant, its legal representatives and IMF Bentham Limited (IMF), such permitted disclosures to be upon terms that none of those parties or persons disclose that material or any part thereof to any person or entity.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Pursuant to section 33ZF of the Act, the Applicant be authorised, nunc pro tunc, to enter into and give effect to the Settlement Deed executed by the Applicants, the Respondents and IMF (Settlement) and all transactions contemplated for and on behalf of all the Group Members.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to section 33ZB of the Act, the persons affected and bound by the Settlement are the Applicants, the Group Members, IMF and the Respondents.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Pursuant to section 33ZB and section 33ZF of the Act:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "the terms of the Settlement are approved;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the terms of the Settlement Distribution Scheme are approved; and",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "the solicitor for the Applicant, Amanda Banton of Squire Patton Boggs, is appointed as the administrator of the Settlement Distribution Scheme.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The proceedings be dismissed with no order as to costs.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "All cost orders made to date in the proceeding are vacated.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "Amanda Banton of Squire Patton Boggs (as administrator of the Settlement Distribution Scheme) and the parties have liberty to apply on three days’ notice.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The undertaking to the Court given by the Third Respondent and dated 12 October 2016.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "THE COURT NOTES:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Muswellbrook Shire Council is the representative applicant in representative proceedings commenced pursuant to Part IVA of the Federal Court of Australia Act 1976 (Cth). The respondents in the proceedings are The Royal Bank of Scotland NV and McGraw-Hill International (UK) Limited. A claim against RBS Morgan Limited, as second respondent, was previously discontinued. The parties have agreed to settle the proceedings. Representative proceedings may not, however, be settled without the approval of the Court: s 33V of the Federal Court Act. Muswellbrook applied to the Court for the approval of the settlement, together with a number of ancillary orders. For the reasons that follow, the settlement should be approved.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "Between 5 September 2006 and late 2007, a number of persons had the misfortune of investing in sophisticated financial products that were given the name “Rembrandt Notes”. Muswellbrook was one of those investors.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "The Rembrandt Notes were a form of financial instrument known as a constant proportion debt obligation or “CPDO”. It is not easy to describe what a CPDO actually is. It has been described in the evidence as “a structured credit derivative indexed on a portfolio of investment grade debt which generates high coupon payments by dynamically leveraging a position in an underlying portfolio index of default swaps i.e. a CPDO comprises an index portfolio and a notional cash deposit”. That description will suffice for present purposes, even though it will be almost entirely meaningless to the typical reader of average intelligence. Interested or curious readers with time on their hands may care to read the pellucid description and explanation of CPDOs given by Jagot J in Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200 at [54]-[61] (though even Jagot J described the CPDOs in question as “grotesquely complicated”) and the similar description given by the Full Court, on appeal from the judgment of Jagot J, in ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1 at [32]-[36]. The important point to note is that the CPDOs in question in this matter had features which, on just about any view, made them a high risk investment.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "The issue of the Rembrandt Notes was arranged by ABN Amro Bank NV, which is now owned by, or is part of, the Royal Bank of Scotland. To keep things simple, the Royal Bank of Scotland, which is the first respondent in the proceedings, will be referred to in these reasons as ABN Amro, since it was ABN Amro that was involved in the events the subject of the proceedings. ABN Amro established a trust, which became known as the Rembrandt Australia Trust 2006-2. The trustee of the Rembrandt Trust was Perpetual Trustee Company Limited. In early September 2006, Perpetual caused the Rembrandt Trust to issue Rembrandt Notes with an issue value of $50 million.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "ABN Amro retained the well-known international credit ratings agency Standard & Poor’s to assign a credit rating to the notes. Standard & Poor’s is a business operated by or associated with McGraw-Hill, which is the third respondent in the proceedings. For the sake of simplicity, McGraw-Hill, which is the third respondent, will be referred to throughout these reasons as Standard & Poor’s. Standard & Poor’s gave the notes a AAA rating, its best and highest rating. Thereafter, ABN Amro set about using the fact that Standard & Poor’s had assigned a AAA rating to the Rembrandt Notes in its marketing and promotion of the notes to prospective investors.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "Despite their AAA rating, the Rembrandt Notes ultimately failed. Investors in them suffered considerable losses.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "On 5 September 2012, Muswellbrook commenced these proceedings, both on its own behalf and on behalf of others who, like it, had acquired Rembrandt Notes. Given the description of the group members, the proceedings were so-called “open class” representative proceedings: the represented group was not limited to acquirers of Rembrandt Notes who had retained a particular solicitor, or had entered into litigation funding agreements with a particular litigation funder. As will be seen, however, ultimately the group members who elected to participate in the settlement were small in number. Each of them had entered into an agreement with the litigation funder. Each of them was legally represented.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "Muswellbrook alleged that ABN Amro was liable to compensate it for loss or damage arising from its investment in the Rembrandt Notes on the basis of causes of action in negligence and in respect of contraventions of ss 1042E and 1042H the Corporations Act 2001 (Cth), s 42 of the Fair Trading Act 1942 (NSW) and s 12DA of the Australian Securities and Investments Commission Act 2001 (Cth).",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "In relation to its claim in negligence, Muswellbrook alleged that ABN Amro breached the duty of care it owed to potential purchasers to whom it marketed the Rembrandt Notes. Amongst other things, it alleged that ABN Amro failed to ensure that the risks to which purchasers of the Rembrandt Notes were exposed were adequately disclosed, communicated the fact of Standard & Poor’s assignment of a AAA rating without disclosing certain important matters concerning that rating, and failed to inform prospective purchasers that the AAA rating could not and should not be relied on.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "In relation to the statutory contraventions, Muswellbrook alleged, amongst other things, that by causing or permitting the publication of Standard & Poor’s AAA rating in respect of the Rembrandt Notes, ABN Amro engaged in conduct that was misleading and deceptive, or likely to mislead or deceive, and disseminated information which was materially misleading and likely to induce persons to acquire the Rembrandt Notes in circumstances where it ought reasonably to have known that the information was materially misleading. In simple terms, the alleged misleading and deceptive conduct, and the alleged misleading information, concerned matters that bore on the reliability of Standard & Poor’s rating of the notes.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "Similar claims and allegations were made against Standard & Poor’s. Muswellbrook alleged that in forming and publishing its rating of the Rembrandt Notes, Standard & Poor’s was negligent and breached its duty of care to prospective purchasers of the notes. In simple terms, Muswellbrook contended that the rating lacked reasonable grounds and was not the product of the exercise of reasonable care and skill. Muswellbrook also alleged that in assigning and publishing the AAA rating of the Rembrandt Notes, Standard & Poor’s made various representations to prospective investors about the creditworthiness and credit risk associated with the Rembrandt Notes. Standard & Poor’s was also alleged to have represented that the rating was based on reasonable grounds and that, in assigning the rating, it had exercised reasonable care and skill. Muswellbrook alleged that those representations were misleading and deceptive, and that Standard & Poor’s had thereby contravened ss 1041E and 1041H of the Corporations Act, s 42 of the Fair Trading Act and s 12DA of the ASIC Act.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "A brief description of the proceedings"
+    ],
+    "text": "It is worth noting, at this stage, that the allegations against ABN Amro and Standard & Poor’s in these proceedings overlap considerably with allegations that were made in proceedings commenced against ABN Amro and Standard & Poor’s by different parties in respect of a different issue of Rembrandt notes. Those proceedings were the Bathurst Regional Council proceedings referred to earlier. In November 2012, Jagot J found those allegations to be made out and ABN Amro and Standard & Poor’s were found to be liable. An appeal from Jagot J’s judgment was subsequently dismissed. The present proceedings were stayed, or at least were not progressed, pending the determination of the appeal in the Bathurst Regional Council proceedings.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Mediation and notice of registration and opt out rights"
+    ],
+    "text": "In mid-2016, the parties arranged for the dispute to be mediated. They approached the Court for an order referring the matter to a mediator. They also sought orders which were intended to facilitate the mediation by, in effect, putting in place a procedure whereby all group members who wished to have their claims considered in the mediation were required to identify themselves to Muswellbrook’s solicitors and provide information concerning their claims. Notices were to be sent to group members advising them of their options in relation to the proceedings. Group members who had already notified Muswellbrook’s solicitors of their intention to participate in the action were notified of their right to opt out of the proceeding pursuant to s 33J of the Federal Court Act. Group members who had not yet registered with Muswellbrook’s solicitors were also notified of their right to opt out. More significantly, they were also notified that if they did not opt out, they had the option of either registering to have their claims dealt with at the mediation, or doing nothing. They were advised of the implications of taking each of these options.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Mediation and notice of registration and opt out rights"
+    ],
+    "text": "The object of this notification procedure was to provide ABN Amro and Standard & Poor’s with some degree of certainty concerning the extent of the claims against them for the purposes of the mediation. Group members who opted out would cease to be group members, would play no further role in the proceedings, but would not be barred from subsequently commencing proceedings against ABN Amro or Standard & Poor’s should they choose to do so. Group members who registered and provided the required information to Muswellbrook’s solicitors would be entitled to participate in any settlement reached at the mediation. Group members who did nothing would remain group members, but if the matter settled at mediation, they would not, without the leave of the Court, be entitled to receive any payment from the settlement funds. Because they remained group members, if the proceedings settled the non-participating group members would also be effectively barred from subsequently commencing proceedings against ABN Amro or Standard & Poor’s in respect of the subject matter of these proceedings. Their potential claims could effectively be disregarded for the purposes of the mediation.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Mediation and notice of registration and opt out rights"
+    ],
+    "text": "On 9 June 2016, Rares J made the orders sought by the parties: Muswellbrook Shire Council v The Royal Bank of Scotland NV [2016] FCA 819. The orders included the approval of notices to be sent to the group members. Muswellbrook’s solicitors had earlier obtained a copy of the register of holders of the Rembrandt Notes. Notices were to be sent to all holders listed on the register. The notices were sent out in mid-June 2016 and required a response by the beginning of July 2016.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Mediation and notice of registration and opt out rights"
+    ],
+    "text": "No group member elected to opt out of the proceeding. Nor did any group member who had not previously registered with Muswellbrook’s solicitors complete and return a registration notice. The result was that there were five so-called participating group members, including Muswellbrook, who were eligible to have their claims considered at the mediation. There were fifteen non-participating group members who would be bound by, but would not be entitled to benefit from, any settlement reached at the mediation. Three of them were associated in some way or another with one of the respondents. It is somewhat mystifying why any group member would elect not to participate in any settlement in these circumstances. Nevertheless, it is tolerably clear that all group members were given adequate notice of the nature of the proceedings, the mediation and their rights to opt out or participate. They were also given adequate notice of the implications if they chose not to register.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Notice of the proposed settlement"
+    ],
+    "text": "The mediation was successful. On 22 July 2016 the parties executed a Heads of Agreement. In early September 2016, they subsequently executed a Deed of Settlement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Notice of the proposed settlement"
+    ],
+    "text": "On 21 September 2016, the Court approved, pursuant to ss 33X and 33Y of the Federal Court Act, the form and content of a notice to participating group members concerning the proposed settlement. The notice was not sent to the non-participating group members, being those members who did not register in accordance with the notice sent to them in June 2016. The notice contained details of the proposed settlement of the proceedings and the Court approval process. It also enclosed a ‘notice of objection to settlement’ form that the participating group member could complete and return if they wished to object to the settlement. Two participating group members initially advised that they objected to the settlement. Those objections were subsequently withdrawn as a result of an undertaking provided to the Court by Standard & Poor’s. That undertaking was to the effect that Standard & Poor’s would not rely on the settlement, or any release in the Deed, as a bar or defence to any future proceedings concerning any financial product other than the Rembrandt Notes.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Notice of the proposed settlement"
+    ],
+    "text": "It is also important to note at this point that three of the five participating group members had retained Muswellbrook’s solicitor to act for them. The two participating group members who initially objected to the proposed settlement were separately represented. Perhaps more importantly, all of the five participating group members had signed funding agreements with a litigation funder, IMF Bentham Limited. IMF was to fund the litigation by paying Muswellbrook’s legal fees. The funding agreements, not surprisingly, provided that if the proceedings were successfully resolved, IMF was entitled to receive certain payments from the proceeds, including reimbursement of the legal fees paid by it, a commission, and project management fees. More will be said later about the payments that will be made to IMF if the settlement is approved.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "The precise terms of the settlement were and remain confidential. The Court previously made suppression orders pursuant to ss 37AF and 37AG(1)(a) of the Federal Court Act in respect of the Heads of Agreement and Settlement Deed. Further confidentiality orders were sought in respect of much of the documentary evidence that recorded the terms of the settlement. The main basis for the suppression orders was, and is, that confidentiality is necessary to prevent prejudice to the proper administration of justice. The information covered by the additional orders sought included, amongst other things, confidential and privileged communications, including an opinion of trial counsel. If that material was disclosed and the settlement was not approved, Muswellbrook would most likely be prejudiced in its further conduct of the proceedings. It is, nevertheless, appropriate to refer to some basic features of the settlement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "The settlement is subject to five conditions. The first condition is that the Court approves the settlement. The second is that all available appeal options in relation to the Court’s approval of the settlement expire without an appeal being commenced, or if an appeal is commenced, the appeal is determined with the result that the settlement approval is confirmed. The third is that all participating group members will be bound by the terms of the settlement recorded in the Deed. The fourth is that all other group members will be bound by the settlement and have their claims extinguished by the disposal of the proceedings. The fifth condition is that no group member who is not a participating group member will or will be able to obtain any benefit from the settlement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "Under the terms of the settlement, ABN Amro and Standard & Poor’s will pay a settlement sum, inclusive of interest and legal costs, to settle the proceedings. The amount of the settlement sum is confidential. It is sufficient to say that it is a relatively large sum, though less than the estimate of the aggregate damages claimed by Muswellbrook and the participating group members. The adequacy or reasonableness of the settlement sum will be addressed later.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "The process by which the settlement sum is to be distributed is set out in a detailed document entitled “Settlement Distribution Scheme”. The detail of that settlement distribution scheme is mostly confidential. It is, in any event, unnecessary to rehearse much of that detail. It is sufficient to note that each participating group member will share pro rata in the settlement sum on the basis of their capital losses subject to certain assumptions and qualifications. The scheme is to be administered by Muswellbrook’s solicitor, though once the settlement is approved the solicitor will cease to act for Muswellbrook or any other participating group member. The scheme includes a process by which participating group members are sent a calculation of the amount payable to them under the scheme, calculated as a pro rata percentage of the total amount available for distribution after disbursements and costs. Participating group members are given the opportunity to dispute the correctness of that calculation, including to an independent assessor.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "As might be expected, the distribution scheme also provides for various payments to be deducted from the settlement sum and paid to IMF. Those payments represent amounts payable pursuant to the terms of the funding agreements that each of the participating group members had entered into with IMF. In simple terms, the amounts payable to IMF comprise a project management fee, which is a percentage of the “project costs”, which mainly consist of the legal fees paid or payable by IMF, together with a commission or funding fee, which is a percentage of the settlement sum. IMF is also entitled to be reimbursed in respect of legal fees and costs paid to Muswellbrook’s solicitors pursuant to their retainer agreement and the funding agreement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "Putting the quantum of the legal costs to one side for the moment, it is to be noted that the amounts to be deducted from the settlement sum and paid to IMF pursuant to the settlement scheme and funding agreements are quite large. IMF’s commission or funding fee pursuant to the funding agreements is a significant percentage of the settlement sum, which as already noted is not an insignificant amount. It is also entitled to a significant percentage of the project costs, which include legal costs. As will be seen, the legal costs are not insubstantial. It follows that the project fee is also not insubstantial.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "Careful consideration has been given to the total amount payable to IMF pursuant to the settlement scheme and the funding agreements. On balance it does not provide any proper basis for not approving the settlement. This was the bargain struck between IMF and each of the participating group members. None of the participating group members has opposed the settlement on the basis that a significant portion of their share of the settlement sum will go to IMF.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "A brief description of the settlement"
+    ],
+    "text": "The final aspect of the proposed settlement that warrants mention concerns a small payment that is to be made to Muswellbrook to reimburse it for the time it has spent as the representative applicant. The calculation of that payment was supported by evidence. The evidence also demonstrated that the payment was reasonable and appropriate in the circumstances.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Evidence led in support of the approval application"
+    ],
+    "text": "The evidence led in support of the approval application primarily consisted of the affidavit evidence of Muswellbrook’s solicitor, together with a number of documentary exhibits. The solicitor’s evidence addressed the nature of the proceedings and provided a detailed procedural chronology, including the approval and issuing of notices to the group members and participating group members. The substance of much of that evidence has already been referred to. The solicitor’s confidential evidence included evidence concerning the legal fees and project costs, the commission or funding fee payable to IMF, the key features of the settlement and the distribution of the settlement funds, the estimated costs of administering the scheme and an estimate of the legal costs that might be incurred should the settlement not be approved and the matter proceed to trial. The documentary exhibits included the Settlement Deed and the Settlement Distribution Scheme. As already noted, suppression orders have been made, or were sought, in respect of those documents.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Evidence led in support of the approval application"
+    ],
+    "text": "The confidential documentary exhibits also included an opinion from trial counsel. That opinion included, amongst other things, counsel’s opinion concerning litigation risk, the prospects of success of the proceedings, the reasonableness of the settlement sum and other matters that bore on the overall reasonableness of the proposed settlement. Careful consideration has been given to the opinion of counsel, particularly as the lead counsel responsible for the opinion appeared as one of the trial counsel in the related Bathurst Regional Council proceedings referred to earlier.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Evidence led in support of the approval application"
+    ],
+    "text": "The evidence led in support of the approval application also included a detailed expert report prepared by a legal costs consultant in respect of the reasonableness of the legal costs incurred by Muswellbrook. A suppression order was sought in respect of the report. It can, however, be noted that the expert’s opinion was that the legal costs that had been incurred were fair and reasonable and were quantified in accordance with the contractual arrangements between Muswellbrook and its solicitors.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Evidence led in support of the approval application"
+    ],
+    "text": "Finally, as already noted, affidavit evidence was adduced in relation to the amount payable to Muswellbrook to reimburse it for the time and expense incurred as representative applicant.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Approval of settlements – relevant principles"
+    ],
+    "text": "The principles that apply in relation to the approval of the settlement of a representative proceeding under s 33V of the Federal Court Act are now well-settled. In Stanford v DePuy International Ltd (No 6) [2016] FCA 1452, the relevant principles were summarised in the following terms (at [113]-[121]).\nFirst, in approving a settlement the central question is whether the proposed settlement is fair and reasonable and in the interests of group members considered as a whole: Australian Competition and Consumer Commission v Chats House Investments Pty Limited (1996) 71 FCR 250 at 258 C; Williams v FAI Home Security Pty Ltd (No 4) [2000] FCA 1925; (2000) 180 ALR 459 at [19]-[23]; Lopez v Star World Enterprises Pty Ltd [1999] FCA 104 at [15]; Camilleri v The Trust Company (Nominees) Limited [2015] FCA 1468 at [5].\nSecond, there is no definitive or exhaustive list of factors that must or may be taken into account in approving a settlement. The merits of each settlement must be considered having regard to the particular facts and circumstances of the case. Approval should not be approached in a formulaic way, as if there is a “check-list” of factors that need to be ticked-off: Darwalla Milling Co Pty Ltd v F Hoffman-La Roche Ltd & Ors (No 2) [2006] FCA 1388; (2006) 236 ALR 322 at 333-335 [33]-[35]. Nevertheless, the factors that are likely to be relevant include: the complexity and duration of the litigation; the stage of the proceedings; the risks and prospects of success of establishing liability and damages; the risks of an appeal; and the reasonableness of the settlement in light of the “best case” recovery and the attendant risks of litigation: see generally Williams at [19]; Modtech Engineering Pty Ltd v GPT Management Holdings Ltd [2013] FCA 626 at [11] and [13].\nThird, in relation to the risks and prospects of success of establishing liability and damages, some weight, and perhaps considerable weight, should be given to the judgment and tactical and other decisions made by the parties and their legal representatives. The task of the Court is not to “second-guess” or go behind those judgments and decisions. Rather, it is to assess the reasonableness of those decisions having regard to the known and knowable facts and circumstances: Pharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 6) [2011] FCA 277 at [22], quoting Darwalla Milling at 339 [50]; Modtech at [12].\nWhere settlement is reached prior to judicial determination, the assessment of the proposed settlement must be undertaken mindful of the unpredictability of the applicant’s and group members’ fate. In those circumstances, the settlement must be viewed as a pragmatic compromise to the relevant claims. In that regard, the Court should be mindful of the fact that the parties and their legal representatives are often in a better position to appreciate the risks, and also mindful of the fact that different parties and their lawyers will have different appetites for risk: Kelly v Willmott Forests Ltd (in liquidation) (No 4) [2016] FCA 323 at [74].\nFourth, approval of a settlement should not be approached as if there is a single outcome that may be seen to be fair and reasonable. Reasonableness is a range, and the question is whether the proposed settlement falls within that range having regard to the known facts and circumstances, not whether it is the best outcome which the Court considers might have been achieved: Darwalla at 339 [50]; Kelly v Willmott Forests at [74].\nFifth, that principle applies both to the reasonableness of any settlement sum and the reasonableness of the structure and workings of any settlement scheme by which a settlement sum is proposed to be distributed among group members. In relation to schemes for the distribution of a settlement sum among group members, a particular concern of the Court is to ensure that the interests of one group member, or one class of group members (in particular the representative applicant or applicants) is not preferred over the interests of other group members: Chats House at 258 C; Rod Investments (Vic) Pty Ltd v Abeyratne [2010] VSC 457 at [19]. The scheme should operate to achieve a broadly fair division of the settlement sum, treating like group members alike; it should also operate as cost-effectively as possible: Mercieca v SPI Electricity Pty Ltd [2012] VSC 204 at [37]-[39].\nSixth, there is no definitive or exhaustive list of the factors that may lead the Court to refuse to approve a proposed settlement. The types of factors that may lead the Court to conclude that a proposed settlement is not fair and reasonable and in the interests of group members as a whole include: where the settlement involves group members being bound to terms that may have an adverse effect on them that go beyond the claims and defences in the representative proceedings, or where the adverse effect is not balanced by any proposed benefit under the settlement; where preparation of the proceedings has been adversely affected by funding or other difficulties not disclosed to group members; where potential conflicts of interest are not properly recognised and addressed in the course of the settlement application; where less than the whole of the costs of the proceeding have been scrutinised and are proposed to be the subject of reimbursement through the settlement fund; and where the prospects of success of the claim are not properly laid before the Court: see Kelly v Willmott Forests at [6]-[12].\nSeventh, in assessing the fairness and reasonableness of the costs component of a proposed settlement, the Court takes a pragmatic approach, seeking some independent verification of the reasonableness of the costs claimed, but not imposing an onerous or exhaustive task upon an applicant: Courtney v Medtel Pty Ltd (No 5) [2004] FCA 1406; 212 ALR 311. The Court’s task is not to perform a taxation of the fees. Rather, the Court considers whether the fees and disbursements are unreasonable in any respect having regard to, amongst other things, the nature of the work performed, the time taken to perform the work, the seniority of the persons undertaking the work and the appropriateness of the charge out rates of those persons: Modtech at [32]. The Court should not approve an amount that is disproportionate, but such an assessment cannot be made on the simplistic basis that the costs claimed are high in absolute terms, or high as a percentage of the total recovery: Foley v Gay [2016] FCA 273 at [23]-[24].\nEighth, the absence of any objection or opposition to the settlement by any group member or group members is a highly relevant consideration, at least where the Court is satisfied that all group members have been given timely notice of the critical elements of the settlement: P Dawson Nominees Pty Ltd v Brookfield Multiplex Limited (No 4) [2010] FCA 1029 at [23]; Camilleri at [5(f)]. The same reasoning would most likely apply where only a very small proportion of the group members have objected.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "When the principles are applied to the facts and circumstances of this proceeding and the proposed settlement, it is readily apparent that the settlement should be approved. That is so for a number of reasons.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "First, the settlement sum would appear to be reasonable in all the circumstances. The reasonableness of the settlement sum was addressed in the confidential opinion of counsel. It may be tempting to think that, because many of the factual and legal issues likely to arise in the proceedings have been the subject of findings in the Bathurst Regional Council litigation, the litigation risk involved in taking this matter to trial would not be great. It is, however, tolerably clear that there is not a complete overlap with the Bathurst Regional Council litigation. Potential liability, damages and litigation risks remain. Those risks were addressed in the confidential opinion of counsel. In considering the reasonableness of the settlement sum, the Court should be reluctant to second-guess or go behind the reasoned judgment of experienced counsel intimately involved in the proceedings. The settlement sum plainly represents or reflects a compromise. In all the circumstances, it is a fair and reasonable compromise.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "Second, there is nothing inherently unfair or unreasonable about the settlement distribution scheme. The scheme treats each participating group member equally. The way in which each participating group member’s claim is assessed is fair and reasonable. The settlement sum is distributed pro rata between the participating group members. For the reasons already given, while the amounts payable to IMF from the settlement sum are large, they are not so disproportionately large that they could be considered to be unfair or unreasonable. The payments to be made to IMF reflect the contractual bargain struck between IMF and each of the participating group members.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "Third, while the legal fees and costs incurred in relation to the proceedings are by no means insubstantial, there is no reason to question the expert opinion concerning the reasonableness of the legal fees.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "Fourth, participating group members have been given fair and reasonable notice of the proposed settlement. While two participating group members initially objected, those objections have now been withdrawn. In the particular circumstances of this case, where the class is small and each of the participating group members is legally represented and has plainly received notice of the proposed settlement, the absence of any objection can be taken to be informed consent to the settlement. That is a weighty consideration in all the circumstances.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "Fifth, if the settlement is not approved, the parties will incur considerable legal costs in taking the matter to trial. Despite having been on foot for over four years, the proceedings remain at a very early stage of preparation. A defence has not yet been filed. Certainly no evidence has been filed. The matter involves events that occurred over a decade ago. These are no doubt matters that the parties took into account when negotiating the settlement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "There is only one potential issue with the proposed settlement that gives pause for thought. That issue concerns the fact that only participating group members derive a benefit from the settlement. Non-participating group members are bound by the settlement, though they derive no benefit from it. Non-participating group members comprise the group members who have not opted out of the proceedings, but did not register with Muswellbrook’s solicitor after receiving the notices approved by Rares J in June 2016. The non-participating group members were not sent the notices advising of the proposed settlement.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "The position of the non-participating group members raises the question as to whether the proposed settlement is in the interests of the group members as a whole. It could be argued that the settlement is not in the interests of non-participating group members and gives preference to participating group members. Ordinarily there must be strong and compelling reasons for the Court to approve a settlement which gives preferential treatment to some group members over others: Newstart 123 Pty Ltd v Billabong International Ltd [2016] FCA 1194 at [14]. Are there strong and compelling reasons for preferring the interests of participating group members?",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "The answer to that question essentially lies in the reasons given by Rares J for requiring group members to register before the mediation, and for ordering that group members who did not register would not be permitted to seek any benefit in the settlement subject to the leave of the Court. In that regard, after noting (at [20]) that the statutory scheme for representative proceedings generally allows group members to be passive and take no positive step in the proceeding to gain whatever benefit a determination might bring them, Rares J said (at [26]):\nThe Court’s power to make orders of this nature under ss 33Q(1) and 33ZF(1) ensures that the legislative purpose for group proceedings will not be frustrated by the need for the representative party and the respondent to litigate the pleaded claims to judgment before group members could be required to come forward and deal with the consequences of the determination of the common issues of law or fact. Indeed, the legislative scheme of Pt IVA contemplates that, sometimes before, and certainly, as ss 33Z and 33ZA provide, once the common issues have been determined by judgment, group members must participate in some way in a resolution process, including by further action in the Court, within the representative proceedings.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "In short, Rares J considered that the stage had been reached in the proceedings when it was just to require group members to participate in the “resolution process”. If they chose not to do so, the consequence would be that they would not be able to obtain any benefit from the resolution process should it be successful. The notices approved by Rares J and sent to group members included clear and concise information concerning their rights and options, and clear and concise information concerning the implications of not registering. It should also be noted, in that context, that the notices approved by Rares J did not come out of the blue as far as the group members were concerned. The group members had earlier been sent notices and information concerning the proceedings, including a notice sent in November 2013 informing group members of the nature of the proceedings, and a letter from Muswellbrook’s solicitor sent to group members concerning the proceedings in December 2015.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "A stage must be reached in any representative proceedings where fairness does not require the sending of further notices to group members who have clearly manifested an intention not to participate in any way, or at any time, in the proceedings. That stage was reached in these proceedings following the sending of the notices approved by Rares J. Fairness did not require the sending of notices of the proposed settlement to the group members who did not respond to the notices approved by Rares J.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "It is, in those circumstances, not unfair and not unreasonable that the non-participating group members be excluded from participating in the settlement. They had, in short, been given ample notice and ample opportunity to choose to participate. While in a broad sense it might be said that the settlement is not in the interests of the non-participating group members, there are strong and compelling reasons why the settlement should be approved nonetheless.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "The settlement should be approved"
+    ],
+    "text": "Two further observations can be made concerning the non-participating group members. First, as already noted, they are few in number. Second, while it is true that the non-participating members not only cannot receive any benefit from the settlement, but are also effectively precluded by the settlement from commencing their own proceedings against ABN Amro and Standard & Poor’s, the reality is that it is highly unlikely that any of the non-participating group members were likely to take any steps in that regard in any event. As noted earlier, the events the subject of the proceedings occurred over a decade ago. The non-participating group members have taken no steps during that time towards seeking any redress against either ABN Amro or Standard & Poor’s. The available inference, consistent with their lack of response to any of the notices issued to them, was that they never had any intention to do so and would not have done so irrespective of the proceedings and their settlement. In those circumstances, any injustice to the non-participating group members arising from the settlement is entirely theoretical or hypothetical, as opposed to real and practical.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Conclusion and disposition"
+    ],
+    "text": "The settlement is fair and reasonable and in the interests of the group members as a whole. It is approved.",
+    "judge": "WIGNEY J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Conclusion and disposition"
+    ],
+    "text": "Orders will be made in accordance with the draft orders prepared by Muswellbrook and provided to the Court. They include: confidentiality orders pursuant to ss 37AF and 37AG(1)(a) of the Federal Court Act in respect of certain affidavits and documentary exhibits; an order pursuant to s 33ZF that Muswellbrook be authorised, nunc pro tunc, to enter into and give effect to the Settlement Deed; an order pursuant to s 33ZB that the persons affected and bound by the settlement are Muswellbrook, the group members, IMF, ABN Amro and Standard & Poor’s; an order pursuant to ss 33ZB and 33ZF approving the terms of the Settlement Deed and the Settlement Distribution Scheme; an order that the solicitor for Muswellbrook, Ms Amanda Banton of Squire Patton Boggs, be appointed as the administrator of the Settlement Distribution Scheme; an order that the proceedings be dismissed with no order as to costs; an order vacating all costs orders made to date in the proceedings; and an order that Amanda Banton, as administrator of the Settlement Distribution Scheme, and the parties have liberty to apply on three days’ notice.",
+    "judge": "WIGNEY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding forty-seven (47) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wigney.",
+ "associate": null,
+ "dated": "2017-04-21",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Muswellbrook Shire Council v The Royal Bank of Scotland NV [2017] FCA 414\n\n## Cover sheet\n\n**File number:** NSD 1322 of 2012\n\n**Judge:** WIGNEY J\n\n**Date of judgment:** 21 April 2017\n\n**Catchwords:** PRACTICE AND PROCEDURE – representative proceeding – application for Court approval of settlement of proceedings under s 33V of the Federal Court of Australia Act 1976 (Cth) – whether the settlement is fair and reasonable and in the interests of the group members as a whole – factors relevant to the reasonableness of the settlement – where the Court ordered that group members be sent notices prior to mediation offering participating group members the opportunity to opt out and requiring non-participating group members to register for the settlement, opt out or do nothing – where failure to register or opt out meant non-participating group members were excluded from benefit of settlement and barred from commencing future proceedings against the respondents – whether settlement is fair and reasonable to non-participating group members – whether fair and reasonable that non-participating group members are excluded from participating in settlement – whether strong and compelling reasons for approving a settlement that gives preferential treatment to participating group members\n\n**Legislation:** Australian Securities and Investments Commission Act 2001 (Cth), s 12DA  \nCorporations Act 2001 (Cth), ss 1041E, 1041H  \nFederal Court of Australia Act 1976 (Cth), Part IVA, ss 33J, 33V, 33X, 33Y, 33ZB, 33ZF, 37AF, 37AG  \nFair Trading Act 1942 (NSW), s 42\n\n**Cases cited:** ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1  \nBathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200  \nMuswellbrook Shire Council v The Royal Bank of Scotland NV [2016] FCA 819  \nNewstart 123 Pty Ltd v Billabong International Ltd [2016] FCA 1194  \nStanford v DePuy International Ltd (No 6) [2016] FCA 1452\n\n**Date of hearing:** 1 November 2016\n\n**Registry:** New South Wales\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Corporations and Corporate Insolvency\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 47\n\n**Counsel for the Applicant:** Mr C H Withers with Ms E Bathurst\n\n**Solicitor for the Applicant:** Squire Patton Boggs\n\n**Solicitor for the First Respondent:** Ms J Campbell of Allens\n\n**Counsel for the Third Respondent:** Mr I J M Ahmed\n\n**Solicitor for the Third Respondent:** Clayton Utz\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 1322 of 2012 |\n|---|---|\n| BETWEEN: | MUSWELLBROOK SHIRE COUNCIL<br>Applicant |\n| AND: | THE ROYAL BANK OF SCOTLAND NV ARBN 84 079 478 612<br>First Respondent<br>MCGRAW-HILL INTERNATIONAL (UK) LIMITED (A COMPANY REGISTERED IN ENGLAND & WALES UNDER NO 64070)<br>Third Respondent |\n\n| JUDGE: | WIGNEY J |\n|---|---|\n| DATE OF ORDER: | 21 April 2017 |\n\n### THE COURT ORDERS THAT:\n\n1. Pursuant to sections 37AF and 37AG(1)(a) of the Federal Court of Australia Act 1976 (Cth) (Act), until further order, in order to prevent prejudice to the proper administration of justice:\n\n  (a) Confidential Exhibit AKB-6 to the affidavit of Amanda Kim Banton sworn 27 October 2016;\n\n  (b) the Confidential Affidavit of Amanda Kim Banton sworn 27 October 2016, including Confidential Exhibit AKB-7, Confidential Annexure AKB-8 and Confidential Exhibit AKB-9;\n\n  (c) Confidential Annexure RPM-1, Confidential Exhibit RPM-3 and Confidential Exhibit RPM-4 to the affidavit of Roland Patrick Matters sworn 28 October 2016;\n\n  (d) Annexure GL-1 and GL-2 to the affidavit of Grant Joseph O’Leary sworn 27 October 2016;\n\n  (e) Confidential Affidavit of Amanda Kim Banton sworn 1 November 2016,\n\nare:\n\nto be treated as confidential;\n\nto be sealed on the Court file in an envelope marked “Not to be opened except by leave of the Court or a Judge” and are not to be published or made available and any electronic version thereof is to be treated in an analogous fashion; and\n\nnot to be disclosed to any person other than the Applicant, its legal representatives and IMF Bentham Limited (IMF), such permitted disclosures to be upon terms that none of those parties or persons disclose that material or any part thereof to any person or entity.\n\n2. Pursuant to section 33ZF of the Act, the Applicant be authorised, nunc pro tunc, to enter into and give effect to the Settlement Deed executed by the Applicants, the Respondents and IMF (Settlement) and all transactions contemplated for and on behalf of all the Group Members.\n\n3. Pursuant to section 33ZB of the Act, the persons affected and bound by the Settlement are the Applicants, the Group Members, IMF and the Respondents.\n\n4. Pursuant to section 33ZB and section 33ZF of the Act:\n\n(a) the terms of the Settlement are approved;\n\n(b) the terms of the Settlement Distribution Scheme are approved; and\n\n(c) the solicitor for the Applicant, Amanda Banton of Squire Patton Boggs, is appointed as the administrator of the Settlement Distribution Scheme.\n\n5. The proceedings be dismissed with no order as to costs.\n\n6. All cost orders made to date in the proceeding are vacated.\n\n7. Amanda Banton of Squire Patton Boggs (as administrator of the Settlement Distribution Scheme) and the parties have liberty to apply on three days’ notice.\n\nTHE COURT NOTES:\n\n8. The undertaking to the Court given by the Third Respondent and dated 12 October 2016.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### WIGNEY J:\n\n[1] Muswellbrook Shire Council is the representative applicant in representative proceedings commenced pursuant to Part IVA of the Federal Court of Australia Act 1976 (Cth). The respondents in the proceedings are The Royal Bank of Scotland NV and McGraw-Hill International (UK) Limited. A claim against RBS Morgan Limited, as second respondent, was previously discontinued. The parties have agreed to settle the proceedings. Representative proceedings may not, however, be settled without the approval of the Court: s 33V of the Federal Court Act. Muswellbrook applied to the Court for the approval of the settlement, together with a number of ancillary orders. For the reasons that follow, the settlement should be approved.\n\n### A brief description of the proceedings\n\n[2] Between 5 September 2006 and late 2007, a number of persons had the misfortune of investing in sophisticated financial products that were given the name “Rembrandt Notes”. Muswellbrook was one of those investors.\n\n[3] The Rembrandt Notes were a form of financial instrument known as a constant proportion debt obligation or “CPDO”. It is not easy to describe what a CPDO actually is. It has been described in the evidence as “a structured credit derivative indexed on a portfolio of investment grade debt which generates high coupon payments by dynamically leveraging a position in an underlying portfolio index of default swaps i.e. a CPDO comprises an index portfolio and a notional cash deposit”. That description will suffice for present purposes, even though it will be almost entirely meaningless to the typical reader of average intelligence. Interested or curious readers with time on their hands may care to read the pellucid description and explanation of CPDOs given by Jagot J in Bathurst Regional Council v Local Government Financial Services Pty Ltd (No 5) [2012] FCA 1200 at [54]-[61] (though even Jagot J described the CPDOs in question as “grotesquely complicated”) and the similar description given by the Full Court, on appeal from the judgment of Jagot J, in ABN Amro Bank NV v Bathurst Regional Council (2014) 224 FCR 1 at [32]-[36]. The important point to note is that the CPDOs in question in this matter had features which, on just about any view, made them a high risk investment.\n\n[4] The issue of the Rembrandt Notes was arranged by ABN Amro Bank NV, which is now owned by, or is part of, the Royal Bank of Scotland. To keep things simple, the Royal Bank of Scotland, which is the first respondent in the proceedings, will be referred to in these reasons as ABN Amro, since it was ABN Amro that was involved in the events the subject of the proceedings. ABN Amro established a trust, which became known as the Rembrandt Australia Trust 2006-2. The trustee of the Rembrandt Trust was Perpetual Trustee Company Limited. In early September 2006, Perpetual caused the Rembrandt Trust to issue Rembrandt Notes with an issue value of $50 million.\n\n[5] ABN Amro retained the well-known international credit ratings agency Standard & Poor’s to assign a credit rating to the notes. Standard & Poor’s is a business operated by or associated with McGraw-Hill, which is the third respondent in the proceedings. For the sake of simplicity, McGraw-Hill, which is the third respondent, will be referred to throughout these reasons as Standard & Poor’s. Standard & Poor’s gave the notes a AAA rating, its best and highest rating. Thereafter, ABN Amro set about using the fact that Standard & Poor’s had assigned a AAA rating to the Rembrandt Notes in its marketing and promotion of the notes to prospective investors.\n\n[6] Despite their AAA rating, the Rembrandt Notes ultimately failed. Investors in them suffered considerable losses.\n\n[7] On 5 September 2012, Muswellbrook commenced these proceedings, both on its own behalf and on behalf of others who, like it, had acquired Rembrandt Notes. Given the description of the group members, the proceedings were so-called “open class” representative proceedings: the represented group was not limited to acquirers of Rembrandt Notes who had retained a particular solicitor, or had entered into litigation funding agreements with a particular litigation funder. As will be seen, however, ultimately the group members who elected to participate in the settlement were small in number. Each of them had entered into an agreement with the litigation funder. Each of them was legally represented.\n\n[8] Muswellbrook alleged that ABN Amro was liable to compensate it for loss or damage arising from its investment in the Rembrandt Notes on the basis of causes of action in negligence and in respect of contraventions of ss 1042E and 1042H the Corporations Act 2001 (Cth), s 42 of the Fair Trading Act 1942 (NSW) and s 12DA of the Australian Securities and Investments Commission Act 2001 (Cth).\n\n[9] In relation to its claim in negligence, Muswellbrook alleged that ABN Amro breached the duty of care it owed to potential purchasers to whom it marketed the Rembrandt Notes. Amongst other things, it alleged that ABN Amro failed to ensure that the risks to which purchasers of the Rembrandt Notes were exposed were adequately disclosed, communicated the fact of Standard & Poor’s assignment of a AAA rating without disclosing certain important matters concerning that rating, and failed to inform prospective purchasers that the AAA rating could not and should not be relied on.\n\n[10] In relation to the statutory contraventions, Muswellbrook alleged, amongst other things, that by causing or permitting the publication of Standard & Poor’s AAA rating in respect of the Rembrandt Notes, ABN Amro engaged in conduct that was misleading and deceptive, or likely to mislead or deceive, and disseminated information which was materially misleading and likely to induce persons to acquire the Rembrandt Notes in circumstances where it ought reasonably to have known that the information was materially misleading. In simple terms, the alleged misleading and deceptive conduct, and the alleged misleading information, concerned matters that bore on the reliability of Standard & Poor’s rating of the notes.\n\n[11] Similar claims and allegations were made against Standard & Poor’s. Muswellbrook alleged that in forming and publishing its rating of the Rembrandt Notes, Standard & Poor’s was negligent and breached its duty of care to prospective purchasers of the notes. In simple terms, Muswellbrook contended that the rating lacked reasonable grounds and was not the product of the exercise of reasonable care and skill. Muswellbrook also alleged that in assigning and publishing the AAA rating of the Rembrandt Notes, Standard & Poor’s made various representations to prospective investors about the creditworthiness and credit risk associated with the Rembrandt Notes. Standard & Poor’s was also alleged to have represented that the rating was based on reasonable grounds and that, in assigning the rating, it had exercised reasonable care and skill. Muswellbrook alleged that those representations were misleading and deceptive, and that Standard & Poor’s had thereby contravened ss 1041E and 1041H of the Corporations Act, s 42 of the Fair Trading Act and s 12DA of the ASIC Act.\n\n[12] It is worth noting, at this stage, that the allegations against ABN Amro and Standard & Poor’s in these proceedings overlap considerably with allegations that were made in proceedings commenced against ABN Amro and Standard & Poor’s by different parties in respect of a different issue of Rembrandt notes. Those proceedings were the Bathurst Regional Council proceedings referred to earlier. In November 2012, Jagot J found those allegations to be made out and ABN Amro and Standard & Poor’s were found to be liable. An appeal from Jagot J’s judgment was subsequently dismissed. The present proceedings were stayed, or at least were not progressed, pending the determination of the appeal in the Bathurst Regional Council proceedings.\n\n### Mediation and notice of registration and opt out rights\n\n[13] In mid-2016, the parties arranged for the dispute to be mediated. They approached the Court for an order referring the matter to a mediator. They also sought orders which were intended to facilitate the mediation by, in effect, putting in place a procedure whereby all group members who wished to have their claims considered in the mediation were required to identify themselves to Muswellbrook’s solicitors and provide information concerning their claims. Notices were to be sent to group members advising them of their options in relation to the proceedings. Group members who had already notified Muswellbrook’s solicitors of their intention to participate in the action were notified of their right to opt out of the proceeding pursuant to s 33J of the Federal Court Act. Group members who had not yet registered with Muswellbrook’s solicitors were also notified of their right to opt out. More significantly, they were also notified that if they did not opt out, they had the option of either registering to have their claims dealt with at the mediation, or doing nothing. They were advised of the implications of taking each of these options.\n\n[14] The object of this notification procedure was to provide ABN Amro and Standard & Poor’s with some degree of certainty concerning the extent of the claims against them for the purposes of the mediation. Group members who opted out would cease to be group members, would play no further role in the proceedings, but would not be barred from subsequently commencing proceedings against ABN Amro or Standard & Poor’s should they choose to do so. Group members who registered and provided the required information to Muswellbrook’s solicitors would be entitled to participate in any settlement reached at the mediation. Group members who did nothing would remain group members, but if the matter settled at mediation, they would not, without the leave of the Court, be entitled to receive any payment from the settlement funds. Because they remained group members, if the proceedings settled the non-participating group members would also be effectively barred from subsequently commencing proceedings against ABN Amro or Standard & Poor’s in respect of the subject matter of these proceedings. Their potential claims could effectively be disregarded for the purposes of the mediation.\n\n[15] On 9 June 2016, Rares J made the orders sought by the parties: Muswellbrook Shire Council v The Royal Bank of Scotland NV [2016] FCA 819. The orders included the approval of notices to be sent to the group members. Muswellbrook’s solicitors had earlier obtained a copy of the register of holders of the Rembrandt Notes. Notices were to be sent to all holders listed on the register. The notices were sent out in mid-June 2016 and required a response by the beginning of July 2016.\n\n[16] No group member elected to opt out of the proceeding. Nor did any group member who had not previously registered with Muswellbrook’s solicitors complete and return a registration notice. The result was that there were five so-called participating group members, including Muswellbrook, who were eligible to have their claims considered at the mediation. There were fifteen non-participating group members who would be bound by, but would not be entitled to benefit from, any settlement reached at the mediation. Three of them were associated in some way or another with one of the respondents. It is somewhat mystifying why any group member would elect not to participate in any settlement in these circumstances. Nevertheless, it is tolerably clear that all group members were given adequate notice of the nature of the proceedings, the mediation and their rights to opt out or participate. They were also given adequate notice of the implications if they chose not to register.\n\n### Notice of the proposed settlement\n\n[17] The mediation was successful. On 22 July 2016 the parties executed a Heads of Agreement. In early September 2016, they subsequently executed a Deed of Settlement.\n\n[18] On 21 September 2016, the Court approved, pursuant to ss 33X and 33Y of the Federal Court Act, the form and content of a notice to participating group members concerning the proposed settlement. The notice was not sent to the non-participating group members, being those members who did not register in accordance with the notice sent to them in June 2016. The notice contained details of the proposed settlement of the proceedings and the Court approval process. It also enclosed a ‘notice of objection to settlement’ form that the participating group member could complete and return if they wished to object to the settlement. Two participating group members initially advised that they objected to the settlement. Those objections were subsequently withdrawn as a result of an undertaking provided to the Court by Standard & Poor’s. That undertaking was to the effect that Standard & Poor’s would not rely on the settlement, or any release in the Deed, as a bar or defence to any future proceedings concerning any financial product other than the Rembrandt Notes.\n\n[19] It is also important to note at this point that three of the five participating group members had retained Muswellbrook’s solicitor to act for them. The two participating group members who initially objected to the proposed settlement were separately represented. Perhaps more importantly, all of the five participating group members had signed funding agreements with a litigation funder, IMF Bentham Limited. IMF was to fund the litigation by paying Muswellbrook’s legal fees. The funding agreements, not surprisingly, provided that if the proceedings were successfully resolved, IMF was entitled to receive certain payments from the proceeds, including reimbursement of the legal fees paid by it, a commission, and project management fees. More will be said later about the payments that will be made to IMF if the settlement is approved.\n\n### A brief description of the settlement\n\n[20] The precise terms of the settlement were and remain confidential. The Court previously made suppression orders pursuant to ss 37AF and 37AG(1)(a) of the Federal Court Act in respect of the Heads of Agreement and Settlement Deed. Further confidentiality orders were sought in respect of much of the documentary evidence that recorded the terms of the settlement. The main basis for the suppression orders was, and is, that confidentiality is necessary to prevent prejudice to the proper administration of justice. The information covered by the additional orders sought included, amongst other things, confidential and privileged communications, including an opinion of trial counsel. If that material was disclosed and the settlement was not approved, Muswellbrook would most likely be prejudiced in its further conduct of the proceedings. It is, nevertheless, appropriate to refer to some basic features of the settlement.\n\n[21] The settlement is subject to five conditions. The first condition is that the Court approves the settlement. The second is that all available appeal options in relation to the Court’s approval of the settlement expire without an appeal being commenced, or if an appeal is commenced, the appeal is determined with the result that the settlement approval is confirmed. The third is that all participating group members will be bound by the terms of the settlement recorded in the Deed. The fourth is that all other group members will be bound by the settlement and have their claims extinguished by the disposal of the proceedings. The fifth condition is that no group member who is not a participating group member will or will be able to obtain any benefit from the settlement.\n\n[22] Under the terms of the settlement, ABN Amro and Standard & Poor’s will pay a settlement sum, inclusive of interest and legal costs, to settle the proceedings. The amount of the settlement sum is confidential. It is sufficient to say that it is a relatively large sum, though less than the estimate of the aggregate damages claimed by Muswellbrook and the participating group members. The adequacy or reasonableness of the settlement sum will be addressed later.\n\n[23] The process by which the settlement sum is to be distributed is set out in a detailed document entitled “Settlement Distribution Scheme”. The detail of that settlement distribution scheme is mostly confidential. It is, in any event, unnecessary to rehearse much of that detail. It is sufficient to note that each participating group member will share pro rata in the settlement sum on the basis of their capital losses subject to certain assumptions and qualifications. The scheme is to be administered by Muswellbrook’s solicitor, though once the settlement is approved the solicitor will cease to act for Muswellbrook or any other participating group member. The scheme includes a process by which participating group members are sent a calculation of the amount payable to them under the scheme, calculated as a pro rata percentage of the total amount available for distribution after disbursements and costs. Participating group members are given the opportunity to dispute the correctness of that calculation, including to an independent assessor.\n\n[24] As might be expected, the distribution scheme also provides for various payments to be deducted from the settlement sum and paid to IMF. Those payments represent amounts payable pursuant to the terms of the funding agreements that each of the participating group members had entered into with IMF. In simple terms, the amounts payable to IMF comprise a project management fee, which is a percentage of the “project costs”, which mainly consist of the legal fees paid or payable by IMF, together with a commission or funding fee, which is a percentage of the settlement sum. IMF is also entitled to be reimbursed in respect of legal fees and costs paid to Muswellbrook’s solicitors pursuant to their retainer agreement and the funding agreement.\n\n[25] Putting the quantum of the legal costs to one side for the moment, it is to be noted that the amounts to be deducted from the settlement sum and paid to IMF pursuant to the settlement scheme and funding agreements are quite large. IMF’s commission or funding fee pursuant to the funding agreements is a significant percentage of the settlement sum, which as already noted is not an insignificant amount. It is also entitled to a significant percentage of the project costs, which include legal costs. As will be seen, the legal costs are not insubstantial. It follows that the project fee is also not insubstantial.\n\n[26] Careful consideration has been given to the total amount payable to IMF pursuant to the settlement scheme and the funding agreements. On balance it does not provide any proper basis for not approving the settlement. This was the bargain struck between IMF and each of the participating group members. None of the participating group members has opposed the settlement on the basis that a significant portion of their share of the settlement sum will go to IMF.\n\n[27] The final aspect of the proposed settlement that warrants mention concerns a small payment that is to be made to Muswellbrook to reimburse it for the time it has spent as the representative applicant. The calculation of that payment was supported by evidence. The evidence also demonstrated that the payment was reasonable and appropriate in the circumstances.\n\n### Evidence led in support of the approval application\n\n[28] The evidence led in support of the approval application primarily consisted of the affidavit evidence of Muswellbrook’s solicitor, together with a number of documentary exhibits. The solicitor’s evidence addressed the nature of the proceedings and provided a detailed procedural chronology, including the approval and issuing of notices to the group members and participating group members. The substance of much of that evidence has already been referred to. The solicitor’s confidential evidence included evidence concerning the legal fees and project costs, the commission or funding fee payable to IMF, the key features of the settlement and the distribution of the settlement funds, the estimated costs of administering the scheme and an estimate of the legal costs that might be incurred should the settlement not be approved and the matter proceed to trial. The documentary exhibits included the Settlement Deed and the Settlement Distribution Scheme. As already noted, suppression orders have been made, or were sought, in respect of those documents.\n\n[29] The confidential documentary exhibits also included an opinion from trial counsel. That opinion included, amongst other things, counsel’s opinion concerning litigation risk, the prospects of success of the proceedings, the reasonableness of the settlement sum and other matters that bore on the overall reasonableness of the proposed settlement. Careful consideration has been given to the opinion of counsel, particularly as the lead counsel responsible for the opinion appeared as one of the trial counsel in the related Bathurst Regional Council proceedings referred to earlier.\n\n[30] The evidence led in support of the approval application also included a detailed expert report prepared by a legal costs consultant in respect of the reasonableness of the legal costs incurred by Muswellbrook. A suppression order was sought in respect of the report. It can, however, be noted that the expert’s opinion was that the legal costs that had been incurred were fair and reasonable and were quantified in accordance with the contractual arrangements between Muswellbrook and its solicitors.\n\n[31] Finally, as already noted, affidavit evidence was adduced in relation to the amount payable to Muswellbrook to reimburse it for the time and expense incurred as representative applicant.\n\n### Approval of settlements – relevant principles\n\n[32] The principles that apply in relation to the approval of the settlement of a representative proceeding under s 33V of the Federal Court Act are now well-settled. In Stanford v DePuy International Ltd (No 6) [2016] FCA 1452, the relevant principles were summarised in the following terms (at [113]-[121]).\n\n> First, in approving a settlement the central question is whether the proposed settlement is fair and reasonable and in the interests of group members considered as a whole: Australian Competition and Consumer Commission v Chats House Investments Pty Limited (1996) 71 FCR 250 at 258 C; Williams v FAI Home Security Pty Ltd (No 4) [2000] FCA 1925; (2000) 180 ALR 459 at [19]-[23]; Lopez v Star World Enterprises Pty Ltd [1999] FCA 104 at [15]; Camilleri v The Trust Company (Nominees) Limited [2015] FCA 1468 at [5].\n\n> Second, there is no definitive or exhaustive list of factors that must or may be taken into account in approving a settlement. The merits of each settlement must be considered having regard to the particular facts and circumstances of the case. Approval should not be approached in a formulaic way, as if there is a “check-list” of factors that need to be ticked-off: Darwalla Milling Co Pty Ltd v F Hoffman-La Roche Ltd & Ors (No 2) [2006] FCA 1388; (2006) 236 ALR 322 at 333-335 [33]-[35]. Nevertheless, the factors that are likely to be relevant include: the complexity and duration of the litigation; the stage of the proceedings; the risks and prospects of success of establishing liability and damages; the risks of an appeal; and the reasonableness of the settlement in light of the “best case” recovery and the attendant risks of litigation: see generally Williams at [19]; Modtech Engineering Pty Ltd v GPT Management Holdings Ltd [2013] FCA 626 at [11] and [13].\n\n> Third, in relation to the risks and prospects of success of establishing liability and damages, some weight, and perhaps considerable weight, should be given to the judgment and tactical and other decisions made by the parties and their legal representatives. The task of the Court is not to “second-guess” or go behind those judgments and decisions. Rather, it is to assess the reasonableness of those decisions having regard to the known and knowable facts and circumstances: Pharm-a-Care Laboratories Pty Ltd v Commonwealth of Australia (No 6) [2011] FCA 277 at [22], quoting Darwalla Milling at 339 [50]; Modtech at [12].\n\n> Where settlement is reached prior to judicial determination, the assessment of the proposed settlement must be undertaken mindful of the unpredictability of the applicant’s and group members’ fate. In those circumstances, the settlement must be viewed as a pragmatic compromise to the relevant claims. In that regard, the Court should be mindful of the fact that the parties and their legal representatives are often in a better position to appreciate the risks, and also mindful of the fact that different parties and their lawyers will have different appetites for risk: Kelly v Willmott Forests Ltd (in liquidation) (No 4) [2016] FCA 323 at [74].\n\n> Fourth, approval of a settlement should not be approached as if there is a single outcome that may be seen to be fair and reasonable. Reasonableness is a range, and the question is whether the proposed settlement falls within that range having regard to the known facts and circumstances, not whether it is the best outcome which the Court considers might have been achieved: Darwalla at 339 [50]; Kelly v Willmott Forests at [74].\n\n> Fifth, that principle applies both to the reasonableness of any settlement sum and the reasonableness of the structure and workings of any settlement scheme by which a settlement sum is proposed to be distributed among group members. In relation to schemes for the distribution of a settlement sum among group members, a particular concern of the Court is to ensure that the interests of one group member, or one class of group members (in particular the representative applicant or applicants) is not preferred over the interests of other group members: Chats House at 258 C; Rod Investments (Vic) Pty Ltd v Abeyratne [2010] VSC 457 at [19]. The scheme should operate to achieve a broadly fair division of the settlement sum, treating like group members alike; it should also operate as cost-effectively as possible: Mercieca v SPI Electricity Pty Ltd [2012] VSC 204 at [37]-[39].\n\n> Sixth, there is no definitive or exhaustive list of the factors that may lead the Court to refuse to approve a proposed settlement. The types of factors that may lead the Court to conclude that a proposed settlement is not fair and reasonable and in the interests of group members as a whole include: where the settlement involves group members being bound to terms that may have an adverse effect on them that go beyond the claims and defences in the representative proceedings, or where the adverse effect is not balanced by any proposed benefit under the settlement; where preparation of the proceedings has been adversely affected by funding or other difficulties not disclosed to group members; where potential conflicts of interest are not properly recognised and addressed in the course of the settlement application; where less than the whole of the costs of the proceeding have been scrutinised and are proposed to be the subject of reimbursement through the settlement fund; and where the prospects of success of the claim are not properly laid before the Court: see Kelly v Willmott Forests at [6]-[12].\n\n> Seventh, in assessing the fairness and reasonableness of the costs component of a proposed settlement, the Court takes a pragmatic approach, seeking some independent verification of the reasonableness of the costs claimed, but not imposing an onerous or exhaustive task upon an applicant: Courtney v Medtel Pty Ltd (No 5) [2004] FCA 1406; 212 ALR 311. The Court’s task is not to perform a taxation of the fees. Rather, the Court considers whether the fees and disbursements are unreasonable in any respect having regard to, amongst other things, the nature of the work performed, the time taken to perform the work, the seniority of the persons undertaking the work and the appropriateness of the charge out rates of those persons: Modtech at [32]. The Court should not approve an amount that is disproportionate, but such an assessment cannot be made on the simplistic basis that the costs claimed are high in absolute terms, or high as a percentage of the total recovery: Foley v Gay [2016] FCA 273 at [23]-[24].\n\n> Eighth, the absence of any objection or opposition to the settlement by any group member or group members is a highly relevant consideration, at least where the Court is satisfied that all group members have been given timely notice of the critical elements of the settlement: P Dawson Nominees Pty Ltd v Brookfield Multiplex Limited (No 4) [2010] FCA 1029 at [23]; Camilleri at [5(f)]. The same reasoning would most likely apply where only a very small proportion of the group members have objected.\n\n### The settlement should be approved\n\n[33] When the principles are applied to the facts and circumstances of this proceeding and the proposed settlement, it is readily apparent that the settlement should be approved. That is so for a number of reasons.\n\n[34] First, the settlement sum would appear to be reasonable in all the circumstances. The reasonableness of the settlement sum was addressed in the confidential opinion of counsel. It may be tempting to think that, because many of the factual and legal issues likely to arise in the proceedings have been the subject of findings in the Bathurst Regional Council litigation, the litigation risk involved in taking this matter to trial would not be great. It is, however, tolerably clear that there is not a complete overlap with the Bathurst Regional Council litigation. Potential liability, damages and litigation risks remain. Those risks were addressed in the confidential opinion of counsel. In considering the reasonableness of the settlement sum, the Court should be reluctant to second-guess or go behind the reasoned judgment of experienced counsel intimately involved in the proceedings. The settlement sum plainly represents or reflects a compromise. In all the circumstances, it is a fair and reasonable compromise.\n\n[35] Second, there is nothing inherently unfair or unreasonable about the settlement distribution scheme. The scheme treats each participating group member equally. The way in which each participating group member’s claim is assessed is fair and reasonable. The settlement sum is distributed pro rata between the participating group members. For the reasons already given, while the amounts payable to IMF from the settlement sum are large, they are not so disproportionately large that they could be considered to be unfair or unreasonable. The payments to be made to IMF reflect the contractual bargain struck between IMF and each of the participating group members.\n\n[36] Third, while the legal fees and costs incurred in relation to the proceedings are by no means insubstantial, there is no reason to question the expert opinion concerning the reasonableness of the legal fees.\n\n[37] Fourth, participating group members have been given fair and reasonable notice of the proposed settlement. While two participating group members initially objected, those objections have now been withdrawn. In the particular circumstances of this case, where the class is small and each of the participating group members is legally represented and has plainly received notice of the proposed settlement, the absence of any objection can be taken to be informed consent to the settlement. That is a weighty consideration in all the circumstances.\n\n[38] Fifth, if the settlement is not approved, the parties will incur considerable legal costs in taking the matter to trial. Despite having been on foot for over four years, the proceedings remain at a very early stage of preparation. A defence has not yet been filed. Certainly no evidence has been filed. The matter involves events that occurred over a decade ago. These are no doubt matters that the parties took into account when negotiating the settlement.\n\n[39] There is only one potential issue with the proposed settlement that gives pause for thought. That issue concerns the fact that only participating group members derive a benefit from the settlement. Non-participating group members are bound by the settlement, though they derive no benefit from it. Non-participating group members comprise the group members who have not opted out of the proceedings, but did not register with Muswellbrook’s solicitor after receiving the notices approved by Rares J in June 2016. The non-participating group members were not sent the notices advising of the proposed settlement.\n\n[40] The position of the non-participating group members raises the question as to whether the proposed settlement is in the interests of the group members as a whole. It could be argued that the settlement is not in the interests of non-participating group members and gives preference to participating group members. Ordinarily there must be strong and compelling reasons for the Court to approve a settlement which gives preferential treatment to some group members over others: Newstart 123 Pty Ltd v Billabong International Ltd [2016] FCA 1194 at [14]. Are there strong and compelling reasons for preferring the interests of participating group members?\n\n[41] The answer to that question essentially lies in the reasons given by Rares J for requiring group members to register before the mediation, and for ordering that group members who did not register would not be permitted to seek any benefit in the settlement subject to the leave of the Court. In that regard, after noting (at [20]) that the statutory scheme for representative proceedings generally allows group members to be passive and take no positive step in the proceeding to gain whatever benefit a determination might bring them, Rares J said (at [26]):\n\n> The Court’s power to make orders of this nature under ss 33Q(1) and 33ZF(1) ensures that the legislative purpose for group proceedings will not be frustrated by the need for the representative party and the respondent to litigate the pleaded claims to judgment before group members could be required to come forward and deal with the consequences of the determination of the common issues of law or fact. Indeed, the legislative scheme of Pt IVA contemplates that, sometimes before, and certainly, as ss 33Z and 33ZA provide, once the common issues have been determined by judgment, group members must participate in some way in a resolution process, including by further action in the Court, within the representative proceedings.\n\n[42] In short, Rares J considered that the stage had been reached in the proceedings when it was just to require group members to participate in the “resolution process”. If they chose not to do so, the consequence would be that they would not be able to obtain any benefit from the resolution process should it be successful. The notices approved by Rares J and sent to group members included clear and concise information concerning their rights and options, and clear and concise information concerning the implications of not registering. It should also be noted, in that context, that the notices approved by Rares J did not come out of the blue as far as the group members were concerned. The group members had earlier been sent notices and information concerning the proceedings, including a notice sent in November 2013 informing group members of the nature of the proceedings, and a letter from Muswellbrook’s solicitor sent to group members concerning the proceedings in December 2015.\n\n[43] A stage must be reached in any representative proceedings where fairness does not require the sending of further notices to group members who have clearly manifested an intention not to participate in any way, or at any time, in the proceedings. That stage was reached in these proceedings following the sending of the notices approved by Rares J. Fairness did not require the sending of notices of the proposed settlement to the group members who did not respond to the notices approved by Rares J.\n\n[44] It is, in those circumstances, not unfair and not unreasonable that the non-participating group members be excluded from participating in the settlement. They had, in short, been given ample notice and ample opportunity to choose to participate. While in a broad sense it might be said that the settlement is not in the interests of the non-participating group members, there are strong and compelling reasons why the settlement should be approved nonetheless.\n\n[45] Two further observations can be made concerning the non-participating group members. First, as already noted, they are few in number. Second, while it is true that the non-participating members not only cannot receive any benefit from the settlement, but are also effectively precluded by the settlement from commencing their own proceedings against ABN Amro and Standard & Poor’s, the reality is that it is highly unlikely that any of the non-participating group members were likely to take any steps in that regard in any event. As noted earlier, the events the subject of the proceedings occurred over a decade ago. The non-participating group members have taken no steps during that time towards seeking any redress against either ABN Amro or Standard & Poor’s. The available inference, consistent with their lack of response to any of the notices issued to them, was that they never had any intention to do so and would not have done so irrespective of the proceedings and their settlement. In those circumstances, any injustice to the non-participating group members arising from the settlement is entirely theoretical or hypothetical, as opposed to real and practical.\n\n### Conclusion and disposition\n\n[46] The settlement is fair and reasonable and in the interests of the group members as a whole. It is approved.\n\n[47] Orders will be made in accordance with the draft orders prepared by Muswellbrook and provided to the Court. They include: confidentiality orders pursuant to ss 37AF and 37AG(1)(a) of the Federal Court Act in respect of certain affidavits and documentary exhibits; an order pursuant to s 33ZF that Muswellbrook be authorised, nunc pro tunc, to enter into and give effect to the Settlement Deed; an order pursuant to s 33ZB that the persons affected and bound by the settlement are Muswellbrook, the group members, IMF, ABN Amro and Standard & Poor’s; an order pursuant to ss 33ZB and 33ZF approving the terms of the Settlement Deed and the Settlement Distribution Scheme; an order that the solicitor for Muswellbrook, Ms Amanda Banton of Squire Patton Boggs, be appointed as the administrator of the Settlement Distribution Scheme; an order that the proceedings be dismissed with no order as to costs; an order vacating all costs orders made to date in the proceedings; and an order that Amanda Banton, as administrator of the Settlement Distribution Scheme, and the parties have liberty to apply on three days’ notice.\n\nI certify that the preceding forty-seven (47) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wigney.\n\nAssociate:\n\nDated: 21 April 2017\n",
+ "source_sha256": "cd0768bbffb4777a13be404ff72ffffda16763ecf76ee1ca45a87873a972ff9c"
+}

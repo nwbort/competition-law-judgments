@@ -1,0 +1,868 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA0338.docx",
+ "metadata": {
+  "citation": "[2021] FCA 338",
+  "name": "Epic Games, Inc v Apple Inc (Stay Application)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 338,
+  "date_of_judgment": "2021-04-09",
+  "file_numbers": [
+   "NSD1236/2020"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2021-03-23"
+  ],
+  "hearing_raw": "23 March 2021",
+  "last_submissions": "2021-03-29",
+  "number_of_paragraphs": 66,
+  "catchwords": [
+   "PRIVATE INTERNATIONAL LAW – application for permanent stay of proceedings alleging contraventions of Competition and Consumer Act 2010 (Cth) (‘CCA’) Pt IV, Australian Consumer Law (‘ACL’) s 21 – where exclusive jurisdiction clause requires litigation relating to app developer agreement to occur in Northern District of California – where First Applicant has commenced proceedings against First Respondent in Northern District of California alleging contraventions of United States and Californian competition law – whether Australian proceedings ‘relate to’ agreement",
+   "PRIVATE INTERNATIONAL LAW – discretionary non-exercise of jurisdiction – whether ‘strong reasons’ adduced against grant of stay, considering Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418 – whether CCA Pt IV, ACL s 21 mandatory laws of the forum – where parties agree courts in Northern District of California have jurisdiction to hear claims under CCA and ACL – whether court in Northern District of California would decline to exercise jurisdiction on discretionary grounds – whether Akai places onus on party arguing for stay to prove case will be heard by foreign court",
+   "COMPETITION – where allegation that CCA Pt IV is contravened by requirements that app developers only distribute apps through Respondents’ app store and purchases of in-app content use only Respondent’s payment processing system – whether CCA Pt IV cases should be determined by foreign courts",
+   "CONSUMER LAW – where exclusive jurisdiction clause in standard form contract between First Respondent and app developers – whether clause contravenes ACL s 21"
+  ],
+  "legislation": [
+   "Carriage of Goods by Sea Act 1991 (Cth) s 11(2)",
+   "Competition and Consumer Act 2010 (Cth) Pt IV, ss 2, 5, 45, 46, 47, 80, 83, 86, Sch 2 ss 21, 22(1), 23",
+   "Insurance Contracts Act 1984 (Cth)",
+   "Sherman Act 15 USC §§1-2",
+   "Cartwright Act Cal Bus & Prof Code §§16700 et seq",
+   "Unfair Competition Law Cal Bus & Prof Code §§17200 et seq"
+  ],
+  "cases_cited": [
+   "Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418",
+   "Armacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592; 248 ALR 573",
+   "Attorney General v Mobil Oil NZ Ltd [1989] 2 NZLR 649",
+   "Australian Competition and Consumer Commission v Valve Corporation [2016] FCA 196; 337 ALR 647",
+   "Australian Health & Nutrition Association Ltd v Hive Marketing Group Pty Ltd [2019] NSWCA 61; 99 NSWLR 419",
+   "Burke v LFOT Pty Limited [2002] HCA 17; 209 CLR 282",
+   "Casaceli v Natuzzi SpA [2012] FCA 691; 292 ALR 143",
+   "Clough Engineering Ltd v Oil & Natural Gas Corporation Ltd [2007] FCA 881",
+   "Comandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCAFC 192; 157 FCR 45",
+   "Commonwealth Bank of Australia v White [1999] VSC 262; 2 VR 681",
+   "ContentGuard Holdings, Inc. v Amazon.com, Inc. 2015 WL 1885256 (ED Tex 2015)",
+   "Dialogue Consulting v Instagram, Inc [2020] FCA 1846",
+   "Donohue v Armco Inc [2001] UKHL 64; [2002] 1 All ER 749",
+   "Douez v Facebook, Inc. [2017] 1 SCR 751",
+   "ET Plus SA v Welter [2005] EWHC 2115",
+   "FAI General Insurance Co Ltd v Ocean Marine Mutual Protection and Indemnity Association (1997) 41 NSWLR 559",
+   "Faxtech Pty Ltd v ITL Optronics Ltd [2011] FCA 1320",
+   "Global Partners Fund Ltd v Babcock & Brown Ltd (in liq) [2010] NSWCA 196",
+   "Henjo Investments Pty Limited v Collins Marrickville Pty Limited (No 1) (1988) 39 FCR 546",
+   "Home Ice Cream Pty Ltd v McNabb Technologies LLC (No 2) [2018] FCA 1093",
+   "Huddart Parker Ltd v Ship ‘Mill Hill’ (1950) 81 CLR 502",
+   "Incitec Ltd v Alkimos Shipping Corporation [2004] FCA 698; 138 FCR 496",
+   "In re Air Cargo Shipping Services Antitrust Litigation 2008 WL 5958061 (ED NY 2008)",
+   "IOOF Australia Trustees (NSW) Ltd v Tantipech [1998] FCA 924; 156 ALR 470",
+   "Joseph v Amazon.com, Inc 2013 WL 4806462 (ND Cal 2013)",
+   "Le v Zuffa, LLC, 108 FSupp3d 768 (ND Cal 2015)",
+   "Mitsubishi Motors Corp. v Soler Chrysler-Plymouth, Inc. 473 US 614 (1985)",
+   "Murphy v Amway Canada Corporation [2014] 3 FCR 478",
+   "Neilson v Overseas Projects Corporation of Victoria Ltd [2005] HCA 54; 223 CLR 331",
+   "Nicola v Ideal Image Development Corporation [2009] FCA 1177; 215 FCR 76",
+   "Oceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197",
+   "Petersville Ltd v Peters (WA) Ltd [1997] ATPR 41-566",
+   "Reinsurance Australia Corporation Ltd v HIH Casualty and General Insurance Ltd (in liq) [2003] FCA 56; 254 ALR 29",
+   "Re Wakim; Ex parte McNally [1999] HCA 27; 198 CLR 511",
+   "Sun v Advanced China Healthcare, Inc. 901 F3d 1081 (9th Cir 2018)",
+   "The Eleftheria [1970] P 94",
+   "Tongfang Global Limited v Element Television Company LLC 2020 WL 4354173 (CD Cal 2020)",
+   "Truth About Motorways Pty Limited v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11; 200 CLR 591",
+   "Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538",
+   "Westfield Management Ltd v AMP Capital Property Nominees Ltd [2012] HCA 54; 247 CLR 129",
+   "Davies M, ‘A Curate’s Egg: Good in Parts – Akai Pty Ltd v People’s Insurance Co Ltd’ (1997) 25 ABLR 215",
+   "Garnett R, ‘Jurisdiction clauses since Akai’ (2013) 87 ALJ 134"
+  ],
+  "parties": [
+   {
+    "name": "EPIC GAMES, INC",
+    "role": "First Applicant"
+   },
+   {
+    "name": "EPIC GAMES INTERNATIONAL S.À R.L.",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "APPLE INC",
+    "role": "First Respondent"
+   },
+   {
+    "name": "APPLE PTY LIMITED",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr N Young QC with Mr C Brown and Ms D Forrester"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Clifford Chance"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr S Free SC with Mr C Bannan and Ms Z Hillman"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0338",
+  "portal_file_numbers": [
+   "NSD1236/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-04-09"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "NSD 1236 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "9 April 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRIVATE INTERNATIONAL LAW – application for permanent stay of proceedings alleging contraventions of Competition and Consumer Act 2010 (Cth) (‘CCA’) Pt IV, Australian Consumer Law (‘ACL’) s 21 – where exclusive jurisdiction clause requires litigation relating to app developer agreement to occur in Northern District of California – where First Applicant has commenced proceedings against First Respondent in Northern District of California alleging contraventions of United States and Californian competition law – whether Australian proceedings ‘relate to’ agreement\nPRIVATE INTERNATIONAL LAW – discretionary non-exercise of jurisdiction – whether ‘strong reasons’ adduced against grant of stay, considering Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418 – whether CCA Pt IV, ACL s 21 mandatory laws of the forum – where parties agree courts in Northern District of California have jurisdiction to hear claims under CCA and ACL – whether court in Northern District of California would decline to exercise jurisdiction on discretionary grounds – whether Akai places onus on party arguing for stay to prove case will be heard by foreign court\nCOMPETITION – where allegation that CCA Pt IV is contravened by requirements that app developers only distribute apps through Respondents’ app store and purchases of in-app content use only Respondent’s payment processing system – whether CCA Pt IV cases should be determined by foreign courts\nCONSUMER LAW – where exclusive jurisdiction clause in standard form contract between First Respondent and app developers – whether clause contravenes ACL s 21"
+  },
+  {
+   "label": "Legislation",
+   "value": "Carriage of Goods by Sea Act 1991 (Cth) s 11(2)\nCompetition and Consumer Act 2010 (Cth) Pt IV, ss 2, 5, 45, 46, 47, 80, 83, 86, Sch 2 ss 21, 22(1), 23\nInsurance Contracts Act 1984 (Cth)\nSherman Act 15 USC §§1-2\nCartwright Act Cal Bus & Prof Code §§16700 et seq\nUnfair Competition Law Cal Bus & Prof Code §§17200 et seq"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418\nArmacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592; 248 ALR 573\nAttorney General v Mobil Oil NZ Ltd [1989] 2 NZLR 649\nAustralian Competition and Consumer Commission v Valve Corporation [2016] FCA 196; 337 ALR 647\nAustralian Health & Nutrition Association Ltd v Hive Marketing Group Pty Ltd [2019] NSWCA 61; 99 NSWLR 419\nBurke v LFOT Pty Limited [2002] HCA 17; 209 CLR 282\nCasaceli v Natuzzi SpA [2012] FCA 691; 292 ALR 143\nClough Engineering Ltd v Oil & Natural Gas Corporation Ltd [2007] FCA 881\nComandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCAFC 192; 157 FCR 45\nCommonwealth Bank of Australia v White [1999] VSC 262; 2 VR 681\nContentGuard Holdings, Inc. v Amazon.com, Inc. 2015 WL 1885256 (ED Tex 2015)\nDialogue Consulting v Instagram, Inc [2020] FCA 1846\nDonohue v Armco Inc [2001] UKHL 64; [2002] 1 All ER 749\nDouez v Facebook, Inc. [2017] 1 SCR 751\nET Plus SA v Welter [2005] EWHC 2115\nFAI General Insurance Co Ltd v Ocean Marine Mutual Protection and Indemnity Association (1997) 41 NSWLR 559\nFaxtech Pty Ltd v ITL Optronics Ltd [2011] FCA 1320\nGlobal Partners Fund Ltd v Babcock & Brown Ltd (in liq) [2010] NSWCA 196\nHenjo Investments Pty Limited v Collins Marrickville Pty Limited (No 1) (1988) 39 FCR 546\nHome Ice Cream Pty Ltd v McNabb Technologies LLC (No 2) [2018] FCA 1093\nHuddart Parker Ltd v Ship ‘Mill Hill’ (1950) 81 CLR 502\nIncitec Ltd v Alkimos Shipping Corporation [2004] FCA 698; 138 FCR 496\nIn re Air Cargo Shipping Services Antitrust Litigation 2008 WL 5958061 (ED NY 2008)\nIOOF Australia Trustees (NSW) Ltd v Tantipech [1998] FCA 924; 156 ALR 470\nJoseph v Amazon.com, Inc 2013 WL 4806462 (ND Cal 2013)\nLe v Zuffa, LLC, 108 FSupp3d 768 (ND Cal 2015)\nMitsubishi Motors Corp. v Soler Chrysler-Plymouth, Inc. 473 US 614 (1985)\nMurphy v Amway Canada Corporation [2014] 3 FCR 478\nNeilson v Overseas Projects Corporation of Victoria Ltd [2005] HCA 54; 223 CLR 331\nNicola v Ideal Image Development Corporation [2009] FCA 1177; 215 FCR 76\nOceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197\nPetersville Ltd v Peters (WA) Ltd [1997] ATPR 41-566\nReinsurance Australia Corporation Ltd v HIH Casualty and General Insurance Ltd (in liq) [2003] FCA 56; 254 ALR 29\nRe Wakim; Ex parte McNally [1999] HCA 27; 198 CLR 511\nSun v Advanced China Healthcare, Inc. 901 F3d 1081 (9th Cir 2018)\nThe Eleftheria [1970] P 94\nTongfang Global Limited v Element Television Company LLC 2020 WL 4354173 (CD Cal 2020)\nTruth About Motorways Pty Limited v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11; 200 CLR 591\nVoth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538\nWestfield Management Ltd v AMP Capital Property Nominees Ltd [2012] HCA 54; 247 CLR 129\nDavies M, ‘A Curate’s Egg: Good in Parts – Akai Pty Ltd v People’s Insurance Co Ltd’ (1997) 25 ABLR 215\nGarnett R, ‘Jurisdiction clauses since Akai’ (2013) 87 ALJ 134"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "66"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "29 March 2021 (Respondents)\n26 March 2021 (Applicants)"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "23 March 2021"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr N Young QC with Mr C Brown and Ms D Forrester"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Clifford Chance"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr S Free SC with Mr C Bannan and Ms Z Hillman"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1236/2020",
+   "parties": [
+    {
+     "name": "EPIC GAMES, INC",
+     "role": "First Applicant"
+    },
+    {
+     "name": "EPIC GAMES INTERNATIONAL S.À R.L.",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "APPLE INC",
+     "role": "First Respondent"
+    },
+    {
+     "name": "APPLE PTY LIMITED",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2021-04-09",
+   "date_raw": "9 APRIL 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The proceedings be temporarily stayed for a period of 3 months from the date of these orders.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "If at the end of the period referred to in Order 1, the First Applicant has not commenced a suit in a court in the Northern District of California alleging contraventions of Part IV of the Competition and Consumer Act 2010 (Cth) (‘CCA’) and/or s 21 of the Australian Consumer Law, being Sch 2 to the CCA, the proceedings be permanently stayed.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "If the First Applicant commences a suit of the kind referred to in Order 2 within the period referred to in Order 1, the stay of these proceedings be continued but with liberty to apply in the event that a court in the Northern District of California declines to determine the allegations referred to in Order 2.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The Applicants pay 95% of the Respondents’ costs of the Interlocutory Application filed 22 December 2020 as taxed, assessed or otherwise agreed.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The costs of these proceedings otherwise be reserved with liberty to the Respondents to apply.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The Applicants be granted leave to appeal.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "Apple Inc (‘Apple’) and Apple Pty Limited apply for a permanent stay of the competition case brought against them in this Court by Epic Games, Inc (‘Epic’) and Epic Games International S.à r.l. relating to the popular online video game, Fortnite. They do so on the basis that Epic has contractually agreed with Apple that any disputes between them will be heard by courts in the Northern District of California (‘the Northern District’) and, therefore, not by the Federal Court of Australia. The Northern District is a geographical region of California over which the United States District Court for the Northern District of California exercises jurisdiction. Loosely speaking, the Northern District stretches along the Californian coast from the counties of Monterey to Del Norte and includes the cities of San Francisco, Oakland, San Jose and Eureka. The courts exercising jurisdiction within the Northern District obviously include the United States District Court for that district but also the 15 Californian state courts sitting in the same area.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "For the reasons which follow the case will be temporarily stayed for three months to allow Epic to sue Apple in a court in the Northern District, as it has agreed. If at the end of that period, Epic has not so sued Apple then the stay will become permanent. If Epic does sue Apple in a court in the Northern District, then the stay will continue but if that court declines to determine the allegations of contraventions of Australian law, I will reserve the right to Epic to apply to this Court to lift the stay. In short, Epic can sue Apple in a court in the Northern District and should do so but if for procedural reasons it is prevented from doing so, it may be able to continue the case it has commenced in this Court.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Background"
+    ],
+    "text": "Epic commenced these proceedings against Apple on 16 November 2020 seeking, amongst other things, injunctions restraining Apple from contravening three provisions of Part IV of the Competition and Consumer Act 2010 (Cth) (‘CCA’). These are s 46 which prohibits a corporation with a substantial degree of power in a market in Australia from engaging in conduct that has the purpose, effect or likely effect of substantially lessening competition; s 47 which prohibits a corporation from engaging in the practice of exclusive dealing; and s 45 which prohibits, amongst other things, a party from making a contract which has the purpose, effect or likely effect of substantially lessening competition. Epic also alleges that Apple has contravened s 21 of the Australian Consumer Law (‘ACL’), being Sch 2 to the CCA, which prohibits unconscionable conduct. Epic contends that Apple has infringed these provisions and will continue to do so.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Background"
+    ],
+    "text": "Epic is a developer of gaming apps, including for use on Apple’s iOS devices (ie iPhones and iPads). More generally, it develops games for a wide variety of platforms such as Android devices, Sony’s PlayStation consoles, Microsoft’s Xbox consoles, the Nintendo Switch as well as PCs. The conduct it complains of is twofold. First, Apple requires developers of apps for use on Australian iOS devices only to distribute those apps through Apple’s Australian App Store. Secondly, Apple requires that any app developer use only Apple’s in-app payment processing system for the purchase of in-app content. Typically, Apple deducts as commission 30% of any such payment which results in a very substantial flow of revenue to Apple from its Australian users. If Epic’s suit were successful it would result in Australian users of iOS devices being able to download apps to their devices from locations other than Apple’s Australian App Store and it would mean that other firms would be able to provide payment processing systems for in-app content within the environment of iOS apps.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Background"
+    ],
+    "text": "The relationship between Apple and Epic is presently governed by an agreement known as the Apple Developer Program License Agreement which I will call the DPLA. The DPLA imposes the obligations referred to in the preceding paragraph by cll 3.2(g), 3.3.3, 7.2 and cl 3.4(a) in Schedule 2 to the DPLA. Similar obligations are imposed on the developer by cl 3.1.1 and cl 3.2.2(i) of the App Store Review Guidelines. By cl 7.3(iv) of Schedule 2 to the DPLA Apple is empowered to cease distributing apps to end users if the developer has breached the App Store Review Guidelines.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Background"
+    ],
+    "text": "The immediate irritant which has generated this litigation was Epic’s decision to introduce into the iOS version of its popular game, Fortnite, a facility for making in-app purchases using a payment processing system of its own devising. It did so by means of a software update which included a hotfix which provided an option for in-app purchases to be processed via Epic’s own system. The software update was made available to all iOS devices with Fortnite installed on them. At the same time, fresh versions of Fortnite which were downloaded from the App Store (including in Australia) came equipped with this new feature. The hotfix was activated on 13 August 2020. This was a direct breach of the App Store Review Guidelines and, as explained in the preceding paragraph, Apple was authorised under cl 7.3(iv) of Schedule 2 to the DPLA to cease distributing Fortnite.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Background"
+    ],
+    "text": "Apple responded the same day the hotfix was activated by preventing any further downloading of Fortnite from the App Store (in all jurisdictions) and preventing any updating of Fortnite on devices where it had already been installed. Due to the time difference, this removal occurred on 14 August 2020 in Australia. The ability of players of Fortnite to play against each other is dependent on the version being played on differing platforms being compatible. By preventing Fortnite on iOS devices from being updated, the amenity of the game for iOS device users will be progressively degraded. For instance, no new content can be introduced into the iOS version of the game and iOS device users cannot play with those playing Fornite on other platforms who have installed any updates since August 2020. There are approximately 3 million users of Fortnite on iOS devices in Australia, 116 million on iOS devices worldwide and 350 million across all platforms worldwide.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Background",
+     "The US Proceeding"
+    ],
+    "text": "On 13 August 2020, Epic commenced proceedings for injunctive relief in the United States District Court for the Northern District to prohibit Apple’s allegedly anti-competitive conduct (‘the US proceeding’). In essence, Epic alleges that the effect of the DPLA is to maintain Apple’s monopolisation of certain markets contrary to the requirements of the United States Sherman Act, 15 USC §§1-2 and both the Californian Cartwright Act, Cal Bus & Prof Code §§16700 et seq and Unfair Competition Law, Cal Bus & Prof Code §§17200 et seq. These acts contain prohibitions that are similar to, but by no means identical with, those in CCA Part IV.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Background",
+     "The US Proceeding"
+    ],
+    "text": "Following the commencement of the US proceedings, Epic filed a motion for a temporary restraining order and then a motion for a preliminary injunction requiring Apple to reinstate Fortnite to the App Store. These motions were refused on the basis that whilst it was legitimate for Epic to challenge both the way that Apple ran its App Store and its requirement that developers use only its in-app payment processing system there were more orderly ways of doing this than by breaching the terms of the DPLA. Consequently, the chaos which had resulted once Fortnite was removed from iOS devices was largely of Epic’s own making. Subsequently, the substantive US proceeding was set down for an expedited hearing which is shortly due to commence before the United States District Court for the Northern District on 3 May 2021. Epic’s proceeding before that court does not contain any allegations of contraventions of Part IV of the Australian CCA or ACL s 21.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "Mention has been made above of Epic’s contractual agreement with Apple to litigate in the Northern District of California. This agreement is embodied in cl 14.10 of the DPLA and, relevantly, is in these terms:\nAny litigation or other dispute resolution between You and Apple arising out of or relating to this Agreement, the Apple Software, or Your relationship with Apple will take place in the Northern District of California, and You and Apple hereby consent to the personal jurisdiction of and exclusive venue in the state and federal courts within that District with respect any such litigation or dispute resolution. This Agreement will be governed by and construed in accordance with the laws of the United States and the State of California, except that body of California law concerning conflicts of law.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "The first question is whether cl 14.10 covers the present case which Epic denies. The basic dispute is whether the claims in this case under Part IV and ACL s 21 can be said to ‘relate to’ the DPLA, the Apple Software or Epic’s relationship with Apple and as such is a question of contractual interpretation. The parties agreed that the contractual interpretation of cl 14.10 is governed by the law applying in California, that this Court should determine as a fact the content of that law and then apply the law thus determined to the facts in this case. This is orthodox: Comandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCAFC 192; 157 FCR 45 (‘Comandate’) at [163] per Allsop J, Finn J agreeing at [1] and Finkelstein J agreeing at [9]. Expert evidence as to the content of the law applying in California was provided on behalf of Apple by Judge Vaughn Walker and for Epic by Judge Alvin Howard Matz. Judge Walker is a retired judge of the United States District Court for the Northern District whilst Judge Matz is a retired judge of the United States District Court for the Central District of California. Their evidence establishes that a dispute will ‘relate to’ the DPLA (to paraphrase the first sentence of cl 14.10) if it has some logical or causal connection to the DPLA: Sun v Advanced China Healthcare, Inc. 901 F3d 1081 (9th Cir 2018) at 1086. Both retired judges thought that Californian and United States courts tended to view the scope of forum selection clauses as being broad. Judge Walker instanced two cases in which antitrust allegations had been held to ‘relate to’ an agreement for the purposes of a forum selection clause: Joseph v Amazon.com, Inc 2013 WL 4806462 (ND Cal 2013) at *4; Le v Zuffa, LLC 108 FSupp3d 768 (ND Cal 2015) at 778.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "I am satisfied that the proceeding commenced in this Court has a logical or causal connection with the DPLA. Epic’s allegation is that Apple’s conduct in requiring all app developers to agree to the DPLA contravenes Part IV and ACL s 21 because the DPLA requires them to distribute their apps only through the App Store and to use only Apple’s in-app payment processing system. If there was no DPLA there would be no dispute – a sufficient connection is therefore established. Both retired judges drew attention to the decision of the United States District Court for the Eastern District of Texas in ContentGuard Holdings, Inc. v Amazon.com, Inc. 2015 WL 1885256 (ED Tex 2015) (‘ContentGuard’) at *5 and Epic placed particular reliance upon it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "I do not think it assists Epic. ContentGuard was a case concerning an app developer agreement in very similar terms to the present DPLA (Apple was one of the parties to the case). The court did not accept that the dispute before it had anything to do with the developer agreement and declined Apple’s invitation, based on a clause nearly identical to cl 14.10, to transfer the proceeding to the United States District Court for the Northern District of California. However, it is obvious that there was no connection in that case between the patent dispute which was before the court and the app developer agreement. ContentGuard was a software developer with an app developer agreement with Apple but the patents in suit were entirely unrelated to that aspect of its business. It had instead obtained its patents as part of its ordinary business of developing patents for digital rights management. It sued a number of defendants, including Apple, Amazon, Huawei, Motorola, HTC and Samsung for infringement of those patents. Apple sought to rely on the equivalent to cl 14.10 in the app developer agreement it happened to have with ContentGuard. It submitted that the dispute arose out of or related to its relationship with ContentGuard in terms of the clause and that the case should therefore be transferred to the Northern District. The United States District Court for the Eastern District of Texas, understandably in my respectful opinion, rejected this outlandish submission noting that Apple’s counsel had been unable to articulate any litigation between ContentGuard and Apple which would not fall within the clause if Apple’s construction were correct.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "Next Epic submitted that this Court should not give effect to cl 14.10, even if it did apply to the present dispute, because the DPLA was a contract of adhesion. A contract of adhesion or standard form contract is a contract in which one of the parties prepares a written contract in a standard form and the other party has only the Hobson’s choice of agreeing to the standard form or not entering into the agreement at all. Part 2-3 of the ACL regulates the content of such standard form contracts. However the relevant provisions of Part 2-3 cannot affect cl 14.10 as the DPLA is neither a consumer contract nor a small business contract as those terms are defined by ACL s 23.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "Epic relied instead on s 21 of the ACL, which prohibits a corporation from engaging in unconscionable conduct in connection with the supply of goods or services. By s 22(1)(a) and s 22(1)(j)(i) the court may take into account when assessing what is unconscionable the relative bargaining strengths of the parties and the extent to which Apple was willing to negotiate the terms with Epic.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "I accept that (a) the DPLA was a contract of adhesion or standard form contract; (b) Apple had much greater bargaining power than Epic; and, (c) Apple was unwilling to negotiate the terms of the DPLA. In essence, if a developer wants to get an app into the App Store it has no choice but to agree to the terms of the DPLA.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Apple’s Stay Application",
+     "The Choice of Forum Clause"
+    ],
+    "text": "However, I do not accept that in these circumstances, insisting on the inclusion of cl 14.10 constituted unconscionable conduct on the part of Apple within the meaning of ACL s 21. Both Apple and Epic are large corporations. With such parties, the mere fact that one has the whip hand in a particular negotiation does not constitute unconscionable conduct. If Epic were a consumer, not only would Part 2-3 of the ACL come into play, but the argument could also derive some support from the decision of the Canadian Supreme Court in Douez v Facebook, Inc. [2017] 1 SCR 751. There the court found, by majority, that Facebook could not rely on a clause like cl 14.10, in a statutory tort case brought by one of its users alleging a breach of privacy, since it was in a contract of adhesion and the bargaining strength of Facebook vastly exceeded that of one of its users. But Epic is not, on any view, Ms Douez. Epic’s submission is an invitation to conclude that choice of forum clauses in all contracts of adhesion are unenforceable. Such a contention is untenable. I therefore do not accept Epic’s submission that cl 14.10 is unenforceable by reason of ACL s 21.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Next Epic submitted that Part IV and ACL s 21 were ‘mandatory laws of the forum’. In simple terms a mandatory law of the forum is a law operating in the jurisdiction where the court is sitting which the parties are not at liberty by contract to displace. An example of such a law is s 11(2) of the Carriage of Goods by Sea Act 1991 (Cth), which negates the effect of either a choice of foreign law or a foreign exclusive jurisdiction clause in an agreement for the shipment of goods from within Australia to a place outside of it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "I accept that Part IV and ACL s 21 are mandatory laws in the sense that parties cannot contract out of their application. There is actually no decision which holds directly that parties may not by contract agree that they are not bound by the competition laws contained in Part IV, although there are statements that at the very least it is not possible to contract out of what is now the ACL: see Henjo Investments Pty Limited v Collins Marrickville Pty Limited (No 1) (1988) 39 FCR 546 at 561 per Lockhart J, Burchett J and Foster J agreeing at 568; IOOF Australia Trustees (NSW) Ltd v Tantipech [1998] FCA 924; 156 ALR 470 at 479 per Lee, Nicholson and Sundberg JJ; Burke v LFOT Pty Limited [2002] HCA 17; 209 CLR 282 (‘Burke’) at 336 [143] per Callinan J.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "However this absence of authority is a result of the obviousness of the proposition. Part IV is designed to ensure the competitive nature of Australian markets. The means by which s 45, for example, achieves this end is to focus upon contracts, arrangements and understandings having certain effects or entered into with particular purposes. Part IV therefore takes as one of its points of departure the existence of contracts and then creates sanctions where those contracts impact on competition in certain deleterious ways. It would be a surprising outcome if in those very contracts the parties could agree amongst themselves that Part IV did not apply to their relationship. This is particularly so where the evident intent of Part IV is to foster competition for the common good. For example, s 2 of the CCA provides that the object of the Act is ‘to enhance the welfare of Australians through the promotion of competition and fair trading and provision for consumer protection’. The stipulations in Part IV are not erected for the interests of the entities engaged in competition, rather, they are imposed for the general well-being of the economy. In light of that public purpose, it is impossible to accept that parties are at liberty to contract out of Part IV: see Westfield Management Ltd v AMP Capital Property Nominees Ltd [2012] HCA 54; 247 CLR 129 at 143-144 [46] per French CJ, Crennan, Kiefel and Bell JJ. Similar reasoning leads to the same conclusion in relation to ACL s 21: see Burke at 336 [143]; Clough Engineering Ltd v Oil & Natural Gas Corporation Ltd [2007] FCA 881 (‘Clough’) at [41] per Gilmour J; Home Ice Cream Pty Ltd v McNabb Technologies LLC (No 2) [2018] FCA 1093 (‘Home Ice Cream’) at [17] per Greenwood ACJ; see also Australian Competition and Consumer Commission v Valve Corporation [2016] FCA 196; 337 ALR 647 at [119] per Edelman J. There would be precious little purpose in requiring suppliers of goods and services to behave conscionably in their dealings with consumers if they could agree with the consumers in the same breath that s 21 did not apply.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Consequently, I accept that Part IV and ACL s 21 are mandatory laws in the sense that parties are not at liberty to agree that they do not apply. Apple did not attempt to argue that the operation of Part IV and ACL s 21 did not extend to cover the conduct at issue here, no doubt dissuaded by the extraterritorial application brought about by CCA s 5.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The question then arises as to how such a mandatory law interacts with:\n(a) a choice of law clause; and\n(b) a choice of forum clause.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Where a choice of law clause is not accompanied by a choice of forum clause (not this case), the analysis is straightforward. Because the parties are not at liberty to agree that a mandatory law (here a provision of Part IV or ACL s 21) does not apply to them, they are likewise unable to achieve that outcome by agreeing that their relationship will be governed by some foreign law which does not include the mandatory law. No doubt their agreement will be effective for some purposes but it cannot have the effect of displacing the mandatory law.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Where a choice of forum clause is involved, different concerns arise. The first concern is one on the part of the forum court that the foreign court selected may not apply the mandatory law when hearing the case. The second concern is that the foreign court may decline to hear the case altogether. Both concerns only come into view when an application is made to the forum court to stay the proceeding before it so as to give effect to the choice of foreign court.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The usual rule where a choice of forum clause is concerned is that the bargain of the parties is to be enforced and a stay granted unless strong reasons are shown that it should not be: Huddart Parker Ltd v Ship ‘Mill Hill’ (1950) 81 CLR 502 at 508-509 per Dixon J; The Eleftheria [1970] P 94 at 99 per Brandon J; Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418 (‘Akai’) at 427-429 per Dawson and McHugh JJ, at 445 per Toohey, Gaudron and Gummow JJ; Global Partners Fund Ltd v Babcock & Brown Ltd (in liq) [2010] NSWCA 196 (‘Global Partners’) at [88]-[89] per Spigelman CJ, Giles JA agreeing at [101], Tobias JA agreeing at [102]. Where mandatory laws are concerned the question then is whether the nominated mandatory law constitutes a strong reason.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "In Akai the High Court was required to assess the nature of certain provisions of the Insurance Contracts Act 1984 (Cth). A majority of the High Court accepted that a choice of forum clause (coupled with a choice of law clause), if given effect, would defeat a mandatory law of the forum because it had not been shown that the foreign court would apply the mandatory law, being the relevant provisions of the Insurance Contracts Act, when hearing the breach of contract case. However, this is not an Akai case. Both parties accepted that the courts of the Northern District had jurisdiction to entertain a suit under Part IV and ACL s 21 and both assumed that if such a suit were brought, those courts would regard Part IV and ACL s 21 as the lex causae. This was not the case in Akai.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The contention in this case is instead of the second variety described above. The concern is not that the foreign court in otherwise hearing the case will not apply the mandatory law (as in Akai) but rather that it will decline to hear the case alleging contraventions of the mandatory law. I accept that if it were shown that a court in the Northern District would decline to hear Epic’s case under Part IV and ACL s 21 then it would not be appropriate to stay the present proceeding: Commonwealth Bank of Australia v White [1999] VSC 262; 2 VR 681 at [88]–[91] per Byrne J; Reinsurance Australia Corporation Ltd v HIH Casualty and General Insurance Ltd (in liq) [2003] FCA 56; 254 ALR 29 (‘Reinsurance Australia’) at [293] per Jacobson J; Clough at [43]; Faxtech Pty Ltd v ITL Optronics Ltd [2011] FCA 1320 at [18]-[28] per Middleton J; Home Ice Cream at [19]. In a sense, this is obvious and I did not really apprehend that Apple disputed it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The debate between the parties was instead about the factual question of whether a court in the Northern District would, whilst certainly having jurisdiction to hear such a suit brought by Epic, decline to hear it for, what I will loosely call for now, procedural reasons. The evidence about this was unclear in its implications. Both parties accepted that a court in the Northern District could decline in its discretion to hear such a case, the difference between them lay in whether it would do so.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The principal discretionary basis identified was the principle of forum non conveniens as applied in the Northern District, while considerations of international comity were also discussed. The evidence of Judge Matz showed that United States courts have declined to hear complex antitrust cases arising under foreign laws: In re Air Cargo Shipping Services Antitrust Litigation 2008 WL 5958061 (ED NY 2008) (‘Air Cargo’); Tongfang Global Limited v Element Television Company LLC 2020 WL 4354173 (CD Cal 2020) (‘Tongfang’). In the Air Cargo litigation the United States District Court for the Eastern District of New York declined to entertain a case brought under European Union competition law in relation to the imposition of fuel surcharges by airlines on air cargo, while Tongfang was a case involving Chinese competition law. The principles to be applied in such cases were laid out in some detail before me. However, the discretionary nature of those principles means they provide no clear guidance as to what the actual outcome would be if Apple were to assert that a court in the Northern District should decline to hear such a suit on forum non conveniens grounds. The best one can say is that such an application might succeed or it might not.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "In fact, there may perhaps be an air of unreality about this inquiry. In this Court Apple is seeking to make Epic litigate in the courts of the Northern District. In part it relies on cl 14.10 but it also asks this Court to stay Epic’s proceeding on forum non conveniens grounds. It may perhaps be doubted that Apple, having adopted such a posture in this Court, would have the chutzpah to submit to the court in the Northern District that, contrary to cl 14.10, Epic should now litigate any Part IV or ACL s 21 claim in Australia. Although this thought is attractive on the surface, I have concluded that I ought not to give it controlling weight since there remains the possibility, vestigial perhaps, that an overworked docket judge in the Northern District might decide to weigh into the forum non conveniens question at his or her own instigation.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Given that it is unclear whether a court in the Northern District would stay any proceeding before it under Part IV and ACL s 21 on forum non conveniens grounds, the question then arises as to which of the parties before the Court bore the onus of proving this matter. Did Apple have to prove that such a stay would not be ordered or did Epic have to prove that it would be?",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The ordinary rule where a choice of forum clause is concerned is that Australian courts will hold the parties to their bargain and will enforce the choice made unless strong reasons are shown that this should not occur: Akai at 429, 445. Under that well-established principle, it is for the party seeking to resist the stay (on the basis that it should not be forced to comply with the choice of forum clause) to demonstrate the existence of a strong reason: The Eleftheria at 99; Oceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197 at 230-231 per Brennan J, at 259 per Gaudron J; FAI General Insurance Co Ltd v Ocean Marine Mutual Protection and Indemnity Association (1997) 41 NSWLR 559 at 569 per Giles CJ Comm D; Incitec Ltd v Alkimos Shipping Corporation [2004] FCA 698; 138 FCR 496 (‘Incitec’) at [42]-[43] per Allsop J; see also Reinsurance Australia at [342]; Global Partners at [92].",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The application of that principle would suggest that it is for Epic to show that if it commences a Part IV or ACL s 21 case in the Northern District that case will be stayed. Although Epic has succeeded in showing that there is some prospect that its case would be stayed, it has not proved that its case will be stayed: see Armacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592; 248 ALR 573 at [98]-[118] per Jacobson J. Put another way, it has not proved on the balance of probabilities that such a case will be stayed but it has proved on the balance of probabilities that there is a non-trivial chance that this may occur.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "In my opinion, if the only strong reason put forward by Epic was the mandatory nature of Part IV and ACL s 21 the correct result would be that its case in this Court should be stayed until any case relying on the same provisions in the Northern District is itself stayed on forum non conveniens or other discretionary grounds. This is not quite a permanent stay and, in terms of genus, is properly characterised as a temporary stay.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Epic submitted that the majority’s reasoning in Akai required the conclusion that Apple bore the onus of demonstrating that any proceeding before a court in the Northern District would not be stayed. If that is correct, then Apple will have failed to discharge that burden because the evidence is not sufficient to draw that conclusion either.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "The question of who bears the onus therefore dictates, in relation to the mandatory law aspect of the matter, whether there is no stay at all or whether there is a temporary stay of the kind referred to above.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Epic relies on the majority’s reasoning in Akai to make good its submission that the onus lay with Apple and not with it. Akai was, as I have said above at [26], a case where the question was whether the Australian court was satisfied that the English court would apply the Insurance Contracts Act. A majority of the High Court found that the party seeking to enforce the choice of forum clause (the insurer) had failed to prove that the English court would do so in the proceeding which had been commenced before it. As a result, the stay was refused.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "This reasoning is, with respect, at least frangible. Although all members of the High Court stated that where a choice of forum clause was concerned it was for the party seeking to resist the stay (there, the insured) to show strong reasons why it should not be enforced, the majority then proceeded on the basis that it was the party seeking the stay (the insurer) who had failed to show that the English court would apply the Insurance Contracts Act. I have found it impossible to reconcile these two statements which are chalk and cheese. If the onus is on the party opposing enforcement of the choice of forum clause to adduce a strong reason against enforcement, then the onus must be on that party to establish the existence of any juridical disadvantage it will face in the forum selected by the clause.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Even if the majority should be taken to have intended to overturn the orthodox position without discussion, despite having affirmed the orthodox position on the very same page, the resulting reasoning makes even less sense. If the insurer had failed to prove the content of the English conflict of laws rules this would not automatically lead to the result at which the majority arrived. There is often an absence of evidence about foreign law in litigation. It is beyond argument where such lacunae appear in the evidence that a court is to apply the default rule that the foreign law is to be presumed to be the same as Australian law: Neilson v Overseas Projects Corporation of Victoria Ltd [2005] HCA 54; 223 CLR 331 (‘Neilson’) at 372 [125] per Gummow and Hayne JJ, at 411 [249] per Callinan J; at 420 [275] per Heydon J but cf at 343 [16] per Gleeson CJ, at 348-349 [36] per McHugh J, at 396 [203] per Kirby J. Indeed, the majority in Akai at 444 itself recognised the existence of the principle and noted that it required them to presume the English court would apply Australian choice of law rules. In the absence of evidence as to the content of English law relating to insurance contracts, the application of that principle should have led the majority to assume that the English law was relevantly the same as that in Australia. Why it did not do so is unclear. These criticisms have been made elsewhere by Professor Davies in terms which are compelling: Davies M, ‘A Curate’s Egg: Good in Parts – Akai Pty Ltd v People’s Insurance Co Ltd’ (1997) 25 ABLR 215 at 220; see also Garnett R, ‘Jurisdiction Clauses since Akai’ (2013) 87 ALJ 134 at 144.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "If this case were on all fours with Akai I would be bound to apply it and conclude that it was Apple which had failed to discharge its onus. However, this case is not an Akai case. In this case the question is not whether the courts of the Northern District will apply Part IV and ACL s 21. It is whether they will decline to hear the case brought under those provisions on discretionary grounds. As I have indicated already, this does not necessarily entail the same binary consequence that answering the question in Akai had. In my opinion, Akai is distinguishable.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "Consequently, in a conventional way, it is Epic which bears the onus. For the reasons I have given, if this were the only matter put forward by Epic as a strong reason for not enforcing cl 14.10 I would conclude that a stay should be granted but that it should revocable if the court in the Northern District declined to exercise its jurisdiction on forum non conveniens grounds.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Apple’s Stay Application",
+     "Mandatory Law of the Forum"
+    ],
+    "text": "For completeness, there was another ground on which a court of the Northern District might stay any proceeding commenced before it by Epic under Part IV and ACL s 21. This related only to the United States District Court for the Northern District. One of the bases on which it might exercise jurisdiction was as pendent or supplemental jurisdiction by reason of the suit already before that court between Epic and Apple under the Sherman Act. Pendent jurisdiction can be declined on discretionary grounds. However, it is not clear to me that all the courts of the Northern District would be exercising that jurisdiction. For example, I am reasonably clear that no state court would be exercising that jurisdiction when hearing a Part IV or ACL s 21 claim brought by Epic. In relation to the United States District Court itself it is not entirely clear to me that it would have pendent jurisdiction in a proceeding separate from the suit between Epic and Apple that is already pending in it. In Australia pendent jurisdiction can sustain separate proceedings in the one court (Re Wakim; Ex parte McNally [1999] HCA 27; 198 CLR 511 at 584 [136] per Gummow and Hayne JJ, Gleeson CJ agreeing at 540 [3], Gaudron J agreeing at 546 [26]) but I do not know what the position is in the United States federal courts. However, it does not matter and there is, therefore, no reason to apply the default rule in Neilson. Even assuming that the United States District Court for the Northern District had pendent jurisdiction, that court would also appear to have diversity jurisdiction which cannot be declined on discretionary grounds (except of course under forum non conveniens principles). It is difficult to think therefore that any discretionary matter is in play beyond issues of forum non conveniens (and to the extent that it is a distinct issue, considerations of international comity). Were I wrong in that, however, I have no greater clarity as to how the pendent jurisdiction discretion would be exercised than I do in the case of the forum non conveniens issue. The same result would flow.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Where a party seeks a stay on the basis of an exclusive jurisdiction clause such as cl 14.10 the court is not bound to grant a stay to force the party to litigate in the forum selected in such a clause. However, as I have already explained, Australian courts give significant weight to the principle that parties should be held to the bargain they have reached and that the party resisting the enforcement of a choice of forum clause must demonstrate strong reasons for being permitted to proceed in the local forum in breach of the clause: Akai at 427-429, 445. The present debate, therefore, does not start on a level playing field. Epic has promised that the present dispute will be conducted before the courts of the Northern District of California. It must show strong reasons as to why it should be relieved of the burden of honouring its contractual obligation.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "I do not think that strong reasons are shown. The first point is the one already made that a court in the Northern District could entertain Epic’s suit under Part IV and ACL s 21 although there is some possibility it might decline to hear the suit on forum non conveniens grounds.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Turning then to some practical issues, Epic’s US proceeding against Apple under United States and Californian law is set down for hearing in a judge-alone trial commencing on 3 May 2021. Epic may choose three ways of bringing the present case in the Northern District. It may seek to amend the current US proceedings by adding the Australian claims, it may commence a separate proceeding in the United States District Court for the Northern District or it may commence a case before a Californian state court in the Northern District. Regardless of which of these options is selected, it seems impossible that the Australian allegations will form any part of the trial due to commence on 3 May 2021. Their preparation would be complex and would involve expert evidence both as to the economics of Australian markets and about Australian competition law which have not yet formed part of the trial preparations for that case. I do not consider it remotely feasible that such a case could be prepared in the less than four weeks that remain before the trial commences. If Epic is successful in seeking to amend its current case, the amended portion will need to be severed from the present trial and heard subsequently. Any fresh proceeding will also not be heard on 3 May 2021 regardless of the court it is filed in.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Ordinarily applications for a stay such as the present require attention to be given to the practical desirability of avoiding the fragmentation of one dispute into several courts: Australian Health & Nutrition Association Ltd v Hive Marketing Group Pty Ltd [2019] NSWCA 61; 99 NSWLR 419 at [81] per Bell P, Bathurst CJ and Leeming JA agreeing at [1]; Incitec at [62]. Generally, refusing a stay has the consequence of increasing fragmentation. In this case, however, this is a relatively neutral consideration. If the stay is granted as Apple seeks, this will still result in the proceeding being fragmented for the reasons given in the preceding paragraph. The avoidance of a multiplicity of proceedings is an important consideration but the present factual milieu means that there are going to be two cases regardless of the outcome of the stay application. The only issue is whether the second proceeding is in front of a court in the Northern District or in front of this Court. I reject Apple’s submission that Epic should be seen as the author of this situation having sought an expedited trial of the proceeding in the United States District Court and having elected not to include in that case, as it could have, its case under Australian law. To assess that submission it would be necessary to revisit the circumstances in which the US proceeding was commenced and the reasons why Epic sought expedition. I do not accept that the evidence before this Court is sufficient safely to sustain such an inquiry.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Epic placed reliance on the fact that it had joined Apple Pty Limited to this suit which is not party to the DPLA. It is true that where not all the parties to the proceeding are party to an exclusive jurisdiction clause, a different analysis may be called for: see Australian Health at [90]; Donohue v Armco Inc [2001] UKHL 64; [2002] 1 All ER 749 at [27] per Bingham LL. However, it is necessary to interpret each contract in its context: Global Partners at [72].",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "In this matter it is apparent that the joinder of Apple Pty Limited is largely ornamental. The suit against it is parasitic on the claims Epic makes against Apple. The DPLA is with Apple and it is Apple’s requirements about the use of its App Store for the distribution of apps and the use of its in-app payment processing system which are in dispute. Apple Pty Limited is not a stranger to the DPLA, in fact it is by Schedule 2 to the DPLA that it is appointed as agent on behalf of Apple to collect the commission charged on in-app purchases. Epic’s complaint against Apple Pty Limited in this proceeding is concerned entirely with conduct that is provided for by the DPLA. Given these circumstances, Apple should not be prevented from insisting on compliance with cl 14.10 on behalf of Apple Pty Limited in a dispute that clearly arises out of the DPLA: see Global Partners at [73].",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "For completeness, little is to be made of Epic’s joinder as Second Applicant of Epic Games International S.à r.l., a Luxembourg company. It is a party to a separate DPLA with Apple containing cl 14.10.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "I do not accept Apple’s submissions that Epic’s case under the Sherman Act, the Cartwright Act and the Unfair Competition Law is an adequate substitute for Epic’s claims under Part IV and ACL s 21. Professor George Hay, an expert in United States and comparative competition law, gave evidence for Epic about the differences between Epic’s claims in this proceeding under Part IV and ACL s 21 and the claims presently being made by Epic in the US proceeding. In important ways they are not the same. The most important difference to my mind is that the proceeding under the Sherman Act can only take into account conduct outside the United States by Apple to the extent that it impinges on commerce in the United States. It is far from evident that requiring developers of apps for Australian iOS users only to distribute their apps through the Australian App Store and only to use Apple’s in-app payment processing system for in-app content sold to Australian iOS users is likely to have much impact on United States commerce.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "On the other hand, I do accept that the cases have overlapping aspects: the technical aspects of the operation of the App Store, the circumstances of the removal of Fortnite from the App Store and some elements of the market analysis. Both cases may also involve some consideration of Apple’s purposes in imposing the two impugned requirements. Under Australian law this arises because purpose is an express basis of liability under the Part IV provisions. But it also arises indirectly under United States law (where it is not an express basis of liability) because the existence of the impugned purpose may throw light on whether monopolisation has in fact occurred. Even so, these are different cases. I do not accept that the current US proceeding is an adequate substitute for the case in this Court. On the other hand, I do not think this matters very much when the United States District Court can hear the Australian case as well.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "This is relevant because it means that I cannot accept that requiring Epic to litigate, as it has promised to do, in the Northern District will deprive it of any juridical advantage it might have in this Court. It will be just as entitled in any such proceeding to assert its rights under Part IV and ACL s 21. I reject Epic’s contention that somehow the injunctive relief that might be granted in this Court is superior to that which might be granted by a court in the Northern District. The onus lay on Epic to prove this by evidence and it has not been demonstrated.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "On the other hand, I do accept that having to litigate this case in the Northern District will be more cumbersome because the law of Part IV and ACL s 21 will need to be addressed in the form of expert evidence about the content of Australian law. And, as I have said, I do accept Epic’s submission that in a proceeding in the Northern District any finding by that Court will not be able to be tendered in a subsequent proceeding under CCA s 83. I also accept that the Australian Competition and Consumer Commission will not be able to intervene in such a proceeding. These last two matters, however, seem to me to be relatively insubstantial in the scheme of things. In any event, I do not think any question of inconvenience should figure much in the analysis. Any inconvenience flows from the choice of forum clause to which Epic has agreed. It does not sit well in its mouth to complain about the consequences of its own bargain: Incitec at [49]; Australian Health at [103].",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "I reject Epic’s submission that Apple has sought to thwart its efforts to raise the Australian allegations in the US proceeding. It is true that Apple has asserted a defence in that case that the Sherman Act does not apply to foreign conduct which has no direct, substantial, and reasonably foreseeable effect on United States commerce. However, that is a legitimate defence under the statute and I do not think that Apple can be bound not to defend itself as the price for enforcing cl 14.10. In any event, I was not taken by Epic to any part of the US proceeding where it has made any allegation about Australian markets, other than the allegation of global iOS app distribution and in-app payment processing markets. In this Court Epic left unarticulated what its case based on foreign conduct under the Sherman Act actually was and hence what Apple’s defence actually meant. It is not the role of this Court to colour that picture in. It is also true that Apple has suggested in another defence that the United States District Court should decline to examine the position in foreign nations because of the doctrine of international comity. However, I do not find persuasive the contention that Apple is obstructing Epic from bringing the claims in the proceeding before this Court in the US proceeding. The real reason that there are no allegations being made under Part IV or ACL s 21 in the US proceeding is because Epic has not made any such allegation. The protean skirmishing which is taking place on the littoral of the Sherman Act about international antitrust conduct is no substitute for bringing a claim under Part IV and ACL s 21. This is consistent with my earlier conclusion that the current US proceeding is not a substitute for this proceeding.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "The part of this case which has concerned me most is whether there is something about the nature of proceedings under Part IV which means they should generally be heard in this Court. I have in mind the statement of the majority in Akai at 445 that a stay ‘may be refused where the foreign jurisdiction clause offends the public policy of the forum whether evinced by statute or declared by judicial decision’. There are a number of facets to this concern.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "First, what is before the Court is an application for an injunction under CCA s 80. It is established that any person has standing to bring such an application: Truth About Motorways Pty Limited v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11; 200 CLR 591 at 603 [20] per Gleeson CJ and McHugh J, at 614 [53] per Gaudron J, at 638 [126] per Gummow J, at 659 [176] per Kirby J, at 660 [182] per Hayne J, at 671 [218] per Callinan J. Although it is not uncommon for traders who are affected by infringing conduct to bring such a case their entitlement to do so does not spring from the fact that they are affected. It springs from the fact that proceedings under s 80 involve the public interest. By itself this insight does not carry Epic very far since it is clear that claims under s 80 (or ACL s 232(2)) which do not relate to Part IV may be subjected to arbitration: see Comandate at [8], [240]; Nicola v Ideal Image Development Corporation [2009] FCA 1177; 215 FCR 76 (‘Nicola’) at [58] but cf Dialogue Consulting v Instagram, Inc [2020] FCA 1846 at [180] per Beach J. But it is a relevant matter.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Secondly, Part IV is concerned with maintaining effective competition in Australian markets. Whilst no doubt Epic has a commercial interest in seeing Part IV applied to Apple, there are a range of other persons who have an interest in the outcome of the litigation. These include developers of apps on the Australian App Store and Australian users of iOS devices. Whilst the impact of Part IV litigation is often broad, in this case the effect will be particularly far reaching and will extend into the pockets of a large part of the population. Further, the nation has an interest in maintaining the integrity of its own markets.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Thirdly, Parliament has indicated by CCA s 86(4) (subject to immaterial exceptions) that only this Court may hear a case of the present kind and the jurisdiction of the several courts of the States is expressly excluded. If cl 14.10 had selected the courts of New South Wales as the forum, it would therefore be ineffective because those courts lack jurisdiction under Part IV. It is perhaps slightly surprising that cl 14.10 may select the courts of the Northern District of California instead. On the other hand, s 86(4) is a rule concerned with the distribution of jurisdiction and it is unlikely that it speaks to the position of foreign courts.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Fourthly, this Court has refused to stay a proceeding under Part IV so that it could be subject to arbitration: Petersville Ltd v Peters (WA) Ltd [1997] ATPR 41-566 at 43,847. There Lockhart J said:\nI do not find it necessary to determine the question of whether the present proceeding is within the scope of the arbitration clause; or the question whether, in so far as the proceeding is based on Part IV of the Trade Practices Act, it is, or is not within the scope of the arbitration clause.\nIn my opinion, even if the answer to these questions is favourable to Peters (WA) (I have no view one way or the other), I would not as a matter of discretion order a stay under the Commercial Arbitration Act.\nThis Court has special expertise in Part IV matters arising under the Trade Practices Act and associated common law restraint of trade issues. Plainly enough the questions which arise here are not the types of questions which were within the contemplation of the parties for the purposes of private arbitration, even assuming that the literal terms of the arbitration clause can embrace the present dispute.\nCases under Part IV of the Trade Practices Act involve complex legal and factual questions. The matters pleaded in the statement of claim show that the issues of the kind that normally arise in Part IV cases (in particular, questions of market definition, competition within relevant markets and anti-competitive behaviour) are better dealt with by a court having appropriate jurisdiction, rather than an arbitrator. I accept that where parties have agreed upon an arbitration clause as a means of settling their disputes, curial proceedings will ordinarily be stayed, but this does not apply to the present case which involves the issues which I have described.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "If the parties may not agree to arbitrate, how can they agree that the matter should be heard by a foreign court? On the other hand, this Court has also granted a stay of a proceeding that included a claim under Part IV so that it could be arbitrated: Casaceli v Natuzzi SpA [2012] FCA 691; 292 ALR 143 at [50] per Jagot J. The facts in that case suggest however that the Part IV aspect of the case did not raise any significant questions of competition law. This case is starkly different.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "There are dicta suggesting that Part IV claims are not arbitrable: Comandate at [200], Nicola at [56]-[61]. On the other hand, as Apple correctly submitted, the modern international trend is that competition claims may be subject to arbitration: see Mitsubishi Motors Corp. v Soler Chrysler-Plymouth, Inc. 473 US 614 (1985); Attorney General v Mobil Oil NZ Ltd [1989] 2 NZLR 649; ET Plus SA v Welter [2005] EWHC 2115; Murphy v Amway Canada Corporation [2014] 3 FCR 478.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "I would prefer not to express a view on the issue of whether Part IV cases may be arbitrated. There are, of course, different policy considerations applying to international arbitration which may not necessarily be present in a case concerning a choice of forum clause.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Fifthly, if the case be consigned to the Northern District complex questions of competition law will be litigated through the lens of expert evidence. Correspondingly, appellate review of that evidence will not be directed at the question of how that law should develop but instead will simply be to ascertain as a matter of fact what the Australian law proved by the evidence was. By relinquishing the case to the courts of another nation, the role of the High Court as the ultimate explicator of Australian competition law is undermined. Ordinarily this might be of little moment, however, in this case the most serious issues of public policy are at play. There is a real question in my mind as to whether this Court should permit the role given to it by Parliament under CCA s 86 to be thwarted in this way.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Apple’s Stay Application",
+     "Is a strong reason for refusing a stay otherwise shown?"
+    ],
+    "text": "Despite those matters, however, I do not consider that the state of the law concerning choice of forum clauses permits me to refuse Apple’s application although I am distinctly troubled in acceding to it. For completeness, I have not included ACL s 21 in the above discussion. No such issues appear to me to arise in relation to it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Apple’s Stay Application",
+     "Forum non conveniens"
+    ],
+    "text": "Apple also applied for a stay of the proceedings on forum non conveniens grounds. This issue does not arise in light of the above conclusions. Had it arisen, my view would have been that it had not been shown by Apple that the Federal Court of Australia was a clearly inappropriate forum: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538 at 564-565 per Mason CJ, Deane, Dawson and Gaudron JJ. This is a case about the Australian App Store, the developers of apps for distribution in that store and the Australian users of iOS devices. It arises under Part IV (and ACL s 21). It is a case commenced in Australia in reliance on Australian competition law, involving Australian markets and consumers. The best point Apple made on this front was the fragmentation issue mentioned above, however, as I have explained this matter is a neutral consideration in the present case. For completeness, as a matter of logic I have excluded cl 14.10 from this analysis. If the forum non conveniens question had arisen, it would have been because Epic had shown strong reasons that it ought not be held to cl 14.10.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Result"
+    ],
+    "text": "There will be a temporary stay for three months to enable Epic to bring this case in a court in the Northern District of California in accordance with cl 14.10. If at the end of three months no suit has been commenced, the stay will become permanent. If such a proceeding is commenced within that period, then the stay will continue but with liberty to apply in the event that the court in the Northern District declines to determine the claims. The kind of procedural termination I have in mind is principally a stay on forum non conveniens grounds but I will broaden the liberty to apply to cover any circumstance in which the proceeding before a court in the Northern District concludes without a determination on the merits of the Part IV or ACL s 21 claims. I am keen to avoid the substantive question of whether the circumstances of any procedural termination of the proceeding in the Northern District justify the lifting of the stay being transformed into a satellite debate as to whether the liberty itself is open to be exercised. The exercise of the liberty is to be a machinery matter. Epic must pay 95% of Apple’s costs of the application to reflect the fact that Epic has resisted to a minor extent Apple’s efforts to bring this litigation to an end. I will reserve the question of costs of these proceedings more generally at this stage with liberty to Apple to apply. I will grant Epic leave to appeal.",
+    "judge": "PERRAM J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2021-04-09",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Epic Games, Inc v Apple Inc (Stay Application) [2021] FCA 338\n\n## Cover sheet\n\n**File number:** NSD 1236 of 2020\n\n**Judgment of:** PERRAM J\n\n**Date of judgment:** 9 April 2021\n\n**Catchwords:** PRIVATE INTERNATIONAL LAW – application for permanent stay of proceedings alleging contraventions of Competition and Consumer Act 2010 (Cth) (‘CCA’) Pt IV, Australian Consumer Law (‘ACL’) s 21 – where exclusive jurisdiction clause requires litigation relating to app developer agreement to occur in Northern District of California – where First Applicant has commenced proceedings against First Respondent in Northern District of California alleging contraventions of United States and Californian competition law – whether Australian proceedings ‘relate to’ agreement  \nPRIVATE INTERNATIONAL LAW – discretionary non-exercise of jurisdiction – whether ‘strong reasons’ adduced against grant of stay, considering Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418 – whether CCA Pt IV, ACL s 21 mandatory laws of the forum – where parties agree courts in Northern District of California have jurisdiction to hear claims under CCA and ACL – whether court in Northern District of California would decline to exercise jurisdiction on discretionary grounds – whether Akai places onus on party arguing for stay to prove case will be heard by foreign court  \nCOMPETITION – where allegation that CCA Pt IV is contravened by requirements that app developers only distribute apps through Respondents’ app store and purchases of in-app content use only Respondent’s payment processing system – whether CCA Pt IV cases should be determined by foreign courts  \nCONSUMER LAW – where exclusive jurisdiction clause in standard form contract between First Respondent and app developers – whether clause contravenes ACL s 21\n\n**Legislation:** Carriage of Goods by Sea Act 1991 (Cth) s 11(2)  \nCompetition and Consumer Act 2010 (Cth) Pt IV, ss 2, 5, 45, 46, 47, 80, 83, 86, Sch 2 ss 21, 22(1), 23  \nInsurance Contracts Act 1984 (Cth)  \nSherman Act 15 USC §§1-2  \nCartwright Act Cal Bus & Prof Code §§16700 et seq  \nUnfair Competition Law Cal Bus & Prof Code §§17200 et seq\n\n**Cases cited:** Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418  \nArmacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592; 248 ALR 573  \nAttorney General v Mobil Oil NZ Ltd [1989] 2 NZLR 649  \nAustralian Competition and Consumer Commission v Valve Corporation [2016] FCA 196; 337 ALR 647  \nAustralian Health & Nutrition Association Ltd v Hive Marketing Group Pty Ltd [2019] NSWCA 61; 99 NSWLR 419  \nBurke v LFOT Pty Limited [2002] HCA 17; 209 CLR 282  \nCasaceli v Natuzzi SpA [2012] FCA 691; 292 ALR 143  \nClough Engineering Ltd v Oil & Natural Gas Corporation Ltd [2007] FCA 881  \nComandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCAFC 192; 157 FCR 45  \nCommonwealth Bank of Australia v White [1999] VSC 262; 2 VR 681  \nContentGuard Holdings, Inc. v Amazon.com, Inc. 2015 WL 1885256 (ED Tex 2015)  \nDialogue Consulting v Instagram, Inc [2020] FCA 1846  \nDonohue v Armco Inc [2001] UKHL 64; [2002] 1 All ER 749  \nDouez v Facebook, Inc. [2017] 1 SCR 751  \nET Plus SA v Welter [2005] EWHC 2115  \nFAI General Insurance Co Ltd v Ocean Marine Mutual Protection and Indemnity Association (1997) 41 NSWLR 559  \nFaxtech Pty Ltd v ITL Optronics Ltd [2011] FCA 1320  \nGlobal Partners Fund Ltd v Babcock & Brown Ltd (in liq) [2010] NSWCA 196  \nHenjo Investments Pty Limited v Collins Marrickville Pty Limited (No 1) (1988) 39 FCR 546  \nHome Ice Cream Pty Ltd v McNabb Technologies LLC (No 2) [2018] FCA 1093  \nHuddart Parker Ltd v Ship ‘Mill Hill’ (1950) 81 CLR 502  \nIncitec Ltd v Alkimos Shipping Corporation [2004] FCA 698; 138 FCR 496  \nIn re Air Cargo Shipping Services Antitrust Litigation 2008 WL 5958061 (ED NY 2008)  \nIOOF Australia Trustees (NSW) Ltd v Tantipech [1998] FCA 924; 156 ALR 470  \nJoseph v Amazon.com, Inc 2013 WL 4806462 (ND Cal 2013)  \nLe v Zuffa, LLC, 108 FSupp3d 768 (ND Cal 2015)  \nMitsubishi Motors Corp. v Soler Chrysler-Plymouth, Inc. 473 US 614 (1985)  \nMurphy v Amway Canada Corporation [2014] 3 FCR 478  \nNeilson v Overseas Projects Corporation of Victoria Ltd [2005] HCA 54; 223 CLR 331  \nNicola v Ideal Image Development Corporation [2009] FCA 1177; 215 FCR 76  \nOceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197  \nPetersville Ltd v Peters (WA) Ltd [1997] ATPR 41-566  \nReinsurance Australia Corporation Ltd v HIH Casualty and General Insurance Ltd (in liq) [2003] FCA 56; 254 ALR 29  \nRe Wakim; Ex parte McNally [1999] HCA 27; 198 CLR 511  \nSun v Advanced China Healthcare, Inc. 901 F3d 1081 (9th Cir 2018)  \nThe Eleftheria [1970] P 94  \nTongfang Global Limited v Element Television Company LLC 2020 WL 4354173 (CD Cal 2020)  \nTruth About Motorways Pty Limited v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11; 200 CLR 591  \nVoth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538  \nWestfield Management Ltd v AMP Capital Property Nominees Ltd [2012] HCA 54; 247 CLR 129  \nDavies M, ‘A Curate’s Egg: Good in Parts – Akai Pty Ltd v People’s Insurance Co Ltd’ (1997) 25 ABLR 215  \nGarnett R, ‘Jurisdiction clauses since Akai’ (2013) 87 ALJ 134\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 66\n\n**Date of last submissions:** 29 March 2021 (Respondents)  \n26 March 2021 (Applicants)\n\n**Date of hearing:** 23 March 2021\n\n**Counsel for the Applicants:** Mr N Young QC with Mr C Brown and Ms D Forrester\n\n**Solicitor for the Applicants:** Clifford Chance\n\n**Counsel for the Respondents:** Mr S Free SC with Mr C Bannan and Ms Z Hillman\n\n**Solicitor for the Respondents:** Clayton Utz\n\n## Judgment\n\nORDERS\n\n|  | NSD 1236 of 2020 |\n|---|---|\n| BETWEEN: | EPIC GAMES, INC<br>First Applicant<br>EPIC GAMES INTERNATIONAL S.À R.L.<br>Second Applicant |\n| AND: | APPLE INC<br>First Respondent<br>APPLE PTY LIMITED<br>Second Respondent |\n\n| order made by: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 9 APRIL 2021 |\n\n### THE COURT ORDERS THAT:\n\n1. The proceedings be temporarily stayed for a period of 3 months from the date of these orders.\n\n2. If at the end of the period referred to in Order 1, the First Applicant has not commenced a suit in a court in the Northern District of California alleging contraventions of Part IV of the Competition and Consumer Act 2010 (Cth) (‘CCA’) and/or s 21 of the Australian Consumer Law, being Sch 2 to the CCA, the proceedings be permanently stayed.\n\n3. If the First Applicant commences a suit of the kind referred to in Order 2 within the period referred to in Order 1, the stay of these proceedings be continued but with liberty to apply in the event that a court in the Northern District of California declines to determine the allegations referred to in Order 2.\n\n4. The Applicants pay 95% of the Respondents’ costs of the Interlocutory Application filed 22 December 2020 as taxed, assessed or otherwise agreed.\n\n5. The costs of these proceedings otherwise be reserved with liberty to the Respondents to apply.\n\n6. The Applicants be granted leave to appeal.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### PERRAM J:\n\n### Introduction\n\n[1] Apple Inc (‘Apple’) and Apple Pty Limited apply for a permanent stay of the competition case brought against them in this Court by Epic Games, Inc (‘Epic’) and Epic Games International S.à r.l. relating to the popular online video game, Fortnite. They do so on the basis that Epic has contractually agreed with Apple that any disputes between them will be heard by courts in the Northern District of California (‘the Northern District’) and, therefore, not by the Federal Court of Australia. The Northern District is a geographical region of California over which the United States District Court for the Northern District of California exercises jurisdiction. Loosely speaking, the Northern District stretches along the Californian coast from the counties of Monterey to Del Norte and includes the cities of San Francisco, Oakland, San Jose and Eureka. The courts exercising jurisdiction within the Northern District obviously include the United States District Court for that district but also the 15 Californian state courts sitting in the same area.\n\n[2] For the reasons which follow the case will be temporarily stayed for three months to allow Epic to sue Apple in a court in the Northern District, as it has agreed. If at the end of that period, Epic has not so sued Apple then the stay will become permanent. If Epic does sue Apple in a court in the Northern District, then the stay will continue but if that court declines to determine the allegations of contraventions of Australian law, I will reserve the right to Epic to apply to this Court to lift the stay. In short, Epic can sue Apple in a court in the Northern District and should do so but if for procedural reasons it is prevented from doing so, it may be able to continue the case it has commenced in this Court.\n\n### Background\n\n[3] Epic commenced these proceedings against Apple on 16 November 2020 seeking, amongst other things, injunctions restraining Apple from contravening three provisions of Part IV of the Competition and Consumer Act 2010 (Cth) (‘CCA’). These are s 46 which prohibits a corporation with a substantial degree of power in a market in Australia from engaging in conduct that has the purpose, effect or likely effect of substantially lessening competition; s 47 which prohibits a corporation from engaging in the practice of exclusive dealing; and s 45 which prohibits, amongst other things, a party from making a contract which has the purpose, effect or likely effect of substantially lessening competition. Epic also alleges that Apple has contravened s 21 of the Australian Consumer Law (‘ACL’), being Sch 2 to the CCA, which prohibits unconscionable conduct. Epic contends that Apple has infringed these provisions and will continue to do so.\n\n[4] Epic is a developer of gaming apps, including for use on Apple’s iOS devices (ie iPhones and iPads). More generally, it develops games for a wide variety of platforms such as Android devices, Sony’s PlayStation consoles, Microsoft’s Xbox consoles, the Nintendo Switch as well as PCs. The conduct it complains of is twofold. First, Apple requires developers of apps for use on Australian iOS devices only to distribute those apps through Apple’s Australian App Store. Secondly, Apple requires that any app developer use only Apple’s in-app payment processing system for the purchase of in-app content. Typically, Apple deducts as commission 30% of any such payment which results in a very substantial flow of revenue to Apple from its Australian users. If Epic’s suit were successful it would result in Australian users of iOS devices being able to download apps to their devices from locations other than Apple’s Australian App Store and it would mean that other firms would be able to provide payment processing systems for in-app content within the environment of iOS apps.\n\n[5] The relationship between Apple and Epic is presently governed by an agreement known as the Apple Developer Program License Agreement which I will call the DPLA. The DPLA imposes the obligations referred to in the preceding paragraph by cll 3.2(g), 3.3.3, 7.2 and cl 3.4(a) in Schedule 2 to the DPLA. Similar obligations are imposed on the developer by cl 3.1.1 and cl 3.2.2(i) of the App Store Review Guidelines. By cl 7.3(iv) of Schedule 2 to the DPLA Apple is empowered to cease distributing apps to end users if the developer has breached the App Store Review Guidelines.\n\n[6] The immediate irritant which has generated this litigation was Epic’s decision to introduce into the iOS version of its popular game, Fortnite, a facility for making in-app purchases using a payment processing system of its own devising. It did so by means of a software update which included a hotfix which provided an option for in-app purchases to be processed via Epic’s own system. The software update was made available to all iOS devices with Fortnite installed on them. At the same time, fresh versions of Fortnite which were downloaded from the App Store (including in Australia) came equipped with this new feature. The hotfix was activated on 13 August 2020. This was a direct breach of the App Store Review Guidelines and, as explained in the preceding paragraph, Apple was authorised under cl 7.3(iv) of Schedule 2 to the DPLA to cease distributing Fortnite.\n\n[7] Apple responded the same day the hotfix was activated by preventing any further downloading of Fortnite from the App Store (in all jurisdictions) and preventing any updating of Fortnite on devices where it had already been installed. Due to the time difference, this removal occurred on 14 August 2020 in Australia. The ability of players of Fortnite to play against each other is dependent on the version being played on differing platforms being compatible. By preventing Fortnite on iOS devices from being updated, the amenity of the game for iOS device users will be progressively degraded. For instance, no new content can be introduced into the iOS version of the game and iOS device users cannot play with those playing Fornite on other platforms who have installed any updates since August 2020. There are approximately 3 million users of Fortnite on iOS devices in Australia, 116 million on iOS devices worldwide and 350 million across all platforms worldwide.\n\n#### The US Proceeding\n\n[8] On 13 August 2020, Epic commenced proceedings for injunctive relief in the United States District Court for the Northern District to prohibit Apple’s allegedly anti-competitive conduct (‘the US proceeding’). In essence, Epic alleges that the effect of the DPLA is to maintain Apple’s monopolisation of certain markets contrary to the requirements of the United States Sherman Act, 15 USC §§1-2 and both the Californian Cartwright Act, Cal Bus & Prof Code §§16700 et seq and Unfair Competition Law, Cal Bus & Prof Code §§17200 et seq. These acts contain prohibitions that are similar to, but by no means identical with, those in CCA Part IV.\n\n[9] Following the commencement of the US proceedings, Epic filed a motion for a temporary restraining order and then a motion for a preliminary injunction requiring Apple to reinstate Fortnite to the App Store. These motions were refused on the basis that whilst it was legitimate for Epic to challenge both the way that Apple ran its App Store and its requirement that developers use only its in-app payment processing system there were more orderly ways of doing this than by breaching the terms of the DPLA. Consequently, the chaos which had resulted once Fortnite was removed from iOS devices was largely of Epic’s own making. Subsequently, the substantive US proceeding was set down for an expedited hearing which is shortly due to commence before the United States District Court for the Northern District on 3 May 2021. Epic’s proceeding before that court does not contain any allegations of contraventions of Part IV of the Australian CCA or ACL s 21.\n\n### Apple’s Stay Application\n\n#### The Choice of Forum Clause\n\n[10] Mention has been made above of Epic’s contractual agreement with Apple to litigate in the Northern District of California. This agreement is embodied in cl 14.10 of the DPLA and, relevantly, is in these terms:\n\n> Any litigation or other dispute resolution between You and Apple arising out of or relating to this Agreement, the Apple Software, or Your relationship with Apple will take place in the Northern District of California, and You and Apple hereby consent to the personal jurisdiction of and exclusive venue in the state and federal courts within that District with respect any such litigation or dispute resolution. This Agreement will be governed by and construed in accordance with the laws of the United States and the State of California, except that body of California law concerning conflicts of law.\n\n[11] The first question is whether cl 14.10 covers the present case which Epic denies. The basic dispute is whether the claims in this case under Part IV and ACL s 21 can be said to ‘relate to’ the DPLA, the Apple Software or Epic’s relationship with Apple and as such is a question of contractual interpretation. The parties agreed that the contractual interpretation of cl 14.10 is governed by the law applying in California, that this Court should determine as a fact the content of that law and then apply the law thus determined to the facts in this case. This is orthodox: Comandate Marine Corp v Pan Australia Shipping Pty Ltd [2006] FCAFC 192; 157 FCR 45 (‘Comandate’) at [163] per Allsop J, Finn J agreeing at [1] and Finkelstein J agreeing at [9]. Expert evidence as to the content of the law applying in California was provided on behalf of Apple by Judge Vaughn Walker and for Epic by Judge Alvin Howard Matz. Judge Walker is a retired judge of the United States District Court for the Northern District whilst Judge Matz is a retired judge of the United States District Court for the Central District of California. Their evidence establishes that a dispute will ‘relate to’ the DPLA (to paraphrase the first sentence of cl 14.10) if it has some logical or causal connection to the DPLA: Sun v Advanced China Healthcare, Inc. 901 F3d 1081 (9th Cir 2018) at 1086. Both retired judges thought that Californian and United States courts tended to view the scope of forum selection clauses as being broad. Judge Walker instanced two cases in which antitrust allegations had been held to ‘relate to’ an agreement for the purposes of a forum selection clause: Joseph v Amazon.com, Inc 2013 WL 4806462 (ND Cal 2013) at *4; Le v Zuffa, LLC 108 FSupp3d 768 (ND Cal 2015) at 778.\n\n[12] I am satisfied that the proceeding commenced in this Court has a logical or causal connection with the DPLA. Epic’s allegation is that Apple’s conduct in requiring all app developers to agree to the DPLA contravenes Part IV and ACL s 21 because the DPLA requires them to distribute their apps only through the App Store and to use only Apple’s in-app payment processing system. If there was no DPLA there would be no dispute – a sufficient connection is therefore established. Both retired judges drew attention to the decision of the United States District Court for the Eastern District of Texas in ContentGuard Holdings, Inc. v Amazon.com, Inc. 2015 WL 1885256 (ED Tex 2015) (‘ContentGuard’) at *5 and Epic placed particular reliance upon it.\n\n[13] I do not think it assists Epic. ContentGuard was a case concerning an app developer agreement in very similar terms to the present DPLA (Apple was one of the parties to the case). The court did not accept that the dispute before it had anything to do with the developer agreement and declined Apple’s invitation, based on a clause nearly identical to cl 14.10, to transfer the proceeding to the United States District Court for the Northern District of California. However, it is obvious that there was no connection in that case between the patent dispute which was before the court and the app developer agreement. ContentGuard was a software developer with an app developer agreement with Apple but the patents in suit were entirely unrelated to that aspect of its business. It had instead obtained its patents as part of its ordinary business of developing patents for digital rights management. It sued a number of defendants, including Apple, Amazon, Huawei, Motorola, HTC and Samsung for infringement of those patents. Apple sought to rely on the equivalent to cl 14.10 in the app developer agreement it happened to have with ContentGuard. It submitted that the dispute arose out of or related to its relationship with ContentGuard in terms of the clause and that the case should therefore be transferred to the Northern District. The United States District Court for the Eastern District of Texas, understandably in my respectful opinion, rejected this outlandish submission noting that Apple’s counsel had been unable to articulate any litigation between ContentGuard and Apple which would not fall within the clause if Apple’s construction were correct.\n\n[14] Next Epic submitted that this Court should not give effect to cl 14.10, even if it did apply to the present dispute, because the DPLA was a contract of adhesion. A contract of adhesion or standard form contract is a contract in which one of the parties prepares a written contract in a standard form and the other party has only the Hobson’s choice of agreeing to the standard form or not entering into the agreement at all. Part 2-3 of the ACL regulates the content of such standard form contracts. However the relevant provisions of Part 2-3 cannot affect cl 14.10 as the DPLA is neither a consumer contract nor a small business contract as those terms are defined by ACL s 23.\n\n[15] Epic relied instead on s 21 of the ACL, which prohibits a corporation from engaging in unconscionable conduct in connection with the supply of goods or services. By s 22(1)(a) and s 22(1)(j)(i) the court may take into account when assessing what is unconscionable the relative bargaining strengths of the parties and the extent to which Apple was willing to negotiate the terms with Epic.\n\n[16] I accept that (a) the DPLA was a contract of adhesion or standard form contract; (b) Apple had much greater bargaining power than Epic; and, (c) Apple was unwilling to negotiate the terms of the DPLA. In essence, if a developer wants to get an app into the App Store it has no choice but to agree to the terms of the DPLA.\n\n[17] However, I do not accept that in these circumstances, insisting on the inclusion of cl 14.10 constituted unconscionable conduct on the part of Apple within the meaning of ACL s 21. Both Apple and Epic are large corporations. With such parties, the mere fact that one has the whip hand in a particular negotiation does not constitute unconscionable conduct. If Epic were a consumer, not only would Part 2-3 of the ACL come into play, but the argument could also derive some support from the decision of the Canadian Supreme Court in Douez v Facebook, Inc. [2017] 1 SCR 751. There the court found, by majority, that Facebook could not rely on a clause like cl 14.10, in a statutory tort case brought by one of its users alleging a breach of privacy, since it was in a contract of adhesion and the bargaining strength of Facebook vastly exceeded that of one of its users. But Epic is not, on any view, Ms Douez. Epic’s submission is an invitation to conclude that choice of forum clauses in all contracts of adhesion are unenforceable. Such a contention is untenable. I therefore do not accept Epic’s submission that cl 14.10 is unenforceable by reason of ACL s 21.\n\n#### Mandatory Law of the Forum\n\n[18] Next Epic submitted that Part IV and ACL s 21 were ‘mandatory laws of the forum’. In simple terms a mandatory law of the forum is a law operating in the jurisdiction where the court is sitting which the parties are not at liberty by contract to displace. An example of such a law is s 11(2) of the Carriage of Goods by Sea Act 1991 (Cth), which negates the effect of either a choice of foreign law or a foreign exclusive jurisdiction clause in an agreement for the shipment of goods from within Australia to a place outside of it.\n\n[19] I accept that Part IV and ACL s 21 are mandatory laws in the sense that parties cannot contract out of their application. There is actually no decision which holds directly that parties may not by contract agree that they are not bound by the competition laws contained in Part IV, although there are statements that at the very least it is not possible to contract out of what is now the ACL: see Henjo Investments Pty Limited v Collins Marrickville Pty Limited (No 1) (1988) 39 FCR 546 at 561 per Lockhart J, Burchett J and Foster J agreeing at 568; IOOF Australia Trustees (NSW) Ltd v Tantipech [1998] FCA 924; 156 ALR 470 at 479 per Lee, Nicholson and Sundberg JJ; Burke v LFOT Pty Limited [2002] HCA 17; 209 CLR 282 (‘Burke’) at 336 [143] per Callinan J.\n\n[20] However this absence of authority is a result of the obviousness of the proposition. Part IV is designed to ensure the competitive nature of Australian markets. The means by which s 45, for example, achieves this end is to focus upon contracts, arrangements and understandings having certain effects or entered into with particular purposes. Part IV therefore takes as one of its points of departure the existence of contracts and then creates sanctions where those contracts impact on competition in certain deleterious ways. It would be a surprising outcome if in those very contracts the parties could agree amongst themselves that Part IV did not apply to their relationship. This is particularly so where the evident intent of Part IV is to foster competition for the common good. For example, s 2 of the CCA provides that the object of the Act is ‘to enhance the welfare of Australians through the promotion of competition and fair trading and provision for consumer protection’. The stipulations in Part IV are not erected for the interests of the entities engaged in competition, rather, they are imposed for the general well-being of the economy. In light of that public purpose, it is impossible to accept that parties are at liberty to contract out of Part IV: see Westfield Management Ltd v AMP Capital Property Nominees Ltd [2012] HCA 54; 247 CLR 129 at 143-144 [46] per French CJ, Crennan, Kiefel and Bell JJ. Similar reasoning leads to the same conclusion in relation to ACL s 21: see Burke at 336 [143]; Clough Engineering Ltd v Oil & Natural Gas Corporation Ltd [2007] FCA 881 (‘Clough’) at [41] per Gilmour J; Home Ice Cream Pty Ltd v McNabb Technologies LLC (No 2) [2018] FCA 1093 (‘Home Ice Cream’) at [17] per Greenwood ACJ; see also Australian Competition and Consumer Commission v Valve Corporation [2016] FCA 196; 337 ALR 647 at [119] per Edelman J. There would be precious little purpose in requiring suppliers of goods and services to behave conscionably in their dealings with consumers if they could agree with the consumers in the same breath that s 21 did not apply.\n\n[21] Consequently, I accept that Part IV and ACL s 21 are mandatory laws in the sense that parties are not at liberty to agree that they do not apply. Apple did not attempt to argue that the operation of Part IV and ACL s 21 did not extend to cover the conduct at issue here, no doubt dissuaded by the extraterritorial application brought about by CCA s 5.\n\n[22] The question then arises as to how such a mandatory law interacts with:\n\n(a) a choice of law clause; and\n\n(b) a choice of forum clause.\n\n[23] Where a choice of law clause is not accompanied by a choice of forum clause (not this case), the analysis is straightforward. Because the parties are not at liberty to agree that a mandatory law (here a provision of Part IV or ACL s 21) does not apply to them, they are likewise unable to achieve that outcome by agreeing that their relationship will be governed by some foreign law which does not include the mandatory law. No doubt their agreement will be effective for some purposes but it cannot have the effect of displacing the mandatory law.\n\n[24] Where a choice of forum clause is involved, different concerns arise. The first concern is one on the part of the forum court that the foreign court selected may not apply the mandatory law when hearing the case. The second concern is that the foreign court may decline to hear the case altogether. Both concerns only come into view when an application is made to the forum court to stay the proceeding before it so as to give effect to the choice of foreign court.\n\n[25] The usual rule where a choice of forum clause is concerned is that the bargain of the parties is to be enforced and a stay granted unless strong reasons are shown that it should not be: Huddart Parker Ltd v Ship ‘Mill Hill’ (1950) 81 CLR 502 at 508-509 per Dixon J; The Eleftheria [1970] P 94 at 99 per Brandon J; Akai Pty Ltd v People’s Insurance Co Ltd (1996) 188 CLR 418 (‘Akai’) at 427-429 per Dawson and McHugh JJ, at 445 per Toohey, Gaudron and Gummow JJ; Global Partners Fund Ltd v Babcock & Brown Ltd (in liq) [2010] NSWCA 196 (‘Global Partners’) at [88]-[89] per Spigelman CJ, Giles JA agreeing at [101], Tobias JA agreeing at [102]. Where mandatory laws are concerned the question then is whether the nominated mandatory law constitutes a strong reason.\n\n[26] In Akai the High Court was required to assess the nature of certain provisions of the Insurance Contracts Act 1984 (Cth). A majority of the High Court accepted that a choice of forum clause (coupled with a choice of law clause), if given effect, would defeat a mandatory law of the forum because it had not been shown that the foreign court would apply the mandatory law, being the relevant provisions of the Insurance Contracts Act, when hearing the breach of contract case. However, this is not an Akai case. Both parties accepted that the courts of the Northern District had jurisdiction to entertain a suit under Part IV and ACL s 21 and both assumed that if such a suit were brought, those courts would regard Part IV and ACL s 21 as the lex causae. This was not the case in Akai.\n\n[27] The contention in this case is instead of the second variety described above. The concern is not that the foreign court in otherwise hearing the case will not apply the mandatory law (as in Akai) but rather that it will decline to hear the case alleging contraventions of the mandatory law. I accept that if it were shown that a court in the Northern District would decline to hear Epic’s case under Part IV and ACL s 21 then it would not be appropriate to stay the present proceeding: Commonwealth Bank of Australia v White [1999] VSC 262; 2 VR 681 at [88]–[91] per Byrne J; Reinsurance Australia Corporation Ltd v HIH Casualty and General Insurance Ltd (in liq) [2003] FCA 56; 254 ALR 29 (‘Reinsurance Australia’) at [293] per Jacobson J; Clough at [43]; Faxtech Pty Ltd v ITL Optronics Ltd [2011] FCA 1320 at [18]-[28] per Middleton J; Home Ice Cream at [19]. In a sense, this is obvious and I did not really apprehend that Apple disputed it.\n\n[28] The debate between the parties was instead about the factual question of whether a court in the Northern District would, whilst certainly having jurisdiction to hear such a suit brought by Epic, decline to hear it for, what I will loosely call for now, procedural reasons. The evidence about this was unclear in its implications. Both parties accepted that a court in the Northern District could decline in its discretion to hear such a case, the difference between them lay in whether it would do so.\n\n[29] The principal discretionary basis identified was the principle of forum non conveniens as applied in the Northern District, while considerations of international comity were also discussed. The evidence of Judge Matz showed that United States courts have declined to hear complex antitrust cases arising under foreign laws: In re Air Cargo Shipping Services Antitrust Litigation 2008 WL 5958061 (ED NY 2008) (‘Air Cargo’); Tongfang Global Limited v Element Television Company LLC 2020 WL 4354173 (CD Cal 2020) (‘Tongfang’). In the Air Cargo litigation the United States District Court for the Eastern District of New York declined to entertain a case brought under European Union competition law in relation to the imposition of fuel surcharges by airlines on air cargo, while Tongfang was a case involving Chinese competition law. The principles to be applied in such cases were laid out in some detail before me. However, the discretionary nature of those principles means they provide no clear guidance as to what the actual outcome would be if Apple were to assert that a court in the Northern District should decline to hear such a suit on forum non conveniens grounds. The best one can say is that such an application might succeed or it might not.\n\n[30] In fact, there may perhaps be an air of unreality about this inquiry. In this Court Apple is seeking to make Epic litigate in the courts of the Northern District. In part it relies on cl 14.10 but it also asks this Court to stay Epic’s proceeding on forum non conveniens grounds. It may perhaps be doubted that Apple, having adopted such a posture in this Court, would have the chutzpah to submit to the court in the Northern District that, contrary to cl 14.10, Epic should now litigate any Part IV or ACL s 21 claim in Australia. Although this thought is attractive on the surface, I have concluded that I ought not to give it controlling weight since there remains the possibility, vestigial perhaps, that an overworked docket judge in the Northern District might decide to weigh into the forum non conveniens question at his or her own instigation.\n\n[31] Given that it is unclear whether a court in the Northern District would stay any proceeding before it under Part IV and ACL s 21 on forum non conveniens grounds, the question then arises as to which of the parties before the Court bore the onus of proving this matter. Did Apple have to prove that such a stay would not be ordered or did Epic have to prove that it would be?\n\n[32] The ordinary rule where a choice of forum clause is concerned is that Australian courts will hold the parties to their bargain and will enforce the choice made unless strong reasons are shown that this should not occur: Akai at 429, 445. Under that well-established principle, it is for the party seeking to resist the stay (on the basis that it should not be forced to comply with the choice of forum clause) to demonstrate the existence of a strong reason: The Eleftheria at 99; Oceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197 at 230-231 per Brennan J, at 259 per Gaudron J; FAI General Insurance Co Ltd v Ocean Marine Mutual Protection and Indemnity Association (1997) 41 NSWLR 559 at 569 per Giles CJ Comm D; Incitec Ltd v Alkimos Shipping Corporation [2004] FCA 698; 138 FCR 496 (‘Incitec’) at [42]-[43] per Allsop J; see also Reinsurance Australia at [342]; Global Partners at [92].\n\n[33] The application of that principle would suggest that it is for Epic to show that if it commences a Part IV or ACL s 21 case in the Northern District that case will be stayed. Although Epic has succeeded in showing that there is some prospect that its case would be stayed, it has not proved that its case will be stayed: see Armacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592; 248 ALR 573 at [98]-[118] per Jacobson J. Put another way, it has not proved on the balance of probabilities that such a case will be stayed but it has proved on the balance of probabilities that there is a non-trivial chance that this may occur.\n\n[34] In my opinion, if the only strong reason put forward by Epic was the mandatory nature of Part IV and ACL s 21 the correct result would be that its case in this Court should be stayed until any case relying on the same provisions in the Northern District is itself stayed on forum non conveniens or other discretionary grounds. This is not quite a permanent stay and, in terms of genus, is properly characterised as a temporary stay.\n\n[35] Epic submitted that the majority’s reasoning in Akai required the conclusion that Apple bore the onus of demonstrating that any proceeding before a court in the Northern District would not be stayed. If that is correct, then Apple will have failed to discharge that burden because the evidence is not sufficient to draw that conclusion either.\n\n[36] The question of who bears the onus therefore dictates, in relation to the mandatory law aspect of the matter, whether there is no stay at all or whether there is a temporary stay of the kind referred to above.\n\n[37] Epic relies on the majority’s reasoning in Akai to make good its submission that the onus lay with Apple and not with it. Akai was, as I have said above at [26], a case where the question was whether the Australian court was satisfied that the English court would apply the Insurance Contracts Act. A majority of the High Court found that the party seeking to enforce the choice of forum clause (the insurer) had failed to prove that the English court would do so in the proceeding which had been commenced before it. As a result, the stay was refused.\n\n[38] This reasoning is, with respect, at least frangible. Although all members of the High Court stated that where a choice of forum clause was concerned it was for the party seeking to resist the stay (there, the insured) to show strong reasons why it should not be enforced, the majority then proceeded on the basis that it was the party seeking the stay (the insurer) who had failed to show that the English court would apply the Insurance Contracts Act. I have found it impossible to reconcile these two statements which are chalk and cheese. If the onus is on the party opposing enforcement of the choice of forum clause to adduce a strong reason against enforcement, then the onus must be on that party to establish the existence of any juridical disadvantage it will face in the forum selected by the clause.\n\n[39] Even if the majority should be taken to have intended to overturn the orthodox position without discussion, despite having affirmed the orthodox position on the very same page, the resulting reasoning makes even less sense. If the insurer had failed to prove the content of the English conflict of laws rules this would not automatically lead to the result at which the majority arrived. There is often an absence of evidence about foreign law in litigation. It is beyond argument where such lacunae appear in the evidence that a court is to apply the default rule that the foreign law is to be presumed to be the same as Australian law: Neilson v Overseas Projects Corporation of Victoria Ltd [2005] HCA 54; 223 CLR 331 (‘Neilson’) at 372 [125] per Gummow and Hayne JJ, at 411 [249] per Callinan J; at 420 [275] per Heydon J but cf at 343 [16] per Gleeson CJ, at 348-349 [36] per McHugh J, at 396 [203] per Kirby J. Indeed, the majority in Akai at 444 itself recognised the existence of the principle and noted that it required them to presume the English court would apply Australian choice of law rules. In the absence of evidence as to the content of English law relating to insurance contracts, the application of that principle should have led the majority to assume that the English law was relevantly the same as that in Australia. Why it did not do so is unclear. These criticisms have been made elsewhere by Professor Davies in terms which are compelling: Davies M, ‘A Curate’s Egg: Good in Parts – Akai Pty Ltd v People’s Insurance Co Ltd’ (1997) 25 ABLR 215 at 220; see also Garnett R, ‘Jurisdiction Clauses since Akai’ (2013) 87 ALJ 134 at 144.\n\n[40] If this case were on all fours with Akai I would be bound to apply it and conclude that it was Apple which had failed to discharge its onus. However, this case is not an Akai case. In this case the question is not whether the courts of the Northern District will apply Part IV and ACL s 21. It is whether they will decline to hear the case brought under those provisions on discretionary grounds. As I have indicated already, this does not necessarily entail the same binary consequence that answering the question in Akai had. In my opinion, Akai is distinguishable.\n\n[41] Consequently, in a conventional way, it is Epic which bears the onus. For the reasons I have given, if this were the only matter put forward by Epic as a strong reason for not enforcing cl 14.10 I would conclude that a stay should be granted but that it should revocable if the court in the Northern District declined to exercise its jurisdiction on forum non conveniens grounds.\n\n[42] For completeness, there was another ground on which a court of the Northern District might stay any proceeding commenced before it by Epic under Part IV and ACL s 21. This related only to the United States District Court for the Northern District. One of the bases on which it might exercise jurisdiction was as pendent or supplemental jurisdiction by reason of the suit already before that court between Epic and Apple under the Sherman Act. Pendent jurisdiction can be declined on discretionary grounds. However, it is not clear to me that all the courts of the Northern District would be exercising that jurisdiction. For example, I am reasonably clear that no state court would be exercising that jurisdiction when hearing a Part IV or ACL s 21 claim brought by Epic. In relation to the United States District Court itself it is not entirely clear to me that it would have pendent jurisdiction in a proceeding separate from the suit between Epic and Apple that is already pending in it. In Australia pendent jurisdiction can sustain separate proceedings in the one court (Re Wakim; Ex parte McNally [1999] HCA 27; 198 CLR 511 at 584 [136] per Gummow and Hayne JJ, Gleeson CJ agreeing at 540 [3], Gaudron J agreeing at 546 [26]) but I do not know what the position is in the United States federal courts. However, it does not matter and there is, therefore, no reason to apply the default rule in Neilson. Even assuming that the United States District Court for the Northern District had pendent jurisdiction, that court would also appear to have diversity jurisdiction which cannot be declined on discretionary grounds (except of course under forum non conveniens principles). It is difficult to think therefore that any discretionary matter is in play beyond issues of forum non conveniens (and to the extent that it is a distinct issue, considerations of international comity). Were I wrong in that, however, I have no greater clarity as to how the pendent jurisdiction discretion would be exercised than I do in the case of the forum non conveniens issue. The same result would flow.\n\n#### Is a strong reason for refusing a stay otherwise shown?\n\n[43] Where a party seeks a stay on the basis of an exclusive jurisdiction clause such as cl 14.10 the court is not bound to grant a stay to force the party to litigate in the forum selected in such a clause. However, as I have already explained, Australian courts give significant weight to the principle that parties should be held to the bargain they have reached and that the party resisting the enforcement of a choice of forum clause must demonstrate strong reasons for being permitted to proceed in the local forum in breach of the clause: Akai at 427-429, 445. The present debate, therefore, does not start on a level playing field. Epic has promised that the present dispute will be conducted before the courts of the Northern District of California. It must show strong reasons as to why it should be relieved of the burden of honouring its contractual obligation.\n\n[44] I do not think that strong reasons are shown. The first point is the one already made that a court in the Northern District could entertain Epic’s suit under Part IV and ACL s 21 although there is some possibility it might decline to hear the suit on forum non conveniens grounds.\n\n[45] Turning then to some practical issues, Epic’s US proceeding against Apple under United States and Californian law is set down for hearing in a judge-alone trial commencing on 3 May 2021. Epic may choose three ways of bringing the present case in the Northern District. It may seek to amend the current US proceedings by adding the Australian claims, it may commence a separate proceeding in the United States District Court for the Northern District or it may commence a case before a Californian state court in the Northern District. Regardless of which of these options is selected, it seems impossible that the Australian allegations will form any part of the trial due to commence on 3 May 2021. Their preparation would be complex and would involve expert evidence both as to the economics of Australian markets and about Australian competition law which have not yet formed part of the trial preparations for that case. I do not consider it remotely feasible that such a case could be prepared in the less than four weeks that remain before the trial commences. If Epic is successful in seeking to amend its current case, the amended portion will need to be severed from the present trial and heard subsequently. Any fresh proceeding will also not be heard on 3 May 2021 regardless of the court it is filed in.\n\n[46] Ordinarily applications for a stay such as the present require attention to be given to the practical desirability of avoiding the fragmentation of one dispute into several courts: Australian Health & Nutrition Association Ltd v Hive Marketing Group Pty Ltd [2019] NSWCA 61; 99 NSWLR 419 at [81] per Bell P, Bathurst CJ and Leeming JA agreeing at [1]; Incitec at [62]. Generally, refusing a stay has the consequence of increasing fragmentation. In this case, however, this is a relatively neutral consideration. If the stay is granted as Apple seeks, this will still result in the proceeding being fragmented for the reasons given in the preceding paragraph. The avoidance of a multiplicity of proceedings is an important consideration but the present factual milieu means that there are going to be two cases regardless of the outcome of the stay application. The only issue is whether the second proceeding is in front of a court in the Northern District or in front of this Court. I reject Apple’s submission that Epic should be seen as the author of this situation having sought an expedited trial of the proceeding in the United States District Court and having elected not to include in that case, as it could have, its case under Australian law. To assess that submission it would be necessary to revisit the circumstances in which the US proceeding was commenced and the reasons why Epic sought expedition. I do not accept that the evidence before this Court is sufficient safely to sustain such an inquiry.\n\n[47] Epic placed reliance on the fact that it had joined Apple Pty Limited to this suit which is not party to the DPLA. It is true that where not all the parties to the proceeding are party to an exclusive jurisdiction clause, a different analysis may be called for: see Australian Health at [90]; Donohue v Armco Inc [2001] UKHL 64; [2002] 1 All ER 749 at [27] per Bingham LL. However, it is necessary to interpret each contract in its context: Global Partners at [72].\n\n[48] In this matter it is apparent that the joinder of Apple Pty Limited is largely ornamental. The suit against it is parasitic on the claims Epic makes against Apple. The DPLA is with Apple and it is Apple’s requirements about the use of its App Store for the distribution of apps and the use of its in-app payment processing system which are in dispute. Apple Pty Limited is not a stranger to the DPLA, in fact it is by Schedule 2 to the DPLA that it is appointed as agent on behalf of Apple to collect the commission charged on in-app purchases. Epic’s complaint against Apple Pty Limited in this proceeding is concerned entirely with conduct that is provided for by the DPLA. Given these circumstances, Apple should not be prevented from insisting on compliance with cl 14.10 on behalf of Apple Pty Limited in a dispute that clearly arises out of the DPLA: see Global Partners at [73].\n\n[49] For completeness, little is to be made of Epic’s joinder as Second Applicant of Epic Games International S.à r.l., a Luxembourg company. It is a party to a separate DPLA with Apple containing cl 14.10.\n\n[50] I do not accept Apple’s submissions that Epic’s case under the Sherman Act, the Cartwright Act and the Unfair Competition Law is an adequate substitute for Epic’s claims under Part IV and ACL s 21. Professor George Hay, an expert in United States and comparative competition law, gave evidence for Epic about the differences between Epic’s claims in this proceeding under Part IV and ACL s 21 and the claims presently being made by Epic in the US proceeding. In important ways they are not the same. The most important difference to my mind is that the proceeding under the Sherman Act can only take into account conduct outside the United States by Apple to the extent that it impinges on commerce in the United States. It is far from evident that requiring developers of apps for Australian iOS users only to distribute their apps through the Australian App Store and only to use Apple’s in-app payment processing system for in-app content sold to Australian iOS users is likely to have much impact on United States commerce.\n\n[51] On the other hand, I do accept that the cases have overlapping aspects: the technical aspects of the operation of the App Store, the circumstances of the removal of Fortnite from the App Store and some elements of the market analysis. Both cases may also involve some consideration of Apple’s purposes in imposing the two impugned requirements. Under Australian law this arises because purpose is an express basis of liability under the Part IV provisions. But it also arises indirectly under United States law (where it is not an express basis of liability) because the existence of the impugned purpose may throw light on whether monopolisation has in fact occurred. Even so, these are different cases. I do not accept that the current US proceeding is an adequate substitute for the case in this Court. On the other hand, I do not think this matters very much when the United States District Court can hear the Australian case as well.\n\n[52] This is relevant because it means that I cannot accept that requiring Epic to litigate, as it has promised to do, in the Northern District will deprive it of any juridical advantage it might have in this Court. It will be just as entitled in any such proceeding to assert its rights under Part IV and ACL s 21. I reject Epic’s contention that somehow the injunctive relief that might be granted in this Court is superior to that which might be granted by a court in the Northern District. The onus lay on Epic to prove this by evidence and it has not been demonstrated.\n\n[53] On the other hand, I do accept that having to litigate this case in the Northern District will be more cumbersome because the law of Part IV and ACL s 21 will need to be addressed in the form of expert evidence about the content of Australian law. And, as I have said, I do accept Epic’s submission that in a proceeding in the Northern District any finding by that Court will not be able to be tendered in a subsequent proceeding under CCA s 83. I also accept that the Australian Competition and Consumer Commission will not be able to intervene in such a proceeding. These last two matters, however, seem to me to be relatively insubstantial in the scheme of things. In any event, I do not think any question of inconvenience should figure much in the analysis. Any inconvenience flows from the choice of forum clause to which Epic has agreed. It does not sit well in its mouth to complain about the consequences of its own bargain: Incitec at [49]; Australian Health at [103].\n\n[54] I reject Epic’s submission that Apple has sought to thwart its efforts to raise the Australian allegations in the US proceeding. It is true that Apple has asserted a defence in that case that the Sherman Act does not apply to foreign conduct which has no direct, substantial, and reasonably foreseeable effect on United States commerce. However, that is a legitimate defence under the statute and I do not think that Apple can be bound not to defend itself as the price for enforcing cl 14.10. In any event, I was not taken by Epic to any part of the US proceeding where it has made any allegation about Australian markets, other than the allegation of global iOS app distribution and in-app payment processing markets. In this Court Epic left unarticulated what its case based on foreign conduct under the Sherman Act actually was and hence what Apple’s defence actually meant. It is not the role of this Court to colour that picture in. It is also true that Apple has suggested in another defence that the United States District Court should decline to examine the position in foreign nations because of the doctrine of international comity. However, I do not find persuasive the contention that Apple is obstructing Epic from bringing the claims in the proceeding before this Court in the US proceeding. The real reason that there are no allegations being made under Part IV or ACL s 21 in the US proceeding is because Epic has not made any such allegation. The protean skirmishing which is taking place on the littoral of the Sherman Act about international antitrust conduct is no substitute for bringing a claim under Part IV and ACL s 21. This is consistent with my earlier conclusion that the current US proceeding is not a substitute for this proceeding.\n\n[55] The part of this case which has concerned me most is whether there is something about the nature of proceedings under Part IV which means they should generally be heard in this Court. I have in mind the statement of the majority in Akai at 445 that a stay ‘may be refused where the foreign jurisdiction clause offends the public policy of the forum whether evinced by statute or declared by judicial decision’. There are a number of facets to this concern.\n\n[56] First, what is before the Court is an application for an injunction under CCA s 80. It is established that any person has standing to bring such an application: Truth About Motorways Pty Limited v Macquarie Infrastructure Investment Management Ltd [2000] HCA 11; 200 CLR 591 at 603 [20] per Gleeson CJ and McHugh J, at 614 [53] per Gaudron J, at 638 [126] per Gummow J, at 659 [176] per Kirby J, at 660 [182] per Hayne J, at 671 [218] per Callinan J. Although it is not uncommon for traders who are affected by infringing conduct to bring such a case their entitlement to do so does not spring from the fact that they are affected. It springs from the fact that proceedings under s 80 involve the public interest. By itself this insight does not carry Epic very far since it is clear that claims under s 80 (or ACL s 232(2)) which do not relate to Part IV may be subjected to arbitration: see Comandate at [8], [240]; Nicola v Ideal Image Development Corporation [2009] FCA 1177; 215 FCR 76 (‘Nicola’) at [58] but cf Dialogue Consulting v Instagram, Inc [2020] FCA 1846 at [180] per Beach J. But it is a relevant matter.\n\n[57] Secondly, Part IV is concerned with maintaining effective competition in Australian markets. Whilst no doubt Epic has a commercial interest in seeing Part IV applied to Apple, there are a range of other persons who have an interest in the outcome of the litigation. These include developers of apps on the Australian App Store and Australian users of iOS devices. Whilst the impact of Part IV litigation is often broad, in this case the effect will be particularly far reaching and will extend into the pockets of a large part of the population. Further, the nation has an interest in maintaining the integrity of its own markets.\n\n[58] Thirdly, Parliament has indicated by CCA s 86(4) (subject to immaterial exceptions) that only this Court may hear a case of the present kind and the jurisdiction of the several courts of the States is expressly excluded. If cl 14.10 had selected the courts of New South Wales as the forum, it would therefore be ineffective because those courts lack jurisdiction under Part IV. It is perhaps slightly surprising that cl 14.10 may select the courts of the Northern District of California instead. On the other hand, s 86(4) is a rule concerned with the distribution of jurisdiction and it is unlikely that it speaks to the position of foreign courts.\n\n[59] Fourthly, this Court has refused to stay a proceeding under Part IV so that it could be subject to arbitration: Petersville Ltd v Peters (WA) Ltd [1997] ATPR 41-566 at 43,847. There Lockhart J said:\n\n> I do not find it necessary to determine the question of whether the present proceeding is within the scope of the arbitration clause; or the question whether, in so far as the proceeding is based on Part IV of the Trade Practices Act, it is, or is not within the scope of the arbitration clause.\n\n> In my opinion, even if the answer to these questions is favourable to Peters (WA) (I have no view one way or the other), I would not as a matter of discretion order a stay under the Commercial Arbitration Act.\n\n> This Court has special expertise in Part IV matters arising under the Trade Practices Act and associated common law restraint of trade issues. Plainly enough the questions which arise here are not the types of questions which were within the contemplation of the parties for the purposes of private arbitration, even assuming that the literal terms of the arbitration clause can embrace the present dispute.\n\n> Cases under Part IV of the Trade Practices Act involve complex legal and factual questions. The matters pleaded in the statement of claim show that the issues of the kind that normally arise in Part IV cases (in particular, questions of market definition, competition within relevant markets and anti-competitive behaviour) are better dealt with by a court having appropriate jurisdiction, rather than an arbitrator. I accept that where parties have agreed upon an arbitration clause as a means of settling their disputes, curial proceedings will ordinarily be stayed, but this does not apply to the present case which involves the issues which I have described.\n\n[60] If the parties may not agree to arbitrate, how can they agree that the matter should be heard by a foreign court? On the other hand, this Court has also granted a stay of a proceeding that included a claim under Part IV so that it could be arbitrated: Casaceli v Natuzzi SpA [2012] FCA 691; 292 ALR 143 at [50] per Jagot J. The facts in that case suggest however that the Part IV aspect of the case did not raise any significant questions of competition law. This case is starkly different.\n\n[61] There are dicta suggesting that Part IV claims are not arbitrable: Comandate at [200], Nicola at [56]-[61]. On the other hand, as Apple correctly submitted, the modern international trend is that competition claims may be subject to arbitration: see Mitsubishi Motors Corp. v Soler Chrysler-Plymouth, Inc. 473 US 614 (1985); Attorney General v Mobil Oil NZ Ltd [1989] 2 NZLR 649; ET Plus SA v Welter [2005] EWHC 2115; Murphy v Amway Canada Corporation [2014] 3 FCR 478.\n\n[62] I would prefer not to express a view on the issue of whether Part IV cases may be arbitrated. There are, of course, different policy considerations applying to international arbitration which may not necessarily be present in a case concerning a choice of forum clause.\n\n[63] Fifthly, if the case be consigned to the Northern District complex questions of competition law will be litigated through the lens of expert evidence. Correspondingly, appellate review of that evidence will not be directed at the question of how that law should develop but instead will simply be to ascertain as a matter of fact what the Australian law proved by the evidence was. By relinquishing the case to the courts of another nation, the role of the High Court as the ultimate explicator of Australian competition law is undermined. Ordinarily this might be of little moment, however, in this case the most serious issues of public policy are at play. There is a real question in my mind as to whether this Court should permit the role given to it by Parliament under CCA s 86 to be thwarted in this way.\n\n[64] Despite those matters, however, I do not consider that the state of the law concerning choice of forum clauses permits me to refuse Apple’s application although I am distinctly troubled in acceding to it. For completeness, I have not included ACL s 21 in the above discussion. No such issues appear to me to arise in relation to it.\n\n#### Forum non conveniens\n\n[65] Apple also applied for a stay of the proceedings on forum non conveniens grounds. This issue does not arise in light of the above conclusions. Had it arisen, my view would have been that it had not been shown by Apple that the Federal Court of Australia was a clearly inappropriate forum: Voth v Manildra Flour Mills Pty Ltd (1990) 171 CLR 538 at 564-565 per Mason CJ, Deane, Dawson and Gaudron JJ. This is a case about the Australian App Store, the developers of apps for distribution in that store and the Australian users of iOS devices. It arises under Part IV (and ACL s 21). It is a case commenced in Australia in reliance on Australian competition law, involving Australian markets and consumers. The best point Apple made on this front was the fragmentation issue mentioned above, however, as I have explained this matter is a neutral consideration in the present case. For completeness, as a matter of logic I have excluded cl 14.10 from this analysis. If the forum non conveniens question had arisen, it would have been because Epic had shown strong reasons that it ought not be held to cl 14.10.\n\n### Result\n\n[66] There will be a temporary stay for three months to enable Epic to bring this case in a court in the Northern District of California in accordance with cl 14.10. If at the end of three months no suit has been commenced, the stay will become permanent. If such a proceeding is commenced within that period, then the stay will continue but with liberty to apply in the event that the court in the Northern District declines to determine the claims. The kind of procedural termination I have in mind is principally a stay on forum non conveniens grounds but I will broaden the liberty to apply to cover any circumstance in which the proceeding before a court in the Northern District concludes without a determination on the merits of the Part IV or ACL s 21 claims. I am keen to avoid the substantive question of whether the circumstances of any procedural termination of the proceeding in the Northern District justify the lifting of the stay being transformed into a satellite debate as to whether the liberty itself is open to be exercised. The exercise of the liberty is to be a machinery matter. Epic must pay 95% of Apple’s costs of the application to reflect the fact that Epic has resisted to a minor extent Apple’s efforts to bring this litigation to an end. I will reserve the question of costs of these proceedings more generally at this stage with liberty to Apple to apply. I will grant Epic leave to appeal.\n\nI certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 9 April 2021\n",
+ "source_sha256": "7d6c84b2fa3b280dda2f43fd8e8c8453f32aada401113378e886deed0f8fd27f"
+}

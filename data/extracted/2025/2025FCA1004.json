@@ -1,0 +1,822 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2025/2025FCA1004.docx",
+ "metadata": {
+  "citation": "[2025] FCA 1004",
+  "name": "Australian Competition and Consumer Commission v Mastercard Asia/Pacific Pte Ltd (No 2)",
+  "court": "FCA",
+  "year": 2025,
+  "number": 1004,
+  "date_of_judgment": "2025-08-22",
+  "file_numbers": [
+   "NSD401/2022"
+  ],
+  "judges": [
+   "HALLEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2025-08-15"
+  ],
+  "hearing_raw": "15 August 2025",
+  "number_of_paragraphs": 70,
+  "catchwords": [
+   "PRIVILEGE – legal professional privilege – whether draft agreements and email chains (Documents) disclose confidential information made for dominant purpose of providing legal advice – held Documents subject to legal professional privilege",
+   "PRIVILEGE – waiver – whether unredacted disclosure under compulsory notice was inadvertent – whether voluntary disclosure in submissions inconsistent with maintenance of confidentiality – held no express or implied waiver"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 155",
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Civil Procedure Act 2005 (NSW) s 56"
+  ],
+  "cases_cited": [
+   "Asahi Holdings (Australia) Pty Ltd v Pacific Equity Partners Pty Limited (No 4) [2014] FCA 796",
+   "Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 1232",
+   "AWB Ltd v Cole (2006) 152 FCR 382; [2006] FCA 571",
+   "Barnes v Commissioner of Taxation [2007] FCAFC 88; (2007) 242 ALR 601",
+   "Dalleagles Pty Ltd v Australian Securities Commission (1991) 4 WAR 325",
+   "Daniels Corporation International Pty Ltd v Australian Competition and Consumer Commission (2002) 213 CLR 543; [2002] HCA 49",
+   "DSE (Holdings) Pty Ltd v InterTAN Inc (2003) 135 FCR 151; [2003] FCA 1191",
+   "Esso Australia Resources Ltd v Federal Commissioner of Taxation (1999) 201 CLR 49; [1999] HCA 67",
+   "Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303; [2013] HCA 46",
+   "Grant v Downs (1976) 135 CLR 674",
+   "Mann v Carnell (1999) 201 CLR 1; [1999] HCA 66",
+   "Waterford v Commonwealth (1987) 163 CLR 54"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "MASTERCARD ASIA/PACIFIC PTE LTD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MASTERCARD ASIA/PACIFIC (AUSTRALIA) PTY LTD",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr B Hancock"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Johnson Winter Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr C Bannan with Ms T Epstein"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Baker McKenzie"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1004",
+  "portal_file_numbers": [
+   "NSD401/2022"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2025-08-22"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 401 of 2022"
+  },
+  {
+   "label": "Judgment of",
+   "value": "HALLEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "22 August 2025"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRIVILEGE – legal professional privilege – whether draft agreements and email chains (Documents) disclose confidential information made for dominant purpose of providing legal advice – held Documents subject to legal professional privilege\nPRIVILEGE – waiver – whether unredacted disclosure under compulsory notice was inadvertent – whether voluntary disclosure in submissions inconsistent with maintenance of confidentiality – held no express or implied waiver"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 155\nFederal Court of Australia Act 1976 (Cth) s 37M\nCivil Procedure Act 2005 (NSW) s 56"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Asahi Holdings (Australia) Pty Ltd v Pacific Equity Partners Pty Limited (No 4) [2014] FCA 796\nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 1232\nAWB Ltd v Cole (2006) 152 FCR 382; [2006] FCA 571\nBarnes v Commissioner of Taxation [2007] FCAFC 88; (2007) 242 ALR 601\nDalleagles Pty Ltd v Australian Securities Commission (1991) 4 WAR 325\nDaniels Corporation International Pty Ltd v Australian Competition and Consumer Commission (2002) 213 CLR 543; [2002] HCA 49\nDSE (Holdings) Pty Ltd v InterTAN Inc (2003) 135 FCR 151; [2003] FCA 1191\nEsso Australia Resources Ltd v Federal Commissioner of Taxation (1999) 201 CLR 49; [1999] HCA 67\nExpense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303; [2013] HCA 46\nGrant v Downs (1976) 135 CLR 674\nMann v Carnell (1999) 201 CLR 1; [1999] HCA 66\nWaterford v Commonwealth (1987) 163 CLR 54"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "70"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "15 August 2025"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr B Hancock"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Johnson Winter Slattery"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr C Bannan with Ms T Epstein"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Baker McKenzie"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD401/2022",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "MASTERCARD ASIA/PACIFIC PTE LTD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MASTERCARD ASIA/PACIFIC (AUSTRALIA) PTY LTD",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "HALLEY J"
+   ],
+   "date": "2025-08-22",
+   "date_raw": "22 August 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Paragraph 1 of the second further amended interlocutory application dated 11 July 2025 (interlocutory application) is dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant is to pay 50% of the costs of the first and second respondents of and incidental to the determination of paragraph 1 of the interlocutory application, as taxed or agreed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "By a second further amended interlocutory application dated 11 July 2025, the applicant, the Australian Competition and Consumer Commission (ACCC), challenges claims of privilege made by the respondents, Mastercard Asia/Pacific Pte Ltd and Mastercard Asia/Pacific (Australia) Pty Ltd (together, Mastercard) over 32 documents that it has discovered in this proceeding (Documents). The Documents are numbered 1 to 5, 8 to 11, 16 to 32 and 38 to 43 in Annexure A to the interlocutory application. The disputes that had arisen in relation to the claims for privilege in the other documents listed in Annexure A have been resolved.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "In this proceeding, the ACCC alleges that Mastercard acted with a purpose of substantially lessening competition in entering into 23 Strategic Merchant Agreements (SMAs). In substance, it alleges that Mastercard sought to foreclose competition from eftpos Payments Australia Limited (eftpos) in relation to the provision of debit card acceptance services by leveraging Mastercard’s ability to provide credit card acceptance services to offer merchants discounted rates on credit transactions on the condition that merchants routed all, or substantially all, of their debit transactions through the Mastercard network.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "The Documents fall into two categories, (a) drafts of the SMAs that were either drafted by in- house legal counsel or contain mark-up and comments from in-house counsel (Draft Agreements), and (b) email chains where Mastercard makes a claim of privilege over portions of each email chain (Disputed Email Chains).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "The ACCC relies on four affidavits from Mr Kevin Love, a Partner of Johnson Winter Slattery, in support of its challenge to the privilege claims maintained by Mastercard over the Documents.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "Mastercard relies on two affidavits from Ms Georgina Foster (Foster Affidavits), a partner of Baker McKenzie and the solicitor on the record for Mastercard in this proceeding in support of their privilege claims over the Documents. Ms Foster gives evidence about the nature of the Documents based upon her review and assessment of them and information provided to her by Mr Teong Lee Chuah, one of the internal Mastercard lawyers. Ms Foster also gives evidence that the relevant in-house lawyers at Mastercard did not have commercial roles in addition to their legal responsibilities.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "The ACCC contends that Mastercard has not substantiated its claims for privilege over the Documents or portions of the Documents and that in any event it has waived any privilege that might otherwise have existed in the portions of Documents 19 to 24 and 38 over which it has claimed privilege.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "A. Introduction"
+    ],
+    "text": "For the reasons that follow, I have concluded that the ACCC’s challenges to the privilege claims made by Mastercard in the Documents have not succeeded and that there has been no waiver of privilege over the portions of the Disputed Email Chains claimed to be privileged.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "The common law of legal professional privilege applies to pre-trial procedures, including this challenge by the ACCC to the privilege claims made by Mastercard over the Documents: Esso Australia Resources Ltd v Federal Commissioner of Taxation (1999) 201 CLR 49; [1999] HCA 67 at [16]–[28] (Gleeson CJ, Gaudron and Gummow JJ) and [64] (McHugh J).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "Relevantly, legal professional privilege attaches to communications made for the dominant purpose of giving or receiving legal advice or the provision of legal services, including representation in legal proceedings: Daniels Corporation International Pty Ltd v Australian Competition and Consumer Commission (2002) 213 CLR 543; [2002] HCA 49 at [9] (Gleeson CJ, Gaudron, Gummow and Hayne JJ). Advice that is given by a legal adviser that is predominantly for a financial, personal or commercial purpose, rather than the purpose of seeking legal services or assistance, will not be privileged: Barnes v Commissioner of Taxation [2007] FCAFC 88; (2007) 242 ALR 601 at [8] (Tamberlin, Stone and Siopis JJ).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "It is well established that legal professional privilege extends to a broader range of communications than formal legal advice and requests for such advice. There is often a continuum of communication and meetings between a solicitor and their client. In DSE (Holdings) Pty Ltd v InterTAN Inc (2003) 135 FCR 151; [2003] FCA 1191, Allsop J observed at [52]:\nIt would be rare that one could, with any degree of confidence, say that a communication between client (or agent) and lawyer, in the circumstances of a retainer requiring legal advice and the directing of the client by a legal adviser, was not connected with the provision or requesting of legal advice […] too literal a requirement of identifying legal advice as express advice about the law would place undue emphasis on formalism and undermine the privilege.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "Legal professional privilege may attach to confidential communications between an employer and its employed or “in-house” lawyer provided the employer consulted the employed solicitor in a “professional capacity in relation to a professional matter” and the communications are made in confidence and arise in the course of a lawyer and client relationship: Waterford v Commonwealth (1987) 163 CLR 54 at 61-62 (Mason and Wilson JJ) and 95-96 (Dawson J).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "The ACCC contends that Mastercard has waived privilege over certain emails within the Disputed Email Chains by producing the Documents to the ACCC without any claim for privilege in February 2020 or by subsequent conduct in making a submission to the ACCC in March 2020 that specifically referred to one of the copies of the Disputed Email Chains.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "B. Legal principles"
+    ],
+    "text": "Mastercard submits that any disclosure of emails within the Disputed Email Chains without redaction was inadvertent in circumstances where it was required to produce vast quantities of documents under significant time pressure, its subsequent conduct did not amount to a waiver, and Mastercard corrected the inadvertent disclosure in 2021.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "It is also well established that the Court may inspect documents the subject of disputed claims for privilege: Grant v Downs (1976) 135 CLR 674 at 689 (Stephen, Mason and Murphy JJ); Esso Australia Resources at [52] (Gleeson CJ, Gaudron and Gummow JJ).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "In its written submissions, the ACCC contended that in many respects, the evidence of Ms Foster was not sufficiently focussed and specific to establish the basis of its claims. It submitted that the generality and imprecision of Ms Foster’s evidence with respect to certain claims means that the Court will be less likely to conclude that the relevant documents are privileged.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "Further the ACCC contended in its written submissions, and initially in its oral submissions that the Court should consider the material that is in evidence before making any decision to inspect the Documents on the basis that the power to inspect should be exercised to enable a claim of privilege to be scrutinised and tested, not to facilitate proof by a claimant, citing in support the decision of Wigney J in Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 1232 at [50].",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "In the course of the hearing, however, counsel for the ACCC confirmed that the ACCC did not seek to press any contention that it would be an inappropriate exercise of discretion in this case, in the context of the explanations given by Ms Foster, for the Court to inspect the Documents to enable the privilege claims to be scrutinised and tested.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "It became apparent in the course of the hearing and from the detailed written submissions relied upon by the ACCC and Mastercard, respectively challenging and seeking to support the claims for privilege, that an inspection of the Documents by the Court after the conclusion of the hearing would best facilitate a just resolution of the disputed claims for privilege. Necessarily, the explanations given by Ms Foster in support of the privilege claimed were largely generic and formulaic. More specific explanations would likely have led to at least the partial disclosure of the very privilege sought to be protected. The explanations proffered by Mastercard therefore could not, and in context did not, provide a compelling answer to the detailed critiques advanced by the ACCC of the adequacy and sufficiency of those explanations to enable the Court to conclude that the redacted portions in each of the Documents are privileged.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "C. Review of privileged documents"
+    ],
+    "text": "I therefore advised the parties at the conclusion of the hearing that I would inspect each of the unredacted copies of the Documents to determine whether I was satisfied, in the context of the explanations provided by Ms Foster, that the claims for privilege should be upheld. I accept that the disadvantage of this course is that my reasoning will necessarily not be disclosed and the ACCC will not have any opportunity to make submissions directed at the redacted portions of the Documents. This disadvantage, however, is outweighed, at least in the circumstances of this case, by the advantage of the Court being able to determine whether the claims for privilege are sound by considering the material over which privilege is claimed, rather than having to rely on submissions and evidence expressed in terms that do not directly engage with the material over which privilege has been claimed.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Mastercard claims privilege in relation to the whole of Documents 1 to 5, 8, and 26 to 32 on the following basis:\nConfidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Mastercard claims privilege in relation to the whole of Documents 16 and 17 on the following basis:\nConfidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice (being a draft agreement containing legal advice from Melissa Letford).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Mastercard claims privilege in relation to the whole of Documents 9 and 18 on the following basis:\nConfidential communications between Mastercard personnel and in-house lawyers at Mastercard made for the dominant purpose of seeking legal advice and the lawyers providing legal advice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "The ACCC contends that given the circulation of the Draft Agreements for an apparently non- privileged purpose, such as obtaining commercial approval, the Court would not be satisfied that the Draft Agreements are privileged unless there is sufficient evidence to establish that their contents would reveal the content of legal advice sought or given. It submits that any privilege would be limited to those portions of the Draft Agreements that contained confidential communications for the dominant purpose of giving or receiving legal advice, such as “the text of a particular comment from a lawyer”.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "The ACCC placed particular reliance on the decision of Beach J in Asahi Holdings (Australia) Pty Ltd v Pacific Equity Partners Pty Limited (No 4) [2014] FCA 796 to contend that the Draft Agreements, except to the extent that they disclosed specific legal advice from internal Mastercard lawyers, were not privileged.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Unlike in the present case, the drafts of transaction documents in Asahi were provided to an external financial adviser for their advice and input. It was in that context that Beach J rejected the argument that, where there are important transaction documents and multiple non-legal advisers are providing their own commercial, and non-legal, advice, together with the legal advisers, who remain the ultimate gate keepers, the non-legal advisers’ internal considerations and their separate advice, are ispo facto, for a dominant legal purpose. Rather, his Honour concluded each specific communication would need to be looked at carefully and prima facie the internal considerations of the non-legal advisers would not be for a dominant privileged purpose: Asahi at [67].",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Communications with an external adviser for the purpose of obtaining financial advice in the course of the preparation of multiple drafts of a transaction document, that was either initially prepared or is to be settled by lawyers, are of a fundamentally different character to internal communications within a client about draft transaction documents, that had first been prepared or are to be settled by lawyers. In the latter circumstance, it may well be necessary to look at the internal communications carefully, but prima facie, it could be expected that those internal communications were prepared for a dominant privileged purpose.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Privilege against disclosure has been extended to documents that record both confidential legal advice and confidential legal work, including legal research memoranda and draft agreements: AWB Ltd v Cole (2006) 152 FCR 382; [2006] FCA 571 at [127] (Young J), and the cases cited therein. His Honour at [128] referred with approval to the following explanation of the rationale for the extension of privilege to documents recording legal advice or confidential legal work provided by Anderson J in Dalleagles Pty Ltd v Australian Securities Commission (1991) 4 WAR 325 at 333-334:\nWhat is protected, of course, is that which is communicated between solicitor and client. It is the communication that is privileged. But this is not to say that material that is not literally a communication or manifestly the record of a communication is never protected. There are many instances of protection being extended to such material. The examples of the draft letter that never leaves the solicitor’s office, the draft agreement and the draft statement of claim have already been referred to. The reason why such material is protected is often stated to be that disclosure of it will, or will tend to, reveal the privileged communication: see Attorney-General (NT) v Maurice, per Dawson J (at 496). Thus a note made by a solicitor of a conference with his client will be privileged in so far as it is a record of the communication from the client (that communication being privileged) but also in so far as it might contain notes of the solicitor’s own thoughts in regard to the matters communicated to him. Protection is afforded in the latter case on the ground that disclosure of that material might tend to reveal what had been communicated to the solicitor. There is much in the cases to support the view that this is the true basis upon which draft agreements, draft letters, draft pleadings and the like have long been accepted as privileged; that it is not so much because they are themselves “advice” or “communication” but because they will, if disclosed, reveal, or tend to reveal, the content of privileged communications. Material created by the solicitor in fulfilment of his engagement “is the result of the solicitor’s mind working upon and acting as professional adviser with reference to” material communicated to him confidentially in his professional capacity (Kennedy v Lyell [1883] 23 Ch D 387 at 407) and, as such, will by its very nature tend to reveal the content of the communication in response to which it had been prepared.\nOf course, there are limits and these have often been stated. The material must have been created solely for the purpose of fulfilling the engagement. The material must be confidential. No protection can extend to agreements in their final form intended to constitute the actual transaction between the parties or to records made for the purpose of evidencing an actual transaction, or to letters sent or to forms lodged at public offices or to pleadings filed in courts. This is because legal professional privilege exists to secure confidentiality and such material is no longer confidential.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "C.1. Draft agreements",
+     "C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32"
+    ],
+    "text": "Having examined the Draft Agreements in the context of the specific explanations provided by Ms Foster and the covering emails to which the agreements were attached, I am satisfied that the Draft Agreements if disclosed, would reveal or tend to reveal, the content of privileged communications. The privilege attaches to the Draft Agreement as a whole. It is not limited to specific comments attached to the Draft Agreements in mark up on the text or in comment bubbles. In context, it is plain that the involvement of the internal lawyers was not limited to specific clauses or issues, but rather to the content of the Draft Agreements more generally. Nor is the privilege limited to Draft Agreements attached to communications directly with the internal lawyers.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.1. Documents 10 and 11"
+    ],
+    "text": "Mastercard claims privilege in relation to Documents 10 and 11 on the basis that the:\nRedacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.1. Documents 10 and 11"
+    ],
+    "text": "Having now reviewed the redacted portions of Documents 10 and 11, I am satisfied that the claims for privilege are justified.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.2. Documents 19 to 25, 38 and 43"
+    ],
+    "text": "Mastercard claims privilege in relation to items 19 to 25, 38 and 43 on the basis that:\nRedacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.2. Documents 19 to 25, 38 and 43"
+    ],
+    "text": "The ACCC submits that Mastercard’s evidence in support of its privilege claims with respect to Documents 19 to 25, 38 and 43 is wholly insufficient. It submits that the only evidence in relation to the basis of the privilege claims relating to those documents can be found in [92] of the affidavit of Georgina Maree Foster dated 16 July 2025, in which she states:\nIn relation to the email dated 24 November 2019 at 2.43pm from Mr Molu to Ms Vocale, Mr Chuah and others at Mastercard, I am informed by Mr Chuah that the redacted portions of the email are matters the subject of legal advice provided by Mr Chuah to Mr Molu.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.2. Documents 19 to 25, 38 and 43"
+    ],
+    "text": "Having reviewed the redacted portions of Documents 19 to 25, 38 and 43, I am satisfied that the claims for privilege are justified.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Mastercard claims privilege in relation to Documents 39 to 42 on the basis that the:\nRedacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Ms Foster gives the following evidence with respect to Document 39:\n[Document] 39 is an email chain that includes an email from Mr Koh to various non-lawyers at Mastercard as well as Ms Letford with a query in relation to the terms of the draft strategic merchant agreement with [redacted]. The following email in the chain is a response to Mr Koh by Ms Koh, a non-lawyer, which contains instructions for legal advice. Ms Koh also copies Mr McClean on her email.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "The ACCC submits that Ms Foster’s evidence does not contain facts capable of demonstrating that the dominant purpose of the email from Ms Koh was the giving or receiving or legal advice, or that its disclosure would reveal the content of a communication for the dominant purpose of the giving or receiving or legal advice. It submits that Ms Foster’s evidence does not identify, among other things, the nature of the instructions contained in the email or to whom the instructions were directed.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Having now reviewed the redacted portions of Document 39, I am satisfied that the claims for privilege are justified.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Ms Foster gives the following evidence with respect to Document 40:\nThe redacted portions of this email chain are in respect of emails in the part of the chain to and from Ms Letford for the purpose of Ms Letford providing legal advice in relation to the terms of the draft agreement.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "The ACCC submits that Ms Foster’s evidence is not adequate to establish that the redacted communications in Document 40 were for the dominant purpose of giving or receiving legal advice or would reveal communications for that dominant purpose if disclosed.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Having now reviewed the redacted portions of Document 40, I am satisfied that the claims for privilege are justified.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "The ACCC submits that Ms Foster’s evidence does not establish that the nature and content of a legally privileged communication from Ms Letford would be revealed or could be inferred from the redacted text in Documents 41 and 42.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.3. Documents 39 to 42"
+    ],
+    "text": "Having now reviewed the redacted portions of Documents 41 and 42, I am satisfied that the claims for privilege are justified.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "The ACCC contends that if Mastercard’s claims for privilege in respect of Documents 19 to 24 are upheld, Mastercard has waived its privilege in the redacted communications by (a) producing the documents to the ACCC in February 2020 without any claim for privilege, and (b) in any event by relying on Document 24 (which is a later version of the email chain that includes each of the email chains in Documents 19 to 23) (Email Chain) in the making of a submission to the ACCC in March 2020, and has acted inconsistently with any privilege in those documents. The ACCC also contends that given it is apparent from the redactions to Document 38 that it relates to the matters the subject of the Email Chain, Mastercard has also waived privilege or acted inconsistently with the maintenance of privilege in that document.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "The ACCC submits that any submission that the production of Documents 19 to 24, without any claim for privilege, was inadvertent should not be accepted. It submits that (a) the Foster Affidavits do not address the failure to identify a claim for privilege in respect of these documents for a period of over four years, and (b) the fact Mastercard chose to refer to Document 24, in its unredacted form, in a voluntary submission to the ACCC in March 2020 is inconsistent with any contention that disclosure of the privileged information was inadvertent.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "On 20 December 2019, Mastercard was issued with a notice from the ACCC under s 155(1)(a) and (b) of the Competition and Consumer Act 2010 (Cth) (Notice). It was subsequently varied on 21 January 2020. Mastercard was required to respond to the information and document requests in the Notice by 18 February 2020.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "On 3 February 2020, Baker McKenzie sought an extension of time to 31 March 2020 to respond to the Notice for reasons including the complexity of locating and collecting the relevant documents and the fact that over 100,000 documents had been identified from searches for potential review for production. The request for an extension was refused by the ACCC, despite further requests made on behalf of Mastercard.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "On 18 February 2020, Mastercard produced 7,437 documents in response to the Notice, including copies of Documents 20 to 24 without redactions. The Nuix discovery database used by Baker McKenzie in the proceeding records that Documents 20 to 24 were all coded at the time as privilege “no” by a junior associate at Baker McKenzie who is no longer employed by the firm.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Approximately 75,000 documents were reviewed in order to respond to the Notice. In responding to the Notice, Baker McKenzie expressly noted on behalf of Mastercard that in light of the time constraints, while it had sought to identify privileged documents and exclude those from production, Mastercard expressly did not waive privilege in any document which had been inadvertently produced.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "The ACCC contends that if the Court was otherwise satisfied that the production of unredacted copies of Documents 20 to 24 disclosing privileged material in response to the Notice was inadvertent, that privilege was waived by Mastercard’s conduct in making the voluntary submission to the ACCC on 6 March 2020. Mastercard specifically cited Document 24 in support of the following proposition advanced in paragraph 43 of the voluntary submission:\nThere is no evidence that suggests that Mastercard uses credit strategic merchant rates as a ‘carrot’ to secure debit transaction volumes. In fact, Mastercard is aware of the potential risks associated with bundling and there are examples of documents which demonstrate a preference to avoid it.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Document 24 was referred to in the footnote to paragraph 43 of the submission by reference to its document ID. A copy of the document was not provided to the ACCC with the submission. The only copy of Document 24 that had been provided to the ACCC at that time by Mastercard was the unredacted copy provided in response to the Notice.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "The voluntary submission was expressly provided to the ACCC on a confidential and without prejudice basis. The ACCC acknowledged receipt of the voluntary submission and did not challenge the confidential and without prejudice nature of the communication until May 2025. While Mastercard no longer asserts a claim for without prejudice privilege, it continues to maintain that the document was provided on a confidential basis for a specific and limited purpose.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Mastercard submits that the information in Document 24 relied upon in the submission is not the subject of a privilege claim by Mastercard. Paragraph 43 of the voluntary submission asserted that Mastercard was “aware of the potential risks associated with bundling and there are examples of documents which demonstrate a preference to avoid it”. The reference to “bundling” referred to the conduct the subject of the proceedings, namely the bundling of credit and debit transactions.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Mastercard submits that the unredacted portion of the Email Chain referred to in the footnote to the voluntary submission, over which no claim for privilege is made, reveals that the named SMA distinguished between debit and credit transactions, that is, it did not bundle those transactions.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "In late 2021, Mastercard produced approximately 22 further copies of the Email Chain, together with Documents 25 and 43, in response to a further s 155(1)(a) and (b) notice dated 17 September 2021 (Second Notice). The Second Notice was subsequently varied on 15 October 2021. The portions of the Email Chain included in the documents produced in response to the Second Notice, the subject of the present privilege claims, were redacted.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "On 20 March 2023, ACCC provided an initial tender bundle list to Mastercard. The initial tender bundle list included Documents 19, 20, 21 and 25. At that time the ACCC submits, and Mastercard does not dispute, that the ACCC only had unredacted copies of those documents.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "In late 2023, the ACCC made an application for discovery in which Document 19 was referred to and exhibited in an unredacted form to an affidavit of Mr Love and then in December 2023 during the hearing of the discovery application, senior counsel for the ACCC read in open court an extract from the Email Chain included in Document 19, without any objection or claim for privilege from Mastercard.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "On 5 July 2024, after conducting a review and further checks on the documents produced in the context of this proceeding and the ACCC’s investigation, Mastercard notified the ACCC of privilege claims in respect of documents that it claimed had been inadvertently produced in 2020, without redactions, as a result of what was stated to be human error.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "There is much force in the ACCC’s submissions on implied waiver. Ultimately, however, I am satisfied that the alleged waivers of privilege by Mastercard were inadvertent and have not otherwise been waived for the following reasons.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "First, the review of a large number of documents within a tight timeframe that might fall within the terms of a compulsory notice to produce documents and then the review of documents that are caught for privilege, has a pronounced, but unfortunate, tendency to lead to the inadvertent disclosure of privileged documents.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "In Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303; [2013] HCA 46 at [52], the High Court had regard to claims for inadvertent disclosure of privileged material in light of the overriding purpose of the Civil Procedure Act 2005 (NSW) under s 56(1) to “facilitate the just, quick and cheap resolution of the real issues in the dispute or proceedings”, which mirrors the overarching purpose set out in s 37M of the Federal Court of Australia Act 1976 (Cth). Relevantly, the process of discovery in Expense Reduction Analysts involved approximately 60,000 documents and the task of reviewing documents for privilege was undertaken by persons who were not very experienced in discovery processes. The High Court noted at [45] and [48] that in large commercial cases, mistakes are more likely to occur and where a privileged document is inadvertently disclosed, the court should ordinarily permit the correction of that mistake.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "The High Court ultimately concluded that, in circumstances where there was a genuine mistake in the production of documents, no conduct of the disclosing party weighed against the grant of relief, no delay of significance was present in notifying the parties of the mistake and no prejudice to the parties, that the relevant documents were required to be returned: Expense Reduction Analysts at [61].",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "In this case, Mastercard was required to review over 100,000 documents and then review some 7,437 documents for privilege in a period of less than two months over a period that included the Christmas/New Year break. This was not a case in which the inadvertence arose because a document had not been reviewed for privilege. An erroneous failure to identify a document as privileged, however, is not necessarily determinative, irrespective of the seniority of the lawyer conducting the review. Rather, inadvertence is more importantly to be assessed by reference to the quantity of documents to be reviewed, the time permitted to produce the documents and the procedures implemented in order to comply with the request for production. The interests of justice dictate that there be timely responses to requests for the production of documents, in particular to regulators given their statutory functions, but at the same time the interests of justice demand that the legitimate rights of the parties responding to notices are preserved, where reasonably possible, including the maintenance of claims for privilege.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Second, there was a significant delay in Mastercard notifying the ACCC of the inadvertent disclosure of privileged material in the Documents. The delay, however, was between disclosure in 2020 and notification in 2024. It was not between Mastercard becoming aware of the inadvertent disclosure and notification to the ACCC. As explained above at [57], Mastercard notified the ACCC in July 2024 of the inadvertent disclosure after conducting a review and checks of documents that it had provided to the ACCC during the course of the investigation and proceedings. The delay was unfortunate and material but explicable, given the large quantity of material produced and Mastercard’s failure to reconsider and review documents for potential privilege claims, presumably because of assumptions that the exercise undertaken at the time the documents were produced to identify potential claims for privilege had been effective to identify privileged information.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Further, the failure to appreciate that Document 19, which had been included in a list of some 3,050 documents in the initial tender bundle list and referred to in Annexure A to the discovery application, had previously been produced in an unredacted form, is a regrettable but explicable oversight or omission. Equally, the failure to make a claim for privilege when senior counsel for the ACCC read three lines in open court from the Email Chain that had been included in Document 19 is explicable, given the relatively anodyne nature of the extract that was read. Each of these failures or omissions can fairly be characterised as inadvertent, rather than deliberate, explicit or implied, disclosures of privileged material.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "Third, having now reviewed Document 24, I am satisfied that the redacted portion of that document does not relate, or otherwise provide any relevant context, to the unredacted portions of the document that Mastercard contends demonstrated a preference by the named entity to distinguish between debit and credit transactions.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "An implied waiver of privilege occurs where there is an inconsistency between the client’s conduct and the maintenance of the confidentiality which the privilege is intended to protect: Mann v Carnell (1999) 201 CLR 1; [1999] HCA 66 at [29] (Gleeson CJ, Gaudron, Gummow and Callinan JJ).",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "C.2. Disputed email chains",
+     "C.2.4. Waiver"
+    ],
+    "text": "There is no inconsistency between Mastercard’s reliance on the information in unredacted portions of Document 24 in support of the proposition it was advancing in paragraph 43 of the voluntary submission and its maintenance of a claim for privilege over the email chain that had been included in the document.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "D. Costs"
+    ],
+    "text": "At the conclusion of the hearing, I raised with the parties the question of what costs orders would be appropriate in various ultimate resolutions of the disputed claims for privilege and provided the parties with an opportunity to make brief submissions. Applying a broadbrush, I indicated that approximately 35% of the parties’ costs were attributable to the evidence and arguments in relation to the waiver issue. One of the outcomes that I raised was if Mastercard were successful in maintaining all of its claims for privilege. I indicated in that outcome I would propose to make an order for costs that took into account that Mastercard had withdrawn some of its claims for privilege after the service of the ACCC’s evidence and given Mastercard’s oversights had given rise to the waiver issue that the ACCC should not be required to pay Mastercard’s costs of that issue. Neither the ACCC nor Mastercard sought to be heard against that proposal.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "D. Costs"
+    ],
+    "text": "Costs generally follow the event, but in this case, I am satisfied that an order that the ACCC only pay 50% of the costs of Mastercard is appropriate and in the interests of justice because (a) Mastercard had inadvertently disclosed privileged material to the ACCC giving rise to the implied waivers of privilege, (b) there had been a significant delay in Mastercard, albeit inadvertent, notifying the ACCC of the inadvertent waivers of privilege, and (c) the narrowing of the claims for privilege after service of the interlocutory application by the withdrawal of claims for privilege over seven of the 43 Documents listed in Annexure A and the revision of part privilege claims in Documents 12, 24 and 25.",
+    "judge": "HALLEY J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "E. Disposition"
+    ],
+    "text": "Paragraph 1 of the interlocutory application is to be dismissed and the ACCC is to pay 50% of Mastercard’s costs as taxed or agreed.",
+    "judge": "HALLEY J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding seventy (70) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Halley.",
+ "associate": null,
+ "dated": "2025-08-22",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Mastercard Asia/Pacific Pte Ltd (No 2) [2025] FCA 1004\n\n## Cover sheet\n\n**File number(s):** NSD 401 of 2022\n\n**Judgment of:** HALLEY J\n\n**Date of judgment:** 22 August 2025\n\n**Catchwords:** PRIVILEGE – legal professional privilege – whether draft agreements and email chains (Documents) disclose confidential information made for dominant purpose of providing legal advice – held Documents subject to legal professional privilege  \nPRIVILEGE – waiver – whether unredacted disclosure under compulsory notice was inadvertent – whether voluntary disclosure in submissions inconsistent with maintenance of confidentiality – held no express or implied waiver\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) s 155  \nFederal Court of Australia Act 1976 (Cth) s 37M  \nCivil Procedure Act 2005 (NSW) s 56\n\n**Cases cited:** Asahi Holdings (Australia) Pty Ltd v Pacific Equity Partners Pty Limited (No 4) [2014] FCA 796  \nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 1232  \nAWB Ltd v Cole (2006) 152 FCR 382; [2006] FCA 571  \nBarnes v Commissioner of Taxation [2007] FCAFC 88; (2007) 242 ALR 601  \nDalleagles Pty Ltd v Australian Securities Commission (1991) 4 WAR 325  \nDaniels Corporation International Pty Ltd v Australian Competition and Consumer Commission (2002) 213 CLR 543; [2002] HCA 49  \nDSE (Holdings) Pty Ltd v InterTAN Inc (2003) 135 FCR 151; [2003] FCA 1191  \nEsso Australia Resources Ltd v Federal Commissioner of Taxation (1999) 201 CLR 49; [1999] HCA 67  \nExpense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303; [2013] HCA 46  \nGrant v Downs (1976) 135 CLR 674  \nMann v Carnell (1999) 201 CLR 1; [1999] HCA 66  \nWaterford v Commonwealth (1987) 163 CLR 54\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 70\n\n**Date of hearing:** 15 August 2025\n\n**Counsel for the Applicant:** Mr B Hancock\n\n**Solicitor for the Applicant:** Johnson Winter Slattery\n\n**Counsel for the Respondents:** Mr C Bannan with Ms T Epstein\n\n**Solicitor for the Respondents:** Baker McKenzie\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 401 of 2022 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | MASTERCARD ASIA/PACIFIC PTE LTD<br>First Respondent<br>MASTERCARD ASIA/PACIFIC (AUSTRALIA) PTY LTD<br>Second Respondent |\n\n| order made by: | HALLEY J |\n|---|---|\n| DATE OF ORDER: | 22 August 2025 |\n\n### THE COURT ORDERS THAT:\n\n1. Paragraph 1 of the second further amended interlocutory application dated 11 July 2025 (interlocutory application) is dismissed.\n\n2. The applicant is to pay 50% of the costs of the first and second respondents of and incidental to the determination of paragraph 1 of the interlocutory application, as taxed or agreed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### HALLEY J:\n\n### A. Introduction\n\n[1] By a second further amended interlocutory application dated 11 July 2025, the applicant, the Australian Competition and Consumer Commission (ACCC), challenges claims of privilege made by the respondents, Mastercard Asia/Pacific Pte Ltd and Mastercard Asia/Pacific (Australia) Pty Ltd (together, Mastercard) over 32 documents that it has discovered in this proceeding (Documents). The Documents are numbered 1 to 5, 8 to 11, 16 to 32 and 38 to 43 in Annexure A to the interlocutory application. The disputes that had arisen in relation to the claims for privilege in the other documents listed in Annexure A have been resolved.\n\n[2] In this proceeding, the ACCC alleges that Mastercard acted with a purpose of substantially lessening competition in entering into 23 Strategic Merchant Agreements (SMAs). In substance, it alleges that Mastercard sought to foreclose competition from eftpos Payments Australia Limited (eftpos) in relation to the provision of debit card acceptance services by leveraging Mastercard’s ability to provide credit card acceptance services to offer merchants discounted rates on credit transactions on the condition that merchants routed all, or substantially all, of their debit transactions through the Mastercard network.\n\n[3] The Documents fall into two categories, (a) drafts of the SMAs that were either drafted by in- house legal counsel or contain mark-up and comments from in-house counsel (Draft Agreements), and (b) email chains where Mastercard makes a claim of privilege over portions of each email chain (Disputed Email Chains).\n\n[4] The ACCC relies on four affidavits from Mr Kevin Love, a Partner of Johnson Winter Slattery, in support of its challenge to the privilege claims maintained by Mastercard over the Documents.\n\n[5] Mastercard relies on two affidavits from Ms Georgina Foster (Foster Affidavits), a partner of Baker McKenzie and the solicitor on the record for Mastercard in this proceeding in support of their privilege claims over the Documents. Ms Foster gives evidence about the nature of the Documents based upon her review and assessment of them and information provided to her by Mr Teong Lee Chuah, one of the internal Mastercard lawyers. Ms Foster also gives evidence that the relevant in-house lawyers at Mastercard did not have commercial roles in addition to their legal responsibilities.\n\n[6] The ACCC contends that Mastercard has not substantiated its claims for privilege over the Documents or portions of the Documents and that in any event it has waived any privilege that might otherwise have existed in the portions of Documents 19 to 24 and 38 over which it has claimed privilege.\n\n[7] For the reasons that follow, I have concluded that the ACCC’s challenges to the privilege claims made by Mastercard in the Documents have not succeeded and that there has been no waiver of privilege over the portions of the Disputed Email Chains claimed to be privileged.\n\n### B. Legal principles\n\n[8] The common law of legal professional privilege applies to pre-trial procedures, including this challenge by the ACCC to the privilege claims made by Mastercard over the Documents: Esso Australia Resources Ltd v Federal Commissioner of Taxation (1999) 201 CLR 49; [1999] HCA 67 at [16]–[28] (Gleeson CJ, Gaudron and Gummow JJ) and [64] (McHugh J).\n\n[9] Relevantly, legal professional privilege attaches to communications made for the dominant purpose of giving or receiving legal advice or the provision of legal services, including representation in legal proceedings: Daniels Corporation International Pty Ltd v Australian Competition and Consumer Commission (2002) 213 CLR 543; [2002] HCA 49 at [9] (Gleeson CJ, Gaudron, Gummow and Hayne JJ). Advice that is given by a legal adviser that is predominantly for a financial, personal or commercial purpose, rather than the purpose of seeking legal services or assistance, will not be privileged: Barnes v Commissioner of Taxation [2007] FCAFC 88; (2007) 242 ALR 601 at [8] (Tamberlin, Stone and Siopis JJ).\n\n[10] It is well established that legal professional privilege extends to a broader range of communications than formal legal advice and requests for such advice. There is often a continuum of communication and meetings between a solicitor and their client. In DSE (Holdings) Pty Ltd v InterTAN Inc (2003) 135 FCR 151; [2003] FCA 1191, Allsop J observed at [52]:\n\n> It would be rare that one could, with any degree of confidence, say that a communication between client (or agent) and lawyer, in the circumstances of a retainer requiring legal advice and the directing of the client by a legal adviser, was not connected with the provision or requesting of legal advice […] too literal a requirement of identifying legal advice as express advice about the law would place undue emphasis on formalism and undermine the privilege.\n\n[11] Legal professional privilege may attach to confidential communications between an employer and its employed or “in-house” lawyer provided the employer consulted the employed solicitor in a “professional capacity in relation to a professional matter” and the communications are made in confidence and arise in the course of a lawyer and client relationship: Waterford v Commonwealth (1987) 163 CLR 54 at 61-62 (Mason and Wilson JJ) and 95-96 (Dawson J).\n\n[12] The ACCC contends that Mastercard has waived privilege over certain emails within the Disputed Email Chains by producing the Documents to the ACCC without any claim for privilege in February 2020 or by subsequent conduct in making a submission to the ACCC in March 2020 that specifically referred to one of the copies of the Disputed Email Chains.\n\n[13] Mastercard submits that any disclosure of emails within the Disputed Email Chains without redaction was inadvertent in circumstances where it was required to produce vast quantities of documents under significant time pressure, its subsequent conduct did not amount to a waiver, and Mastercard corrected the inadvertent disclosure in 2021.\n\n### C. Review of privileged documents\n\n[14] It is also well established that the Court may inspect documents the subject of disputed claims for privilege: Grant v Downs (1976) 135 CLR 674 at 689 (Stephen, Mason and Murphy JJ); Esso Australia Resources at [52] (Gleeson CJ, Gaudron and Gummow JJ).\n\n[15] In its written submissions, the ACCC contended that in many respects, the evidence of Ms Foster was not sufficiently focussed and specific to establish the basis of its claims. It submitted that the generality and imprecision of Ms Foster’s evidence with respect to certain claims means that the Court will be less likely to conclude that the relevant documents are privileged.\n\n[16] Further the ACCC contended in its written submissions, and initially in its oral submissions that the Court should consider the material that is in evidence before making any decision to inspect the Documents on the basis that the power to inspect should be exercised to enable a claim of privilege to be scrutinised and tested, not to facilitate proof by a claimant, citing in support the decision of Wigney J in Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2020] FCA 1232 at [50].\n\n[17] In the course of the hearing, however, counsel for the ACCC confirmed that the ACCC did not seek to press any contention that it would be an inappropriate exercise of discretion in this case, in the context of the explanations given by Ms Foster, for the Court to inspect the Documents to enable the privilege claims to be scrutinised and tested.\n\n[18] It became apparent in the course of the hearing and from the detailed written submissions relied upon by the ACCC and Mastercard, respectively challenging and seeking to support the claims for privilege, that an inspection of the Documents by the Court after the conclusion of the hearing would best facilitate a just resolution of the disputed claims for privilege. Necessarily, the explanations given by Ms Foster in support of the privilege claimed were largely generic and formulaic. More specific explanations would likely have led to at least the partial disclosure of the very privilege sought to be protected. The explanations proffered by Mastercard therefore could not, and in context did not, provide a compelling answer to the detailed critiques advanced by the ACCC of the adequacy and sufficiency of those explanations to enable the Court to conclude that the redacted portions in each of the Documents are privileged.\n\n[19] I therefore advised the parties at the conclusion of the hearing that I would inspect each of the unredacted copies of the Documents to determine whether I was satisfied, in the context of the explanations provided by Ms Foster, that the claims for privilege should be upheld. I accept that the disadvantage of this course is that my reasoning will necessarily not be disclosed and the ACCC will not have any opportunity to make submissions directed at the redacted portions of the Documents. This disadvantage, however, is outweighed, at least in the circumstances of this case, by the advantage of the Court being able to determine whether the claims for privilege are sound by considering the material over which privilege is claimed, rather than having to rely on submissions and evidence expressed in terms that do not directly engage with the material over which privilege has been claimed.\n\n### C.1. Draft agreements\n\n#### C.1.1. Documents 1 to 5, 8, 9, 16 to 18, and 26 to 32\n\n[20] Mastercard claims privilege in relation to the whole of Documents 1 to 5, 8, and 26 to 32 on the following basis:\n\n> Confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.\n\n[21] Mastercard claims privilege in relation to the whole of Documents 16 and 17 on the following basis:\n\n> Confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice (being a draft agreement containing legal advice from Melissa Letford).\n\n[22] Mastercard claims privilege in relation to the whole of Documents 9 and 18 on the following basis:\n\n> Confidential communications between Mastercard personnel and in-house lawyers at Mastercard made for the dominant purpose of seeking legal advice and the lawyers providing legal advice.\n\n[23] The ACCC contends that given the circulation of the Draft Agreements for an apparently non- privileged purpose, such as obtaining commercial approval, the Court would not be satisfied that the Draft Agreements are privileged unless there is sufficient evidence to establish that their contents would reveal the content of legal advice sought or given. It submits that any privilege would be limited to those portions of the Draft Agreements that contained confidential communications for the dominant purpose of giving or receiving legal advice, such as “the text of a particular comment from a lawyer”.\n\n[24] The ACCC placed particular reliance on the decision of Beach J in Asahi Holdings (Australia) Pty Ltd v Pacific Equity Partners Pty Limited (No 4) [2014] FCA 796 to contend that the Draft Agreements, except to the extent that they disclosed specific legal advice from internal Mastercard lawyers, were not privileged.\n\n[25] Unlike in the present case, the drafts of transaction documents in Asahi were provided to an external financial adviser for their advice and input. It was in that context that Beach J rejected the argument that, where there are important transaction documents and multiple non-legal advisers are providing their own commercial, and non-legal, advice, together with the legal advisers, who remain the ultimate gate keepers, the non-legal advisers’ internal considerations and their separate advice, are ispo facto, for a dominant legal purpose. Rather, his Honour concluded each specific communication would need to be looked at carefully and prima facie the internal considerations of the non-legal advisers would not be for a dominant privileged purpose: Asahi at [67].\n\n[26] Communications with an external adviser for the purpose of obtaining financial advice in the course of the preparation of multiple drafts of a transaction document, that was either initially prepared or is to be settled by lawyers, are of a fundamentally different character to internal communications within a client about draft transaction documents, that had first been prepared or are to be settled by lawyers. In the latter circumstance, it may well be necessary to look at the internal communications carefully, but prima facie, it could be expected that those internal communications were prepared for a dominant privileged purpose.\n\n[27] Privilege against disclosure has been extended to documents that record both confidential legal advice and confidential legal work, including legal research memoranda and draft agreements: AWB Ltd v Cole (2006) 152 FCR 382; [2006] FCA 571 at [127] (Young J), and the cases cited therein. His Honour at [128] referred with approval to the following explanation of the rationale for the extension of privilege to documents recording legal advice or confidential legal work provided by Anderson J in Dalleagles Pty Ltd v Australian Securities Commission (1991) 4 WAR 325 at 333-334:\n\n> What is protected, of course, is that which is communicated between solicitor and client. It is the communication that is privileged. But this is not to say that material that is not literally a communication or manifestly the record of a communication is never protected. There are many instances of protection being extended to such material. The examples of the draft letter that never leaves the solicitor’s office, the draft agreement and the draft statement of claim have already been referred to. The reason why such material is protected is often stated to be that disclosure of it will, or will tend to, reveal the privileged communication: see Attorney-General (NT) v Maurice, per Dawson J (at 496). Thus a note made by a solicitor of a conference with his client will be privileged in so far as it is a record of the communication from the client (that communication being privileged) but also in so far as it might contain notes of the solicitor’s own thoughts in regard to the matters communicated to him. Protection is afforded in the latter case on the ground that disclosure of that material might tend to reveal what had been communicated to the solicitor. There is much in the cases to support the view that this is the true basis upon which draft agreements, draft letters, draft pleadings and the like have long been accepted as privileged; that it is not so much because they are themselves “advice” or “communication” but because they will, if disclosed, reveal, or tend to reveal, the content of privileged communications. Material created by the solicitor in fulfilment of his engagement “is the result of the solicitor’s mind working upon and acting as professional adviser with reference to” material communicated to him confidentially in his professional capacity (Kennedy v Lyell [1883] 23 Ch D 387 at 407) and, as such, will by its very nature tend to reveal the content of the communication in response to which it had been prepared.\n\n> Of course, there are limits and these have often been stated. The material must have been created solely for the purpose of fulfilling the engagement. The material must be confidential. No protection can extend to agreements in their final form intended to constitute the actual transaction between the parties or to records made for the purpose of evidencing an actual transaction, or to letters sent or to forms lodged at public offices or to pleadings filed in courts. This is because legal professional privilege exists to secure confidentiality and such material is no longer confidential.\n\n[28] Having examined the Draft Agreements in the context of the specific explanations provided by Ms Foster and the covering emails to which the agreements were attached, I am satisfied that the Draft Agreements if disclosed, would reveal or tend to reveal, the content of privileged communications. The privilege attaches to the Draft Agreement as a whole. It is not limited to specific comments attached to the Draft Agreements in mark up on the text or in comment bubbles. In context, it is plain that the involvement of the internal lawyers was not limited to specific clauses or issues, but rather to the content of the Draft Agreements more generally. Nor is the privilege limited to Draft Agreements attached to communications directly with the internal lawyers.\n\n### C.2. Disputed email chains\n\n#### C.2.1. Documents 10 and 11\n\n[29] Mastercard claims privilege in relation to Documents 10 and 11 on the basis that the:\n\n> Redacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.\n\n[30] Having now reviewed the redacted portions of Documents 10 and 11, I am satisfied that the claims for privilege are justified.\n\n#### C.2.2. Documents 19 to 25, 38 and 43\n\n[31] Mastercard claims privilege in relation to items 19 to 25, 38 and 43 on the basis that:\n\n> Redacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.\n\n[32] The ACCC submits that Mastercard’s evidence in support of its privilege claims with respect to Documents 19 to 25, 38 and 43 is wholly insufficient. It submits that the only evidence in relation to the basis of the privilege claims relating to those documents can be found in [92] of the affidavit of Georgina Maree Foster dated 16 July 2025, in which she states:\n\n> In relation to the email dated 24 November 2019 at 2.43pm from Mr Molu to Ms Vocale, Mr Chuah and others at Mastercard, I am informed by Mr Chuah that the redacted portions of the email are matters the subject of legal advice provided by Mr Chuah to Mr Molu.\n\n[33] Having reviewed the redacted portions of Documents 19 to 25, 38 and 43, I am satisfied that the claims for privilege are justified.\n\n#### C.2.3. Documents 39 to 42\n\n[34] Mastercard claims privilege in relation to Documents 39 to 42 on the basis that the:\n\n> Redacted portion(s) of document disclose(s) confidential communication between client and lawyer(s) made for the dominant purpose of lawyer(s) providing legal advice.\n\n[35] Ms Foster gives the following evidence with respect to Document 39:\n\n> [Document] 39 is an email chain that includes an email from Mr Koh to various non-lawyers at Mastercard as well as Ms Letford with a query in relation to the terms of the draft strategic merchant agreement with [redacted]. The following email in the chain is a response to Mr Koh by Ms Koh, a non-lawyer, which contains instructions for legal advice. Ms Koh also copies Mr McClean on her email.\n\n[36] The ACCC submits that Ms Foster’s evidence does not contain facts capable of demonstrating that the dominant purpose of the email from Ms Koh was the giving or receiving or legal advice, or that its disclosure would reveal the content of a communication for the dominant purpose of the giving or receiving or legal advice. It submits that Ms Foster’s evidence does not identify, among other things, the nature of the instructions contained in the email or to whom the instructions were directed.\n\n[37] Having now reviewed the redacted portions of Document 39, I am satisfied that the claims for privilege are justified.\n\n[38] Ms Foster gives the following evidence with respect to Document 40:\n\n> The redacted portions of this email chain are in respect of emails in the part of the chain to and from Ms Letford for the purpose of Ms Letford providing legal advice in relation to the terms of the draft agreement.\n\n[39] The ACCC submits that Ms Foster’s evidence is not adequate to establish that the redacted communications in Document 40 were for the dominant purpose of giving or receiving legal advice or would reveal communications for that dominant purpose if disclosed.\n\n[40] Having now reviewed the redacted portions of Document 40, I am satisfied that the claims for privilege are justified.\n\n[41] The ACCC submits that Ms Foster’s evidence does not establish that the nature and content of a legally privileged communication from Ms Letford would be revealed or could be inferred from the redacted text in Documents 41 and 42.\n\n[42] Having now reviewed the redacted portions of Documents 41 and 42, I am satisfied that the claims for privilege are justified.\n\n#### C.2.4. Waiver\n\n[43] The ACCC contends that if Mastercard’s claims for privilege in respect of Documents 19 to 24 are upheld, Mastercard has waived its privilege in the redacted communications by (a) producing the documents to the ACCC in February 2020 without any claim for privilege, and (b) in any event by relying on Document 24 (which is a later version of the email chain that includes each of the email chains in Documents 19 to 23) (Email Chain) in the making of a submission to the ACCC in March 2020, and has acted inconsistently with any privilege in those documents. The ACCC also contends that given it is apparent from the redactions to Document 38 that it relates to the matters the subject of the Email Chain, Mastercard has also waived privilege or acted inconsistently with the maintenance of privilege in that document.\n\n[44] The ACCC submits that any submission that the production of Documents 19 to 24, without any claim for privilege, was inadvertent should not be accepted. It submits that (a) the Foster Affidavits do not address the failure to identify a claim for privilege in respect of these documents for a period of over four years, and (b) the fact Mastercard chose to refer to Document 24, in its unredacted form, in a voluntary submission to the ACCC in March 2020 is inconsistent with any contention that disclosure of the privileged information was inadvertent.\n\n[45] On 20 December 2019, Mastercard was issued with a notice from the ACCC under s 155(1)(a) and (b) of the Competition and Consumer Act 2010 (Cth) (Notice). It was subsequently varied on 21 January 2020. Mastercard was required to respond to the information and document requests in the Notice by 18 February 2020.\n\n[46] On 3 February 2020, Baker McKenzie sought an extension of time to 31 March 2020 to respond to the Notice for reasons including the complexity of locating and collecting the relevant documents and the fact that over 100,000 documents had been identified from searches for potential review for production. The request for an extension was refused by the ACCC, despite further requests made on behalf of Mastercard.\n\n[47] On 18 February 2020, Mastercard produced 7,437 documents in response to the Notice, including copies of Documents 20 to 24 without redactions. The Nuix discovery database used by Baker McKenzie in the proceeding records that Documents 20 to 24 were all coded at the time as privilege “no” by a junior associate at Baker McKenzie who is no longer employed by the firm.\n\n[48] Approximately 75,000 documents were reviewed in order to respond to the Notice. In responding to the Notice, Baker McKenzie expressly noted on behalf of Mastercard that in light of the time constraints, while it had sought to identify privileged documents and exclude those from production, Mastercard expressly did not waive privilege in any document which had been inadvertently produced.\n\n[49] The ACCC contends that if the Court was otherwise satisfied that the production of unredacted copies of Documents 20 to 24 disclosing privileged material in response to the Notice was inadvertent, that privilege was waived by Mastercard’s conduct in making the voluntary submission to the ACCC on 6 March 2020. Mastercard specifically cited Document 24 in support of the following proposition advanced in paragraph 43 of the voluntary submission:\n\n> There is no evidence that suggests that Mastercard uses credit strategic merchant rates as a ‘carrot’ to secure debit transaction volumes. In fact, Mastercard is aware of the potential risks associated with bundling and there are examples of documents which demonstrate a preference to avoid it.\n\n[50] Document 24 was referred to in the footnote to paragraph 43 of the submission by reference to its document ID. A copy of the document was not provided to the ACCC with the submission. The only copy of Document 24 that had been provided to the ACCC at that time by Mastercard was the unredacted copy provided in response to the Notice.\n\n[51] The voluntary submission was expressly provided to the ACCC on a confidential and without prejudice basis. The ACCC acknowledged receipt of the voluntary submission and did not challenge the confidential and without prejudice nature of the communication until May 2025. While Mastercard no longer asserts a claim for without prejudice privilege, it continues to maintain that the document was provided on a confidential basis for a specific and limited purpose.\n\n[52] Mastercard submits that the information in Document 24 relied upon in the submission is not the subject of a privilege claim by Mastercard. Paragraph 43 of the voluntary submission asserted that Mastercard was “aware of the potential risks associated with bundling and there are examples of documents which demonstrate a preference to avoid it”. The reference to “bundling” referred to the conduct the subject of the proceedings, namely the bundling of credit and debit transactions.\n\n[53] Mastercard submits that the unredacted portion of the Email Chain referred to in the footnote to the voluntary submission, over which no claim for privilege is made, reveals that the named SMA distinguished between debit and credit transactions, that is, it did not bundle those transactions.\n\n[54] In late 2021, Mastercard produced approximately 22 further copies of the Email Chain, together with Documents 25 and 43, in response to a further s 155(1)(a) and (b) notice dated 17 September 2021 (Second Notice). The Second Notice was subsequently varied on 15 October 2021. The portions of the Email Chain included in the documents produced in response to the Second Notice, the subject of the present privilege claims, were redacted.\n\n[55] On 20 March 2023, ACCC provided an initial tender bundle list to Mastercard. The initial tender bundle list included Documents 19, 20, 21 and 25. At that time the ACCC submits, and Mastercard does not dispute, that the ACCC only had unredacted copies of those documents.\n\n[56] In late 2023, the ACCC made an application for discovery in which Document 19 was referred to and exhibited in an unredacted form to an affidavit of Mr Love and then in December 2023 during the hearing of the discovery application, senior counsel for the ACCC read in open court an extract from the Email Chain included in Document 19, without any objection or claim for privilege from Mastercard.\n\n[57] On 5 July 2024, after conducting a review and further checks on the documents produced in the context of this proceeding and the ACCC’s investigation, Mastercard notified the ACCC of privilege claims in respect of documents that it claimed had been inadvertently produced in 2020, without redactions, as a result of what was stated to be human error.\n\n[58] There is much force in the ACCC’s submissions on implied waiver. Ultimately, however, I am satisfied that the alleged waivers of privilege by Mastercard were inadvertent and have not otherwise been waived for the following reasons.\n\n[59] First, the review of a large number of documents within a tight timeframe that might fall within the terms of a compulsory notice to produce documents and then the review of documents that are caught for privilege, has a pronounced, but unfortunate, tendency to lead to the inadvertent disclosure of privileged documents.\n\n[60] In Expense Reduction Analysts Group Pty Ltd v Armstrong Strategic Management and Marketing Pty Ltd (2013) 250 CLR 303; [2013] HCA 46 at [52], the High Court had regard to claims for inadvertent disclosure of privileged material in light of the overriding purpose of the Civil Procedure Act 2005 (NSW) under s 56(1) to “facilitate the just, quick and cheap resolution of the real issues in the dispute or proceedings”, which mirrors the overarching purpose set out in s 37M of the Federal Court of Australia Act 1976 (Cth). Relevantly, the process of discovery in Expense Reduction Analysts involved approximately 60,000 documents and the task of reviewing documents for privilege was undertaken by persons who were not very experienced in discovery processes. The High Court noted at [45] and [48] that in large commercial cases, mistakes are more likely to occur and where a privileged document is inadvertently disclosed, the court should ordinarily permit the correction of that mistake.\n\n[61] The High Court ultimately concluded that, in circumstances where there was a genuine mistake in the production of documents, no conduct of the disclosing party weighed against the grant of relief, no delay of significance was present in notifying the parties of the mistake and no prejudice to the parties, that the relevant documents were required to be returned: Expense Reduction Analysts at [61].\n\n[62] In this case, Mastercard was required to review over 100,000 documents and then review some 7,437 documents for privilege in a period of less than two months over a period that included the Christmas/New Year break. This was not a case in which the inadvertence arose because a document had not been reviewed for privilege. An erroneous failure to identify a document as privileged, however, is not necessarily determinative, irrespective of the seniority of the lawyer conducting the review. Rather, inadvertence is more importantly to be assessed by reference to the quantity of documents to be reviewed, the time permitted to produce the documents and the procedures implemented in order to comply with the request for production. The interests of justice dictate that there be timely responses to requests for the production of documents, in particular to regulators given their statutory functions, but at the same time the interests of justice demand that the legitimate rights of the parties responding to notices are preserved, where reasonably possible, including the maintenance of claims for privilege.\n\n[63] Second, there was a significant delay in Mastercard notifying the ACCC of the inadvertent disclosure of privileged material in the Documents. The delay, however, was between disclosure in 2020 and notification in 2024. It was not between Mastercard becoming aware of the inadvertent disclosure and notification to the ACCC. As explained above at [57], Mastercard notified the ACCC in July 2024 of the inadvertent disclosure after conducting a review and checks of documents that it had provided to the ACCC during the course of the investigation and proceedings. The delay was unfortunate and material but explicable, given the large quantity of material produced and Mastercard’s failure to reconsider and review documents for potential privilege claims, presumably because of assumptions that the exercise undertaken at the time the documents were produced to identify potential claims for privilege had been effective to identify privileged information.\n\n[64] Further, the failure to appreciate that Document 19, which had been included in a list of some 3,050 documents in the initial tender bundle list and referred to in Annexure A to the discovery application, had previously been produced in an unredacted form, is a regrettable but explicable oversight or omission. Equally, the failure to make a claim for privilege when senior counsel for the ACCC read three lines in open court from the Email Chain that had been included in Document 19 is explicable, given the relatively anodyne nature of the extract that was read. Each of these failures or omissions can fairly be characterised as inadvertent, rather than deliberate, explicit or implied, disclosures of privileged material.\n\n[65] Third, having now reviewed Document 24, I am satisfied that the redacted portion of that document does not relate, or otherwise provide any relevant context, to the unredacted portions of the document that Mastercard contends demonstrated a preference by the named entity to distinguish between debit and credit transactions.\n\n[66] An implied waiver of privilege occurs where there is an inconsistency between the client’s conduct and the maintenance of the confidentiality which the privilege is intended to protect: Mann v Carnell (1999) 201 CLR 1; [1999] HCA 66 at [29] (Gleeson CJ, Gaudron, Gummow and Callinan JJ).\n\n[67] There is no inconsistency between Mastercard’s reliance on the information in unredacted portions of Document 24 in support of the proposition it was advancing in paragraph 43 of the voluntary submission and its maintenance of a claim for privilege over the email chain that had been included in the document.\n\n### D. Costs\n\n[68] At the conclusion of the hearing, I raised with the parties the question of what costs orders would be appropriate in various ultimate resolutions of the disputed claims for privilege and provided the parties with an opportunity to make brief submissions. Applying a broadbrush, I indicated that approximately 35% of the parties’ costs were attributable to the evidence and arguments in relation to the waiver issue. One of the outcomes that I raised was if Mastercard were successful in maintaining all of its claims for privilege. I indicated in that outcome I would propose to make an order for costs that took into account that Mastercard had withdrawn some of its claims for privilege after the service of the ACCC’s evidence and given Mastercard’s oversights had given rise to the waiver issue that the ACCC should not be required to pay Mastercard’s costs of that issue. Neither the ACCC nor Mastercard sought to be heard against that proposal.\n\n[69] Costs generally follow the event, but in this case, I am satisfied that an order that the ACCC only pay 50% of the costs of Mastercard is appropriate and in the interests of justice because (a) Mastercard had inadvertently disclosed privileged material to the ACCC giving rise to the implied waivers of privilege, (b) there had been a significant delay in Mastercard, albeit inadvertent, notifying the ACCC of the inadvertent waivers of privilege, and (c) the narrowing of the claims for privilege after service of the interlocutory application by the withdrawal of claims for privilege over seven of the 43 Documents listed in Annexure A and the revision of part privilege claims in Documents 12, 24 and 25.\n\n### E. Disposition\n\n[70] Paragraph 1 of the interlocutory application is to be dismissed and the ACCC is to pay 50% of Mastercard’s costs as taxed or agreed.\n\nI certify that the preceding seventy (70) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Halley.\n\nAssociate:\n\nDated: 22 August 2025\n",
+ "source_sha256": "52359dce203a93e9bd7cdd1fa28111e320a661b20d02cd409a00172028995543"
+}

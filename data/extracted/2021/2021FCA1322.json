@@ -1,0 +1,1094 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA1322.docx",
+ "metadata": {
+  "citation": "[2021] FCA 1322",
+  "name": "Dialogue Consulting Pty Ltd v Instagram, Inc (No 2)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 1322,
+  "date_of_judgment": "2021-10-27",
+  "file_numbers": [
+   "VID369/2019"
+  ],
+  "judges": [
+   "BEACH J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_dates": [
+   "2021-10-22",
+   "2021-10-25"
+  ],
+  "hearing_raw": "22 and 25 October 2021",
+  "number_of_paragraphs": 114,
+  "catchwords": [
+   "CORPORATIONS – services provided on social media platforms – variation of injunction – conflicting terms of international instruments – US federal injunction – Federal Trade Commission (US) administrative order – whether conflicting obligations on Facebook entities – protection of user data including log-in details – change in material circumstances – balance of convenience – likelihood of FTC enforcement action – maintenance of status quo – prejudice caused by any variation – functionality of competing Instagram applications – broader discretionary considerations – variation sought refused"
+  ],
+  "cases_cited": [
+   "Re Walden Cloud Group Pty Ltd (atf Walden Cloud Group Trust) (admins apptd) (2021) 149 ACSR 637"
+  ],
+  "parties": [
+   {
+    "name": "DIALOGUE CONSULTING PTY LTD (ACN 153 007 259)",
+    "role": "Applicant"
+   },
+   {
+    "name": "INSTAGRAM, INC.",
+    "role": "First Respondent"
+   },
+   {
+    "name": "FACEBOOK, INC.",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FACEBOOK IRELAND LIMITED (and another named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Dr O Bigos QC with Mr Z De Kievit"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Phi Finney McDonald"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr A Bannon SC with Mr C Bannan and Ms N Oreb"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Corrs Chambers Westgarth"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1322",
+  "portal_file_numbers": [
+   "VID369/2019"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-10-27"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 369 of 2019"
+  },
+  {
+   "label": "Judgment of",
+   "value": "BEACH J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "27 October 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CORPORATIONS – services provided on social media platforms – variation of injunction – conflicting terms of international instruments – US federal injunction – Federal Trade Commission (US) administrative order – whether conflicting obligations on Facebook entities – protection of user data including log-in details – change in material circumstances – balance of convenience – likelihood of FTC enforcement action – maintenance of status quo – prejudice caused by any variation – functionality of competing Instagram applications – broader discretionary considerations – variation sought refused"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Re Walden Cloud Group Pty Ltd (atf Walden Cloud Group Trust) (admins apptd) (2021) 149 ACSR 637"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "114"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "22 and 25 October 2021"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Dr O Bigos QC with Mr Z De Kievit"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Phi Finney McDonald"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr A Bannon SC with Mr C Bannan and Ms N Oreb"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Corrs Chambers Westgarth"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID369/2019",
+   "parties": [
+    {
+     "name": "DIALOGUE CONSULTING PTY LTD (ACN 153 007 259)",
+     "role": "Applicant"
+    },
+    {
+     "name": "INSTAGRAM, INC.",
+     "role": "First Respondent"
+    },
+    {
+     "name": "FACEBOOK, INC.",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FACEBOOK IRELAND LIMITED (and another named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "BEACH J"
+   ],
+   "date": "2021-10-27",
+   "date_raw": "27 OCTOBER 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The respondents’ interlocutory application seeking a variation of the injunction made on 17 May 2019 be refused.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondents pay the applicant’s costs of and incidental to their application.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "Dialogue Consulting Pty Ltd provides services to business customers utilising Facebook and Instagram digital media platforms through an “app” called Sked Social. For that purpose, and by the consent of those customers, Dialogue obtains and uses their individual login credentials. Sked Social has the functionality of facilitating Dialogue’s customers to schedule posts automatically to digital platforms including those operated by the respondents, in particular Instagram.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The respondents contend that Dialogue’s use of such login credentials breaches the applicable terms of their platform(s). Utilising a self-help remedy, the respondents have attempted to cut-off Dialogue’s access to their platforms on the asserted basis that there have been violations of their terms and conditions. Contrastingly, Dialogue says that its customers authorise it to use their login details as their agent.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "On 11 April 2019, Dialogue commenced the present proceeding against the respondents alleging that their conduct was anti-competitive, unconscionable and misleading. Dialogue sought injunctive and other relief to prevent the deactivation of Dialogue’s accounts.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "On 15 April 2019, I granted an interim injunction restraining the respondents from taking any steps to terminate or suspend the access of Dialogue, through Sked Social or otherwise, to the relevant digital platforms until 17 May 2019 or further order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "On 17 May 2019 and by consent I extended that injunction, which injunction was in the following terms:\n1. Upon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, the Respondents, whether by themselves, their officers, servants or agents, be restrained, until further order, from:\n(a) taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise), to the Instagram and Facebook websites, services, platforms or networks;\n(b) refusing to permit the Applicant, whether by itself, its officers, servants or agents access (through its product, SKED Social or otherwise), to the Instagram and Facebook websites, services, platforms or networks.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The respondents now seek to vary that injunction on the basis of two material changes in circumstances.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "First, it is pointed out that on 23 April 2020 a permanent injunction was made against Facebook Inc. by the United States District Court for the District of Columbia in United States v. Facebook, Inc., Case No. 1:19-cv-02184, requiring it to comply with the United States Federal Trade Commission’s administrative order made against Facebook. The FTC order was sealed and issued by the FTC on 27 April 2020.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "It is said that to comply with the US permanent injunction and the FTC order, Facebook has implemented a privacy program that includes internal safeguards. Facebook’s privacy program includes what has been described in the evidence as the Data Use Checkup (DUC), which it is said requires entities such as Dialogue to complete an annual self-certification.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "It is said that if Dialogue fails to complete this self-certification, Facebook’s DUC process calls for it to progressively switch off Dialogue’s access to various application programming interface (API) permissions, which enable Dialogue to access data from Facebook to offer its service through Sked Social. Ultimately it is said that in the event that Dialogue fails to provide a compliant self-certification, Facebook must terminate Dialogue’s access to all “Covered Information” as defined in the FTC order on 23 November 2021. It is said that this is all part of the safeguards that Facebook has implemented to meet its obligations under both the FTC order and the US permanent injunction.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Second, it is pointed out that on 26 January 2021 there was a public launch of the Instagram Content Publishing API to all third-party app developers, including Dialogue.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The respondents say that these material changes in circumstances and their consequences have altered the balance of convenience and justify a variation to my earlier injunction in what is said to be the interests of justice as they would have it.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The variation sought is as follows:\nUpon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, until further order of the Court, the Court orders that:\na. the Second Respondent:\ni. is restrained from taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise):\n1. to its own accounts and pages on Instagram and Facebook identified in Annexure A to these orders (“Applicant’s Accounts”); or\n2. to the Instagram Graph API or the Facebook Graph API (as both are amended from time to time);\nii. is restrained from refusing to permit the Applicant, whether by itself, its officers, servants or agents, access (through its product, SKED Social or otherwise):\n1. to the Applicant’s Accounts; or\n2. to the Instagram Graph API or the Facebook Graph API;\nb. provided that the Applicant:\ni. does not access the Instagram and Facebook websites, services, platforms or networks (“Instagram” and “Facebook”, respectively) using the login credentials or login information (including usernames and passwords) of any third party, whether as agent or otherwise;\nii. does not solicit, collect, use, store, or cache the login credentials or login information (including the usernames and passwords) of any third party user of Instagram or Facebook, whether as agent or otherwise;\niii. provides to the Second Respondent a fully completed application to use the Instagram Content Publishing API;\niv. if the application in 2(b)(iii) is approved, operates on the Instagram platform using the Facebook Graph API and Instagram Graph API, including the Instagram Content Publishing API; and\nv. upon completion of 2(b)(i)-(iii) and for the duration of 2(b)(iv), self-certifies, and by no later than 24 October of each year thereafter continues to self-certify: (i) its compliance with each of the Instagram and Facebook Platform Terms; and (ii) the purpose(s) or use(s) for each type of Covered Information to which it requests or continues to have access, and that each specified purpose or use complies with the Instagram and Facebook Platform Terms, within the meaning of and in accordance with Part VII.E.1 of the United States Federal Trade Commission’s (FTC) Administrative Order Modifying Prior Decision and Order, as published on the FTC’s website on 28 April 2020 and issued pursuant to the permanent injunction entered by the United States District Court for the District of Columbia on 23 April 2020 in United States v. Facebook, Inc., Case No. 1:19-cv-02184.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "The respondents say that the effect of the variation, if granted, is that Dialogue would no longer be able to collect and use the login credentials of Instagram users under the regime created by my injunction, which the respondents assert exempts Dialogue from complying with the respondents’ so called standard user privacy and security processes. Further, it is said that Dialogue is already able to apply to use the Instagram Content Publishing API, which is the API available and used by other third-party app developers, to provide services to schedule and publish content to Instagram, in order to carry on its scheduling business for Dialogue’s business customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "More generally the respondents say that Facebook requires all third-party app developers that provide publishing services for Instagram, including publishing posts which are scheduled, to do so using the Instagram Content Publishing API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Now the respondents were forced to acknowledge that there are differences between carrying on an Instagram scheduling business using the Instagram Content Publishing API, as compared to Dialogue’s current practice of collecting and using the login credentials of Instagram users. But it is said that the impact of the differences is not significant. Further, they say that even if Dialogue were to suffer any loss by reason of different functionality, it could be compensated for by an order for damages in the event that it is successful in the main proceeding.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "Now Dialogue says that it currently enjoys a competitive advantage pursuant to my earlier order and contends that it should continue to enjoy that privileged status. But the respondents say that it was one thing for Dialogue to enjoy any such status on 17 May 2019, when my injunction was made, but it is another thing to say that this state of affairs should continue in circumstances where the Instagram Content Publishing API is now available to Dialogue.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Further, the respondents say that if Facebook does not terminate Dialogue’s access to all Covered Information as referred to in the FTC order on 23 November 2021 for failing to complete the DUC, then there is a risk that the respondents will violate the US permanent injunction and the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The respondents say that in light of the potential consequences that would follow if the respondents were found to be in breach of my order, alternatively if Facebook was found to be in breach of the US permanent injunction and the FTC order in the event that Facebook does not adhere to its safeguards, I should vary my injunction in the manner sought by the respondents.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "Now predictably, Dialogue opposes the variation.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Dialogue says that the respondents now seek to disturb the status quo by which the parties have been operating for the past two and a half years. In that respect it says that both my interim injunction and the interlocutory injunction which replaced it have protected Dialogue from any unlawful termination or suspension of access to the respondents’ platforms, enabling it to continue to provide services to its customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "Further, it says that the US permanent injunction that requires Facebook to comply with the FTC order has been in place for about 18 months, and there is no real imminent threat to the respondents if my injunction remains without variation.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "Generally it says that it will suffer significant prejudice if the injunction is varied and that the balance of convenience does not favour the variation.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Further, although the respondents say that Dialogue and its product Sked Social have violated their terms, Dialogue says, which I accept, that it has established a prima facie case that it does not breach the respondents’ terms. I should also say that Dialogue still continues to meet the prima facie limb justifying the continuance of my present injunction in an unvaried form. It is convenient to note at this point that the following matters have been established on a prima facie basis.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "First, each customer of Dialogue provides its Instagram login details to Dialogue on a confidential basis, and expressly authorises Dialogue to use them. Dialogue is authorised by the customer to act as its agent in interactions with Instagram, including to access the business customer’s Instagram account by using the business customer’s login details.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "Second, all of Dialogue’s customers are businesses that engage Dialogue in order to promote their businesses. Dialogue’s service is not for personal use. Further, when Dialogue interacts with Instagram or Facebook on behalf of a customer, it does so with the customer’s express permission. Dialogue’s product, Sked Social, utilises the customer’s Instagram account login details to manage the planning and publishing of the customer’s marketing content on Instagram on behalf of the customer.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "Third, Dialogue does not obtain Instagram business account login details from the respondents. Rather, Dialogue obtains the login details from the customer, with the customer’s authority, independently of the respondents. Further, any information which Dialogue accesses or collects is content which belongs to the particular business customer that has engaged Dialogue to provide the Sked Social service. And any action that Dialogue takes in relation to information is done with the customer’s authority. Further, Dialogue stores customers’ login credentials in a database in an encrypted format.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "I have made these brief points to demonstrate, contrary to the respondents’ floated suggestion, that the variation sought has little to do with protecting the confidential information and data of Dialogue’s business customers. That is already adequately protected by Dialogue’s own procedures.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "In summary, I would reject the respondents’ application for a variation of my injunction. Their purported justification for the variation is flimsy and possibly strategic.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "Before I turn to the principal questions in issue between the parties, I should say something about the applicable principles.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "The relevant principles concerning injunction applications are well-established and I incorporate by reference my discussion in Re Walden Cloud Group Pty Ltd (atf Walden Cloud Group Trust) (admins apptd) (2021) 149 ACSR 637 at [81] to [83].",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "Now it is not in doubt that I can vary an interlocutory order if new facts come into existence or are discovered which render its enforcement unjust. But there must be a material change of circumstances or the discovery of new material which could not reasonably have been put before the court at the earlier time.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "But relevantly to the present context I am entitled to adopt a more permissive approach to varying my injunction as it was made by consent.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "More generally, it is not in doubt that I have a discretion to review my interlocutory order if there is justice in so doing. The guiding theme is surely that I should do whatever the interests of justice require in the particular circumstances of the case.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "Let me now turn to the respondents’ case seeking to justify the variation. I should begin with considering whether there has been a material change in circumstances.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "The respondents say that there have been two material changes in circumstances.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "First, it is said that the US permanent injunction, the FTC order and Facebook’s implementation of privacy safeguards to comply with the US permanent injunction and the FTC order all constitute a material change in circumstances.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "As I have already indicated, Facebook’s privacy program implemented under the FTC order includes the DUC, which is an annual requirement whereby the operators of certain apps including those that obtain or otherwise have access to Covered Information from Facebook for use in an independent, third-party consumer application or website must certify that their API access and data usage are in compliance with the Facebook platform terms and developer policies.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "The FTC order’s definition of Covered Information includes but is not limited to any identifying information concerning a Facebook or Instagram user including name, address, contact details and any other non-public user information.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "It is said that Dialogue is a “Covered Third Party” under the FTC order because it uses and receives Covered Information obtained by Facebook including online contact information and non-public user information through various permissions and features that its app, Sked Social, has on the Facebook platform.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Further, the respondents point out that the Facebook platform terms provide that: “You must not solicit, collect, store, cache, proxy, or use Facebook or Instagram login credentials of other Users”. It is said that this is a “Platform Term” as defined in the FTC order because it is one of Facebook’s written terms, policies and procedures relating to the privacy, confidentiality, or integrity of Covered Information that apply to Covered Third Parties.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "More generally, it is pointed out that Facebook’s current privacy program year is from 25 October 2020 to 24 October 2021. Facebook was required to establish and implement and thereafter maintain a comprehensive privacy program under section VII of the FTC order within 180 days of the effective date of the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "As I have indicated, the DUC protocol entails an annual self-certification by certain Covered Third Parties. For those Covered Third Parties whose apps were live on the date Facebook’s privacy program became operational, being 25 October 2020, the DUC must be completed within a year, i.e., by 24 October 2021. To date, Dialogue has not completed the DUC.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "It is said that as prerequisites to completing the DUC, all third-party app developers must not access the Facebook platform using the login credentials of any third party, whether as agent or otherwise, and not solicit, collect, use, store, or cache the login credentials of any third party user of the Facebook platform, whether as agent or otherwise.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Further, it is said that the collection of login credentials creates real risks for the security of the Facebook platform and to users’ security and privacy and that Facebook cannot guarantee how that information will be treated and safeguarded.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Putting to one side my injunction or its variation for the moment, it is said that if Dialogue does not complete the DUC, Facebook’s DUC process calls for it to progressively switch off Dialogue’s access to API permissions over the following thirty days, unless Dialogue cures its failure to complete a compliant self-certification.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "In the present context it is said that the terms of my earlier injunction, absent variation, are inconsistent with the DUC process that Facebook has implemented to protect user data, privacy and security, and to comply with the US permanent injunction and the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "In summary, it is said that the US permanent injunction, the FTC order, and Facebook’s privacy safeguards and privacy program including the DUC process implemented to comply with the US permanent injunction and the FTC order constitute a material change in circumstance.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Now I agree that this all constitutes a material change in circumstances, but in my view not such as to warrant the variation sought.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Second, it is said that the launch of the Instagram Content Publishing API is a material change in circumstance. Again I agree, but again it is not such as would warrant the variation sought. Let me elaborate on this subject matter.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "On 26 January 2021, Facebook announced the launch of the Instagram Content Publishing API to all third-party app developers. The Instagram Content Publishing API allows Instagram business accounts to schedule and publish posts to their Instagram feeds through third-party apps, and for third-party app developers to integrate scheduling services with the Facebook platform in a way that is compliant with Facebook’s platform terms and developer policies. All third-party app developers who wish to use the Instagram Content Publishing API must apply to do so through the app review process.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "The respondents say that if Dialogue used the Instagram Content Publishing API it would enable Dialogue to carry on its business on the Facebook platform, and to do so in a way that is more protective of users’ privacy and in accordance with the Facebook platform terms and developer policies, as compared with Dialogue’s current practice of storing and using login credentials of its customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "Now Dialogue has not applied to use the Instagram Content Publishing API. But the respondents say that to mitigate the privacy risks for Instagram users, the respondents seek to vary the injunction to require Dialogue to apply for and carry on its Instagram scheduling business using the Instagram Content Publishing API, rather than through Sked Social.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Material change in circumstances"
+    ],
+    "text": "In summary, I am prepared to accept that the respondents have established a material change in circumstances. But I am not satisfied that it is in the interests of justice that there should be any variation to my injunction. Let me turn to that topic now.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Now the respondents say that it is in the interests of justice to vary the injunction as the orders sought by the respondents strike a better balance between the competing interests of the parties and third parties than my injunction in its present form. Essentially they have advanced six reasons.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "First, it is said that the variation would remove the bespoke regime created by my injunction, which it is asserted exempts Dialogue from complying with standard user privacy and security processes that apply to all relevant developers, including the DUC process implemented by Facebook to comply with the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Second, it is said that the variation would enable Dialogue to continue to carry on its business on the Instagram platform using the Instagram Content Publishing API, consistently with Dialogue’s current business on the Facebook platform using the Facebook API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Third, it is said that the variation would enable Dialogue to operate on the Instagram platform in a way that is more protective of users’ privacy and security, and in accordance with the Facebook platform terms and developer policies, compared to Dialogue’s current practice.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Fourth, it is said that the effect of the variation is consistent with what Dialogue has claimed to want to do since at least March 2019, which is to apply to use the Instagram Content Publishing API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Fifth, it is said that the variation would mitigate the real consequences of Facebook being found to be in violation of my injunction, the US permanent injunction or the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "Sixth, it is said that the effect of the variation would be such as to place Dialogue on a level playing field with other third party app developers and operators.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Interests of justice"
+    ],
+    "text": "I would reject the respondents’ case. The interests of justice rather support maintaining the status quo as between Dialogue and its customers on the one hand and the respondents on the other hand.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "In my view the respondents have overstated the risk of prejudice to the respondents if my injunction remains unvaried.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "First, my injunction has already been in place for nearly two and a half years. The US permanent injunction that requires Facebook to comply with the FTC order, which the respondents rely on as the basis for seeking a variation to the injunction, has been in place for about 18 months. There is no real imminent threat to the respondents if my injunction remains in place without variation.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Second, the FTC order seems more concerned with consumers and consumer protection, rather than with entities such as Dialogue’s business customers. The FTC’s underlying action seems to have been taken through its Bureau of Consumer Protection. Further, the FTC order modified a 2012 order, both of which were designed to principally address privacy concerns of 210 million US consumers with social media accounts substantially affected and prejudiced by Facebook’s unlawful conduct including the flouting of consumers’ rights of privacy. Moreover, even some of the applicable legislative provisions which the FTC enforces make a distinction between consumers and small businesses, and between consumers and partnerships, corporations etc. Indeed, the prefatory words of the definition of Covered Information in the FTC order say that the expression means “information from or about an individual consumer including…”. Further, in section VII, paragraph E, sub-paragraph 1, the prefatory words refer to a “third party consumer application”. In other words, it is strongly arguable that the FTC order is not focused on Dialogue’s business customers or non-consumer information. Indeed, Dialogue’s product, Sked Social, is not a consumer application.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Third, the respondents have not demonstrated that the log-in details which are supplied by customers to Dialogue constitute Covered Information for the purpose of the FTC order. Now the respondents assert that Dialogue uses and receives through the Facebook and Instagram platforms Covered Information including online contact information and non-public user information, obtained by Facebook. But there is no strong evidence of “online contact information” or “non-public user information” being used or received by Sked Social through the platforms. In any event, neither of those expressions appears to cover passwords, which are not referred to in the definition of Covered Information but are dealt with in another part of the FTC order (section V).",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Further, the respondents have not demonstrated that Dialogue is a Covered Third Party which is also defined in the FTC order. There is little evidence that Dialogue uses or receives Covered Information obtained by or on behalf of Facebook. The evidence is that Dialogue receives log-in details from its customers. As I have said, the passwords or login details given by Dialogue’s customers to Dialogue is not Covered Information as section V deals with this separately. It also follows that Dialogue is not a Covered Third Party in that respect.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Now the respondents have separately argued that there is other information obtained or accessed by Dialogue that would be Covered Information and in respect of which it would be a Covered Third Party (see [65] of the affidavit of the respondents’ solicitor affirmed on 22 September 2021). Dialogue disputes this. I am not able to resolve this on the present application. I accept for present purposes that the respondents’ position is reasonably arguable but there is little evidence on this.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Fourth, the safeguards which the respondents have developed are to address the risk of “the unauthorized access, collection, use, destruction, or disclosure” of Covered Information (section VII of the FTC order). But Dialogue does not access, collect, use, destroy or disclose information of or about customers without the authorisation of the customers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Fifth, the respondents submit that there are real risks for the security of their platform(s) and to users’ security and privacy, including that Facebook cannot guarantee how that information will be treated and safeguarded. But the only evidentiary basis for these assertions is hearsay evidence via an engineer in the Platform Application Management team at Facebook and a software engineer in the Instagram Developer Platform team at Facebook. But the evidence before me is that Dialogue does not share account login credentials with anyone, and does not collect login credentials in a way that creates real risks for the security of the platform(s) and to users’ security and privacy. Dialogue safeguards login credentials and does not reuse or enable anyone to reuse passwords across different services. On the evidence Dialogue takes all reasonable precautions to secure its customers’ content and data, including storing customers’ login credentials in a database in an encrypted format.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Sixth, the respondents have referred to the implementation of a privacy program that includes internal safeguards, including the DUC. But as to the mandated privacy program referred to in section VII of the FTC order, rather unsatisfactorily the respondents did not put into evidence the “Privacy Program” referred to in paragraph A. Moreover, in terms of the DUC, I was only provided with a summary. More generally, I was not blessed with any direct evidence from the respondents of any person with personal knowledge of the matters debated before me, let alone the risks that they asserted would eventuate if the variation was not made. All that I was given consisted of multiple affidavits with annexures of the Sydney solicitor for the respondents on information and belief. Of course, such evidence was admissible, but its weight was problematic. Given the seriousness of the issues debated before me I would have expected better. Perhaps this was all done so as to quarantine those with personal knowledge from the potential to be cross-examined. And at the least I would have expected direct evidence from the respondents’ US attorneys concerning the asserted risks of the FTC taking enforcement action against the respondents if my injunction was not varied.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Seventh, the respondents assert that there are mandatory requirements for Dialogue to complete the DUC and for Dialogue’s access to Covered Information to be terminated if it does not do so by 23 November 2021. But these are requirements of the respondents’ own making. There is no evidence that the respondents have tried to accommodate my injunction within those requirements. Indeed, according to the FTC order, the Privacy Program, of which the safeguards form part, may be evaluated and adjusted by the respondents at any time in light of “any other circumstances that [Facebook] knows or has reason to believe may have a material impact on the effectiveness of the Privacy Program” (section VII, paragraph J). There is no evidence that the respondents have considered adjusting their safeguards to cater for the continuation of my interlocutory injunction, pending the determination of the proceeding.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Eighth, the respondents’ asserted urgency is of their own making. Their Privacy Program apparently became operational 12 months ago, being on 25 October 2020. Further, they launched the Instagram Content Publishing API 9 months ago, on 26 January 2021. And as Dialogue points out, then they waited until 15 September 2021 before they commenced the present interlocutory application before me.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Ninth, I do not accept the likelihood of the potential consequences of Facebook being found to be in violation of the US permanent injunction or the FTC order if I do not grant the variation.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "As to whether the respondents are at risk of adverse action by the FTC including civil penalties in relation to the conduct of Dialogue’s collection and access of its business customers’ information, the FTC’s recent publications indicate, to the contrary, that the FTC has concerns that Facebook itself is using APIs to engage in anti-competitive conduct against rival app developers.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Further, there is some support in the evidence that the respondents have used the pretext of complying with the FTC order to pursue other agendas. Indeed this would seem to be known to the FTC.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "For example, on 3 August 2021 the respondents made a public statement saying:\nFor months, we’ve attempted to work with New York University to provide three of their researchers the precise access they’ve asked for in a privacy protected way. Today, we disabled the accounts, apps, Pages and platform access associated with NYU’s Ad Observatory Project and its operators after our repeated attempts to bring their research into compliance with our Terms. NYU’s Ad Observatory project studied political ads using unauthorized means to access and collect data from Facebook, in violation of our Terms of Service. We took these actions to stop unauthorized scraping and protect people’s privacy in line with our privacy program under the FTC Order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "On 5 August 2021, the FTC wrote to Facebook in the following terms:",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "In one sense this all indirectly supports the proposition, on the reverse side, that it is an unlikely prospect that the FTC would take action against the respondents if the variation was not made, if the FTC was informed of the correct position concerning Dialogue and my injunction.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "There is no evidence that the FTC, when apprised of the facts, will criticise the respondents for permitting Dialogue to operate its product as it is currently doing. Dialogue has offered to provide a certificate that it is in compliance with the Facebook platform terms and the developer policies based on its belief that it is in compliance. Further, there is no evidence that this assurance by Dialogue, with a qualification if necessary, would not be sufficient or acceptable from the perspective of the FTC. Now I should note here that the respondents say that such a certificate would present a misleading picture. But this is all a contestable question that I cannot resolve.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Further, the fact that Dialogue takes steps to protect its customers’ information is relevant to the degree of risk that the FTC will take adverse action against the respondents. One would expect that Dialogue’s security processes and the absence of evidence of security breaches or complaints are factors which would militate against any adverse action by the FTC.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Now at this point it is convenient to say that I appreciate that it is desirable that any inconsistency between my injunction on the one hand, and the US permanent injunction and FTC order on the other hand, be removed or ameliorated. But this is not a paramount consideration in the present case, albeit that it is a matter to take into account.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "First, my injunction was first in time.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Second, no doubt the respondents agreed to the US permanent injunction and the FTC order well knowing of my existing injunction. At the time of so agreeing, they either perceived that there was no inconsistency or considered that if there was any inconsistency that compliance with my injunction would provide them with a good defence against any enforcement action concerning the US permanent injunction or the FTC order.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Third, the respondents have substantially delayed in addressing this inconsistency if there be one. The fact that the relevant self-certification question has only recently arisen provides no excuse for not dealing with any underlying inconsistency questions earlier; after all, the US permanent injunction and FTC order were made in April 2020.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "Fourth, even if it be the case that continuing compliance by the respondents with the regime established by my injunction could somehow be said to be inconsistent with the US permanent injunction and the FTC order, in my view and as I have indicated there would be an unlikely if not remote prospect of the FTC taking enforcement action, particularly if the respondents explained to the FTC the fact of my injunction, its context, the broader dispute between the parties before me and the steps that Dialogue has taken and continues to take to preserve its business customers’ confidential information including log in details.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Interests of justice",
+     "Little risk to the respondents absent the variation"
+    ],
+    "text": "In summary, I do not accept that there are any real and significant risks to the respondents or third parties if I do not vary my injunction. Further, as to the desire of the respondents to put Dialogue on a level playing field with other third party app developers and operators, that is a subsidiary if not collateral question that cannot carry the day.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "In my view there are real risks to Dialogue if I was to vary the injunction.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Clearly, the Instagram Content Publishing API would limit the functionality of Dialogue’s product Sked Social.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Further, the respondents have not identified any provision of the Facebook platform terms or the developer policies which compels Dialogue to use the Instagram Content Publishing API. Indeed the inclusion of any such term may be contrary to s 45 of the Competition and Consumer Act 2010 (Cth). Further, the respondents, which offer a competing product, Facebook Creator Studio, seek to force Dialogue to use the Instagram Content Publishing API, which may give the respondents a competitive advantage. By doing so, the respondents may be engaging in conduct that has or is likely to have the effect of substantially lessening competition in the relevant market(s), in contravention of s 46 of that Act.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Now it may be accepted that Dialogue had previously commenced an application for access to the Instagram Content Publishing API. But since then it has come to appreciate the limitations of the Instagram Content Publishing API. Further, the competitive landscape has changed significantly in the market for the provision of online social media services. Further, although Dialogue has been using the Facebook “Graph” API, its functionality is not as limited as the Instagram Content Publishing API. It is not an appropriate comparator.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "On the evidence, Dialogue provides the Sked Social service which gives it a competitive advantage which would be lost if Dialogue were forced to use the Instagram Content Publishing API. The Instagram Content Publishing API has restricted functionality compared with more sophisticated products such as Sked Social. Further, on the evidence, Facebook Creator Studio was released in August 2019 and has since evolved into a product with functionality substantially similar to Sked Social.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Now as I have said, the functionality of the Instagram Content Publishing API is inferior. If Dialogue is forced to use the Instagram Content Publishing API, it would be unable to continue to provide the Sked Social service which in some respects is unique. Now although the Instagram Content Publishing API allows the scheduling and posting of single images (a single photo or other image) and single videos, it does not support “carousels”, being a type of post which is a multiple-image post that features up to 10 photos or videos or a combination that followers can swipe through, “stories”, a type of post which shows all of the content that the user has posted in the last 24 hours, played in chronological order from oldest to newest, or posts with product tags. But Sked Social enables this functionality.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Further, on the evidence it would seem that most customers choose Dialogue’s product Sked Social because of its unique functionality, particularly the depth of its functionality and features for Instagram business accounts. In that respect Sked Social has an advantage over other products that use the Instagram Content Publishing API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Further, although there are other third-party app developers that use the Instagram Content Publishing API, Dialogue is different as its product Sked Social focuses on scheduling specifically through Instagram. There is no evidence that other third-party app developers have the same focus.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Further, Mr Hugh Stephens, the director of Dialogue who gave affidavit evidence and who I permitted to be cross-examined, also anticipates that there would be customers who would end their Sked Social subscription even with a reduction in price, given that Creator Studio offers many of the features that Sked Social offers at no charge. Given that during August 2021 over 67% of Dialogue’s customers published at least one of the post types carousels, stories and product tags, if those post types were no longer available via Sked Social, then many of those customers may leave. Moreover, he expects that most of the customers that leave would move to Facebook Creator Studio, so the respondents would gain market share at the expense of Dialogue.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Now the respondents have made much of the point that Dialogue at one stage had indicated a willingness to find the functionality of the Instagram Content Publishing API to be acceptable. That may be true in one sense, although this was never a free-standing question so far as Dialogue was concerned. Moreover, the evidence indicates that Dialogue may not have fully appreciated that given the lesser functionality of that API as compared with Sked Social, and given that Facebook controls Creator Studio, then by just taking that API with no other significant commercial benefit being provided by the respondents, Dialogue may have been placed at a real competitive disadvantage by just taking that API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "There was also a specific challenge to Mr Stephens’ evidence concerning three specific levels of functionality that it was said was intrinsic to Sked Social but not to the Instagram Content Publishing API. Now what Mr Stephens said was factually correct, although some aspects could be dealt with by Facebook’s Creator Studio, but it would seem that in some respects he was over-stating his position. Nevertheless, at the present time I cannot definitively reject his evidence.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "I accept that in some respects Mr Stephens gave less than satisfactory oral evidence on some of these matters in supplementary evidence in chief and under cross-examination, which I permitted. The cross-examination also included some reference to some otherwise “without prejudice” material, which I permitted the respondents to tender and deploy by reason of s 131(2)(g) of the Evidence Act 1995 (Cth). Nevertheless in the present context, and given that I cannot finally decide these questions now, although I have doubts about some aspects of Mr Stephens’ evidence I cannot definitively reject it.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "Further, the respondents assert that Dialogue enjoys a privileged status to which it is not entitled. But I agree with Dialogue that this assumes that the respondents are correct in their argument that Dialogue is breaching their terms. But if Dialogue is not breaching their terms, then Dialogue is doing no more than merely operating its business lawfully; as I have said, Dialogue has made out a prima facie case on this aspect.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "Interests of justice",
+     "Risks to Dialogue if variation made"
+    ],
+    "text": "In summary I accept Dialogue’s case on the real risks to it if I was to vary my injunction in the manner sought.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "Interests of justice",
+     "An alternative proposal"
+    ],
+    "text": "At my suggestion, the parties put forward alternative proposals to deal with other suggested elements of prejudice to Dialogue if the variation was to be made.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "Interests of justice",
+     "An alternative proposal"
+    ],
+    "text": "The respondents’ modified order 2 was in the following form:\nUpon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, until further order of the Court, the Court orders that:\n(a) the Second Respondent:\n(i) is restrained from taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise):\n(A) to its own accounts and pages on Instagram and Facebook identified in Annexure A to these orders (“Applicant’s Accounts”); or\n(B) to the Instagram Graph API or the Facebook Graph API (as both are amended from time to time);\n(ii) is restrained from refusing to permit the Applicant, whether by itself, its officers, servants or agents, access (through its product, SKED Social or otherwise):\n(A) to the Applicant’s Accounts; or\n(B) to the Instagram Graph API or the Facebook Graph API;\n(iii) will make available to the Applicant a dedicated direct point of contact to provide relevant technical information, resources and support to the Applicant in taking steps to comply with order 2(b), until 11 March 2022; and\n(iv) on and from completion of 2(b)(vi), will assess in good faith any application by the Applicant to participate in the Facebook Business Partner Programme according to the criteria that apply to all other businesses in respect of one or more solutions available at that time;\n(b) provided that the Applicant:\n(i) commences taking steps to complete 2(b)(ii)-(vi) by 23 November 2021;\n(i)(ii) from 4 March 2022, does not access the Instagram and Facebook websites, services, platforms or networks (“Instagram” and “Facebook”, respectively) using the login credentials or login information (including usernames and passwords) of any third party, whether as agent or otherwise;\n(ii)(iii) from 4 March 2022, does not solicit, collect, use, store, or cache the login credentials or login information (including the usernames and passwords) of any third party user of Instagram or Facebook, whether as agent or otherwise;\n(iii)(iv) by 7 January 2022, provides to the Second Respondent a fully completed application to use the Instagram Content Publishing API;\n(iv)(v) if the application in 2(b)(iiiiv) is approved, operates on the Instagram platform using the Facebook Graph API and Instagram Graph API, including the Instagram Content Publishing API; and\n(v)(vi) upon completion of 2(b)(i)-(iiiii)-(iv) and for the duration of 2(b)(ivv), self-certifies, and by no later than 24 October of each year 11 March 2022, and within every 12 month period thereafter continues to self-certify: (i) its compliance with each of the Instagram and Facebook Platform Terms; and (ii) the purpose(s) or use(s) for each type of Covered Information to which it requests or continues to have access, and that each specified purpose or use complies with the Instagram and Facebook Platform Terms, within the meaning of and in accordance with Part VII.E.1 of the United States Federal Trade Commission’s (FTC) Administrative Order Modifying Prior Decision and Order, as published on the FTC’s website on 28 April 2020 (accessible at https://www.ftc.gov/system/files/documents/cases/c4365facebookmodifyingorder.pdf) and issued pursuant to the permanent injunction entered by the United States District Court for the District of Columbia on 23 April 2020 in United States v. Facebook, Inc., Case No. 1:19-cv-02184.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "Interests of justice",
+     "An alternative proposal"
+    ],
+    "text": "Dialogue put forward a modified proposal, but its primary position was that no variation should be made. I do not need to set it out as it is unacceptable to the respondents and in any event seeks to deal with matters that are broader than the more limited present context.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "Interests of justice",
+     "An alternative proposal"
+    ],
+    "text": "I do not need to linger on these alternative proposals. Suffice it to say that in my view the respondents’ further formulation does not deal in substance with much of the prejudice asserted by Dialogue if the variation was to be made. Accordingly, I do not propose to make the respondents’ variation order as originally proposed or as further varied.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "General"
+    ],
+    "text": "It is not in doubt that assessing the balance of convenience is a comparative exercise. In this case, the comparison is between the inconvenience, injury or injustice to Dialogue if the injunction were varied, and the inconvenience, injury or injustice to the respondents or third parties if the injunction were not varied. Further, the onus lies on the respondents to demonstrate that the status quo under my current injunction ought be disturbed.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "General"
+    ],
+    "text": "The respondents have failed to discharge that onus. Moreover, in terms of any competing prejudices the balance favours Dialogue.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "General"
+    ],
+    "text": "First, the respondents’ safeguards implemented pursuant to the FTC order do not tilt the balance of convenience in favour of the respondents, particularly when considering the likely harm to Dialogue’s business.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 108,
+    "headings": [
+     "General"
+    ],
+    "text": "Second, preserving my injunction without variation is also consistent with taking the course which appears to carry the lower risk of injustice. The risks to Dialogue of disturbing the status quo outweigh the risks to the respondents of preserving the status quo.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 109,
+    "headings": [
+     "General"
+    ],
+    "text": "Third, I accept that it is necessary to assess the balance of convenience in the context of considering the strength of the prima facie case; the stronger the prima facie case, the less strong the balance has to weigh in favour of Dialogue. Now in argument before me, the respondents accepted that Dialogue has shown a prima facie case to support the existence of the present injunction and its continuance. But they assert that its merits are weak. I do not so readily conclude. But even if the merits were weak, and even taking such a circumstance into account, that does not justify the variation. In terms of the competing cases, Dialogue has a much stronger case for showing prejudice if the variation was made than the respondents would suffer if the variation was not made.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 110,
+    "headings": [
+     "General"
+    ],
+    "text": "Fourth, in assessing the balance of convenience, the interests of and potential prejudice caused to third parties may need to be taken into account. But in this case there is evidence of the likely disruption that Dialogue’s customers would face if Dialogue were required to undertake a rapid migration to the Instagram Content Publishing API.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 111,
+    "headings": [
+     "General"
+    ],
+    "text": "Fifth, the respondents have asserted that if any prejudice is caused to Dialogue and Dialogue is ultimately successful, damages would be an adequate remedy. But I am not convinced of this assertion given the significant problems that would attend any quantification of damages. It may be difficult to prove any customers lost or the failure to obtain new customers and the value of any otherwise lost services causally linked to any wrong-doing of the respondents that I might ultimately find.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 112,
+    "headings": [
+     "General"
+    ],
+    "text": "Sixth, the respondents asserted that to leave my order in place would result in Dialogue being placed in a preferred position vis-à-vis its competitors. But even if this was the case, and I have taken the possibility into account, in determining the interests of justice as between Dialogue and the respondents such a point hardly justifies the variation, particularly given that the respondents had agreed to the US permanent injunction and the FTC order well after I had made the interlocutory injunction.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 113,
+    "headings": [
+     "General"
+    ],
+    "text": "It seems to me that overall it is preferable to preserve the status quo as between the parties before me, which has been in place for some time now, until trial. To preserve the status quo would warrant refusing the variation sought by the respondents. Now I appreciate that there have been delays in getting this matter to trial; indeed there will be further delays. But any delays, certainly in the last 12 months or more, cannot be attributed to Dialogue. It has been brought about by the perfectly legitimate right of the respondents to pursue their stay application based upon a relevant arbitration clause and, as is their right, to seek leave to appeal from my order refusing any stay, which challenge is to be dealt with in the Full Court sittings beginning shortly.",
+    "judge": "BEACH J"
+   },
+   {
+    "n": 114,
+    "headings": [
+     "General"
+    ],
+    "text": "In the interests of justice, including taking into account the competing prejudices, I am not satisfied that the variation should be made. Accordingly, the respondents’ interlocutory application will be dismissed with costs.",
+    "judge": "BEACH J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and fourteen (114) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Beach.",
+ "associate": null,
+ "dated": "2021-10-27",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "VID 369 of 2019\nRespondents\nFourth Respondent: | INSTAGRAM, LLC"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Dialogue Consulting Pty Ltd v Instagram, Inc (No 2) [2021] FCA 1322\n\n## Cover sheet\n\n**File number:** VID 369 of 2019\n\n**Judgment of:** BEACH J\n\n**Date of judgment:** 27 October 2021\n\n**Catchwords:** CORPORATIONS – services provided on social media platforms – variation of injunction – conflicting terms of international instruments – US federal injunction – Federal Trade Commission (US) administrative order – whether conflicting obligations on Facebook entities – protection of user data including log-in details – change in material circumstances – balance of convenience – likelihood of FTC enforcement action – maintenance of status quo – prejudice caused by any variation – functionality of competing Instagram applications – broader discretionary considerations – variation sought refused\n\n**Cases cited:** Re Walden Cloud Group Pty Ltd (atf Walden Cloud Group Trust) (admins apptd) (2021) 149 ACSR 637\n\n**Division:** General Division\n\n**Registry:** Victoria\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Regulator and Consumer Protection\n\n**Number of paragraphs:** 114\n\n**Date of hearing:** 22 and 25 October 2021\n\n**Counsel for the Applicant:** Dr O Bigos QC with Mr Z De Kievit\n\n**Solicitor for the Applicant:** Phi Finney McDonald\n\n**Counsel for the Respondents:** Mr A Bannon SC with Mr C Bannan and Ms N Oreb\n\n**Solicitor for the Respondents:** Corrs Chambers Westgarth\n\n## Judgment\n\n### ORDERS\n\n|  | VID 369 of 2019 |\n|---|---|\n| BETWEEN: | DIALOGUE CONSULTING PTY LTD (ACN 153 007 259)<br>Applicant |\n| AND: | INSTAGRAM, INC.<br>First Respondent<br>FACEBOOK, INC.<br>Second Respondent<br>FACEBOOK IRELAND LIMITED (and another named in the Schedule)<br>Third Respondent |\n\n| order made by: | BEACH J |\n|---|---|\n| DATE OF ORDER: | 27 OCTOBER 2021 |\n\n### THE COURT ORDERS THAT:\n\n1. The respondents’ interlocutory application seeking a variation of the injunction made on 17 May 2019 be refused.\n\n2. The respondents pay the applicant’s costs of and incidental to their application.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### BEACH J:\n\n[1] Dialogue Consulting Pty Ltd provides services to business customers utilising Facebook and Instagram digital media platforms through an “app” called Sked Social. For that purpose, and by the consent of those customers, Dialogue obtains and uses their individual login credentials. Sked Social has the functionality of facilitating Dialogue’s customers to schedule posts automatically to digital platforms including those operated by the respondents, in particular Instagram.\n\n[2] The respondents contend that Dialogue’s use of such login credentials breaches the applicable terms of their platform(s). Utilising a self-help remedy, the respondents have attempted to cut-off Dialogue’s access to their platforms on the asserted basis that there have been violations of their terms and conditions. Contrastingly, Dialogue says that its customers authorise it to use their login details as their agent.\n\n[3] On 11 April 2019, Dialogue commenced the present proceeding against the respondents alleging that their conduct was anti-competitive, unconscionable and misleading. Dialogue sought injunctive and other relief to prevent the deactivation of Dialogue’s accounts.\n\n[4] On 15 April 2019, I granted an interim injunction restraining the respondents from taking any steps to terminate or suspend the access of Dialogue, through Sked Social or otherwise, to the relevant digital platforms until 17 May 2019 or further order.\n\n[5] On 17 May 2019 and by consent I extended that injunction, which injunction was in the following terms:\n\n> 1. Upon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, the Respondents, whether by themselves, their officers, servants or agents, be restrained, until further order, from:\n\n>   (a) taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise), to the Instagram and Facebook websites, services, platforms or networks;\n\n>   (b) refusing to permit the Applicant, whether by itself, its officers, servants or agents access (through its product, SKED Social or otherwise), to the Instagram and Facebook websites, services, platforms or networks.\n\n[6] The respondents now seek to vary that injunction on the basis of two material changes in circumstances.\n\n[7] First, it is pointed out that on 23 April 2020 a permanent injunction was made against Facebook Inc. by the United States District Court for the District of Columbia in United States v. Facebook, Inc., Case No. 1:19-cv-02184, requiring it to comply with the United States Federal Trade Commission’s administrative order made against Facebook. The FTC order was sealed and issued by the FTC on 27 April 2020.\n\n[8] It is said that to comply with the US permanent injunction and the FTC order, Facebook has implemented a privacy program that includes internal safeguards. Facebook’s privacy program includes what has been described in the evidence as the Data Use Checkup (DUC), which it is said requires entities such as Dialogue to complete an annual self-certification.\n\n[9] It is said that if Dialogue fails to complete this self-certification, Facebook’s DUC process calls for it to progressively switch off Dialogue’s access to various application programming interface (API) permissions, which enable Dialogue to access data from Facebook to offer its service through Sked Social. Ultimately it is said that in the event that Dialogue fails to provide a compliant self-certification, Facebook must terminate Dialogue’s access to all “Covered Information” as defined in the FTC order on 23 November 2021. It is said that this is all part of the safeguards that Facebook has implemented to meet its obligations under both the FTC order and the US permanent injunction.\n\n[10] Second, it is pointed out that on 26 January 2021 there was a public launch of the Instagram Content Publishing API to all third-party app developers, including Dialogue.\n\n[11] The respondents say that these material changes in circumstances and their consequences have altered the balance of convenience and justify a variation to my earlier injunction in what is said to be the interests of justice as they would have it.\n\n[12] The variation sought is as follows:\n\n> Upon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, until further order of the Court, the Court orders that:\n\n> a. the Second Respondent:\n\n> i. is restrained from taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise):\n\n> 1. to its own accounts and pages on Instagram and Facebook identified in Annexure A to these orders (“Applicant’s Accounts”); or\n\n> 2. to the Instagram Graph API or the Facebook Graph API (as both are amended from time to time);\n\n> ii. is restrained from refusing to permit the Applicant, whether by itself, its officers, servants or agents, access (through its product, SKED Social or otherwise):\n\n> 1. to the Applicant’s Accounts; or\n\n> 2. to the Instagram Graph API or the Facebook Graph API;\n\n> b. provided that the Applicant:\n\n> i. does not access the Instagram and Facebook websites, services, platforms or networks (“Instagram” and “Facebook”, respectively) using the login credentials or login information (including usernames and passwords) of any third party, whether as agent or otherwise;\n\n> ii. does not solicit, collect, use, store, or cache the login credentials or login information (including the usernames and passwords) of any third party user of Instagram or Facebook, whether as agent or otherwise;\n\n> iii. provides to the Second Respondent a fully completed application to use the Instagram Content Publishing API;\n\n> iv. if the application in 2(b)(iii) is approved, operates on the Instagram platform using the Facebook Graph API and Instagram Graph API, including the Instagram Content Publishing API; and\n\n> v. upon completion of 2(b)(i)-(iii) and for the duration of 2(b)(iv), self-certifies, and by no later than 24 October of each year thereafter continues to self-certify: (i) its compliance with each of the Instagram and Facebook Platform Terms; and (ii) the purpose(s) or use(s) for each type of Covered Information to which it requests or continues to have access, and that each specified purpose or use complies with the Instagram and Facebook Platform Terms, within the meaning of and in accordance with Part VII.E.1 of the United States Federal Trade Commission’s (FTC) Administrative Order Modifying Prior Decision and Order, as published on the FTC’s website on 28 April 2020 and issued pursuant to the permanent injunction entered by the United States District Court for the District of Columbia on 23 April 2020 in United States v. Facebook, Inc., Case No. 1:19-cv-02184.\n\n[13] The respondents say that the effect of the variation, if granted, is that Dialogue would no longer be able to collect and use the login credentials of Instagram users under the regime created by my injunction, which the respondents assert exempts Dialogue from complying with the respondents’ so called standard user privacy and security processes. Further, it is said that Dialogue is already able to apply to use the Instagram Content Publishing API, which is the API available and used by other third-party app developers, to provide services to schedule and publish content to Instagram, in order to carry on its scheduling business for Dialogue’s business customers.\n\n[14] More generally the respondents say that Facebook requires all third-party app developers that provide publishing services for Instagram, including publishing posts which are scheduled, to do so using the Instagram Content Publishing API.\n\n[15] Now the respondents were forced to acknowledge that there are differences between carrying on an Instagram scheduling business using the Instagram Content Publishing API, as compared to Dialogue’s current practice of collecting and using the login credentials of Instagram users. But it is said that the impact of the differences is not significant. Further, they say that even if Dialogue were to suffer any loss by reason of different functionality, it could be compensated for by an order for damages in the event that it is successful in the main proceeding.\n\n[16] Now Dialogue says that it currently enjoys a competitive advantage pursuant to my earlier order and contends that it should continue to enjoy that privileged status. But the respondents say that it was one thing for Dialogue to enjoy any such status on 17 May 2019, when my injunction was made, but it is another thing to say that this state of affairs should continue in circumstances where the Instagram Content Publishing API is now available to Dialogue.\n\n[17] Further, the respondents say that if Facebook does not terminate Dialogue’s access to all Covered Information as referred to in the FTC order on 23 November 2021 for failing to complete the DUC, then there is a risk that the respondents will violate the US permanent injunction and the FTC order.\n\n[18] The respondents say that in light of the potential consequences that would follow if the respondents were found to be in breach of my order, alternatively if Facebook was found to be in breach of the US permanent injunction and the FTC order in the event that Facebook does not adhere to its safeguards, I should vary my injunction in the manner sought by the respondents.\n\n[19] Now predictably, Dialogue opposes the variation.\n\n[20] Dialogue says that the respondents now seek to disturb the status quo by which the parties have been operating for the past two and a half years. In that respect it says that both my interim injunction and the interlocutory injunction which replaced it have protected Dialogue from any unlawful termination or suspension of access to the respondents’ platforms, enabling it to continue to provide services to its customers.\n\n[21] Further, it says that the US permanent injunction that requires Facebook to comply with the FTC order has been in place for about 18 months, and there is no real imminent threat to the respondents if my injunction remains without variation.\n\n[22] Generally it says that it will suffer significant prejudice if the injunction is varied and that the balance of convenience does not favour the variation.\n\n[23] Further, although the respondents say that Dialogue and its product Sked Social have violated their terms, Dialogue says, which I accept, that it has established a prima facie case that it does not breach the respondents’ terms. I should also say that Dialogue still continues to meet the prima facie limb justifying the continuance of my present injunction in an unvaried form. It is convenient to note at this point that the following matters have been established on a prima facie basis.\n\n[24] First, each customer of Dialogue provides its Instagram login details to Dialogue on a confidential basis, and expressly authorises Dialogue to use them. Dialogue is authorised by the customer to act as its agent in interactions with Instagram, including to access the business customer’s Instagram account by using the business customer’s login details.\n\n[25] Second, all of Dialogue’s customers are businesses that engage Dialogue in order to promote their businesses. Dialogue’s service is not for personal use. Further, when Dialogue interacts with Instagram or Facebook on behalf of a customer, it does so with the customer’s express permission. Dialogue’s product, Sked Social, utilises the customer’s Instagram account login details to manage the planning and publishing of the customer’s marketing content on Instagram on behalf of the customer.\n\n[26] Third, Dialogue does not obtain Instagram business account login details from the respondents. Rather, Dialogue obtains the login details from the customer, with the customer’s authority, independently of the respondents. Further, any information which Dialogue accesses or collects is content which belongs to the particular business customer that has engaged Dialogue to provide the Sked Social service. And any action that Dialogue takes in relation to information is done with the customer’s authority. Further, Dialogue stores customers’ login credentials in a database in an encrypted format.\n\n[27] I have made these brief points to demonstrate, contrary to the respondents’ floated suggestion, that the variation sought has little to do with protecting the confidential information and data of Dialogue’s business customers. That is already adequately protected by Dialogue’s own procedures.\n\n[28] In summary, I would reject the respondents’ application for a variation of my injunction. Their purported justification for the variation is flimsy and possibly strategic.\n\n[29] Before I turn to the principal questions in issue between the parties, I should say something about the applicable principles.\n\n[30] The relevant principles concerning injunction applications are well-established and I incorporate by reference my discussion in Re Walden Cloud Group Pty Ltd (atf Walden Cloud Group Trust) (admins apptd) (2021) 149 ACSR 637 at [81] to [83].\n\n[31] Now it is not in doubt that I can vary an interlocutory order if new facts come into existence or are discovered which render its enforcement unjust. But there must be a material change of circumstances or the discovery of new material which could not reasonably have been put before the court at the earlier time.\n\n[32] But relevantly to the present context I am entitled to adopt a more permissive approach to varying my injunction as it was made by consent.\n\n[33] More generally, it is not in doubt that I have a discretion to review my interlocutory order if there is justice in so doing. The guiding theme is surely that I should do whatever the interests of justice require in the particular circumstances of the case.\n\n[34] Let me now turn to the respondents’ case seeking to justify the variation. I should begin with considering whether there has been a material change in circumstances.\n\n#### Material change in circumstances\n\n[35] The respondents say that there have been two material changes in circumstances.\n\n[36] First, it is said that the US permanent injunction, the FTC order and Facebook’s implementation of privacy safeguards to comply with the US permanent injunction and the FTC order all constitute a material change in circumstances.\n\n[37] As I have already indicated, Facebook’s privacy program implemented under the FTC order includes the DUC, which is an annual requirement whereby the operators of certain apps including those that obtain or otherwise have access to Covered Information from Facebook for use in an independent, third-party consumer application or website must certify that their API access and data usage are in compliance with the Facebook platform terms and developer policies.\n\n[38] The FTC order’s definition of Covered Information includes but is not limited to any identifying information concerning a Facebook or Instagram user including name, address, contact details and any other non-public user information.\n\n[39] It is said that Dialogue is a “Covered Third Party” under the FTC order because it uses and receives Covered Information obtained by Facebook including online contact information and non-public user information through various permissions and features that its app, Sked Social, has on the Facebook platform.\n\n[40] Further, the respondents point out that the Facebook platform terms provide that: “You must not solicit, collect, store, cache, proxy, or use Facebook or Instagram login credentials of other Users”. It is said that this is a “Platform Term” as defined in the FTC order because it is one of Facebook’s written terms, policies and procedures relating to the privacy, confidentiality, or integrity of Covered Information that apply to Covered Third Parties.\n\n[41] More generally, it is pointed out that Facebook’s current privacy program year is from 25 October 2020 to 24 October 2021. Facebook was required to establish and implement and thereafter maintain a comprehensive privacy program under section VII of the FTC order within 180 days of the effective date of the FTC order.\n\n[42] As I have indicated, the DUC protocol entails an annual self-certification by certain Covered Third Parties. For those Covered Third Parties whose apps were live on the date Facebook’s privacy program became operational, being 25 October 2020, the DUC must be completed within a year, i.e., by 24 October 2021. To date, Dialogue has not completed the DUC.\n\n[43] It is said that as prerequisites to completing the DUC, all third-party app developers must not access the Facebook platform using the login credentials of any third party, whether as agent or otherwise, and not solicit, collect, use, store, or cache the login credentials of any third party user of the Facebook platform, whether as agent or otherwise.\n\n[44] Further, it is said that the collection of login credentials creates real risks for the security of the Facebook platform and to users’ security and privacy and that Facebook cannot guarantee how that information will be treated and safeguarded.\n\n[45] Putting to one side my injunction or its variation for the moment, it is said that if Dialogue does not complete the DUC, Facebook’s DUC process calls for it to progressively switch off Dialogue’s access to API permissions over the following thirty days, unless Dialogue cures its failure to complete a compliant self-certification.\n\n[46] In the present context it is said that the terms of my earlier injunction, absent variation, are inconsistent with the DUC process that Facebook has implemented to protect user data, privacy and security, and to comply with the US permanent injunction and the FTC order.\n\n[47] In summary, it is said that the US permanent injunction, the FTC order, and Facebook’s privacy safeguards and privacy program including the DUC process implemented to comply with the US permanent injunction and the FTC order constitute a material change in circumstance.\n\n[48] Now I agree that this all constitutes a material change in circumstances, but in my view not such as to warrant the variation sought.\n\n[49] Second, it is said that the launch of the Instagram Content Publishing API is a material change in circumstance. Again I agree, but again it is not such as would warrant the variation sought. Let me elaborate on this subject matter.\n\n[50] On 26 January 2021, Facebook announced the launch of the Instagram Content Publishing API to all third-party app developers. The Instagram Content Publishing API allows Instagram business accounts to schedule and publish posts to their Instagram feeds through third-party apps, and for third-party app developers to integrate scheduling services with the Facebook platform in a way that is compliant with Facebook’s platform terms and developer policies. All third-party app developers who wish to use the Instagram Content Publishing API must apply to do so through the app review process.\n\n[51] The respondents say that if Dialogue used the Instagram Content Publishing API it would enable Dialogue to carry on its business on the Facebook platform, and to do so in a way that is more protective of users’ privacy and in accordance with the Facebook platform terms and developer policies, as compared with Dialogue’s current practice of storing and using login credentials of its customers.\n\n[52] Now Dialogue has not applied to use the Instagram Content Publishing API. But the respondents say that to mitigate the privacy risks for Instagram users, the respondents seek to vary the injunction to require Dialogue to apply for and carry on its Instagram scheduling business using the Instagram Content Publishing API, rather than through Sked Social.\n\n[53] In summary, I am prepared to accept that the respondents have established a material change in circumstances. But I am not satisfied that it is in the interests of justice that there should be any variation to my injunction. Let me turn to that topic now.\n\n#### Interests of justice\n\n[54] Now the respondents say that it is in the interests of justice to vary the injunction as the orders sought by the respondents strike a better balance between the competing interests of the parties and third parties than my injunction in its present form. Essentially they have advanced six reasons.\n\n[55] First, it is said that the variation would remove the bespoke regime created by my injunction, which it is asserted exempts Dialogue from complying with standard user privacy and security processes that apply to all relevant developers, including the DUC process implemented by Facebook to comply with the FTC order.\n\n[56] Second, it is said that the variation would enable Dialogue to continue to carry on its business on the Instagram platform using the Instagram Content Publishing API, consistently with Dialogue’s current business on the Facebook platform using the Facebook API.\n\n[57] Third, it is said that the variation would enable Dialogue to operate on the Instagram platform in a way that is more protective of users’ privacy and security, and in accordance with the Facebook platform terms and developer policies, compared to Dialogue’s current practice.\n\n[58] Fourth, it is said that the effect of the variation is consistent with what Dialogue has claimed to want to do since at least March 2019, which is to apply to use the Instagram Content Publishing API.\n\n[59] Fifth, it is said that the variation would mitigate the real consequences of Facebook being found to be in violation of my injunction, the US permanent injunction or the FTC order.\n\n[60] Sixth, it is said that the effect of the variation would be such as to place Dialogue on a level playing field with other third party app developers and operators.\n\n[61] I would reject the respondents’ case. The interests of justice rather support maintaining the status quo as between Dialogue and its customers on the one hand and the respondents on the other hand.\n\n###### Little risk to the respondents absent the variation\n\n[62] In my view the respondents have overstated the risk of prejudice to the respondents if my injunction remains unvaried.\n\n[63] First, my injunction has already been in place for nearly two and a half years. The US permanent injunction that requires Facebook to comply with the FTC order, which the respondents rely on as the basis for seeking a variation to the injunction, has been in place for about 18 months. There is no real imminent threat to the respondents if my injunction remains in place without variation.\n\n[64] Second, the FTC order seems more concerned with consumers and consumer protection, rather than with entities such as Dialogue’s business customers. The FTC’s underlying action seems to have been taken through its Bureau of Consumer Protection. Further, the FTC order modified a 2012 order, both of which were designed to principally address privacy concerns of 210 million US consumers with social media accounts substantially affected and prejudiced by Facebook’s unlawful conduct including the flouting of consumers’ rights of privacy. Moreover, even some of the applicable legislative provisions which the FTC enforces make a distinction between consumers and small businesses, and between consumers and partnerships, corporations etc. Indeed, the prefatory words of the definition of Covered Information in the FTC order say that the expression means “information from or about an individual consumer including…”. Further, in section VII, paragraph E, sub-paragraph 1, the prefatory words refer to a “third party consumer application”. In other words, it is strongly arguable that the FTC order is not focused on Dialogue’s business customers or non-consumer information. Indeed, Dialogue’s product, Sked Social, is not a consumer application.\n\n[65] Third, the respondents have not demonstrated that the log-in details which are supplied by customers to Dialogue constitute Covered Information for the purpose of the FTC order. Now the respondents assert that Dialogue uses and receives through the Facebook and Instagram platforms Covered Information including online contact information and non-public user information, obtained by Facebook. But there is no strong evidence of “online contact information” or “non-public user information” being used or received by Sked Social through the platforms. In any event, neither of those expressions appears to cover passwords, which are not referred to in the definition of Covered Information but are dealt with in another part of the FTC order (section V).\n\n[66] Further, the respondents have not demonstrated that Dialogue is a Covered Third Party which is also defined in the FTC order. There is little evidence that Dialogue uses or receives Covered Information obtained by or on behalf of Facebook. The evidence is that Dialogue receives log-in details from its customers. As I have said, the passwords or login details given by Dialogue’s customers to Dialogue is not Covered Information as section V deals with this separately. It also follows that Dialogue is not a Covered Third Party in that respect.\n\n[67] Now the respondents have separately argued that there is other information obtained or accessed by Dialogue that would be Covered Information and in respect of which it would be a Covered Third Party (see [65] of the affidavit of the respondents’ solicitor affirmed on 22 September 2021). Dialogue disputes this. I am not able to resolve this on the present application. I accept for present purposes that the respondents’ position is reasonably arguable but there is little evidence on this.\n\n[68] Fourth, the safeguards which the respondents have developed are to address the risk of “the unauthorized access, collection, use, destruction, or disclosure” of Covered Information (section VII of the FTC order). But Dialogue does not access, collect, use, destroy or disclose information of or about customers without the authorisation of the customers.\n\n[69] Fifth, the respondents submit that there are real risks for the security of their platform(s) and to users’ security and privacy, including that Facebook cannot guarantee how that information will be treated and safeguarded. But the only evidentiary basis for these assertions is hearsay evidence via an engineer in the Platform Application Management team at Facebook and a software engineer in the Instagram Developer Platform team at Facebook. But the evidence before me is that Dialogue does not share account login credentials with anyone, and does not collect login credentials in a way that creates real risks for the security of the platform(s) and to users’ security and privacy. Dialogue safeguards login credentials and does not reuse or enable anyone to reuse passwords across different services. On the evidence Dialogue takes all reasonable precautions to secure its customers’ content and data, including storing customers’ login credentials in a database in an encrypted format.\n\n[70] Sixth, the respondents have referred to the implementation of a privacy program that includes internal safeguards, including the DUC. But as to the mandated privacy program referred to in section VII of the FTC order, rather unsatisfactorily the respondents did not put into evidence the “Privacy Program” referred to in paragraph A. Moreover, in terms of the DUC, I was only provided with a summary. More generally, I was not blessed with any direct evidence from the respondents of any person with personal knowledge of the matters debated before me, let alone the risks that they asserted would eventuate if the variation was not made. All that I was given consisted of multiple affidavits with annexures of the Sydney solicitor for the respondents on information and belief. Of course, such evidence was admissible, but its weight was problematic. Given the seriousness of the issues debated before me I would have expected better. Perhaps this was all done so as to quarantine those with personal knowledge from the potential to be cross-examined. And at the least I would have expected direct evidence from the respondents’ US attorneys concerning the asserted risks of the FTC taking enforcement action against the respondents if my injunction was not varied.\n\n[71] Seventh, the respondents assert that there are mandatory requirements for Dialogue to complete the DUC and for Dialogue’s access to Covered Information to be terminated if it does not do so by 23 November 2021. But these are requirements of the respondents’ own making. There is no evidence that the respondents have tried to accommodate my injunction within those requirements. Indeed, according to the FTC order, the Privacy Program, of which the safeguards form part, may be evaluated and adjusted by the respondents at any time in light of “any other circumstances that [Facebook] knows or has reason to believe may have a material impact on the effectiveness of the Privacy Program” (section VII, paragraph J). There is no evidence that the respondents have considered adjusting their safeguards to cater for the continuation of my interlocutory injunction, pending the determination of the proceeding.\n\n[72] Eighth, the respondents’ asserted urgency is of their own making. Their Privacy Program apparently became operational 12 months ago, being on 25 October 2020. Further, they launched the Instagram Content Publishing API 9 months ago, on 26 January 2021. And as Dialogue points out, then they waited until 15 September 2021 before they commenced the present interlocutory application before me.\n\n[73] Ninth, I do not accept the likelihood of the potential consequences of Facebook being found to be in violation of the US permanent injunction or the FTC order if I do not grant the variation.\n\n[74] As to whether the respondents are at risk of adverse action by the FTC including civil penalties in relation to the conduct of Dialogue’s collection and access of its business customers’ information, the FTC’s recent publications indicate, to the contrary, that the FTC has concerns that Facebook itself is using APIs to engage in anti-competitive conduct against rival app developers.\n\n[75] Further, there is some support in the evidence that the respondents have used the pretext of complying with the FTC order to pursue other agendas. Indeed this would seem to be known to the FTC.\n\n[76] For example, on 3 August 2021 the respondents made a public statement saying:\n\n> For months, we’ve attempted to work with New York University to provide three of their researchers the precise access they’ve asked for in a privacy protected way. Today, we disabled the accounts, apps, Pages and platform access associated with NYU’s Ad Observatory Project and its operators after our repeated attempts to bring their research into compliance with our Terms. NYU’s Ad Observatory project studied political ads using unauthorized means to access and collect data from Facebook, in violation of our Terms of Service. We took these actions to stop unauthorized scraping and protect people’s privacy in line with our privacy program under the FTC Order.\n\n[77] On 5 August 2021, the FTC wrote to Facebook in the following terms:\n\n[78] In one sense this all indirectly supports the proposition, on the reverse side, that it is an unlikely prospect that the FTC would take action against the respondents if the variation was not made, if the FTC was informed of the correct position concerning Dialogue and my injunction.\n\n[79] There is no evidence that the FTC, when apprised of the facts, will criticise the respondents for permitting Dialogue to operate its product as it is currently doing. Dialogue has offered to provide a certificate that it is in compliance with the Facebook platform terms and the developer policies based on its belief that it is in compliance. Further, there is no evidence that this assurance by Dialogue, with a qualification if necessary, would not be sufficient or acceptable from the perspective of the FTC. Now I should note here that the respondents say that such a certificate would present a misleading picture. But this is all a contestable question that I cannot resolve.\n\n[80] Further, the fact that Dialogue takes steps to protect its customers’ information is relevant to the degree of risk that the FTC will take adverse action against the respondents. One would expect that Dialogue’s security processes and the absence of evidence of security breaches or complaints are factors which would militate against any adverse action by the FTC.\n\n[81] Now at this point it is convenient to say that I appreciate that it is desirable that any inconsistency between my injunction on the one hand, and the US permanent injunction and FTC order on the other hand, be removed or ameliorated. But this is not a paramount consideration in the present case, albeit that it is a matter to take into account.\n\n[82] First, my injunction was first in time.\n\n[83] Second, no doubt the respondents agreed to the US permanent injunction and the FTC order well knowing of my existing injunction. At the time of so agreeing, they either perceived that there was no inconsistency or considered that if there was any inconsistency that compliance with my injunction would provide them with a good defence against any enforcement action concerning the US permanent injunction or the FTC order.\n\n[84] Third, the respondents have substantially delayed in addressing this inconsistency if there be one. The fact that the relevant self-certification question has only recently arisen provides no excuse for not dealing with any underlying inconsistency questions earlier; after all, the US permanent injunction and FTC order were made in April 2020.\n\n[85] Fourth, even if it be the case that continuing compliance by the respondents with the regime established by my injunction could somehow be said to be inconsistent with the US permanent injunction and the FTC order, in my view and as I have indicated there would be an unlikely if not remote prospect of the FTC taking enforcement action, particularly if the respondents explained to the FTC the fact of my injunction, its context, the broader dispute between the parties before me and the steps that Dialogue has taken and continues to take to preserve its business customers’ confidential information including log in details.\n\n[86] In summary, I do not accept that there are any real and significant risks to the respondents or third parties if I do not vary my injunction. Further, as to the desire of the respondents to put Dialogue on a level playing field with other third party app developers and operators, that is a subsidiary if not collateral question that cannot carry the day.\n\n###### Risks to Dialogue if variation made\n\n[87] In my view there are real risks to Dialogue if I was to vary the injunction.\n\n[88] Clearly, the Instagram Content Publishing API would limit the functionality of Dialogue’s product Sked Social.\n\n[89] Further, the respondents have not identified any provision of the Facebook platform terms or the developer policies which compels Dialogue to use the Instagram Content Publishing API. Indeed the inclusion of any such term may be contrary to s 45 of the Competition and Consumer Act 2010 (Cth). Further, the respondents, which offer a competing product, Facebook Creator Studio, seek to force Dialogue to use the Instagram Content Publishing API, which may give the respondents a competitive advantage. By doing so, the respondents may be engaging in conduct that has or is likely to have the effect of substantially lessening competition in the relevant market(s), in contravention of s 46 of that Act.\n\n[90] Now it may be accepted that Dialogue had previously commenced an application for access to the Instagram Content Publishing API. But since then it has come to appreciate the limitations of the Instagram Content Publishing API. Further, the competitive landscape has changed significantly in the market for the provision of online social media services. Further, although Dialogue has been using the Facebook “Graph” API, its functionality is not as limited as the Instagram Content Publishing API. It is not an appropriate comparator.\n\n[91] On the evidence, Dialogue provides the Sked Social service which gives it a competitive advantage which would be lost if Dialogue were forced to use the Instagram Content Publishing API. The Instagram Content Publishing API has restricted functionality compared with more sophisticated products such as Sked Social. Further, on the evidence, Facebook Creator Studio was released in August 2019 and has since evolved into a product with functionality substantially similar to Sked Social.\n\n[92] Now as I have said, the functionality of the Instagram Content Publishing API is inferior. If Dialogue is forced to use the Instagram Content Publishing API, it would be unable to continue to provide the Sked Social service which in some respects is unique. Now although the Instagram Content Publishing API allows the scheduling and posting of single images (a single photo or other image) and single videos, it does not support “carousels”, being a type of post which is a multiple-image post that features up to 10 photos or videos or a combination that followers can swipe through, “stories”, a type of post which shows all of the content that the user has posted in the last 24 hours, played in chronological order from oldest to newest, or posts with product tags. But Sked Social enables this functionality.\n\n[93] Further, on the evidence it would seem that most customers choose Dialogue’s product Sked Social because of its unique functionality, particularly the depth of its functionality and features for Instagram business accounts. In that respect Sked Social has an advantage over other products that use the Instagram Content Publishing API.\n\n[94] Further, although there are other third-party app developers that use the Instagram Content Publishing API, Dialogue is different as its product Sked Social focuses on scheduling specifically through Instagram. There is no evidence that other third-party app developers have the same focus.\n\n[95] Further, Mr Hugh Stephens, the director of Dialogue who gave affidavit evidence and who I permitted to be cross-examined, also anticipates that there would be customers who would end their Sked Social subscription even with a reduction in price, given that Creator Studio offers many of the features that Sked Social offers at no charge. Given that during August 2021 over 67% of Dialogue’s customers published at least one of the post types carousels, stories and product tags, if those post types were no longer available via Sked Social, then many of those customers may leave. Moreover, he expects that most of the customers that leave would move to Facebook Creator Studio, so the respondents would gain market share at the expense of Dialogue.\n\n[96] Now the respondents have made much of the point that Dialogue at one stage had indicated a willingness to find the functionality of the Instagram Content Publishing API to be acceptable. That may be true in one sense, although this was never a free-standing question so far as Dialogue was concerned. Moreover, the evidence indicates that Dialogue may not have fully appreciated that given the lesser functionality of that API as compared with Sked Social, and given that Facebook controls Creator Studio, then by just taking that API with no other significant commercial benefit being provided by the respondents, Dialogue may have been placed at a real competitive disadvantage by just taking that API.\n\n[97] There was also a specific challenge to Mr Stephens’ evidence concerning three specific levels of functionality that it was said was intrinsic to Sked Social but not to the Instagram Content Publishing API. Now what Mr Stephens said was factually correct, although some aspects could be dealt with by Facebook’s Creator Studio, but it would seem that in some respects he was over-stating his position. Nevertheless, at the present time I cannot definitively reject his evidence.\n\n[98] I accept that in some respects Mr Stephens gave less than satisfactory oral evidence on some of these matters in supplementary evidence in chief and under cross-examination, which I permitted. The cross-examination also included some reference to some otherwise “without prejudice” material, which I permitted the respondents to tender and deploy by reason of s 131(2)(g) of the Evidence Act 1995 (Cth). Nevertheless in the present context, and given that I cannot finally decide these questions now, although I have doubts about some aspects of Mr Stephens’ evidence I cannot definitively reject it.\n\n[99] Further, the respondents assert that Dialogue enjoys a privileged status to which it is not entitled. But I agree with Dialogue that this assumes that the respondents are correct in their argument that Dialogue is breaching their terms. But if Dialogue is not breaching their terms, then Dialogue is doing no more than merely operating its business lawfully; as I have said, Dialogue has made out a prima facie case on this aspect.\n\n[100] In summary I accept Dialogue’s case on the real risks to it if I was to vary my injunction in the manner sought.\n\n###### An alternative proposal\n\n[101] At my suggestion, the parties put forward alternative proposals to deal with other suggested elements of prejudice to Dialogue if the variation was to be made.\n\n[102] The respondents’ modified order 2 was in the following form:\n\n> Upon the Applicant by its counsel giving the usual undertaking as to damages, and without any admission on the part of the Respondents, until further order of the Court, the Court orders that:\n\n> (a) the Second Respondent:\n\n> (i) is restrained from taking any action to terminate or to suspend the access of the Applicant, whether by itself, its officers, servants or agents (through its product, SKED Social or otherwise):\n\n> (A) to its own accounts and pages on Instagram and Facebook identified in Annexure A to these orders (“Applicant’s Accounts”); or\n\n> (B) to the Instagram Graph API or the Facebook Graph API (as both are amended from time to time);\n\n> (ii) is restrained from refusing to permit the Applicant, whether by itself, its officers, servants or agents, access (through its product, SKED Social or otherwise):\n\n> (A) to the Applicant’s Accounts; or\n\n> (B) to the Instagram Graph API or the Facebook Graph API;\n\n> (iii) will make available to the Applicant a dedicated direct point of contact to provide relevant technical information, resources and support to the Applicant in taking steps to comply with order 2(b), until 11 March 2022; and\n\n> (iv) on and from completion of 2(b)(vi), will assess in good faith any application by the Applicant to participate in the Facebook Business Partner Programme according to the criteria that apply to all other businesses in respect of one or more solutions available at that time;\n\n> (b) provided that the Applicant:\n\n> (i) commences taking steps to complete 2(b)(ii)-(vi) by 23 November 2021;\n\n> (i)(ii) from 4 March 2022, does not access the Instagram and Facebook websites, services, platforms or networks (“Instagram” and “Facebook”, respectively) using the login credentials or login information (including usernames and passwords) of any third party, whether as agent or otherwise;\n\n> (ii)(iii) from 4 March 2022, does not solicit, collect, use, store, or cache the login credentials or login information (including the usernames and passwords) of any third party user of Instagram or Facebook, whether as agent or otherwise;\n\n> (iii)(iv) by 7 January 2022, provides to the Second Respondent a fully completed application to use the Instagram Content Publishing API;\n\n> (iv)(v) if the application in 2(b)(iiiiv) is approved, operates on the Instagram platform using the Facebook Graph API and Instagram Graph API, including the Instagram Content Publishing API; and\n\n> (v)(vi) upon completion of 2(b)(i)-(iiiii)-(iv) and for the duration of 2(b)(ivv), self-certifies, and by no later than 24 October of each year 11 March 2022, and within every 12 month period thereafter continues to self-certify: (i) its compliance with each of the Instagram and Facebook Platform Terms; and (ii) the purpose(s) or use(s) for each type of Covered Information to which it requests or continues to have access, and that each specified purpose or use complies with the Instagram and Facebook Platform Terms, within the meaning of and in accordance with Part VII.E.1 of the United States Federal Trade Commission’s (FTC) Administrative Order Modifying Prior Decision and Order, as published on the FTC’s website on 28 April 2020 (accessible at https://www.ftc.gov/system/files/documents/cases/c4365facebookmodifyingorder.pdf) and issued pursuant to the permanent injunction entered by the United States District Court for the District of Columbia on 23 April 2020 in United States v. Facebook, Inc., Case No. 1:19-cv-02184.\n\n[103] Dialogue put forward a modified proposal, but its primary position was that no variation should be made. I do not need to set it out as it is unacceptable to the respondents and in any event seeks to deal with matters that are broader than the more limited present context.\n\n[104] I do not need to linger on these alternative proposals. Suffice it to say that in my view the respondents’ further formulation does not deal in substance with much of the prejudice asserted by Dialogue if the variation was to be made. Accordingly, I do not propose to make the respondents’ variation order as originally proposed or as further varied.\n\n#### General\n\n[105] It is not in doubt that assessing the balance of convenience is a comparative exercise. In this case, the comparison is between the inconvenience, injury or injustice to Dialogue if the injunction were varied, and the inconvenience, injury or injustice to the respondents or third parties if the injunction were not varied. Further, the onus lies on the respondents to demonstrate that the status quo under my current injunction ought be disturbed.\n\n[106] The respondents have failed to discharge that onus. Moreover, in terms of any competing prejudices the balance favours Dialogue.\n\n[107] First, the respondents’ safeguards implemented pursuant to the FTC order do not tilt the balance of convenience in favour of the respondents, particularly when considering the likely harm to Dialogue’s business.\n\n[108] Second, preserving my injunction without variation is also consistent with taking the course which appears to carry the lower risk of injustice. The risks to Dialogue of disturbing the status quo outweigh the risks to the respondents of preserving the status quo.\n\n[109] Third, I accept that it is necessary to assess the balance of convenience in the context of considering the strength of the prima facie case; the stronger the prima facie case, the less strong the balance has to weigh in favour of Dialogue. Now in argument before me, the respondents accepted that Dialogue has shown a prima facie case to support the existence of the present injunction and its continuance. But they assert that its merits are weak. I do not so readily conclude. But even if the merits were weak, and even taking such a circumstance into account, that does not justify the variation. In terms of the competing cases, Dialogue has a much stronger case for showing prejudice if the variation was made than the respondents would suffer if the variation was not made.\n\n[110] Fourth, in assessing the balance of convenience, the interests of and potential prejudice caused to third parties may need to be taken into account. But in this case there is evidence of the likely disruption that Dialogue’s customers would face if Dialogue were required to undertake a rapid migration to the Instagram Content Publishing API.\n\n[111] Fifth, the respondents have asserted that if any prejudice is caused to Dialogue and Dialogue is ultimately successful, damages would be an adequate remedy. But I am not convinced of this assertion given the significant problems that would attend any quantification of damages. It may be difficult to prove any customers lost or the failure to obtain new customers and the value of any otherwise lost services causally linked to any wrong-doing of the respondents that I might ultimately find.\n\n[112] Sixth, the respondents asserted that to leave my order in place would result in Dialogue being placed in a preferred position vis-à-vis its competitors. But even if this was the case, and I have taken the possibility into account, in determining the interests of justice as between Dialogue and the respondents such a point hardly justifies the variation, particularly given that the respondents had agreed to the US permanent injunction and the FTC order well after I had made the interlocutory injunction.\n\n[113] It seems to me that overall it is preferable to preserve the status quo as between the parties before me, which has been in place for some time now, until trial. To preserve the status quo would warrant refusing the variation sought by the respondents. Now I appreciate that there have been delays in getting this matter to trial; indeed there will be further delays. But any delays, certainly in the last 12 months or more, cannot be attributed to Dialogue. It has been brought about by the perfectly legitimate right of the respondents to pursue their stay application based upon a relevant arbitration clause and, as is their right, to seek leave to appeal from my order refusing any stay, which challenge is to be dealt with in the Full Court sittings beginning shortly.\n\n[114] In the interests of justice, including taking into account the competing prejudices, I am not satisfied that the variation should be made. Accordingly, the respondents’ interlocutory application will be dismissed with costs.\n\nI certify that the preceding one hundred and fourteen (114) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Beach.\n\nAssociate:\n\nDated: 27 October 2021\n\n### SCHEDULE OF PARTIES\n\n|  | VID 369 of 2019 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | INSTAGRAM, LLC |\n",
+ "source_sha256": "5d33683a7743206739b7f993fa05081d09f477096523eb5bf914f69b83a0c5d1"
+}

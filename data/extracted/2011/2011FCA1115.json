@@ -1,0 +1,312 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2011/2011FCA1115.docx",
+ "metadata": {
+  "citation": "[2011] FCA 1115",
+  "name": "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited",
+  "court": "FCA",
+  "year": 2011,
+  "number": 1115,
+  "date_of_judgment": "2011-09-07",
+  "file_numbers": [
+   "NSD702/2006"
+  ],
+  "judges": [
+   "JACOBSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2011-09-07"
+  ],
+  "hearing_raw": "7 September 2011",
+  "number_of_paragraphs": 12,
+  "catchwords": [
+   "PRACTICE AND PROCEURE – Representative proceedings – Approval of fees for administration of settlement scheme – Admission of group members to settlement after deadline"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth), s 33ZF"
+  ],
+  "cases_cited": [
+   "Dorajay Pty Ltd v Aristocrat Leisure Limited [2008] 67 ACSR 569",
+   "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 671",
+   "Pharmacare Laboratories Pty Ltd v Commonwealth of Australia (No 8) [2011] FCA 745"
+  ],
+  "parties": [
+   {
+    "name": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425",
+    "role": "Applicant"
+   },
+   {
+    "name": "AMCOR LIMITED ACN 000 017 372",
+    "role": "First Respondent"
+   },
+   {
+    "name": "AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "VISY BOARD PTY LTD ACN 005 787 913",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+    "role": "Sixth Respondent"
+   }
+  ],
+  "parties_summary": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr I S Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Maurice Blackburn"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Third Respondents",
+    "name": "The First, Second and Third Respondents did not appear"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth, Fifth and Sixth Respondents",
+    "name": "The Fourth, Fifth and Sixth Respondents did not appear"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2011/2011fca1115",
+  "portal_file_numbers": [
+   "NSD702/2006"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2011-09-07"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115"
+  },
+  {
+   "label": "Parties",
+   "value": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615"
+  },
+  {
+   "label": "File number(s)",
+   "value": "NSD 702 of 2006"
+  },
+  {
+   "label": "Judge",
+   "value": "JACOBSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "7 September 2011"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEURE – Representative proceedings – Approval of fees for administration of settlement scheme – Admission of group members to settlement after deadline"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth), s 33ZF"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Dorajay Pty Ltd v Aristocrat Leisure Limited [2008] 67 ACSR 569\nJarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 671\nPharmacare Laboratories Pty Ltd v Commonwealth of Australia (No 8) [2011] FCA 745"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "7 September 2011"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "12"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr I S Wylie"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Maurice Blackburn"
+  },
+  {
+   "label": "Counsel for the First, Second and Third Respondents",
+   "value": "The First, Second and Third Respondents did not appear"
+  },
+  {
+   "label": "Counsel for the Fourth, Fifth and Sixth Respondents",
+   "value": "The Fourth, Fifth and Sixth Respondents did not appear"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD702/2006",
+   "parties": [
+    {
+     "name": "JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425",
+     "role": "Applicant"
+    },
+    {
+     "name": "AMCOR LIMITED ACN 000 017 372",
+     "role": "First Respondent"
+    },
+    {
+     "name": "AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "VISY BOARD PTY LTD ACN 005 787 913",
+     "role": "Fourth Respondent"
+    },
+    {
+     "name": "VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968",
+     "role": "Fifth Respondent"
+    },
+    {
+     "name": "VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615",
+     "role": "Sixth Respondent"
+    }
+   ],
+   "judges": [
+    "JACOBSON J"
+   ],
+   "date": "2011-09-07",
+   "date_raw": "7 SEPTEMBER 2011",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Pursuant to clause 8 (Application of interest) of the Settlement Distribution Scheme approved by the Court on 2 May 2011 and section 33ZF of the Federal Court of Australia Act 1976 (Cth), the Court approve the application of $733,852 of the interest earned on the Settlement Distribution Fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme in the period 15 March 2011 to 31 August, as described in the affidavit Richard Erle Ryan affirmed on 1 September 2011.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The persons described in Schedule 1 to this order who notified Maurice Blackburn of claims in the settlement after 13 May 2011 be granted leave by the Court to claim money in the settlement notwithstanding order 8 made on 29 March 2011 as varied by order 6 made on 2 May 2011.",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "Schedule 1",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "1. | Exego Pty Ltd\n2. | Bingil Bay Holdings Pty Ltd\n3. | JR & V Dickinson\n4. | Toll Transport Pty Ltd\n5. | Cherry King\n6. | Portavin\n7. | V & FM Battiato\n8. | Arnhem Fruit Packing & Freight T/A Arnhem Mangoes\n9. | Wandin Valley Farms\n10. | L & M Anders\n11 | TA & JA Hitchings\n12. | Federal Mogul Pty Ltd\n13. | Goullet Bros Pty Ltd\n14. | Corrigans Produce Farm Pty Ltd\n15. | Latitude Fisheries Pty Ltd\n16. | Clorox",
+     "level": 0,
+     "table": true
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "I approved the settlement of this class action earlier this year. My reasons for doing so are to be found in my judgment: see Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 671. The settlement scheme includes provision for the payment of the administration costs incurred by Maurice Blackburn in acting as administrator of the settlement distribution scheme. ‘Administration costs’ are defined in the settlement scheme to mean the costs and disbursements incurred by Maurice Blackburn calculated at rates set out in an annexure, which I have been taken to."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The effect of the definition of administration costs is that Maurice Blackburn’s costs and disbursements are to be paid on a solicitor-and-client basis. The effect of clause 8.1 of the settlement scheme is that the administration costs are to be paid out of interest accrued on the Amcor settlement reserve fund, the Visy settlement reserve fund and the settlement distribution fund, as referred to in the settlement scheme. I have before me this morning a notice of motion seeking two orders, which arise out of the settlement scheme."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The first is for an order pursuant to clause 8 of the settlement scheme and section 33ZF of the Federal Court of Australia Act 1976 (Cth) for the court to approve the application of the sum of $733,852 out of the interest earned on the settlement distribution fund for the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the settlement distribution scheme during the period from 15 March 2011 to 31 August 2011. A second order is sought in the notice of motion. It seeks a determination of the court or an order pursuant to section 33ZF in relation to the admission of people who applied to be included in the settlement after the deadline stipulated in the settlement scheme. These people are referred to colloquially as “latecomers”."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "During the hearing of the motion I expressed some reservation as to how I was to form a view as to the appropriateness of the individual work undertaken by the solicitors, or the appropriateness of the work as a whole. I note that similar reservations were expressed by Flick J in Pharmacare Laboratories Pty Ltd v Commonwealth of Australia (No 8) [2011] FCA 745 at [15]ff. Nevertheless, on careful consideration of the material put before me in the affidavit of Mr Ryan, affirmed on 1 September 2011, I am sufficiently satisfied that I ought to make the order which is sought."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "However, I repeat that the task is a difficult one for the court, and the order which I made is one that is made in circumstances where I have no contradictor to the application and the costs and disbursements are to be paid on a solicitor and client basis. I should mention that notice was given to group members of the application. The matter was called outside the court this morning, and there was no appearance by any group member to oppose the orders that were sought."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The evidence before me demonstrates the hourly rates of the persons who performed the work. In his affidavit sworn on 15 April 2011 in support of the approval of the settlement, Mr Joseph Anthony Mazzeo, an experienced legal costs consultant, stated that the rates set forth in the annexure to which I have referred above are fair, reasonable and appropriate when compared with the hourly rates charges by similar firms for comparable work, and that those rates would be applicable to the administration of the settlement scheme. I have a detailed line-by-line statement of the work which was carried out, identifying the nature of the work that was done. I did not myself look at each of the entries, nor, in the circumstances, do I think it was necessary for me to do so."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "What I do have is a summary which appeared at page 168 of the exhibit to Mr Ryan’s affidavit, which contains a professional fees summary, showing the identity of the persons who worked on the administration, with a breakdown showing their hourly rates, and the amount of time spent by each of those persons on the tasks allocated to them. I also have evidence from Mr Ryan that, to his observation, the settlement administration team attended to the work properly on behalf of participating group members as a whole, and in an orderly and efficient manner, that best promoted the overarching purpose of civil litigation, with a keen focus on the requirement that the administration work be conducted as quickly, inexpensively and efficiently as possible."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Having regard to that evidence, and to the detailed description of the work undertaken by Maurice Blackburn, as set out at paragraph 28 of Mr Ryan’s affidavit, I am satisfied that the evidence is sufficient to meet the requirements to which Flick J referred in Pharmacare."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "However, in saying that, I stress that the task is not an easy one, and I rely in particular on the evidence of Mr Mazzeo and that of Mr Ryan. This seems to me, in the absence of any opposition to the order sought, to be sufficient to satisfy me as to the necessary degree of supervision to be exercised by the court when granting approval under section 33ZF, and, in particular, under the terms of the settlement scheme which controlled the payment of the administration costs sought in this application."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "So far as the “latecomers” are concerned, the test to be applied was stated by Stone J in Dorajay Pty Ltd v Aristocrat Leisure Limited (2008) 67 ACSR 569 at [14]. As her Honour said, taking the deadline seriously would mean that a group member who did not comply with the deadline should not be permitted to participate in the settlement unless the court is affirmatively satisfied that it would be unjust to exclude the group member. I have been taken to the evidence, which was reduced to summary form, as to the reasons why the “latecomers” failed to submit their claims within the time period stipulated in the settlement scheme."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Although the reasons vary slightly from person to person, I consider that in light of the reasons it would be unjust to exclude the group member from the settlement. An important consideration in this is that the estimated average return for current participating group members (without any adjustment for interest earned on the settlement sum) is 54.7 cents per dollar overcharged. The total amount of latecomers’ overcharges is $38 million, so that if they are admitted the estimated average return would be reduced by only a very small amount, and the estimate of the average return would be 54.3 cents per dollar overcharged."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Accordingly, I am satisfied that I should make an appropriate orders in relation to the admission of the 16 latecomers described in the evidence."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twelve (12) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.",
+ "associate": null,
+ "dated": "2011-09-07",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115\n\n## Cover sheet\n\n**Citation:** Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 1115\n\n**Parties:** JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425 v AMCOR LIMITED ACN 000 017 372, AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165, FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517, VISY BOARD PTY LTD ACN 005 787 913, VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968 and VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615\n\n**File number(s):** NSD 702 of 2006\n\n**Judge:** JACOBSON J\n\n**Date of judgment:** 7 September 2011\n\n**Catchwords:** PRACTICE AND PROCEURE – Representative proceedings – Approval of fees for administration of settlement scheme – Admission of group members to settlement after deadline\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth), s 33ZF\n\n**Cases cited:** Dorajay Pty Ltd v Aristocrat Leisure Limited [2008] 67 ACSR 569  \nJarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 671  \nPharmacare Laboratories Pty Ltd v Commonwealth of Australia (No 8) [2011] FCA 745\n\n**Date of hearing:** 7 September 2011\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 12\n\n**Counsel for the Applicant:** Mr I S Wylie\n\n**Solicitor for the Applicant:** Maurice Blackburn\n\n**Counsel for the First, Second and Third Respondents:** The First, Second and Third Respondents did not appear\n\n**Counsel for the Fourth, Fifth and Sixth Respondents:** The Fourth, Fifth and Sixth Respondents did not appear\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 702 of 2006 |\n\n| BETWEEN: | JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425<br>Applicant |\n|---|---|\n| AND: | AMCOR LIMITED ACN 000 017 372<br>First Respondent<br>AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165<br>Second Respondent<br>FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517<br>Third Respondent<br>VISY BOARD PTY LTD ACN 005 787 913<br>Fourth Respondent<br>VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968<br>Fifth Respondent<br>VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615<br>Sixth Respondent |\n\n| JUDGE: | JACOBSON J |\n|---|---|\n| DATE OF ORDER: | 7 SEPTEMBER 2011 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. Pursuant to clause 8 (Application of interest) of the Settlement Distribution Scheme approved by the Court on 2 May 2011 and section 33ZF of the Federal Court of Australia Act 1976 (Cth), the Court approve the application of $733,852 of the interest earned on the Settlement Distribution Fund to the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the Amcor/Visy class action settlement distribution scheme in the period 15 March 2011 to 31 August, as described in the affidavit Richard Erle Ryan affirmed on 1 September 2011.\n\n2. The persons described in Schedule 1 to this order who notified Maurice Blackburn of claims in the settlement after 13 May 2011 be granted leave by the Court to claim money in the settlement notwithstanding order 8 made on 29 March 2011 as varied by order 6 made on 2 May 2011.\n\nSchedule 1\n\n| 1. | Exego Pty Ltd |\n|---|---|\n| 2. | Bingil Bay Holdings Pty Ltd |\n| 3. | JR & V Dickinson |\n| 4. | Toll Transport Pty Ltd |\n| 5. | Cherry King |\n| 6. | Portavin |\n| 7. | V & FM Battiato |\n| 8. | Arnhem Fruit Packing & Freight T/A Arnhem Mangoes |\n| 9. | Wandin Valley Farms |\n| 10. | L & M Anders |\n| 11 | TA & JA Hitchings |\n| 12. | Federal Mogul Pty Ltd |\n| 13. | Goullet Bros Pty Ltd |\n| 14. | Corrigans Produce Farm Pty Ltd |\n| 15. | Latitude Fisheries Pty Ltd |\n| 16. | Clorox |\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 702 of 2006 |\n\n| BETWEEN: | JARRA CREEK CENTRAL PACKING SHED PTY LTD ACN 085 691 425<br>Applicant |\n|---|---|\n| AND: | AMCOR LIMITED ACN 000 017 372<br>First Respondent<br>AMCOR PACKAGING (AUSTRALIA) PTY LTD ACN 004 275 165<br>Second Respondent<br>FIBRE CONTAINERS (QUEENSLAND) PTY LIMITED ACN 051 607 517<br>Third Respondent<br>VISY BOARD PTY LTD ACN 005 787 913<br>Fourth Respondent<br>VISY INDUSTRIES HOLDINGS PTY LTD 005 787 968<br>Fifth Respondent<br>VISY INDUSTRIES (AUSTRALIA) PTY LTD ACN 004 337 615<br>Sixth Respondent |\n\n| JUDGE: | JACOBSON J |\n|---|---|\n| DATE: | 7 SEPTEMBER 2011 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] I approved the settlement of this class action earlier this year. My reasons for doing so are to be found in my judgment: see Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2011] FCA 671. The settlement scheme includes provision for the payment of the administration costs incurred by Maurice Blackburn in acting as administrator of the settlement distribution scheme. ‘Administration costs’ are defined in the settlement scheme to mean the costs and disbursements incurred by Maurice Blackburn calculated at rates set out in an annexure, which I have been taken to.\n\n[2] The effect of the definition of administration costs is that Maurice Blackburn’s costs and disbursements are to be paid on a solicitor-and-client basis. The effect of clause 8.1 of the settlement scheme is that the administration costs are to be paid out of interest accrued on the Amcor settlement reserve fund, the Visy settlement reserve fund and the settlement distribution fund, as referred to in the settlement scheme. I have before me this morning a notice of motion seeking two orders, which arise out of the settlement scheme.\n\n[3] The first is for an order pursuant to clause 8 of the settlement scheme and section 33ZF of the Federal Court of Australia Act 1976 (Cth) for the court to approve the application of the sum of $733,852 out of the interest earned on the settlement distribution fund for the payment of the administration costs incurred by Maurice Blackburn in connection with the administration of the settlement distribution scheme during the period from 15 March 2011 to 31 August 2011. A second order is sought in the notice of motion. It seeks a determination of the court or an order pursuant to section 33ZF in relation to the admission of people who applied to be included in the settlement after the deadline stipulated in the settlement scheme. These people are referred to colloquially as “latecomers”.\n\n[4] During the hearing of the motion I expressed some reservation as to how I was to form a view as to the appropriateness of the individual work undertaken by the solicitors, or the appropriateness of the work as a whole. I note that similar reservations were expressed by Flick J in Pharmacare Laboratories Pty Ltd v Commonwealth of Australia (No 8) [2011] FCA 745 at [15]ff. Nevertheless, on careful consideration of the material put before me in the affidavit of Mr Ryan, affirmed on 1 September 2011, I am sufficiently satisfied that I ought to make the order which is sought.\n\n[5] However, I repeat that the task is a difficult one for the court, and the order which I made is one that is made in circumstances where I have no contradictor to the application and the costs and disbursements are to be paid on a solicitor and client basis. I should mention that notice was given to group members of the application. The matter was called outside the court this morning, and there was no appearance by any group member to oppose the orders that were sought.\n\n[6] The evidence before me demonstrates the hourly rates of the persons who performed the work. In his affidavit sworn on 15 April 2011 in support of the approval of the settlement, Mr Joseph Anthony Mazzeo, an experienced legal costs consultant, stated that the rates set forth in the annexure to which I have referred above are fair, reasonable and appropriate when compared with the hourly rates charges by similar firms for comparable work, and that those rates would be applicable to the administration of the settlement scheme. I have a detailed line-by-line statement of the work which was carried out, identifying the nature of the work that was done. I did not myself look at each of the entries, nor, in the circumstances, do I think it was necessary for me to do so.\n\n[7] What I do have is a summary which appeared at page 168 of the exhibit to Mr Ryan’s affidavit, which contains a professional fees summary, showing the identity of the persons who worked on the administration, with a breakdown showing their hourly rates, and the amount of time spent by each of those persons on the tasks allocated to them. I also have evidence from Mr Ryan that, to his observation, the settlement administration team attended to the work properly on behalf of participating group members as a whole, and in an orderly and efficient manner, that best promoted the overarching purpose of civil litigation, with a keen focus on the requirement that the administration work be conducted as quickly, inexpensively and efficiently as possible.\n\n[8] Having regard to that evidence, and to the detailed description of the work undertaken by Maurice Blackburn, as set out at paragraph 28 of Mr Ryan’s affidavit, I am satisfied that the evidence is sufficient to meet the requirements to which Flick J referred in Pharmacare.\n\n[9] However, in saying that, I stress that the task is not an easy one, and I rely in particular on the evidence of Mr Mazzeo and that of Mr Ryan. This seems to me, in the absence of any opposition to the order sought, to be sufficient to satisfy me as to the necessary degree of supervision to be exercised by the court when granting approval under section 33ZF, and, in particular, under the terms of the settlement scheme which controlled the payment of the administration costs sought in this application.\n\n[10] So far as the “latecomers” are concerned, the test to be applied was stated by Stone J in Dorajay Pty Ltd v Aristocrat Leisure Limited (2008) 67 ACSR 569 at [14]. As her Honour said, taking the deadline seriously would mean that a group member who did not comply with the deadline should not be permitted to participate in the settlement unless the court is affirmatively satisfied that it would be unjust to exclude the group member. I have been taken to the evidence, which was reduced to summary form, as to the reasons why the “latecomers” failed to submit their claims within the time period stipulated in the settlement scheme.\n\n[11] Although the reasons vary slightly from person to person, I consider that in light of the reasons it would be unjust to exclude the group member from the settlement. An important consideration in this is that the estimated average return for current participating group members (without any adjustment for interest earned on the settlement sum) is 54.7 cents per dollar overcharged. The total amount of latecomers’ overcharges is $38 million, so that if they are admitted the estimated average return would be reduced by only a very small amount, and the estimate of the average return would be 54.3 cents per dollar overcharged.\n\n[12] Accordingly, I am satisfied that I should make an appropriate orders in relation to the admission of the 16 latecomers described in the evidence.\n\nI certify that the preceding twelve (12) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.\n\nAssociate:\n\nDated: 7 September 2011\n",
+ "source_sha256": "52e08adb77be3de029096daf478dab249f103c26c630d856752e1604902f523a"
+}

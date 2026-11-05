@@ -1,0 +1,707 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2023/2023FCA1496.docx",
+ "metadata": {
+  "citation": "[2023] FCA 1496",
+  "name": "Hamilton v Meta Platforms, Inc. (Costs)",
+  "court": "FCA",
+  "year": 2023,
+  "number": 1496,
+  "date_of_judgment": "2023-11-29",
+  "file_numbers": [
+   "NSD899/2020"
+  ],
+  "judges": [
+   "CHEESEMAN J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_raw": "Determined on the papers",
+  "last_submissions": "2023-11-07",
+  "number_of_paragraphs": 52,
+  "catchwords": [
+   "COSTS – where proceeding permanently stayed – where the applicant sought an order under s 82(4) of the Competition and Consumer Act 2010 (Cth) (CCA) (NACO) – where the application for the NACO has not been determined – where the application for a permanent stay determined prior to the hearing of the NACO application – whether s 82 of the CCA displaces the general presumption that costs follow the event – whether procedural course resulted in unfairness that justifies a departure from the general presumption – Held: Applicant to pay respondents’ costs."
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 82(3), 82(4), 82(5), 82(6)",
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 37N(4), 43(1), 43(1A), 43(2)",
+   "Federal Court Rules 2011 (Cth) rr 10.42, 10.43(2) and 10.44(1)"
+  ],
+  "cases_cited": [
+   "Adam P Brown Male Fashions Pty Ltd v Phillip Morris Inc [1981] HCA 39; 148 CLR 170",
+   "Bhagat v Royal and Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159",
+   "Décor Corporation Pty Ltd v Dart Industries Inc [1991] FCA544; 33 FCR 397",
+   "El-Debel v Micheletto (Trustee) (No 2) [2021] FCAFC 146",
+   "Fisse v Secretary, Department of the Treasury & Anor (No 2) [2008] FCAFC 200; 253 ALR 52",
+   "Hamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681",
+   "Hamilton v Meta Platforms, Inc. [2023] FCA 1148",
+   "LFDB v SM (No 2) [2017] FCAFC 207",
+   "Northern Territory v Sangare [2019] HCA 25; 265 CLR 164",
+   "Oshlack v Richmond River Council [1998] HCA 11; 193 CLR 72",
+   "Southern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (No 2) (1990) 21 NSWLR 200"
+  ],
+  "parties": [
+   {
+    "name": "ANDREW PAUL STUART HAMILTON",
+    "role": "Applicant"
+   },
+   {
+    "name": "META PLATFORMS, INC.",
+    "role": "First Respondent"
+   },
+   {
+    "name": "GOOGLE LLC",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "The applicant was self represented"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr M Darke SC and Ms K Lindeman"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr R A Yezerski SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Herbert Smith Freehills"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2023/2023fca1496",
+  "portal_file_numbers": [
+   "NSD899/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2023-11-29"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 899 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "CHEESEMAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "29 November 2023"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS – where proceeding permanently stayed – where the applicant sought an order under s 82(4) of the Competition and Consumer Act 2010 (Cth) (CCA) (NACO) – where the application for the NACO has not been determined – where the application for a permanent stay determined prior to the hearing of the NACO application – whether s 82 of the CCA displaces the general presumption that costs follow the event – whether procedural course resulted in unfairness that justifies a departure from the general presumption – Held: Applicant to pay respondents’ costs."
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 82(3), 82(4), 82(5), 82(6)\nFederal Court of Australia Act 1976 (Cth) ss 37M, 37N(4), 43(1), 43(1A), 43(2)\nFederal Court Rules 2011 (Cth) rr 10.42, 10.43(2) and 10.44(1)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Adam P Brown Male Fashions Pty Ltd v Phillip Morris Inc [1981] HCA 39; 148 CLR 170\nBhagat v Royal and Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159\nDécor Corporation Pty Ltd v Dart Industries Inc [1991] FCA544; 33 FCR 397\nEl-Debel v Micheletto (Trustee) (No 2) [2021] FCAFC 146\nFisse v Secretary, Department of the Treasury & Anor (No 2) [2008] FCAFC 200; 253 ALR 52\nHamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681\nHamilton v Meta Platforms, Inc. [2023] FCA 1148\nLFDB v SM (No 2) [2017] FCAFC 207\nNorthern Territory v Sangare [2019] HCA 25; 265 CLR 164\nOshlack v Richmond River Council [1998] HCA 11; 193 CLR 72\nSouthern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (No 2) (1990) 21 NSWLR 200"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "52"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "7 November 2023"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "Determined on the papers"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "The applicant was self represented"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr M Darke SC and Ms K Lindeman"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr R A Yezerski SC"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Herbert Smith Freehills"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD899/2020",
+   "parties": [
+    {
+     "name": "ANDREW PAUL STUART HAMILTON",
+     "role": "Applicant"
+    },
+    {
+     "name": "META PLATFORMS, INC.",
+     "role": "First Respondent"
+    },
+    {
+     "name": "GOOGLE LLC",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "CHEESEMAN J"
+   ],
+   "date": "2023-11-29",
+   "date_raw": "29 November 2023",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant’s application to vary order 3 made on 29 September 2023 (the Costs Order) be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant pay the respondent's costs of the application to vary the Costs Order.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "On the application of the respondents, this proceeding was permanently stayed: Hamilton v Meta Platforms, Inc. [2023] FCA 1148 (Hamilton Stay). These reasons address the issue of costs, which was determined on the papers. Familiarity is assumed with the reasons given in Hamilton Stay. Terms used in these reasons have the same meaning as in Hamilton Stay.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "At the time of granting a permanent stay, I ordered that costs follow the event but reserved to the parties leave to apply to vary that order within a specified period. Mr Hamilton exercised that leave and filed submissions seeking to vary the costs order. Meta Platforms, Inc. and Google LLC filed submissions opposing the variation of the existing costs order. Mr Hamilton filed submissions in reply. The parties agreed to the question of costs being determined on the papers.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "CONCLUSION IN SUMMARY FORM"
+    ],
+    "text": "Having considered the submissions made by each of the parties, for the reasons that follow, I am satisfied that the appropriate order is that costs follow the event with the result that Mr Hamilton should pay the respondents’ costs. Accordingly, I will not vary order 3 of the orders I made on 29 September 2023.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "The Court has the power to order costs in all proceedings before it: s 43(1) of the Federal Court of Australia Act 1976 (Cth) (FCA Act). That power is subject to the FCA Act or any other Act providing that costs must not be awarded and other identified legislative provisions: s 43(1) of the FCA Act. Relevantly, the power to award costs in s 43(1) is subject to s 43(1A) which limits the Court’s power in Part IVA representative proceedings to award costs against, in the present context, Group Members. Such an award may only be made in accordance with s 33Q or s 33R of the FCA Act. The costs order that is in issue in this application is not against Group Members, it is against Mr Hamilton, the representative applicant. Section 43(1A) does not limit the Court’s power to award costs against a representative applicant, such as Mr Hamilton. The exercise of the power to award costs is discretionary, unless another Act provides otherwise: s 43(2) of the FCA Act.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "The discretion to award costs is unconfined but must be exercised judicially, that is according to relevant considerations and taking into account the contextual features and facts of the litigation: El-Debel v Micheletto (Trustee) (No 2) [2021] FCAFC 146 at [2] (Markovic, Derrington and Colvin JJ).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "The general presumption is that costs will follow the event. The general presumption creates a reasonable expectation that the successful party will be awarded costs against the unsuccessful party: Oshlack v Richmond River Council [1998] HCA 11; 193 CLR 72 at [67] (McHugh J, Brennan CJ agreeing). In exercising its discretion to award costs, a court may deviate from the general presumption but should not do so on the basis of private opinion, benevolence, or sympathy for the unsuccessful party: Oshlack at [22] (Gaudron and Gummow JJ). A court may depart from the general presumption if, for example, there has been some disentitling conduct by the successful party, such as unreasonable delay, or a lack of cooperation: Oshlack at [69] (McHugh J, Brennan CJ agreeing); Northern Territory v Sangare [2019] HCA 25; 265 CLR 164 at [25] (Kiefel CJ, Bell, Gageler, Keane and Nettle JJ).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "In exercising the discretion to order costs, the Court must take into account any failure to conduct the proceeding in a way that is consistent with the over-arching purpose of facilitating the just resolution of disputes according to law, and as quickly, inexpensively and efficiently as possible: s 37N(4) of the FCA Act; LFDB v SM (No 2) [2017] FCAFC 207 at [7] (Besanko, Jagot and Lee JJ).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "A legitimate public interest in the importance of the issues resolved is a factor that the Court may take into account when exercising the discretion conferred by s 43 of the FCA Act: Fisse v Secretary, Department of the Treasury & Anor (No 2) [2008] FCAFC 200; 253 ALR 52 at [9] (Stone, Buchanan and Flick JJ).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "Having regard to the fact that Mr Hamilton is a litigant in person, it is apt to note the observations of Hodgson CJ in Eq in Bhagat v Royal and Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159 (at [13]):\n13. … I accept that a court does have to make allowances for the position of litigants in person, and to try to ensure that such a litigant does not lose out because of lack of expertise; although there is a limit to what the Court can do in that regard, while still remaining an impartial determinant of a dispute. The Court may in those circumstances refrain from making orders against litigants in person for conduct that might be considered as justifying orders for costs against represented litigants. By the same token, litigants in person can cause great hardship and expense to other parties, through making allegations and claims that lawyers would recognise as allegations and claims that could not reasonably or even properly be made, and through making proceedings much longer and much more expensive than they would otherwise be, by not focusing accurately on the real issues in the case. Conduct of that nature by legally represented parties would often lead to orders for indemnity costs. Litigants in person may escape the consequence of indemnity costs, but I do not think that the circumstance that a party is a litigant in person is a ground for displacing the ordinary result that costs follow the event.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "The discretion to award costs"
+    ],
+    "text": "The issue before the Court does not concern an order for costs to be paid on an indemnity basis, rather, whether Mr Hamilton as a litigant in person should be subject to the general presumption that costs follow the event.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "Application for no adverse costs order"
+    ],
+    "text": "Mr Hamilton applied under s 82(3) of the Competition and Consumer Act 2010 (Cth) (CCA) for the Court to make an order pursuant to s 82(4) that he not be liable for any of the respondents’ costs regardless of the outcome or likely outcome of the proceeding (a no adverse costs order or NACO).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "Application for no adverse costs order"
+    ],
+    "text": "Section 82 of the CCA relevantly provides that a person who brings an action in respect of loss or damage by conduct of another person that was done in contravention of Part IV of the CCA may at any time during the proceeding seek a NACO from the court hearing, or that will hear, the matter: s 82(3).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "Application for no adverse costs order"
+    ],
+    "text": "Section 82(4) to (6) provides in relation to the making of a NACO:\n(4) The court may order that the applicant is not liable for the costs of any respondent to the proceedings, regardless of the outcome or likely outcome of the proceedings.\n(5) The court may only make an order under subsection (4) if the court is satisfied that:\n(a) the action raises a reasonable issue for trial; and\n(b) the action raises an issue that is not only significant for the applicant, but may also be significant for other persons or groups of persons; and\n(c) the disparity between the financial position of the applicant and the financial position of the respondent or respondents is such that the possibility of a costs order that does not favour the applicant might deter the applicant from pursuing the action.\n(6) The court may satisfy itself of the matters in subsection (5) by having regard only to the documents filed with the court in the proceedings.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "Application for no adverse costs order"
+    ],
+    "text": "The parties have not in their submissions identified any authority in which the principles relating to the grant of a NACO under s 82 have been considered.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "APPLICABLE PRINCIPLES",
+     "Application for no adverse costs order"
+    ],
+    "text": "To be clear, these reasons only address s 82 of the CCA insofar as it is relied on by Mr Hamilton in respect of the costs argument in relation to the stay application.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "CONSIDERATION"
+    ],
+    "text": "It is convenient to first address Mr Hamilton’s contention that the general presumption that costs follow the event is displaced in this proceeding by the special costs regime provided for in s 82 of the CCA.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "Mr Hamilton instituted his application for a NACO at an early stage of the proceeding. The claim for a NACO was included in the originating application and in a number of interlocutory applications filed thereafter. In his Amended Originating Application he included a request that this application be heard at the earliest opportunity. The progress of the proceeding in this Court involved case management hearings before Rares J, as a result of which, the pleading of Mr Hamilton’s claim was revisited over a period of time before Mr Hamilton’s application for leave to serve the respondents outside the jurisdiction came to be determined.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "The application for leave to serve out was brought under rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth) as then applying. Mr Hamilton agitated to have his application for a NACO determined at the same time as his application for leave to serve the respondents outside the jurisdiction. The effect of hearing the application at that time would have been to determine the NACO application on an ex parte basis. I declined to hear and determine Mr Hamilton’s NACO application in the absence of the respondents because the Court would not have the benefit of a contradictor: Hamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681 at [2] (Hamilton Service Out).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "Mr Hamilton next agitated to have his NACO application determined in September 2022, by which time the respondents had been served and had appeared in the proceeding. A case management hearing was held on 21 September 2022. In advance of that case management hearing, Mr Hamilton and the respondents each filed written submissions which addressed, inter alia, the parties’ respective positions on the order in which various interlocutory applications should be heard. At that time, relevantly, the interlocutory applications included Mr Hamilton’s NACO application and a foreshadowed application by the respondents for a permanent stay or in the alternative a de-classing order and a strike out or summary dismissal application. Following that case management hearing, and after hearing oral submissions from the parties, I ordered that the application for a stay, which was predicated on the allegation that the proceeding was likely to bring the administration of justice into disrepute, be heard and determined before any other interlocutory applications.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "As I understand his submissions, Mr Hamilton acknowledges that s 82(4) of the CCA does not expressly restrict the discretion as to costs under s 43(2) of the FCA Act, however, he submits that s 82(4) displaces the usual presumption that costs follow the event in matters where the requirements set out in s 82(5) of the CCA are met. Mr Hamilton submits that the legislative purpose of s 82 of the CCA is to encourage potential applicants to bring competition claims in circumstances which meet the criteria in s 82(5), and thereby creates a special costs regime that applies to such claims.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "Against that scaffold, Mr Hamilton submits that where the s 82(5) criteria are met, the general presumption that costs follow the event does not apply, even if no NACO has been made. He submits that the criteria in s 82(5) are met because:\na number of reasonable issues for trial have been established at a prima facie level (s 82(5)(a));\nthe claims made in the proceeding raise issues significant not only to the Group Members but also to the general Australian public (s 82(5)(b)); and\nthe disparity between the financial positions of Mr Hamilton and the respondents is such that the possibility of a costs order in favour of the respondents would have discouraged the applicant from pursuing the claims at all (s 82(5)(c)).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "I have assumed for the purpose of testing Mr Hamilton’s argument that the s 82(5) criteria are satisfied, noting that the criteria are cumulative. To be clear, it is not necessary for me to decide whether in fact those criteria are satisfied and on this costs application it would be inappropriate to do so. It is sufficient to note that had the NACO application been argued, the issue of whether the criteria in s 82(5) were satisfied, would have been the subject of serious contest. So much is evident from the conduct of the proceeding to date. For example, in relation to the criteria in s 82(5)(a), Mr Hamilton relies on findings in relation to the existence of a prima facie case that were made in the ex parte application for service out, whereas the respondents had indicated that if the proceedings were not stayed they were contemplating bringing a strike out/summary dismissal application. In these circumstances, it is likely that satisfaction of the s 82(5)(a) criteria would have been in issue. The arguments advanced by each of the parties on this application relevant to the Court’s exercise of its general discretion to award costs which were directed to what Mr Hamilton contends to be the public interest dimension of the proceeding suggests that the issue of satisfaction of the criteria in s 82(5)(b) would likewise have been seriously contested.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "Mr Hamilton’s reliance on his extant application for a NACO as ousting the general presumption that costs follow the event is misplaced. Even if one were to assume for the purpose of Mr Hamilton’s argument that the circumstances of this proceeding satisfied the criteria in s 82(5), I do not accept that the making of a NACO application, in the absence of a NACO being made, limits the Court’s broad discretion under s 43(2) of the FCA Act so as to displace the general presumption that a successful party is entitled to costs.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "An application under s 82 of the CCA does not operate as a prophylactic costs protection to any applicant who believes they can obtain the benefit of a NACO. The plain terms of s 82(4) make it clear that the power to make a NACO is discretionary. The discretion must be exercised by reference to the considerations in s 82(5)(a) to (c). An applicant for a NACO is not entitled as of right to a NACO even if the court is satisfied of the matters in s 82(5)(a) to (c). Absent the court being satisfied of those matters, a NACO cannot be made. It does not follow, however, as Mr Hamilton appears to submit, that where the matters in s 82(5)(a) to (c) are established, the court must make a NACO. An applicant is at risk of an adverse costs order if and until the court makes a NACO, depending on the terms on which the NACO is made. The mere fact of filing an application for a NACO does not suffice to displace the conventional costs regime. On Mr Hamilton’s contended construction, s 82 would operate prophylactically to provide costs protection from the time an application is made where the criteria in s 82(5) is established. That would produce an odd result where, for example, the court after taking the s 82(5) matters into account, exercises its discretion not to make a NACO.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "CONSIDERATION",
+     "Mr Hamilton’s NACO application"
+    ],
+    "text": "Here, a NACO has not been made. The Court’s broad discretion under s 43(2) of the FCA Act, is not constrained by reasons of the extant application for a NACO and by reference to the factors in s 82(5)(a) to (c) of the CCA. The award of costs remains at the discretion of the Court. The general presumption that costs follow the event applies subject, of course, to the usual factors applying which may justify deviating from it.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act"
+    ],
+    "text": "The parties’ submissions were addressed to the following issues:\n(1) the significance of NACO application not being heard before the stay application;\n(2) putative detriment to future proceedings;\n(3) putative detriment to Group Members;\n(4) the public interest dimension of the proceeding;\n(5) the parties’ relative financial positions; and\n(6) other discretionary factors.\nI will address each in turn.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "In addition to, and in the alternative to, his primary contention that the NACO application limits the Court’s general discretion in relation to costs, Mr Hamilton submits that his NACO application is a relevant consideration that the Court must take into account in its broad discretion in relation to costs.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "Mr Hamilton contends that there ought to be no order as to costs because the stay application filed by the respondents was heard prior to the NACO application being determined even though the NACO application was filed first. Mr Hamilton submits that he had made clear from the outset of the proceeding that his intention was not to pursue the proceeding without the benefit of a NACO. Mr Hamilton submits that it would be ‘manifestly unfair’ for a costs order to be made against him in these circumstances. He submits that, because he was clear that he would not pursue the proceedings if a NACO was refused, that the respondents have incurred costs claimable against him only because his NACO application was not determined before the stay application.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "As mentioned, at the case management hearing Mr Hamilton argued for his NACO application to be determined before the respondents’ stay application. At that time, he argued that to determine the NACO application first would avoid the respondents incurring unnecessary costs in pursuing the stay application because if he did not obtain a NACO he would discontinue the proceeding. Mr Hamilton submits that as a result, the costs incurred by the respondents due to the stay application being heard first should not be borne by him.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "Mr Hamilton’s position that the NACO application should be determined as a priority did not prevail at the case management hearing. The respondents contended that while it may be beneficial for the NACO application to be heard at an early stage, it would not be appropriate for that application to be heard prior to the stay application because the stay application raised the question of whether the proceeding was likely to bring the administration of justice into disrepute. For this reason, the respondents contended that the stay application should be heard and determined as a matter of priority. In addition, the respondents submitted that the necessity to hear and determine the other interlocutory applications would fall away in the event the stay application was successful, as proved to be the case.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "Mr Hamilton’s submission that he would not have been exposed to a costs order if the NACO application had been determined before the stay application proceeds on two alternative bases.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "The first scenario assumes that Mr Hamilton would have succeeded in obtaining a NACO and thereafter enjoyed costs protection. Bearing in mind the findings that informed the grant of the stay, it is by no means clear that a NACO would have been granted. In fact, given the intractable conflicts that arose in the way in which the proceeding was being prosecuted and funded, in assessing Mr Hamilton’s argument in relation to fairness, I would regard it as less than likely that Mr Hamilton would have succeeded in obtaining a NACO.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "The second scenario assumes that Mr Hamilton did not obtain a NACO and thereafter sought to discontinue the proceeding. If the NACO application had been determined first, and refused, it is likely that the costs of that application would have followed the event and been awarded against Mr Hamilton. Absent the respondents’ agreeing to bear their own costs, it is likely that Mr Hamilton would also have been exposed to a costs order in relation to the proceeding as a whole. It is not possible to ascertain with any precision if the NACO application had been heard first, whether the NACO hearing would have been co-extensive in time and scope as that of the stay application. It is however likely that at least some similar issues in relation to the public interest dimension of the proceeding would have been ventilated on the NACO application having regard to the criteria in s 82(5)(b).",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "I am not persuaded that Mr Hamilton has established an element of unfairness stemming from the procedural history that would justify departing from the usual order that costs follow the event. I do not accept that Mr Hamilton’s exposure to an order to pay the respondents’ costs was incurred by reason of the stay application being brought and heard before a NACO application. Mr Hamilton’s exposure to a costs order was a result of him bringing the proceeding and the respondents defending the proceeding including by successfully applying for a stay. That costs should follow the event is not unfair, it is orthodox.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Significance of NACO application not being heard before the stay application"
+    ],
+    "text": "Finally, the respondents submit that Mr Hamilton did not make any attempt to apply for leave to appeal or otherwise vary the orders by which the application for a stay was listed to be heard in priority to the NACO application. Mr Hamilton responds by saying that the decision to list the stay application for determination first was not capable of being appealed. Whether that is correct or not, I accept that had he attempted to do so, his application for leave to appeal would have faced the usual impediments that make it difficult to obtain leave to appeal from an interlocutory decision in relation to case management: Adam P Brown Male Fashions Pty Ltd v Phillip Morris Inc [1981] HCA 39; 148 CLR 170 at 177 (Gibbs CJ, Aickin, Wilson and Brennan JJ); Décor Corporation Pty Ltd v Dart Industries Inc [1991] FCA544; 33 FCR 397 at 400 (Sheppard, Burchett and Heerey JJ); Southern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (No 2) (1990) 21 NSWLR 200 at 211 (Kirby P). At all times after the stay application was set down before the NACO application, Mr Hamilton knew he was at risk of an adverse costs order in respect of the respondents' interlocutory applications. That risk became obvious when Google filed its interlocutory application and included a prayer for an order that Mr Hamilton pay Google's costs of the stay application. Notwithstanding the adverse costs risk, Mr Hamilton elected to resist the interlocutory application, as was his right. In the circumstances, I am not satisfied that Mr Hamilton has demonstrated any unfairness that would justify departing from the usual presumption.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Putative detriment to future proceedings"
+    ],
+    "text": "Mr Hamilton’s next submission is to the effect that the Court in the exercise of its discretion should not award costs against him because to do so would quell the appetite of other representative applicants to bring competition law claims generally, and specifically in relation to the alleged Crypto Ad Bans conduct, and in this way undermine the object of s 82 of the CCA.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Putative detriment to future proceedings"
+    ],
+    "text": "Mr Hamilton submits that the purpose of s 82 of the CCA is to encourage competition law claims meeting the criteria without the threat of an adverse costs order if the claim is unsuccessful. In Mr Hamilton’s submission, an adverse costs order in these proceedings, following his efforts to have the NACO application heard before the stay application, would frustrate this purpose by discouraging future applicants with competition law claims from filing those claims due to the risk that the respondents will insert interlocutory applications prior to any NACO application being heard.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Putative detriment to future proceedings"
+    ],
+    "text": "Mr Hamilton’s argument is predicated on an appeal to generality and an attempt to obscure the central feature of the successful stay application which was to stay the proceeding because the proceeding was apt to bring the administration of justice into disrepute. The prioritisation of determining this issue ahead of any NACO application is to be understood in that specific context. I reject Mr Hamilton’s submission that making the usual costs order that costs follow the event in the circumstances of this proceeding will forestall other representative applicants from applying under s 82 of the CCA where they consider it appropriate to do so.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Putative detriment to Group Members"
+    ],
+    "text": "The permanent stay of the proceeding left it open for Group Members to bring new proceedings against the respondents. Mr Hamilton argued that to make a costs order against him would be detrimental to any future proceedings that may be filed by Group Members against the respondents because such an order would exhaust the resources of JPB Liberty, Mr Hamilton’s company and the funder of the proceeding. JPB Liberty and Mr Hamilton are, according to Mr Hamilton, the only entities with an interest or the incentive to reconstitute the proceedings, and therefore draining their collective resources by making a costs order against Mr Hamilton would significantly impact the capacity of anyone else to bring any future proceeding in relation to the Crypto Ad Ban claims alleged against the respondents.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Putative detriment to Group Members"
+    ],
+    "text": "I do not accept Mr Hamilton’s submission that making a costs order against him will adversely impact the interests of Group Members. The costs order that Mr Hamilton seeks to challenge does not impose any costs liability on Group Members. Mr Hamilton’s submission is based on his contention that he is the only available representative applicant and that his company, JPB Liberty is the only funder with any interest in funding the proceeding. Mr Hamilton gave some evidence to support this submission in the substantive proceedings. I do not doubt that Mr Hamilton earnestly holds that subjective view. However, the very nature of representative proceedings speaks against it objectively being the case that a representative action with reasonable prospects would flounder for want of a funder and a willing representative applicant. If that were the case, an issue would arise as to whether the underlying claims have sufficient prospects to warrant bringing the claim. Relatedly, in those circumstances doubt may arise as to whether Group Members’ interests would in fact be served by bringing the Crypto Ad Ban claims. The risk that the costs order may have a significant financial impact on JPB Liberty does not provide a principled basis for departing from the general presumption that costs follow the event. Having considered Mr Hamilton’s submissions on this issue, I am not satisfied that there is any detriment to Group Members in the particular context of this proceeding that would weigh against the usual order that costs follow the event.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "The public interest dimension"
+    ],
+    "text": "Mr Hamilton submits that his claim against the respondents raised issues that are significant to the Australian public due to the general public interest in the economic impact of cartel behaviour. Mr Hamilton submits that the purported public interest of the proceeding is rooted in the substantive competition law claims made, and is independent from the arrangements in place in relation to representation and funding.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "The public interest dimension"
+    ],
+    "text": "The question of the public interest in the proceeding was considered in Hamilton Stay. Even though there may have been at a basal level a public interest dimension to the proceeding if the allegations of cartel conduct were ultimately substantiated, it remains the case that due to the potential conflicts of interest between Mr Hamilton and Group Members, the continuation of the proceeding as constituted was likely to bring the administration of justice into disrepute: Hamilton Stay at [177]. The likelihood that the proceeding if continued would bring the administration of justice into disrepute, undermines Mr Hamilton’s contention that the proceeding is in the public interest. Bringing a proceeding which is likely to bring the administration of justice into disrepute does not to my mind sit comfortably as being in the public interest. In this proceeding, the public interest is served by observing the general presumption that costs should follow the event. In any event, even in absence of the proceeding bringing the administration of justice into disrepute, in my view the mere existence of a level of public interest underlying the substantive claims, without more in the present circumstances, is insufficient to displace the general presumption that costs follow the event.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "The parties’ relative financial positions"
+    ],
+    "text": "Mr Hamilton submits that the Court should consider that the respondents are two large, multinational companies and that a failure to recover costs from him would be of small financial consequence to them.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "The parties’ relative financial positions"
+    ],
+    "text": "Notwithstanding the factual force of Mr Hamilton’s submission as to the relative financial positions of the parties, that factor does not provide a principled reason to deprive the respondents of their costs. As the High Court observed in Sangare, (at [27]):\n27 …In point of principle, it is basic justice that a successful party should be compensated for expenses it has incurred because it has been obliged to litigate by the unsuccessful party. That consideration of basic justice does not lose its compelling force simply because the successful party happens to be wealthy: the successful party, whether rich or poor, did not ask to be subjected to the expense of unmeritorious litigation. The statutory power to order costs affords the successful party necessary protection against unmeritorious litigation; and unmeritorious litigation is no less unmeritorious because it is pursued by a person who is poor or who is a litigant-in-person.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "The parties’ relative financial positions"
+    ],
+    "text": "Although Mr Hamilton seeks to distinguish Sangare on the basis that it applies only to assumption of an adverse costs risk in unmeritorious litigation, I do not find his submission to be persuasive. As the above extract makes plain the High Court is dealing with the issue at the level of principle. Mr Hamilton’s reliance on the ex parte finding of a prima facie case in the Hamilton Service Out does not assist him for the reasons already given. Mr Hamilton’s proceeding has been found to be unmeritorious in that it is likely to bring the administration of justice into disrepute. Similarly, Mr Hamilton’s assertion that he did not assume an adverse cost risk because he had made a NACO application does not assist him for the reasons already given. Accordingly, I reject Mr Hamilton’s submission that the relative financial standing of the parties provides a reason to depart from the usual order that costs should follow the event.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Other discretionary factors"
+    ],
+    "text": "Mr Hamilton submits that another factor that weighs against costs being awarded to the respondents is that the application was unprecedented, the issues novel, the law untested, and that the hearing raised complex questions of law. Meta submits that in fact the respondents' applications were not novel or otherwise able to be characterised in the manner which Mr Hamilton submits. Further, that much of the complexity of the stay applications arose out of Mr Hamilton's decision to proceed without legal representation and without the benefit of independent advice on the conduct of the applications. I agree. Mr Hamilton’s characterisation of the applications as novel and unprecedented do not justify a departure from the usual order as to costs.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Other discretionary factors"
+    ],
+    "text": "Mr Hamilton also submits that the Court should take into account his present personal circumstances when considering whether he should be ordered to pay costs. Mr Hamilton submits that he is “self-represented and is resident in Tel Aviv, Israel, which is currently in a state of war after over 1300 of its citizens were brutally murdered and kidnapped by Hamas terrorists. He is currently in Cyprus with his wife and 3 young children, unable to return home because of lack of child care for his children and the dangers of war. A cost order would impose additional hardship” on him.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Other discretionary factors"
+    ],
+    "text": "Meta submits that while Mr Hamilton’s circumstances should not be diminished, they are not relevant to the exercise of the Court’s discretion as to costs. I have sympathy for Mr Hamilton’s present circumstances, however to depart from the general presumption on the basis of personal sympathy is, as the authorities make plain, to be eschewed.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "CONSIDERATION",
+     "Court’s broad discretion under s 43(2) of the FCA Act",
+     "Other discretionary factors"
+    ],
+    "text": "On the other side of the ledger, this is not a proceeding in which it would be appropriate to depart from the general presumption because the successful parties are guilty of disentitling conduct or have otherwise failed to act in accordance with the overarching purpose embodied in s 37M of the FCA Act. Mr Hamilton makes no submission to that effect. There is nothing in the way in which the respondents have responded to the proceeding brought against them that weighs against the award of costs following the event. The event being the successful application to have the proceeding permanently stayed. That application was brought promptly following the proceeding being served, prosecuted efficiently and ultimately succeeded. In combination these matters weigh heavily in favour of awarding the respondents their costs.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "Taking into account all of the matters raised by the parties relevant to the exercise of the discretion to award costs, I am satisfied that the balance weighs heavily in favour of awarding the respondents their costs. The usual order is that costs should follow the event. For the reasons given, I am satisfied that the usual order is the correct order in the present application.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "For completeness, I note that although I have rejected Mr Hamilton’s contention that the general presumption that costs follow the event is displaced by the combination of circumstances in the present case, including the NACO provisions, the wide standing provisions and the inherent public interest in competition law cases, even if I accepted Mr Hamilton’s submission it would not have made a difference in the result. Had it been necessary to begin from a neutral position without regard to the general presumption, I would have arrived at the same result. To my mind, taking into account the whole of the circumstances, the most important factors relevant to the exercise of the discretion to award costs is the result of the litigation (Oshlack at [66]) and relatedly, the nature of the issue on which Mr Hamilton came unstuck — that his proceeding was likely to bring the administration of justice into disrepute. Against these factors, it is significant that there were no countervailing factors in the form of disentitling conduct on the part of the respondents. These factors weighed heavily in favour of making an award of costs against Mr Hamilton, even if a neutral starting position was adopted.",
+    "judge": "CHEESEMAN J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "CONCLUSION"
+    ],
+    "text": "For these reasons, I decline to vary the costs order made on 29 September 2023.",
+    "judge": "CHEESEMAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifty-two (52) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.",
+ "associate": null,
+ "dated": "2023-11-29",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Hamilton v Meta Platforms, Inc. (Costs) [2023] FCA 1496\n\n## Cover sheet\n\n**File number(s):** NSD 899 of 2020\n\n**Judgment of:** CHEESEMAN J\n\n**Date of judgment:** 29 November 2023\n\n**Catchwords:** COSTS – where proceeding permanently stayed – where the applicant sought an order under s 82(4) of the Competition and Consumer Act 2010 (Cth) (CCA) (NACO) – where the application for the NACO has not been determined – where the application for a permanent stay determined prior to the hearing of the NACO application – whether s 82 of the CCA displaces the general presumption that costs follow the event – whether procedural course resulted in unfairness that justifies a departure from the general presumption – Held: Applicant to pay respondents’ costs.\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) ss 82(3), 82(4), 82(5), 82(6)  \nFederal Court of Australia Act 1976 (Cth) ss 37M, 37N(4), 43(1), 43(1A), 43(2)  \nFederal Court Rules 2011 (Cth) rr 10.42, 10.43(2) and 10.44(1)\n\n**Cases cited:** Adam P Brown Male Fashions Pty Ltd v Phillip Morris Inc [1981] HCA 39; 148 CLR 170  \nBhagat v Royal and Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159  \nDécor Corporation Pty Ltd v Dart Industries Inc [1991] FCA544; 33 FCR 397  \nEl-Debel v Micheletto (Trustee) (No 2) [2021] FCAFC 146  \nFisse v Secretary, Department of the Treasury & Anor (No 2) [2008] FCAFC 200; 253 ALR 52  \nHamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681  \nHamilton v Meta Platforms, Inc. [2023] FCA 1148  \nLFDB v SM (No 2) [2017] FCAFC 207  \nNorthern Territory v Sangare [2019] HCA 25; 265 CLR 164  \nOshlack v Richmond River Council [1998] HCA 11; 193 CLR 72  \nSouthern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (No 2) (1990) 21 NSWLR 200\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Regulator and Consumer Protection\n\n**Number of paragraphs:** 52\n\n**Date of last submissions:** 7 November 2023\n\n**Date of hearing:** Determined on the papers\n\n**Counsel for the Applicant:** The applicant was self represented\n\n**Counsel for the First Respondent:** Mr M Darke SC and Ms K Lindeman\n\n**Solicitor for the First Respondent:** Corrs Chambers Westgarth\n\n**Counsel for the Second Respondent:** Mr R A Yezerski SC\n\n**Solicitor for the Second Respondent:** Herbert Smith Freehills\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 899 of 2020 |\n|---|---|\n| BETWEEN: | ANDREW PAUL STUART HAMILTON<br>Applicant |\n| AND: | META PLATFORMS, INC.<br>First Respondent<br>GOOGLE LLC<br>Second Respondent |\n\n| order made by: | CHEESEMAN J |\n|---|---|\n| DATE OF ORDER: | 29 November 2023 |\n\n### THE COURT ORDERS THAT:\n\n1. The applicant’s application to vary order 3 made on 29 September 2023 (the Costs Order) be dismissed.\n\n2. The applicant pay the respondent's costs of the application to vary the Costs Order.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### CHEESEMAN J\n\n### INTRODUCTION\n\n[1] On the application of the respondents, this proceeding was permanently stayed: Hamilton v Meta Platforms, Inc. [2023] FCA 1148 (Hamilton Stay). These reasons address the issue of costs, which was determined on the papers. Familiarity is assumed with the reasons given in Hamilton Stay. Terms used in these reasons have the same meaning as in Hamilton Stay.\n\n[2] At the time of granting a permanent stay, I ordered that costs follow the event but reserved to the parties leave to apply to vary that order within a specified period. Mr Hamilton exercised that leave and filed submissions seeking to vary the costs order. Meta Platforms, Inc. and Google LLC filed submissions opposing the variation of the existing costs order. Mr Hamilton filed submissions in reply. The parties agreed to the question of costs being determined on the papers.\n\n### CONCLUSION IN SUMMARY FORM\n\n[3] Having considered the submissions made by each of the parties, for the reasons that follow, I am satisfied that the appropriate order is that costs follow the event with the result that Mr Hamilton should pay the respondents’ costs. Accordingly, I will not vary order 3 of the orders I made on 29 September 2023.\n\n### APPLICABLE PRINCIPLES\n\n#### The discretion to award costs\n\n[4] The Court has the power to order costs in all proceedings before it: s 43(1) of the Federal Court of Australia Act 1976 (Cth) (FCA Act). That power is subject to the FCA Act or any other Act providing that costs must not be awarded and other identified legislative provisions: s 43(1) of the FCA Act. Relevantly, the power to award costs in s 43(1) is subject to s 43(1A) which limits the Court’s power in Part IVA representative proceedings to award costs against, in the present context, Group Members. Such an award may only be made in accordance with s 33Q or s 33R of the FCA Act. The costs order that is in issue in this application is not against Group Members, it is against Mr Hamilton, the representative applicant. Section 43(1A) does not limit the Court’s power to award costs against a representative applicant, such as Mr Hamilton. The exercise of the power to award costs is discretionary, unless another Act provides otherwise: s 43(2) of the FCA Act.\n\n[5] The discretion to award costs is unconfined but must be exercised judicially, that is according to relevant considerations and taking into account the contextual features and facts of the litigation: El-Debel v Micheletto (Trustee) (No 2) [2021] FCAFC 146 at [2] (Markovic, Derrington and Colvin JJ).\n\n[6] The general presumption is that costs will follow the event. The general presumption creates a reasonable expectation that the successful party will be awarded costs against the unsuccessful party: Oshlack v Richmond River Council [1998] HCA 11; 193 CLR 72 at [67] (McHugh J, Brennan CJ agreeing). In exercising its discretion to award costs, a court may deviate from the general presumption but should not do so on the basis of private opinion, benevolence, or sympathy for the unsuccessful party: Oshlack at [22] (Gaudron and Gummow JJ). A court may depart from the general presumption if, for example, there has been some disentitling conduct by the successful party, such as unreasonable delay, or a lack of cooperation: Oshlack at [69] (McHugh J, Brennan CJ agreeing); Northern Territory v Sangare [2019] HCA 25; 265 CLR 164 at [25] (Kiefel CJ, Bell, Gageler, Keane and Nettle JJ).\n\n[7] In exercising the discretion to order costs, the Court must take into account any failure to conduct the proceeding in a way that is consistent with the over-arching purpose of facilitating the just resolution of disputes according to law, and as quickly, inexpensively and efficiently as possible: s 37N(4) of the FCA Act; LFDB v SM (No 2) [2017] FCAFC 207 at [7] (Besanko, Jagot and Lee JJ).\n\n[8] A legitimate public interest in the importance of the issues resolved is a factor that the Court may take into account when exercising the discretion conferred by s 43 of the FCA Act: Fisse v Secretary, Department of the Treasury & Anor (No 2) [2008] FCAFC 200; 253 ALR 52 at [9] (Stone, Buchanan and Flick JJ).\n\n[9] Having regard to the fact that Mr Hamilton is a litigant in person, it is apt to note the observations of Hodgson CJ in Eq in Bhagat v Royal and Sun Alliance Life Assurance Australia Ltd [2000] NSWSC 159 (at [13]):\n\n> 13. … I accept that a court does have to make allowances for the position of litigants in person, and to try to ensure that such a litigant does not lose out because of lack of expertise; although there is a limit to what the Court can do in that regard, while still remaining an impartial determinant of a dispute. The Court may in those circumstances refrain from making orders against litigants in person for conduct that might be considered as justifying orders for costs against represented litigants. By the same token, litigants in person can cause great hardship and expense to other parties, through making allegations and claims that lawyers would recognise as allegations and claims that could not reasonably or even properly be made, and through making proceedings much longer and much more expensive than they would otherwise be, by not focusing accurately on the real issues in the case. Conduct of that nature by legally represented parties would often lead to orders for indemnity costs. Litigants in person may escape the consequence of indemnity costs, but I do not think that the circumstance that a party is a litigant in person is a ground for displacing the ordinary result that costs follow the event.\n\n[10] The issue before the Court does not concern an order for costs to be paid on an indemnity basis, rather, whether Mr Hamilton as a litigant in person should be subject to the general presumption that costs follow the event.\n\n#### Application for no adverse costs order\n\n[11] Mr Hamilton applied under s 82(3) of the Competition and Consumer Act 2010 (Cth) (CCA) for the Court to make an order pursuant to s 82(4) that he not be liable for any of the respondents’ costs regardless of the outcome or likely outcome of the proceeding (a no adverse costs order or NACO).\n\n[12] Section 82 of the CCA relevantly provides that a person who brings an action in respect of loss or damage by conduct of another person that was done in contravention of Part IV of the CCA may at any time during the proceeding seek a NACO from the court hearing, or that will hear, the matter: s 82(3).\n\n[13] Section 82(4) to (6) provides in relation to the making of a NACO:\n\n> (4) The court may order that the applicant is not liable for the costs of any respondent to the proceedings, regardless of the outcome or likely outcome of the proceedings.\n\n> (5) The court may only make an order under subsection (4) if the court is satisfied that:\n\n> (a) the action raises a reasonable issue for trial; and\n\n> (b) the action raises an issue that is not only significant for the applicant, but may also be significant for other persons or groups of persons; and\n\n> (c) the disparity between the financial position of the applicant and the financial position of the respondent or respondents is such that the possibility of a costs order that does not favour the applicant might deter the applicant from pursuing the action.\n\n> (6) The court may satisfy itself of the matters in subsection (5) by having regard only to the documents filed with the court in the proceedings.\n\n[14] The parties have not in their submissions identified any authority in which the principles relating to the grant of a NACO under s 82 have been considered.\n\n[15] To be clear, these reasons only address s 82 of the CCA insofar as it is relied on by Mr Hamilton in respect of the costs argument in relation to the stay application.\n\n### CONSIDERATION\n\n[16] It is convenient to first address Mr Hamilton’s contention that the general presumption that costs follow the event is displaced in this proceeding by the special costs regime provided for in s 82 of the CCA.\n\n#### Mr Hamilton’s NACO application\n\n[17] Mr Hamilton instituted his application for a NACO at an early stage of the proceeding. The claim for a NACO was included in the originating application and in a number of interlocutory applications filed thereafter. In his Amended Originating Application he included a request that this application be heard at the earliest opportunity. The progress of the proceeding in this Court involved case management hearings before Rares J, as a result of which, the pleading of Mr Hamilton’s claim was revisited over a period of time before Mr Hamilton’s application for leave to serve the respondents outside the jurisdiction came to be determined.\n\n[18] The application for leave to serve out was brought under rr 10.42, 10.43(2) and 10.44(1) of the Federal Court Rules 2011 (Cth) as then applying. Mr Hamilton agitated to have his application for a NACO determined at the same time as his application for leave to serve the respondents outside the jurisdiction. The effect of hearing the application at that time would have been to determine the NACO application on an ex parte basis. I declined to hear and determine Mr Hamilton’s NACO application in the absence of the respondents because the Court would not have the benefit of a contradictor: Hamilton v Meta Platforms, Inc (Service out of Jurisdiction) [2022] FCA 681 at [2] (Hamilton Service Out).\n\n[19] Mr Hamilton next agitated to have his NACO application determined in September 2022, by which time the respondents had been served and had appeared in the proceeding. A case management hearing was held on 21 September 2022. In advance of that case management hearing, Mr Hamilton and the respondents each filed written submissions which addressed, inter alia, the parties’ respective positions on the order in which various interlocutory applications should be heard. At that time, relevantly, the interlocutory applications included Mr Hamilton’s NACO application and a foreshadowed application by the respondents for a permanent stay or in the alternative a de-classing order and a strike out or summary dismissal application. Following that case management hearing, and after hearing oral submissions from the parties, I ordered that the application for a stay, which was predicated on the allegation that the proceeding was likely to bring the administration of justice into disrepute, be heard and determined before any other interlocutory applications.\n\n[20] As I understand his submissions, Mr Hamilton acknowledges that s 82(4) of the CCA does not expressly restrict the discretion as to costs under s 43(2) of the FCA Act, however, he submits that s 82(4) displaces the usual presumption that costs follow the event in matters where the requirements set out in s 82(5) of the CCA are met. Mr Hamilton submits that the legislative purpose of s 82 of the CCA is to encourage potential applicants to bring competition claims in circumstances which meet the criteria in s 82(5), and thereby creates a special costs regime that applies to such claims.\n\n[21] Against that scaffold, Mr Hamilton submits that where the s 82(5) criteria are met, the general presumption that costs follow the event does not apply, even if no NACO has been made. He submits that the criteria in s 82(5) are met because:\n\na number of reasonable issues for trial have been established at a prima facie level (s 82(5)(a));\n\nthe claims made in the proceeding raise issues significant not only to the Group Members but also to the general Australian public (s 82(5)(b)); and\n\nthe disparity between the financial positions of Mr Hamilton and the respondents is such that the possibility of a costs order in favour of the respondents would have discouraged the applicant from pursuing the claims at all (s 82(5)(c)).\n\n[22] I have assumed for the purpose of testing Mr Hamilton’s argument that the s 82(5) criteria are satisfied, noting that the criteria are cumulative. To be clear, it is not necessary for me to decide whether in fact those criteria are satisfied and on this costs application it would be inappropriate to do so. It is sufficient to note that had the NACO application been argued, the issue of whether the criteria in s 82(5) were satisfied, would have been the subject of serious contest. So much is evident from the conduct of the proceeding to date. For example, in relation to the criteria in s 82(5)(a), Mr Hamilton relies on findings in relation to the existence of a prima facie case that were made in the ex parte application for service out, whereas the respondents had indicated that if the proceedings were not stayed they were contemplating bringing a strike out/summary dismissal application. In these circumstances, it is likely that satisfaction of the s 82(5)(a) criteria would have been in issue. The arguments advanced by each of the parties on this application relevant to the Court’s exercise of its general discretion to award costs which were directed to what Mr Hamilton contends to be the public interest dimension of the proceeding suggests that the issue of satisfaction of the criteria in s 82(5)(b) would likewise have been seriously contested.\n\n[23] Mr Hamilton’s reliance on his extant application for a NACO as ousting the general presumption that costs follow the event is misplaced. Even if one were to assume for the purpose of Mr Hamilton’s argument that the circumstances of this proceeding satisfied the criteria in s 82(5), I do not accept that the making of a NACO application, in the absence of a NACO being made, limits the Court’s broad discretion under s 43(2) of the FCA Act so as to displace the general presumption that a successful party is entitled to costs.\n\n[24] An application under s 82 of the CCA does not operate as a prophylactic costs protection to any applicant who believes they can obtain the benefit of a NACO. The plain terms of s 82(4) make it clear that the power to make a NACO is discretionary. The discretion must be exercised by reference to the considerations in s 82(5)(a) to (c). An applicant for a NACO is not entitled as of right to a NACO even if the court is satisfied of the matters in s 82(5)(a) to (c). Absent the court being satisfied of those matters, a NACO cannot be made. It does not follow, however, as Mr Hamilton appears to submit, that where the matters in s 82(5)(a) to (c) are established, the court must make a NACO. An applicant is at risk of an adverse costs order if and until the court makes a NACO, depending on the terms on which the NACO is made. The mere fact of filing an application for a NACO does not suffice to displace the conventional costs regime. On Mr Hamilton’s contended construction, s 82 would operate prophylactically to provide costs protection from the time an application is made where the criteria in s 82(5) is established. That would produce an odd result where, for example, the court after taking the s 82(5) matters into account, exercises its discretion not to make a NACO.\n\n[25] Here, a NACO has not been made. The Court’s broad discretion under s 43(2) of the FCA Act, is not constrained by reasons of the extant application for a NACO and by reference to the factors in s 82(5)(a) to (c) of the CCA. The award of costs remains at the discretion of the Court. The general presumption that costs follow the event applies subject, of course, to the usual factors applying which may justify deviating from it.\n\n#### Court’s broad discretion under s 43(2) of the FCA Act\n\n[26] The parties’ submissions were addressed to the following issues:\n\n(1) the significance of NACO application not being heard before the stay application;\n\n(2) putative detriment to future proceedings;\n\n(3) putative detriment to Group Members;\n\n(4) the public interest dimension of the proceeding;\n\n(5) the parties’ relative financial positions; and\n\n(6) other discretionary factors.\n\nI will address each in turn.\n\n##### Significance of NACO application not being heard before the stay application\n\n[27] In addition to, and in the alternative to, his primary contention that the NACO application limits the Court’s general discretion in relation to costs, Mr Hamilton submits that his NACO application is a relevant consideration that the Court must take into account in its broad discretion in relation to costs.\n\n[28] Mr Hamilton contends that there ought to be no order as to costs because the stay application filed by the respondents was heard prior to the NACO application being determined even though the NACO application was filed first. Mr Hamilton submits that he had made clear from the outset of the proceeding that his intention was not to pursue the proceeding without the benefit of a NACO. Mr Hamilton submits that it would be ‘manifestly unfair’ for a costs order to be made against him in these circumstances. He submits that, because he was clear that he would not pursue the proceedings if a NACO was refused, that the respondents have incurred costs claimable against him only because his NACO application was not determined before the stay application.\n\n[29] As mentioned, at the case management hearing Mr Hamilton argued for his NACO application to be determined before the respondents’ stay application. At that time, he argued that to determine the NACO application first would avoid the respondents incurring unnecessary costs in pursuing the stay application because if he did not obtain a NACO he would discontinue the proceeding. Mr Hamilton submits that as a result, the costs incurred by the respondents due to the stay application being heard first should not be borne by him.\n\n[30] Mr Hamilton’s position that the NACO application should be determined as a priority did not prevail at the case management hearing. The respondents contended that while it may be beneficial for the NACO application to be heard at an early stage, it would not be appropriate for that application to be heard prior to the stay application because the stay application raised the question of whether the proceeding was likely to bring the administration of justice into disrepute. For this reason, the respondents contended that the stay application should be heard and determined as a matter of priority. In addition, the respondents submitted that the necessity to hear and determine the other interlocutory applications would fall away in the event the stay application was successful, as proved to be the case.\n\n[31] Mr Hamilton’s submission that he would not have been exposed to a costs order if the NACO application had been determined before the stay application proceeds on two alternative bases.\n\n[32] The first scenario assumes that Mr Hamilton would have succeeded in obtaining a NACO and thereafter enjoyed costs protection. Bearing in mind the findings that informed the grant of the stay, it is by no means clear that a NACO would have been granted. In fact, given the intractable conflicts that arose in the way in which the proceeding was being prosecuted and funded, in assessing Mr Hamilton’s argument in relation to fairness, I would regard it as less than likely that Mr Hamilton would have succeeded in obtaining a NACO.\n\n[33] The second scenario assumes that Mr Hamilton did not obtain a NACO and thereafter sought to discontinue the proceeding. If the NACO application had been determined first, and refused, it is likely that the costs of that application would have followed the event and been awarded against Mr Hamilton. Absent the respondents’ agreeing to bear their own costs, it is likely that Mr Hamilton would also have been exposed to a costs order in relation to the proceeding as a whole. It is not possible to ascertain with any precision if the NACO application had been heard first, whether the NACO hearing would have been co-extensive in time and scope as that of the stay application. It is however likely that at least some similar issues in relation to the public interest dimension of the proceeding would have been ventilated on the NACO application having regard to the criteria in s 82(5)(b).\n\n[34] I am not persuaded that Mr Hamilton has established an element of unfairness stemming from the procedural history that would justify departing from the usual order that costs follow the event. I do not accept that Mr Hamilton’s exposure to an order to pay the respondents’ costs was incurred by reason of the stay application being brought and heard before a NACO application. Mr Hamilton’s exposure to a costs order was a result of him bringing the proceeding and the respondents defending the proceeding including by successfully applying for a stay. That costs should follow the event is not unfair, it is orthodox.\n\n[35] Finally, the respondents submit that Mr Hamilton did not make any attempt to apply for leave to appeal or otherwise vary the orders by which the application for a stay was listed to be heard in priority to the NACO application. Mr Hamilton responds by saying that the decision to list the stay application for determination first was not capable of being appealed. Whether that is correct or not, I accept that had he attempted to do so, his application for leave to appeal would have faced the usual impediments that make it difficult to obtain leave to appeal from an interlocutory decision in relation to case management: Adam P Brown Male Fashions Pty Ltd v Phillip Morris Inc [1981] HCA 39; 148 CLR 170 at 177 (Gibbs CJ, Aickin, Wilson and Brennan JJ); Décor Corporation Pty Ltd v Dart Industries Inc [1991] FCA544; 33 FCR 397 at 400 (Sheppard, Burchett and Heerey JJ); Southern Cross Exploration NL v Fire & All Risks Insurance Co Ltd (No 2) (1990) 21 NSWLR 200 at 211 (Kirby P). At all times after the stay application was set down before the NACO application, Mr Hamilton knew he was at risk of an adverse costs order in respect of the respondents' interlocutory applications. That risk became obvious when Google filed its interlocutory application and included a prayer for an order that Mr Hamilton pay Google's costs of the stay application. Notwithstanding the adverse costs risk, Mr Hamilton elected to resist the interlocutory application, as was his right. In the circumstances, I am not satisfied that Mr Hamilton has demonstrated any unfairness that would justify departing from the usual presumption.\n\n##### Putative detriment to future proceedings\n\n[36] Mr Hamilton’s next submission is to the effect that the Court in the exercise of its discretion should not award costs against him because to do so would quell the appetite of other representative applicants to bring competition law claims generally, and specifically in relation to the alleged Crypto Ad Bans conduct, and in this way undermine the object of s 82 of the CCA.\n\n[37] Mr Hamilton submits that the purpose of s 82 of the CCA is to encourage competition law claims meeting the criteria without the threat of an adverse costs order if the claim is unsuccessful. In Mr Hamilton’s submission, an adverse costs order in these proceedings, following his efforts to have the NACO application heard before the stay application, would frustrate this purpose by discouraging future applicants with competition law claims from filing those claims due to the risk that the respondents will insert interlocutory applications prior to any NACO application being heard.\n\n[38] Mr Hamilton’s argument is predicated on an appeal to generality and an attempt to obscure the central feature of the successful stay application which was to stay the proceeding because the proceeding was apt to bring the administration of justice into disrepute. The prioritisation of determining this issue ahead of any NACO application is to be understood in that specific context. I reject Mr Hamilton’s submission that making the usual costs order that costs follow the event in the circumstances of this proceeding will forestall other representative applicants from applying under s 82 of the CCA where they consider it appropriate to do so.\n\n##### Putative detriment to Group Members\n\n[39] The permanent stay of the proceeding left it open for Group Members to bring new proceedings against the respondents. Mr Hamilton argued that to make a costs order against him would be detrimental to any future proceedings that may be filed by Group Members against the respondents because such an order would exhaust the resources of JPB Liberty, Mr Hamilton’s company and the funder of the proceeding. JPB Liberty and Mr Hamilton are, according to Mr Hamilton, the only entities with an interest or the incentive to reconstitute the proceedings, and therefore draining their collective resources by making a costs order against Mr Hamilton would significantly impact the capacity of anyone else to bring any future proceeding in relation to the Crypto Ad Ban claims alleged against the respondents.\n\n[40] I do not accept Mr Hamilton’s submission that making a costs order against him will adversely impact the interests of Group Members. The costs order that Mr Hamilton seeks to challenge does not impose any costs liability on Group Members. Mr Hamilton’s submission is based on his contention that he is the only available representative applicant and that his company, JPB Liberty is the only funder with any interest in funding the proceeding. Mr Hamilton gave some evidence to support this submission in the substantive proceedings. I do not doubt that Mr Hamilton earnestly holds that subjective view. However, the very nature of representative proceedings speaks against it objectively being the case that a representative action with reasonable prospects would flounder for want of a funder and a willing representative applicant. If that were the case, an issue would arise as to whether the underlying claims have sufficient prospects to warrant bringing the claim. Relatedly, in those circumstances doubt may arise as to whether Group Members’ interests would in fact be served by bringing the Crypto Ad Ban claims. The risk that the costs order may have a significant financial impact on JPB Liberty does not provide a principled basis for departing from the general presumption that costs follow the event. Having considered Mr Hamilton’s submissions on this issue, I am not satisfied that there is any detriment to Group Members in the particular context of this proceeding that would weigh against the usual order that costs follow the event.\n\n##### The public interest dimension\n\n[41] Mr Hamilton submits that his claim against the respondents raised issues that are significant to the Australian public due to the general public interest in the economic impact of cartel behaviour. Mr Hamilton submits that the purported public interest of the proceeding is rooted in the substantive competition law claims made, and is independent from the arrangements in place in relation to representation and funding.\n\n[42] The question of the public interest in the proceeding was considered in Hamilton Stay. Even though there may have been at a basal level a public interest dimension to the proceeding if the allegations of cartel conduct were ultimately substantiated, it remains the case that due to the potential conflicts of interest between Mr Hamilton and Group Members, the continuation of the proceeding as constituted was likely to bring the administration of justice into disrepute: Hamilton Stay at [177]. The likelihood that the proceeding if continued would bring the administration of justice into disrepute, undermines Mr Hamilton’s contention that the proceeding is in the public interest. Bringing a proceeding which is likely to bring the administration of justice into disrepute does not to my mind sit comfortably as being in the public interest. In this proceeding, the public interest is served by observing the general presumption that costs should follow the event. In any event, even in absence of the proceeding bringing the administration of justice into disrepute, in my view the mere existence of a level of public interest underlying the substantive claims, without more in the present circumstances, is insufficient to displace the general presumption that costs follow the event.\n\n##### The parties’ relative financial positions\n\n[43] Mr Hamilton submits that the Court should consider that the respondents are two large, multinational companies and that a failure to recover costs from him would be of small financial consequence to them.\n\n[44] Notwithstanding the factual force of Mr Hamilton’s submission as to the relative financial positions of the parties, that factor does not provide a principled reason to deprive the respondents of their costs. As the High Court observed in Sangare, (at [27]):\n\n> 27 …In point of principle, it is basic justice that a successful party should be compensated for expenses it has incurred because it has been obliged to litigate by the unsuccessful party. That consideration of basic justice does not lose its compelling force simply because the successful party happens to be wealthy: the successful party, whether rich or poor, did not ask to be subjected to the expense of unmeritorious litigation. The statutory power to order costs affords the successful party necessary protection against unmeritorious litigation; and unmeritorious litigation is no less unmeritorious because it is pursued by a person who is poor or who is a litigant-in-person.\n\n[45] Although Mr Hamilton seeks to distinguish Sangare on the basis that it applies only to assumption of an adverse costs risk in unmeritorious litigation, I do not find his submission to be persuasive. As the above extract makes plain the High Court is dealing with the issue at the level of principle. Mr Hamilton’s reliance on the ex parte finding of a prima facie case in the Hamilton Service Out does not assist him for the reasons already given. Mr Hamilton’s proceeding has been found to be unmeritorious in that it is likely to bring the administration of justice into disrepute. Similarly, Mr Hamilton’s assertion that he did not assume an adverse cost risk because he had made a NACO application does not assist him for the reasons already given. Accordingly, I reject Mr Hamilton’s submission that the relative financial standing of the parties provides a reason to depart from the usual order that costs should follow the event.\n\n##### Other discretionary factors\n\n[46] Mr Hamilton submits that another factor that weighs against costs being awarded to the respondents is that the application was unprecedented, the issues novel, the law untested, and that the hearing raised complex questions of law. Meta submits that in fact the respondents' applications were not novel or otherwise able to be characterised in the manner which Mr Hamilton submits. Further, that much of the complexity of the stay applications arose out of Mr Hamilton's decision to proceed without legal representation and without the benefit of independent advice on the conduct of the applications. I agree. Mr Hamilton’s characterisation of the applications as novel and unprecedented do not justify a departure from the usual order as to costs.\n\n[47] Mr Hamilton also submits that the Court should take into account his present personal circumstances when considering whether he should be ordered to pay costs. Mr Hamilton submits that he is “self-represented and is resident in Tel Aviv, Israel, which is currently in a state of war after over 1300 of its citizens were brutally murdered and kidnapped by Hamas terrorists. He is currently in Cyprus with his wife and 3 young children, unable to return home because of lack of child care for his children and the dangers of war. A cost order would impose additional hardship” on him.\n\n[48] Meta submits that while Mr Hamilton’s circumstances should not be diminished, they are not relevant to the exercise of the Court’s discretion as to costs. I have sympathy for Mr Hamilton’s present circumstances, however to depart from the general presumption on the basis of personal sympathy is, as the authorities make plain, to be eschewed.\n\n[49] On the other side of the ledger, this is not a proceeding in which it would be appropriate to depart from the general presumption because the successful parties are guilty of disentitling conduct or have otherwise failed to act in accordance with the overarching purpose embodied in s 37M of the FCA Act. Mr Hamilton makes no submission to that effect. There is nothing in the way in which the respondents have responded to the proceeding brought against them that weighs against the award of costs following the event. The event being the successful application to have the proceeding permanently stayed. That application was brought promptly following the proceeding being served, prosecuted efficiently and ultimately succeeded. In combination these matters weigh heavily in favour of awarding the respondents their costs.\n\n### CONCLUSION\n\n[50] Taking into account all of the matters raised by the parties relevant to the exercise of the discretion to award costs, I am satisfied that the balance weighs heavily in favour of awarding the respondents their costs. The usual order is that costs should follow the event. For the reasons given, I am satisfied that the usual order is the correct order in the present application.\n\n[51] For completeness, I note that although I have rejected Mr Hamilton’s contention that the general presumption that costs follow the event is displaced by the combination of circumstances in the present case, including the NACO provisions, the wide standing provisions and the inherent public interest in competition law cases, even if I accepted Mr Hamilton’s submission it would not have made a difference in the result. Had it been necessary to begin from a neutral position without regard to the general presumption, I would have arrived at the same result. To my mind, taking into account the whole of the circumstances, the most important factors relevant to the exercise of the discretion to award costs is the result of the litigation (Oshlack at [66]) and relatedly, the nature of the issue on which Mr Hamilton came unstuck — that his proceeding was likely to bring the administration of justice into disrepute. Against these factors, it is significant that there were no countervailing factors in the form of disentitling conduct on the part of the respondents. These factors weighed heavily in favour of making an award of costs against Mr Hamilton, even if a neutral starting position was adopted.\n\n[52] For these reasons, I decline to vary the costs order made on 29 September 2023.\n\nI certify that the preceding fifty-two (52) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Cheeseman.\n\nAssociate:\n\nDated: 29 November 2023\n",
+ "source_sha256": "c31b28bed00281c3dce1e249306bf3efaa6643540cba77b90959cebd5f593f6a"
+}

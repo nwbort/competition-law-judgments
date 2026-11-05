@@ -1,0 +1,1694 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2022/2022FCA1007.docx",
+ "metadata": {
+  "citation": "[2022] FCA 1007",
+  "name": "Australian Competition and Consumer Commission v J Hutchinson Pty Ltd (No 2)",
+  "court": "FCA",
+  "year": 2022,
+  "number": 1007,
+  "date_of_judgment": "2022-08-30",
+  "file_numbers": [
+   "QUD374/2020"
+  ],
+  "judges": [
+   "DOWNES J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2022-05-17"
+  ],
+  "hearing_raw": "17 May 2022",
+  "number_of_paragraphs": 127,
+  "catchwords": [
+   "COMPETITION LAW – application by regulator for pecuniary penalties and other relief arising from findings of liability in previous decision – where findings and declarations made that construction company had contravened ss 45E(3) and 45EA Competition and Consumer Act 2010 (Cth) – where findings and declarations made that union was knowingly concerned in, or party to, the contraventions and had induced them within the meaning of s 76 Competition and Consumer Act 2010 (Cth) – consideration of factors relevant to pecuniary penalty under s 76 – whether s 76(3) applied in relation to union in circumstances where separate contraventions related to the same conduct – whether injunction should be granted pursuant to s 80 – where injunction sought against construction company in same terms as legislation – where injunction sought against union which would impose legal obligation not contained in the legislation – whether respondents should be ordered to implement a competition law compliance program – where compliance program was disproportionate – where compliance program did not have sufficient nexus to contravening conduct – where requirements of compliance program were not expressed with sufficient precision – where adverse publicity order made"
+  ],
+  "legislation": [
+   "Building and Construction Industry Improvement Act 2005 (Cth)",
+   "Competition and Consumer Act 2010 (Cth) ss 45D, 45E, 45EA, 76, 80, 86C, 86D, Sch 2 s 224",
+   "Fair Work (Registered Organisations) Act 2009 (Cth) s 27",
+   "Fair Work Act 2009 (Cth) s 546",
+   "Workplace Relations Act 1996 (Cth)"
+  ],
+  "cases_cited": [
+   "A & L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2007) 165 IR 94; [2007] FCA 1047",
+   "Australian Building and Construction Commission v Construction, Forestry, Maritime, Mining and Energy Union (2020) 302 IR 139; [2020] FCA 1662",
+   "Australian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union (2017) 254 FCR 68; [2017] FCAFC 113",
+   "Australian Building and Construction Commissioner v Construction, Forestry, Maritime, Mining and Energy Union (The Nine Brisbane Sites Appeal) (2019) 269 FCR 262; [2019] FCAFC 59",
+   "Australian Building and Construction Commissioner v Dig It Landscapes Pty Ltd [2017] FCCA 2128",
+   "Australian Building and Construction Commissioner v Pattinson (2022) 175 ALD 383; [2022] HCA 13",
+   "Australian Building and Construction Commissioner v Rielly (No 2) [2021] FCCA 43",
+   "Australian Building Construction Commissioner v Pauls [2017] FCA 843",
+   "Australian Competition & Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 95 FCR 114; [1999] FCA 1387",
+   "Australian Competition & Consumer Commission v Renegade Gas Pty Ltd (trading as Supagas NSW) [2014] FCA 1135",
+   "Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) (2007) 161 FCR 513; [2007] FCAFC 146",
+   "Australian Competition and Consumer Commission v J Hutchinson Pty Ltd [2022] FCA 98",
+   "Australian Competition and Consumer Commission v Jetplace Pty Ltd [2010] FCA 759",
+   "Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (2016) 340 ALR 25; [2016] FCAFC 181",
+   "Australian Competition and Consumer Commission v Sontax Australia (1988) Pty Ltd [2011] FCA 1202",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191",
+   "Australian Competition and Consumer Commission v Yazaki Corporation (2018) 262 FCR 243; [2018] FCAFC 73",
+   "Australian Competition and Consumer Commission v Z-Tek Computer Pty Ltd [1997] FCA 871; (1997) 78 FCR 197",
+   "Australian Securities and Investments Commission v Wooldridge [2019] FCAFC 172",
+   "Commissioner of Taxation v Bogiatto (No 2) [2021] FCA 98",
+   "Commodore Business Machines Pty Limited v Trade Practices Commission [1990] FCA 84; (1990) 92 ALR 563",
+   "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate (2015) 258 CLR 482; [2015] HCA 46",
+   "Construction, Forestry, Maritime, Mining and Energy Union v Australian Building and Construction Commissioner (The Palmerston Police Station Case) [2021] FCAFC 7",
+   "Construction, Forestry, Maritime, Mining and Energy Union v Richard Crookes Constructions Pty Ltd [2022] FCA 992",
+   "Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2013] FCA 846",
+   "Director, Fair Work Building Inspectorate v J Hutchinson Pty Ltd [2016] FCCA 2175",
+   "NW Frozen Foods Proprietary Limited v Australian Competition and Consumer Commission [1996] FCA 1134; (1996) 71 FCR 285",
+   "Postiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295",
+   "Trade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR 41-076",
+   "viagogo AG v Australian Competition and Consumer Commission [2022] FCAFC 87",
+   "Volkswagen Aktiengesellschaft v Australian Competition and Consumer Commission (2021) 284 FCR 24; [2021] FCAFC 49"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "J HUTCHINSON PTY LTD (ACN 009 778 330)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "CONSTRUCTION, FORESTRY, MARITIME, MINING AND ENERGY UNION",
+    "role": "Second Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms M Hindman QC w/ Ms A Nicholas"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Dr R Higgins SC w/ Mr M Trim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Gadens"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr C Dowling SC w/ Mr C Massy"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Hall Payne Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2022/2022fca1007",
+  "portal_file_numbers": [
+   "QUD374/2020"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2022-08-30"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "QUD 374 of 2020"
+  },
+  {
+   "label": "Judgment of",
+   "value": "DOWNES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "30 August 2022"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION LAW – application by regulator for pecuniary penalties and other relief arising from findings of liability in previous decision – where findings and declarations made that construction company had contravened ss 45E(3) and 45EA Competition and Consumer Act 2010 (Cth) – where findings and declarations made that union was knowingly concerned in, or party to, the contraventions and had induced them within the meaning of s 76 Competition and Consumer Act 2010 (Cth) – consideration of factors relevant to pecuniary penalty under s 76 – whether s 76(3) applied in relation to union in circumstances where separate contraventions related to the same conduct – whether injunction should be granted pursuant to s 80 – where injunction sought against construction company in same terms as legislation – where injunction sought against union which would impose legal obligation not contained in the legislation – whether respondents should be ordered to implement a competition law compliance program – where compliance program was disproportionate – where compliance program did not have sufficient nexus to contravening conduct – where requirements of compliance program were not expressed with sufficient precision – where adverse publicity order made"
+  },
+  {
+   "label": "Legislation",
+   "value": "Building and Construction Industry Improvement Act 2005 (Cth)\nCompetition and Consumer Act 2010 (Cth) ss 45D, 45E, 45EA, 76, 80, 86C, 86D, Sch 2 s 224\nFair Work (Registered Organisations) Act 2009 (Cth) s 27\nFair Work Act 2009 (Cth) s 546\nWorkplace Relations Act 1996 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "A & L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2007) 165 IR 94; [2007] FCA 1047\nAustralian Building and Construction Commission v Construction, Forestry, Maritime, Mining and Energy Union (2020) 302 IR 139; [2020] FCA 1662\nAustralian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union (2017) 254 FCR 68; [2017] FCAFC 113\nAustralian Building and Construction Commissioner v Construction, Forestry, Maritime, Mining and Energy Union (The Nine Brisbane Sites Appeal) (2019) 269 FCR 262; [2019] FCAFC 59\nAustralian Building and Construction Commissioner v Dig It Landscapes Pty Ltd [2017] FCCA 2128\nAustralian Building and Construction Commissioner v Pattinson (2022) 175 ALD 383; [2022] HCA 13\nAustralian Building and Construction Commissioner v Rielly (No 2) [2021] FCCA 43\nAustralian Building Construction Commissioner v Pauls [2017] FCA 843\nAustralian Competition & Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 95 FCR 114; [1999] FCA 1387\nAustralian Competition & Consumer Commission v Renegade Gas Pty Ltd (trading as Supagas NSW) [2014] FCA 1135\nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) (2007) 161 FCR 513; [2007] FCAFC 146\nAustralian Competition and Consumer Commission v J Hutchinson Pty Ltd [2022] FCA 98\nAustralian Competition and Consumer Commission v Jetplace Pty Ltd [2010] FCA 759\nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (2016) 340 ALR 25; [2016] FCAFC 181\nAustralian Competition and Consumer Commission v Sontax Australia (1988) Pty Ltd [2011] FCA 1202\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191\nAustralian Competition and Consumer Commission v Yazaki Corporation (2018) 262 FCR 243; [2018] FCAFC 73\nAustralian Competition and Consumer Commission v Z-Tek Computer Pty Ltd [1997] FCA 871; (1997) 78 FCR 197\nAustralian Securities and Investments Commission v Wooldridge [2019] FCAFC 172\nCommissioner of Taxation v Bogiatto (No 2) [2021] FCA 98\nCommodore Business Machines Pty Limited v Trade Practices Commission [1990] FCA 84; (1990) 92 ALR 563\nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate (2015) 258 CLR 482; [2015] HCA 46\nConstruction, Forestry, Maritime, Mining and Energy Union v Australian Building and Construction Commissioner (The Palmerston Police Station Case) [2021] FCAFC 7\nConstruction, Forestry, Maritime, Mining and Energy Union v Richard Crookes Constructions Pty Ltd [2022] FCA 992\nDirector, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2013] FCA 846\nDirector, Fair Work Building Inspectorate v J Hutchinson Pty Ltd [2016] FCCA 2175\nNW Frozen Foods Proprietary Limited v Australian Competition and Consumer Commission [1996] FCA 1134; (1996) 71 FCR 285\nPostiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295\nTrade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR 41-076\nviagogo AG v Australian Competition and Consumer Commission [2022] FCAFC 87\nVolkswagen Aktiengesellschaft v Australian Competition and Consumer Commission (2021) 284 FCR 24; [2021] FCAFC 49"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "127"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "17 May 2022"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms M Hindman QC w/ Ms A Nicholas"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Dr R Higgins SC w/ Mr M Trim"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Gadens"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr C Dowling SC w/ Mr C Massy"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Hall Payne Lawyers"
+  }
+ ],
+ "contents": [
+  {
+   "heading": "INTRODUCTION",
+   "paragraph": 1
+  },
+  {
+   "heading": "PECUNIARY PENALTIES",
+   "paragraph": 13
+  },
+  {
+   "heading": "Relevant legislation",
+   "paragraph": 13
+  },
+  {
+   "heading": "Relevant legal principles",
+   "paragraph": 18
+  },
+  {
+   "heading": "Hutchinson",
+   "paragraph": 21
+  },
+  {
+   "heading": "Maximum penalty / number of penalties",
+   "paragraph": 21
+  },
+  {
+   "heading": "General deterrence",
+   "paragraph": 24
+  },
+  {
+   "heading": "Specific deterrence – mandatory considerations",
+   "paragraph": 27
+  },
+  {
+   "heading": "Specific deterrence – other relevant matters",
+   "paragraph": 34
+  },
+  {
+   "heading": "Size of Hutchinson",
+   "paragraph": 34
+  },
+  {
+   "heading": "Involvement of senior management",
+   "paragraph": 38
+  },
+  {
+   "heading": "Whether corporate culture conducive to compliance with the Act",
+   "paragraph": 40
+  },
+  {
+   "heading": "Co-operation with the ACCC",
+   "paragraph": 44
+  },
+  {
+   "heading": "Lack of contrition",
+   "paragraph": 46
+  },
+  {
+   "heading": "Course of conduct",
+   "paragraph": 47
+  },
+  {
+   "heading": "Totality principle",
+   "paragraph": 50
+  },
+  {
+   "heading": "Conclusion",
+   "paragraph": 53
+  },
+  {
+   "heading": "CFMEU",
+   "paragraph": 56
+  },
+  {
+   "heading": "Maximum penalty / number of penalties",
+   "paragraph": 56
+  },
+  {
+   "heading": "General deterrence",
+   "paragraph": 64
+  },
+  {
+   "heading": "Specific deterrence – mandatory considerations",
+   "paragraph": 67
+  },
+  {
+   "heading": "Specific deterrence – other relevant matters",
+   "paragraph": 76
+  },
+  {
+   "heading": "Similar unlawful conduct by the CFMEU",
+   "paragraph": 76
+  },
+  {
+   "heading": "Size of the CFMMEU",
+   "paragraph": 79
+  },
+  {
+   "heading": "Involvement of senior management",
+   "paragraph": 80
+  },
+  {
+   "heading": "Whether corporate culture conducive to compliance with the Act",
+   "paragraph": 84
+  },
+  {
+   "heading": "Lack of contrition",
+   "paragraph": 87
+  },
+  {
+   "heading": "Parity",
+   "paragraph": 88
+  },
+  {
+   "heading": "Conclusion",
+   "paragraph": 90
+  },
+  {
+   "heading": "INJUNCTIONS",
+   "paragraph": 91
+  },
+  {
+   "heading": "Hutchinson",
+   "paragraph": 91
+  },
+  {
+   "heading": "CFMEU",
+   "paragraph": 98
+  },
+  {
+   "heading": "COMPLIANCE PROGRAM",
+   "paragraph": 108
+  },
+  {
+   "heading": "Orders sought",
+   "paragraph": 108
+  },
+  {
+   "heading": "Consideration of compliance program proposed by the ACCC",
+   "paragraph": 111
+  },
+  {
+   "heading": "ADVERSE PUBLICITY ORDER",
+   "paragraph": 124
+  },
+  {
+   "heading": "COSTS",
+   "paragraph": 127
+  }
+ ],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD374/2020",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "J HUTCHINSON PTY LTD (ACN 009 778 330)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "CONSTRUCTION, FORESTRY, MARITIME, MINING AND ENERGY UNION",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "DOWNES J"
+   ],
+   "date": "2022-08-30",
+   "date_raw": "30 august 2022",
+   "orders": [
+    {
+     "label": "",
+     "text": "In this Order, the reference to the February Orders means the Orders dated 14 February 2022, as subsequently amended, in which it was declared that:",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "The first respondent contravened s 45E(3) of the Competition and Consumer Act 2010 (Cth) by making an arrangement or arriving at an understanding with the second respondent containing a provision to the effect that the first respondent would no longer acquire waterproofing services from Waterproofing Industries Qld Pty Ltd (WPI) at the Southpoint A construction project, and further, that it would terminate its subcontract with WPI, which provision would prevent or hinder the first respondent from acquiring or continuing to acquire services from WPI (boycott provision).",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "By ceasing to acquire waterproofing services from WPI at the Southpoint A construction project and, further, by terminating its subcontract with WPI, the first respondent gave effect to the boycott provision and thereby contravened s 45EA of the Competition and Consumer Act 2010 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The second respondent was knowingly concerned in, or party to, the contraventions by the first respondent of ss 45E(3) and 45EA of the Competition and Consumer Act 2010 (Cth) within the meaning of s 76 of that Act.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The second respondent induced the first respondent’s contraventions of ss 45E(3) and 45EA of the Competition and Consumer Act 2010 (Cth) within the meaning of s 76 of that Act by threatening or implying that there would be conflict with, or industrial action by, the second respondent if the first respondent did not cease using WPI.",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "By 1 October 2022, the first respondent shall pay to the Commonwealth of Australia, pursuant to s 76 of the Competition and Consumer Act 2010 (Cth):",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "a pecuniary penalty in the amount of $300,000 in respect of its contravention of s 45E(3) of the Act declared in paragraph 1 of the February Orders; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "a pecuniary penalty in the amount of $300,000 in respect of its contravention of s 45EA of the Act declared in paragraph 2 of the February Orders.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "By 1 October 2022, the second respondent shall pay to the Commonwealth of Australia, pursuant to s 76 of the Competition and Consumer Act 2010 (Cth), a pecuniary penalty in the amount of $750,000 in respect of:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "its conduct in being knowingly concerned in or party to the first respondent’s contraventions of ss 45E(3) and 45EA of the Act declared in paragraph 3 of the February Orders; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "its conduct of inducing the first respondent’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the second respondent if the first respondent did not cease using WPI, declared in paragraph 4 of the February Orders.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Pursuant to s 86D of the Competition and Consumer Act 2010 (Cth), the second respondent shall, within 7 days of these orders being made:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "place a copy of these orders in a prominent place on the home pages of its website (https://www.cg.cfmeu.org) and of the website of the CFMMEU Queensland Northern Territory Division Branch (https://www.qnt.cfmeu.org), and take all reasonable steps to ensure that the said copies of these orders remain in a prominent place and visible on the home pages of each of these websites for a period of not less than 30 consecutive days; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "provide a copy of these orders to each of its officers.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The first and second respondents shall pay the applicant’s costs of and incidental to the proceedings, to be taxed if not agreed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The first respondent (Hutchinson) is a large, privately owned construction company which was the head contractor for the Southpoint A construction project located at 269 Grey Street, South Brisbane in Queensland (the Southpoint project).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The second respondent, which was described at trial as the CFMEU, is a trade union organisation. In 2016, the CFMEU was an organisation for the purposes of s 27 of the Fair Work (Registered Organisations) Act 2009 (Cth). On 27 March 2018, the CFMEU amalgamated with the Maritime Union of Australia and the Textile, Clothing and Footwear Union of Australia to become the CFMMEU.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Waterproofing Industries Qld Pty Ltd (WPI) is a company which entered into a subcontract with Hutchinson to perform certain waterproofing works at the Southpoint project.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "On 14 February 2022, the Court delivered judgment in this matter in Australian Competition and Consumer Commission v J Hutchinson Pty Ltd [2022] FCA 98 (liability judgment or LJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "WPI did not have a CFMEU enterprise bargaining agreement (or EBA) and the CFMEU complained that it was not consulted prior to its engagement. Shortly after this, the CFMEU threatened to engage in industrial action if Hutchinson allowed WPI to continue working on the Southpoint project. WPI was excluded from the site from 11 June 2016 and its subcontract was terminated by letter dated 26 July 2016: [8]–[10] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Hutchinson was found to have contravened s 45E(3) of the Competition and Consumer Act 2010 (Cth) by making an arrangement or arriving at an understanding with the CFMEU containing a provision to the effect that Hutchinson would no longer acquire waterproofing services from WPI at the Southpoint project and would terminate the WPI subcontract, which provision would prevent or hinder Hutchinson from acquiring or continuing to acquire services from WPI: [351] LJ. This provision is described as the boycott provision: [11] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Hutchinson was also found to have contravened s 45EA of the Act because, by ceasing to acquire waterproofing services from WPI, and further by terminating the WPI subcontract, it gave effect to the boycott provision: [352] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The CFMEU was found to have been knowingly concerned in, or party to, the contraventions by Hutchinson of ss 45E(3) and 45EA of the Act within the meaning of s 76 of the Act: [361] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The CFMEU was also found to have induced Hutchinson’s contraventions of ss 45E(3) and 45EA within the meaning of s 76 of the Act by threating or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI: [362] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "Declarations were made on 14 February 2022 which reflected these findings. The ACCC seeks the following additional relief:\n(1) pecuniary penalties pursuant to s 76 of the Act;\n(a) for a total sum of $1.2 million against Hutchinson;\n(b) for a total sum of $1.5 million against the CFMEU;\n(2) injunctions pursuant to s 80 of the Act;\n(3) orders for the establishment of a competition law compliance program pursuant to s 86C of the Act;\n(4) adverse publicity orders against the CFMEU pursuant to s 86D of the Act; and\n(5) that the respondents pay its costs on the standard basis.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "The relief sought in (1), (2) and (3) is opposed. The CFMEU does not oppose the relief sought in (4) and no submissions were made by the respondents against (5).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "For the following reasons, it will be ordered that:\n(1) Hutchinson pay a pecuniary penalty in the total sum of $600,000;\n(2) the CFMEU pay a pecuniary penalty in the total sum of $750,000;\n(3) the adverse publicity orders sought against the CFMEU be made, with one minor modification; and\n(4) the respondents pay the ACCC’s costs on the standard basis.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legislation"
+    ],
+    "text": "Each of ss 45E(3) and 45EA of the Act are contained in Part IV of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legislation"
+    ],
+    "text": "Section 76 of the Act (which is contained in Part VI of the Act) provides:\n76 Pecuniary penalties\n(1) If the Court is satisfied that a person:\n(a) has contravened any of the following provisions:\n(i) a provision of Part IV …\n…\n(d) has induced, or attempted to induce, a person, whether by threats or promises or otherwise, to contravene such a provision; or\n(e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision; or\n…\nthe Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each act or omission by the person to which this section applies, as the Court determines to be appropriate having regard to all relevant matters including the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legislation"
+    ],
+    "text": "The plain words of s 76(1) therefore require that a determination be made by the Court as to the appropriate pecuniary penalty having regard to all relevant matters including:\n(1) the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;\n(2) the circumstances in which the act or omission took place;\n(3) whether the person has previously been found by the Court in proceedings under Part VI or Part XIB to have engaged in any similar conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legislation"
+    ],
+    "text": "The maximum penalty for a corporate respondent for each contravention is $750,000: s 76(1A).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legislation"
+    ],
+    "text": "If conduct constitutes a contravention of two or more provisions of Part IV (other than in relation to sections which are not relevant to this case), a proceeding may be instituted under the Act against a person in relation to the contravention of any one or more of the provisions but a person is not liable to more than one pecuniary penalty under s 76 in respect of the same conduct: s 76(3).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legal principles"
+    ],
+    "text": "The scope of the power to impose civil pecuniary penalties was recently considered by the High Court in Australian Building and Construction Commissioner v Pattinson (2022) 175 ALD 383; [2022] HCA 13. Although that case concerned s 546 of the Fair Work Act 2009 (Cth) (FW Act), which is in different terms to s 76 of the Act, the observations of the plurality in Pattinson (Kiefel CJ, Gageler, Keane, Gordon, Steward and Gleeson JJ) have been regarded by the Full Court as relevant to the interpretation of s 224 of Schedule 2 of the Act, which is in materially the same terms as s 76: see viagogo AG v Australian Competition and Consumer Commission [2022] FCAFC 87 at [129]–[131] (Yates, Abraham and Cheeseman JJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legal principles"
+    ],
+    "text": "The following principles are derived from the reasons of the plurality in Pattinson and are apposite to the approach required to be taken to the imposition of a pecuniary penalty under s 76 of the Act:\n(1) subject to the particular statutory scheme, “the purpose of a civil penalty is primarily, if not solely, the promotion of the public interest in compliance with the provisions of the Act by the deterrence of further contraventions of the Act”: [9], [15], [42], [47]–[48]. See also Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate (2015) 258 CLR 482; [2015] HCA 46 at [55]; viagogo at [129];\n(2) there is no place for a “notion of proportionality” in a civil penalty regime, being a notion drawn from the criminal law that a penalty must be proportionate to the seriousness of the conduct that constituted the contravention, and nor should the maximum penalty be reserved for only the most serious examples of the offending (subject to the terms of the statute). What is required is that there be “some reasonable relationship between the theoretical maximum and the final penalty imposed” which will be established where the penalty does not exceed what is reasonably necessary to achieve the purpose of the provision, being the deterrence of future contraventions of a like kind by the contravenor and others: [10]. See also viagogo at [131];\n(3) civil penalties must be fixed with a view to ensuring that the penalty is not such as to be regarded by the offender or others as an acceptable cost of doing business: [17];\n(4) the factors identified by French J (as his Honour then was) in Trade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR 41-076 at 52,152–52,153 (as set out below) are possible relevant considerations which inform the assessment of a penalty of appropriate deterrent value; however, these should not be considered as a “legal checklist” and the court’s task remains to determine what is an “appropriate” penalty in the circumstances of the particular case: [18]–[19], [54]. See also viagogo at [131]. In this regard, it is relevant to observe that, unlike the provision being considered by the High Court, s 76 lists considerations which must be taken into account;\n(5) another relevant factor is the maximum penalty which might be imposed, albeit it must be balanced with all other relevant factors: [52]–[54]. See also viagogo at [131];\n(6) the power to impose a penalty is to be exercised judicially, that is, fairly and reasonably having regard to the subject matter, scope and purpose of the legislation: [40]. See also viagogo at [130];\n(7) the penalty imposed should be “proportionate” in the sense that it strikes a reasonable balance between deterrence and oppressive severity: [41], [46]. See also viagogo at [130];\n(8) concepts such as totality, parity and course of conduct may assist in the assessment of what may be considered reasonably necessary to deter further contraventions of the Act: [45]. See also viagogo at [132];\n(9) a court which is empowered to impose an “appropriate” penalty must act fairly and reasonably for the purpose of protecting the public interest by deterring future contraventions of the legislation: [48] and [71];\n(10) considerations of deterrence, and the protection of the public interest, justify the imposition of the maximum penalty where it is apparent that no lesser penalty will be an effective deterrent against future contraventions of a like kind: [50].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Relevant legal principles"
+    ],
+    "text": "The factors identified by French J in CSR were:\n1. The nature and extent of the contravening conduct.\n2. The amount of loss or damage caused.\n3. The circumstances in which the conduct took place.\n4. The size of the contravening company.\n5. The degree of power it has, as evidenced by its market share and ease of entry into the market.\n6. The deliberateness of the contravention and the period over which it extended.\n7. Whether the contravention arose out of the conduct of senior management or at a lower level.\n8. Whether the company has a corporate culture conducive to compliance with the Act, as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention.\n9. Whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "The maximum penalty for a contravention of each of ss 45E and 45EA of the Act by a body corporate was $750,000 at the relevant time. If the maximum penalty for each contravention was imposed on Hutchinson, the total would be $1.5 million for both contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "The ACCC submits that it is appropriate to impose penalties totalling $1.2 million upon Hutchinson, comprised of the following:\n(1) in respect of its conduct in making an arrangement or arriving at an understanding with the CFMEU containing the boycott provision, in contravention of s 45E(3) of the Act, a penalty of $600,000; and\n(2) in respect of its conduct in ceasing to acquire waterproofing services from WPI and terminating its contract with WPI, which amounted to giving effect to the arrangement or understanding containing the boycott provision in contravention of s 45EA of the Act, a penalty of $600,000.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "Hutchinson did not submit that a pecuniary penalty should not be imposed and it did not oppose the making of separate penalties in respect of each contravention. However, it submits that an appropriate penalty would be $400,000 in total for both contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "General deterrence"
+    ],
+    "text": "Sections 45E and 45EA of the Act are directed at situations in which a person in Hutchinson’s position capitulates in order to avoid loss or damage as a result of threatened industrial action. These provisions have an important role in protecting the competitive process in sectors in which organisations of employees operate.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "General deterrence"
+    ],
+    "text": "The commercial construction industry in Australia has a large number of participants which act in a similar role to that which Hutchinson did in this case, meaning there is considerable scope for conduct to occur which is of the kind which was engaged in by Hutchinson. Such conduct is damaging to the competitive process. It is also likely to be clandestine. Any perception by others in the construction industry that penalties attaching to conduct of the kind engaged in by Hutchinson, as found in the liability judgment, are insufficient to outweigh the benefits which will flow to them from engaging in the unlawful conduct, will have the consequence that such organisations will not be deterred from behaving unlawfully. This will lessen competition and is contrary to the statutory purpose and scheme of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "General deterrence"
+    ],
+    "text": "It is also important that a penalty is not imposed which would be perceived by others in the industry as a “cost of doing business” and as being more cost-effective than the implementation of a program to ensure that there is compliance with the Act: Construction, Forestry, Maritime, Mining and Energy Union v Richard Crookes Constructions Pty Ltd [2022] FCA 992 at [168]. To do so would lead to a potential distortion of competition in the market because those in the market which elect to run the risk of paying the penalty gain an unfair advantage over competitors which comply with the law: see Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (2016) 340 ALR 25; [2016] FCAFC 181 at [149] (Jagot, Yates and Bromwich JJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "Section 76(1) requires consideration of the nature and extent of Hutchinson’s act, the nature and extent of any loss or damage suffered as a result of its act, the circumstances in which the act or omission took place and whether it has previously been found by the Court in proceedings under Part VI or Part XIB of the Act to have engaged in any similar conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "Having regard to the findings in the liability judgment, Hutchinson’s conduct fell squarely within the mischief to which ss 45E and 45EA is directed, being its capitulation to threatened industrial action to avoid personal loss or damage at the expense of third party suppliers.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "This follows from the findings of fact contained in the liability judgment, especially those in [340(3)], [340(4)], [340(6)], [340(10)], [340(16)], [340(20)], [340(29)], [340(30)] and [340(33)], as well as the finding that the respondents’ conduct in relation to WPI was part of a wider strategy, the purpose of which was to seek to cause Hutchinson to engage subcontractors which had an EBA on the Southpoint project: [348].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "These findings demonstrate that Hutchinson, through Mr Berlese (whose role within that company is described in [27] LJ), regarded the avoidance of industrial disputation as being more important than the cost of compliance with ss 45E and 45EA of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "This is not the first time that Hutchinson has turned a subcontractor away from one of its projects (or terminated its subcontract) because it did not have an EBA: see Director, Fair Work Building Inspectorate v J Hutchinson Pty Ltd [2016] FCCA 2175. That case involved a different construction project and Mr Berlese was the team leader in that case also.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "These matters support a conclusion that a higher penalty is required in order to secure effective deterrence.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "Conversely, factors which tell in favour of a lower penalty are:\n(1) the unlawful conduct as found related to only one subcontractor at the Southpoint project and occurred over a short period of some two or three months;\n(2) a limited number of other subcontractors at the Southpoint project did not have an EBA, but were engaged by Hutchinson;\n(3) there was no evidence of any loss or damage having been suffered by any person as a consequence of the contraventions. While it is correct to say that WPI lost its subcontract with Hutchinson, there is nothing to say one way or the other as to whether WPI obtained other work to replace this lost job, and so it is a matter of speculation as to whether it suffered any monetary loss. And while there was some delays caused to the works “on the ground” because of the exclusion of WPI from the site, it is a matter of speculation as to whether those delays translated into any monetary loss to any person;\n(4) Hutchinson has not previously been found to have engaged in any similar conduct in proceedings under Part VI or Part XIB of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Size of Hutchinson"
+    ],
+    "text": "In the 2021 financial year, Hutchinson’s construction revenue exceeded $2.6 billion and its after tax profits exceeded $27 million. Its net assets exceeded $360 million.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Size of Hutchinson"
+    ],
+    "text": "Hutchinson submits that its annual profit is a “relatively small proportion” of its revenue and as such a large penalty of the kind proposed by the ACCC would “significantly affect Hutchinson’s annual profit.”",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Size of Hutchinson"
+    ],
+    "text": "However, this submission is rejected: the total penalty sought by the ACCC of $1.2 million only equates to approximately 4.4% of Hutchinson’s 2020/2021 after tax profit, and pays no regard to its substantial assets.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Size of Hutchinson"
+    ],
+    "text": "The size and resources of Hutchinson supports a conclusion that a higher penalty is required in order to secure effective deterrence: see Volkswagen Aktiengesellschaft v Australian Competition and Consumer Commission (2021) 284 FCR 24; [2021] FCAFC 49 at [154] (Wigney, Beach and O’Bryan JJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "At the time of the contraventions, Mr Berlese was one of Hutchinson’s most senior employees. He remains a senior employee. Mr Meland was project manager for the Southpoint project and reported directly to Mr Berlese. It was primarily the conduct of these two senior employees which gave rise to the contraventions by Hutchinson.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "Having regard to Mr Berlese’s senior role within Hutchinson in particular, and that he is responsible for larger commercial construction projects in South East Queensland, the penalty to be imposed must be sufficient to deter Hutchinson from repeating its unlawful conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "The ACCC submitted that the adverse credit findings in respect of Mr Berlese, given his senior role, indicated that Hutchinson had a corporate culture which was “not conducive to appropriate compliance with [the Act].” However, it does not follow from such an adverse finding that Hutchinson has a corporate culture of disregarding compliance with the Act. Indeed, if such a culture was present, one would expect that Hutchinson would have been found to have contravened the Act on other occasions, which is not the case.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "Further, since 2016, Hutchinson has implemented an internal compliance program, which is overseen by Mr Benjamin Young, one of its directors. Mr Young gave unchallenged evidence by an affidavit sworn on 4 April 2022 as to numerous steps which Hutchinson has taken including:\n(1) the creation of a Code Compliance Team, which includes external solicitors and an external consultant. According to Mr Young, this team has contributed to a significant improvement in knowledge and understanding within Hutchinson of its legal obligations, better policies and processes, updated resources and improved compliance outcomes. This has included the development of: a site management industrial relations handbook as a practical guide for project teams (which includes detailed processes concerning freedom of association, inductions and right of entry requirements); a Building Code self audit tool designed to continually monitor compliance by project teams; freedom of association posters to be displayed on projects; and right of entry flow charts to assist project teams to manage entry to site by union officials;\n(2) regular reporting by Mr Young to the Hutchinson board, generally every two months;\n(3) detailed training for all project managers, team leaders, site managers, contracts administrators and safety officers on an annual basis;\n(4) internal and external audits of its processes.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "Mr Young also deposed that:\nWhile the issue of not awarding or terminating a subcontract based upon a subcontractor's EBA status was Hutchinson's policy at the time I re-joined in 2016, it has also formed part of the training I have delivered since that time.\nAs part of the Code Compliance Team's ongoing process of reviewing, refining and enhancing its policies and procedures, the team has been in the process of undertaking a review of Hutchinson's policies and procedures since around 2021. The team has also taken steps to extend the scope of its review to ensure new measures are implemented that will focus on compliance with sections 45E and 45EA of the CCA [with reference to meetings held in February 2022 shortly after the delivery of the liability judgment].\nI am currently in the process of developing an updated compliance program for Hutchinson, which among other things will focus on ensuring compliance with sections 45E and 45EA of the CCA. As mentioned above, the issue of subcontractor selection has been a part of Hutchinson's training programs since before the time I re-joined Hutchinson in 2016, though the scope of this training will be broadened with a view to educating staff about sections 45E and 45EA of the CCA and ensuring compliance with those sections.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "This evidence tends to indicate that Hutchinson is seeking to cultivate a corporate culture which is conducive to compliance with the Act. This is an important reason to consider that a lower penalty is required than that sought by the ACCC in order to deter future contraventions. However, it is also relevant to observe that there was no expert evidence to demonstrate that the compliance program which Hutchinson has implemented is effective. Further, Hutchinson had not implemented the proposed changes with respect to ss 45E and 45EA by the time of the hearing in May 2022, and offered no undertakings that it would do so. Further, there is no evidence that Mr Berlese had received any form of reprimand for his conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Co-operation with the ACCC"
+    ],
+    "text": "Hutchinson submits that its co-operation with ACCC investigations, relevantly by responding to a voluntary information request in February 2018, supports a lower penalty being imposed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Co-operation with the ACCC"
+    ],
+    "text": "However, this co-operation does not provide a cogent reason to reduce the penalty to be imposed in circumstances where no significant admissions were made by Hutchinson and there was a contested hearing on liability: see Australian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union (2017) 254 FCR 68; [2017] FCAFC 113 at [163] (Dowsett, Greenwood and Wigney JJ) (ABCC v CFMEU); NW Frozen Foods Proprietary Limited v Australian Competition and Consumer Commission [1996] FCA 1134; (1996) 71 FCR 285 at 291 (Burchett and Kiefel JJ, as her Honour then was, Carr J agreeing).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Specific deterrence – other relevant matters",
+     "Lack of contrition"
+    ],
+    "text": "Hutchinson did not express genuine remorse or contrition in respect of the contraventions, which is a relevant consideration: ABCC v CFMEU at [164]. Although not an aggravating factor as such, this fact tends to indicate in the circumstances of this case that a higher penalty is needed in order to serve the purpose of deterring future contraventions: see Australian Building and Construction Commission v Construction, Forestry, Maritime, Mining and Energy Union (2020) 302 IR 139; [2020] FCA 1662 (Colvin J) at [83] (ABCC v CFMMEU); Commissioner of Taxation v Bogiatto (No 2) [2021] FCA 98 (Thawley J) at [79]; Pattinson at [47].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Course of conduct"
+    ],
+    "text": "As submitted by the ACCC, separate contraventions arising from separate acts ordinarily attract separate penalties. However, where separate acts, giving rise to separate contraventions, are inextricably interrelated, they should be viewed as a single ‘course of conduct’: Australian Competition and Consumer Commission v Yazaki Corporation (2018) 262 FCR 243; [2018] FCAFC 73 at [234] (Allsop CJ, Middleton and Robertson JJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Course of conduct"
+    ],
+    "text": "Considerations of whether the acts of the contravenor should be viewed as a single ‘course of conduct’ may assist in the assessment of what may be considered reasonably necessary to deter further contraventions of the Act: see Pattinson at [45]. It is a useful tool of analysis that can help avoid double punishment: see Australian Securities and Investments Commission v Wooldridge [2019] FCAFC 172 at [25] (Greenwood, Middleton and Foster JJ).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Course of conduct"
+    ],
+    "text": "In this case, the findings made in the liability judgment which led to the conclusions that there had been contraventions of ss 45E(3) and 45EA of the Act were inextricably interrelated such that they should be viewed as a single course of conduct. Having regard to the facts of this case, this has the consequence that there should be a reduction in the penalty sought by the ACCC for each contravention. To do otherwise would be to impose a penalty of oppressive severity and is an important reason to refuse to impose the penalties as sought by the ACCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Totality principle"
+    ],
+    "text": "As submitted by the ACCC, where multiple separate penalties are to be imposed upon a particular wrongdoer, the totality principle is applied as a “final check” to ensure that, overall, the penalty is appropriate and that the sum of the penalties imposed for several contraventions does not result in the total of the penalties exceeding what is proper having regard to the totality of the contravening conduct involved: Wooldridge at [26].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Totality principle"
+    ],
+    "text": "It has been described as an analytical tool which is applied as to ensure that the overall penalty is not oppressive or disproportionate in the sense that it is greater than necessary to achieve the object of deterrence: Richard Crookes at [165]; Pattinson at [45].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Totality principle"
+    ],
+    "text": "In this case, the total sum of the penalties sought by the ACCC is excessive having regard to the totality of the contravening conduct involved. This is another important reason to refuse to impose the penalties sought by the ACCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Conclusion"
+    ],
+    "text": "In all of the circumstances, the considerations which have been addressed indicate that it is appropriate that penalties totalling $600,000 be imposed on Hutchinson.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Conclusion"
+    ],
+    "text": "Such an amount will serve to protect the public interest from future contraventions of the Act by Hutchinson as well as by others in the construction industry which are in the same position as Hutchinson.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "Hutchinson",
+     "Conclusion"
+    ],
+    "text": "This total will be comprised of the following:\n(1) in respect of its conduct in making an arrangement or arriving at an understanding with the CFMEU containing a boycott provision, in contravention of s 45E(3) of the Act, a penalty of $300,000; and\n(2) in respect of its conduct in ceasing to acquire waterproofing services from WPI and terminating its contract with WPI, which amounted to giving effect to the arrangement or understanding containing the boycott provision, in contravention of s 45EA of the Act, a penalty of $300,000.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "The maximum penalty for each of the contraventions by the CFMEU of s 76 was $750,000 at the relevant time. If the maximum penalty for each contravention was imposed on the CFMEU, the total would be $1.5 million for both contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "The ACCC submits that it is appropriate for the Court to impose the total maximum penalties of $1.5 million on the CFMEU, comprised of the following:\n(1) in respect of its conduct in threatening industrial action, which induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, the maximum penalty of $750,000; and\n(2) in respect of its conduct in being a party to the contravening arrangement or understanding, which amounted to being knowingly concerned in Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, the maximum penalty of $750,000.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "The CFMEU did not submit that a pecuniary penalty should not be imposed but did submit that only one penalty should be imposed (in the amount of $250,000) as the two contraventions found in the liability judgment was in respect of the same conduct within the meaning of s 76(3) of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "It is relevant in this regard to consider the case which the CFMEU met at trial. The ACCC pleaded the following at paragraph 14 of its Amended Concise Statement:\nThe CFMMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the CCA by threatening or implying that there would be conflict with, or industrial action by, the CFMMEU if Hutchinson did not cease using WPI. Further or in the alternative, CFMMEU was by the same conduct and by being party to the Boycott Arrangement, knowingly concerned in, or party to, those contraventions for the purposes of s 76 of the CCA. …\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "In light of the case as pleaded by the ACCC, the following findings were made in the liability judgment, on the basis of findings of fact in that decision:\n355 The ACCC submits that the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI.\n356 The ACCC also submits that the CFMEU was by the same conduct and by being a party to the boycott arrangement, knowingly concerned in, or party to, those contraventions for the purposes of s 76 of the Act.\n…\n361 It follows that the CFMEU was knowingly concerned in, or party to the contravention by Hutchinson of ss 45E and 45EA of the Act constituted by its making an arrangement or arriving at an understanding with the CFMEU as alleged by the ACCC.\n362 Further, the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI.\n(emphasis added)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "These matters demonstrate that the case against the CFMEU was pleaded and determined on the basis that the two contraventions of s 76 of the Act arose out the same conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "It follows that s 76(3) of the Act operates such that the CFMEU can only be liable for one pecuniary penalty under s 76(1) in respect of the same conduct which gave rise to multiple contraventions. Consequently, the maximum penalty which can be imposed on the CFMEU is $750,000.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Maximum penalty / number of penalties"
+    ],
+    "text": "Even if s 76(3) of the Act did not apply, the findings made in the liability judgment which led to the conclusions that there had been contraventions by the CFMEU of s 76 of the Act were inextricably interrelated such that they should be viewed as a single course of conduct. This would lead to a significant reduction in the penalty to be imposed for each contravention such that the combined maximum penalty to be imposed would not exceed $750,000 in any event. To do otherwise would be to impose a penalty of oppressive severity and is an important reason to refuse to impose the penalties as sought by the ACCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "General deterrence"
+    ],
+    "text": "Sections 45E and 45EA of the Act are directed at situations in which a person capitulates in order to avoid loss or damage as a result of threatened industrial action by a person in the CFMEU’s position. As already observed, these provisions have an important role in protecting the competitive process in sectors in which organisations of employees operate.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "General deterrence"
+    ],
+    "text": "There are many different organisations in Australia which acquire goods and services from suppliers and which also have dealings with organisations of employees like the CFMEU, meaning there is considerable scope for conduct to occur which is of the kind which was engaged in by the CFMEU. Such conduct is damaging to the competitive process. It is also likely to be clandestine and is therefore difficult to discover.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "General deterrence"
+    ],
+    "text": "Any perception by other organisations of employees that penalties attaching to conduct of the kind engaged in by the CFMEU, as found in the liability judgment, are insufficient to outweigh the benefits which will flow to them from engaging in the unlawful conduct, will have the consequence that such organisations will not be deterred from behaving unlawfully. This will lessen competition and is contrary to the statutory purpose and scheme of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "Section 76(1) relevantly requires consideration of the nature and extent of the CFMEU’s act, the nature and extent of any loss or damage suffered as a result of its act, the circumstances in which the act took place and whether it has previously been found by the Court in proceedings under Part VI or Part XIB to have engaged in any similar conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "In this case, certain factors might support a conclusion that a lower penalty might be required to deter future contraventions, namely:\n(1) the unlawful conduct as found related to only one subcontractor at the Southpoint project and occurred over a short period of some two or three months;\n(2) a limited number of other subcontractors at the Southpoint project did not have an EBA, but were engaged by Hutchinson;\n(3) for the reasons given above, there was no evidence of any loss or damage having been suffered by any person as a consequence of the contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "However, the CFMEU’s conduct including that engaged in by Mr Steele, a union organiser, and Mr Clarke, its delegate, was the catalyst or ultimate cause of the contraventions by Hutchinson of ss 45E and 45EA of the Act. As submitted by the ACCC, the CFMEU engaged in coercive behaviour, in particular by threatening or implying that there would be conflict with the CFMEU or industrial action by the CFMEU, if Hutchinson did not cease using WPI. This was serious and deliberate conduct by the CFMEU, which was determined to have its way in terms of which waterproofer was used at the Southpoint project. This is apparent from:\n(1) the particular findings of fact contained in the liability judgment especially those in [340] and [360] LJ;\n(2) the finding that the respondents’ conduct in relation to WPI was part of a wider strategy, the purpose of which was to seek to cause Hutchinson to engage subcontractors which had an EBA on the Southpoint project: [348] LJ;\n(3) the finding that the end result which was sought to be accomplished by the respondents was that Hutchinson would cease to acquire waterproofing services from WPI, which was a subcontractor which did not have an EBA, and would terminate the WPI subcontract: [348] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "The nature and circumstances of the contraventions by the CFMEU indicate that a significant penalty is required to secure effective deterrence.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "As to the final factor referred to in s 76(1), the ACCC relies on the CFMEU’s contraventions of s 45D of the Act in relation to conduct which occurred in 2004 (Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730) and 2014 (Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191). It submits that these proceedings were brought under Part VI of the Act in which findings were made that the CFMEU has engaged in similar conduct to that which occurred in this case. However, on any view, it cannot be the case that the first decision related to proceedings brought under Part VI of the Act because the Act only entered into force in 2010.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "In any event, as submitted by the CFMEU, the conduct engaged in by the CFMEU in Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730 was of a different character to that which occurred in this case. The conduct in that case concerned physical steps taken on a construction site to prevent the supply of concrete for the purpose of damaging the business of a head contractor (as opposed to pressuring a head contractor to engage in conduct which harms subcontractors).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "Turning to the second decision, s 45D of the Act (as it then was) targeted a different form of unlawful conduct to that which is the subject of this case. It relevantly has the effect of prohibiting a person from acting in concert with a second person and engaging in conduct which hinders or prevents a third person from supplying to or acquiring goods or services from a fourth person and is engaged in for the purpose, and would have or be likely to have the effect of, causing substantial loss or damage to the business of the fourth person.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "In Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191, proceedings were brought by the ACCC under Part VI of the Act. The relevant conduct which was found to contravene s 45D occurred in 2013 and was in relation to two construction sites (Hawthorn and Richmond). In summary, the CFMEU had informed the relevant shop steward that there was a ban against the use of Boral concrete on that particular site. That shop steward then acted in concert with the CFMEU by implementing the ban on those construction sites, thus hindering or preventing Boral from supplying concrete to them: [8], [9], [207], [292].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – mandatory considerations"
+    ],
+    "text": "In that case, the CFMEU engaged in similar conduct in 2013 to that which occurred in this case in 2016, albeit for a different purpose. For example, in relation to the Richmond site, the shop steward’s communications had the consequence that an alternative supplier of concrete was chosen to Boral: [271]–[276] and [286]–[289]. In this case, the conduct of the CFMEU, through Mr Steele and Mr Clarke, had the consequence that a different waterproofer to WPI was chosen for the Southpoint project. The similarities between the conduct underlying these two cases indicates that the CFMEU is prepared to disregard the law in order to have its own way, which indicates that a higher penalty is needed to be an effective deterrent against future contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Similar unlawful conduct by the CFMEU"
+    ],
+    "text": "The CFMEU has been found to have contravened other legislation, such as the FW Act, in circumstances where it has engaged in conduct which is similar to that found in the liability judgment.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Similar unlawful conduct by the CFMEU"
+    ],
+    "text": "The contraventions of other legislation by the CFMEU were as follows:\n(1) FW Act:\n(a) On the basis of conduct in 2019, the CFMEU was found to have breached the FW Act when it threatened to organise or take action against a head contractor so the head contractor would terminate a contract with a labour hire subcontractor because the subcontractor did not provide workers who “were covered by an enterprise agreement to which the [CFMEU] was a party”: Australian Building and Construction Commissioner v Rielly (No 2) [2021] FCCA 43.\n(b) On the basis of conduct in 2016, the CFMEU was found to have “engaged in a campaign to force Hutchinson to only engage subcontractors who had enterprise agreements with the [CFMEU]” and in the course of this campaign breached the FW Act: Australian Building and Construction Commissioner v Construction, Forestry, Maritime, Mining and Energy Union (The Nine Brisbane Sites Appeal) (2019) 269 FCR 262; [2019] FCAFC 59.\n(c) On the basis of conduct in 2016, the CFMEU breached the FW Act by its conduct which was for the purpose of attempting to “coerce Watpac to not engage subcontractors which did not have an enterprise agreement with the CFMEU”: Australian Building Construction Commissioner v Pauls [2017] FCA 843.\n(d) On the basis of conduct in 2014, the CFMEU breached the FW Act in circumstances where a subcontractor was told that they were not allowed to work at a site because they “did not have an EBA that included the CFMEU”. The head contractor terminated the subcontract the following day because the head contractor “did not want to have any trouble with the [CFMEU]”: Australian Building and Construction Commissioner v Dig It Landscapes Pty Ltd [2017] FCCA 2128.\n(2) Building and Construction Industry Improvement Act 2005 (Cth) (BCII Act):\n(a) On the basis of conduct in 2010, the CFMEU contravened the BCII Act as a result of threatening industrial action “with the intent to coerce Watpac or with intent to apply undue pressure to Watpac to cease to engage contractors that did not have enterprise agreements with a union and to engage contractors that did”: Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2013] FCA 846.\n(3) Workplace Relations Act 1996 (Cth) (WR Act):\n(a) On the basis of conduct in 2003, the CFMEU was found to have contravened the WR Act as result of engaging in and threatening industrial action against a head contractor unless a subcontractor who “did not have an EBA with the [CFMEU]” was removed from a site. The agreement with the subcontractor was subsequently terminated: A & L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2007) 165 IR 94; [2007] FCA 1047.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Similar unlawful conduct by the CFMEU"
+    ],
+    "text": "Taking these other contraventions into account, the conduct of the CFMEU in the liability judgment is to be regarded as another instance of its “pursuit of a strategy of deliberate recalcitrance in order to have its way”: Pattinson at [46]. Its determination to adhere to its strategy of requiring subcontractors on construction sites to have an EBA in defiance of the law is a significant consideration: Pattinson at [61].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Size of the CFMMEU"
+    ],
+    "text": "The CFMMEU Construction & General Division – National Office had net assets of approximately $11.8 million as at 31 March 2021. Of this Division, the Queensland Northern Territory Branch had net assets of over $2.7 million as at this date. The size and resources of the CFMEU supports a conclusion that a higher penalty is required in order to secure effective deterrence: see Volkswagen at [154]. A small penalty of the kind proposed by the CFMEU (namely $250,000) risks being ineffective as a deterrent and of being regarded by it as an “acceptable cost of doing business”: Pattinson at [43] and [61]; also Richard Crookes at [168].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "There was no evidence that any member of the governing bodies of the CFMEU were involved in the contravening conduct. Nor could it be said that Mr Steele or Mr Clarke were members of the senior management of the CFMEU.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "However, at the time of the contraventions, Mr Steele was a union organiser who was assigned to the Southpoint project as well as other sites. His was an important role, especially having regard to the size of the Southpoint project, which involved the construction of a residential tower in a city. In this case, the role of union organiser carried with it the responsibility of being the person who represented the CFMEU at the Southpoint project and with whom (in this case) Hutchinson was required to consult under its EBA: see [340(1)] LJ.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "Mr Steele used his position in the manner described by him in his oral evidence at the trial, that is, that “the CFMEU” relied on the EBA, as Mr Steele understood and applied it, as a basis for effectively pushing that Hutchinson ought to retain subcontractors which had an EBA: see [151] LJ. The events which were the subject of the contraventions by the CFMEU were therefore not a “one-off” result of inadvertence: Pattinson at [46].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Involvement of senior management"
+    ],
+    "text": "The involvement of a union organiser in the contraventions, being the senior representative of the CFMEU at the Southpoint project, supports a conclusion that a higher penalty is required in order to deter future contraventions. This is especially as Mr Steele’s evidence indicated that his conduct in “pushing” Hutchinson to retain subcontractors which had an EBA was something which the CFMEU did (and was therefore regarded as acceptable conduct by the CFMEU), rather than something which he did on an individual basis.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "The ACCC submitted that the adverse credit findings in respect of the CFMEU’s witnesses indicated that the CFMEU has a corporate culture which was “not conducive to appropriate compliance with [the Act].” However, it is not apparent how adverse credit findings lead to this conclusion.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "In any event, that the CFMEU has a corporate culture which is not conducive to appropriate compliance with the Act is apparent from its other acts of similar conduct which has been directed at advancing its strategy of only those subcontractors which have an EBA being engaged (as referred to above), its conduct as described by Mr Steele in his evidence (as referred to above) and from the lack of disciplinary action taken against Mr Steele arising out of his conduct as found in the liability judgment: Pattinson at [46]. Further, it is also relevant that there was no evidence or any suggestion that the CFMEU has sought to modify its internal systems and training processes to ensure that its union organisers do not engage in conduct like that engaged in by Mr Steele in the future: see ABCC v CFMEU at [164].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Whether corporate culture conducive to compliance with the Act"
+    ],
+    "text": "These matters support a conclusion that a higher penalty is required in order to deter future contraventions.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Specific deterrence – other relevant matters",
+     "Lack of contrition"
+    ],
+    "text": "The CFMEU did not express genuine remorse or contrition in respect of the contraventions, which is a relevant consideration: ABCC v CFMEU at [164]. Although not an aggravating factor as such, this fact tends to indicate in the circumstances of this case that a higher penalty is needed in order to serve the purpose of deterring future contravention: see ABCC v CFMMEU at [83]; Bogiatto (No 2) at [79]; Pattinson at [47].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Parity"
+    ],
+    "text": "In Construction, Forestry, Maritime, Mining and Energy Union v Australian Building and Construction Commissioner (The Palmerston Police Station Case) [2021] FCAFC 7, Katzmann J observed at [37] that the parity principle requires that like offenders be treated alike, but it also enables the different circumstances of co-offenders to be taken into account. Her Honour cited the statement by Dawson and Gaudron JJ in Postiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295 at 301 that:\nThe parity principle … is an aspect of equal justice. Equal justice requires that like should be treated alike but that, if there are relevant differences, due allowance should be made for them. In the case of co-offenders, different sentences may reflect different degrees of culpability or their different circumstances. If so, the notion of equal justice is not violated.\n(footnotes omitted)",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Parity"
+    ],
+    "text": "In this case, and as found in the liability judgment, the conduct of the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, and it was knowingly concerned in or party to the unlawful arrangement or understanding with Hutchinson: see [361]–[362] LJ. That conduct included threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI: [362] LJ. In this way, its conduct was the catalyst for the events which occurred, and, unlike Hutchinson, it has not indicated any intention to alter its internal systems to avoid a repetition. Further, unlike Hutchinson, it has engaged in other similar conduct which has been found to contravene other legislation. For this reason, the concept of parity does not require that the same penalty be imposed on the CFMEU as Hutchinson because due allowance should be made for these different degrees of culpability and different circumstances.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "PECUNIARY PENALTIES",
+     "CFMEU",
+     "Conclusion"
+    ],
+    "text": "In all of the circumstances, the considerations addressed above indicate that it is appropriate that the maximum penalty of $750,000 be imposed on the CFMEU. It is apparent from the above analysis that no lesser penalty will be an effective deterrent against future contraventions of like kind by the CFMEU as well as by others which are in the same position as the CFMEU.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "The ACCC sought an injunction against Hutchinson in these terms:\nPursuant to s 80 of the CCA, the First Respondent is restrained, for a period of 3 years from the date of this order, by itself or by its employees or agents, from:\n(a) making or attempting to make a contract or arrangement; or\n(b) arriving at or attempting to arrive at an understanding,\nwith the Second Respondent, if that contract, arrangement or understanding has a provision which would prevent or hinder the First Respondent from acquiring or continuing to acquire goods or services from a supplier in circumstances where the First Respondent has a contract or arrangement to acquire goods or services from the supplier in the preceding three months.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "Hutchinson did not dispute that the ACCC could apply to the Court for an injunction in the terms sought against it pursuant to s 80 of the Act. That section relevantly provides that an injunction may be ordered in such terms as the Court determines to be appropriate if the Court is satisfied that a person has engaged, or is proposing to engage, in conduct that constitutes or would constitute a contravention of a provision of Part IV of the Act: s 80(1)(a)(i). Further, the power of the Court to grant an injunction restraining a person from engaging in conduct may be exercised whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind: s 80(4)(a).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "However, Hutchinson submits, and I agree, that the grant of an injunction is not appropriate nor required in this case. That is for the following reasons.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "The conduct which is the subject of the liability judgment occurred in 2016, more than six years ago, and this was the first occasion that Hutchinson had been found to have engaged in this kind of unlawful conduct. As observed earlier in these reasons, Hutchinson has invested significant time and resources towards compliance with its statutory obligations and there is no suggestion of any other instance of this type of unlawful conduct since 2016. Contrary to the submissions of the ACCC, no further deterrence against a repetition of Hutchinson’s unlawful conduct is required in these circumstances and where there have been public findings as contained in the primary judgment, declarations made and financial penalties to be imposed.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "Further, as the injunction sought by the ACCC is framed in terms of an existing statutory obligation, it will not serve any purpose in the circumstances of this case beyond adding a further form of potential punishment in the event of future contravention (being for contempt). That is, granting an injunction as sought by the ACCC will be an indirect way of seeking the imposition of additional consequences for contravention beyond that contemplated by the legislature, but nothing more.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "As stated by the Full Court in Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) (2007) 161 FCR 513; [2007] FCAFC 146 at [110] and [114]:\nWe are inclined to think that in general, a court order requiring a person to conduct themselves in a particular way when a statute requires that conduct in any event, will add little to the statutory prescription or proscription and the statutory sanctions attending non-compliance.\n…\nThe experience of the law is that unlawful or illegal conduct does not lead to an injunction against repetition of such conduct being sought or granted. A range of other remedies exist in the civil and criminal law which are treated as adequate and appropriate sanctions for such conduct. …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "INJUNCTIONS",
+     "Hutchinson"
+    ],
+    "text": "Further, the ACCC was unable to explain or justify the time period nominated by it (three years) in circumstances where more than twice this length of time has passed since the conduct occurred without any repetition of it. This lack of explanation only served to emphasise the lack of utility.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The ACCC sought an injunction against the CFMEU in these terms:\nPursuant to s 80 of the CCA, the Second Respondent is restrained, for a period of 7 years from the date of this order, by itself or by its employees or agents, from\n(a) making or attempting to make a contract or arrangement; or\n(b) arriving at or attempting to arrive at an understanding,\nwith any corporation which:\n(c) is a regular acquirer of particular goods or services from a particular supplier;\n(d) when it last acquired goods or services, acquired them from a particular supplier; or\n(e) acquired goods or services from a particular supplier at any time immediately preceding the making or arriving at, or attempted making or arriving at, the said contract, arrangement or understanding,\nif that contract, arrangement or understanding has a provision which would prevent or hinder that corporation from acquiring or continuing to acquire those goods or services from that supplier in circumstances where that corporation has a contract to acquire goods or services from the supplier or has acquired goods or services from the supplier in the preceding three months.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The CFMEU did not dispute that the ACCC could apply to the Court for an injunction in the terms sought against it pursuant to s 80 of the Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "There are two features of the injunction sought against the CFMEU which differ from that sought against Hutchinson, and which provide reasons against granting the injunction sought.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The first is the length of time (seven years) which, again, appears to be an arbitrary length of time which was not justified by the ACCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The second is that the injunction seeks to restrain the CFMEU in its dealings with any corporation. This is to be contrasted with the injunction sought against Hutchinson which sought to impose a restraint on dealings as between it and the CFMEU.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The grant of an injunction in such wide terms, being terms which extend beyond the case alleged and proved against a party, has been discouraged by the Full Court. In Commodore Business Machines Pty Limited v Trade Practices Commission [1990] FCA 84; (1990) 92 ALR 563, the Full Court (Gummow, Foster and Hill JJ) observed at 574–575:\nNevertheless, such an injunction as that sought by the Commission in this case would have been open to the objection that it was of an undesirable width because, in respect of the supply of Amiga computers, it did no more than reproduce, but this time with the risk of sanctions for contempt, that which the Act in terms forbade by s 48. Any practice of awarding injunctions in such a form is to be discouraged. Such injunctions conflict with the general precept, applicable to the exercise of power under s 80 of the Act as much as to the framing of injunctions in aid of legal and equitable rights, that a final injunction should bear upon the case alleged and proved against the defendant, and should indicate that conduct which is enjoined or commanded to be performed, so that the defendant knows what is expected of him as a matter of fact. …",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "No case was alleged or proved against the CFMEU that the unlawful conduct which it was found to have committed extended beyond its interactions with Hutchinson. An injunction which extends to future dealings with any corporation is therefore not justified in these circumstances.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "Finally, the injunction sought against the CFMEU would impose on it a legal obligation in similar terms to that contained in s 45E(3) of the Act, but in circumstances where that section does not impose any legal obligation on the CFMEU. Rather, the CFMEU can only be liable for being a party to an arrangement or understanding within s 45E(3) if the terms of s 76 of the Act are satisfied.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "The injunction sought by the ACCC would therefore impose a legal obligation on the CFMEU in different terms to that imposed by the Act, at the risk of punishment for contempt. An injunction is not an appropriate vehicle to seek to rewrite legislation or to impose legal obligations on a person which the legislature has not seen fit to impose.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "INJUNCTIONS",
+     "CFMEU"
+    ],
+    "text": "For all of these reasons, it is not appropriate to grant an injunction against the CFMEU in the terms sought by the ACCC.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 108,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Orders sought"
+    ],
+    "text": "The ACCC sought orders against Hutchinson and the CFMEU pursuant to s 86C of the Act, in similar terms and requiring each of them, at their own expense, to:\nestablish, within 30 days of these orders being made, a competition law compliance program which meets the requirements set out in [an Annexure] to these orders and:\n(i) maintain the compliance program for three years from the date on which it is established; and\n(ii) comply with the reporting requirements described in [an Annexure] to these orders for five years from the date on which it is established.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 109,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Orders sought"
+    ],
+    "text": "The terms of the compliance program sought against each respondent is annexed to these reasons. The draft compliance program was amended by the ACCC on the day prior to the hearing, and modified again while reply submissions were being made orally by senior counsel for the ACCC. The effect of the last round of modifications was to amend the reference to “staff, representatives and delegates of the [CFMEU] and other persons involved in the [CFMEU’s] activities” in the first paragraph of Annexure B to “employees and officers (including delegates) of the [CFMEU]” and to delete [6.5] of Annexure A and B as well as the last paragraph of Annexure A and B, which paragraph sits under the heading “ACCC Recommendations”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 110,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Orders sought"
+    ],
+    "text": "The orders are sought pursuant to s 86C of the Act, which relevantly provides:\n86C Non-punitive orders\n(1) The Court may, on application by the Commission, make one or more of the orders mentioned in subsection (2) in relation to a person who has engaged in contravening conduct.\n…\n(2) The orders that the Court may make in relation to the person are:\n…\n(b) except in the case of contravening conduct that relates to section 60C or 60K—a probation order for a period of no longer than 3 years; and\n…\n(4) In this section:\n…\ncontravening conduct means conduct that:\n(a) contravenes Part IV…\n…\nprobation order, in relation to a person who has engaged in contravening conduct, means an order that is made by the Court for the purpose of ensuring that the person does not engage in the contravening conduct, similar conduct or related conduct during the period of the order, and includes:\n(a) an order directing the person to establish a compliance program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to the contravening conduct, similar conduct or related conduct; and\n(b) an order directing the person to establish an education and training program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to the contravening conduct, similar conduct or related conduct; and\n(c) an order directing the person to revise the internal operations of the person’s business which lead to the person engaging in the contravening conduct.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 111,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "For the following reasons, the orders sought by the ACCC requiring each respondent to establish a competition law compliance program in the terms sought will not be made.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 112,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "First, the compliance program does not have a sufficient nexus or relationship to the particular contravening conduct and is wider than one which is designed to prevent repetition of the conduct, which is an overreach and therefore not appropriate: see Australian Competition and Consumer Commission v Z-Tek Computer Pty Ltd [1997] FCA 871; (1997) 78 FCR 197 at 205 (Merkel J), which was cited with approval by Gordon J in Australian Competition & Consumer Commission v Renegade Gas Pty Ltd (trading as Supagas NSW) [2014] FCA 1135 at [100]. See also Dataline at [96].",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 113,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "For example, it requires that each respondent issue a policy statement, described as the compliance policy, which “contains an outline of how commitment to CCA compliance will be realised” within the relevant organisation. That is, it refers to the entirety of the relevant legislation without being limited to the particular contravening conduct. It also contains a proposed compliance handling system and whistleblower protection mechanisms which relate to “competition law complaints” and “competition and consumer law complaints”, which are, again, not limited to the particular contravening conduct as found in the liability judgment.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 114,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "Second, it is not proportionate to the established contraventions, which is a relevant factor: see Australian Competition & Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 95 FCR 114; [1999] FCA 1387 at [51] (French J as his Honour then was).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 115,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "That is for the following reasons:\n(1) the contraventions arose from events in relation to one construction site in 2016 involving four personnel, namely Mr Steele, Mr Clarke, Mr Berlese and Mr Meland;\n(2) six years have passed since the events in question with no repetition of the same unlawful conduct by either respondent;\n(3) the compliance program proposed by the ACCC takes no account of the steps taken by Hutchinson since 2016, including the implementation of its own compliance program which it is in the process of updating.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 116,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "In addition, the compliance program, which is required to be carried out for the maximum period of three years, requires that a risk assessment be performed of what would be Hutchinson’s entire operations throughout Australia which would then be the subject of a report. It also requires that a separate review of the compliance program be performed within one year, also to be the subject of a compliance report, with a further review to be completed each year for three years. The person performing the annual review is to have access to “all relevant sources of information in [the respondent’s] possession or control”.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 117,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "Hutchinson is a significant company which earned more than $2.6 billion in construction revenue in the 2021 financial year. It can therefore be inferred that this income was derived from work performed on numerous construction sites, involving a multitude of subcontractors and union officials, and with copious documents being produced in relation to each site, including emails. The proposed risk assessment and each review would therefore be an enormous undertaking and require significant time and financial resources to be expended by Hutchinson to ensure that it complied with its obligations under the program.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 118,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "Similar issues arise with the CFMEU which has a National Office, a Construction & General Division with over 65,000 members as at March 2021 and a Construction & General Division, Queensland Northern Territory Branch. Its personnel could have potential involvement with a vast array of construction sites across Australia including, but not limited to, those on which Hutchinson is performing works. The compliance program would potentially require the production of an enormous volume of documents, and would require significant time and financial resources to be expended by the CFMEU to ensure that it complied with its obligations under the program.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 119,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "Third, the compliance program is not expressed with sufficient precision so that it is able to be performed and to enable a breach of the order to be ascertained, which is necessary: see, for example, Australian Competition and Consumer Commission v Jetplace Pty Ltd [2010] FCA 759 at [69] (Gilmour J); Australian Competition and Consumer Commission v Sontax Australia (1988) Pty Ltd [2011] FCA 1202 at [36] (Gordon J).",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 120,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "For example, the program requires that the risk assessment be performed. All that each respondent is required to do is ensure that the risk assessment covers certain topics, but the program does not then appear to require that the relevant respondent implement any of the recommendations arising from the risk assessment. That each respondent might be required to do so appears from the fact that, following each review, the compliance report is required to address whether the compliance program as implemented by the respondent “covers the parties and areas identified in the Risk Assessment and, if not, what needs to be further addressed”. However, this is a generous interpretation which could be incorrect.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 121,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "The respondent must also issue a policy statement which “contains an outline of how commitment to CCA compliance will be realised” within the respondent but without any explicit connection to the results of the risk assessment. Further, notwithstanding that the policy statement is required to be issued, the program does not appear to require the relevant respondent to actually comply with it.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 122,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "By way of another example, the program requires “training” of staff by a “suitably qualified compliance professional or legal practitioner with expertise in competition law” but no guidelines are given as to the content of the training or the issues which would be addressed in that training. There is some suggestion that the training should cover potential contraventions of Part IV of the Act, including ss 45E and 45EA, having regard to the description of the staff required to attend the training, but this is not stated expressly and more clarity is needed so that the respondents know what it is that they would be required to do.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 123,
+    "headings": [
+     "COMPLIANCE PROGRAM",
+     "Consideration of compliance program proposed by the ACCC"
+    ],
+    "text": "Further, the compliance program refers to an Australian standard which has been superseded, namely AS/NZS 10002:2014 Guidelines for complaint management in organizations. Is it intended that a later version of this Australian standard be complied with? This is not stated.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 124,
+    "headings": [
+     "ADVERSE PUBLICITY ORDER"
+    ],
+    "text": "The ACCC seeks an order pursuant to s 86D of the Act that the CFMEU place a copy of the orders of the Court on its website and the website of the CFMEU Queensland Northern Territory Division Branch for a period of not less than 30 consecutive days. The ACCC further seeks an order that the CFMEU provide a copy of the orders to each of its officers.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 125,
+    "headings": [
+     "ADVERSE PUBLICITY ORDER"
+    ],
+    "text": "Section 86D of the Act states:\n86D Punitive orders – adverse publicity\n(1) The Court may, on application by the Commission, make an adverse publicity order in relation to a person who:\n(a) has been ordered to pay a pecuniary penalty under section 76; or\n…\n…\n(2) In this section, an adverse publicity order, in relation to a person, means an order that:\n(a) requires the person to disclose, in the way and to the persons specified in the order, such information as is so specified, being information that the person has possession of or access to; and\n(b) requires the person to publish, at the person’s expense and in the way specified in the order, an advertisement in the terms specified in, or determined in accordance with, the order.\n(3) This section does not limit the Court’s powers under any other provision of this Act.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 126,
+    "headings": [
+     "ADVERSE PUBLICITY ORDER"
+    ],
+    "text": "These orders were not opposed by the CFMEU, and it is appropriate that the orders sought be made in this case, with a slight modification to one of the website addresses referred to in the draft order.",
+    "judge": "DOWNES J"
+   },
+   {
+    "n": 127,
+    "headings": [
+     "COSTS"
+    ],
+    "text": "The ACCC sought an order that the respondents pay its costs on the standard basis, which was not opposed. Such an order is also appropriate as costs should follow the event.",
+    "judge": "DOWNES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and twenty-seven (127) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.",
+ "associate": null,
+ "dated": "2022-08-30",
+ "schedules": [
+  {
+   "title": "ANNEXURE",
+   "text": ""
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v J Hutchinson Pty Ltd (No 2) [2022] FCA 1007\n\n## Cover sheet\n\n**File number(s):** QUD 374 of 2020\n\n**Judgment of:** DOWNES J\n\n**Date of judgment:** 30 August 2022\n\n**Catchwords:** COMPETITION LAW – application by regulator for pecuniary penalties and other relief arising from findings of liability in previous decision – where findings and declarations made that construction company had contravened ss 45E(3) and 45EA Competition and Consumer Act 2010 (Cth) – where findings and declarations made that union was knowingly concerned in, or party to, the contraventions and had induced them within the meaning of s 76 Competition and Consumer Act 2010 (Cth) – consideration of factors relevant to pecuniary penalty under s 76 – whether s 76(3) applied in relation to union in circumstances where separate contraventions related to the same conduct – whether injunction should be granted pursuant to s 80 – where injunction sought against construction company in same terms as legislation – where injunction sought against union which would impose legal obligation not contained in the legislation – whether respondents should be ordered to implement a competition law compliance program – where compliance program was disproportionate – where compliance program did not have sufficient nexus to contravening conduct – where requirements of compliance program were not expressed with sufficient precision – where adverse publicity order made\n\n**Legislation:** Building and Construction Industry Improvement Act 2005 (Cth)  \nCompetition and Consumer Act 2010 (Cth) ss 45D, 45E, 45EA, 76, 80, 86C, 86D, Sch 2 s 224  \nFair Work (Registered Organisations) Act 2009 (Cth) s 27  \nFair Work Act 2009 (Cth) s 546  \nWorkplace Relations Act 1996 (Cth)\n\n**Cases cited:** A & L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2007) 165 IR 94; [2007] FCA 1047  \nAustralian Building and Construction Commission v Construction, Forestry, Maritime, Mining and Energy Union (2020) 302 IR 139; [2020] FCA 1662  \nAustralian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union (2017) 254 FCR 68; [2017] FCAFC 113  \nAustralian Building and Construction Commissioner v Construction, Forestry, Maritime, Mining and Energy Union (The Nine Brisbane Sites Appeal) (2019) 269 FCR 262; [2019] FCAFC 59  \nAustralian Building and Construction Commissioner v Dig It Landscapes Pty Ltd [2017] FCCA 2128  \nAustralian Building and Construction Commissioner v Pattinson (2022) 175 ALD 383; [2022] HCA 13  \nAustralian Building and Construction Commissioner v Rielly (No 2) [2021] FCCA 43  \nAustralian Building Construction Commissioner v Pauls [2017] FCA 843  \nAustralian Competition & Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 95 FCR 114; [1999] FCA 1387  \nAustralian Competition & Consumer Commission v Renegade Gas Pty Ltd (trading as Supagas NSW) [2014] FCA 1135  \nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) (2007) 161 FCR 513; [2007] FCAFC 146  \nAustralian Competition and Consumer Commission v J Hutchinson Pty Ltd [2022] FCA 98  \nAustralian Competition and Consumer Commission v Jetplace Pty Ltd [2010] FCA 759  \nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (2016) 340 ALR 25; [2016] FCAFC 181  \nAustralian Competition and Consumer Commission v Sontax Australia (1988) Pty Ltd [2011] FCA 1202  \nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730  \nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191  \nAustralian Competition and Consumer Commission v Yazaki Corporation (2018) 262 FCR 243; [2018] FCAFC 73  \nAustralian Competition and Consumer Commission v Z-Tek Computer Pty Ltd [1997] FCA 871; (1997) 78 FCR 197  \nAustralian Securities and Investments Commission v Wooldridge [2019] FCAFC 172  \nCommissioner of Taxation v Bogiatto (No 2) [2021] FCA 98  \nCommodore Business Machines Pty Limited v Trade Practices Commission [1990] FCA 84; (1990) 92 ALR 563  \nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate (2015) 258 CLR 482; [2015] HCA 46  \nConstruction, Forestry, Maritime, Mining and Energy Union v Australian Building and Construction Commissioner (The Palmerston Police Station Case) [2021] FCAFC 7  \nConstruction, Forestry, Maritime, Mining and Energy Union v Richard Crookes Constructions Pty Ltd [2022] FCA 992  \nDirector, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2013] FCA 846  \nDirector, Fair Work Building Inspectorate v J Hutchinson Pty Ltd [2016] FCCA 2175  \nNW Frozen Foods Proprietary Limited v Australian Competition and Consumer Commission [1996] FCA 1134; (1996) 71 FCR 285  \nPostiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295  \nTrade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR 41-076  \nviagogo AG v Australian Competition and Consumer Commission [2022] FCAFC 87  \nVolkswagen Aktiengesellschaft v Australian Competition and Consumer Commission (2021) 284 FCR 24; [2021] FCAFC 49\n\n**Division:** General Division\n\n**Registry:** Queensland\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 127\n\n**Date of hearing:** 17 May 2022\n\n**Counsel for the Applicant:** Ms M Hindman QC w/ Ms A Nicholas\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First Respondent:** Dr R Higgins SC w/ Mr M Trim\n\n**Solicitor for the First Respondent:** Gadens\n\n**Counsel for the Second Respondent:** Mr C Dowling SC w/ Mr C Massy\n\n**Solicitor for the Second Respondent:** Hall Payne Lawyers\n\n## Judgment\n\n### ORDERS\n\n|  | QUD 374 of 2020 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | J HUTCHINSON PTY LTD (ACN 009 778 330)<br>First Respondent<br>CONSTRUCTION, FORESTRY, MARITIME, MINING AND ENERGY UNION<br>Second Respondent |\n\n| order made by: | DOWNES J |\n|---|---|\n| DATE OF ORDER: | 30 august 2022 |\n\nIn this Order, the reference to the February Orders means the Orders dated 14 February 2022, as subsequently amended, in which it was declared that:\n\n1. The first respondent contravened s 45E(3) of the Competition and Consumer Act 2010 (Cth) by making an arrangement or arriving at an understanding with the second respondent containing a provision to the effect that the first respondent would no longer acquire waterproofing services from Waterproofing Industries Qld Pty Ltd (WPI) at the Southpoint A construction project, and further, that it would terminate its subcontract with WPI, which provision would prevent or hinder the first respondent from acquiring or continuing to acquire services from WPI (boycott provision).\n\n2. By ceasing to acquire waterproofing services from WPI at the Southpoint A construction project and, further, by terminating its subcontract with WPI, the first respondent gave effect to the boycott provision and thereby contravened s 45EA of the Competition and Consumer Act 2010 (Cth).\n\n3. The second respondent was knowingly concerned in, or party to, the contraventions by the first respondent of ss 45E(3) and 45EA of the Competition and Consumer Act 2010 (Cth) within the meaning of s 76 of that Act.\n\n4. The second respondent induced the first respondent’s contraventions of ss 45E(3) and 45EA of the Competition and Consumer Act 2010 (Cth) within the meaning of s 76 of that Act by threatening or implying that there would be conflict with, or industrial action by, the second respondent if the first respondent did not cease using WPI.\n\n### THE COURT ORDERS THAT:\n\n1. By 1 October 2022, the first respondent shall pay to the Commonwealth of Australia, pursuant to s 76 of the Competition and Consumer Act 2010 (Cth):\n\n(a) a pecuniary penalty in the amount of $300,000 in respect of its contravention of s 45E(3) of the Act declared in paragraph 1 of the February Orders; and\n\n(b) a pecuniary penalty in the amount of $300,000 in respect of its contravention of s 45EA of the Act declared in paragraph 2 of the February Orders.\n\n2. By 1 October 2022, the second respondent shall pay to the Commonwealth of Australia, pursuant to s 76 of the Competition and Consumer Act 2010 (Cth), a pecuniary penalty in the amount of $750,000 in respect of:\n\n(a) its conduct in being knowingly concerned in or party to the first respondent’s contraventions of ss 45E(3) and 45EA of the Act declared in paragraph 3 of the February Orders; and\n\n(b) its conduct of inducing the first respondent’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the second respondent if the first respondent did not cease using WPI, declared in paragraph 4 of the February Orders.\n\n3. Pursuant to s 86D of the Competition and Consumer Act 2010 (Cth), the second respondent shall, within 7 days of these orders being made:\n\n(a) place a copy of these orders in a prominent place on the home pages of its website (https://www.cg.cfmeu.org) and of the website of the CFMMEU Queensland Northern Territory Division Branch (https://www.qnt.cfmeu.org), and take all reasonable steps to ensure that the said copies of these orders remain in a prominent place and visible on the home pages of each of these websites for a period of not less than 30 consecutive days; and\n\n(b) provide a copy of these orders to each of its officers.\n\n4. The first and second respondents shall pay the applicant’s costs of and incidental to the proceedings, to be taxed if not agreed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### DOWNES J:\n\n| INTRODUCTION | [1] |\n|---|---|\n| PECUNIARY PENALTIES | [13] |\n| Relevant legislation | [13] |\n| Relevant legal principles | [18] |\n| Hutchinson | [21] |\n| Maximum penalty / number of penalties | [21] |\n| General deterrence | [24] |\n| Specific deterrence – mandatory considerations | [27] |\n| Specific deterrence – other relevant matters | [34] |\n| Size of Hutchinson | [34] |\n| Involvement of senior management | [38] |\n| Whether corporate culture conducive to compliance with the Act | [40] |\n| Co-operation with the ACCC | [44] |\n| Lack of contrition | [46] |\n| Course of conduct | [47] |\n| Totality principle | [50] |\n| Conclusion | [53] |\n| CFMEU | [56] |\n| Maximum penalty / number of penalties | [56] |\n| General deterrence | [64] |\n| Specific deterrence – mandatory considerations | [67] |\n| Specific deterrence – other relevant matters | [76] |\n| Similar unlawful conduct by the CFMEU | [76] |\n| Size of the CFMMEU | [79] |\n| Involvement of senior management | [80] |\n| Whether corporate culture conducive to compliance with the Act | [84] |\n| Lack of contrition | [87] |\n| Parity | [88] |\n| Conclusion | [90] |\n| INJUNCTIONS | [91] |\n| Hutchinson | [91] |\n| CFMEU | [98] |\n| COMPLIANCE PROGRAM | [108] |\n| Orders sought | [108] |\n| Consideration of compliance program proposed by the ACCC | [111] |\n| ADVERSE PUBLICITY ORDER | [124] |\n| COSTS | [127] |\n\n### INTRODUCTION\n\n[1] The first respondent (Hutchinson) is a large, privately owned construction company which was the head contractor for the Southpoint A construction project located at 269 Grey Street, South Brisbane in Queensland (the Southpoint project).\n\n[2] The second respondent, which was described at trial as the CFMEU, is a trade union organisation. In 2016, the CFMEU was an organisation for the purposes of s 27 of the Fair Work (Registered Organisations) Act 2009 (Cth). On 27 March 2018, the CFMEU amalgamated with the Maritime Union of Australia and the Textile, Clothing and Footwear Union of Australia to become the CFMMEU.\n\n[3] Waterproofing Industries Qld Pty Ltd (WPI) is a company which entered into a subcontract with Hutchinson to perform certain waterproofing works at the Southpoint project.\n\n[4] On 14 February 2022, the Court delivered judgment in this matter in Australian Competition and Consumer Commission v J Hutchinson Pty Ltd [2022] FCA 98 (liability judgment or LJ).\n\n[5] WPI did not have a CFMEU enterprise bargaining agreement (or EBA) and the CFMEU complained that it was not consulted prior to its engagement. Shortly after this, the CFMEU threatened to engage in industrial action if Hutchinson allowed WPI to continue working on the Southpoint project. WPI was excluded from the site from 11 June 2016 and its subcontract was terminated by letter dated 26 July 2016: [8]–[10] LJ.\n\n[6] Hutchinson was found to have contravened s 45E(3) of the Competition and Consumer Act 2010 (Cth) by making an arrangement or arriving at an understanding with the CFMEU containing a provision to the effect that Hutchinson would no longer acquire waterproofing services from WPI at the Southpoint project and would terminate the WPI subcontract, which provision would prevent or hinder Hutchinson from acquiring or continuing to acquire services from WPI: [351] LJ. This provision is described as the boycott provision: [11] LJ.\n\n[7] Hutchinson was also found to have contravened s 45EA of the Act because, by ceasing to acquire waterproofing services from WPI, and further by terminating the WPI subcontract, it gave effect to the boycott provision: [352] LJ.\n\n[8] The CFMEU was found to have been knowingly concerned in, or party to, the contraventions by Hutchinson of ss 45E(3) and 45EA of the Act within the meaning of s 76 of the Act: [361] LJ.\n\n[9] The CFMEU was also found to have induced Hutchinson’s contraventions of ss 45E(3) and 45EA within the meaning of s 76 of the Act by threating or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI: [362] LJ.\n\n[10] Declarations were made on 14 February 2022 which reflected these findings. The ACCC seeks the following additional relief:\n\n(1) pecuniary penalties pursuant to s 76 of the Act;\n\n(a) for a total sum of $1.2 million against Hutchinson;\n\n(b) for a total sum of $1.5 million against the CFMEU;\n\n(2) injunctions pursuant to s 80 of the Act;\n\n(3) orders for the establishment of a competition law compliance program pursuant to s 86C of the Act;\n\n(4) adverse publicity orders against the CFMEU pursuant to s 86D of the Act; and\n\n(5) that the respondents pay its costs on the standard basis.\n\n[11] The relief sought in (1), (2) and (3) is opposed. The CFMEU does not oppose the relief sought in (4) and no submissions were made by the respondents against (5).\n\n[12] For the following reasons, it will be ordered that:\n\n(1) Hutchinson pay a pecuniary penalty in the total sum of $600,000;\n\n(2) the CFMEU pay a pecuniary penalty in the total sum of $750,000;\n\n(3) the adverse publicity orders sought against the CFMEU be made, with one minor modification; and\n\n(4) the respondents pay the ACCC’s costs on the standard basis.\n\n### PECUNIARY PENALTIES\n\n#### Relevant legislation\n\n[13] Each of ss 45E(3) and 45EA of the Act are contained in Part IV of the Act.\n\n[14] Section 76 of the Act (which is contained in Part VI of the Act) provides:\n\n> 76 Pecuniary penalties\n\n> (1) If the Court is satisfied that a person:\n\n> (a) has contravened any of the following provisions:\n\n> (i) a provision of Part IV …\n\n> …\n\n> (d) has induced, or attempted to induce, a person, whether by threats or promises or otherwise, to contravene such a provision; or\n\n> (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision; or\n\n> …\n\n> the Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each act or omission by the person to which this section applies, as the Court determines to be appropriate having regard to all relevant matters including the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission, the circumstances in which the act or omission took place and whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct.\n\n[15] The plain words of s 76(1) therefore require that a determination be made by the Court as to the appropriate pecuniary penalty having regard to all relevant matters including:\n\n(1) the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;\n\n(2) the circumstances in which the act or omission took place;\n\n(3) whether the person has previously been found by the Court in proceedings under Part VI or Part XIB to have engaged in any similar conduct.\n\n[16] The maximum penalty for a corporate respondent for each contravention is $750,000: s 76(1A).\n\n[17] If conduct constitutes a contravention of two or more provisions of Part IV (other than in relation to sections which are not relevant to this case), a proceeding may be instituted under the Act against a person in relation to the contravention of any one or more of the provisions but a person is not liable to more than one pecuniary penalty under s 76 in respect of the same conduct: s 76(3).\n\n#### Relevant legal principles\n\n[18] The scope of the power to impose civil pecuniary penalties was recently considered by the High Court in Australian Building and Construction Commissioner v Pattinson (2022) 175 ALD 383; [2022] HCA 13. Although that case concerned s 546 of the Fair Work Act 2009 (Cth) (FW Act), which is in different terms to s 76 of the Act, the observations of the plurality in Pattinson (Kiefel CJ, Gageler, Keane, Gordon, Steward and Gleeson JJ) have been regarded by the Full Court as relevant to the interpretation of s 224 of Schedule 2 of the Act, which is in materially the same terms as s 76: see viagogo AG v Australian Competition and Consumer Commission [2022] FCAFC 87 at [129]–[131] (Yates, Abraham and Cheeseman JJ).\n\n[19] The following principles are derived from the reasons of the plurality in Pattinson and are apposite to the approach required to be taken to the imposition of a pecuniary penalty under s 76 of the Act:\n\n(1) subject to the particular statutory scheme, “the purpose of a civil penalty is primarily, if not solely, the promotion of the public interest in compliance with the provisions of the Act by the deterrence of further contraventions of the Act”: [9], [15], [42], [47]–[48]. See also Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate (2015) 258 CLR 482; [2015] HCA 46 at [55]; viagogo at [129];\n\n(2) there is no place for a “notion of proportionality” in a civil penalty regime, being a notion drawn from the criminal law that a penalty must be proportionate to the seriousness of the conduct that constituted the contravention, and nor should the maximum penalty be reserved for only the most serious examples of the offending (subject to the terms of the statute). What is required is that there be “some reasonable relationship between the theoretical maximum and the final penalty imposed” which will be established where the penalty does not exceed what is reasonably necessary to achieve the purpose of the provision, being the deterrence of future contraventions of a like kind by the contravenor and others: [10]. See also viagogo at [131];\n\n(3) civil penalties must be fixed with a view to ensuring that the penalty is not such as to be regarded by the offender or others as an acceptable cost of doing business: [17];\n\n(4) the factors identified by French J (as his Honour then was) in Trade Practices Commission v CSR Ltd [1990] FCA 521; (1991) ATPR 41-076 at 52,152–52,153 (as set out below) are possible relevant considerations which inform the assessment of a penalty of appropriate deterrent value; however, these should not be considered as a “legal checklist” and the court’s task remains to determine what is an “appropriate” penalty in the circumstances of the particular case: [18]–[19], [54]. See also viagogo at [131]. In this regard, it is relevant to observe that, unlike the provision being considered by the High Court, s 76 lists considerations which must be taken into account;\n\n(5) another relevant factor is the maximum penalty which might be imposed, albeit it must be balanced with all other relevant factors: [52]–[54]. See also viagogo at [131];\n\n(6) the power to impose a penalty is to be exercised judicially, that is, fairly and reasonably having regard to the subject matter, scope and purpose of the legislation: [40]. See also viagogo at [130];\n\n(7) the penalty imposed should be “proportionate” in the sense that it strikes a reasonable balance between deterrence and oppressive severity: [41], [46]. See also viagogo at [130];\n\n(8) concepts such as totality, parity and course of conduct may assist in the assessment of what may be considered reasonably necessary to deter further contraventions of the Act: [45]. See also viagogo at [132];\n\n(9) a court which is empowered to impose an “appropriate” penalty must act fairly and reasonably for the purpose of protecting the public interest by deterring future contraventions of the legislation: [48] and [71];\n\n(10) considerations of deterrence, and the protection of the public interest, justify the imposition of the maximum penalty where it is apparent that no lesser penalty will be an effective deterrent against future contraventions of a like kind: [50].\n\n[20] The factors identified by French J in CSR were:\n\n> 1. The nature and extent of the contravening conduct.\n\n> 2. The amount of loss or damage caused.\n\n> 3. The circumstances in which the conduct took place.\n\n> 4. The size of the contravening company.\n\n> 5. The degree of power it has, as evidenced by its market share and ease of entry into the market.\n\n> 6. The deliberateness of the contravention and the period over which it extended.\n\n> 7. Whether the contravention arose out of the conduct of senior management or at a lower level.\n\n> 8. Whether the company has a corporate culture conducive to compliance with the Act, as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention.\n\n> 9. Whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention.\n\n#### Hutchinson\n\n##### Maximum penalty / number of penalties\n\n[21] The maximum penalty for a contravention of each of ss 45E and 45EA of the Act by a body corporate was $750,000 at the relevant time. If the maximum penalty for each contravention was imposed on Hutchinson, the total would be $1.5 million for both contraventions.\n\n[22] The ACCC submits that it is appropriate to impose penalties totalling $1.2 million upon Hutchinson, comprised of the following:\n\n(1) in respect of its conduct in making an arrangement or arriving at an understanding with the CFMEU containing the boycott provision, in contravention of s 45E(3) of the Act, a penalty of $600,000; and\n\n(2) in respect of its conduct in ceasing to acquire waterproofing services from WPI and terminating its contract with WPI, which amounted to giving effect to the arrangement or understanding containing the boycott provision in contravention of s 45EA of the Act, a penalty of $600,000.\n\n[23] Hutchinson did not submit that a pecuniary penalty should not be imposed and it did not oppose the making of separate penalties in respect of each contravention. However, it submits that an appropriate penalty would be $400,000 in total for both contraventions.\n\n##### General deterrence\n\n[24] Sections 45E and 45EA of the Act are directed at situations in which a person in Hutchinson’s position capitulates in order to avoid loss or damage as a result of threatened industrial action. These provisions have an important role in protecting the competitive process in sectors in which organisations of employees operate.\n\n[25] The commercial construction industry in Australia has a large number of participants which act in a similar role to that which Hutchinson did in this case, meaning there is considerable scope for conduct to occur which is of the kind which was engaged in by Hutchinson. Such conduct is damaging to the competitive process. It is also likely to be clandestine. Any perception by others in the construction industry that penalties attaching to conduct of the kind engaged in by Hutchinson, as found in the liability judgment, are insufficient to outweigh the benefits which will flow to them from engaging in the unlawful conduct, will have the consequence that such organisations will not be deterred from behaving unlawfully. This will lessen competition and is contrary to the statutory purpose and scheme of the Act.\n\n[26] It is also important that a penalty is not imposed which would be perceived by others in the industry as a “cost of doing business” and as being more cost-effective than the implementation of a program to ensure that there is compliance with the Act: Construction, Forestry, Maritime, Mining and Energy Union v Richard Crookes Constructions Pty Ltd [2022] FCA 992 at [168]. To do so would lead to a potential distortion of competition in the market because those in the market which elect to run the risk of paying the penalty gain an unfair advantage over competitors which comply with the law: see Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (2016) 340 ALR 25; [2016] FCAFC 181 at [149] (Jagot, Yates and Bromwich JJ).\n\n##### Specific deterrence – mandatory considerations\n\n[27] Section 76(1) requires consideration of the nature and extent of Hutchinson’s act, the nature and extent of any loss or damage suffered as a result of its act, the circumstances in which the act or omission took place and whether it has previously been found by the Court in proceedings under Part VI or Part XIB of the Act to have engaged in any similar conduct.\n\n[28] Having regard to the findings in the liability judgment, Hutchinson’s conduct fell squarely within the mischief to which ss 45E and 45EA is directed, being its capitulation to threatened industrial action to avoid personal loss or damage at the expense of third party suppliers.\n\n[29] This follows from the findings of fact contained in the liability judgment, especially those in [340(3)], [340(4)], [340(6)], [340(10)], [340(16)], [340(20)], [340(29)], [340(30)] and [340(33)], as well as the finding that the respondents’ conduct in relation to WPI was part of a wider strategy, the purpose of which was to seek to cause Hutchinson to engage subcontractors which had an EBA on the Southpoint project: [348].\n\n[30] These findings demonstrate that Hutchinson, through Mr Berlese (whose role within that company is described in [27] LJ), regarded the avoidance of industrial disputation as being more important than the cost of compliance with ss 45E and 45EA of the Act.\n\n[31] This is not the first time that Hutchinson has turned a subcontractor away from one of its projects (or terminated its subcontract) because it did not have an EBA: see Director, Fair Work Building Inspectorate v J Hutchinson Pty Ltd [2016] FCCA 2175. That case involved a different construction project and Mr Berlese was the team leader in that case also.\n\n[32] These matters support a conclusion that a higher penalty is required in order to secure effective deterrence.\n\n[33] Conversely, factors which tell in favour of a lower penalty are:\n\n(1) the unlawful conduct as found related to only one subcontractor at the Southpoint project and occurred over a short period of some two or three months;\n\n(2) a limited number of other subcontractors at the Southpoint project did not have an EBA, but were engaged by Hutchinson;\n\n(3) there was no evidence of any loss or damage having been suffered by any person as a consequence of the contraventions. While it is correct to say that WPI lost its subcontract with Hutchinson, there is nothing to say one way or the other as to whether WPI obtained other work to replace this lost job, and so it is a matter of speculation as to whether it suffered any monetary loss. And while there was some delays caused to the works “on the ground” because of the exclusion of WPI from the site, it is a matter of speculation as to whether those delays translated into any monetary loss to any person;\n\n(4) Hutchinson has not previously been found to have engaged in any similar conduct in proceedings under Part VI or Part XIB of the Act.\n\n##### Specific deterrence – other relevant matters\n\n###### Size of Hutchinson\n\n[34] In the 2021 financial year, Hutchinson’s construction revenue exceeded $2.6 billion and its after tax profits exceeded $27 million. Its net assets exceeded $360 million.\n\n[35] Hutchinson submits that its annual profit is a “relatively small proportion” of its revenue and as such a large penalty of the kind proposed by the ACCC would “significantly affect Hutchinson’s annual profit.”\n\n[36] However, this submission is rejected: the total penalty sought by the ACCC of $1.2 million only equates to approximately 4.4% of Hutchinson’s 2020/2021 after tax profit, and pays no regard to its substantial assets.\n\n[37] The size and resources of Hutchinson supports a conclusion that a higher penalty is required in order to secure effective deterrence: see Volkswagen Aktiengesellschaft v Australian Competition and Consumer Commission (2021) 284 FCR 24; [2021] FCAFC 49 at [154] (Wigney, Beach and O’Bryan JJ).\n\n###### Involvement of senior management\n\n[38] At the time of the contraventions, Mr Berlese was one of Hutchinson’s most senior employees. He remains a senior employee. Mr Meland was project manager for the Southpoint project and reported directly to Mr Berlese. It was primarily the conduct of these two senior employees which gave rise to the contraventions by Hutchinson.\n\n[39] Having regard to Mr Berlese’s senior role within Hutchinson in particular, and that he is responsible for larger commercial construction projects in South East Queensland, the penalty to be imposed must be sufficient to deter Hutchinson from repeating its unlawful conduct.\n\n###### Whether corporate culture conducive to compliance with the Act\n\n[40] The ACCC submitted that the adverse credit findings in respect of Mr Berlese, given his senior role, indicated that Hutchinson had a corporate culture which was “not conducive to appropriate compliance with [the Act].” However, it does not follow from such an adverse finding that Hutchinson has a corporate culture of disregarding compliance with the Act. Indeed, if such a culture was present, one would expect that Hutchinson would have been found to have contravened the Act on other occasions, which is not the case.\n\n[41] Further, since 2016, Hutchinson has implemented an internal compliance program, which is overseen by Mr Benjamin Young, one of its directors. Mr Young gave unchallenged evidence by an affidavit sworn on 4 April 2022 as to numerous steps which Hutchinson has taken including:\n\n(1) the creation of a Code Compliance Team, which includes external solicitors and an external consultant. According to Mr Young, this team has contributed to a significant improvement in knowledge and understanding within Hutchinson of its legal obligations, better policies and processes, updated resources and improved compliance outcomes. This has included the development of: a site management industrial relations handbook as a practical guide for project teams (which includes detailed processes concerning freedom of association, inductions and right of entry requirements); a Building Code self audit tool designed to continually monitor compliance by project teams; freedom of association posters to be displayed on projects; and right of entry flow charts to assist project teams to manage entry to site by union officials;\n\n(2) regular reporting by Mr Young to the Hutchinson board, generally every two months;\n\n(3) detailed training for all project managers, team leaders, site managers, contracts administrators and safety officers on an annual basis;\n\n(4) internal and external audits of its processes.\n\n[42] Mr Young also deposed that:\n\n> While the issue of not awarding or terminating a subcontract based upon a subcontractor's EBA status was Hutchinson's policy at the time I re-joined in 2016, it has also formed part of the training I have delivered since that time.\n\n> As part of the Code Compliance Team's ongoing process of reviewing, refining and enhancing its policies and procedures, the team has been in the process of undertaking a review of Hutchinson's policies and procedures since around 2021. The team has also taken steps to extend the scope of its review to ensure new measures are implemented that will focus on compliance with sections 45E and 45EA of the CCA [with reference to meetings held in February 2022 shortly after the delivery of the liability judgment].\n\n> I am currently in the process of developing an updated compliance program for Hutchinson, which among other things will focus on ensuring compliance with sections 45E and 45EA of the CCA. As mentioned above, the issue of subcontractor selection has been a part of Hutchinson's training programs since before the time I re-joined Hutchinson in 2016, though the scope of this training will be broadened with a view to educating staff about sections 45E and 45EA of the CCA and ensuring compliance with those sections.\n\n[43] This evidence tends to indicate that Hutchinson is seeking to cultivate a corporate culture which is conducive to compliance with the Act. This is an important reason to consider that a lower penalty is required than that sought by the ACCC in order to deter future contraventions. However, it is also relevant to observe that there was no expert evidence to demonstrate that the compliance program which Hutchinson has implemented is effective. Further, Hutchinson had not implemented the proposed changes with respect to ss 45E and 45EA by the time of the hearing in May 2022, and offered no undertakings that it would do so. Further, there is no evidence that Mr Berlese had received any form of reprimand for his conduct.\n\n###### Co-operation with the ACCC\n\n[44] Hutchinson submits that its co-operation with ACCC investigations, relevantly by responding to a voluntary information request in February 2018, supports a lower penalty being imposed.\n\n[45] However, this co-operation does not provide a cogent reason to reduce the penalty to be imposed in circumstances where no significant admissions were made by Hutchinson and there was a contested hearing on liability: see Australian Building and Construction Commissioner v Construction, Forestry, Mining and Energy Union (2017) 254 FCR 68; [2017] FCAFC 113 at [163] (Dowsett, Greenwood and Wigney JJ) (ABCC v CFMEU); NW Frozen Foods Proprietary Limited v Australian Competition and Consumer Commission [1996] FCA 1134; (1996) 71 FCR 285 at 291 (Burchett and Kiefel JJ, as her Honour then was, Carr J agreeing).\n\n###### Lack of contrition\n\n[46] Hutchinson did not express genuine remorse or contrition in respect of the contraventions, which is a relevant consideration: ABCC v CFMEU at [164]. Although not an aggravating factor as such, this fact tends to indicate in the circumstances of this case that a higher penalty is needed in order to serve the purpose of deterring future contraventions: see Australian Building and Construction Commission v Construction, Forestry, Maritime, Mining and Energy Union (2020) 302 IR 139; [2020] FCA 1662 (Colvin J) at [83] (ABCC v CFMMEU); Commissioner of Taxation v Bogiatto (No 2) [2021] FCA 98 (Thawley J) at [79]; Pattinson at [47].\n\n##### Course of conduct\n\n[47] As submitted by the ACCC, separate contraventions arising from separate acts ordinarily attract separate penalties. However, where separate acts, giving rise to separate contraventions, are inextricably interrelated, they should be viewed as a single ‘course of conduct’: Australian Competition and Consumer Commission v Yazaki Corporation (2018) 262 FCR 243; [2018] FCAFC 73 at [234] (Allsop CJ, Middleton and Robertson JJ).\n\n[48] Considerations of whether the acts of the contravenor should be viewed as a single ‘course of conduct’ may assist in the assessment of what may be considered reasonably necessary to deter further contraventions of the Act: see Pattinson at [45]. It is a useful tool of analysis that can help avoid double punishment: see Australian Securities and Investments Commission v Wooldridge [2019] FCAFC 172 at [25] (Greenwood, Middleton and Foster JJ).\n\n[49] In this case, the findings made in the liability judgment which led to the conclusions that there had been contraventions of ss 45E(3) and 45EA of the Act were inextricably interrelated such that they should be viewed as a single course of conduct. Having regard to the facts of this case, this has the consequence that there should be a reduction in the penalty sought by the ACCC for each contravention. To do otherwise would be to impose a penalty of oppressive severity and is an important reason to refuse to impose the penalties as sought by the ACCC.\n\n##### Totality principle\n\n[50] As submitted by the ACCC, where multiple separate penalties are to be imposed upon a particular wrongdoer, the totality principle is applied as a “final check” to ensure that, overall, the penalty is appropriate and that the sum of the penalties imposed for several contraventions does not result in the total of the penalties exceeding what is proper having regard to the totality of the contravening conduct involved: Wooldridge at [26].\n\n[51] It has been described as an analytical tool which is applied as to ensure that the overall penalty is not oppressive or disproportionate in the sense that it is greater than necessary to achieve the object of deterrence: Richard Crookes at [165]; Pattinson at [45].\n\n[52] In this case, the total sum of the penalties sought by the ACCC is excessive having regard to the totality of the contravening conduct involved. This is another important reason to refuse to impose the penalties sought by the ACCC.\n\n##### Conclusion\n\n[53] In all of the circumstances, the considerations which have been addressed indicate that it is appropriate that penalties totalling $600,000 be imposed on Hutchinson.\n\n[54] Such an amount will serve to protect the public interest from future contraventions of the Act by Hutchinson as well as by others in the construction industry which are in the same position as Hutchinson.\n\n[55] This total will be comprised of the following:\n\n(1) in respect of its conduct in making an arrangement or arriving at an understanding with the CFMEU containing a boycott provision, in contravention of s 45E(3) of the Act, a penalty of $300,000; and\n\n(2) in respect of its conduct in ceasing to acquire waterproofing services from WPI and terminating its contract with WPI, which amounted to giving effect to the arrangement or understanding containing the boycott provision, in contravention of s 45EA of the Act, a penalty of $300,000.\n\n#### CFMEU\n\n##### Maximum penalty / number of penalties\n\n[56] The maximum penalty for each of the contraventions by the CFMEU of s 76 was $750,000 at the relevant time. If the maximum penalty for each contravention was imposed on the CFMEU, the total would be $1.5 million for both contraventions.\n\n[57] The ACCC submits that it is appropriate for the Court to impose the total maximum penalties of $1.5 million on the CFMEU, comprised of the following:\n\n(1) in respect of its conduct in threatening industrial action, which induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, the maximum penalty of $750,000; and\n\n(2) in respect of its conduct in being a party to the contravening arrangement or understanding, which amounted to being knowingly concerned in Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, the maximum penalty of $750,000.\n\n[58] The CFMEU did not submit that a pecuniary penalty should not be imposed but did submit that only one penalty should be imposed (in the amount of $250,000) as the two contraventions found in the liability judgment was in respect of the same conduct within the meaning of s 76(3) of the Act.\n\n[59] It is relevant in this regard to consider the case which the CFMEU met at trial. The ACCC pleaded the following at paragraph 14 of its Amended Concise Statement:\n\n> The CFMMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the CCA by threatening or implying that there would be conflict with, or industrial action by, the CFMMEU if Hutchinson did not cease using WPI. Further or in the alternative, CFMMEU was by the same conduct and by being party to the Boycott Arrangement, knowingly concerned in, or party to, those contraventions for the purposes of s 76 of the CCA. …\n\n> (emphasis added)\n\n[60] In light of the case as pleaded by the ACCC, the following findings were made in the liability judgment, on the basis of findings of fact in that decision:\n\n> 355 The ACCC submits that the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI.\n\n> 356 The ACCC also submits that the CFMEU was by the same conduct and by being a party to the boycott arrangement, knowingly concerned in, or party to, those contraventions for the purposes of s 76 of the Act.\n\n> …\n\n> 361 It follows that the CFMEU was knowingly concerned in, or party to the contravention by Hutchinson of ss 45E and 45EA of the Act constituted by its making an arrangement or arriving at an understanding with the CFMEU as alleged by the ACCC.\n\n> 362 Further, the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act by threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI.\n\n> (emphasis added)\n\n[61] These matters demonstrate that the case against the CFMEU was pleaded and determined on the basis that the two contraventions of s 76 of the Act arose out the same conduct.\n\n[62] It follows that s 76(3) of the Act operates such that the CFMEU can only be liable for one pecuniary penalty under s 76(1) in respect of the same conduct which gave rise to multiple contraventions. Consequently, the maximum penalty which can be imposed on the CFMEU is $750,000.\n\n[63] Even if s 76(3) of the Act did not apply, the findings made in the liability judgment which led to the conclusions that there had been contraventions by the CFMEU of s 76 of the Act were inextricably interrelated such that they should be viewed as a single course of conduct. This would lead to a significant reduction in the penalty to be imposed for each contravention such that the combined maximum penalty to be imposed would not exceed $750,000 in any event. To do otherwise would be to impose a penalty of oppressive severity and is an important reason to refuse to impose the penalties as sought by the ACCC.\n\n##### General deterrence\n\n[64] Sections 45E and 45EA of the Act are directed at situations in which a person capitulates in order to avoid loss or damage as a result of threatened industrial action by a person in the CFMEU’s position. As already observed, these provisions have an important role in protecting the competitive process in sectors in which organisations of employees operate.\n\n[65] There are many different organisations in Australia which acquire goods and services from suppliers and which also have dealings with organisations of employees like the CFMEU, meaning there is considerable scope for conduct to occur which is of the kind which was engaged in by the CFMEU. Such conduct is damaging to the competitive process. It is also likely to be clandestine and is therefore difficult to discover.\n\n[66] Any perception by other organisations of employees that penalties attaching to conduct of the kind engaged in by the CFMEU, as found in the liability judgment, are insufficient to outweigh the benefits which will flow to them from engaging in the unlawful conduct, will have the consequence that such organisations will not be deterred from behaving unlawfully. This will lessen competition and is contrary to the statutory purpose and scheme of the Act.\n\n##### Specific deterrence – mandatory considerations\n\n[67] Section 76(1) relevantly requires consideration of the nature and extent of the CFMEU’s act, the nature and extent of any loss or damage suffered as a result of its act, the circumstances in which the act took place and whether it has previously been found by the Court in proceedings under Part VI or Part XIB to have engaged in any similar conduct.\n\n[68] In this case, certain factors might support a conclusion that a lower penalty might be required to deter future contraventions, namely:\n\n(1) the unlawful conduct as found related to only one subcontractor at the Southpoint project and occurred over a short period of some two or three months;\n\n(2) a limited number of other subcontractors at the Southpoint project did not have an EBA, but were engaged by Hutchinson;\n\n(3) for the reasons given above, there was no evidence of any loss or damage having been suffered by any person as a consequence of the contraventions.\n\n[69] However, the CFMEU’s conduct including that engaged in by Mr Steele, a union organiser, and Mr Clarke, its delegate, was the catalyst or ultimate cause of the contraventions by Hutchinson of ss 45E and 45EA of the Act. As submitted by the ACCC, the CFMEU engaged in coercive behaviour, in particular by threatening or implying that there would be conflict with the CFMEU or industrial action by the CFMEU, if Hutchinson did not cease using WPI. This was serious and deliberate conduct by the CFMEU, which was determined to have its way in terms of which waterproofer was used at the Southpoint project. This is apparent from:\n\n(1) the particular findings of fact contained in the liability judgment especially those in [340] and [360] LJ;\n\n(2) the finding that the respondents’ conduct in relation to WPI was part of a wider strategy, the purpose of which was to seek to cause Hutchinson to engage subcontractors which had an EBA on the Southpoint project: [348] LJ;\n\n(3) the finding that the end result which was sought to be accomplished by the respondents was that Hutchinson would cease to acquire waterproofing services from WPI, which was a subcontractor which did not have an EBA, and would terminate the WPI subcontract: [348] LJ.\n\n[70] The nature and circumstances of the contraventions by the CFMEU indicate that a significant penalty is required to secure effective deterrence.\n\n[71] As to the final factor referred to in s 76(1), the ACCC relies on the CFMEU’s contraventions of s 45D of the Act in relation to conduct which occurred in 2004 (Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730) and 2014 (Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191). It submits that these proceedings were brought under Part VI of the Act in which findings were made that the CFMEU has engaged in similar conduct to that which occurred in this case. However, on any view, it cannot be the case that the first decision related to proceedings brought under Part VI of the Act because the Act only entered into force in 2010.\n\n[72] In any event, as submitted by the CFMEU, the conduct engaged in by the CFMEU in Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (2007) ATPR 42-140; [2006] FCA 1730 was of a different character to that which occurred in this case. The conduct in that case concerned physical steps taken on a construction site to prevent the supply of concrete for the purpose of damaging the business of a head contractor (as opposed to pressuring a head contractor to engage in conduct which harms subcontractors).\n\n[73] Turning to the second decision, s 45D of the Act (as it then was) targeted a different form of unlawful conduct to that which is the subject of this case. It relevantly has the effect of prohibiting a person from acting in concert with a second person and engaging in conduct which hinders or prevents a third person from supplying to or acquiring goods or services from a fourth person and is engaged in for the purpose, and would have or be likely to have the effect of, causing substantial loss or damage to the business of the fourth person.\n\n[74] In Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191, proceedings were brought by the ACCC under Part VI of the Act. The relevant conduct which was found to contravene s 45D occurred in 2013 and was in relation to two construction sites (Hawthorn and Richmond). In summary, the CFMEU had informed the relevant shop steward that there was a ban against the use of Boral concrete on that particular site. That shop steward then acted in concert with the CFMEU by implementing the ban on those construction sites, thus hindering or preventing Boral from supplying concrete to them: [8], [9], [207], [292].\n\n[75] In that case, the CFMEU engaged in similar conduct in 2013 to that which occurred in this case in 2016, albeit for a different purpose. For example, in relation to the Richmond site, the shop steward’s communications had the consequence that an alternative supplier of concrete was chosen to Boral: [271]–[276] and [286]–[289]. In this case, the conduct of the CFMEU, through Mr Steele and Mr Clarke, had the consequence that a different waterproofer to WPI was chosen for the Southpoint project. The similarities between the conduct underlying these two cases indicates that the CFMEU is prepared to disregard the law in order to have its own way, which indicates that a higher penalty is needed to be an effective deterrent against future contraventions.\n\n##### Specific deterrence – other relevant matters\n\n###### Similar unlawful conduct by the CFMEU\n\n[76] The CFMEU has been found to have contravened other legislation, such as the FW Act, in circumstances where it has engaged in conduct which is similar to that found in the liability judgment.\n\n[77] The contraventions of other legislation by the CFMEU were as follows:\n\n(1) FW Act:\n\n(a) On the basis of conduct in 2019, the CFMEU was found to have breached the FW Act when it threatened to organise or take action against a head contractor so the head contractor would terminate a contract with a labour hire subcontractor because the subcontractor did not provide workers who “were covered by an enterprise agreement to which the [CFMEU] was a party”: Australian Building and Construction Commissioner v Rielly (No 2) [2021] FCCA 43.\n\n(b) On the basis of conduct in 2016, the CFMEU was found to have “engaged in a campaign to force Hutchinson to only engage subcontractors who had enterprise agreements with the [CFMEU]” and in the course of this campaign breached the FW Act: Australian Building and Construction Commissioner v Construction, Forestry, Maritime, Mining and Energy Union (The Nine Brisbane Sites Appeal) (2019) 269 FCR 262; [2019] FCAFC 59.\n\n(c) On the basis of conduct in 2016, the CFMEU breached the FW Act by its conduct which was for the purpose of attempting to “coerce Watpac to not engage subcontractors which did not have an enterprise agreement with the CFMEU”: Australian Building Construction Commissioner v Pauls [2017] FCA 843.\n\n(d) On the basis of conduct in 2014, the CFMEU breached the FW Act in circumstances where a subcontractor was told that they were not allowed to work at a site because they “did not have an EBA that included the CFMEU”. The head contractor terminated the subcontract the following day because the head contractor “did not want to have any trouble with the [CFMEU]”: Australian Building and Construction Commissioner v Dig It Landscapes Pty Ltd [2017] FCCA 2128.\n\n(2) Building and Construction Industry Improvement Act 2005 (Cth) (BCII Act):\n\n(a) On the basis of conduct in 2010, the CFMEU contravened the BCII Act as a result of threatening industrial action “with the intent to coerce Watpac or with intent to apply undue pressure to Watpac to cease to engage contractors that did not have enterprise agreements with a union and to engage contractors that did”: Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2013] FCA 846.\n\n(3) Workplace Relations Act 1996 (Cth) (WR Act):\n\n(a) On the basis of conduct in 2003, the CFMEU was found to have contravened the WR Act as result of engaging in and threatening industrial action against a head contractor unless a subcontractor who “did not have an EBA with the [CFMEU]” was removed from a site. The agreement with the subcontractor was subsequently terminated: A & L Silvestri Pty Ltd v Construction, Forestry, Mining and Energy Union (2007) 165 IR 94; [2007] FCA 1047.\n\n[78] Taking these other contraventions into account, the conduct of the CFMEU in the liability judgment is to be regarded as another instance of its “pursuit of a strategy of deliberate recalcitrance in order to have its way”: Pattinson at [46]. Its determination to adhere to its strategy of requiring subcontractors on construction sites to have an EBA in defiance of the law is a significant consideration: Pattinson at [61].\n\n###### Size of the CFMMEU\n\n[79] The CFMMEU Construction & General Division – National Office had net assets of approximately $11.8 million as at 31 March 2021. Of this Division, the Queensland Northern Territory Branch had net assets of over $2.7 million as at this date. The size and resources of the CFMEU supports a conclusion that a higher penalty is required in order to secure effective deterrence: see Volkswagen at [154]. A small penalty of the kind proposed by the CFMEU (namely $250,000) risks being ineffective as a deterrent and of being regarded by it as an “acceptable cost of doing business”: Pattinson at [43] and [61]; also Richard Crookes at [168].\n\n###### Involvement of senior management\n\n[80] There was no evidence that any member of the governing bodies of the CFMEU were involved in the contravening conduct. Nor could it be said that Mr Steele or Mr Clarke were members of the senior management of the CFMEU.\n\n[81] However, at the time of the contraventions, Mr Steele was a union organiser who was assigned to the Southpoint project as well as other sites. His was an important role, especially having regard to the size of the Southpoint project, which involved the construction of a residential tower in a city. In this case, the role of union organiser carried with it the responsibility of being the person who represented the CFMEU at the Southpoint project and with whom (in this case) Hutchinson was required to consult under its EBA: see [340(1)] LJ.\n\n[82] Mr Steele used his position in the manner described by him in his oral evidence at the trial, that is, that “the CFMEU” relied on the EBA, as Mr Steele understood and applied it, as a basis for effectively pushing that Hutchinson ought to retain subcontractors which had an EBA: see [151] LJ. The events which were the subject of the contraventions by the CFMEU were therefore not a “one-off” result of inadvertence: Pattinson at [46].\n\n[83] The involvement of a union organiser in the contraventions, being the senior representative of the CFMEU at the Southpoint project, supports a conclusion that a higher penalty is required in order to deter future contraventions. This is especially as Mr Steele’s evidence indicated that his conduct in “pushing” Hutchinson to retain subcontractors which had an EBA was something which the CFMEU did (and was therefore regarded as acceptable conduct by the CFMEU), rather than something which he did on an individual basis.\n\n###### Whether corporate culture conducive to compliance with the Act\n\n[84] The ACCC submitted that the adverse credit findings in respect of the CFMEU’s witnesses indicated that the CFMEU has a corporate culture which was “not conducive to appropriate compliance with [the Act].” However, it is not apparent how adverse credit findings lead to this conclusion.\n\n[85] In any event, that the CFMEU has a corporate culture which is not conducive to appropriate compliance with the Act is apparent from its other acts of similar conduct which has been directed at advancing its strategy of only those subcontractors which have an EBA being engaged (as referred to above), its conduct as described by Mr Steele in his evidence (as referred to above) and from the lack of disciplinary action taken against Mr Steele arising out of his conduct as found in the liability judgment: Pattinson at [46]. Further, it is also relevant that there was no evidence or any suggestion that the CFMEU has sought to modify its internal systems and training processes to ensure that its union organisers do not engage in conduct like that engaged in by Mr Steele in the future: see ABCC v CFMEU at [164].\n\n[86] These matters support a conclusion that a higher penalty is required in order to deter future contraventions.\n\n###### Lack of contrition\n\n[87] The CFMEU did not express genuine remorse or contrition in respect of the contraventions, which is a relevant consideration: ABCC v CFMEU at [164]. Although not an aggravating factor as such, this fact tends to indicate in the circumstances of this case that a higher penalty is needed in order to serve the purpose of deterring future contravention: see ABCC v CFMMEU at [83]; Bogiatto (No 2) at [79]; Pattinson at [47].\n\n##### Parity\n\n[88] In Construction, Forestry, Maritime, Mining and Energy Union v Australian Building and Construction Commissioner (The Palmerston Police Station Case) [2021] FCAFC 7, Katzmann J observed at [37] that the parity principle requires that like offenders be treated alike, but it also enables the different circumstances of co-offenders to be taken into account. Her Honour cited the statement by Dawson and Gaudron JJ in Postiglione v The Queen [1997] HCA 26; (1997) 189 CLR 295 at 301 that:\n\n> The parity principle … is an aspect of equal justice. Equal justice requires that like should be treated alike but that, if there are relevant differences, due allowance should be made for them. In the case of co-offenders, different sentences may reflect different degrees of culpability or their different circumstances. If so, the notion of equal justice is not violated.\n\n> (footnotes omitted)\n\n[89] In this case, and as found in the liability judgment, the conduct of the CFMEU induced Hutchinson’s contraventions of ss 45E(3) and 45EA of the Act, and it was knowingly concerned in or party to the unlawful arrangement or understanding with Hutchinson: see [361]–[362] LJ. That conduct included threatening or implying that there would be conflict with, or industrial action by, the CFMEU if Hutchinson did not cease using WPI: [362] LJ. In this way, its conduct was the catalyst for the events which occurred, and, unlike Hutchinson, it has not indicated any intention to alter its internal systems to avoid a repetition. Further, unlike Hutchinson, it has engaged in other similar conduct which has been found to contravene other legislation. For this reason, the concept of parity does not require that the same penalty be imposed on the CFMEU as Hutchinson because due allowance should be made for these different degrees of culpability and different circumstances.\n\n##### Conclusion\n\n[90] In all of the circumstances, the considerations addressed above indicate that it is appropriate that the maximum penalty of $750,000 be imposed on the CFMEU. It is apparent from the above analysis that no lesser penalty will be an effective deterrent against future contraventions of like kind by the CFMEU as well as by others which are in the same position as the CFMEU.\n\n### INJUNCTIONS\n\n#### Hutchinson\n\n[91] The ACCC sought an injunction against Hutchinson in these terms:\n\n> Pursuant to s 80 of the CCA, the First Respondent is restrained, for a period of 3 years from the date of this order, by itself or by its employees or agents, from:\n\n> (a) making or attempting to make a contract or arrangement; or\n\n> (b) arriving at or attempting to arrive at an understanding,\n\n> with the Second Respondent, if that contract, arrangement or understanding has a provision which would prevent or hinder the First Respondent from acquiring or continuing to acquire goods or services from a supplier in circumstances where the First Respondent has a contract or arrangement to acquire goods or services from the supplier in the preceding three months.\n\n[92] Hutchinson did not dispute that the ACCC could apply to the Court for an injunction in the terms sought against it pursuant to s 80 of the Act. That section relevantly provides that an injunction may be ordered in such terms as the Court determines to be appropriate if the Court is satisfied that a person has engaged, or is proposing to engage, in conduct that constitutes or would constitute a contravention of a provision of Part IV of the Act: s 80(1)(a)(i). Further, the power of the Court to grant an injunction restraining a person from engaging in conduct may be exercised whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind: s 80(4)(a).\n\n[93] However, Hutchinson submits, and I agree, that the grant of an injunction is not appropriate nor required in this case. That is for the following reasons.\n\n[94] The conduct which is the subject of the liability judgment occurred in 2016, more than six years ago, and this was the first occasion that Hutchinson had been found to have engaged in this kind of unlawful conduct. As observed earlier in these reasons, Hutchinson has invested significant time and resources towards compliance with its statutory obligations and there is no suggestion of any other instance of this type of unlawful conduct since 2016. Contrary to the submissions of the ACCC, no further deterrence against a repetition of Hutchinson’s unlawful conduct is required in these circumstances and where there have been public findings as contained in the primary judgment, declarations made and financial penalties to be imposed.\n\n[95] Further, as the injunction sought by the ACCC is framed in terms of an existing statutory obligation, it will not serve any purpose in the circumstances of this case beyond adding a further form of potential punishment in the event of future contravention (being for contempt). That is, granting an injunction as sought by the ACCC will be an indirect way of seeking the imposition of additional consequences for contravention beyond that contemplated by the legislature, but nothing more.\n\n[96] As stated by the Full Court in Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd (in liquidation) (2007) 161 FCR 513; [2007] FCAFC 146 at [110] and [114]:\n\n> We are inclined to think that in general, a court order requiring a person to conduct themselves in a particular way when a statute requires that conduct in any event, will add little to the statutory prescription or proscription and the statutory sanctions attending non-compliance.\n\n> …\n\n> The experience of the law is that unlawful or illegal conduct does not lead to an injunction against repetition of such conduct being sought or granted. A range of other remedies exist in the civil and criminal law which are treated as adequate and appropriate sanctions for such conduct. …\n\n[97] Further, the ACCC was unable to explain or justify the time period nominated by it (three years) in circumstances where more than twice this length of time has passed since the conduct occurred without any repetition of it. This lack of explanation only served to emphasise the lack of utility.\n\n#### CFMEU\n\n[98] The ACCC sought an injunction against the CFMEU in these terms:\n\n> Pursuant to s 80 of the CCA, the Second Respondent is restrained, for a period of 7 years from the date of this order, by itself or by its employees or agents, from\n\n> (a) making or attempting to make a contract or arrangement; or\n\n> (b) arriving at or attempting to arrive at an understanding,\n\n> with any corporation which:\n\n> (c) is a regular acquirer of particular goods or services from a particular supplier;\n\n> (d) when it last acquired goods or services, acquired them from a particular supplier; or\n\n> (e) acquired goods or services from a particular supplier at any time immediately preceding the making or arriving at, or attempted making or arriving at, the said contract, arrangement or understanding,\n\n> if that contract, arrangement or understanding has a provision which would prevent or hinder that corporation from acquiring or continuing to acquire those goods or services from that supplier in circumstances where that corporation has a contract to acquire goods or services from the supplier or has acquired goods or services from the supplier in the preceding three months.\n\n[99] The CFMEU did not dispute that the ACCC could apply to the Court for an injunction in the terms sought against it pursuant to s 80 of the Act.\n\n[100] There are two features of the injunction sought against the CFMEU which differ from that sought against Hutchinson, and which provide reasons against granting the injunction sought.\n\n[101] The first is the length of time (seven years) which, again, appears to be an arbitrary length of time which was not justified by the ACCC.\n\n[102] The second is that the injunction seeks to restrain the CFMEU in its dealings with any corporation. This is to be contrasted with the injunction sought against Hutchinson which sought to impose a restraint on dealings as between it and the CFMEU.\n\n[103] The grant of an injunction in such wide terms, being terms which extend beyond the case alleged and proved against a party, has been discouraged by the Full Court. In Commodore Business Machines Pty Limited v Trade Practices Commission [1990] FCA 84; (1990) 92 ALR 563, the Full Court (Gummow, Foster and Hill JJ) observed at 574–575:\n\n> Nevertheless, such an injunction as that sought by the Commission in this case would have been open to the objection that it was of an undesirable width because, in respect of the supply of Amiga computers, it did no more than reproduce, but this time with the risk of sanctions for contempt, that which the Act in terms forbade by s 48. Any practice of awarding injunctions in such a form is to be discouraged. Such injunctions conflict with the general precept, applicable to the exercise of power under s 80 of the Act as much as to the framing of injunctions in aid of legal and equitable rights, that a final injunction should bear upon the case alleged and proved against the defendant, and should indicate that conduct which is enjoined or commanded to be performed, so that the defendant knows what is expected of him as a matter of fact. …\n\n[104] No case was alleged or proved against the CFMEU that the unlawful conduct which it was found to have committed extended beyond its interactions with Hutchinson. An injunction which extends to future dealings with any corporation is therefore not justified in these circumstances.\n\n[105] Finally, the injunction sought against the CFMEU would impose on it a legal obligation in similar terms to that contained in s 45E(3) of the Act, but in circumstances where that section does not impose any legal obligation on the CFMEU. Rather, the CFMEU can only be liable for being a party to an arrangement or understanding within s 45E(3) if the terms of s 76 of the Act are satisfied.\n\n[106] The injunction sought by the ACCC would therefore impose a legal obligation on the CFMEU in different terms to that imposed by the Act, at the risk of punishment for contempt. An injunction is not an appropriate vehicle to seek to rewrite legislation or to impose legal obligations on a person which the legislature has not seen fit to impose.\n\n[107] For all of these reasons, it is not appropriate to grant an injunction against the CFMEU in the terms sought by the ACCC.\n\n### COMPLIANCE PROGRAM\n\n#### Orders sought\n\n[108] The ACCC sought orders against Hutchinson and the CFMEU pursuant to s 86C of the Act, in similar terms and requiring each of them, at their own expense, to:\n\n> establish, within 30 days of these orders being made, a competition law compliance program which meets the requirements set out in [an Annexure] to these orders and:\n\n> (i) maintain the compliance program for three years from the date on which it is established; and\n\n> (ii) comply with the reporting requirements described in [an Annexure] to these orders for five years from the date on which it is established.\n\n[109] The terms of the compliance program sought against each respondent is annexed to these reasons. The draft compliance program was amended by the ACCC on the day prior to the hearing, and modified again while reply submissions were being made orally by senior counsel for the ACCC. The effect of the last round of modifications was to amend the reference to “staff, representatives and delegates of the [CFMEU] and other persons involved in the [CFMEU’s] activities” in the first paragraph of Annexure B to “employees and officers (including delegates) of the [CFMEU]” and to delete [6.5] of Annexure A and B as well as the last paragraph of Annexure A and B, which paragraph sits under the heading “ACCC Recommendations”.\n\n[110] The orders are sought pursuant to s 86C of the Act, which relevantly provides:\n\n> 86C Non-punitive orders\n\n> (1) The Court may, on application by the Commission, make one or more of the orders mentioned in subsection (2) in relation to a person who has engaged in contravening conduct.\n\n> …\n\n> (2) The orders that the Court may make in relation to the person are:\n\n> …\n\n> (b) except in the case of contravening conduct that relates to section 60C or 60K—a probation order for a period of no longer than 3 years; and\n\n> …\n\n> (4) In this section:\n\n> …\n\n> contravening conduct means conduct that:\n\n> (a) contravenes Part IV…\n\n> …\n\n> probation order, in relation to a person who has engaged in contravening conduct, means an order that is made by the Court for the purpose of ensuring that the person does not engage in the contravening conduct, similar conduct or related conduct during the period of the order, and includes:\n\n> (a) an order directing the person to establish a compliance program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to the contravening conduct, similar conduct or related conduct; and\n\n> (b) an order directing the person to establish an education and training program for employees or other persons involved in the person’s business, being a program designed to ensure their awareness of the responsibilities and obligations in relation to the contravening conduct, similar conduct or related conduct; and\n\n> (c) an order directing the person to revise the internal operations of the person’s business which lead to the person engaging in the contravening conduct.\n\n#### Consideration of compliance program proposed by the ACCC\n\n[111] For the following reasons, the orders sought by the ACCC requiring each respondent to establish a competition law compliance program in the terms sought will not be made.\n\n[112] First, the compliance program does not have a sufficient nexus or relationship to the particular contravening conduct and is wider than one which is designed to prevent repetition of the conduct, which is an overreach and therefore not appropriate: see Australian Competition and Consumer Commission v Z-Tek Computer Pty Ltd [1997] FCA 871; (1997) 78 FCR 197 at 205 (Merkel J), which was cited with approval by Gordon J in Australian Competition & Consumer Commission v Renegade Gas Pty Ltd (trading as Supagas NSW) [2014] FCA 1135 at [100]. See also Dataline at [96].\n\n[113] For example, it requires that each respondent issue a policy statement, described as the compliance policy, which “contains an outline of how commitment to CCA compliance will be realised” within the relevant organisation. That is, it refers to the entirety of the relevant legislation without being limited to the particular contravening conduct. It also contains a proposed compliance handling system and whistleblower protection mechanisms which relate to “competition law complaints” and “competition and consumer law complaints”, which are, again, not limited to the particular contravening conduct as found in the liability judgment.\n\n[114] Second, it is not proportionate to the established contraventions, which is a relevant factor: see Australian Competition & Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 95 FCR 114; [1999] FCA 1387 at [51] (French J as his Honour then was).\n\n[115] That is for the following reasons:\n\n(1) the contraventions arose from events in relation to one construction site in 2016 involving four personnel, namely Mr Steele, Mr Clarke, Mr Berlese and Mr Meland;\n\n(2) six years have passed since the events in question with no repetition of the same unlawful conduct by either respondent;\n\n(3) the compliance program proposed by the ACCC takes no account of the steps taken by Hutchinson since 2016, including the implementation of its own compliance program which it is in the process of updating.\n\n[116] In addition, the compliance program, which is required to be carried out for the maximum period of three years, requires that a risk assessment be performed of what would be Hutchinson’s entire operations throughout Australia which would then be the subject of a report. It also requires that a separate review of the compliance program be performed within one year, also to be the subject of a compliance report, with a further review to be completed each year for three years. The person performing the annual review is to have access to “all relevant sources of information in [the respondent’s] possession or control”.\n\n[117] Hutchinson is a significant company which earned more than $2.6 billion in construction revenue in the 2021 financial year. It can therefore be inferred that this income was derived from work performed on numerous construction sites, involving a multitude of subcontractors and union officials, and with copious documents being produced in relation to each site, including emails. The proposed risk assessment and each review would therefore be an enormous undertaking and require significant time and financial resources to be expended by Hutchinson to ensure that it complied with its obligations under the program.\n\n[118] Similar issues arise with the CFMEU which has a National Office, a Construction & General Division with over 65,000 members as at March 2021 and a Construction & General Division, Queensland Northern Territory Branch. Its personnel could have potential involvement with a vast array of construction sites across Australia including, but not limited to, those on which Hutchinson is performing works. The compliance program would potentially require the production of an enormous volume of documents, and would require significant time and financial resources to be expended by the CFMEU to ensure that it complied with its obligations under the program.\n\n[119] Third, the compliance program is not expressed with sufficient precision so that it is able to be performed and to enable a breach of the order to be ascertained, which is necessary: see, for example, Australian Competition and Consumer Commission v Jetplace Pty Ltd [2010] FCA 759 at [69] (Gilmour J); Australian Competition and Consumer Commission v Sontax Australia (1988) Pty Ltd [2011] FCA 1202 at [36] (Gordon J).\n\n[120] For example, the program requires that the risk assessment be performed. All that each respondent is required to do is ensure that the risk assessment covers certain topics, but the program does not then appear to require that the relevant respondent implement any of the recommendations arising from the risk assessment. That each respondent might be required to do so appears from the fact that, following each review, the compliance report is required to address whether the compliance program as implemented by the respondent “covers the parties and areas identified in the Risk Assessment and, if not, what needs to be further addressed”. However, this is a generous interpretation which could be incorrect.\n\n[121] The respondent must also issue a policy statement which “contains an outline of how commitment to CCA compliance will be realised” within the respondent but without any explicit connection to the results of the risk assessment. Further, notwithstanding that the policy statement is required to be issued, the program does not appear to require the relevant respondent to actually comply with it.\n\n[122] By way of another example, the program requires “training” of staff by a “suitably qualified compliance professional or legal practitioner with expertise in competition law” but no guidelines are given as to the content of the training or the issues which would be addressed in that training. There is some suggestion that the training should cover potential contraventions of Part IV of the Act, including ss 45E and 45EA, having regard to the description of the staff required to attend the training, but this is not stated expressly and more clarity is needed so that the respondents know what it is that they would be required to do.\n\n[123] Further, the compliance program refers to an Australian standard which has been superseded, namely AS/NZS 10002:2014 Guidelines for complaint management in organizations. Is it intended that a later version of this Australian standard be complied with? This is not stated.\n\n### ADVERSE PUBLICITY ORDER\n\n[124] The ACCC seeks an order pursuant to s 86D of the Act that the CFMEU place a copy of the orders of the Court on its website and the website of the CFMEU Queensland Northern Territory Division Branch for a period of not less than 30 consecutive days. The ACCC further seeks an order that the CFMEU provide a copy of the orders to each of its officers.\n\n[125] Section 86D of the Act states:\n\n> 86D Punitive orders – adverse publicity\n\n> (1) The Court may, on application by the Commission, make an adverse publicity order in relation to a person who:\n\n> (a) has been ordered to pay a pecuniary penalty under section 76; or\n\n> …\n\n> …\n\n> (2) In this section, an adverse publicity order, in relation to a person, means an order that:\n\n> (a) requires the person to disclose, in the way and to the persons specified in the order, such information as is so specified, being information that the person has possession of or access to; and\n\n> (b) requires the person to publish, at the person’s expense and in the way specified in the order, an advertisement in the terms specified in, or determined in accordance with, the order.\n\n> (3) This section does not limit the Court’s powers under any other provision of this Act.\n\n[126] These orders were not opposed by the CFMEU, and it is appropriate that the orders sought be made in this case, with a slight modification to one of the website addresses referred to in the draft order.\n\n### COSTS\n\n[127] The ACCC sought an order that the respondents pay its costs on the standard basis, which was not opposed. Such an order is also appropriate as costs should follow the event.\n\nI certify that the preceding one hundred and twenty-seven (127) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Downes.\n\nAssociate:\n\nDated: 30 August 2022\n\nANNEXURE\n",
+ "source_sha256": "f7305aa14f58bc412092a9bb5edace980fa5dffd2cc2dbe550b93a3490eddcdf"
+}

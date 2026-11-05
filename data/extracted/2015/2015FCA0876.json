@@ -1,0 +1,444 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2015/2015FCA0876.docx",
+ "metadata": {
+  "citation": "[2015] FCA 876",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L (No 11)",
+  "court": "FCA",
+  "year": 2015,
+  "number": 876,
+  "date_of_judgment": "2015-08-19",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "BESANKO J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2015-08-03"
+  ],
+  "hearing_raw": "3 August 2015",
+  "number_of_paragraphs": 31,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – application by the applicant for further and better discovery by the second respondent – whether there are reasonable grounds for being fairly certain that there are other relevant documents – whether there are reasonable grounds for being fairly certain those documents are or have been in the control of the second respondent – where the documents sought are documents of the subsidiary of the second respondent – where the second respondent had no authority to access the records of the subsidiary without the authority of that company – Federal Court Rules (2011) (Cth) r 20.21.",
+   "Held: Application dismissed."
+  ],
+  "legislation": [
+   "Australian Competition and Consumer Act 2010 (Cth)",
+   "Federal Court Rules 2011 (Cth) rr 20.14, 20.21",
+   "Trade Practices Act 1974 (Cth) s 45"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) (2012) 298 ALR 251; [2012] FCA 1323",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 10) [2015] FCA 763",
+   "Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 3) [2015] FCA 767",
+   "Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.) and NEXANS SA RCS PARIS 393 525 852",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O’Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr I Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr M Hoffman QC with Mr M Burnett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0876",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2015-08-19"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 11) [2015] FCA 876"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.) and NEXANS SA RCS PARIS 393 525 852"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "BESANKO J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "19 August 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – application by the applicant for further and better discovery by the second respondent – whether there are reasonable grounds for being fairly certain that there are other relevant documents – whether there are reasonable grounds for being fairly certain those documents are or have been in the control of the second respondent – where the documents sought are documents of the subsidiary of the second respondent – where the second respondent had no authority to access the records of the subsidiary without the authority of that company – Federal Court Rules (2011) (Cth) r 20.21.\nHeld: Application dismissed."
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Competition and Consumer Act 2010 (Cth)\nFederal Court Rules 2011 (Cth) rr 20.14, 20.21\nTrade Practices Act 1974 (Cth) s 45"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) (2012) 298 ALR 251; [2012] FCA 1323\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 10) [2015] FCA 763\nBasetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 3) [2015] FCA 767\nNexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "3 August 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "31"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O’Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr I Wylie"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr M Hoffman QC with Mr M Burnett"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J"
+   ],
+   "date": "2015-08-19",
+   "date_raw": "19 AUGUST 2015",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant’s interlocutory application dated 23 July 2015 be dismissed.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "By interlocutory application dated 23 July 2015, the applicant seeks an order for further and better discovery against the second respondent. The applicant is the Australian Competition and Consumer Commission (“ACCC”), and the second respondent is Nexans SA RCS Paris (“Nexans SA”). The other respondent is Prysmian Cavi E Sistemi SRL (formerly Prysmian Cavi E Sistemi Energia S.R.L.) (“Prysmian”). In the period leading up to trial, each respondent was ordered to provide standard discovery under the Federal Court Rules 2011 (Cth) (“the Rules”). Nexans SA served a list of documents dated 27 June 2014 on the ACCC. The list of documents was verified by an affidavit sworn by the company’s chief financial officer, Mr Nicolas Badré."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "In its interlocutory application, the ACCC seeks the following orders against the second respondent:\n1. ...\n2. In compliance with order 2 made by Besanko J on 5 April 2013 (as varied on 8 April 2014), the second respondent provide further and better discovery of:\n2.1 the documents in its control falling within the categories in paragraphs 3, 4, 9, 10, 11, 12, 13, 15(a) to (d) (with the opening words ‘in relation to employment status’ removed), 16, 17 and 20 to 31 of Appendix B to the letter dated 24 April 2014 from Clayton Utz to Mr Patrick Noonan of the second respondent (MFI A 22); and\n2.2 the list of documents referred to by Mr Patrick Noonan at page 237, line 40 of the transcript of the hearing in this proceeding on 15 July 2015."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The ACCC’s application is brought pursuant to r 20.21 of the Rules. That rule is in the following terms:\n20.21 Order for particular discovery\n(1) If a party (the first party) claims that a document or category of documents may be or may have been in another party’s control (the second party), the first party may apply to the Court for an order that the second party file an affidavit stating:\n(a) whether the document or any document of that category is or has been in the second party’s control; and\n(b) if the document or category of documents has been but is no longer in the second party’s control—when it was last in the second party’s control and what became of it.\n(2) The first party seeking an order under subrule (1) must identify the document or category of documents as precisely as possible.\nThe word “control” is defined in the Dictionary to the Rules to mean “possession, custody or power”."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The application was argued on the basis that an order may be made under r 20.21 where there are reasonable grounds for being fairly certain that there are other relevant documents which are or have been in the control of the party against whom the order is sought (Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 3) [2015] FCA 767). For reasons which will become clear, the critical issue on this application is whether there are reasonable grounds for being fairly certain that there are other relevant documents which are or have been in the control of Nexans SA."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Background"
+    ],
+    "text": "I will give a general description of the nature of the claim made by the ACCC against Nexans SA. A more detailed description may be found in previous judgments in this proceeding (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) (2012) 298 ALR 251; [2012] FCA 1323; Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192)."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Background"
+    ],
+    "text": "Nexans SA is a company incorporated in France and is the holding company of a large group of companies. One of its subsidiaries is Nexans France SAS (“Nexans France”), and it also has a subsidiary which operates in Australia, Nexans Australia Pty Limited."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Background"
+    ],
+    "text": "The ACCC’s allegations against Nexans SA are that it contravened s 45(2)(a)(i) or s 45(2)(a)(ii) or both of the Trade Practices Act 1974 (Cth), now the Australian Competition and Consumer Act 2010 (Cth), and one or more of the Competition Codes of the States of Australia and the Australian Capital Territory by making an arrangement or arriving at an understanding on 24 September 2003, described in the Further Amended Statement of Claim as the “Snowy Hydro Project Agreement”. It is alleged that the other parties to the arrangement or understanding were Prysmian, Viscas Corporation and J-Power Systems Corporation (“JPS”). It is also alleged by the ACCC that Nexans SA contravened s 45(2)(b)(i) or s 45(2)(b)(ii) or both of the Trade Practices Act and the Codes in that in making the arrangement or arriving at the understanding, described as the Snowy Hydro Project Agreement, it gave effect to the A/R Cartel Agreement. That agreement is alleged to be an arrangement or understanding as at October 2001 between Nexans SA, (at that stage) a member or representative of the Pirelli group of companies, Viscas and (at that stage) Sumitimo Electric Industries. It is not necessary for me to set out the alleged provisions of the A/R Cartel Agreement (see paragraph 16 of the Further Amended Statement of Claim). The goods which are alleged to have been the subject of the arrangements or understandings were high voltage and extra high voltage land-based electrical cables and accessories, and medium voltage, high voltage and extra high voltage submarine electrical cables and accessories."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Background"
+    ],
+    "text": "The ACCC alleges that Nexans SA’s representatives in relation to the alleged conduct were Mr Jeanmarie Jay and Mr Alain Romand, and that the representatives of JPS included Mr Takeo Osada. The ACCC alleges that a number of emails passed between Mr Jay and Mr Osada."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Background"
+    ],
+    "text": "As I have said, an order for standard discovery was made against each respondent in the period leading up to the trial."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Background"
+    ],
+    "text": "On 10 February 2014, the ACCC brought an application for further and better discovery against Prysmian. A key contention made by the ACCC in the submissions on that application was that documents in the possession of a company related to Prysmian, Prysmian Powerlink S.r.L. (“PPL”), were in the control of Prysmian. Prysmian and PPL were subsidiaries of Prysmian S.p.A. At an earlier point of time, PPL was owned by Prysmian (directly and through a wholly owned subsidiary). I rejected that contention (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376 (“Prysmian (No 8)”))."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Background"
+    ],
+    "text": "In Prysmian (No 8) I considered first, whether the documents were in the possession or custody of Prysmian. In that context, I said (at [14]-[15]):\n... The applicant submits that I should infer that the documents are stored electronically and that I should infer that anyone with authority within the group had and has access to the documents by way of a computer terminal at the business address, which the companies shared. Insofar as the documents are held in hard copy, I am asked to infer that they are stored at the common premises of the companies and I am asked to infer that all companies within the energy business unit have access to them. If this submission is correct, it means that a large number of companies have access to the documents and possession or custody of them.\nI do not think that the submission is correct. There is no evidence that the documents are stored electronically. Even if I should draw that inference, there is no evidence to support the proposition that they are stored in such a way that there is common access to them. The same may be said insofar as the documents are kept in hard copy. In other words, there is no evidence that a company in the group has unrestricted access to the documents of another company in the group. The relevant business and the documents relating to that business were transferred by the first respondent to PPL on 1 January 2008 and there is no evidence to contradict the assertion that the first respondent did not have possession or custody of the documents after that time."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Background"
+    ],
+    "text": "I then turned to consider whether the documents were in the power of Prysmian. I identified the ACCC’s submissions as follows (at [20]):\nIn support of its submission that the documents described in Part 3 of the list of documents, assuming there are such documents, are in the power of the first respondent, the applicant relies on the following matters. First, the first respondent and PPL are part of the Prysmian group of companies and they are both subsidiaries of Prysmian S.p.A. Before 1 January 2008, the documents were in the control of the first respondent and they were then transferred to its subsidiary, PPL, as part of a business transfer. The first respondent remained the holding company of PPL until sometime in 2012. They were and are part of the Prysmian energy business, and that is one business. The group’s annual report refers to the companies as being under common control. Secondly, I am asked to infer that the documents of PPL are kept electronically in the same system as the first respondent’s documents and that they can be accessed, either at the principal business address or one of the secondary business addresses. Thirdly, Mr Romeo occupies a controlling position in both the first respondent and PPL. The applicant also relies on the fact that, although Doyle CJ in Taylor did not agree with all of the reasoning of Hedigan J in Linfa Pty Ltd v Citibank Ltd [1995] 1 VR 643, he did not suggest that the result was wrong. The applicant submits that the result in that case supports its submission."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Background"
+    ],
+    "text": "I then said (at [22]):\nIn my opinion, the applicant’s arguments must be rejected. They involve a substantial exception to the doctrine of the separate legal identity of a company because, not only do they seek to equate a holding company and its subsidiary, but they seek to equate all the companies in a particular business unit of a group of companies. This case does not involve a one-person company, nor on the potential application of the alter ego doctrine. In my opinion, the separate corporate personality of the two companies must be recognised and the obligations of the directors of PPL to act in the best interests of that company acknowledged (Walker v Wimborne (1976) 137 CLR 1 at 6-7 per Mason J (as his Honour then was); Industrial Equity Limited and Others v Blackburn and Others (1977) 137 CLR 567 at 577 per Mason J (as his Honour then was); Federal Commissioner of Taxation v BHP Billiton Limited (2011) 244 CLR 325 at [61]-[64] per French CJ, Heydon, Crennan and Bell JJ). The statement in the annual report does not advance the applicant’s argument (Taylor, at 441, per Doyle CJ). Even if it is appropriate to infer that the documents of the two companies are stored electronically, it is not appropriate to infer that the first respondent has the right to inspect them regardless of the wishes of the directors of PPL. Again, the same may be said insofar as the documents are kept in hard copy. Mr Romeo’s dual capacities do not affect the position because he is not the alter ego of either company. I do not think the statement of Doyle CJ in Taylor that the decision in Linfa Pty Ltd v Citibank Ltd is, on the facts, consistent with this approach advances the applicant’s argument. The facts in this case are different from those in Linfa Pty Ltd v Citibank Ltd."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Background"
+    ],
+    "text": "On this application, counsel for the ACCC said that the ACCC did not challenge the correctness of my decision in Prysmian (No 8)."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Background"
+    ],
+    "text": "In the period before trial, the ACCC also considered that Nexans SA had not made proper discovery, and its solicitors sent correspondence to Nexans SA’s solicitors raising various alleged deficiencies in discovery between August 2014 and May 2015. Nexans SA’s solicitors responded to that correspondence. It is not necessary to set out the details."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Background"
+    ],
+    "text": "The trial of this proceeding commenced on 13 July 2015. The ACCC called Mr Osada and tendered a number of documents. Prysmian did not lead any evidence. Nexans SA called Mr Patrick Noonan who is the senior corporate vice president, general counsel, secretary general and secretary of the board of directors of Nexans SA. After his evidence had been completed, an issue about the waiver of legal professional privilege by Nexans SA arose and that issue is the subject of my reasons in Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 10) [2015] FCA 763. Before I delivered those reasons, the ACCC made the application which is the subject of these reasons."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Background"
+    ],
+    "text": "Ordinarily, an application of this nature must be made well before trial. The ACCC acknowledged this, but submitted that the evidence of Mr Noonan in cross-examination made it clear that Nexans SA had not made proper discovery, and that although very late, the application should be considered on its merits."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Both parties relied on the evidence of Mr Noonan and it is necessary to refer to that evidence in some detail."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "In his evidence-in-chief, Mr Noonan described the incorporation of Nexans SA and its early history. He identified the company’s two main subsidiaries. They are Nexans France and Nexans Participations. He identified the board of directors of the company and he said that none of the board members are employees of the company or any of its subsidiaries. He said that there were seven employees of the company between 2001 and 2003. He was not an employee of Nexans SA during that period. He became an employee of Nexans SA in 2008. The seven employees between 2001 and 2003 and the managing director, formed an executive committee. He identified the role of the executive committee and said that it operated only as a supervisory board of management. Mr Noonan said that between October 2001 and October 2003, Nexans SA did not perform any trading, manufacturing or operational functions. The company did provide services to subsidiaries within the Nexans Group and it derived income in relation to the provision of those services. He referred to agreements in relation to the provision of those services and they were a General Relations Agreement, a Central Treasury Agreement, and a Trademark Agreement. Mr Noonan said that Nexans SA received dividends from Nexans France and Nexans Participations. Mr Noonan identified a group which was in existence during the period in issue in this proceeding. That group was called the Global Export Sales Organisation (“GESO”). Mr Noonan described the GESO as a group of sales representatives from within the Nexans Group which had the objective of promoting sales by subsidiaries from one area of the world to another. Mr Noonan addressed the topic of the authorised representatives of Nexans SA and he said that neither Mr Jay nor Mr Romand were employees or authorised representatives of the company. Finally, Mr Noonan described the structure and role of Nexans Australia Pty Limited. That company is the “Nexans company” operating in Australia."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "I am not making any findings about Mr Noonan’s evidence at this stage. The above is no more than a summary of the matters in Mr Noonan’s evidence-in-chief."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Before turning to the cross-examination of Mr Noonan, I will identify additional evidence relied on by Nexans SA on this application."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Affidavits tendered by Nexans SA on the application establish that Nexans France is a company incorporated in France and that Mr Thibault du Breil de Pontbriand is the president of the company. In a further affidavit read on the application, Mr Noonan states that Mr de Pontbriand is not a director or employee of Nexans SA, and that none of the chief executive, directors or employees of Nexans SA is a director or employee of Nexans France. Mr Noonan said that Nexans SA does not have the authority to store or keep Nexans France’s corporate records on behalf of that company. Nexans SA has no authority to access Nexans France’s records without the authority of that company conferred by its president."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Mr Noonan states that Mr de Pontbriand authorised him to assist Nexans France in connection with the defence of the European Commission proceedings. As part of that authority, he had been permitted to inspect documents of Nexans France relevant to the defence of the investigations. He has no authority to deal with the company’s documents, or to provide them to a third party. He has no general right of access to the records of Nexans France."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Mr Noonan said that in this proceeding, he advises and acts for Nexans SA. He does not have a right of access to documents of Nexans France."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Nexans SA also relies on its answers to interrogatories, which are an exhibit in the trial, in which it states that from October 2001 to October 2003, Mr Jay was employed by Nexans France as country product line manager France in the high voltage product line, and Mr Romand was employed by Nexans France as deputy managing director HV and accessories."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "Counsel for the ACCC cross-examined Mr Noonan at some length. Again, I stress that I am not making any findings about Mr Noonan’s evidence at this stage. However, there are some matters which appear not to be in dispute. First, Nexans SA has taken and takes the view that it is only required to discover documents which are or have been in its control. It is not required to discover documents in the control of any of its subsidiaries and, in particular, it is not required to discover documents in the control of Nexans France. It has not discovered, for example, any of the emails apparently sent by Mr Osada to Mr Jay. Secondly, it appears that Nexans France and Nexans SA and other companies were investigated by the European Commission for anti-competitive conduct during a period which includes the period which is relevant in this case. Both Nexans France and Nexans SA were fined substantial amounts. Mr Noonan said that it was Nexans France which was found to have acted illegally. He said that Nexans SA was held jointly liable because of a presumption of European law. There is an outstanding appeal as to some aspects of the European Commission’s decision. A firm of lawyers in the United States of America with offices in Paris (among other places), White and Case, acted for Nexans France and Nexans SA. White and Case hold a large number of documents, possibly 10,000 documents. Those documents include documents obtained by the European Commission from employees of a “Nexans’ company”, but not Nexans SA. Some of the emails produced by Mr Osada contained what Mr Noonan said appeared to be a common email suffix of nexans.com, and he was cross-examined about whether there was one server used for a number of the companies in the Nexans Group, including Nexans SA."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "The ACCC relies on a number of particular matters which it alleged emerged during the course of the cross-examination of Mr Noonan. There were documents which the European Commission retrieved from the computer of an employee of a company within the Nexans Group. Mr Noonan said that he has never asked for or seen a list of those documents. Mr Noonan said that he has not checked to see whether Mr Jay’s position sheets were still on the Nexans’ computer server in Paris, nor has he checked to see whether any of Mr Jay’s emails are still on that computer server. Mr Noonan said that of the 10,000 documents held by White and Case, including copies of documents seized by the European Commission, he has looked at about 100 documents. Mr Noonan had access to the 10,000 documents held by White and Case."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The Evidence on the Application"
+    ],
+    "text": "The task of identifying the documents to be discovered by Nexans SA was performed under the supervision of Mr Noonan by Ms Jennifer Poly, an employee of Nexans France and a person qualified to practice law in the United States. She consulted White and Case and she agreed a discovery protocol with Clayton Utz who act for Nexans SA in this proceeding. Mr Noonan also consulted Clayton Utz. Mr Noonan said that under French law neither he nor Ms Poly could access the emails of employees without their consent. He said that he did not seek Mr Jay’s consent because he worked for Nexans France."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Resolution of the Application"
+    ],
+    "text": "The ACCC contends that on the basis of Mr Noonan’s evidence, there are reasonable grounds for being fairly certain that there are, or have been, relevant documents in the control of Nexans SA."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Resolution of the Application"
+    ],
+    "text": "I think that the ACCC’s application for further and better discovery should be refused. It seems to me that there are documents which are relevant to whether Mr Jay and Mr Romand engaged in the conduct alleged in the Further Amended Statement of Claim, or at least there are reasonable grounds for being fairly certain that there are such documents which have not been discovered by Nexans SA. However, those documents are in the control of Nexans France. Nexans SA has taken the approach that it will only discover documents which are in its control, and I think it is clear on the evidence that its list of documents has been prepared on that basis. The question is whether the evidence of Mr Noonan provides reasonable grounds for being fairly certain that the documents are in the control or have been in the control of Nexans SA. I do not think that it does. The mere relationship of holding company and subsidiary does not lead to that conclusion (Prysmian (No 8)). The fact, if it be a fact, that there might be only one server does not mean that all the documents on that server are within the control of Nexans SA. The fact that White and Case have or have had approximately 10,000 documents does not mean that Nexans SA had an actual and immediate ability to inspect all of the documents which are documents of Nexans France. Mr Noonan had a limited authority from Nexans France to inspect the documents, and I do not think his ability to inspect the documents brings the documents within the control of Nexans SA."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Resolution of the Application"
+    ],
+    "text": "In my opinion, the ACCC’s interlocutory application dated 23 July 2015 should be dismissed, and I will so order."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+ "associate": null,
+ "dated": "2015-08-19",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L (No 11) [2015] FCA 876\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi S.R.L. (No 11) [2015] FCA 876\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.) and NEXANS SA RCS PARIS 393 525 852\n\n**File number:** SAD 145 of 2009\n\n**Judge:** BESANKO J\n\n**Date of judgment:** 19 August 2015\n\n**Catchwords:** PRACTICE AND PROCEDURE – application by the applicant for further and better discovery by the second respondent – whether there are reasonable grounds for being fairly certain that there are other relevant documents – whether there are reasonable grounds for being fairly certain those documents are or have been in the control of the second respondent – where the documents sought are documents of the subsidiary of the second respondent – where the second respondent had no authority to access the records of the subsidiary without the authority of that company – Federal Court Rules (2011) (Cth) r 20.21.  \nHeld: Application dismissed.\n\n**Legislation:** Australian Competition and Consumer Act 2010 (Cth)  \nFederal Court Rules 2011 (Cth) rr 20.14, 20.21  \nTrade Practices Act 1974 (Cth) s 45\n\n**Cases cited:** Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) (2012) 298 ALR 251; [2012] FCA 1323  \nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376  \nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 10) [2015] FCA 763  \nBasetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 3) [2015] FCA 767  \nNexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192\n\n**Date of hearing:** 3 August 2015\n\n**Place:** Adelaide\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 31\n\n**Counsel for the Applicant:** Mr N O’Bryan SC\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First Respondent:** Mr I Wylie\n\n**Solicitor for the First Respondent:** Johnson Winter & Slattery\n\n**Counsel for the Second Respondent:** Mr M Hoffman QC with Mr M Burnett\n\n**Solicitor for the Second Respondent:** Clayton Utz\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE OF ORDER: | 19 AUGUST 2015 |\n| WHERE MADE: | ADELAIDE |\n\n### THE COURT ORDERS THAT:\n\n1. The applicant’s interlocutory application dated 23 July 2015 be dismissed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI S.R.L. (FORMERLY PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L.)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE: | 19 AUGUST 2015 |\n| PLACE: | ADELAIDE |\n\n### REASONS FOR JUDGMENT\n\n#### Introduction\n\n[1] By interlocutory application dated 23 July 2015, the applicant seeks an order for further and better discovery against the second respondent. The applicant is the Australian Competition and Consumer Commission (“ACCC”), and the second respondent is Nexans SA RCS Paris (“Nexans SA”). The other respondent is Prysmian Cavi E Sistemi SRL (formerly Prysmian Cavi E Sistemi Energia S.R.L.) (“Prysmian”). In the period leading up to trial, each respondent was ordered to provide standard discovery under the Federal Court Rules 2011 (Cth) (“the Rules”). Nexans SA served a list of documents dated 27 June 2014 on the ACCC. The list of documents was verified by an affidavit sworn by the company’s chief financial officer, Mr Nicolas Badré.\n\n[2] In its interlocutory application, the ACCC seeks the following orders against the second respondent:\n\n> 1. ...\n\n> 2. In compliance with order 2 made by Besanko J on 5 April 2013 (as varied on 8 April 2014), the second respondent provide further and better discovery of:\n\n>   2.1 the documents in its control falling within the categories in paragraphs 3, 4, 9, 10, 11, 12, 13, 15(a) to (d) (with the opening words ‘in relation to employment status’ removed), 16, 17 and 20 to 31 of Appendix B to the letter dated 24 April 2014 from Clayton Utz to Mr Patrick Noonan of the second respondent (MFI A 22); and\n\n>   2.2 the list of documents referred to by Mr Patrick Noonan at page 237, line 40 of the transcript of the hearing in this proceeding on 15 July 2015.\n\n[3] The ACCC’s application is brought pursuant to r 20.21 of the Rules. That rule is in the following terms:\n\n> 20.21 Order for particular discovery\n\n> (1) If a party (the first party) claims that a document or category of documents may be or may have been in another party’s control (the second party), the first party may apply to the Court for an order that the second party file an affidavit stating:\n\n> (a) whether the document or any document of that category is or has been in the second party’s control; and\n\n> (b) if the document or category of documents has been but is no longer in the second party’s control—when it was last in the second party’s control and what became of it.\n\n> (2) The first party seeking an order under subrule (1) must identify the document or category of documents as precisely as possible.\n\nThe word “control” is defined in the Dictionary to the Rules to mean “possession, custody or power”.\n\n[4] The application was argued on the basis that an order may be made under r 20.21 where there are reasonable grounds for being fairly certain that there are other relevant documents which are or have been in the control of the party against whom the order is sought (Basetec Services Pty Ltd v Leighton Contractors Pty Ltd (No 3) [2015] FCA 767). For reasons which will become clear, the critical issue on this application is whether there are reasonable grounds for being fairly certain that there are other relevant documents which are or have been in the control of Nexans SA.\n\n#### Background\n\n[5] I will give a general description of the nature of the claim made by the ACCC against Nexans SA. A more detailed description may be found in previous judgments in this proceeding (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) (2012) 298 ALR 251; [2012] FCA 1323; Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192).\n\n[6] Nexans SA is a company incorporated in France and is the holding company of a large group of companies. One of its subsidiaries is Nexans France SAS (“Nexans France”), and it also has a subsidiary which operates in Australia, Nexans Australia Pty Limited.\n\n[7] The ACCC’s allegations against Nexans SA are that it contravened s 45(2)(a)(i) or s 45(2)(a)(ii) or both of the Trade Practices Act 1974 (Cth), now the Australian Competition and Consumer Act 2010 (Cth), and one or more of the Competition Codes of the States of Australia and the Australian Capital Territory by making an arrangement or arriving at an understanding on 24 September 2003, described in the Further Amended Statement of Claim as the “Snowy Hydro Project Agreement”. It is alleged that the other parties to the arrangement or understanding were Prysmian, Viscas Corporation and J-Power Systems Corporation (“JPS”). It is also alleged by the ACCC that Nexans SA contravened s 45(2)(b)(i) or s 45(2)(b)(ii) or both of the Trade Practices Act and the Codes in that in making the arrangement or arriving at the understanding, described as the Snowy Hydro Project Agreement, it gave effect to the A/R Cartel Agreement. That agreement is alleged to be an arrangement or understanding as at October 2001 between Nexans SA, (at that stage) a member or representative of the Pirelli group of companies, Viscas and (at that stage) Sumitimo Electric Industries. It is not necessary for me to set out the alleged provisions of the A/R Cartel Agreement (see paragraph 16 of the Further Amended Statement of Claim). The goods which are alleged to have been the subject of the arrangements or understandings were high voltage and extra high voltage land-based electrical cables and accessories, and medium voltage, high voltage and extra high voltage submarine electrical cables and accessories.\n\n[8] The ACCC alleges that Nexans SA’s representatives in relation to the alleged conduct were Mr Jeanmarie Jay and Mr Alain Romand, and that the representatives of JPS included Mr Takeo Osada. The ACCC alleges that a number of emails passed between Mr Jay and Mr Osada.\n\n[9] As I have said, an order for standard discovery was made against each respondent in the period leading up to the trial.\n\n[10] On 10 February 2014, the ACCC brought an application for further and better discovery against Prysmian. A key contention made by the ACCC in the submissions on that application was that documents in the possession of a company related to Prysmian, Prysmian Powerlink S.r.L. (“PPL”), were in the control of Prysmian. Prysmian and PPL were subsidiaries of Prysmian S.p.A. At an earlier point of time, PPL was owned by Prysmian (directly and through a wholly owned subsidiary). I rejected that contention (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376 (“Prysmian (No 8)”)).\n\n[11] In Prysmian (No 8) I considered first, whether the documents were in the possession or custody of Prysmian. In that context, I said (at [14]-[15]):\n\n> ... The applicant submits that I should infer that the documents are stored electronically and that I should infer that anyone with authority within the group had and has access to the documents by way of a computer terminal at the business address, which the companies shared. Insofar as the documents are held in hard copy, I am asked to infer that they are stored at the common premises of the companies and I am asked to infer that all companies within the energy business unit have access to them. If this submission is correct, it means that a large number of companies have access to the documents and possession or custody of them.\n\n> I do not think that the submission is correct. There is no evidence that the documents are stored electronically. Even if I should draw that inference, there is no evidence to support the proposition that they are stored in such a way that there is common access to them. The same may be said insofar as the documents are kept in hard copy. In other words, there is no evidence that a company in the group has unrestricted access to the documents of another company in the group. The relevant business and the documents relating to that business were transferred by the first respondent to PPL on 1 January 2008 and there is no evidence to contradict the assertion that the first respondent did not have possession or custody of the documents after that time.\n\n[12] I then turned to consider whether the documents were in the power of Prysmian. I identified the ACCC’s submissions as follows (at [20]):\n\n> In support of its submission that the documents described in Part 3 of the list of documents, assuming there are such documents, are in the power of the first respondent, the applicant relies on the following matters. First, the first respondent and PPL are part of the Prysmian group of companies and they are both subsidiaries of Prysmian S.p.A. Before 1 January 2008, the documents were in the control of the first respondent and they were then transferred to its subsidiary, PPL, as part of a business transfer. The first respondent remained the holding company of PPL until sometime in 2012. They were and are part of the Prysmian energy business, and that is one business. The group’s annual report refers to the companies as being under common control. Secondly, I am asked to infer that the documents of PPL are kept electronically in the same system as the first respondent’s documents and that they can be accessed, either at the principal business address or one of the secondary business addresses. Thirdly, Mr Romeo occupies a controlling position in both the first respondent and PPL. The applicant also relies on the fact that, although Doyle CJ in Taylor did not agree with all of the reasoning of Hedigan J in Linfa Pty Ltd v Citibank Ltd [1995] 1 VR 643, he did not suggest that the result was wrong. The applicant submits that the result in that case supports its submission.\n\n[13] I then said (at [22]):\n\n> In my opinion, the applicant’s arguments must be rejected. They involve a substantial exception to the doctrine of the separate legal identity of a company because, not only do they seek to equate a holding company and its subsidiary, but they seek to equate all the companies in a particular business unit of a group of companies. This case does not involve a one-person company, nor on the potential application of the alter ego doctrine. In my opinion, the separate corporate personality of the two companies must be recognised and the obligations of the directors of PPL to act in the best interests of that company acknowledged (Walker v Wimborne (1976) 137 CLR 1 at 6-7 per Mason J (as his Honour then was); Industrial Equity Limited and Others v Blackburn and Others (1977) 137 CLR 567 at 577 per Mason J (as his Honour then was); Federal Commissioner of Taxation v BHP Billiton Limited (2011) 244 CLR 325 at [61]-[64] per French CJ, Heydon, Crennan and Bell JJ). The statement in the annual report does not advance the applicant’s argument (Taylor, at 441, per Doyle CJ). Even if it is appropriate to infer that the documents of the two companies are stored electronically, it is not appropriate to infer that the first respondent has the right to inspect them regardless of the wishes of the directors of PPL. Again, the same may be said insofar as the documents are kept in hard copy. Mr Romeo’s dual capacities do not affect the position because he is not the alter ego of either company. I do not think the statement of Doyle CJ in Taylor that the decision in Linfa Pty Ltd v Citibank Ltd is, on the facts, consistent with this approach advances the applicant’s argument. The facts in this case are different from those in Linfa Pty Ltd v Citibank Ltd.\n\n[14] On this application, counsel for the ACCC said that the ACCC did not challenge the correctness of my decision in Prysmian (No 8).\n\n[15] In the period before trial, the ACCC also considered that Nexans SA had not made proper discovery, and its solicitors sent correspondence to Nexans SA’s solicitors raising various alleged deficiencies in discovery between August 2014 and May 2015. Nexans SA’s solicitors responded to that correspondence. It is not necessary to set out the details.\n\n[16] The trial of this proceeding commenced on 13 July 2015. The ACCC called Mr Osada and tendered a number of documents. Prysmian did not lead any evidence. Nexans SA called Mr Patrick Noonan who is the senior corporate vice president, general counsel, secretary general and secretary of the board of directors of Nexans SA. After his evidence had been completed, an issue about the waiver of legal professional privilege by Nexans SA arose and that issue is the subject of my reasons in Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 10) [2015] FCA 763. Before I delivered those reasons, the ACCC made the application which is the subject of these reasons.\n\n[17] Ordinarily, an application of this nature must be made well before trial. The ACCC acknowledged this, but submitted that the evidence of Mr Noonan in cross-examination made it clear that Nexans SA had not made proper discovery, and that although very late, the application should be considered on its merits.\n\n#### The Evidence on the Application\n\n[18] Both parties relied on the evidence of Mr Noonan and it is necessary to refer to that evidence in some detail.\n\n[19] In his evidence-in-chief, Mr Noonan described the incorporation of Nexans SA and its early history. He identified the company’s two main subsidiaries. They are Nexans France and Nexans Participations. He identified the board of directors of the company and he said that none of the board members are employees of the company or any of its subsidiaries. He said that there were seven employees of the company between 2001 and 2003. He was not an employee of Nexans SA during that period. He became an employee of Nexans SA in 2008. The seven employees between 2001 and 2003 and the managing director, formed an executive committee. He identified the role of the executive committee and said that it operated only as a supervisory board of management. Mr Noonan said that between October 2001 and October 2003, Nexans SA did not perform any trading, manufacturing or operational functions. The company did provide services to subsidiaries within the Nexans Group and it derived income in relation to the provision of those services. He referred to agreements in relation to the provision of those services and they were a General Relations Agreement, a Central Treasury Agreement, and a Trademark Agreement. Mr Noonan said that Nexans SA received dividends from Nexans France and Nexans Participations. Mr Noonan identified a group which was in existence during the period in issue in this proceeding. That group was called the Global Export Sales Organisation (“GESO”). Mr Noonan described the GESO as a group of sales representatives from within the Nexans Group which had the objective of promoting sales by subsidiaries from one area of the world to another. Mr Noonan addressed the topic of the authorised representatives of Nexans SA and he said that neither Mr Jay nor Mr Romand were employees or authorised representatives of the company. Finally, Mr Noonan described the structure and role of Nexans Australia Pty Limited. That company is the “Nexans company” operating in Australia.\n\n[20] I am not making any findings about Mr Noonan’s evidence at this stage. The above is no more than a summary of the matters in Mr Noonan’s evidence-in-chief.\n\n[21] Before turning to the cross-examination of Mr Noonan, I will identify additional evidence relied on by Nexans SA on this application.\n\n[22] Affidavits tendered by Nexans SA on the application establish that Nexans France is a company incorporated in France and that Mr Thibault du Breil de Pontbriand is the president of the company. In a further affidavit read on the application, Mr Noonan states that Mr de Pontbriand is not a director or employee of Nexans SA, and that none of the chief executive, directors or employees of Nexans SA is a director or employee of Nexans France. Mr Noonan said that Nexans SA does not have the authority to store or keep Nexans France’s corporate records on behalf of that company. Nexans SA has no authority to access Nexans France’s records without the authority of that company conferred by its president.\n\n[23] Mr Noonan states that Mr de Pontbriand authorised him to assist Nexans France in connection with the defence of the European Commission proceedings. As part of that authority, he had been permitted to inspect documents of Nexans France relevant to the defence of the investigations. He has no authority to deal with the company’s documents, or to provide them to a third party. He has no general right of access to the records of Nexans France.\n\n[24] Mr Noonan said that in this proceeding, he advises and acts for Nexans SA. He does not have a right of access to documents of Nexans France.\n\n[25] Nexans SA also relies on its answers to interrogatories, which are an exhibit in the trial, in which it states that from October 2001 to October 2003, Mr Jay was employed by Nexans France as country product line manager France in the high voltage product line, and Mr Romand was employed by Nexans France as deputy managing director HV and accessories.\n\n[26] Counsel for the ACCC cross-examined Mr Noonan at some length. Again, I stress that I am not making any findings about Mr Noonan’s evidence at this stage. However, there are some matters which appear not to be in dispute. First, Nexans SA has taken and takes the view that it is only required to discover documents which are or have been in its control. It is not required to discover documents in the control of any of its subsidiaries and, in particular, it is not required to discover documents in the control of Nexans France. It has not discovered, for example, any of the emails apparently sent by Mr Osada to Mr Jay. Secondly, it appears that Nexans France and Nexans SA and other companies were investigated by the European Commission for anti-competitive conduct during a period which includes the period which is relevant in this case. Both Nexans France and Nexans SA were fined substantial amounts. Mr Noonan said that it was Nexans France which was found to have acted illegally. He said that Nexans SA was held jointly liable because of a presumption of European law. There is an outstanding appeal as to some aspects of the European Commission’s decision. A firm of lawyers in the United States of America with offices in Paris (among other places), White and Case, acted for Nexans France and Nexans SA. White and Case hold a large number of documents, possibly 10,000 documents. Those documents include documents obtained by the European Commission from employees of a “Nexans’ company”, but not Nexans SA. Some of the emails produced by Mr Osada contained what Mr Noonan said appeared to be a common email suffix of nexans.com, and he was cross-examined about whether there was one server used for a number of the companies in the Nexans Group, including Nexans SA.\n\n[27] The ACCC relies on a number of particular matters which it alleged emerged during the course of the cross-examination of Mr Noonan. There were documents which the European Commission retrieved from the computer of an employee of a company within the Nexans Group. Mr Noonan said that he has never asked for or seen a list of those documents. Mr Noonan said that he has not checked to see whether Mr Jay’s position sheets were still on the Nexans’ computer server in Paris, nor has he checked to see whether any of Mr Jay’s emails are still on that computer server. Mr Noonan said that of the 10,000 documents held by White and Case, including copies of documents seized by the European Commission, he has looked at about 100 documents. Mr Noonan had access to the 10,000 documents held by White and Case.\n\n[28] The task of identifying the documents to be discovered by Nexans SA was performed under the supervision of Mr Noonan by Ms Jennifer Poly, an employee of Nexans France and a person qualified to practice law in the United States. She consulted White and Case and she agreed a discovery protocol with Clayton Utz who act for Nexans SA in this proceeding. Mr Noonan also consulted Clayton Utz. Mr Noonan said that under French law neither he nor Ms Poly could access the emails of employees without their consent. He said that he did not seek Mr Jay’s consent because he worked for Nexans France.\n\n#### Resolution of the Application\n\n[29] The ACCC contends that on the basis of Mr Noonan’s evidence, there are reasonable grounds for being fairly certain that there are, or have been, relevant documents in the control of Nexans SA.\n\n[30] I think that the ACCC’s application for further and better discovery should be refused. It seems to me that there are documents which are relevant to whether Mr Jay and Mr Romand engaged in the conduct alleged in the Further Amended Statement of Claim, or at least there are reasonable grounds for being fairly certain that there are such documents which have not been discovered by Nexans SA. However, those documents are in the control of Nexans France. Nexans SA has taken the approach that it will only discover documents which are in its control, and I think it is clear on the evidence that its list of documents has been prepared on that basis. The question is whether the evidence of Mr Noonan provides reasonable grounds for being fairly certain that the documents are in the control or have been in the control of Nexans SA. I do not think that it does. The mere relationship of holding company and subsidiary does not lead to that conclusion (Prysmian (No 8)). The fact, if it be a fact, that there might be only one server does not mean that all the documents on that server are within the control of Nexans SA. The fact that White and Case have or have had approximately 10,000 documents does not mean that Nexans SA had an actual and immediate ability to inspect all of the documents which are documents of Nexans France. Mr Noonan had a limited authority from Nexans France to inspect the documents, and I do not think his ability to inspect the documents brings the documents within the control of Nexans SA.\n\n[31] In my opinion, the ACCC’s interlocutory application dated 23 July 2015 should be dismissed, and I will so order.\n\nI certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.\n\nAssociate:\n\nDated: 19 August 2015\n",
+ "source_sha256": "d2b689498bdac506e7a452e9d7f06d951cc1431c179e28c3285ab0ed78d87a14"
+}

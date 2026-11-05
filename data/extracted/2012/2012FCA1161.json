@@ -1,0 +1,368 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2012/2012FCA1161.docx",
+ "metadata": {
+  "citation": "[2012] FCA 1161",
+  "name": "Australian Competition and Consumer Commission v Flight Centre Limited",
+  "court": "FCA",
+  "year": 2012,
+  "number": 1161,
+  "date_of_judgment": "2012-10-10",
+  "file_numbers": [
+   "QUD177/2012"
+  ],
+  "judges": [
+   "LOGAN J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Brisbane",
+  "hearing_dates": [
+   "2012-10-10"
+  ],
+  "hearing_raw": "10 October 2012",
+  "number_of_paragraphs": 28,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – amicus curiae – intervener – distinction between – whether non-lawyer entities may be amicus curiae – whether rules of court are designed comprehensively to deal with applications for intervention by non-lawyer parties – matters taken into account in determining leave to intervene – Federal Court Rules 2011 (Cth) r 9.12",
+   "Held: leave to appear as amicus curie refused; leave to intervene refused"
+  ],
+  "legislation": [
+   "Corporations Act 2001 (Cth)",
+   "Trade Practices Act 1974 (Cth)",
+   "Federal Court Rules 1979 (Cth) O6 r 17, O 52 r 14AA",
+   "Federal Court Rules 2011 (Cth) r 9.12"
+  ],
+  "cases_cited": [
+   "Levy v The State of Victoria (1997) 189 CLR 579 followed",
+   "Roadshow Films Pty Ltd v iiNet Ltd (2001) 86 ALJR 205 applied",
+   "Sharman Networks Ltd v Universal Music Australia Pty Ltd (2006) 155 FCR 291 applied"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "FLIGHT CENTRE LIMITED ACN 003 377 188",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v FLIGHT CENTRE LIMITED ACN 003 377 188",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant on Interlocutory Application",
+    "name": "Mr T Bradley"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant on Interlocutory Application",
+    "name": "Minter Ellison"
+   },
+   {
+    "role": "counsel",
+    "for": "the Applicant (Respondent to Interlocutory Application)",
+    "name": "Mr K Wilson SC with Mr M Hodge"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant (Respondent to Interlocutory Application)",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent (Respondent to Interlocutory Application)",
+    "name": "Mr S Doyle SC with Mr P Franco and Mr D Clarry"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "King & Wood Mallesons"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2012/2012fca1161",
+  "portal_file_numbers": [
+   "QUD177/2012"
+  ],
+  "portal_event": "Part Heard",
+  "portal_event_date": "2012-10-10"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Flight Centre Limited [2012] FCA 1161"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v FLIGHT CENTRE LIMITED ACN 003 377 188"
+  },
+  {
+   "label": "File number",
+   "value": "QUD 177 of 2012"
+  },
+  {
+   "label": "Judge",
+   "value": "LOGAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "10 October 2012"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – amicus curiae – intervener – distinction between – whether non-lawyer entities may be amicus curiae – whether rules of court are designed comprehensively to deal with applications for intervention by non-lawyer parties – matters taken into account in determining leave to intervene – Federal Court Rules 2011 (Cth) r 9.12\nHeld: leave to appear as amicus curie refused; leave to intervene refused"
+  },
+  {
+   "label": "Legislation",
+   "value": "Corporations Act 2001 (Cth)\nTrade Practices Act 1974 (Cth)\nFederal Court Rules 1979 (Cth) O6 r 17, O 52 r 14AA\nFederal Court Rules 2011 (Cth) r 9.12"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Levy v The State of Victoria (1997) 189 CLR 579 followed\nRoadshow Films Pty Ltd v iiNet Ltd (2001) 86 ALJR 205 applied\nSharman Networks Ltd v Universal Music Australia Pty Ltd (2006) 155 FCR 291 applied"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "10 October 2012"
+  },
+  {
+   "label": "Place",
+   "value": "Brisbane"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "28"
+  },
+  {
+   "label": "Counsel for the Applicant on Interlocutory Application",
+   "value": "Mr T Bradley"
+  },
+  {
+   "label": "Solicitor for the Applicant on Interlocutory Application",
+   "value": "Minter Ellison"
+  },
+  {
+   "label": "Counsel for the Applicant (Respondent to Interlocutory Application)",
+   "value": "Mr K Wilson SC with Mr M Hodge"
+  },
+  {
+   "label": "Solicitor for the Applicant (Respondent to Interlocutory Application)",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the Respondent (Respondent to Interlocutory Application)",
+   "value": "Mr S Doyle SC with Mr P Franco and Mr D Clarry"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "King & Wood Mallesons"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD177/2012",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "FLIGHT CENTRE LIMITED ACN 003 377 188",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LOGAN J"
+   ],
+   "date": "2012-10-10",
+   "date_raw": "10 OCTOBER 2012",
+   "place": "BRISBANE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application filed on 3 October 2012 is dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Costs are reserved.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Liberty to apply in respect of costs.",
+     "level": 0
+    }
+   ],
+   "registry": "Queensland",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011"
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "By an application filed in the Court’s registry electronically on 3 October 2012, the International Air Transport Association (IATA), has made application to be appointed as an amicus curiae or, in the alternative, to be granted leave to intervene in this proceeding, pursuant to r 9.12 of the Federal Court Rules 2011 (Cth) (Rules)."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "More particularly, as paragraph 3 of IATA’s application discloses, it seeks, as amicus curiae or as intervener, to have the right to:\n...assist the court and participate in a proceeding by making written submissions on the relationship between IATA members and IATA accredited travel agents, including the field or range of activity in which they interact and the nature of that interaction."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The application is supported by the respondent, Flight Centre Limited (Flight Centre); it is opposed by the applicant, the Australian Competition and Consumer Commission."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "IATA is a body corporate, incorporated by particular Canadian legislation, enacted in 1945. That enactment gave corporate status to what had hitherto been an unincorporated association, formed earlier that year. In turn, IATA is the successor to an earlier organisation, known as the International Air Traffic Association, which was founded in The Hague in 1919. It was in that year that the world’s first scheduled international air service was flown. IATA is registered in Australia as a foreign company under the Corporations Act 2001 (Cth). Presently, IATA has some 240 airline members drawn from 115 countries."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Three airlines, which are featured in the evidence led by the Commission in this case, are members namely, Singapore Airlines Limited, Emirates and Malaysian Airline System Berhad. Flight Centre is not a member of IATA. It is though, as the evidence discloses, a travel agency which is accredited with IATA. The evidence of IATA’s country manager for Australia, New Zealand and the South West Pacific Islands, Mr ID Lorigan, establishes that IATA accredits entities as travel agents in many jurisdictions, including Australia."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Pursuant to the Canadian statute which I have mentioned, IATA has the following purposes, objects and aims:\n(a) to promote safe, regular and economical air transport for the benefit of the peoples of the world, to foster air commerce and to study the problems connected therewith;\n(b) to provide means for collaboration under the air transport enterprises engaged directly or indirectly in international air transport service; and\n(c) to cooperate with the international civil aviation organisation (the United Nations’ specialised agency for civil aviation) and other international organisations."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "As identified by Mr Lorigan in his affidavit, the purpose of IATA’s application is that it wishes to assist the Court to the extent that it is able to do so, by:\n(a) making written submissions on the relationship between IATA members and IATA accredited travel agents, including the field or range of activity in which they interact and the nature of that interaction; and\n(b) taking any other step that the Court considers might assist in respect of this proceeding."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Though its application, on its face, did not disclose an intention to lead evidence, as opposed to making submissions on the subject identified, I was informed by its counsel today, upon the hearing of the application, that some evidence, which was apprehended to be uncontroversial, might be led concerning the relationships to which reference was made in the application."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "I heard submissions concerning the application today, rather than at the commencement of the trial of the proceeding because it was not part of IATA’s intended role to undertake any cross-examination of any witness. It was convenient, in the course of proceedings, to hear the application at this juncture. There was no demur to that course by IATA but rather, it was promoted."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "In Sharman Networks Ltd v Universal Music Australia Pty Ltd (2006) 155 FCR 291, at [7] to [9] (Sharman Networks), the Full Court made the following observations in relation to the terms amicus curiae and intervener and the distinction between them:\n7 There can be a degree of confusion in the use of the terms “amicus curiae” and “intervener”. At the extremes, the distinction is clear enough. Where a court invites a legal practitioner to assist it by ensuring that its attention is drawn to all relevant law and arguments, the legal practitioner is an amicus curiae, not an intervener. On the other hand, where a person's interests may be affected by the outcome, the person, if permitted by the court, becomes an “intervener”, not an amicus curiae.\n8 There is, however, a large intermediate area. A non-lawyer entity may seek to become involved in litigation. It may be an official body, such as the Australian Competition and Consumer Commission or the Australian Securities and Investments Commission (we leave to one side any special statutory power to intervene or to apply for leave to intervene). It may be an organisation that puts itself forward as acting in the public interest. The Amici so characterised themselves. Yet a further class of case is illustrated by an industry, trade or professional association, whose members’ interests may be affected, directly or indirectly, by the outcome of the litigation.\n9 While it is easy to see the first of these three intermediate categories as comprising entities acting in the public interest, entities in the second and third classes may be acting, to various degrees, both in the public interest and in private interests."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Of the three classes described by the Full Court in Sharman Networks, IATA, in my opinion, falls within the third class. Self evidently it acts in respect of collective private interests of its member airlines. In so doing, however, and as the disposition of the Canadian parliament to incorporate it by special legislation evidences, there is also a public interest element which it serves in relation to air travel and its orderly organisation and safe conduct."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Later in Shaman Networks at [12] and by reference to the then O 6 r 17 and O 52 r 14AA of the Federal Court Rules 1979 (Cth) (Former Rules). The Full Court observed that:\nIt would be inconsistent with the obvious intention of the rules for a non-lawyer entity to be free to seek to be heard as amicus curiae outside the comprehensive framework now provided by those particular rules."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "In that same paragraph and immediately proceeding this passage the Court observed that:\nThe rules have been drawn in terms that require the court should it decide to give leave to intervene to a non-lawyer entity to determine the terms and conditions of that leave and the rights, privileges and liabilities including liabilities for costs to be associated with the intervention."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Those particular Former Rules can be seen to have been taken up by the present r 9.12 of the Rules, which makes provision for an application to the Court for leave to intervene."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Rule 9.12(2) provides that the court may have regard to:\n(a) whether the intervener’s contribution will be useful and different from the contribution of the parties to the proceeding and;\n(b) whether the intervention might unreasonably interfere with the ability of the parties to conduct the proceedings as the parties wish and;\n(c) any other matter that the court considers relevant."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "So far as an application to be heard as amicus curiae is concerned, Brennan CJ observed in Levy v The State of Victoria (1997) 189 CLR 579 at 604 (Levy v Victoria) that:\nThe hearing of an amicus curiae is entirely in the court’s discretion. That discretion is exercised on a different basis from that which governs the allowance of intervention. The footing on which an amicus curiae is heard is that that person is willing to offer the court a submission on law or relevant fact, which will assist the court in a way in which the court would not otherwise have been assisted."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Those observations as to the hearing of a person as amicus curiae must now be read subject to the statements made by the Full Court in Sharman Networks in relation to the position of a non-lawyer entity. IATA is a non-lawyer entity."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "Even assuming that there is any scope, having regard to the provision made in r 9.12 and what was said by the Full Court in Sharman Networks to hear a non-lawyer entity as amicus, I am firmly of the view that IATA ought not to be heard in that capacity. Having regard to what was said by Brennan CJ in Levy v Victoria, I am not persuaded, notwithstanding the willingness evident by Mr Bradley’s attendance for IATA on instructions that there will be assistance gained by the Court in ways beyond that which the Court is otherwise entitled to expect to be provided by the Commission and by Flight Centre."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "It is to be remembered that the proceeding is not one where first and foremost the issue is a proper construction of an IATA standard form agreement. Rather, the issue is whether or not in the manner particularised in the statement of claim, Flight Centre has transgressed particular provisions of the since renamed Trade Practices Act 1974 (Cth) (Trade Practices Act)."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "To make that observation is also to give a clue as to whether IATA ought, as it alternatively seeks, to be permitted to intervene in the proceeding. As to that attention has quite properly been drawn on behalf of the Commission to the lateness of the application."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "Were this a case where there was a professed desire on the part of IATA to cross-examine witnesses or to lead a particular body of evidence that was self evidently at least potentially controversial, the lateness of the application would in itself, in my opinion, be fatal to its success. That though is not the role which IATA would seek to play as intervener. I therefore, do not base my decision with respect to the fate of the application upon its timing."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "In relation to the application for intervention some guidance as to matters of general principle is provided by a judgment of the High Court in Roadshow Films Pty Ltd v iiNet Ltd (2011) 86 ALJR 205 where at [2] to [4], the court stated:\n2 In determining whether to allow a non party intervention the following considerations reflected in the observations of Brennan CJ in Levy v Victoria are relevant. A non party whose interests would be directly affected by a decision in the proceeding that is one who would be bound by the decision is entitled to intervene to protect the interest like to be affected. A non party whose legal interest for example in other pending litigation is likely to be affected substantially by the outcome of the proceedings in this court will satisfy a precondition for leave to intervene. Intervention will not ordinarily be supported by an indirect or contingent affection of legal interests following from the extra-curial operation of the principles enunciated by the decision of the court or their affect upon future litigation.\n3 Where a person having the necessary legal interest can show that the parties to the particular proceedings may not present fully the submissions on a particular issue being submissions that the court should have to assist it to reach a correct determination, the court may exercise its jurisdiction by granting leave to intervene albeit subject to such limitations and conditions as to costs between all parties as it sees fit to impose.\n4 The grant of leave for a person to be heard as an amicus curiae is not dependant upon the same conditions in relation to legal interest as the grant of leave to intervene. The court will need to be satisfied however that it will be significantly assisted by the submissions of the amicus and that any cost to the parties or any delay consequent upon agreeing to hear the amicus is not disproportionate to the expected assistance."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Later, at [6], the High Court observed that:\nIn considering whether any applicant should have leave to intervene in order to make submissions or to make submissions as amicus curiae it is necessary to consider not only whether some legal interests of the applicant may be indirectly affected but also and in this case critically whether the applicant will make submissions which the court should have to assist it to reach a correct determination. Ordinarily then in cases like the present where the parties are large organisations represented by experienced lawyers, applications for leave to intervene or to make submissions as amicus curiae should seldom be necessary or appropriate and if such applications are made, it would ordinarily be expected that the applicant will identify with some particularity what it is that the applicant seeks to add to the arguments that the parties will advance."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "Here, it is the case that each party is a large organisation represented by experienced lawyers. On the one hand, the applicant is, whilst by statute a separate legal entity, but a particular emanation of the Crown in right of the Commonwealth with all of the related resources of a nation-state. On the other hand, the respondent, Flight Centre is, at least on the evidence to hand, a corporation of some substantial size, represented by experienced solicitors and experienced senior and junior counsel."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "Against that background, it does become important, as the Commission’s submission in opposition highlighted, to scrutinise exactly what in particular might be added by way of permitting the intervention. There is a level of generality in the description in the application as to the nature of the submission. That generality is not greatly expanded by Mr Lorigan’s affidavit and nor is it in the accompanying outline of submissions."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "It must be said that the pleadings do make reference to an IATA accreditation and, in turn, when one goes to related documentation, one is taken to an apparently standard form document of IATA, an International Air Transport Association Passenger Sales Agency Agreement (Passenger Sales Agency Agreement), made as between IATA, by its director-general and Flight Centre on 28 June 1995. For all that, the core issue in the proceeding is not one of construction of that Passenger Sales Agency Agreement but rather, as I have indicated, that of the proper construction of particular provisions of the Trade Practices Act and their application in the circumstances of this case."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "It seems to me that IATA’s interest, though undoubtedly genuine, is indirect and that this is not a case where, having regard to the interests of the parties, the Court would be assisted by submissions that it is not otherwise entitled to expect would be made in relation to the issues which arise on the pleadings for decision."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "For these reasons, the application is dismissed."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Logan.",
+ "associate": null,
+ "dated": "2012-10-23",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Flight Centre Limited [2012] FCA 1161\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Flight Centre Limited [2012] FCA 1161\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v FLIGHT CENTRE LIMITED ACN 003 377 188\n\n**File number:** QUD 177 of 2012\n\n**Judge:** LOGAN J\n\n**Date of judgment:** 10 October 2012\n\n**Catchwords:** PRACTICE AND PROCEDURE – amicus curiae – intervener – distinction between – whether non-lawyer entities may be amicus curiae – whether rules of court are designed comprehensively to deal with applications for intervention by non-lawyer parties – matters taken into account in determining leave to intervene – Federal Court Rules 2011 (Cth) r 9.12  \nHeld: leave to appear as amicus curie refused; leave to intervene refused\n\n**Legislation:** Corporations Act 2001 (Cth)  \nTrade Practices Act 1974 (Cth)  \nFederal Court Rules 1979 (Cth) O6 r 17, O 52 r 14AA  \nFederal Court Rules 2011 (Cth) r 9.12\n\n**Cases cited:** Levy v The State of Victoria (1997) 189 CLR 579 followed  \nRoadshow Films Pty Ltd v iiNet Ltd (2001) 86 ALJR 205 applied  \nSharman Networks Ltd v Universal Music Australia Pty Ltd (2006) 155 FCR 291 applied\n\n**Date of hearing:** 10 October 2012\n\n**Place:** Brisbane\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 28\n\n**Counsel for the Applicant on Interlocutory Application:** Mr T Bradley\n\n**Solicitor for the Applicant on Interlocutory Application:** Minter Ellison\n\n**Counsel for the Applicant (Respondent to Interlocutory Application):** Mr K Wilson SC with Mr M Hodge\n\n**Solicitor for the Applicant (Respondent to Interlocutory Application):** Australian Government Solicitor\n\n**Counsel for the Respondent (Respondent to Interlocutory Application):** Mr S Doyle SC with Mr P Franco and Mr D Clarry\n\n**Solicitor for the Respondent:** King & Wood Mallesons\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| QUEENSLAND DISTRICT REGISTRY |  |\n| GENERAL DIVISION | QUD 177 of 2012 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | FLIGHT CENTRE LIMITED ACN 003 377 188<br>Respondent |\n\n| JUDGE: | LOGAN J |\n|---|---|\n| DATE OF ORDER: | 10 OCTOBER 2012 |\n| WHERE MADE: | BRISBANE |\n\n### THE COURT ORDERS THAT:\n\n1. The interlocutory application filed on 3 October 2012 is dismissed.\n\n2. Costs are reserved.\n\n3. Liberty to apply in respect of costs.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| QUEENSLAND DISTRICT REGISTRY |  |\n| GENERAL DIVISION | QUD 177 of 2012 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | FLIGHT CENTRE LIMITED ACN 003 377 188<br>Respondent |\n\n| JUDGE: | LOGAN J |\n|---|---|\n| DATE: | 10 OCTOBER 2012 |\n| PLACE: | BRISBANE |\n\n### REASONS FOR JUDGMENT\n\n[1] By an application filed in the Court’s registry electronically on 3 October 2012, the International Air Transport Association (IATA), has made application to be appointed as an amicus curiae or, in the alternative, to be granted leave to intervene in this proceeding, pursuant to r 9.12 of the Federal Court Rules 2011 (Cth) (Rules).\n\n[2] More particularly, as paragraph 3 of IATA’s application discloses, it seeks, as amicus curiae or as intervener, to have the right to:\n\n> ...assist the court and participate in a proceeding by making written submissions on the relationship between IATA members and IATA accredited travel agents, including the field or range of activity in which they interact and the nature of that interaction.\n\n[3] The application is supported by the respondent, Flight Centre Limited (Flight Centre); it is opposed by the applicant, the Australian Competition and Consumer Commission.\n\n[4] IATA is a body corporate, incorporated by particular Canadian legislation, enacted in 1945. That enactment gave corporate status to what had hitherto been an unincorporated association, formed earlier that year. In turn, IATA is the successor to an earlier organisation, known as the International Air Traffic Association, which was founded in The Hague in 1919. It was in that year that the world’s first scheduled international air service was flown. IATA is registered in Australia as a foreign company under the Corporations Act 2001 (Cth). Presently, IATA has some 240 airline members drawn from 115 countries.\n\n[5] Three airlines, which are featured in the evidence led by the Commission in this case, are members namely, Singapore Airlines Limited, Emirates and Malaysian Airline System Berhad. Flight Centre is not a member of IATA. It is though, as the evidence discloses, a travel agency which is accredited with IATA. The evidence of IATA’s country manager for Australia, New Zealand and the South West Pacific Islands, Mr ID Lorigan, establishes that IATA accredits entities as travel agents in many jurisdictions, including Australia.\n\n[6] Pursuant to the Canadian statute which I have mentioned, IATA has the following purposes, objects and aims:\n\n(a) to promote safe, regular and economical air transport for the benefit of the peoples of the world, to foster air commerce and to study the problems connected therewith;\n\n(b) to provide means for collaboration under the air transport enterprises engaged directly or indirectly in international air transport service; and\n\n(c) to cooperate with the international civil aviation organisation (the United Nations’ specialised agency for civil aviation) and other international organisations.\n\n[7] As identified by Mr Lorigan in his affidavit, the purpose of IATA’s application is that it wishes to assist the Court to the extent that it is able to do so, by:\n\n(a) making written submissions on the relationship between IATA members and IATA accredited travel agents, including the field or range of activity in which they interact and the nature of that interaction; and\n\n(b) taking any other step that the Court considers might assist in respect of this proceeding.\n\n[8] Though its application, on its face, did not disclose an intention to lead evidence, as opposed to making submissions on the subject identified, I was informed by its counsel today, upon the hearing of the application, that some evidence, which was apprehended to be uncontroversial, might be led concerning the relationships to which reference was made in the application.\n\n[9] I heard submissions concerning the application today, rather than at the commencement of the trial of the proceeding because it was not part of IATA’s intended role to undertake any cross-examination of any witness. It was convenient, in the course of proceedings, to hear the application at this juncture. There was no demur to that course by IATA but rather, it was promoted.\n\n[10] In Sharman Networks Ltd v Universal Music Australia Pty Ltd (2006) 155 FCR 291, at [7] to [9] (Sharman Networks), the Full Court made the following observations in relation to the terms amicus curiae and intervener and the distinction between them:\n\n> 7 There can be a degree of confusion in the use of the terms “amicus curiae” and “intervener”. At the extremes, the distinction is clear enough. Where a court invites a legal practitioner to assist it by ensuring that its attention is drawn to all relevant law and arguments, the legal practitioner is an amicus curiae, not an intervener. On the other hand, where a person's interests may be affected by the outcome, the person, if permitted by the court, becomes an “intervener”, not an amicus curiae.\n\n> 8 There is, however, a large intermediate area. A non-lawyer entity may seek to become involved in litigation. It may be an official body, such as the Australian Competition and Consumer Commission or the Australian Securities and Investments Commission (we leave to one side any special statutory power to intervene or to apply for leave to intervene). It may be an organisation that puts itself forward as acting in the public interest. The Amici so characterised themselves. Yet a further class of case is illustrated by an industry, trade or professional association, whose members’ interests may be affected, directly or indirectly, by the outcome of the litigation.\n\n> 9 While it is easy to see the first of these three intermediate categories as comprising entities acting in the public interest, entities in the second and third classes may be acting, to various degrees, both in the public interest and in private interests.\n\n[11] Of the three classes described by the Full Court in Sharman Networks, IATA, in my opinion, falls within the third class. Self evidently it acts in respect of collective private interests of its member airlines. In so doing, however, and as the disposition of the Canadian parliament to incorporate it by special legislation evidences, there is also a public interest element which it serves in relation to air travel and its orderly organisation and safe conduct.\n\n[12] Later in Shaman Networks at [12] and by reference to the then O 6 r 17 and O 52 r 14AA of the Federal Court Rules 1979 (Cth) (Former Rules). The Full Court observed that:\n\n> It would be inconsistent with the obvious intention of the rules for a non-lawyer entity to be free to seek to be heard as amicus curiae outside the comprehensive framework now provided by those particular rules.\n\n[13] In that same paragraph and immediately proceeding this passage the Court observed that:\n\n> The rules have been drawn in terms that require the court should it decide to give leave to intervene to a non-lawyer entity to determine the terms and conditions of that leave and the rights, privileges and liabilities including liabilities for costs to be associated with the intervention.\n\n[14] Those particular Former Rules can be seen to have been taken up by the present r 9.12 of the Rules, which makes provision for an application to the Court for leave to intervene.\n\n[15] Rule 9.12(2) provides that the court may have regard to:\n\n> (a) whether the intervener’s contribution will be useful and different from the contribution of the parties to the proceeding and;\n\n> (b) whether the intervention might unreasonably interfere with the ability of the parties to conduct the proceedings as the parties wish and;\n\n> (c) any other matter that the court considers relevant.\n\n[16] So far as an application to be heard as amicus curiae is concerned, Brennan CJ observed in Levy v The State of Victoria (1997) 189 CLR 579 at 604 (Levy v Victoria) that:\n\n> The hearing of an amicus curiae is entirely in the court’s discretion. That discretion is exercised on a different basis from that which governs the allowance of intervention. The footing on which an amicus curiae is heard is that that person is willing to offer the court a submission on law or relevant fact, which will assist the court in a way in which the court would not otherwise have been assisted.\n\n[17] Those observations as to the hearing of a person as amicus curiae must now be read subject to the statements made by the Full Court in Sharman Networks in relation to the position of a non-lawyer entity. IATA is a non-lawyer entity.\n\n[18] Even assuming that there is any scope, having regard to the provision made in r 9.12 and what was said by the Full Court in Sharman Networks to hear a non-lawyer entity as amicus, I am firmly of the view that IATA ought not to be heard in that capacity. Having regard to what was said by Brennan CJ in Levy v Victoria, I am not persuaded, notwithstanding the willingness evident by Mr Bradley’s attendance for IATA on instructions that there will be assistance gained by the Court in ways beyond that which the Court is otherwise entitled to expect to be provided by the Commission and by Flight Centre.\n\n[19] It is to be remembered that the proceeding is not one where first and foremost the issue is a proper construction of an IATA standard form agreement. Rather, the issue is whether or not in the manner particularised in the statement of claim, Flight Centre has transgressed particular provisions of the since renamed Trade Practices Act 1974 (Cth) (Trade Practices Act).\n\n[20] To make that observation is also to give a clue as to whether IATA ought, as it alternatively seeks, to be permitted to intervene in the proceeding. As to that attention has quite properly been drawn on behalf of the Commission to the lateness of the application.\n\n[21] Were this a case where there was a professed desire on the part of IATA to cross-examine witnesses or to lead a particular body of evidence that was self evidently at least potentially controversial, the lateness of the application would in itself, in my opinion, be fatal to its success. That though is not the role which IATA would seek to play as intervener. I therefore, do not base my decision with respect to the fate of the application upon its timing.\n\n[22] In relation to the application for intervention some guidance as to matters of general principle is provided by a judgment of the High Court in Roadshow Films Pty Ltd v iiNet Ltd (2011) 86 ALJR 205 where at [2] to [4], the court stated:\n\n> 2 In determining whether to allow a non party intervention the following considerations reflected in the observations of Brennan CJ in Levy v Victoria are relevant. A non party whose interests would be directly affected by a decision in the proceeding that is one who would be bound by the decision is entitled to intervene to protect the interest like to be affected. A non party whose legal interest for example in other pending litigation is likely to be affected substantially by the outcome of the proceedings in this court will satisfy a precondition for leave to intervene. Intervention will not ordinarily be supported by an indirect or contingent affection of legal interests following from the extra-curial operation of the principles enunciated by the decision of the court or their affect upon future litigation.\n\n> 3 Where a person having the necessary legal interest can show that the parties to the particular proceedings may not present fully the submissions on a particular issue being submissions that the court should have to assist it to reach a correct determination, the court may exercise its jurisdiction by granting leave to intervene albeit subject to such limitations and conditions as to costs between all parties as it sees fit to impose.\n\n> 4 The grant of leave for a person to be heard as an amicus curiae is not dependant upon the same conditions in relation to legal interest as the grant of leave to intervene. The court will need to be satisfied however that it will be significantly assisted by the submissions of the amicus and that any cost to the parties or any delay consequent upon agreeing to hear the amicus is not disproportionate to the expected assistance.\n\n[23] Later, at [6], the High Court observed that:\n\n> In considering whether any applicant should have leave to intervene in order to make submissions or to make submissions as amicus curiae it is necessary to consider not only whether some legal interests of the applicant may be indirectly affected but also and in this case critically whether the applicant will make submissions which the court should have to assist it to reach a correct determination. Ordinarily then in cases like the present where the parties are large organisations represented by experienced lawyers, applications for leave to intervene or to make submissions as amicus curiae should seldom be necessary or appropriate and if such applications are made, it would ordinarily be expected that the applicant will identify with some particularity what it is that the applicant seeks to add to the arguments that the parties will advance.\n\n[24] Here, it is the case that each party is a large organisation represented by experienced lawyers. On the one hand, the applicant is, whilst by statute a separate legal entity, but a particular emanation of the Crown in right of the Commonwealth with all of the related resources of a nation-state. On the other hand, the respondent, Flight Centre is, at least on the evidence to hand, a corporation of some substantial size, represented by experienced solicitors and experienced senior and junior counsel.\n\n[25] Against that background, it does become important, as the Commission’s submission in opposition highlighted, to scrutinise exactly what in particular might be added by way of permitting the intervention. There is a level of generality in the description in the application as to the nature of the submission. That generality is not greatly expanded by Mr Lorigan’s affidavit and nor is it in the accompanying outline of submissions.\n\n[26] It must be said that the pleadings do make reference to an IATA accreditation and, in turn, when one goes to related documentation, one is taken to an apparently standard form document of IATA, an International Air Transport Association Passenger Sales Agency Agreement (Passenger Sales Agency Agreement), made as between IATA, by its director-general and Flight Centre on 28 June 1995. For all that, the core issue in the proceeding is not one of construction of that Passenger Sales Agency Agreement but rather, as I have indicated, that of the proper construction of particular provisions of the Trade Practices Act and their application in the circumstances of this case.\n\n[27] It seems to me that IATA’s interest, though undoubtedly genuine, is indirect and that this is not a case where, having regard to the interests of the parties, the Court would be assisted by submissions that it is not otherwise entitled to expect would be made in relation to the issues which arise on the pleadings for decision.\n\n[28] For these reasons, the application is dismissed.\n\nI certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Logan.\n\nAssociate:\n\nDated: 23 October 2012\n",
+ "source_sha256": "824a333a4c1c5b3e0ec466dcc837bec6187f8810e208541af16e3fc8a340dc3d"
+}

@@ -1,0 +1,1162 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2017/2017FCAFC0150.docx",
+ "metadata": {
+  "citation": "[2017] FCAFC 150",
+  "name": "Australian Competition and Consumer Commission v Australian Competition Tribunal",
+  "court": "FCAFC",
+  "year": 2017,
+  "number": 150,
+  "date_of_judgment": "2017-09-20",
+  "file_numbers": [
+   "VID751/2017",
+   "VID762/2017"
+  ],
+  "judges": [
+   "BESANKO J",
+   "PERRAM J",
+   "ROBERTSON J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2017-08-28",
+   "2017-08-29"
+  ],
+  "hearing_raw": "28-29 August 2017",
+  "number_of_paragraphs": 88,
+  "catchwords": [
+   "COMPETITION – merger clearances and authorisations – authorisation granted by Australian Competition Tribunal for merger – Tribunal satisfied that proposed acquisition would result, or be likely to result, in such a benefit to public that acquisition should be allowed to occur – proper construction of s 95AZH of Competition and Consumer Act 2010 (Cth) – consideration of relationship between test in s 95AZH and concept of ‘substantial lessening of competition’ in s 50",
+   "ADMINISTRATIVE LAW – whether Tribunal misconstrued and misapplied s 95AZH by importing test from s 50 – whether failure to take into account relevant considerations – whether Tribunal erred in law by failing to deal with a central issue raised by party to application – whether Tribunal required to compare likely future state of competition with and without proposed acquisition – whether Tribunal required to assign lesser weight to benefits flowing from proposed acquisition not likely to be widely shared – whether Tribunal made irrational and illogical findings"
+  ],
+  "legislation": [
+   "Constitution s 92",
+   "Administrative Appeals Tribunal Act 1975 (Cth) s 44",
+   "Administrative Decisions (Judicial Review) Act 1977 (Cth) ss 5(1)(c), 5(1)(d), 5(1)(e), 5(1)(f), 5(1)(j), 5(2)(b), 5(2)(g), 16(1)(a)",
+   "Competition and Consumer Act 2010 (Cth) ss 50, 95AT, 95AT(2), 95AZH, 95AZH(1)",
+   "Judiciary Act 1903 (Cth) s 39B"
+  ],
+  "cases_cited": [
+   "Application by Sea Swift Pty Ltd [2016] ACompT 9",
+   "Application by Tabcorp Holdings Ltd [2017] ACompT 1",
+   "Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223",
+   "Betfair Pty Ltd v Western Australia [2008] HCA 11; (2008) 234 CLR 418",
+   "Chief Executive Officer of Customs v AMI Toyota Ltd [2000] FCA 1343; (2000) 102 FCR 578",
+   "Collector of Customs v Pozzolanic Enterprises Pty Ltd [1993] FCA 322; (1993) 43 FCR 280",
+   "Industry Research and Development Board v Bridgestone Australia Ltd [2004] FCAFC 56; (2004) 136 FCR 47",
+   "Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40; (1986) 162 CLR 24",
+   "Minister for Immigration and Citizenship v Li [2013] HCA 18; (2013) 249 CLR 332",
+   "Re Qantas Airways Ltd [2004] ACompT 9",
+   "Re QIW Ltd (1995) 132 ALR 225",
+   "Re Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481",
+   "Re Rural Traders Co-operative (WA) Ltd (1979) 37 FLR 244",
+   "Wong v The Queen [2001] HCA 64; (2001) 207 CLR 584",
+   "Burchfield RW, Fowler’s Modern English Usage (Revised 3rd ed, Oxford University Press, 1998)"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN COMPETITION TRIBUNAL",
+    "role": "First Respondent"
+   },
+   {
+    "name": "TABCORP HOLDINGS LIMITED",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "TATTS GROUP LIMITED",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "CROWNBET PTY LTD",
+    "role": "Applicant"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr A McClelland QC with Ms P Thiagarajan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Herbert Smith Freehills"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr R Smith SC with Mr G Ng and Mr D Hughes"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Clayton Utz"
+   },
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr B Walker SC with Mr M Borsky QC and Mr A Barraclough"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Minter Ellison"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Herbert Smith Freehills"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr R Smith SC with Mr G Ng and Mr D Hughes"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/full/2017/2017fcafc0150",
+  "portal_file_numbers": [
+   "VID751/2017"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2017-09-20"
+ },
+ "cover_sheet": [
+  {
+   "label": "File numbers",
+   "value": "VID 751 of 2017\nVID 762 of 2017"
+  },
+  {
+   "label": "Judges",
+   "value": "BESANKO, PERRAM & ROBERTSON JJ"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "20 September 2017"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – merger clearances and authorisations – authorisation granted by Australian Competition Tribunal for merger – Tribunal satisfied that proposed acquisition would result, or be likely to result, in such a benefit to public that acquisition should be allowed to occur – proper construction of s 95AZH of Competition and Consumer Act 2010 (Cth) – consideration of relationship between test in s 95AZH and concept of ‘substantial lessening of competition’ in s 50\nADMINISTRATIVE LAW – whether Tribunal misconstrued and misapplied s 95AZH by importing test from s 50 – whether failure to take into account relevant considerations – whether Tribunal erred in law by failing to deal with a central issue raised by party to application – whether Tribunal required to compare likely future state of competition with and without proposed acquisition – whether Tribunal required to assign lesser weight to benefits flowing from proposed acquisition not likely to be widely shared – whether Tribunal made irrational and illogical findings"
+  },
+  {
+   "label": "Legislation",
+   "value": "Constitution s 92\nAdministrative Appeals Tribunal Act 1975 (Cth) s 44\nAdministrative Decisions (Judicial Review) Act 1977 (Cth) ss 5(1)(c), 5(1)(d), 5(1)(e), 5(1)(f), 5(1)(j), 5(2)(b), 5(2)(g), 16(1)(a)\nCompetition and Consumer Act 2010 (Cth) ss 50, 95AT, 95AT(2), 95AZH, 95AZH(1)\nJudiciary Act 1903 (Cth) s 39B"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Application by Sea Swift Pty Ltd [2016] ACompT 9\nApplication by Tabcorp Holdings Ltd [2017] ACompT 1\nAssociated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223\nBetfair Pty Ltd v Western Australia [2008] HCA 11; (2008) 234 CLR 418\nChief Executive Officer of Customs v AMI Toyota Ltd [2000] FCA 1343; (2000) 102 FCR 578\nCollector of Customs v Pozzolanic Enterprises Pty Ltd [1993] FCA 322; (1993) 43 FCR 280\nIndustry Research and Development Board v Bridgestone Australia Ltd [2004] FCAFC 56; (2004) 136 FCR 47\nMinister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40; (1986) 162 CLR 24\nMinister for Immigration and Citizenship v Li [2013] HCA 18; (2013) 249 CLR 332\nRe Qantas Airways Ltd [2004] ACompT 9\nRe QIW Ltd (1995) 132 ALR 225\nRe Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481\nRe Rural Traders Co-operative (WA) Ltd (1979) 37 FLR 244\nWong v The Queen [2001] HCA 64; (2001) 207 CLR 584\nBurchfield RW, Fowler’s Modern English Usage (Revised 3rd ed, Oxford University Press, 1998)"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "28-29 August 2017"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "88"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr A McClelland QC with Ms P Thiagarajan"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Herbert Smith Freehills"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr R Smith SC with Mr G Ng and Mr D Hughes"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Clayton Utz"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr B Walker SC with Mr M Borsky QC and Mr A Barraclough"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Minter Ellison"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Herbert Smith Freehills"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr R Smith SC with Mr G Ng and Mr D Hughes"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID751/2017",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN COMPETITION TRIBUNAL",
+     "role": "First Respondent"
+    },
+    {
+     "name": "TABCORP HOLDINGS LIMITED",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "TATTS GROUP LIMITED",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J",
+    "PERRAM J",
+    "ROBERTSON J"
+   ],
+   "date": "2017-09-20",
+   "date_raw": "20 SePTEMBER 2017",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The decision of the Tribunal made on 22 June 2017 be set aside.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The matter be referred back to the Tribunal for further consideration in such manner as it deems fit.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The Second and Third Respondents pay the Applicant’s costs as taxed or agreed.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Until further order, the reasons of the Court be embargoed from release to the parties or the public.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "As soon as is reasonably practicable and, in any event, within five business days, the solicitors for the Applicant inform the Court, following consultation with the other legal representatives for the parties, whether any part of the reasons requires redaction so as not to disclose material which is commercial in confidence.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "ORDERS"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "VID762/2017",
+   "parties": [
+    {
+     "name": "CROWNBET PTY LTD",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN COMPETITION TRIBUNAL",
+     "role": "First Respondent"
+    },
+    {
+     "name": "TABCORP HOLDINGS LIMITED",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "TATTS GROUP LIMITED",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J",
+    "PERRAM J",
+    "ROBERTSON J"
+   ],
+   "date": "2017-09-20",
+   "date_raw": "20 SePTEMBER 2017",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The parties confer as soon as possible to see if agreement can be reached on the question of what substantive order should be made on the Applicant’s application.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The matter be listed before the Full Court by video-conference at 4.30 pm on Friday 22 September 2017 to determine the substantive order to be made unless the parties notify the Court beforehand that agreement has been reached on that issue.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The Applicant file and serve any written submissions on costs of no more than three pages by the end of Friday 29 September 2017.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The Second and Third Respondents file and serve their written submissions on costs of no more than three pages by the end of Friday 6 October 2017.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "Until further order, the reasons of the Court be embargoed from release to the parties or the public.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "As soon as is reasonably practicable and, in any event, within five business days, the solicitors for the Applicant inform the Court, following consultation with the other legal representatives for the parties, whether any part of the reasons requires redaction so as not to disclose material which is commercial in confidence.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "1. Introduction"
+    ],
+    "text": "Tabcorp Holdings Ltd (‘Tabcorp’) is a supplier of gaming and entertainment products whose shares are listed on the Australian Stock Exchange (‘ASX’). Tatts Group Ltd (‘Tatts’) is a provider of lotteries, wagering services as well as gaming products and services. It is also listed on the ASX. Tabcorp wishes to acquire the issued share capital in Tatts in return for a combination of cash and scrip. The acquisition is to occur by way of a scheme of arrangement. In effect, the acquisition is a merger which is how we will refer to it. The merger is valued at around $6 billion.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "1. Introduction"
+    ],
+    "text": "Section 50 of the Competition and Consumer Act 2010 (Cth) (‘the Act’) prohibits a corporation, such as Tabcorp, from acquiring shares in another body corporate, such as Tatts, if the acquisition would have the effect of substantially lessening competition in a market. There is perceived by Tabcorp to be some risk that the merger may infringe this prohibition. Section 95AT of the Act permits the Australian Competition Tribunal (‘the Tribunal’) to ‘authorise’ the merger and where this occurs, s 95AT(2) provides that s 50 does not prevent the acquisition from occurring. The power in s 95AT is, however, constrained by s 95AZH(1). Section 95AZH provides:\n‘95AZH When authorisation must not be granted\n(1) The Tribunal must not grant an authorisation in relation to a proposed acquisition of shares or assets unless it is satisfied in all the circumstances that the proposed acquisition would result, or be likely to result, in such a benefit to the public that the acquisition should be allowed to occur.\n(2) In determining what amounts to a benefit to the public for the purposes of subsection (1):\n(a) the Tribunal must regard the following as benefits to the public (in addition to any other benefits to the public that may exist apart from this paragraph):\n(i) a significant increase in the real value of exports;\n(ii) a significant substitution of domestic products for imported goods; and\n(b) without limiting the matters that may be taken into account, the Tribunal must take into account all other relevant matters that relate to the international competitiveness of any Australian industry.\n(3) To avoid doubt, an authorisation cannot be granted for an acquisition that has occurred.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "1. Introduction"
+    ],
+    "text": "In this case, Tabcorp applied to the Tribunal for an authorisation under s 95AT which, on 22 June 2017, determined that it would grant it subject to certain conditions: Application by Tabcorp Holdings Ltd [2017] ACompT 1. The application was opposed by the Australian Competition and Consumer Commission (‘the ACCC’) and a number of intervening entities including CrownBet Pty Ltd (‘CrownBet’). The ACCC and CrownBet now apply under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (‘the ADJR Act’) and under s 39B of the Judiciary Act 1903 (Cth) to this Court for judicial review on the basis of legal error in the Tribunal’s decision.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)"
+    ],
+    "text": "The ACCC and CrownBet both contended that the Tribunal had erred by concluding that it did not need to assess a competitive detriment alleged by them to be likely to result from the merger because it was satisfied that the merger would not result in any substantial lessening of competition in the wagering services market. We explain below what this somewhat dense statement means. Its eventual resolution turns on the proper construction of s 95AZH(1) of the Act, an understanding of the parties’ arguments in the Tribunal and the Tribunal’s reasons. It is useful to consider those issues in that order.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "Dealing first with s 95AZH(1), it will be noted that it takes the form of a prohibition on the grant of an authorisation unless the Tribunal is satisfied of the matters with which it deals. By its express terms, the provision requires an examination of the public benefit resulting from, or likely to result from, the proposed acquisition. The Tribunal must therefore examine the benefits which are said to result (or be likely to result) and then assess whether they are ‘such’ that the authorisation should be granted. This makes it necessary, obviously enough, for the Tribunal to assess each suggested benefit. But because benefits may be offset by detriments it also requires all relevant detriments to be examined as well. Thus although detriments are not expressly referred to in the provision, they are, as a matter of necessary implication, mandatory relevant considerations of the kind discussed in Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40; (1986) 162 CLR 24 at 39-41 (‘Peko-Wallsend’). In assessing whether relevant detriments have been taken into account by the Tribunal, much will depend on the appropriate level of abstraction at which those detriments are cast.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "The word ‘competition’ does not appear in s 95AZH(1). Nevertheless, given the nature of ss 95AT and 95AZH as a dispensation from s 50 – centrally concerned as it is with notions of competition – the benefits and detriments to be examined must include competitive benefits and detriments. The provision, however, is broader merely than this and also includes other benefits and detriments not necessarily related to competition. This flows from the ordinary meaning of the word ‘benefit’. The benefits and detriments which are to be examined depend on ‘all the circumstances’, a term which, at least in this case, certainly encompasses those which are put to the Tribunal by the parties before it.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "Having examined the benefits and detriments resulting from, or likely to result from, the proposed acquisition, the Tribunal is then to determine whether the overall benefit is ‘such’ that the acquisition should be permitted. This requires a balancing exercise to determine the public benefit. The Tribunal has referred to this as a balance-sheet approach (Re Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481 (‘QCMA’) at 512) and this is an informative metaphor. It may suggest, however, that the detriments are to be deducted from the benefits leaving only a net benefit. This is informative but may be likely to be a little unrealistic. Many of the benefits and detriments will be incommensurable and possibly unmeasurable as well. To take an example from this case: how does one weigh the improved efficiency of the wagering market against the perils of problem gambling? It seems to us that the benefits and detriments may more usefully be assayed by means of a process of ‘instinctive synthesis’ sometimes referred to in the law surrounding the formulation of criminal sentences where a similar problem is encountered: see Wong v The Queen [2001] HCA 64; (2001) 207 CLR 584 at 611 [74]-[75] per Gaudron, Gummow and Hayne JJ. This may be referred to as weighing, but to refer to balancing, or a balance-sheet approach, may suggest that the essential qualitative assessment has a greater degree of precision than the statutory subject-matter permits.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "Next, it has been accepted in the Tribunal since at least Re Rural Traders Co-operative (WA) Ltd (1979) 37 FLR 244 at 262-263 that the benefit to the public must be of substance rather than ephemeral. Other words may be used too: non-trivial, not transitory or, using appropriate care, of substance or substantive. Care is required in the case of the words ‘of substance’ or ‘substantive’ lest they suggest some connection with the inquiry posed by s 50 (that is, whether there has been a substantial lessening of competition in a market). As we explain below, the focus of s 95AZH(1) is not upon that issue. The use of the words substantial or substantive to describe the benefits (or detriments) with which s 95AZH(1) is concerned is acceptable so long as it is understood, particularly in the context of competitive benefits and detriments, that what is involved is conceptually distinct from, and necessarily separate to, the notion of substantial lessening of competition in a market under s 50.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "For ourselves, we would glean the need for a benefit to be non-ephemeral from the word ‘benefit’ itself. Parliament is unlikely to have intended the Tribunal to concern itself with trifles. CrownBet submitted that the restriction derived from the word ‘such’ which was being used as an intensifier (CrownBet instanced the sentence ‘he is such a nice man’) but we do not think this is correct as it ignores the word ‘that’. Fowler’s Modern English Usage (Revised 3rd ed) suggests at p 750 that ‘such a…that’ involves the words ‘such a’ operating as an adverb. (‘She was such a good teacher that everyone attended her classes’). It is not necessary to reach a concluded view on this issue. The result is the same.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "Each of these propositions about s 95AZH (or its predecessor provisions) has been accepted in the Tribunal since at least QCMA at 510-512 and were most recently applied by it in Application by Sea Swift Pty Ltd [2016] ACompT 9 at [35]-[48]. Although s 95AZH(1) is not a straightforward provision to construe, each of these propositions above arises as a deduction from the word ‘benefit’.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "There are two further points which should be made. First, it is to be emphasised that a mandatory consideration in the Tribunal’s assessment of an acquisition will include any non-trivial competitive detriment which will result, or is likely to result, from the acquisition whether it occurs on a market-wide basis or not. Secondly, as we have just said, the Tribunal is not centrally concerned in assessing whether there is a competitive detriment for the purposes of s 95AZH(1) with the different question posed by s 50 of whether the acquisition will, or will be likely to, result in a substantial lessening of competition in a market. The inquiry thrown up by s 95AZH is concerned with all benefits and detriments resulting from the acquisition including, no doubt, competitive ones. But so far as the competitive factors are concerned, the focus is much broader than it is under s 50; it is not limited only to detriment in a market nor, even where markets are concerned, with competitive lessenings to which s 50 might otherwise apply. This point has been made in the Tribunal before: see QCMA at 514 (‘…it hardly needs to be said that it is not for the Tribunal to reach some ultimate verdict of competitive effect in terms of s 50…’); see also Re QIW Ltd (1995) 132 ALR 225 at 235.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(a) Section 95AZH(1)"
+    ],
+    "text": "This is not to say that the issue of whether there is a substantial lessening of competition in a market is necessarily a legally irrelevant, that is prohibited, consideration in the performance of the Tribunal’s function. For example, a party may elect in an authorisation proceeding to prove that an acquisition will result in a detriment which that party alleges consists itself of a substantial lessening of competition in a market. In such a case, the Tribunal will need to assess that proposition, but this will be because of its obligation to deal with the case on detriment put before it, and not because of anything said in s 95AZH(1). Whilst accepting therefore that substantial lessening of competition in a market is not what s 95AZH(1) is centrally concerned with, we would reject the proposition advanced during the hearing by the ACCC in this case that it is an irrelevant consideration. Circumstances, including those concerned with how an application to the Tribunal is run, may make it relevant.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "The proceeding in the Tribunal involved a large and complex hearing conducted over 14 days, with several intervenors and opponents and with the assistance of 19 counsel including 7 senior counsel. The Tribunal received 79 statements from lay witnesses, many of whom were examined; and it took evidence from 7 economists in a variety of concurrent sessions. The hearing record alone is 1,482 pages in length. The scope of debate was broad and was conducted across multiple fronts with evident vigour. The issues presented for resolution in this Court involve but one small element in that much larger case. Whilst it is necessary that these reasons should explain the issues which arise with as much clarity as the subject matter permits, it should not be thought that what may now appear relatively straightforward would have appeared obvious under the weight of material generated by the proceeding and the time pressures imposed by the Act. With that in mind, the issues about the wagering services market unfolded in the Tribunal as follows:",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Tabcorp and Tatts operate a number of different businesses but relevantly both provide wagering services. The Tribunal was obliged to assess the competitive consequences of the merger on all aspects of these various businesses including, significantly, those relating to these wagering services. Indeed, in this Court, it is largely only wagering services that remain in issue.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "It was accepted by all parties before the Tribunal that Tabcorp and Tatts are participants in a single national market for the provision of wagering services. In traditional economic analysis this implies that the various products or services provided within the market are strongly substitutable on the demand side and that there is also supply side substitution.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Within the wagering services market a number of different products are available. One type of wager involves placing a bet at fixed odds on the occurrence (or not) of some future contingency. This gives rise to a wager known as a fixed-odds wager. The punter in such a transaction knows in advance how much money they will receive in the event that the contingency is fulfilled.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "In the wagering services market, fixed-odds wagering is offered by all of the industry participants in one form or another. Such a bet may, for example, be placed online with what is known as a ‘corporate bookmaker’. Such a bookmaker offers wagering services online or via telephone. CrownBet is one such example. In Australia, most corporate bookmakers operate from the Northern Territory.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "The corporate bookmakers primarily make their revenue from fixed-odds wagering by setting their odds at such a level that the amount to be paid to the persons who ultimately win is less than the amount received from those who ultimately lose, regardless of the outcome. The corporate bookmakers do not have retail outlets as State and Territory laws prohibit the conduct of such a business from physical premises (except in the case of a single incumbent local franchisee). That does not, however, prevent them from offering their services online from interstate by reason of s 92 of the Constitution: Betfair Pty Ltd v Western Australia [2008] HCA 11; (2008) 234 CLR 418.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Fixed-odds wagering is also made available on betting exchanges, the only one of which at the moment is that conducted by Betfair Pty Ltd (‘Betfair’, a related party to CrownBet). On a betting exchange, punters bet with each other, one offering to back and one to lay each outcome. In that scenario, the exchange operator takes a commission out of the winnings of the successful punter.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Tabcorp and Tatts also offer fixed-odds wagering. As with the corporate bookmakers and Betfair’s betting exchange, the product is offered by Tabcorp and Tatts online. However, Tabcorp and Tatts also control the exclusive franchise in each State and Territory to conduct a retail wagering business (except in Western Australia). Tabcorp controls the franchises in New South Wales, the Australian Capital Territory and Victoria whilst Tatts controls the franchises in Queensland, the Northern Territory, South Australia and Tasmania. Tabcorp and Tatts are able to offer what the corporate bookmakers and betting exchanges cannot, namely, fixed-odds wagering from retail premises. The retail premises in question include High Street betting shops and also areas situated within other business premises such as those which are licensed to serve intoxicating liquors.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Another kind of wagering product is known as totalisator wagering or pari-mutuel wagering. A totalisator is a system, originally mechanical, whereby punters place a bet on a contingency (often in this context, the outcome of a horse, harness or greyhound race). The odds are not set at the time of the wager. All of the bets are pooled and after the race is run and the winner and place getters determined, the operator deducts a fixed amount from the pool and distributes the balance amongst the winning punters. The amount taken from the pool is known as the takeout and is a risk-free form of revenue for the operator. A necessary feature of totalisator wagering is that the odds (or price as it is sometimes called) are not known until the race is complete.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Totalisator wagering services are subject to State-based monopoly franchises which are attached to the franchises associated with the operation of wagering services from retail premises. Consequently, totalisator wagering services are not offered by the corporate bookmakers. They are also not offered on betting exchanges where the concept makes no sense. Other than in Western Australia, the only totalisator wagering services are offered by, or by entities controlled by, Tabcorp and Tatts. In New South Wales, the Australian Capital Territory and Victoria it is Tabcorp; everywhere else except Western Australia it is Tatts.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "It was not in dispute between the parties that in relation to the totalisator wagering services offered by Tabcorp and Tatts at their retail premises, they did not compete with each other. This was for simple considerations of geography. A person trying to place a bet with Tabcorp’s Victorian totalisator at one of its retail outlets in Melbourne could hardly choose to travel to Adelaide to place the bet with Tatts instead.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "More controversy attended the online channel. Here the ACCC and CrownBet submitted, and the Tribunal found at [22] of its reasons, that Tabcorp and Tatts did compete with each other. It was said that a person who was dissatisfied with the performance of, say, the Tatts totalisator in Queensland could migrate online to place the bet with Tabcorp’s totalisator in Sydney.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "It is this narrow segment of the wagering services market with which the present dispute is concerned, that is, the segment involving competition between Tatts and Tabcorp in the online channel. It involves competition between them in fixed-odds wagering where both directly compete with the corporate bookmakers in the provision of the same product. Perhaps importantly, it also involves competition between them in relation to totalisator wagering where they do not compete directly with the corporate bookmakers but only with each other.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "To complete the picture, two further matters need to be mentioned. The first is the existence of a wagering product offered by the corporate bookmakers known as ‘tote derivative wagering’. In tote derivative wagering, a corporate bookmaker offers to pay the same price as is eventually paid on one, or the highest paying one, of a number of totalisators, often with a premium added for good measure (e.g. ‘best tote + 5%’). To offer such a product is not to engage in totalisator betting because the underlying structure remains different. No pooling is involved and there is no takeout. There are complexities for a bookmaker in offering such a synthetic totalisator product. As the wagering behaviour of the bookmaker’s customers on a given event diverges from the overall behaviour of the punters wagering on the totalisators which are being simulated these difficulties become larger. The relevance of tote derivative wagering relates to the alleged capacity of the corporate bookmakers using this synthetic product to exert competitive restraint on Tabcorp and Tatts in the totalisator segment.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "The second matter concerns the takeout rates of Tabcorp’s and Tatts’ respective totalisators. In each State and Territory the amount which a totalisator operator is permitted by law to deduct from the pool is subject to a regulatory maximum. The material before the Tribunal showed that Tabcorp is operating xxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxxx xx xxxxxxx. xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. That fact was not controversial before the Tribunal but its causes were.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "A good deal of ink was spilled about this before the Tribunal. It is not necessary to grasp all of the debate for present purposes but to give the flavour of what appears to have been a fairly robust encounter between the parties before the Tribunal:\n• the ACCC and CrownBet submitted that the phenomenon showed that Tatts’ takeout rate was being constrained by Tabcorp’s activities;\n• xxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxxxxxxx;\n• the ACCC and CrownBet argued that the issues of substitutability were subtle in that there was a group of sophisticated punters who preferred to use totalisators and who, for complex reasons, could not migrate to the corporate bookmakers;\n• Tabcorp and Tatts argued that it was a mistake to treat the takeout rate on a totalisator as being equivalent to price but even if it was equivalent, Tatts would not be able to increase its takeout rate if the merger proceeded because any increase in the takeout rate would lead eventually to a migration by totalisator punters to fixed-odds wagering;\n• the ACCC and CrownBet argued that such punters would not migrate to the corporate bookmakers but, preferring a totalisator product, would migrate to Tabcorp;\n• Tabcorp and Tatts argued that that constraint would be imposed by tote derivative wagering; and\n• the ACCC and CrownBet responded by submitting that tote derivative betting was in decline and, in any event, its payouts were capped, for reasons associated with the way in which a bookmaker keeps a book, and this made it unattractive from the perspective of the sophisticated punters to which reference has already been made.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "This was not, by any means, the whole of the debate. It will be seen however, even from this limited snapshot, that it was complex. It goes without saying that it is not the role of this Court on a judicial review application to express any view on what the outcome of that debate should be.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "But however it should be resolved, the debate had, at its heart, an assessment of the state of competition between Tabcorp and Tatts in the online channel, and specifically in relation to the provision of totalisator wagering where the two companies were the only market participants directly providing the product. There was evidence before the Tribunal as to the extent of this market segment. It is not necessary to refer to it and the evidence in question was subject to extensive confidentiality orders. It will suffice to say that the segment was neither especially large nor, on the other hand, trivial.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "Before the Tribunal, the ACCC submitted that if the merger proceeded, the merged entity would no longer be constrained by Tabcorp in setting its takeout rate in Queensland, Tasmania, South Australia or the Northern Territory and that it would be able to increase that rate to its legal maximum in an unconstrained fashion. Without dwelling on the detail, this was said by the ACCC to have a significant price-effect in the segment. The ACCC submitted that this effect in the segment would be a competitive detriment which the Tribunal was required to consider under s 95AZH(1) and that it was substantive. The ACCC did not submit that this competitive effect in the segment meant that there was a substantial lessening of competition in the overall wagering market. Indeed, it accepted that there would be no such lessening in that market. This is an important point which should be emphasised.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "The position of CrownBet was different. It alleged the same competitive effect in the state of competition between Tabcorp and Tatts in their online activities and especially in relation to the provision of totalisator wagering. But it did not advance this effect as the immediate detriment upon which it relied. Rather, it submitted that the impact in that segment would have the effect of substantially lessening competition in the overall wagering services market. Thus at paragraph 4 of its opening submissions it said ‘Accordingly, without the significant constraint that Tabcorp and Tatts impose on one another, there would likely be a substantial lessening of competition in the wagering market’. And in his closing address to the Tribunal, Senior Counsel for CrownBet said this:\n‘You won’t find any case of a kind where a merger with consequences like this has been waved through as having no competitive detriments. Now, the first and foremost consideration for the Tribunal is that there are well-established legal principles for the assessment of anti-competitive detriments. Section 50 of the Competition Act prescribes the test, and subsection (3) identifies relevant factors that must be considered by anyone undertaking a competition analysis, in the context of the Competition Act concerning the effects of the merger. Now, I won’t hand up the section. Your Honour Justice Middleton will be familiar with it. But if I mention some of the mandatory criteria in subsection (3) of section 50, they include, “the height of barriers to entry to the market.’\nSee also, Senior Counsel for CrownBet at T-1415 (ln 44-45); T-1417 (ln 35-37); T-1419 (ln 29-32); and T-1434 (ln 13-17).",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "To the extent that the submission set out above suggested that s 95AZH required an assessment of the issues under s 50, it was, for the reasons already given, erroneous, but there is no doubt that it was how the case was put.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "In any event, this was a somewhat larger proposition than the one which was being advanced by the ACCC. The ACCC, of course, as noted in [31] above, conceded that there was no such lessening as the one advanced by CrownBet. CrownBet’s advancement of a case reflecting the terms of s 50 had significant legal consequences. Although s 95AZH(1) does not have as its direct focus the question of whether there has been a substantial lessening of competition in a particular market, in this case, CrownBet made it an issue by asserting such as the very detriment upon which it relied for the purposes of the provision. Thus, the cases of the ACCC and CrownBet were quite different in their internal mechanics but they nevertheless both depended on the same alleged phenomenon, that is to say, a diminution in the degree of online competition between Tabcorp and Tatts especially in relation to totalisator wagering. This gave the position of the ACCC and CrownBet an apparent similarity. But the similarity lay only at the surface. They were quite different cases beneath that surface.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(b) The Parties’ Arguments"
+    ],
+    "text": "On the other side of the balancing process called for by s 95AZH(1), that of benefits, Tabcorp contended that the merger would increase competition in the overall wagering services market and, further, that it would benefit, inter alia, a segment of the public, viz, the racing industry. The reasons for this were, broadly speaking, as follows. The relative market share for totalisator wagering had dramatically shrunk in the face of competition from the corporate bookmakers. The value of the retail franchises was also falling as they competed with online products offered via mobile devices. Some of their competitors were large international businesses and consolidation in the market was inevitable. Tatts and Tabcorp were running a bricks and mortar business in the face of an online onslaught. Further, there was a drift away from totalisator products towards fixed-odds products particularly by younger punters. The merger would allow Tabcorp and Tatts to compete more effectively in this very dynamic market. So far as the racing industry was concerned, a large part of Tabcorp’s and Tatt’s revenues were paid to the racing authorities either as part of the price paid for the totalisator and retail franchises or, in some cases, in the form of product fees. The savings and synergies achieved by the merger would flow, in part, via these fiscal conduits to the racing authorities and on to the wagering industry more generally; that is to say, racing clubs, trainers, breeders, the punting public and the many downstream businesses connected to them. This was said to be a large number of people and systemically significant.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "The Tribunal accepted Tabcorp’s case in relation to the benefits that the merger would bring. It found that there was a trend towards consolidation in the wagering services market and that in the case of Tabcorp and Tatts it would permit them more efficiently to compete against the corporate bookmakers, many of whom were backed by substantial international wagering concerns with access to significant capital. It accepted that the merger would be of benefit to consumers generally because of that increased amount of competition, and it concluded additionally that there would also be a benefit to the racing industry in the form of increased product fees.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Turning to the issue of detriment, it seems clear that the Tribunal rejected CrownBet’s case. The pivotal part of the reasoning is at [219]-[220] of its reasons, which appeared under the heading ‘Competition between Tabcorp and Tatts?’:\n‘219 The ACCC noted that fixed-odds and pari-mutuel wagering appear to be differentiated, and drew attention to the competition between Tabcorp and Tatts as the only two providers of pari-mutuel wagering in Australia (apart from RWWA, which is dependent on pooling arrangements with Tabcorp, and is therefore more of a partner to Tabcorp than a competitor). Once the market has been defined to include all types of wagering product, and not simply pari-mutuel wagering, it becomes difficult to describe any lessening of competition arising from restrictions on a segment of that market as ‘substantial’. With the introduction of tote derivative products, it may be doubted that Tabcorp and Tatts could ever really engage in any anti-competitive profiteering in pari-mutuel wagering. Even if it was possible, such conduct by the Merged Entity in pari-mutuel wagering will inevitably lead to substitution into fixed-odds products. The same comments apply to any submissions regarding the effect of the merger on the Merger Parties’ fixed-odds performance.\n220 Market definition guides the analysis, and having concluded that there is a market in which there are more participants than just the Merger Parties, it is appropriate that the analysis factors in all actual and potential suppliers to that market. As the ACCC suggested, there is good reason to consider whether the target of the acquisition is likely to be a vigorous competitor under the counterfactual, and more is said of this with respect to public benefits and merger specificity below. But analysis of the counterfactual is only necessary if analysis shows that the merger is likely to result in a detriment; and we can only reach that point if the Tribunal concludes that there will be a substantial lessening of competition in the market for consumer wagering services. Therefore, the starting point for competition analysis is the market, not a limited view of competition between the two Merger Parties.’\n(emphasis added)",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Paragraph [220] does not express a conclusion and is contingent on what then follows. What follows in the Tribunal’s reasons from [221]-[230] is an assessment of the contention that the wagering services market would be likely to suffer a substantial lessening of competition if the merger proceeded. It is not necessary to set out its reasoning in any detail. It involved, in summary, the Tribunal’s conclusions on the competitive constraints imposed by the corporate bookmakers, the trend towards consolidation and market share.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Only one party, CrownBet, contended that there would be such an effect in the wagering services market. In that light, these paragraphs can only be referable to CrownBet’s submission. The Tribunal’s analysis of the question raised by CrownBet concluded at paragraph [230] in these terms:\n‘230 More importantly for the sake of this analysis, the Tribunal takes the view that there will not be a substantial lessening of competition in the consumer wagering market as a result of the proposed merger. In this respect, no detriment to the public is likely to arise.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Read together, paragraph [220] and [230] can be seen to encapsulate a conclusion that the Tribunal did not need to determine whether CrownBet’s factual contention that the state of competition between Tabcorp and Tatts in the online channel, especially in relation to totalisator wagering, would be diminished because it did not accept that the legal detriment that CrownBet relied upon under s 95AZH(1) – a substantial lessening of competition in the wagering services market – was established. In effect, the Tribunal sidestepped the argument. In this Court, the ACCC and CrownBet were critical of the Tribunal for introducing the concept of substantial lessening of competition into its analysis. However, as we have endeavoured to explain, CrownBet’s case on detriment for the purposes of s 95AZH(1) asserted a substantial lessening of competition in the wagering services market as the relevant detriment, so that the Tribunal’s reference to this matter was a function of CrownBet’s own forensic decision as to how it ran its case.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Although the Tribunal dealt with CrownBet’s case on substantial lessening of competition in the wagering services market, it did so at [220] in a way which relieved it of the necessity of examining the state of competition between Tabcorp and Tatts in the online channel. The Tribunal, however, remained obliged to consider that effect because it was put forward by the ACCC as the s 95AZH(1) detriment upon which it relied. The reasoning at [220] was sufficient for the purposes of disposing of CrownBet’s case but not for the purposes of disposing of the ACCC’s. Indeed, one available view is that at [220] the Tribunal embarked upon a process of reasoning which had the unfortunate side effect of causing it to overlook the ACCC’s case on detriment. Accordingly, it does not seem to us that the Tribunal dealt with the ACCC’s more confined case on detriment.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "There is little doubt, in light of the principles discussed above, that the competitive effect advanced by the ACCC was a detriment within the scope of s 95AZH(1) and thus a mandatory relevant consideration that had to be considered. If the Tribunal failed to take account of this matter then, at least prima facie, its decision must be set aside. We say prima facie because it remains to consider a number of other responses to this problem advanced by Tabcorp and Tatts.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "The final assessment by the Tribunal of the benefit to the public was that it thought that the merger gave rise to a number of benefits including increased competition in the wagering services market together with financial benefits to the racing industry. It rejected the existence of the detriment put forward by CrownBet. Taking that altogether, it then concluded that the public benefits resulting, or likely to result, from the merger were sufficient to warrant the grant of the authorisation. It expressed itself this way at [539]-[542]:\n‘539 The benefits to the public which the Tribunal has found to exist, and which it has taken into account, are substantial. There are no material detriments weighed in the balance which are of significance or likely to arise that outweigh the benefits.\n540 The proposed merger is consistent with the trend towards industry consolidation, with the Merged Entity reaching a sufficient scale to compete. The creation of the Merged Entity will lead to greater competition particularly in online wagering. This increased competition brings about competition benefits to the racing industry and to consumers, and the net effect of the proposed merger will likely be positive.\n541 Consequently, the Tribunal is satisfied that the proposed merger should be authorised and it is hereby granted under s 95AT of the Act.\n542 As the Tribunal is satisfied that the proposed merger is likely to result in substantial public benefits and that the public detriments identified by the ACCC and the interveners are unlikely to either arise or are not of significance, the Tribunal is satisfied in all the circumstances that the proposed merger would result, or would be likely to result, in such a benefit to the public that the acquisition should be allowed to occur.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "We do not think that these paragraphs involve additional findings by the Tribunal which do not otherwise appear in its reasons. They are conclusory in nature. If [219]-[220] do not identify the detriments relied upon by the ACCC, we do not think these paragraphs are sufficient to justify a contrary conclusion. And this is so, even allowing for the kind of margin of appreciation permitted to decision-makers such as the Tribunal: see Collector of Customs v Pozzolanic Enterprises Pty Ltd [1993] FCA 322; (1993) 43 FCR 280 at 287 [22]",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "It is not possible to say that if the Tribunal had concluded that the narrower detriment to which the ACCC pointed to in fact existed that this balancing exercise would necessarily have concluded the same way that it did. Consequently, it is not possible to say that the failure to take into account the detriment put forward by the ACCC was immaterial to the outcome: cf. Peko-Wallsend Ltd at 40 per Mason J. Unless some other reason appears, the decision should be set aside.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Against that outcome Tabcorp and Tatts raised a number of contentions. First, Tatts submitted that the ACCC had in fact conducted the same case as CrownBet. But this argument was met by a forceful written submission from the ACCC denying that it had ever relied upon a substantial lessening of competition in the wagering services market for the purposes of s 95AZH(1). By the time of the hearing in this Court, Tatts had largely retreated from its initial position in light of that submission, which it did not contradict. In its summary of argument handed up at the commencement of its counsel’s address, Tatts now only said this:\n‘…The ACCC’s submission before the Tribunal while not described in terms as “a substantial lessening of competition” (ACCC reply paragraph 14), urged the same thing “a substantial competitive detriment”. The ACCC did not say that it disagreed with the CrownBet case. It supported CrownBet’s case that authorisation should not be granted (ACCC closing submissions paragraph 8; CB3/2260). The Tribunal could be pardoned for thinking that the ACCC adopted the CrownBet case; see Mr McClelland QC at T 1445/13; CB;7/5533.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "It is not correct, however, to say that the ACCC’s urging of a ‘substantial competitive detriment’ was the same thing as the advancing of a case based on a substantial lessening of competition. As explained above at [8], the decisions in the Tribunal – QCMA and its sequelae – obliged it only to consider detriments which were not ephemeral, or subject to the caveats above, which were not substantive. The submission made by the ACCC was, therefore, an entirely orthodox one. It would be a strained parsing of the ACCC’s submissions to read them as pursuing an argument that there would be a substantial lessening of competition in the wagering services market, especially when it expressly conceded there would be no such effect in the wagering services market. The ACCC did not advance such a case.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "The other matter Tatts pointed to was paragraph 8 of the ACCC’s closing submissions in the Tribunal and T-1445/13 in Mr McClelland QC’s closing remarks to the Tribunal. Neither is persuasive. The former says only this:\n‘In these circumstances, where there is a real chance of competitive detriment and very limited benefits established by the evidence, the ACCC submits that the Tribunal should not be satisfied that the proposed acquisition is likely to result in such benefit to the public that it should be allowed to occur.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "The latter this:\n‘Now, having made those overarching comments about the scope of the issues that are before the tribunal, could I turn now to a number of discrete topics, starting with the issue of public benefits, and the members of the tribunal have heard at length from Mr Young about detriments, but the issue of public benefits, in my submission, does bear some emphasis.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "We do not agree that either of these demonstrates that the ACCC supported CrownBet’s case. Consequently, we cannot accept the submission, if it was truly advanced, that the ACCC had somehow made CrownBet’s case its own. It did not.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Turning then to Tatts’ second substantive point, it was submitted that the Tribunal had, in fact, considered the detriment relied upon by the ACCC at [219] (set out above at [37]). We do not think [219] can be made to bear that burden. First, the Tribunal said at [220] that it was not going to examine the alleged detriment which would be an odd thing to do if it had been considered in the immediately preceding paragraph. Secondly, [219] includes the statement ‘…it becomes difficult to describe any lessening of competition arising from restrictions on a segment of that market as “substantial”’. This is much more likely to be responsive to CrownBet’s argument that the competitive degradation of the segment would substantially lessen competition in the wagering services market. The reality is that the whole section of the Tribunal’s reasons dealing with the competitive consequences appears to have been drafted with an eye on CrownBet’s case. The ACCC’s case seems to have slipped through the cracks.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Tabcorp also developed several arguments in relation to this aspect of the matter. First, it was said that the Tribunal had correctly articulated the test which was appropriate to s 95AZH. This is true. Those principles were not subject to dispute in the Tribunal (or in this Court) and the Tribunal set them out at [59]-[67] of its reasons in terms which are not controversial. Secondly, Tabcorp submitted that those principles had been correctly applied by the Tribunal. Tabcorp’s written submission focussed on the point, already made above, that the Tribunal weighed the identified benefits against a set of detriments which it had found not to exist. But we do not think this observation assists. The point is not so much that the test was misapplied to a detriment which had been identified. Rather, it is that an identified detriment had not been considered at all.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "Thirdly, Tabcorp submitted that the reference to ‘substantially’ in, inter alia, [220] had to be read as being a reference to the way ‘substantial’ is used in discourse concerned with s 95AZH(1), that is, as being a reference to a benefit (or detriment) which is of substance rather than minor, trivial or ephemeral. We do not accept Tabcorp’s submission about this. Once one arrives at an understanding of what CrownBet’s case was, it becomes reasonably clear what [220] means. We do not read it as a reference to the ACCC’s case.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)",
+     "(c) The Tribunal’s Reasoning"
+    ],
+    "text": "It follows that the argument that the Tribunal failed to take into account the detriment in the segment which it had put forward should be accepted. Paragraph [220] was effective to take into account and dismiss the detriment advanced by CrownBet but it failed to dispose of the detriment advanced by the ACCC. Understood that way, [220] contains no departure from established principle, for the reasons we have already given, but merely betrays an overlooking of a subtly different case. Consequently, the ACCC is entitled to an order that the Tribunal’s decision be set aside ab initio pursuant to s 16(1)(a) of the ADJR Act and under s 39B of the Judiciary Act 1903 (Cth). The ADJR Act reviewable errors relied upon by the ACCC were those set out in ss 5(1)(c), 5(1)(d), 5(1)(f) and s 5(1)(j). Whilst a failure to take account of a relevant consideration falls implicitly within s 5(1)(e) and explicitly within s 5(2)(b), we accept that the grounds overlap and that it may also be put in this case on the basis of ss 5(1)(c), 5(1)(d) and 5(1)(j). One way of characterising the legal error is that the Tribunal failed to carry out its task and made a jurisdictional error by omitting to deal with a central issue raised by the ACCC in Tabcorp’s application to the Tribunal: see the decisions of the Full Court in relation to a question of law under s 44 of the Administrative Appeals Tribunal Act 1975 (Cth) in Chief Executive Officer of Customs v AMI Toyota Ltd [2000] FCA 1343; (2000) 102 FCR 578 at 592 [45] and Industry Research and Development Board v Bridgestone Australia Ltd [2004] FCAFC 56; (2004) 136 FCR 47 at 58 [26]. It follows that, in terms of the ADJR Act, the Tribunal did not have jurisdiction to make the decision, the decision was not authorized by the Act or the decision was otherwise contrary to law.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "The language of s 95AZH(1) of the Act requires the benefit to the public to result from, or be likely to result from, the proposed acquisition. Those words import a requirement of causation or probable causation. And, because an assessment of benefits requires as a necessary corollary an assessment of detriments, it likewise follows that detriments are subject to the same causation requirement.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "The language of s 95AZH(1) is ‘would result, or be likely to result, in’. Nevertheless, the Tribunal has frequently found it useful to address this issue of causation by asking itself what the position would be ‘with or without’ the merger. In effect, this is the application of a but-for test for causation well-known in other areas of the law. This approach is not forbidden to the Tribunal and, indeed, it may be accepted that in most cases it will be a useful way for it to proceed. It is not, however, ultimately a substitute for the words of s 95AZH(1).",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "There can be occasions when a but-for test of causation will be demonstrably inadequate. Often this will occur where a detriment or benefit is one for which there may be two or more sufficient causes. In such cases, the application of the ‘with or without’ approach will lead to the erroneous conclusion that the benefit or detriment in question resulted from neither of the sufficient causes. In the tort field, the classical example is that of a house burned down by two separately started fires. The house would have burned down ‘without’ the first fire and equally also ‘without’ the second. Yet it would not be correct to say that the burning down of the house did not result from either fire. This example has no particular relevance to the present case but it does serve to emphasise the need to ensure that understandings of what s 95AZH(1) requires are not permitted to eclipse the text of the provision itself.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "The ACCC and CrownBet submitted that the Tribunal had failed to conduct a ‘with or without’ analysis. Brought back to the language of s 95AZH(1), this is really a submission that the Tribunal failed to consider whether the merger ‘would result or be likely to result’ in a benefit to the public (including relevant detriments too). However, at least so far as the issues in the wagering services market are concerned, we do not see how this issue arises. The Tribunal found that the detriment that CrownBet had sought to establish did not exist. There was little to be served in assessing whether this non-existent detriment could result, or be likely to result, from the merger. And, in relation to the various benefits put forward by Tabcorp, it seems clear that the Tribunal did ask whether these resulted from the merger or would have arisen anyway. So, for example, the Tribunal considered at [445]-[453] of its reasons whether the benefits alleged to flow from the merger actually would result from it or would have arisen anyway (under the heading ‘Merger Specificity: the future with and without’).",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "It is true, therefore, that the Tribunal undertook no consideration in relation to the wagering services market on whether the detriment identified by CrownBet would result, or would be likely to result, from the merger. But it did not need to do so, and it would have been meaningless to do so, in relation to a detriment which it had concluded did not exist.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "The conclusion we draw above is that the Tribunal has, thus far, overlooked considering the ACCC’s suggested detriment. Until such time as it considers that detriment and decides that it exists, the question of whether it can be said that it would, or would be likely to, result from the merger does not yet arise. Accordingly, neither does this error.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)"
+    ],
+    "text": "We reject Ground 2.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "The Tribunal concluded that as a result of the merger there would be certain costs savings and revenue synergies. It identified those which Tabcorp had claimed at [428] of its reasons. There is no need to set them out as they are commercially sensitive but it will suffice to say they were quite large. At the same paragraph, the Tribunal accepted that a portion of the savings would be passed through to government in the form of taxation and also the bodies administering the racing industry in the form of increased fees (paid, in effect, for the provision of the spectacle of the racing events).",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "The ACCC submitted in this Court that whilst the Tribunal did accept at [509] of its reasons that the savings retained by Tabcorp on the one hand, and those passed through to the racing industry, on the other, might have to be differently weighted for the purposes of assessing the public benefit, it did not ever conduct such a weighing exercise.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "In this regard, it was said that the Tribunal had failed to apply what has come to be referred to as the ‘modified total welfare standard’ seemingly established by the Tribunal in Re Qantas Airways Ltd [2004] ACompT 9 (Qantas’) at [185]. It was in these terms:\n‘185 In our view, the objective and statutory language of the Act, as well as precedent, support the use of a form of the total welfare standard as the most appropriate standard for identifying and assessing public benefit. We say a \"form of\" the total welfare standard because, as the passage cited from Re Howard Smith shows, whilst the Tribunal does not require that efficiencies generated by a merger or set of arrangements necessarily be passed on to consumers, it may be that, in some circumstances, gains that flow through only to a limited number of members in the community will carry less weight.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "The ACCC submitted that this meant that the Tribunal was required:\n(i) to assess the extent to which any costs savings or other benefits resulting from the merger were likely to be passed through to consumers; and\n(ii) in the case of benefits which flowed through to a limited number of members in the community, to assign these less weight.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "The ACCC went on to submit that the Tribunal had failed to assess how widely the identified benefits were to be shared, or the weight to be attributed to them, or whether those benefits might be considered valuable by society.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "We would reject this submission. What the Tribunal is required to do is to assess the benefit to the public resulting, or likely to result from the merger, and to do so in ‘all the circumstances’. Having done that it is to decide whether that benefit warrants the grant of the authorisation. That is the statutory charter it has. Whilst certain matters may be inferred from the language of s 95AZH(1) as we have outlined above, it is nevertheless a broadly expressed provision. It is a legitimate way for the Tribunal to proceed in assessing the benefit to the public resulting from a merger to adopt the modified total welfare standard identified in Qantas. But the tail must not wag the dog, and it is not that standard that s 95AZH imposes. Consequently, the reasons of the Tribunal are to be measured for their legal efficacy against only the text of s 95AZH(1) and what can be reasonably implied from it, not the test identified in Qantas. We mention this because it is plain enough that the Tribunal did ask itself the question in s 95AZH(1) at [540].",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)"
+    ],
+    "text": "In any event, we are sceptical of the ACCC’s submission, even on the favourable assumption that s 95AZH(1) does carry within it the modified total welfare standard, that it would require the Tribunal to give explicit weightings. Apart from showing how far the ACCC’s submission has wandered from the text of s 95AZH(1), the submission ignores the reality that much administrative decision making involves the weighing of imponderables or incommensurables. It would be unworkable to require the Tribunal explicitly to give a weight to each benefit and we would strain to avoid such a construction were it necessary. It is not, however, necessary so to strain. Section 95AZH(1) does not require what the ACCC suggests. The assessment of benefits and detriments must be complete and the Tribunal must, no doubt, weigh them. This is not necessarily, however, an arithmetical or accounting process. As we have said above, it may involve an instinctive synthesis of otherwise incommensurable factors. We reject the ACCC’s and CrownBet’s argument.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)"
+    ],
+    "text": "CrownBet’s application for judicial review raised a rationality challenge having two limbs. First, it was said that the Tribunal’s decision to grant an authorisation was so unreasonable that no reasonable person could have exercised the power in s 95AT of the Act in that way. So expressed, this was a challenge to the exercise of a discretionary power on the basis usually linked with the English Court of Appeal’s decision in Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223. CrownBet identified its right to relief as resting upon ss 5(1)(e) and 5(2)(g) of the ADJR Act. These are available where a decision involves an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made (5(1)(e)) or is a decision which is so unreasonable that no reasonable person could so have exercised the power (5(2)(g)).",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)"
+    ],
+    "text": "The second limb was that the decision involved the formation by the Tribunal of a state of satisfaction which was a jurisdictional fact for the exercise by it of its powers. As such it could be reviewed if it could be shown that the formation of the state of satisfaction was irrational, illogical or not based on findings or inferences of fact supported by logical grounds. In its written submissions, CrownBet clarified at [57] that its rationality challenge was that:\n(i) the decision the Tribunal had made was unreasonable in the sense discussed in Minister for Immigration and Citizenship v Li [2013] HCA 18; (2013) 249 CLR 332 (‘Li’) at 348-350 [23]-[26], 351 [29], 362 [63], 367 [76] and 370 [88]; and\n(ii) the decision of the Tribunal was based on findings or inferences of fact not supported by logical grounds and was thus illogical and irrational citing again, inter alia, Li at 365-366 [72].",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)"
+    ],
+    "text": "It is tolerably clear that the ‘decision’ the subject of the challenge in (ii) is not the substantive decision under s 95AT but instead the formation of the state of satisfaction referred to in s 95AZH(1) (CrownBet’s submissions did not observe the difference with complete clarity). The state of satisfaction referred to in s 95AZH(1) is a jurisdictional fact. As such the relevant principle is set out at Li at [72]:\n‘72 The more specific errors in decision-making, to which the courts often refer, may also be seen as encompassed by unreasonableness. This may be consistent with the observations of Lord Greene MR, that some decisions may be considered unreasonable in more than one sense and that \"all these things run into one another”. Further, in Minister for Aboriginal Affairs v Peko-Wallsend Ltd, Mason J considered that the preferred ground for setting aside an administrative decision which has failed to give adequate weight to a relevant factor of great importance, or has given excessive weight to an irrelevant factor of no importance, is that the decision is \"manifestly unreasonable\". Whether a decision-maker be regarded, by reference to the scope and purpose of the statute, as having committed a particular error in reasoning, given disproportionate weight to some factor or reasoned illogically or irrationally, the final conclusion will in each case be that the decision-maker has been unreasonable in a legal sense.’\n(Footnotes omitted)",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)"
+    ],
+    "text": "The more difficult question of whether Li applies outside cases involving the formation of opinions which are jurisdictional facts does not therefore arise. Ultimately, there was no dispute as to the relevant principles to be applied. In its submission in reply, CrownBet accepted that ‘in order to succeed under Ground 4, it must demonstrate that the decision by the Tribunal was not supported by logical findings and rational inferences’.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)"
+    ],
+    "text": "CrownBet advanced seven arguments about irrationality.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(a) Factual and Counterfactual"
+    ],
+    "text": "CrownBet submitted that it was unreasonable for the Tribunal to reach a conclusion that there would not be a substantial lessening of competition in the wagering services market without comparing the factual scenario with the counterfactual.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(a) Factual and Counterfactual"
+    ],
+    "text": "We do not agree. The Tribunal reasoned that the merger entities faced competition from all of the other participants in the market (at [225]). It had already concluded at [202] that in a perfect market a SSNIP in pari-mutuel wagering would result in supply side substitution and it reached a similar conclusion at [196] in relation to demand side substitution. It was far from irrational for the Tribunal to conclude in that circumstance that the merger would not lessen competition in the wagering services market. Nor do we accept that the irrationality argument receives any support from the suggestion that the Tribunal had not examined the factual and counterfactual scenarios. The actual question was whether the detriment nominated by CrownBet – substantial lessening of competition in the wagering services market – would result or be likely to result from the merger. It answered that question at [230] ‘no’. No irrationality is demonstrated in that conclusion.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(b) Merger necessary to enable Tabcorp and Tatts to compete"
+    ],
+    "text": "The actual submission was that it was irrational for the Tribunal to find at [102] and [540] that the merger was necessary for the merger parties to compete effectively in the market. Paragraphs [102] and [540] were as follows:\n‘102 It is useful for the Tribunal to indicate at the outset that the retail wagering model that has operated in Australia on a State and Territory basis is under threat as customer preferences move online and away from traditional pari-mutuel products to fixed-odds wagering. The question is not simply to determine whether as corporate entities Tabcorp and Tatts are businesses in decline. With the corporate bookmakers now on the competitive scene, the merger will enable Tabcorp and Tatts to compete effectively. The Tribunal will be returning in detail to these matters.\n…\n540 The proposed merger is consistent with the trend towards industry consolidation, with the Merged Entity reaching a sufficient scale to compete. The creation of the Merged Entity will lead to greater competition particularly in online wagering. This increased competition brings about competition benefits to the racing industry and to consumers, and the net effect of the proposed merger will likely be positive.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(b) Merger necessary to enable Tabcorp and Tatts to compete"
+    ],
+    "text": "It was submitted that the evidence showed that Tabcorp and Tatts were the largest operators in the market and controlled a substantive amount of the turnover in that market. Thus it was said that one could not rationally conclude that the merger was competition enhancing. If that were all the Tribunal had said, or had before it, one might consider such a submission of merit. But there was also material before the Tribunal which suggested that the market share for totalisator products had shrunk and was expected to continue to shrink and there was other material suggesting that there was a trend towards consolidation. CrownBet’s submission ignores this material and the Tribunal’s treatment of it. In light of that, there is no basis upon which this Court could conclude that the Tribunal’s conclusion was irrational in the requisite sense.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(c) Future viability of Tatts"
+    ],
+    "text": "At [266] the Tribunal said:\n‘266 Nevertheless, there are doubts as to the future viability of Tatts if the merger does not proceed. The Tribunal considers elsewhere in some detail the potential position of Tatts if the merger does not proceed, but makes the following observations in relation to bidding.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(c) Future viability of Tatts"
+    ],
+    "text": "CrownBet submitted that this was an irrational conclusion. This point goes nowhere. At [447] the Tribunal expressly proceeded on the basis that without the merger, Tatts would continue to exist.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(d) Greater Competition"
+    ],
+    "text": "CrownBet attacked the Tribunal’s conclusion that the merger would lead to increased competition at [540] on the basis that Tabcorp and Tatts were the largest entities in the market. But again this submission ignores the Tribunal’s consideration of the trend towards consolidation, the threat posed by large overseas operators and the diminishing role of totalisator products. There is no basis for an irrationality argument in light of this material.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(e) Restraint by tote derivative products"
+    ],
+    "text": "CrownBet submitted that because tote derivative products offered the same price as a totalisator (or sometimes more) this meant that their price went up and down with totalisator prices. Since they moved in parallel they could not be seen as imposing a restraint on the market. This does not strike us as necessarily self-evident at all. If the tote derivative product is expressed to be the price on the totalisator plus 5% then punters may be drawn to the ‘cheaper’ product. The fact that it may follow the totalisator price up and down does not necessarily entail that it does not draw consumers away from the totalisator product. In any event, whatever one thinks of this is very far away from a rationality challenge, particularly by a Court, of a Tribunal including an economist amongst its members.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(f) Revenue increases"
+    ],
+    "text": "At [477]-[478] the Tribunal said this:\n‘477 Although bookmakers’ risk management means some punters lose the opportunity to place bets at what they perceive to be favourable odds, the lost consumer surplus on those wagers does not constitute a public detriment if the wager would have required the bookmaker to accept the bet at a price – that is, at odds – below the marginal cost of the transaction.\n478 The revenue gains claimed to arise from the merger need to be viewed in this context. Improvements in risk management should be considered as contributing costs savings because they lower a bookmaker’s marginal cost of accepting additional wagers.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(f) Revenue increases"
+    ],
+    "text": "From this it would appear that the Tribunal thought that improvements to risk management in the fixed-odds business was to be regarded as a cost saving. And at [479] it thought that such a saving could be a public benefit associated with improved efficiency. We have experienced some difficulty in distilling CrownBet’s submission about this into a readily comprehensible form. It is best therefore to let it speak for itself:\n‘49. The Tribunal’s reason for concluding that an increase in fixed odds yield constituted a public benefit was that it would allow the merged entity to avoid accepting bets at a price (or odds) “below the marginal cost of the transaction” and, as a result, it should be considered as contributing to “cost savings”. That was erroneous because:\n(a) an increase in yield was not (according to any evidence or submission) a cost saving. The evidence was that yield is the proportion of turnover that fixed odds bookmakers retain as revenue. Thus Tabcorp contended that increasing the yield from Tatts’ fixed odds book would increase the merged entity’s revenue, not decrease its costs; and\n(b) a “marginal cost” analysis is inapposite to the economics of individual wagers. If payments that wagering operators make to consumers with winning bets were to be considered as part of “marginal cost”, as the Tribunal appears to have reasoned, then every fixed odds wager that leaves a consumer with net winning would be “below the marginal cost of the transaction” for the wagering operator. That would lead to the absurd outcome that a public benefit results from consumers being deprived net winnings from fixed odds wagers.\n(footnotes omitted)",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(f) Revenue increases"
+    ],
+    "text": "Whatever this means, it is certainly not an argument pitched with a weather eye on Li. Rather, it is simply an argument that the Tribunal reached a conclusion with which CrownBet disagrees. In any event, the submission – qua submission – lacks the kind of persuasive detail which would be necessary for the Court to assess it. For example, it is difficult for this Court do much with a statement such as ‘a “marginal cost” analysis is inapposite to the economics of individual wagers.’",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(g) Less Investment by Tatts in Fixed-Odds Risk Management"
+    ],
+    "text": "CrownBet’s submission identified this finding by the Tribunal as irrational and presented this argument:\n‘(g) the finding that Tatts would invest less than Tabcorp in its fixed odds risk management system because Tatts’ wagering division generates less revenue and EBIT that Tabcorp’s. That was irrational and illogical because Tatts is a far larger business that Tabcorp, with significantly greater revenue and EBIT overall, and there was no evidence (or even submission) that Tatts would be unable to fund any investment that it wished to make if the merger did not proceed. On the contrary, the evidence was that Tatts had been investing heavily in its wagering business and planned to continue to do so. By contrast, there was no evidence that Tabcorp planned any further investment in its fixed odds risk management systems.’\n(footnotes omitted)",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(g) Less Investment by Tatts in Fixed-Odds Risk Management"
+    ],
+    "text": "The complaint here seems to be that it was irrational to think that investment by Tatts in its wagering services business might be funded only by the EBIT arising from that business. We can see that it might be possible to fund investment in one part of a business from another. However, we cannot say that the Tribunal was acting irrationally in not reasoning that way.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "5. Irrationality (CrownBet Ground Four)",
+     "(g) Less Investment by Tatts in Fixed-Odds Risk Management"
+    ],
+    "text": "We would dismiss Ground Four.",
+    "judge": "THE COURT"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "6. Conclusions"
+    ],
+    "text": "The ACCC is entitled to succeed but only on its first ground. There should be an order that the Tribunal’s decision be set aside and the matter referred back to it for further consideration in such manner as it deems fit. Whether or not there needs to be a further hearing will be for the Tribunal. Tabcorp and Tatts must pay the ACCC’s costs. Insofar as CrownBet is concerned, the situation is less clear. The parties should confer to determine whether a similar substantive order is to be made on its application as will be made in the ACCC’s case. In the event that agreement on that issue cannot be reached, the Court will reconvene by video-conference on Friday afternoon at 4.30 pm to resolve the issue. Insofar as costs are concerned, CrownBet is to file and serve its submissions on this issue limited to three pages within five business days of Friday 22 September 2017 with Tabcorp and Tatts responding in a similar manner within a further five business days. There should be interim orders in both matters to allow the parties to determine whether any part or parts of the Court’s reasons need to be redacted on the basis of a claim that they reveal information which is commercial in confidence.",
+    "judge": "THE COURT"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eighty-eight (88) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justices Besanko, Perram & Robertson.",
+ "associate": null,
+ "dated": "2017-09-20",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Australian Competition Tribunal [2017] FCAFC 150\n\n## Cover sheet\n\n**File numbers:** VID 751 of 2017  \nVID 762 of 2017\n\n**Judges:** BESANKO, PERRAM & ROBERTSON JJ\n\n**Date of judgment:** 20 September 2017\n\n**Catchwords:** COMPETITION – merger clearances and authorisations – authorisation granted by Australian Competition Tribunal for merger – Tribunal satisfied that proposed acquisition would result, or be likely to result, in such a benefit to public that acquisition should be allowed to occur – proper construction of s 95AZH of Competition and Consumer Act 2010 (Cth) – consideration of relationship between test in s 95AZH and concept of ‘substantial lessening of competition’ in s 50  \nADMINISTRATIVE LAW – whether Tribunal misconstrued and misapplied s 95AZH by importing test from s 50 – whether failure to take into account relevant considerations – whether Tribunal erred in law by failing to deal with a central issue raised by party to application – whether Tribunal required to compare likely future state of competition with and without proposed acquisition – whether Tribunal required to assign lesser weight to benefits flowing from proposed acquisition not likely to be widely shared – whether Tribunal made irrational and illogical findings\n\n**Legislation:** Constitution s 92  \nAdministrative Appeals Tribunal Act 1975 (Cth) s 44  \nAdministrative Decisions (Judicial Review) Act 1977 (Cth) ss 5(1)(c), 5(1)(d), 5(1)(e), 5(1)(f), 5(1)(j), 5(2)(b), 5(2)(g), 16(1)(a)  \nCompetition and Consumer Act 2010 (Cth) ss 50, 95AT, 95AT(2), 95AZH, 95AZH(1)  \nJudiciary Act 1903 (Cth) s 39B\n\n**Cases cited:** Application by Sea Swift Pty Ltd [2016] ACompT 9  \nApplication by Tabcorp Holdings Ltd [2017] ACompT 1  \nAssociated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223  \nBetfair Pty Ltd v Western Australia [2008] HCA 11; (2008) 234 CLR 418  \nChief Executive Officer of Customs v AMI Toyota Ltd [2000] FCA 1343; (2000) 102 FCR 578  \nCollector of Customs v Pozzolanic Enterprises Pty Ltd [1993] FCA 322; (1993) 43 FCR 280  \nIndustry Research and Development Board v Bridgestone Australia Ltd [2004] FCAFC 56; (2004) 136 FCR 47  \nMinister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40; (1986) 162 CLR 24  \nMinister for Immigration and Citizenship v Li [2013] HCA 18; (2013) 249 CLR 332  \nRe Qantas Airways Ltd [2004] ACompT 9  \nRe QIW Ltd (1995) 132 ALR 225  \nRe Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481  \nRe Rural Traders Co-operative (WA) Ltd (1979) 37 FLR 244  \nWong v The Queen [2001] HCA 64; (2001) 207 CLR 584  \nBurchfield RW, Fowler’s Modern English Usage (Revised 3rd ed, Oxford University Press, 1998)\n\n**Date of hearing:** 28-29 August 2017\n\n**Registry:** Victoria\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 88\n\n**Counsel for the Applicant:** Mr A McClelland QC with Ms P Thiagarajan\n\n**Solicitor for the Applicant:** DLA Piper Australia\n\n**Counsel for the Second Respondent:** Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim\n\n**Solicitor for the Second Respondent:** Herbert Smith Freehills\n\n**Counsel for the Third Respondent:** Mr R Smith SC with Mr G Ng and Mr D Hughes\n\n**Solicitor for the Third Respondent:** Clayton Utz\n\n**Counsel for the Applicant:** Mr B Walker SC with Mr M Borsky QC and Mr A Barraclough\n\n**Solicitor for the Applicant:** Minter Ellison\n\n**Counsel for the Second Respondent:** Mr C Moore SC with Mr N de Young, Mr A d’Arville and Mr B Lim\n\n**Solicitor for the Second Respondent:** Herbert Smith Freehills\n\n**Counsel for the Third Respondent:** Mr R Smith SC with Mr G Ng and Mr D Hughes\n\n**Solicitor for the Third Respondent:** Clayton Utz\n\n## Judgment\n\n### ORDERS\n\n|  | VID 751 of 2017 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | AUSTRALIAN COMPETITION TRIBUNAL<br>First Respondent<br>TABCORP HOLDINGS LIMITED<br>Second Respondent<br>TATTS GROUP LIMITED<br>Third Respondent |\n\n| JUDGES: | BESANKO, PERRAM & ROBERTSON JJ |\n|---|---|\n| DATE OF ORDER: | 20 SePTEMBER 2017 |\n\n### THE COURT ORDERS THAT:\n\n1. The decision of the Tribunal made on 22 June 2017 be set aside.\n\n2. The matter be referred back to the Tribunal for further consideration in such manner as it deems fit.\n\n3. The Second and Third Respondents pay the Applicant’s costs as taxed or agreed.\n\n4. Until further order, the reasons of the Court be embargoed from release to the parties or the public.\n\n5. As soon as is reasonably practicable and, in any event, within five business days, the solicitors for the Applicant inform the Court, following consultation with the other legal representatives for the parties, whether any part of the reasons requires redaction so as not to disclose material which is commercial in confidence.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### ORDERS\n\n|  | VID 762 of 2017 |\n|---|---|\n| BETWEEN: | CROWNBET PTY LTD<br>Applicant |\n| AND: | AUSTRALIAN COMPETITION TRIBUNAL<br>First Respondent<br>TABCORP HOLDINGS LIMITED<br>Second Respondent<br>TATTS GROUP LIMITED<br>Third Respondent |\n\n| JUDGES: | BESANKO, PERRAM & ROBERTSON JJ |\n|---|---|\n| DATE OF ORDER: | 20 SePTEMBER 2017 |\n\n### THE COURT ORDERS THAT:\n\n1. The parties confer as soon as possible to see if agreement can be reached on the question of what substantive order should be made on the Applicant’s application.\n\n2. The matter be listed before the Full Court by video-conference at 4.30 pm on Friday 22 September 2017 to determine the substantive order to be made unless the parties notify the Court beforehand that agreement has been reached on that issue.\n\n3. The Applicant file and serve any written submissions on costs of no more than three pages by the end of Friday 29 September 2017.\n\n4. The Second and Third Respondents file and serve their written submissions on costs of no more than three pages by the end of Friday 6 October 2017.\n\n5. Until further order, the reasons of the Court be embargoed from release to the parties or the public.\n\n6. As soon as is reasonably practicable and, in any event, within five business days, the solicitors for the Applicant inform the Court, following consultation with the other legal representatives for the parties, whether any part of the reasons requires redaction so as not to disclose material which is commercial in confidence.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### THE COURT:\n\n#### 1. Introduction\n\n[1] Tabcorp Holdings Ltd (‘Tabcorp’) is a supplier of gaming and entertainment products whose shares are listed on the Australian Stock Exchange (‘ASX’). Tatts Group Ltd (‘Tatts’) is a provider of lotteries, wagering services as well as gaming products and services. It is also listed on the ASX. Tabcorp wishes to acquire the issued share capital in Tatts in return for a combination of cash and scrip. The acquisition is to occur by way of a scheme of arrangement. In effect, the acquisition is a merger which is how we will refer to it. The merger is valued at around $6 billion.\n\n[2] Section 50 of the Competition and Consumer Act 2010 (Cth) (‘the Act’) prohibits a corporation, such as Tabcorp, from acquiring shares in another body corporate, such as Tatts, if the acquisition would have the effect of substantially lessening competition in a market. There is perceived by Tabcorp to be some risk that the merger may infringe this prohibition. Section 95AT of the Act permits the Australian Competition Tribunal (‘the Tribunal’) to ‘authorise’ the merger and where this occurs, s 95AT(2) provides that s 50 does not prevent the acquisition from occurring. The power in s 95AT is, however, constrained by s 95AZH(1). Section 95AZH provides:\n\n> ‘95AZH When authorisation must not be granted\n\n> (1) The Tribunal must not grant an authorisation in relation to a proposed acquisition of shares or assets unless it is satisfied in all the circumstances that the proposed acquisition would result, or be likely to result, in such a benefit to the public that the acquisition should be allowed to occur.\n\n> (2) In determining what amounts to a benefit to the public for the purposes of subsection (1):\n\n> (a) the Tribunal must regard the following as benefits to the public (in addition to any other benefits to the public that may exist apart from this paragraph):\n\n> (i) a significant increase in the real value of exports;\n\n> (ii) a significant substitution of domestic products for imported goods; and\n\n> (b) without limiting the matters that may be taken into account, the Tribunal must take into account all other relevant matters that relate to the international competitiveness of any Australian industry.\n\n> (3) To avoid doubt, an authorisation cannot be granted for an acquisition that has occurred.’\n\n[3] In this case, Tabcorp applied to the Tribunal for an authorisation under s 95AT which, on 22 June 2017, determined that it would grant it subject to certain conditions: Application by Tabcorp Holdings Ltd [2017] ACompT 1. The application was opposed by the Australian Competition and Consumer Commission (‘the ACCC’) and a number of intervening entities including CrownBet Pty Ltd (‘CrownBet’). The ACCC and CrownBet now apply under the Administrative Decisions (Judicial Review) Act 1977 (Cth) (‘the ADJR Act’) and under s 39B of the Judiciary Act 1903 (Cth) to this Court for judicial review on the basis of legal error in the Tribunal’s decision.\n\n#### 2. Substantial Lessening of Competition in a Market and its relationship with Competitive Detriment under s 95AZH(1) (ACCC Ground One, CrownBet Ground One)\n\n[4] The ACCC and CrownBet both contended that the Tribunal had erred by concluding that it did not need to assess a competitive detriment alleged by them to be likely to result from the merger because it was satisfied that the merger would not result in any substantial lessening of competition in the wagering services market. We explain below what this somewhat dense statement means. Its eventual resolution turns on the proper construction of s 95AZH(1) of the Act, an understanding of the parties’ arguments in the Tribunal and the Tribunal’s reasons. It is useful to consider those issues in that order.\n\n##### (a) Section 95AZH(1)\n\n[5] Dealing first with s 95AZH(1), it will be noted that it takes the form of a prohibition on the grant of an authorisation unless the Tribunal is satisfied of the matters with which it deals. By its express terms, the provision requires an examination of the public benefit resulting from, or likely to result from, the proposed acquisition. The Tribunal must therefore examine the benefits which are said to result (or be likely to result) and then assess whether they are ‘such’ that the authorisation should be granted. This makes it necessary, obviously enough, for the Tribunal to assess each suggested benefit. But because benefits may be offset by detriments it also requires all relevant detriments to be examined as well. Thus although detriments are not expressly referred to in the provision, they are, as a matter of necessary implication, mandatory relevant considerations of the kind discussed in Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40; (1986) 162 CLR 24 at 39-41 (‘Peko-Wallsend’). In assessing whether relevant detriments have been taken into account by the Tribunal, much will depend on the appropriate level of abstraction at which those detriments are cast.\n\n[6] The word ‘competition’ does not appear in s 95AZH(1). Nevertheless, given the nature of ss 95AT and 95AZH as a dispensation from s 50 – centrally concerned as it is with notions of competition – the benefits and detriments to be examined must include competitive benefits and detriments. The provision, however, is broader merely than this and also includes other benefits and detriments not necessarily related to competition. This flows from the ordinary meaning of the word ‘benefit’. The benefits and detriments which are to be examined depend on ‘all the circumstances’, a term which, at least in this case, certainly encompasses those which are put to the Tribunal by the parties before it.\n\n[7] Having examined the benefits and detriments resulting from, or likely to result from, the proposed acquisition, the Tribunal is then to determine whether the overall benefit is ‘such’ that the acquisition should be permitted. This requires a balancing exercise to determine the public benefit. The Tribunal has referred to this as a balance-sheet approach (Re Queensland Co-operative Milling Association Ltd (1976) 8 ALR 481 (‘QCMA’) at 512) and this is an informative metaphor. It may suggest, however, that the detriments are to be deducted from the benefits leaving only a net benefit. This is informative but may be likely to be a little unrealistic. Many of the benefits and detriments will be incommensurable and possibly unmeasurable as well. To take an example from this case: how does one weigh the improved efficiency of the wagering market against the perils of problem gambling? It seems to us that the benefits and detriments may more usefully be assayed by means of a process of ‘instinctive synthesis’ sometimes referred to in the law surrounding the formulation of criminal sentences where a similar problem is encountered: see Wong v The Queen [2001] HCA 64; (2001) 207 CLR 584 at 611 [74]-[75] per Gaudron, Gummow and Hayne JJ. This may be referred to as weighing, but to refer to balancing, or a balance-sheet approach, may suggest that the essential qualitative assessment has a greater degree of precision than the statutory subject-matter permits.\n\n[8] Next, it has been accepted in the Tribunal since at least Re Rural Traders Co-operative (WA) Ltd (1979) 37 FLR 244 at 262-263 that the benefit to the public must be of substance rather than ephemeral. Other words may be used too: non-trivial, not transitory or, using appropriate care, of substance or substantive. Care is required in the case of the words ‘of substance’ or ‘substantive’ lest they suggest some connection with the inquiry posed by s 50 (that is, whether there has been a substantial lessening of competition in a market). As we explain below, the focus of s 95AZH(1) is not upon that issue. The use of the words substantial or substantive to describe the benefits (or detriments) with which s 95AZH(1) is concerned is acceptable so long as it is understood, particularly in the context of competitive benefits and detriments, that what is involved is conceptually distinct from, and necessarily separate to, the notion of substantial lessening of competition in a market under s 50.\n\n[9] For ourselves, we would glean the need for a benefit to be non-ephemeral from the word ‘benefit’ itself. Parliament is unlikely to have intended the Tribunal to concern itself with trifles. CrownBet submitted that the restriction derived from the word ‘such’ which was being used as an intensifier (CrownBet instanced the sentence ‘he is such a nice man’) but we do not think this is correct as it ignores the word ‘that’. Fowler’s Modern English Usage (Revised 3rd ed) suggests at p 750 that ‘such a…that’ involves the words ‘such a’ operating as an adverb. (‘She was such a good teacher that everyone attended her classes’). It is not necessary to reach a concluded view on this issue. The result is the same.\n\n[10] Each of these propositions about s 95AZH (or its predecessor provisions) has been accepted in the Tribunal since at least QCMA at 510-512 and were most recently applied by it in Application by Sea Swift Pty Ltd [2016] ACompT 9 at [35]-[48]. Although s 95AZH(1) is not a straightforward provision to construe, each of these propositions above arises as a deduction from the word ‘benefit’.\n\n[11] There are two further points which should be made. First, it is to be emphasised that a mandatory consideration in the Tribunal’s assessment of an acquisition will include any non-trivial competitive detriment which will result, or is likely to result, from the acquisition whether it occurs on a market-wide basis or not. Secondly, as we have just said, the Tribunal is not centrally concerned in assessing whether there is a competitive detriment for the purposes of s 95AZH(1) with the different question posed by s 50 of whether the acquisition will, or will be likely to, result in a substantial lessening of competition in a market. The inquiry thrown up by s 95AZH is concerned with all benefits and detriments resulting from the acquisition including, no doubt, competitive ones. But so far as the competitive factors are concerned, the focus is much broader than it is under s 50; it is not limited only to detriment in a market nor, even where markets are concerned, with competitive lessenings to which s 50 might otherwise apply. This point has been made in the Tribunal before: see QCMA at 514 (‘…it hardly needs to be said that it is not for the Tribunal to reach some ultimate verdict of competitive effect in terms of s 50…’); see also Re QIW Ltd (1995) 132 ALR 225 at 235.\n\n[12] This is not to say that the issue of whether there is a substantial lessening of competition in a market is necessarily a legally irrelevant, that is prohibited, consideration in the performance of the Tribunal’s function. For example, a party may elect in an authorisation proceeding to prove that an acquisition will result in a detriment which that party alleges consists itself of a substantial lessening of competition in a market. In such a case, the Tribunal will need to assess that proposition, but this will be because of its obligation to deal with the case on detriment put before it, and not because of anything said in s 95AZH(1). Whilst accepting therefore that substantial lessening of competition in a market is not what s 95AZH(1) is centrally concerned with, we would reject the proposition advanced during the hearing by the ACCC in this case that it is an irrelevant consideration. Circumstances, including those concerned with how an application to the Tribunal is run, may make it relevant.\n\n##### (b) The Parties’ Arguments\n\n[13] The proceeding in the Tribunal involved a large and complex hearing conducted over 14 days, with several intervenors and opponents and with the assistance of 19 counsel including 7 senior counsel. The Tribunal received 79 statements from lay witnesses, many of whom were examined; and it took evidence from 7 economists in a variety of concurrent sessions. The hearing record alone is 1,482 pages in length. The scope of debate was broad and was conducted across multiple fronts with evident vigour. The issues presented for resolution in this Court involve but one small element in that much larger case. Whilst it is necessary that these reasons should explain the issues which arise with as much clarity as the subject matter permits, it should not be thought that what may now appear relatively straightforward would have appeared obvious under the weight of material generated by the proceeding and the time pressures imposed by the Act. With that in mind, the issues about the wagering services market unfolded in the Tribunal as follows:\n\n[14] Tabcorp and Tatts operate a number of different businesses but relevantly both provide wagering services. The Tribunal was obliged to assess the competitive consequences of the merger on all aspects of these various businesses including, significantly, those relating to these wagering services. Indeed, in this Court, it is largely only wagering services that remain in issue.\n\n[15] It was accepted by all parties before the Tribunal that Tabcorp and Tatts are participants in a single national market for the provision of wagering services. In traditional economic analysis this implies that the various products or services provided within the market are strongly substitutable on the demand side and that there is also supply side substitution.\n\n[16] Within the wagering services market a number of different products are available. One type of wager involves placing a bet at fixed odds on the occurrence (or not) of some future contingency. This gives rise to a wager known as a fixed-odds wager. The punter in such a transaction knows in advance how much money they will receive in the event that the contingency is fulfilled.\n\n[17] In the wagering services market, fixed-odds wagering is offered by all of the industry participants in one form or another. Such a bet may, for example, be placed online with what is known as a ‘corporate bookmaker’. Such a bookmaker offers wagering services online or via telephone. CrownBet is one such example. In Australia, most corporate bookmakers operate from the Northern Territory.\n\n[18] The corporate bookmakers primarily make their revenue from fixed-odds wagering by setting their odds at such a level that the amount to be paid to the persons who ultimately win is less than the amount received from those who ultimately lose, regardless of the outcome. The corporate bookmakers do not have retail outlets as State and Territory laws prohibit the conduct of such a business from physical premises (except in the case of a single incumbent local franchisee). That does not, however, prevent them from offering their services online from interstate by reason of s 92 of the Constitution: Betfair Pty Ltd v Western Australia [2008] HCA 11; (2008) 234 CLR 418.\n\n[19] Fixed-odds wagering is also made available on betting exchanges, the only one of which at the moment is that conducted by Betfair Pty Ltd (‘Betfair’, a related party to CrownBet). On a betting exchange, punters bet with each other, one offering to back and one to lay each outcome. In that scenario, the exchange operator takes a commission out of the winnings of the successful punter.\n\n[20] Tabcorp and Tatts also offer fixed-odds wagering. As with the corporate bookmakers and Betfair’s betting exchange, the product is offered by Tabcorp and Tatts online. However, Tabcorp and Tatts also control the exclusive franchise in each State and Territory to conduct a retail wagering business (except in Western Australia). Tabcorp controls the franchises in New South Wales, the Australian Capital Territory and Victoria whilst Tatts controls the franchises in Queensland, the Northern Territory, South Australia and Tasmania. Tabcorp and Tatts are able to offer what the corporate bookmakers and betting exchanges cannot, namely, fixed-odds wagering from retail premises. The retail premises in question include High Street betting shops and also areas situated within other business premises such as those which are licensed to serve intoxicating liquors.\n\n[21] Another kind of wagering product is known as totalisator wagering or pari-mutuel wagering. A totalisator is a system, originally mechanical, whereby punters place a bet on a contingency (often in this context, the outcome of a horse, harness or greyhound race). The odds are not set at the time of the wager. All of the bets are pooled and after the race is run and the winner and place getters determined, the operator deducts a fixed amount from the pool and distributes the balance amongst the winning punters. The amount taken from the pool is known as the takeout and is a risk-free form of revenue for the operator. A necessary feature of totalisator wagering is that the odds (or price as it is sometimes called) are not known until the race is complete.\n\n[22] Totalisator wagering services are subject to State-based monopoly franchises which are attached to the franchises associated with the operation of wagering services from retail premises. Consequently, totalisator wagering services are not offered by the corporate bookmakers. They are also not offered on betting exchanges where the concept makes no sense. Other than in Western Australia, the only totalisator wagering services are offered by, or by entities controlled by, Tabcorp and Tatts. In New South Wales, the Australian Capital Territory and Victoria it is Tabcorp; everywhere else except Western Australia it is Tatts.\n\n[23] It was not in dispute between the parties that in relation to the totalisator wagering services offered by Tabcorp and Tatts at their retail premises, they did not compete with each other. This was for simple considerations of geography. A person trying to place a bet with Tabcorp’s Victorian totalisator at one of its retail outlets in Melbourne could hardly choose to travel to Adelaide to place the bet with Tatts instead.\n\n[24] More controversy attended the online channel. Here the ACCC and CrownBet submitted, and the Tribunal found at [22] of its reasons, that Tabcorp and Tatts did compete with each other. It was said that a person who was dissatisfied with the performance of, say, the Tatts totalisator in Queensland could migrate online to place the bet with Tabcorp’s totalisator in Sydney.\n\n[25] It is this narrow segment of the wagering services market with which the present dispute is concerned, that is, the segment involving competition between Tatts and Tabcorp in the online channel. It involves competition between them in fixed-odds wagering where both directly compete with the corporate bookmakers in the provision of the same product. Perhaps importantly, it also involves competition between them in relation to totalisator wagering where they do not compete directly with the corporate bookmakers but only with each other.\n\n[26] To complete the picture, two further matters need to be mentioned. The first is the existence of a wagering product offered by the corporate bookmakers known as ‘tote derivative wagering’. In tote derivative wagering, a corporate bookmaker offers to pay the same price as is eventually paid on one, or the highest paying one, of a number of totalisators, often with a premium added for good measure (e.g. ‘best tote + 5%’). To offer such a product is not to engage in totalisator betting because the underlying structure remains different. No pooling is involved and there is no takeout. There are complexities for a bookmaker in offering such a synthetic totalisator product. As the wagering behaviour of the bookmaker’s customers on a given event diverges from the overall behaviour of the punters wagering on the totalisators which are being simulated these difficulties become larger. The relevance of tote derivative wagering relates to the alleged capacity of the corporate bookmakers using this synthetic product to exert competitive restraint on Tabcorp and Tatts in the totalisator segment.\n\n[27] The second matter concerns the takeout rates of Tabcorp’s and Tatts’ respective totalisators. In each State and Territory the amount which a totalisator operator is permitted by law to deduct from the pool is subject to a regulatory maximum. The material before the Tribunal showed that Tabcorp is operating xxxxxxxxxxxxxxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxxx xx xxxxxxx. xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. That fact was not controversial before the Tribunal but its causes were.\n\n[28] A good deal of ink was spilled about this before the Tribunal. It is not necessary to grasp all of the debate for present purposes but to give the flavour of what appears to have been a fairly robust encounter between the parties before the Tribunal:\n\n• the ACCC and CrownBet submitted that the phenomenon showed that Tatts’ takeout rate was being constrained by Tabcorp’s activities;\n\n• xxxxxxxxxx xxxxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxxxxxxxxxxx;\n\n• the ACCC and CrownBet argued that the issues of substitutability were subtle in that there was a group of sophisticated punters who preferred to use totalisators and who, for complex reasons, could not migrate to the corporate bookmakers;\n\n• Tabcorp and Tatts argued that it was a mistake to treat the takeout rate on a totalisator as being equivalent to price but even if it was equivalent, Tatts would not be able to increase its takeout rate if the merger proceeded because any increase in the takeout rate would lead eventually to a migration by totalisator punters to fixed-odds wagering;\n\n• the ACCC and CrownBet argued that such punters would not migrate to the corporate bookmakers but, preferring a totalisator product, would migrate to Tabcorp;\n\n• Tabcorp and Tatts argued that that constraint would be imposed by tote derivative wagering; and\n\n• the ACCC and CrownBet responded by submitting that tote derivative betting was in decline and, in any event, its payouts were capped, for reasons associated with the way in which a bookmaker keeps a book, and this made it unattractive from the perspective of the sophisticated punters to which reference has already been made.\n\n[29] This was not, by any means, the whole of the debate. It will be seen however, even from this limited snapshot, that it was complex. It goes without saying that it is not the role of this Court on a judicial review application to express any view on what the outcome of that debate should be.\n\n[30] But however it should be resolved, the debate had, at its heart, an assessment of the state of competition between Tabcorp and Tatts in the online channel, and specifically in relation to the provision of totalisator wagering where the two companies were the only market participants directly providing the product. There was evidence before the Tribunal as to the extent of this market segment. It is not necessary to refer to it and the evidence in question was subject to extensive confidentiality orders. It will suffice to say that the segment was neither especially large nor, on the other hand, trivial.\n\n[31] Before the Tribunal, the ACCC submitted that if the merger proceeded, the merged entity would no longer be constrained by Tabcorp in setting its takeout rate in Queensland, Tasmania, South Australia or the Northern Territory and that it would be able to increase that rate to its legal maximum in an unconstrained fashion. Without dwelling on the detail, this was said by the ACCC to have a significant price-effect in the segment. The ACCC submitted that this effect in the segment would be a competitive detriment which the Tribunal was required to consider under s 95AZH(1) and that it was substantive. The ACCC did not submit that this competitive effect in the segment meant that there was a substantial lessening of competition in the overall wagering market. Indeed, it accepted that there would be no such lessening in that market. This is an important point which should be emphasised.\n\n[32] The position of CrownBet was different. It alleged the same competitive effect in the state of competition between Tabcorp and Tatts in their online activities and especially in relation to the provision of totalisator wagering. But it did not advance this effect as the immediate detriment upon which it relied. Rather, it submitted that the impact in that segment would have the effect of substantially lessening competition in the overall wagering services market. Thus at paragraph 4 of its opening submissions it said ‘Accordingly, without the significant constraint that Tabcorp and Tatts impose on one another, there would likely be a substantial lessening of competition in the wagering market’. And in his closing address to the Tribunal, Senior Counsel for CrownBet said this:\n\n> ‘You won’t find any case of a kind where a merger with consequences like this has been waved through as having no competitive detriments. Now, the first and foremost consideration for the Tribunal is that there are well-established legal principles for the assessment of anti-competitive detriments. Section 50 of the Competition Act prescribes the test, and subsection (3) identifies relevant factors that must be considered by anyone undertaking a competition analysis, in the context of the Competition Act concerning the effects of the merger. Now, I won’t hand up the section. Your Honour Justice Middleton will be familiar with it. But if I mention some of the mandatory criteria in subsection (3) of section 50, they include, “the height of barriers to entry to the market.’\n\nSee also, Senior Counsel for CrownBet at T-1415 (ln 44-45); T-1417 (ln 35-37); T-1419 (ln 29-32); and T-1434 (ln 13-17).\n\n[33] To the extent that the submission set out above suggested that s 95AZH required an assessment of the issues under s 50, it was, for the reasons already given, erroneous, but there is no doubt that it was how the case was put.\n\n[34] In any event, this was a somewhat larger proposition than the one which was being advanced by the ACCC. The ACCC, of course, as noted in [31] above, conceded that there was no such lessening as the one advanced by CrownBet. CrownBet’s advancement of a case reflecting the terms of s 50 had significant legal consequences. Although s 95AZH(1) does not have as its direct focus the question of whether there has been a substantial lessening of competition in a particular market, in this case, CrownBet made it an issue by asserting such as the very detriment upon which it relied for the purposes of the provision. Thus, the cases of the ACCC and CrownBet were quite different in their internal mechanics but they nevertheless both depended on the same alleged phenomenon, that is to say, a diminution in the degree of online competition between Tabcorp and Tatts especially in relation to totalisator wagering. This gave the position of the ACCC and CrownBet an apparent similarity. But the similarity lay only at the surface. They were quite different cases beneath that surface.\n\n[35] On the other side of the balancing process called for by s 95AZH(1), that of benefits, Tabcorp contended that the merger would increase competition in the overall wagering services market and, further, that it would benefit, inter alia, a segment of the public, viz, the racing industry. The reasons for this were, broadly speaking, as follows. The relative market share for totalisator wagering had dramatically shrunk in the face of competition from the corporate bookmakers. The value of the retail franchises was also falling as they competed with online products offered via mobile devices. Some of their competitors were large international businesses and consolidation in the market was inevitable. Tatts and Tabcorp were running a bricks and mortar business in the face of an online onslaught. Further, there was a drift away from totalisator products towards fixed-odds products particularly by younger punters. The merger would allow Tabcorp and Tatts to compete more effectively in this very dynamic market. So far as the racing industry was concerned, a large part of Tabcorp’s and Tatt’s revenues were paid to the racing authorities either as part of the price paid for the totalisator and retail franchises or, in some cases, in the form of product fees. The savings and synergies achieved by the merger would flow, in part, via these fiscal conduits to the racing authorities and on to the wagering industry more generally; that is to say, racing clubs, trainers, breeders, the punting public and the many downstream businesses connected to them. This was said to be a large number of people and systemically significant.\n\n##### (c) The Tribunal’s Reasoning\n\n[36] The Tribunal accepted Tabcorp’s case in relation to the benefits that the merger would bring. It found that there was a trend towards consolidation in the wagering services market and that in the case of Tabcorp and Tatts it would permit them more efficiently to compete against the corporate bookmakers, many of whom were backed by substantial international wagering concerns with access to significant capital. It accepted that the merger would be of benefit to consumers generally because of that increased amount of competition, and it concluded additionally that there would also be a benefit to the racing industry in the form of increased product fees.\n\n[37] Turning to the issue of detriment, it seems clear that the Tribunal rejected CrownBet’s case. The pivotal part of the reasoning is at [219]-[220] of its reasons, which appeared under the heading ‘Competition between Tabcorp and Tatts?’:\n\n> ‘219 The ACCC noted that fixed-odds and pari-mutuel wagering appear to be differentiated, and drew attention to the competition between Tabcorp and Tatts as the only two providers of pari-mutuel wagering in Australia (apart from RWWA, which is dependent on pooling arrangements with Tabcorp, and is therefore more of a partner to Tabcorp than a competitor). Once the market has been defined to include all types of wagering product, and not simply pari-mutuel wagering, it becomes difficult to describe any lessening of competition arising from restrictions on a segment of that market as ‘substantial’. With the introduction of tote derivative products, it may be doubted that Tabcorp and Tatts could ever really engage in any anti-competitive profiteering in pari-mutuel wagering. Even if it was possible, such conduct by the Merged Entity in pari-mutuel wagering will inevitably lead to substitution into fixed-odds products. The same comments apply to any submissions regarding the effect of the merger on the Merger Parties’ fixed-odds performance.\n\n> 220 Market definition guides the analysis, and having concluded that there is a market in which there are more participants than just the Merger Parties, it is appropriate that the analysis factors in all actual and potential suppliers to that market. As the ACCC suggested, there is good reason to consider whether the target of the acquisition is likely to be a vigorous competitor under the counterfactual, and more is said of this with respect to public benefits and merger specificity below. But analysis of the counterfactual is only necessary if analysis shows that the merger is likely to result in a detriment; and we can only reach that point if the Tribunal concludes that there will be a substantial lessening of competition in the market for consumer wagering services. Therefore, the starting point for competition analysis is the market, not a limited view of competition between the two Merger Parties.’\n\n> (emphasis added)\n\n[38] Paragraph [220] does not express a conclusion and is contingent on what then follows. What follows in the Tribunal’s reasons from [221]-[230] is an assessment of the contention that the wagering services market would be likely to suffer a substantial lessening of competition if the merger proceeded. It is not necessary to set out its reasoning in any detail. It involved, in summary, the Tribunal’s conclusions on the competitive constraints imposed by the corporate bookmakers, the trend towards consolidation and market share.\n\n[39] Only one party, CrownBet, contended that there would be such an effect in the wagering services market. In that light, these paragraphs can only be referable to CrownBet’s submission. The Tribunal’s analysis of the question raised by CrownBet concluded at paragraph [230] in these terms:\n\n> ‘230 More importantly for the sake of this analysis, the Tribunal takes the view that there will not be a substantial lessening of competition in the consumer wagering market as a result of the proposed merger. In this respect, no detriment to the public is likely to arise.\n\n[40] Read together, paragraph [220] and [230] can be seen to encapsulate a conclusion that the Tribunal did not need to determine whether CrownBet’s factual contention that the state of competition between Tabcorp and Tatts in the online channel, especially in relation to totalisator wagering, would be diminished because it did not accept that the legal detriment that CrownBet relied upon under s 95AZH(1) – a substantial lessening of competition in the wagering services market – was established. In effect, the Tribunal sidestepped the argument. In this Court, the ACCC and CrownBet were critical of the Tribunal for introducing the concept of substantial lessening of competition into its analysis. However, as we have endeavoured to explain, CrownBet’s case on detriment for the purposes of s 95AZH(1) asserted a substantial lessening of competition in the wagering services market as the relevant detriment, so that the Tribunal’s reference to this matter was a function of CrownBet’s own forensic decision as to how it ran its case.\n\n[41] Although the Tribunal dealt with CrownBet’s case on substantial lessening of competition in the wagering services market, it did so at [220] in a way which relieved it of the necessity of examining the state of competition between Tabcorp and Tatts in the online channel. The Tribunal, however, remained obliged to consider that effect because it was put forward by the ACCC as the s 95AZH(1) detriment upon which it relied. The reasoning at [220] was sufficient for the purposes of disposing of CrownBet’s case but not for the purposes of disposing of the ACCC’s. Indeed, one available view is that at [220] the Tribunal embarked upon a process of reasoning which had the unfortunate side effect of causing it to overlook the ACCC’s case on detriment. Accordingly, it does not seem to us that the Tribunal dealt with the ACCC’s more confined case on detriment.\n\n[42] There is little doubt, in light of the principles discussed above, that the competitive effect advanced by the ACCC was a detriment within the scope of s 95AZH(1) and thus a mandatory relevant consideration that had to be considered. If the Tribunal failed to take account of this matter then, at least prima facie, its decision must be set aside. We say prima facie because it remains to consider a number of other responses to this problem advanced by Tabcorp and Tatts.\n\n[43] The final assessment by the Tribunal of the benefit to the public was that it thought that the merger gave rise to a number of benefits including increased competition in the wagering services market together with financial benefits to the racing industry. It rejected the existence of the detriment put forward by CrownBet. Taking that altogether, it then concluded that the public benefits resulting, or likely to result, from the merger were sufficient to warrant the grant of the authorisation. It expressed itself this way at [539]-[542]:\n\n> ‘539 The benefits to the public which the Tribunal has found to exist, and which it has taken into account, are substantial. There are no material detriments weighed in the balance which are of significance or likely to arise that outweigh the benefits.\n\n> 540 The proposed merger is consistent with the trend towards industry consolidation, with the Merged Entity reaching a sufficient scale to compete. The creation of the Merged Entity will lead to greater competition particularly in online wagering. This increased competition brings about competition benefits to the racing industry and to consumers, and the net effect of the proposed merger will likely be positive.\n\n> 541 Consequently, the Tribunal is satisfied that the proposed merger should be authorised and it is hereby granted under s 95AT of the Act.\n\n> 542 As the Tribunal is satisfied that the proposed merger is likely to result in substantial public benefits and that the public detriments identified by the ACCC and the interveners are unlikely to either arise or are not of significance, the Tribunal is satisfied in all the circumstances that the proposed merger would result, or would be likely to result, in such a benefit to the public that the acquisition should be allowed to occur.’\n\n[44] We do not think that these paragraphs involve additional findings by the Tribunal which do not otherwise appear in its reasons. They are conclusory in nature. If [219]-[220] do not identify the detriments relied upon by the ACCC, we do not think these paragraphs are sufficient to justify a contrary conclusion. And this is so, even allowing for the kind of margin of appreciation permitted to decision-makers such as the Tribunal: see Collector of Customs v Pozzolanic Enterprises Pty Ltd [1993] FCA 322; (1993) 43 FCR 280 at 287 [22]\n\n[45] It is not possible to say that if the Tribunal had concluded that the narrower detriment to which the ACCC pointed to in fact existed that this balancing exercise would necessarily have concluded the same way that it did. Consequently, it is not possible to say that the failure to take into account the detriment put forward by the ACCC was immaterial to the outcome: cf. Peko-Wallsend Ltd at 40 per Mason J. Unless some other reason appears, the decision should be set aside.\n\n[46] Against that outcome Tabcorp and Tatts raised a number of contentions. First, Tatts submitted that the ACCC had in fact conducted the same case as CrownBet. But this argument was met by a forceful written submission from the ACCC denying that it had ever relied upon a substantial lessening of competition in the wagering services market for the purposes of s 95AZH(1). By the time of the hearing in this Court, Tatts had largely retreated from its initial position in light of that submission, which it did not contradict. In its summary of argument handed up at the commencement of its counsel’s address, Tatts now only said this:\n\n> ‘…The ACCC’s submission before the Tribunal while not described in terms as “a substantial lessening of competition” (ACCC reply paragraph 14), urged the same thing “a substantial competitive detriment”. The ACCC did not say that it disagreed with the CrownBet case. It supported CrownBet’s case that authorisation should not be granted (ACCC closing submissions paragraph 8; CB3/2260). The Tribunal could be pardoned for thinking that the ACCC adopted the CrownBet case; see Mr McClelland QC at T 1445/13; CB;7/5533.’\n\n[47] It is not correct, however, to say that the ACCC’s urging of a ‘substantial competitive detriment’ was the same thing as the advancing of a case based on a substantial lessening of competition. As explained above at [8], the decisions in the Tribunal – QCMA and its sequelae – obliged it only to consider detriments which were not ephemeral, or subject to the caveats above, which were not substantive. The submission made by the ACCC was, therefore, an entirely orthodox one. It would be a strained parsing of the ACCC’s submissions to read them as pursuing an argument that there would be a substantial lessening of competition in the wagering services market, especially when it expressly conceded there would be no such effect in the wagering services market. The ACCC did not advance such a case.\n\n[48] The other matter Tatts pointed to was paragraph 8 of the ACCC’s closing submissions in the Tribunal and T-1445/13 in Mr McClelland QC’s closing remarks to the Tribunal. Neither is persuasive. The former says only this:\n\n> ‘In these circumstances, where there is a real chance of competitive detriment and very limited benefits established by the evidence, the ACCC submits that the Tribunal should not be satisfied that the proposed acquisition is likely to result in such benefit to the public that it should be allowed to occur.’\n\n[49] The latter this:\n\n> ‘Now, having made those overarching comments about the scope of the issues that are before the tribunal, could I turn now to a number of discrete topics, starting with the issue of public benefits, and the members of the tribunal have heard at length from Mr Young about detriments, but the issue of public benefits, in my submission, does bear some emphasis.\n\n[50] We do not agree that either of these demonstrates that the ACCC supported CrownBet’s case. Consequently, we cannot accept the submission, if it was truly advanced, that the ACCC had somehow made CrownBet’s case its own. It did not.\n\n[51] Turning then to Tatts’ second substantive point, it was submitted that the Tribunal had, in fact, considered the detriment relied upon by the ACCC at [219] (set out above at [37]). We do not think [219] can be made to bear that burden. First, the Tribunal said at [220] that it was not going to examine the alleged detriment which would be an odd thing to do if it had been considered in the immediately preceding paragraph. Secondly, [219] includes the statement ‘…it becomes difficult to describe any lessening of competition arising from restrictions on a segment of that market as “substantial”’. This is much more likely to be responsive to CrownBet’s argument that the competitive degradation of the segment would substantially lessen competition in the wagering services market. The reality is that the whole section of the Tribunal’s reasons dealing with the competitive consequences appears to have been drafted with an eye on CrownBet’s case. The ACCC’s case seems to have slipped through the cracks.\n\n[52] Tabcorp also developed several arguments in relation to this aspect of the matter. First, it was said that the Tribunal had correctly articulated the test which was appropriate to s 95AZH. This is true. Those principles were not subject to dispute in the Tribunal (or in this Court) and the Tribunal set them out at [59]-[67] of its reasons in terms which are not controversial. Secondly, Tabcorp submitted that those principles had been correctly applied by the Tribunal. Tabcorp’s written submission focussed on the point, already made above, that the Tribunal weighed the identified benefits against a set of detriments which it had found not to exist. But we do not think this observation assists. The point is not so much that the test was misapplied to a detriment which had been identified. Rather, it is that an identified detriment had not been considered at all.\n\n[53] Thirdly, Tabcorp submitted that the reference to ‘substantially’ in, inter alia, [220] had to be read as being a reference to the way ‘substantial’ is used in discourse concerned with s 95AZH(1), that is, as being a reference to a benefit (or detriment) which is of substance rather than minor, trivial or ephemeral. We do not accept Tabcorp’s submission about this. Once one arrives at an understanding of what CrownBet’s case was, it becomes reasonably clear what [220] means. We do not read it as a reference to the ACCC’s case.\n\n[54] It follows that the argument that the Tribunal failed to take into account the detriment in the segment which it had put forward should be accepted. Paragraph [220] was effective to take into account and dismiss the detriment advanced by CrownBet but it failed to dispose of the detriment advanced by the ACCC. Understood that way, [220] contains no departure from established principle, for the reasons we have already given, but merely betrays an overlooking of a subtly different case. Consequently, the ACCC is entitled to an order that the Tribunal’s decision be set aside ab initio pursuant to s 16(1)(a) of the ADJR Act and under s 39B of the Judiciary Act 1903 (Cth). The ADJR Act reviewable errors relied upon by the ACCC were those set out in ss 5(1)(c), 5(1)(d), 5(1)(f) and s 5(1)(j). Whilst a failure to take account of a relevant consideration falls implicitly within s 5(1)(e) and explicitly within s 5(2)(b), we accept that the grounds overlap and that it may also be put in this case on the basis of ss 5(1)(c), 5(1)(d) and 5(1)(j). One way of characterising the legal error is that the Tribunal failed to carry out its task and made a jurisdictional error by omitting to deal with a central issue raised by the ACCC in Tabcorp’s application to the Tribunal: see the decisions of the Full Court in relation to a question of law under s 44 of the Administrative Appeals Tribunal Act 1975 (Cth) in Chief Executive Officer of Customs v AMI Toyota Ltd [2000] FCA 1343; (2000) 102 FCR 578 at 592 [45] and Industry Research and Development Board v Bridgestone Australia Ltd [2004] FCAFC 56; (2004) 136 FCR 47 at 58 [26]. It follows that, in terms of the ADJR Act, the Tribunal did not have jurisdiction to make the decision, the decision was not authorized by the Act or the decision was otherwise contrary to law.\n\n#### 3. ‘With and Without’ (ACCC Ground Two, CrownBet Ground Two)\n\n[55] The language of s 95AZH(1) of the Act requires the benefit to the public to result from, or be likely to result from, the proposed acquisition. Those words import a requirement of causation or probable causation. And, because an assessment of benefits requires as a necessary corollary an assessment of detriments, it likewise follows that detriments are subject to the same causation requirement.\n\n[56] The language of s 95AZH(1) is ‘would result, or be likely to result, in’. Nevertheless, the Tribunal has frequently found it useful to address this issue of causation by asking itself what the position would be ‘with or without’ the merger. In effect, this is the application of a but-for test for causation well-known in other areas of the law. This approach is not forbidden to the Tribunal and, indeed, it may be accepted that in most cases it will be a useful way for it to proceed. It is not, however, ultimately a substitute for the words of s 95AZH(1).\n\n[57] There can be occasions when a but-for test of causation will be demonstrably inadequate. Often this will occur where a detriment or benefit is one for which there may be two or more sufficient causes. In such cases, the application of the ‘with or without’ approach will lead to the erroneous conclusion that the benefit or detriment in question resulted from neither of the sufficient causes. In the tort field, the classical example is that of a house burned down by two separately started fires. The house would have burned down ‘without’ the first fire and equally also ‘without’ the second. Yet it would not be correct to say that the burning down of the house did not result from either fire. This example has no particular relevance to the present case but it does serve to emphasise the need to ensure that understandings of what s 95AZH(1) requires are not permitted to eclipse the text of the provision itself.\n\n[58] The ACCC and CrownBet submitted that the Tribunal had failed to conduct a ‘with or without’ analysis. Brought back to the language of s 95AZH(1), this is really a submission that the Tribunal failed to consider whether the merger ‘would result or be likely to result’ in a benefit to the public (including relevant detriments too). However, at least so far as the issues in the wagering services market are concerned, we do not see how this issue arises. The Tribunal found that the detriment that CrownBet had sought to establish did not exist. There was little to be served in assessing whether this non-existent detriment could result, or be likely to result, from the merger. And, in relation to the various benefits put forward by Tabcorp, it seems clear that the Tribunal did ask whether these resulted from the merger or would have arisen anyway. So, for example, the Tribunal considered at [445]-[453] of its reasons whether the benefits alleged to flow from the merger actually would result from it or would have arisen anyway (under the heading ‘Merger Specificity: the future with and without’).\n\n[59] It is true, therefore, that the Tribunal undertook no consideration in relation to the wagering services market on whether the detriment identified by CrownBet would result, or would be likely to result, from the merger. But it did not need to do so, and it would have been meaningless to do so, in relation to a detriment which it had concluded did not exist.\n\n[60] The conclusion we draw above is that the Tribunal has, thus far, overlooked considering the ACCC’s suggested detriment. Until such time as it considers that detriment and decides that it exists, the question of whether it can be said that it would, or would be likely to, result from the merger does not yet arise. Accordingly, neither does this error.\n\n[61] We reject Ground 2.\n\n#### 4. Failure to assign less weight to benefits not widely shared (ACCC Ground Three, CrownBet Ground Three)\n\n[62] The Tribunal concluded that as a result of the merger there would be certain costs savings and revenue synergies. It identified those which Tabcorp had claimed at [428] of its reasons. There is no need to set them out as they are commercially sensitive but it will suffice to say they were quite large. At the same paragraph, the Tribunal accepted that a portion of the savings would be passed through to government in the form of taxation and also the bodies administering the racing industry in the form of increased fees (paid, in effect, for the provision of the spectacle of the racing events).\n\n[63] The ACCC submitted in this Court that whilst the Tribunal did accept at [509] of its reasons that the savings retained by Tabcorp on the one hand, and those passed through to the racing industry, on the other, might have to be differently weighted for the purposes of assessing the public benefit, it did not ever conduct such a weighing exercise.\n\n[64] In this regard, it was said that the Tribunal had failed to apply what has come to be referred to as the ‘modified total welfare standard’ seemingly established by the Tribunal in Re Qantas Airways Ltd [2004] ACompT 9 (Qantas’) at [185]. It was in these terms:\n\n> ‘185 In our view, the objective and statutory language of the Act, as well as precedent, support the use of a form of the total welfare standard as the most appropriate standard for identifying and assessing public benefit. We say a \"form of\" the total welfare standard because, as the passage cited from Re Howard Smith shows, whilst the Tribunal does not require that efficiencies generated by a merger or set of arrangements necessarily be passed on to consumers, it may be that, in some circumstances, gains that flow through only to a limited number of members in the community will carry less weight.’\n\n[65] The ACCC submitted that this meant that the Tribunal was required:\n\n(i) to assess the extent to which any costs savings or other benefits resulting from the merger were likely to be passed through to consumers; and\n\n(ii) in the case of benefits which flowed through to a limited number of members in the community, to assign these less weight.\n\n[66] The ACCC went on to submit that the Tribunal had failed to assess how widely the identified benefits were to be shared, or the weight to be attributed to them, or whether those benefits might be considered valuable by society.\n\n[67] We would reject this submission. What the Tribunal is required to do is to assess the benefit to the public resulting, or likely to result from the merger, and to do so in ‘all the circumstances’. Having done that it is to decide whether that benefit warrants the grant of the authorisation. That is the statutory charter it has. Whilst certain matters may be inferred from the language of s 95AZH(1) as we have outlined above, it is nevertheless a broadly expressed provision. It is a legitimate way for the Tribunal to proceed in assessing the benefit to the public resulting from a merger to adopt the modified total welfare standard identified in Qantas. But the tail must not wag the dog, and it is not that standard that s 95AZH imposes. Consequently, the reasons of the Tribunal are to be measured for their legal efficacy against only the text of s 95AZH(1) and what can be reasonably implied from it, not the test identified in Qantas. We mention this because it is plain enough that the Tribunal did ask itself the question in s 95AZH(1) at [540].\n\n[68] In any event, we are sceptical of the ACCC’s submission, even on the favourable assumption that s 95AZH(1) does carry within it the modified total welfare standard, that it would require the Tribunal to give explicit weightings. Apart from showing how far the ACCC’s submission has wandered from the text of s 95AZH(1), the submission ignores the reality that much administrative decision making involves the weighing of imponderables or incommensurables. It would be unworkable to require the Tribunal explicitly to give a weight to each benefit and we would strain to avoid such a construction were it necessary. It is not, however, necessary so to strain. Section 95AZH(1) does not require what the ACCC suggests. The assessment of benefits and detriments must be complete and the Tribunal must, no doubt, weigh them. This is not necessarily, however, an arithmetical or accounting process. As we have said above, it may involve an instinctive synthesis of otherwise incommensurable factors. We reject the ACCC’s and CrownBet’s argument.\n\n#### 5. Irrationality (CrownBet Ground Four)\n\n[69] CrownBet’s application for judicial review raised a rationality challenge having two limbs. First, it was said that the Tribunal’s decision to grant an authorisation was so unreasonable that no reasonable person could have exercised the power in s 95AT of the Act in that way. So expressed, this was a challenge to the exercise of a discretionary power on the basis usually linked with the English Court of Appeal’s decision in Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223. CrownBet identified its right to relief as resting upon ss 5(1)(e) and 5(2)(g) of the ADJR Act. These are available where a decision involves an improper exercise of the power conferred by the enactment in pursuance of which it was purported to be made (5(1)(e)) or is a decision which is so unreasonable that no reasonable person could so have exercised the power (5(2)(g)).\n\n[70] The second limb was that the decision involved the formation by the Tribunal of a state of satisfaction which was a jurisdictional fact for the exercise by it of its powers. As such it could be reviewed if it could be shown that the formation of the state of satisfaction was irrational, illogical or not based on findings or inferences of fact supported by logical grounds. In its written submissions, CrownBet clarified at [57] that its rationality challenge was that:\n\n(i) the decision the Tribunal had made was unreasonable in the sense discussed in Minister for Immigration and Citizenship v Li [2013] HCA 18; (2013) 249 CLR 332 (‘Li’) at 348-350 [23]-[26], 351 [29], 362 [63], 367 [76] and 370 [88]; and\n\n(ii) the decision of the Tribunal was based on findings or inferences of fact not supported by logical grounds and was thus illogical and irrational citing again, inter alia, Li at 365-366 [72].\n\n[71] It is tolerably clear that the ‘decision’ the subject of the challenge in (ii) is not the substantive decision under s 95AT but instead the formation of the state of satisfaction referred to in s 95AZH(1) (CrownBet’s submissions did not observe the difference with complete clarity). The state of satisfaction referred to in s 95AZH(1) is a jurisdictional fact. As such the relevant principle is set out at Li at [72]:\n\n> ‘72 The more specific errors in decision-making, to which the courts often refer, may also be seen as encompassed by unreasonableness. This may be consistent with the observations of Lord Greene MR, that some decisions may be considered unreasonable in more than one sense and that \"all these things run into one another”. Further, in Minister for Aboriginal Affairs v Peko-Wallsend Ltd, Mason J considered that the preferred ground for setting aside an administrative decision which has failed to give adequate weight to a relevant factor of great importance, or has given excessive weight to an irrelevant factor of no importance, is that the decision is \"manifestly unreasonable\". Whether a decision-maker be regarded, by reference to the scope and purpose of the statute, as having committed a particular error in reasoning, given disproportionate weight to some factor or reasoned illogically or irrationally, the final conclusion will in each case be that the decision-maker has been unreasonable in a legal sense.’\n\n> (Footnotes omitted)\n\n[72] The more difficult question of whether Li applies outside cases involving the formation of opinions which are jurisdictional facts does not therefore arise. Ultimately, there was no dispute as to the relevant principles to be applied. In its submission in reply, CrownBet accepted that ‘in order to succeed under Ground 4, it must demonstrate that the decision by the Tribunal was not supported by logical findings and rational inferences’.\n\n[73] CrownBet advanced seven arguments about irrationality.\n\n##### (a) Factual and Counterfactual\n\n[74] CrownBet submitted that it was unreasonable for the Tribunal to reach a conclusion that there would not be a substantial lessening of competition in the wagering services market without comparing the factual scenario with the counterfactual.\n\n[75] We do not agree. The Tribunal reasoned that the merger entities faced competition from all of the other participants in the market (at [225]). It had already concluded at [202] that in a perfect market a SSNIP in pari-mutuel wagering would result in supply side substitution and it reached a similar conclusion at [196] in relation to demand side substitution. It was far from irrational for the Tribunal to conclude in that circumstance that the merger would not lessen competition in the wagering services market. Nor do we accept that the irrationality argument receives any support from the suggestion that the Tribunal had not examined the factual and counterfactual scenarios. The actual question was whether the detriment nominated by CrownBet – substantial lessening of competition in the wagering services market – would result or be likely to result from the merger. It answered that question at [230] ‘no’. No irrationality is demonstrated in that conclusion.\n\n##### (b) Merger necessary to enable Tabcorp and Tatts to compete\n\n[76] The actual submission was that it was irrational for the Tribunal to find at [102] and [540] that the merger was necessary for the merger parties to compete effectively in the market. Paragraphs [102] and [540] were as follows:\n\n> ‘102 It is useful for the Tribunal to indicate at the outset that the retail wagering model that has operated in Australia on a State and Territory basis is under threat as customer preferences move online and away from traditional pari-mutuel products to fixed-odds wagering. The question is not simply to determine whether as corporate entities Tabcorp and Tatts are businesses in decline. With the corporate bookmakers now on the competitive scene, the merger will enable Tabcorp and Tatts to compete effectively. The Tribunal will be returning in detail to these matters.\n\n> …\n\n> 540 The proposed merger is consistent with the trend towards industry consolidation, with the Merged Entity reaching a sufficient scale to compete. The creation of the Merged Entity will lead to greater competition particularly in online wagering. This increased competition brings about competition benefits to the racing industry and to consumers, and the net effect of the proposed merger will likely be positive.’\n\n[77] It was submitted that the evidence showed that Tabcorp and Tatts were the largest operators in the market and controlled a substantive amount of the turnover in that market. Thus it was said that one could not rationally conclude that the merger was competition enhancing. If that were all the Tribunal had said, or had before it, one might consider such a submission of merit. But there was also material before the Tribunal which suggested that the market share for totalisator products had shrunk and was expected to continue to shrink and there was other material suggesting that there was a trend towards consolidation. CrownBet’s submission ignores this material and the Tribunal’s treatment of it. In light of that, there is no basis upon which this Court could conclude that the Tribunal’s conclusion was irrational in the requisite sense.\n\n##### (c) Future viability of Tatts\n\n[78] At [266] the Tribunal said:\n\n> ‘266 Nevertheless, there are doubts as to the future viability of Tatts if the merger does not proceed. The Tribunal considers elsewhere in some detail the potential position of Tatts if the merger does not proceed, but makes the following observations in relation to bidding.’\n\n[79] CrownBet submitted that this was an irrational conclusion. This point goes nowhere. At [447] the Tribunal expressly proceeded on the basis that without the merger, Tatts would continue to exist.\n\n##### (d) Greater Competition\n\n[80] CrownBet attacked the Tribunal’s conclusion that the merger would lead to increased competition at [540] on the basis that Tabcorp and Tatts were the largest entities in the market. But again this submission ignores the Tribunal’s consideration of the trend towards consolidation, the threat posed by large overseas operators and the diminishing role of totalisator products. There is no basis for an irrationality argument in light of this material.\n\n##### (e) Restraint by tote derivative products\n\n[81] CrownBet submitted that because tote derivative products offered the same price as a totalisator (or sometimes more) this meant that their price went up and down with totalisator prices. Since they moved in parallel they could not be seen as imposing a restraint on the market. This does not strike us as necessarily self-evident at all. If the tote derivative product is expressed to be the price on the totalisator plus 5% then punters may be drawn to the ‘cheaper’ product. The fact that it may follow the totalisator price up and down does not necessarily entail that it does not draw consumers away from the totalisator product. In any event, whatever one thinks of this is very far away from a rationality challenge, particularly by a Court, of a Tribunal including an economist amongst its members.\n\n##### (f) Revenue increases\n\n[82] At [477]-[478] the Tribunal said this:\n\n> ‘477 Although bookmakers’ risk management means some punters lose the opportunity to place bets at what they perceive to be favourable odds, the lost consumer surplus on those wagers does not constitute a public detriment if the wager would have required the bookmaker to accept the bet at a price – that is, at odds – below the marginal cost of the transaction.\n\n> 478 The revenue gains claimed to arise from the merger need to be viewed in this context. Improvements in risk management should be considered as contributing costs savings because they lower a bookmaker’s marginal cost of accepting additional wagers.’\n\n[83] From this it would appear that the Tribunal thought that improvements to risk management in the fixed-odds business was to be regarded as a cost saving. And at [479] it thought that such a saving could be a public benefit associated with improved efficiency. We have experienced some difficulty in distilling CrownBet’s submission about this into a readily comprehensible form. It is best therefore to let it speak for itself:\n\n> ‘49. The Tribunal’s reason for concluding that an increase in fixed odds yield constituted a public benefit was that it would allow the merged entity to avoid accepting bets at a price (or odds) “below the marginal cost of the transaction” and, as a result, it should be considered as contributing to “cost savings”. That was erroneous because:\n\n> (a) an increase in yield was not (according to any evidence or submission) a cost saving. The evidence was that yield is the proportion of turnover that fixed odds bookmakers retain as revenue. Thus Tabcorp contended that increasing the yield from Tatts’ fixed odds book would increase the merged entity’s revenue, not decrease its costs; and\n\n> (b) a “marginal cost” analysis is inapposite to the economics of individual wagers. If payments that wagering operators make to consumers with winning bets were to be considered as part of “marginal cost”, as the Tribunal appears to have reasoned, then every fixed odds wager that leaves a consumer with net winning would be “below the marginal cost of the transaction” for the wagering operator. That would lead to the absurd outcome that a public benefit results from consumers being deprived net winnings from fixed odds wagers.\n\n> (footnotes omitted)\n\n[84] Whatever this means, it is certainly not an argument pitched with a weather eye on Li. Rather, it is simply an argument that the Tribunal reached a conclusion with which CrownBet disagrees. In any event, the submission – qua submission – lacks the kind of persuasive detail which would be necessary for the Court to assess it. For example, it is difficult for this Court do much with a statement such as ‘a “marginal cost” analysis is inapposite to the economics of individual wagers.’\n\n##### (g) Less Investment by Tatts in Fixed-Odds Risk Management\n\n[85] CrownBet’s submission identified this finding by the Tribunal as irrational and presented this argument:\n\n> ‘(g) the finding that Tatts would invest less than Tabcorp in its fixed odds risk management system because Tatts’ wagering division generates less revenue and EBIT that Tabcorp’s. That was irrational and illogical because Tatts is a far larger business that Tabcorp, with significantly greater revenue and EBIT overall, and there was no evidence (or even submission) that Tatts would be unable to fund any investment that it wished to make if the merger did not proceed. On the contrary, the evidence was that Tatts had been investing heavily in its wagering business and planned to continue to do so. By contrast, there was no evidence that Tabcorp planned any further investment in its fixed odds risk management systems.’\n\n> (footnotes omitted)\n\n[86] The complaint here seems to be that it was irrational to think that investment by Tatts in its wagering services business might be funded only by the EBIT arising from that business. We can see that it might be possible to fund investment in one part of a business from another. However, we cannot say that the Tribunal was acting irrationally in not reasoning that way.\n\n[87] We would dismiss Ground Four.\n\n#### 6. Conclusions\n\n[88] The ACCC is entitled to succeed but only on its first ground. There should be an order that the Tribunal’s decision be set aside and the matter referred back to it for further consideration in such manner as it deems fit. Whether or not there needs to be a further hearing will be for the Tribunal. Tabcorp and Tatts must pay the ACCC’s costs. Insofar as CrownBet is concerned, the situation is less clear. The parties should confer to determine whether a similar substantive order is to be made on its application as will be made in the ACCC’s case. In the event that agreement on that issue cannot be reached, the Court will reconvene by video-conference on Friday afternoon at 4.30 pm to resolve the issue. Insofar as costs are concerned, CrownBet is to file and serve its submissions on this issue limited to three pages within five business days of Friday 22 September 2017 with Tabcorp and Tatts responding in a similar manner within a further five business days. There should be interim orders in both matters to allow the parties to determine whether any part or parts of the Court’s reasons need to be redacted on the basis of a claim that they reveal information which is commercial in confidence.\n\nI certify that the preceding eighty-eight (88) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justices Besanko, Perram & Robertson.\n\nAssociate:\n\nDated: 20 September 2017\n",
+ "source_sha256": "8885c4d8a27337e24e61e466c5c059c78828c3b6c57404f49f5f69958cc487c7"
+}

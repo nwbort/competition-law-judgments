@@ -1,0 +1,371 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2015/2015FCA0623.docx",
+ "metadata": {
+  "citation": "[2015] FCA 623",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 9)",
+  "court": "FCA",
+  "year": 2015,
+  "number": 623,
+  "date_of_judgment": "2015-06-22",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "BESANKO J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2015-06-19"
+  ],
+  "hearing_raw": "19 June 2015",
+  "number_of_paragraphs": 25,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – application for leave to administer interrogatories to the respondents – where the interrogatories sought to ascertain whether the named individuals were employed by the respondents and certain details related to their employment – where the interrogatories were targeted, related to an important issue and were not burdensome or oppressive – where there was no reason to infer that the delay in making the application was deliberate – Federal Court Rules 2011 (Cth) r 21.01.",
+   "PRACTICE AND PROCEDURE – application for leave to amend the Amended Statement of Claim – where the amendments to the Amended Statement of Claim sought to clarify that the applicant’s case was not restricted to an allegation that the named individuals were employees of the respondents – where the respondents had notice that the applicant’s case was that the named individuals were employees or agents of the respondents.",
+   "Held: The respondents provide written answers to the interrogatories within seven days. Leave granted to amend the Amended Statement of Claim."
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Federal Court Rules 2011 (Cth) r 21.01"
+  ],
+  "cases_cited": [
+   "Alliance Craton Explorer Pty Ltd v Quasar Resources Pty Ltd [2012] FCA 290",
+   "Aon Risk Services Australia Limited v Australian National University (2009) 239 CLR 175",
+   "Austal Ships Pty Ltd v Incat Australia Pty Ltd (No 3) (2010) 272 ALR 177",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376",
+   "Hennessy v Wright (No 2) (1888) 24 Q.B.D. 445",
+   "Nexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192",
+   "Parnell v Walter and Another (1890) 24 Q.B.D. 441",
+   "WA Pines Pty Ltd v Bannerman (1980) 30 ALR 559"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.) and NEXANS SA RCS PARIS 393 525 852",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O’Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr I Wylie"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr M Hoffman QC with Mr M Burnett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca0623",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2015-06-22"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 9) [2015] FCA 623"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.) and NEXANS SA RCS PARIS 393 525 852"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "BESANKO J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "22 June 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – application for leave to administer interrogatories to the respondents – where the interrogatories sought to ascertain whether the named individuals were employed by the respondents and certain details related to their employment – where the interrogatories were targeted, related to an important issue and were not burdensome or oppressive – where there was no reason to infer that the delay in making the application was deliberate – Federal Court Rules 2011 (Cth) r 21.01.\nPRACTICE AND PROCEDURE – application for leave to amend the Amended Statement of Claim – where the amendments to the Amended Statement of Claim sought to clarify that the applicant’s case was not restricted to an allegation that the named individuals were employees of the respondents – where the respondents had notice that the applicant’s case was that the named individuals were employees or agents of the respondents.\nHeld: The respondents provide written answers to the interrogatories within seven days. Leave granted to amend the Amended Statement of Claim."
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 37M\nFederal Court Rules 2011 (Cth) r 21.01"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Alliance Craton Explorer Pty Ltd v Quasar Resources Pty Ltd [2012] FCA 290\nAon Risk Services Australia Limited v Australian National University (2009) 239 CLR 175\nAustal Ships Pty Ltd v Incat Australia Pty Ltd (No 3) (2010) 272 ALR 177\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376\nHennessy v Wright (No 2) (1888) 24 Q.B.D. 445\nNexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192\nParnell v Walter and Another (1890) 24 Q.B.D. 441\nWA Pines Pty Ltd v Bannerman (1980) 30 ALR 559"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "19 June 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "25"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O’Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr I Wylie"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr M Hoffman QC with Mr M Burnett"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J"
+   ],
+   "date": "2015-06-22",
+   "date_raw": "22 JUNE 2015",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The first respondent provide written answers to the interrogatories marked “Annexure A” to the applicant’s interlocutory application dated 29 May 2015 within seven days.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The second respondent provide written answers to the interrogatories marked “Annexure B” to the applicant’s interlocutory application dated 29 May 2015 within seven days.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The applicant have leave to amend paragraphs 18.1, 18.2, 19.1 and 41 of its Amended Statement of Claim in terms of the draft Further Amended Statement of Claim which is “Annexure C” to the applicant’s interlocutory application dated 29 May 2015.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The application to amend the Amended Statement of Claim in the further respects identified in “Annexure C” to the applicant’s interlocutory application dated 29 May 2015 be adjourned for further consideration to 13 July 2015.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 27 January 2015, I made an order that this matter be listed for hearing for ten days commencing on Monday, 13 July 2015 at 10.15 am. On 29 May 2015, the applicant, the Australian Competition and Consumer Commission (“the ACCC”), made an interlocutory application in which it seeks an order under r 21.01 of the Federal Court Rules (2011) (Cth) that the first respondent, Prysmian Cavi E Sistemi Energia S.r.l. (formerly Pirelli Cavi E Sistemi Energia S.p.A.) (“Prysmian”), provide written answers to interrogatories annexed to the interlocutory application. The ACCC seeks a similar order against the second respondent, Nexans SA RCS Paris 393 525 852 (“Nexans”). The ACCC also seeks an order that it have leave to file and serve a Further Amended Statement of Claim which document contains amendments which affect both Prysmian and Nexans. Prysmian and Nexans oppose the making of the orders sought by the ACCC. Their respective grounds of opposition are similar, although not identical."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The nature of the claims brought by the ACCC have been described in previous decisions of this Court in this proceeding and I will not repeat those descriptions (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251; Nexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192)."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The interrogatories which the ACCC seeks leave to administer on Prysmian are as follows:\n1. During the period from October 2001 to October 2003 inclusive (Relevant Period), was each of:\n1.1 Gianfranco Acquaotta\n1.2 Federico Corbellini\n1.3 Alan Jones\n1.4 Richard Comber\n1.5 Ian Butt\n1.6 Ian Knowles\nan employee of any entity or entities in the group of companies that includes the first respondent?\n2. If yes, for each of the persons so employed and referred to in paragraph 1:\n2.1 What is the name of the entity or entities that employed that person during the Relevant Period?\n2.2 In what position or positions was that person employed during the Relevant Period?\n2.3 For what period was that person employed during the Relevant Period?\n2.4 What functions did that person perform during the Relevant Period?\n2.5 To whom did that person report during the Relevant Period?\nI will refer to the persons referred to in the first interrogatory as the named individuals."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "In terms of the proposed amendments to the Amended Statement of Claim, I divide them into two categories."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The first category is as follows. Paragraph 18.2 of the Amended Statement of Claim is in the following terms:\n18. From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n...\n18.2 Gianfranco Acquaotta, Federico Corbellini, Alan Jones and Robert Comber of Prysmian were the representatives of the Pirelli group of companies (being Prysmian from in or about November 2001);\nIn the proposed Further Amended Statement of Claim, the words “of Prysmian” are deleted."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "It is to be noted that Messrs Corbellini and Comber are referred to in the particulars to paragraphs 30, 33, 34 and 38 of the Amended Statement of Claim."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "In paragraph 41 of the Amended Statement of Claim, the ACCC alleges the following:\n41. On or about 4 October 2003 Prysmian, by its employee and representative Ian Knowles:\n41.1 sent to Pirelli Australia by courier package the documents for Prysmian’s response to the invitation to tender;\n41.2 by email to them in Australia, instructed Pirelli Australia employees not to make any alteration to the prices in the tender documents.\nParticulars\nThe email communication occurred by email dated Saturday 4 October 2003, 02:34:55EST, from Ian Knowles, Pirelli Cavi e Sistemi Energia W.p.A., to Peter Zenkis and Michael Mills, of Pirelli Australia, and copied to Ian Butt, of a Pirelli company in Singapore.\nIn the proposed Further Amended Statement of Claim, the words “employee and” are deleted."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The second category of amendments in the proposed Further Amended Statement of Claim may be described by taking one example. In paragraph 47 of the Amended Statement of Claim, the ACCC alleges the following:\n47. The conduct of Prysmian:\n47.1 pleaded in paragraphs 34, 35 and 39 above was conduct engaged in outside Australia by:\n...\n47.1.4 a person otherwise connected with the jurisdiction of a State or Territory of Australia, within the meaning of section 8(1)(d) of the CPRAs.\nParticulars\na) ...\nb) The 2003 Annual Report of Pirelli & C. S.p.A. (of which Prysmian was a subsidiary) shows that the Pirelli group of companies had operations in Australia, and supplied cable for projects in Australia, including in relation to the Basslink submarine cable project which occurred in a period corresponding to that of the matters that are the subject of this proceeding.\n(Jacquier first affidavit at [9]-[10], Annexure SJ 4, p.38, 53, 64, 65, 73, 75)\nIn the proposed Further Amended Statement of Claim, the words “(Jacquier first affidavit at [9]-[10], Annexure SJ 4, p.38, 53, 65, 65, 65, 73, 75)” are deleted."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Counsel for the applicant explained the reasons the ACCC sought the orders in the following way. With respect to the application for leave to administer interrogatories, he said that the ACCC sought to add to the evidentiary base for its allegation that the named individuals acted for Prysmian or Nexans, as the case may be. Furthermore, counsel said that answers to the interrogatories were likely to shorten the trial because there would not be the need for the ACCC to tender as many documents. With respect to the first category of amendments to the Amended Statement of Claim, in his submissions in chief I understood counsel for the ACCC to say that the purpose of the amendments was to make it clear that the ACCC was not alleging that the named individuals were employees of Prysmian, or at least, was not wishing to be confined to an allegation to that effect. The position was less clear as a result of an exchange between counsel and myself in reply. With respect to the second category of amendments to the Amended Statement of Claim, counsel said that at the trial, the ACCC will or may wish to refer to documents in support of the proposition referred to in the particulars other than those referred to in the allegation it wishes to delete, or other parts of the document referred to in the particulars. Counsel told me that the documents will be in the tender book being prepared by the ACCC."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Prysmian raised a number of arguments in opposition to the orders sought by the ACCC. Before turning to those arguments, it should be noted as a matter of context that in its Defence, Prysmian denies the allegations in paragraph 18.2 of the Amended Statement of Claim and, as to paragraph 41, pleads that it does not know and cannot admit that Mr Knowles was its employee and representative. In correspondence passing between the respective solicitors for the parties, Prysmian has admitted that the named individuals were employees of the Pirelli Group of companies at the relevant time and were representatives of that Group. Since 15 December 2014, the ACCC has been aware that Prysmian does not intend to file any affidavit evidence in the proceeding. That is in circumstances in which the parties have been ordered to file the affidavit evidence on which they intend to rely at the trial of the proceeding."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The first argument advanced by Prysmian in opposition to the orders sought by the ACCC and, in particular, the orders for administration of interrogatories and for leave to amend in terms of the first category of amendments, is that the ACCC had not provided any explanation for what Prysmian described as “a late change in its case”. The late change in its case was said to be a change in the allegation concerning the status of the named individuals from employees to agents. It was said that this late change was contrary to s 37M of the Federal Court of Australia Act 1976 (Cth). It was also said that the ACCC had not provided any explanation for its delay in making the application, and that the High Court had made it clear in Aon Risk Services Australia Limited v Australian National University (2009) 239 CLR 175 at 216, [106] per Gummow, Hayne, Crennan, Kiefel and Bell JJ that a satisfactory explanation for delay should be given."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "I do not accept that the ACCC is seeking to make a late change in its case. It seems to me that the respondents have been on notice for some time that the ACCC’s case was employment or, if that is not found, agency in a broader sense. In considering the ACCC’s case against Nexans, where there is a similar plea in relation to Mr Jay and Mr Romand, Lander J in Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251 said at 302-303:\n354. Nexans submitted that it has not been proved that Mr Jay was in fact employed by Nexans. Nexans relied upon the 2002 annual report which stated that the “only employees of the Nexans holding company are the members of the Executive Committee” and that Mr Jay and Mr Ramond are not identified in that report as member of the committee. Nexans made similar submissions upon the 2003 annual report.\n355. Mr Jay’s precise employer and that employer’s position within the Nexans group may be established at trial. In the meantime, the applicant has established a prima facie case that Mr Jay and Mr Ramond were acting on behalf of Nexans over the relevant period. Employment is not the only way that Nexans might be bound by Mr Jay’s and Mr Ramond’s conduct.\n356. Mr Jay acted as Nexans’ representative in respect to the A/R Cartel Agreement and Mr Jay maintained the table recording the projects relating to the A/R Cartel. For that reason, it does not presently matter which entity actually employed Mr Jay. During the hearing, Nexans’ counsel, Mr Jackman QC, did not submit that if Mr Jay and Mr Ramond were not employed by Nexans, then Nexans could not be responsible. He said Nexans did not put that proposition.\n357. During the hearing of these applications, I did not rule the use of the phrase “of Nexans” in the relevant affidavits inadmissible, but I agreed that if in due course there was no evidence that Mr Jay was in fact employed by Nexans then I would reject that evidence in the affidavits.\n358. The evidence would not at this stage allow for a finding that Mr Jay and Mr Ramond were employed by Nexans. However, the evidence is sufficient to find that the applicant has made out a prima facie case that Mr Jay and Mr Ramond had authority to act on behalf of and bind Nexans. On Mr Osada’s account, Mr Jay had been acting on behalf of Nexans for years to the point of accepting the position of secretary of one of the groups. The table kept by Mr Jay to which I will shortly refer confirms that.\n359. I reject Nexans’ submission that it requires a “leap of faith” to accept that the emails show Mr Jay, on behalf of Nexans, entered into the Snowy Hydro Agreement. In any event, at this stage of the proceeding, I need only be satisfied, and I am, that there is a prima facie case that the evidence shows that Mr Jay, on behalf of Nexans, caused Nexans to make or arrive at the Snowy Hydro Agreement, which provided that Prysmian would be the allottee for the Snowy Hydro Project."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "There is some force in Prysmian’s submission that the ACCC has not provided a satisfactory explanation for the delay in making the application for leave to administer interrogatories. The ACCC’s interlocutory application was supported by an affidavit from Mr Matthew Richard Garey, a lawyer employed by the Australian Government Solicitor which acts as the solicitor for the ACCC. I have read Mr Garey’s affidavit carefully. He refers to Prysmian’s Defence, and then the discovery process involving Prysmian. Prysmian served its List of Documents in May 2013. The ACCC made an application that Prysmian give further and better discovery, but I refused that application on 14 April 2014 (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376). Mr Garey’s affidavit, having dealt with discovery, then proceeds to address correspondence sent in May 2015. He does not provide an explanation for the delay between May 2014 and May 2015. At the same time, there is no reason to infer that the delay was deliberate, and I infer that the recent intensive preparation for trial has revealed to the ACCC that it should attempt to bolster its case linking the named individuals to the relevant respondent."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The second argument advanced by Prysmian is that it will suffer prejudice if the orders are made, and an assertion by it that it has made forensic decisions on the basis of the case as presented to this point. I do not think that I can put much weight on this argument in the absence of clear particulars as to how it is said that Prysmian has been prejudiced."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "The third argument advanced by Prysmian is that it is likely to need time to answer the interrogatories because, as my reasons delivered on 15 April 2014 indicate, on 1 January 2008 Prysmian transferred its high voltage and submarine energy cable business to Prysmian Powerlink S.r.l. I do not accept this submission on the evidence presently before me. Prysmian has had ample time to investigate the employment status of the named individuals, and it is clear that it has at least reached the point of being able to say that they were employees of the Pirelli Group of companies at the relevant time and were representatives of that Group."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "In support of its submissions, Prysmian referred me to statements by judges of this Court that orders requiring a party to answer interrogatories were rare (Alliance Craton Explorer Pty Ltd v Quasar Resources Pty Ltd [2012] FCA 290 at [27] per Mansfield J), or increasingly rare (Austal Ships Pty Ltd v Incat Australia Pty Ltd (No 3) (2010) 272 ALR 177 at 628 per McKerracher J)."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "With respect to the application for leave to administer interrogatories, I think that, subject to the timing of the application, the case is an appropriate one for interrogatories. The interrogatories are targeted, clearly relate to an important issue and are not burdensome or oppressive from Prysmian’s point of view. The application is very late, but I am not persuaded this is a sufficient reason to refuse the application. As I have said, the statements already made by Prysmian in relation to the named individuals in its case suggest that it is well on the way to ascertaining the information sought by the proposed interrogatories, if it does not already have it."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The interrogatories the ACCC seeks to administer on Nexans are as follows:\n1. During the period from October 2001 to October 2003 inclusive (Relevant Period) was each of:\n1.1 Jeanmarie Jay (or Jean-Marie Jay)\n1.2 Alain Romand\nan employee of any entity or entities in the group of companies that includes the second respondent?\n2. If yes, for each of the persons so employed and referred to in paragraph 1:\n2.1 what is the name of the entity or entities that employed that person during the Relevant Period?\n2.2 in what position or positions was that person employed during the Relevant Period?\n2.3 for what period was that person employed during the Relevant Period?\n2.4 what functions did that person perform during the Relevant Period?\n2.5 to whom did that person report during the Relevant Period?"
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "The position in relation to the first category of amendments to the Amended Statement of Claim as against Nexans is as follows. Paragraph 18 of the Amended Statement of Claim is in the following terms:\n18 From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n18.1 Jeanmarie Jay and Alain Romand of Nexans were the representatives of Nexans;\n...\nIn the proposed Further Amended Statement of Claim, the words “of Nexans” are removed."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Paragraph 19 of the Amended Statement of Claim provides as follows:\n19. From at least October 2001:\n19.1 Mr Jay of Nexans was the secretary of the R Group;\n...\nIn the proposed Further Amended Statement of Claim, the words “of Nexans” are removed."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "Mr Jay is referred to in the particulars to paragraphs 30, 33, 34, 38 and 39 of the Amended Statement of Claim."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "Nexans advanced similar arguments to those advanced by Prysmian, and my conclusions in relation to those arguments are the same. In the case of Nexans, it has filed evidence to be relied on at trial that neither Mr Jay nor Mr Romand had authority to act on behalf of it. Nevertheless, its solicitors have conceded that Mr Romand was employed in the Nexans Group of companies."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Nexans did emphasise two additional points. First, it submitted that it would be prejudiced if the orders now sought were made. In an affidavit sworn in support of their opposition to the application, Nexans’ solicitor said at [29]:\nNexans SA had conducted its defence and prepared its evidence for trial (including the affidavit of Patrick James Noonan sworn on 23 December 2014 and filed on 27 January 2015) on the basis that the allegation it was meeting was that Mr Jeanmarie Jay and Mr Alain Romand were “of Nexans”. The applicant’s case has been pursued on the basis of an assertion that Mr Jay and Mr Romand were representatives of Nexans SA without any particulars of the facts on which this assertion is based being provided. Having regard to the civil penalty nature of this proceeding and the potential consequences for Nexans SA, I do not believe this provides a fair notice to Nexans SA of the applicant’s case nor is it presently apparent as to how the applicant seeks to prove that allegation. In this light, Nexans SA is unable to ascertain what additional evidence (if any) it will need to produce to meet the applicant’s intended case.\nIt is not clear to me precisely what is being asserted in this paragraph. It may be that the real complaint made in this paragraph relates to the existing pleading rather than the administration of interrogatories or the proposed amendments to the pleading. In any event, I am not satisfied that Nexans will suffer prejudice if the orders are made. Secondly, Nexans submitted that the proposed interrogatories constituted a fishing expedition. I reject this argument. The ACCC knows that the named individuals were employed by one of the companies in the Pirelli Group. It seeks to ascertain the identity of that company and the positions held by the named individuals. This is not a case in which the ACCC seeks to find a case of which at present it knows nothing (Hennessy v Wright (No 2) (1888) 24 Q.B.D. 445 (reported as a note to Parnell v Walter and Another (1890) 24 Q.B.D. 441 per Lord Esher); WA Pines Pty Ltd v Bannerman (1980) 30 ALR 559 at 574-576 per Lockhart J; Alliance Craton Explorer v Quasar Resources Pty Ltd [2012] FCA 290 at [30]-[35] per Mansfield J)."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "With respect to the application for leave to amend the Amended Statement of Claim in relation to the first category of amendments, I would allow the amendments because I do not think the amendments involve a change in the ACCC’s case. As I have said, the amendments seem to me to do no more than make clear what would have been clear at a practical level and that was that the ACCC’s case is that the named individuals were either employees or if not employees, agents in the broader sense of the respective respondents."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "With respect to the application to amend the Amended Statement of Claim in relation to the second category of amendments, I would stand this over to the first day of trial and deal with it when the ACCC is tendering the documents upon which it relies."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-five (25) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+ "associate": null,
+ "dated": "2015-06-23",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 9) [2015] FCA 623\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 9) [2015] FCA 623\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.) and NEXANS SA RCS PARIS 393 525 852\n\n**File number:** SAD 145 of 2009\n\n**Judge:** BESANKO J\n\n**Date of judgment:** 22 June 2015\n\n**Catchwords:** PRACTICE AND PROCEDURE – application for leave to administer interrogatories to the respondents – where the interrogatories sought to ascertain whether the named individuals were employed by the respondents and certain details related to their employment – where the interrogatories were targeted, related to an important issue and were not burdensome or oppressive – where there was no reason to infer that the delay in making the application was deliberate – Federal Court Rules 2011 (Cth) r 21.01.  \nPRACTICE AND PROCEDURE – application for leave to amend the Amended Statement of Claim – where the amendments to the Amended Statement of Claim sought to clarify that the applicant’s case was not restricted to an allegation that the named individuals were employees of the respondents – where the respondents had notice that the applicant’s case was that the named individuals were employees or agents of the respondents.  \nHeld: The respondents provide written answers to the interrogatories within seven days. Leave granted to amend the Amended Statement of Claim.\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) s 37M  \nFederal Court Rules 2011 (Cth) r 21.01\n\n**Cases cited:** Alliance Craton Explorer Pty Ltd v Quasar Resources Pty Ltd [2012] FCA 290  \nAon Risk Services Australia Limited v Australian National University (2009) 239 CLR 175  \nAustal Ships Pty Ltd v Incat Australia Pty Ltd (No 3) (2010) 272 ALR 177  \nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251  \nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376  \nHennessy v Wright (No 2) (1888) 24 Q.B.D. 445  \nNexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192  \nParnell v Walter and Another (1890) 24 Q.B.D. 441  \nWA Pines Pty Ltd v Bannerman (1980) 30 ALR 559\n\n**Date of hearing:** 19 June 2015\n\n**Place:** Adelaide\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 25\n\n**Counsel for the Applicant:** Mr N O’Bryan SC\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First Respondent:** Mr I Wylie\n\n**Solicitor for the First Respondent:** Johnson Winter & Slattery\n\n**Counsel for the Second Respondent:** Mr M Hoffman QC with Mr M Burnett\n\n**Solicitor for the Second Respondent:** Clayton Utz\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE OF ORDER: | 22 JUNE 2015 |\n| WHERE MADE: | ADELAIDE |\n\n### THE COURT ORDERS THAT:\n\n1. The first respondent provide written answers to the interrogatories marked “Annexure A” to the applicant’s interlocutory application dated 29 May 2015 within seven days.\n\n2. The second respondent provide written answers to the interrogatories marked “Annexure B” to the applicant’s interlocutory application dated 29 May 2015 within seven days.\n\n3. The applicant have leave to amend paragraphs 18.1, 18.2, 19.1 and 41 of its Amended Statement of Claim in terms of the draft Further Amended Statement of Claim which is “Annexure C” to the applicant’s interlocutory application dated 29 May 2015.\n\n4. The application to amend the Amended Statement of Claim in the further respects identified in “Annexure C” to the applicant’s interlocutory application dated 29 May 2015 be adjourned for further consideration to 13 July 2015.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L. (FORMERLY PIRELLI CAVI E SISTEMI ENERGIA S.P.A.)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE: | 22 JUNE 2015 |\n| PLACE: | ADELAIDE |\n\n### REASONS FOR JUDGMENT\n\n[1] On 27 January 2015, I made an order that this matter be listed for hearing for ten days commencing on Monday, 13 July 2015 at 10.15 am. On 29 May 2015, the applicant, the Australian Competition and Consumer Commission (“the ACCC”), made an interlocutory application in which it seeks an order under r 21.01 of the Federal Court Rules (2011) (Cth) that the first respondent, Prysmian Cavi E Sistemi Energia S.r.l. (formerly Pirelli Cavi E Sistemi Energia S.p.A.) (“Prysmian”), provide written answers to interrogatories annexed to the interlocutory application. The ACCC seeks a similar order against the second respondent, Nexans SA RCS Paris 393 525 852 (“Nexans”). The ACCC also seeks an order that it have leave to file and serve a Further Amended Statement of Claim which document contains amendments which affect both Prysmian and Nexans. Prysmian and Nexans oppose the making of the orders sought by the ACCC. Their respective grounds of opposition are similar, although not identical.\n\n[2] The nature of the claims brought by the ACCC have been described in previous decisions of this Court in this proceeding and I will not repeat those descriptions (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251; Nexans SA RCA Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192).\n\n[3] The interrogatories which the ACCC seeks leave to administer on Prysmian are as follows:\n\n> 1. During the period from October 2001 to October 2003 inclusive (Relevant Period), was each of:\n\n>   1.1 Gianfranco Acquaotta\n\n>   1.2 Federico Corbellini\n\n>   1.3 Alan Jones\n\n>   1.4 Richard Comber\n\n>   1.5 Ian Butt\n\n>   1.6 Ian Knowles\n\n> an employee of any entity or entities in the group of companies that includes the first respondent?\n\n> 2. If yes, for each of the persons so employed and referred to in paragraph 1:\n\n> 2.1 What is the name of the entity or entities that employed that person during the Relevant Period?\n\n> 2.2 In what position or positions was that person employed during the Relevant Period?\n\n> 2.3 For what period was that person employed during the Relevant Period?\n\n> 2.4 What functions did that person perform during the Relevant Period?\n\n> 2.5 To whom did that person report during the Relevant Period?\n\nI will refer to the persons referred to in the first interrogatory as the named individuals.\n\n[4] In terms of the proposed amendments to the Amended Statement of Claim, I divide them into two categories.\n\n[5] The first category is as follows. Paragraph 18.2 of the Amended Statement of Claim is in the following terms:\n\n> 18. From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n\n> ...\n\n> 18.2 Gianfranco Acquaotta, Federico Corbellini, Alan Jones and Robert Comber of Prysmian were the representatives of the Pirelli group of companies (being Prysmian from in or about November 2001);\n\nIn the proposed Further Amended Statement of Claim, the words “of Prysmian” are deleted.\n\n[6] It is to be noted that Messrs Corbellini and Comber are referred to in the particulars to paragraphs 30, 33, 34 and 38 of the Amended Statement of Claim.\n\n[7] In paragraph 41 of the Amended Statement of Claim, the ACCC alleges the following:\n\n> 41. On or about 4 October 2003 Prysmian, by its employee and representative Ian Knowles:\n\n> 41.1 sent to Pirelli Australia by courier package the documents for Prysmian’s response to the invitation to tender;\n\n> 41.2 by email to them in Australia, instructed Pirelli Australia employees not to make any alteration to the prices in the tender documents.\n\n> Particulars\n\n> The email communication occurred by email dated Saturday 4 October 2003, 02:34:55EST, from Ian Knowles, Pirelli Cavi e Sistemi Energia W.p.A., to Peter Zenkis and Michael Mills, of Pirelli Australia, and copied to Ian Butt, of a Pirelli company in Singapore.\n\nIn the proposed Further Amended Statement of Claim, the words “employee and” are deleted.\n\n[8] The second category of amendments in the proposed Further Amended Statement of Claim may be described by taking one example. In paragraph 47 of the Amended Statement of Claim, the ACCC alleges the following:\n\n> 47. The conduct of Prysmian:\n\n> 47.1 pleaded in paragraphs 34, 35 and 39 above was conduct engaged in outside Australia by:\n\n> ...\n\n> 47.1.4 a person otherwise connected with the jurisdiction of a State or Territory of Australia, within the meaning of section 8(1)(d) of the CPRAs.\n\n> Particulars\n\n> a) ...\n\n> b) The 2003 Annual Report of Pirelli & C. S.p.A. (of which Prysmian was a subsidiary) shows that the Pirelli group of companies had operations in Australia, and supplied cable for projects in Australia, including in relation to the Basslink submarine cable project which occurred in a period corresponding to that of the matters that are the subject of this proceeding.\n\n> (Jacquier first affidavit at [9]-[10], Annexure SJ 4, p.38, 53, 64, 65, 73, 75)\n\nIn the proposed Further Amended Statement of Claim, the words “(Jacquier first affidavit at [9]-[10], Annexure SJ 4, p.38, 53, 65, 65, 65, 73, 75)” are deleted.\n\n[9] Counsel for the applicant explained the reasons the ACCC sought the orders in the following way. With respect to the application for leave to administer interrogatories, he said that the ACCC sought to add to the evidentiary base for its allegation that the named individuals acted for Prysmian or Nexans, as the case may be. Furthermore, counsel said that answers to the interrogatories were likely to shorten the trial because there would not be the need for the ACCC to tender as many documents. With respect to the first category of amendments to the Amended Statement of Claim, in his submissions in chief I understood counsel for the ACCC to say that the purpose of the amendments was to make it clear that the ACCC was not alleging that the named individuals were employees of Prysmian, or at least, was not wishing to be confined to an allegation to that effect. The position was less clear as a result of an exchange between counsel and myself in reply. With respect to the second category of amendments to the Amended Statement of Claim, counsel said that at the trial, the ACCC will or may wish to refer to documents in support of the proposition referred to in the particulars other than those referred to in the allegation it wishes to delete, or other parts of the document referred to in the particulars. Counsel told me that the documents will be in the tender book being prepared by the ACCC.\n\n[10] Prysmian raised a number of arguments in opposition to the orders sought by the ACCC. Before turning to those arguments, it should be noted as a matter of context that in its Defence, Prysmian denies the allegations in paragraph 18.2 of the Amended Statement of Claim and, as to paragraph 41, pleads that it does not know and cannot admit that Mr Knowles was its employee and representative. In correspondence passing between the respective solicitors for the parties, Prysmian has admitted that the named individuals were employees of the Pirelli Group of companies at the relevant time and were representatives of that Group. Since 15 December 2014, the ACCC has been aware that Prysmian does not intend to file any affidavit evidence in the proceeding. That is in circumstances in which the parties have been ordered to file the affidavit evidence on which they intend to rely at the trial of the proceeding.\n\n[11] The first argument advanced by Prysmian in opposition to the orders sought by the ACCC and, in particular, the orders for administration of interrogatories and for leave to amend in terms of the first category of amendments, is that the ACCC had not provided any explanation for what Prysmian described as “a late change in its case”. The late change in its case was said to be a change in the allegation concerning the status of the named individuals from employees to agents. It was said that this late change was contrary to s 37M of the Federal Court of Australia Act 1976 (Cth). It was also said that the ACCC had not provided any explanation for its delay in making the application, and that the High Court had made it clear in Aon Risk Services Australia Limited v Australian National University (2009) 239 CLR 175 at 216, [106] per Gummow, Hayne, Crennan, Kiefel and Bell JJ that a satisfactory explanation for delay should be given.\n\n[12] I do not accept that the ACCC is seeking to make a late change in its case. It seems to me that the respondents have been on notice for some time that the ACCC’s case was employment or, if that is not found, agency in a broader sense. In considering the ACCC’s case against Nexans, where there is a similar plea in relation to Mr Jay and Mr Romand, Lander J in Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; (2012) 298 ALR 251 said at 302-303:\n\n> 354. Nexans submitted that it has not been proved that Mr Jay was in fact employed by Nexans. Nexans relied upon the 2002 annual report which stated that the “only employees of the Nexans holding company are the members of the Executive Committee” and that Mr Jay and Mr Ramond are not identified in that report as member of the committee. Nexans made similar submissions upon the 2003 annual report.\n\n> 355. Mr Jay’s precise employer and that employer’s position within the Nexans group may be established at trial. In the meantime, the applicant has established a prima facie case that Mr Jay and Mr Ramond were acting on behalf of Nexans over the relevant period. Employment is not the only way that Nexans might be bound by Mr Jay’s and Mr Ramond’s conduct.\n\n> 356. Mr Jay acted as Nexans’ representative in respect to the A/R Cartel Agreement and Mr Jay maintained the table recording the projects relating to the A/R Cartel. For that reason, it does not presently matter which entity actually employed Mr Jay. During the hearing, Nexans’ counsel, Mr Jackman QC, did not submit that if Mr Jay and Mr Ramond were not employed by Nexans, then Nexans could not be responsible. He said Nexans did not put that proposition.\n\n> 357. During the hearing of these applications, I did not rule the use of the phrase “of Nexans” in the relevant affidavits inadmissible, but I agreed that if in due course there was no evidence that Mr Jay was in fact employed by Nexans then I would reject that evidence in the affidavits.\n\n> 358. The evidence would not at this stage allow for a finding that Mr Jay and Mr Ramond were employed by Nexans. However, the evidence is sufficient to find that the applicant has made out a prima facie case that Mr Jay and Mr Ramond had authority to act on behalf of and bind Nexans. On Mr Osada’s account, Mr Jay had been acting on behalf of Nexans for years to the point of accepting the position of secretary of one of the groups. The table kept by Mr Jay to which I will shortly refer confirms that.\n\n> 359. I reject Nexans’ submission that it requires a “leap of faith” to accept that the emails show Mr Jay, on behalf of Nexans, entered into the Snowy Hydro Agreement. In any event, at this stage of the proceeding, I need only be satisfied, and I am, that there is a prima facie case that the evidence shows that Mr Jay, on behalf of Nexans, caused Nexans to make or arrive at the Snowy Hydro Agreement, which provided that Prysmian would be the allottee for the Snowy Hydro Project.\n\n[13] There is some force in Prysmian’s submission that the ACCC has not provided a satisfactory explanation for the delay in making the application for leave to administer interrogatories. The ACCC’s interlocutory application was supported by an affidavit from Mr Matthew Richard Garey, a lawyer employed by the Australian Government Solicitor which acts as the solicitor for the ACCC. I have read Mr Garey’s affidavit carefully. He refers to Prysmian’s Defence, and then the discovery process involving Prysmian. Prysmian served its List of Documents in May 2013. The ACCC made an application that Prysmian give further and better discovery, but I refused that application on 14 April 2014 (Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 8) [2014] FCA 376). Mr Garey’s affidavit, having dealt with discovery, then proceeds to address correspondence sent in May 2015. He does not provide an explanation for the delay between May 2014 and May 2015. At the same time, there is no reason to infer that the delay was deliberate, and I infer that the recent intensive preparation for trial has revealed to the ACCC that it should attempt to bolster its case linking the named individuals to the relevant respondent.\n\n[14] The second argument advanced by Prysmian is that it will suffer prejudice if the orders are made, and an assertion by it that it has made forensic decisions on the basis of the case as presented to this point. I do not think that I can put much weight on this argument in the absence of clear particulars as to how it is said that Prysmian has been prejudiced.\n\n[15] The third argument advanced by Prysmian is that it is likely to need time to answer the interrogatories because, as my reasons delivered on 15 April 2014 indicate, on 1 January 2008 Prysmian transferred its high voltage and submarine energy cable business to Prysmian Powerlink S.r.l. I do not accept this submission on the evidence presently before me. Prysmian has had ample time to investigate the employment status of the named individuals, and it is clear that it has at least reached the point of being able to say that they were employees of the Pirelli Group of companies at the relevant time and were representatives of that Group.\n\n[16] In support of its submissions, Prysmian referred me to statements by judges of this Court that orders requiring a party to answer interrogatories were rare (Alliance Craton Explorer Pty Ltd v Quasar Resources Pty Ltd [2012] FCA 290 at [27] per Mansfield J), or increasingly rare (Austal Ships Pty Ltd v Incat Australia Pty Ltd (No 3) (2010) 272 ALR 177 at 628 per McKerracher J).\n\n[17] With respect to the application for leave to administer interrogatories, I think that, subject to the timing of the application, the case is an appropriate one for interrogatories. The interrogatories are targeted, clearly relate to an important issue and are not burdensome or oppressive from Prysmian’s point of view. The application is very late, but I am not persuaded this is a sufficient reason to refuse the application. As I have said, the statements already made by Prysmian in relation to the named individuals in its case suggest that it is well on the way to ascertaining the information sought by the proposed interrogatories, if it does not already have it.\n\n[18] The interrogatories the ACCC seeks to administer on Nexans are as follows:\n\n> 1. During the period from October 2001 to October 2003 inclusive (Relevant Period) was each of:\n\n>   1.1 Jeanmarie Jay (or Jean-Marie Jay)\n\n>   1.2 Alain Romand\n\n> an employee of any entity or entities in the group of companies that includes the second respondent?\n\n> 2. If yes, for each of the persons so employed and referred to in paragraph 1:\n\n>   2.1 what is the name of the entity or entities that employed that person during the Relevant Period?\n\n>   2.2 in what position or positions was that person employed during the Relevant Period?\n\n>   2.3 for what period was that person employed during the Relevant Period?\n\n>   2.4 what functions did that person perform during the Relevant Period?\n\n>   2.5 to whom did that person report during the Relevant Period?\n\n[19] The position in relation to the first category of amendments to the Amended Statement of Claim as against Nexans is as follows. Paragraph 18 of the Amended Statement of Claim is in the following terms:\n\n> 18 From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n\n> 18.1 Jeanmarie Jay and Alain Romand of Nexans were the representatives of Nexans;\n\n> ...\n\nIn the proposed Further Amended Statement of Claim, the words “of Nexans” are removed.\n\n[20] Paragraph 19 of the Amended Statement of Claim provides as follows:\n\n> 19. From at least October 2001:\n\n> 19.1 Mr Jay of Nexans was the secretary of the R Group;\n\n> ...\n\nIn the proposed Further Amended Statement of Claim, the words “of Nexans” are removed.\n\n[21] Mr Jay is referred to in the particulars to paragraphs 30, 33, 34, 38 and 39 of the Amended Statement of Claim.\n\n[22] Nexans advanced similar arguments to those advanced by Prysmian, and my conclusions in relation to those arguments are the same. In the case of Nexans, it has filed evidence to be relied on at trial that neither Mr Jay nor Mr Romand had authority to act on behalf of it. Nevertheless, its solicitors have conceded that Mr Romand was employed in the Nexans Group of companies.\n\n[23] Nexans did emphasise two additional points. First, it submitted that it would be prejudiced if the orders now sought were made. In an affidavit sworn in support of their opposition to the application, Nexans’ solicitor said at [29]:\n\n> Nexans SA had conducted its defence and prepared its evidence for trial (including the affidavit of Patrick James Noonan sworn on 23 December 2014 and filed on 27 January 2015) on the basis that the allegation it was meeting was that Mr Jeanmarie Jay and Mr Alain Romand were “of Nexans”. The applicant’s case has been pursued on the basis of an assertion that Mr Jay and Mr Romand were representatives of Nexans SA without any particulars of the facts on which this assertion is based being provided. Having regard to the civil penalty nature of this proceeding and the potential consequences for Nexans SA, I do not believe this provides a fair notice to Nexans SA of the applicant’s case nor is it presently apparent as to how the applicant seeks to prove that allegation. In this light, Nexans SA is unable to ascertain what additional evidence (if any) it will need to produce to meet the applicant’s intended case.\n\nIt is not clear to me precisely what is being asserted in this paragraph. It may be that the real complaint made in this paragraph relates to the existing pleading rather than the administration of interrogatories or the proposed amendments to the pleading. In any event, I am not satisfied that Nexans will suffer prejudice if the orders are made. Secondly, Nexans submitted that the proposed interrogatories constituted a fishing expedition. I reject this argument. The ACCC knows that the named individuals were employed by one of the companies in the Pirelli Group. It seeks to ascertain the identity of that company and the positions held by the named individuals. This is not a case in which the ACCC seeks to find a case of which at present it knows nothing (Hennessy v Wright (No 2) (1888) 24 Q.B.D. 445 (reported as a note to Parnell v Walter and Another (1890) 24 Q.B.D. 441 per Lord Esher); WA Pines Pty Ltd v Bannerman (1980) 30 ALR 559 at 574-576 per Lockhart J; Alliance Craton Explorer v Quasar Resources Pty Ltd [2012] FCA 290 at [30]-[35] per Mansfield J).\n\n[24] With respect to the application for leave to amend the Amended Statement of Claim in relation to the first category of amendments, I would allow the amendments because I do not think the amendments involve a change in the ACCC’s case. As I have said, the amendments seem to me to do no more than make clear what would have been clear at a practical level and that was that the ACCC’s case is that the named individuals were either employees or if not employees, agents in the broader sense of the respective respondents.\n\n[25] With respect to the application to amend the Amended Statement of Claim in relation to the second category of amendments, I would stand this over to the first day of trial and deal with it when the ACCC is tendering the documents upon which it relies.\n\nI certify that the preceding twenty-five (25) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.\n\nAssociate:\n\nDated: 23 June 2015\n",
+ "source_sha256": "f3b13fa40f4d28e0afde1c1ea4011ff384a7fb493758545e9d817d0fd71252e9"
+}

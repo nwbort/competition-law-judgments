@@ -1,0 +1,488 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA1040.docx",
+ "metadata": {
+  "citation": "[2021] FCA 1040",
+  "name": "Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd (No 2)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 1040,
+  "date_of_judgment": "2021-08-31",
+  "file_numbers": [
+   "NSD2289/2018"
+  ],
+  "judges": [
+   "JAGOT J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2021-08-12"
+  ],
+  "hearing_raw": "12 August 2021",
+  "number_of_paragraphs": 28,
+  "catchwords": [
+   "COSTS — necessary or proper party for purposes of joinder — entitlement to costs order of necessary or proper party joint to proceeding — costs of cross-claim — whether interests of justice require party other than respondent to bear costs of cross-respondent — entitlement to recover reasonable costs of complying with subpoena"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 4L, s 5",
+   "Federal Court Rules 2011 (Cth) r 24.22)"
+  ],
+  "cases_cited": [
+   "ACN 068 691 092 Pty Ltd v Plan 4 Insurance Services Pty Ltd [2012] SASCFC 25; (2012) 112 SASR 329",
+   "Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720",
+   "Boral Australian Gypsum Ltd & Anor v Victorian WorkCover Authority & Anor [2015] VSCA 187",
+   "City of Swan v Lehman Bros Australia Ltd (No 3) [2009] FCA 1190",
+   "Furber v Stacey [2005] NSWCA 242",
+   "GEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 688; (2003) 201 ALR 55",
+   "Gladstone Park Shopping Centre Pty Ltd v Ross Wills & Ors (1984) 6 FCR 496",
+   "John Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd [2010] HCA 19; (2010) 241 CLR 1",
+   "Kheirs Financial Services Pty Ltd & Anor v Aussie Home Loans Pty Ltd & Anor [2010] VSCA 355; (2010) 31 VR 46",
+   "Lombard Insurance Co (Australia) Ltd v Pastro (1994) 175 LSJS 448",
+   "News Limited v Australian Rugby Football League Limited [1996] FCA 870; (1996) 64 FCR 410",
+   "Simpson v Monteith [2009] NSWSC 156"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351",
+    "role": "First Respondent"
+   },
+   {
+    "name": "PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 (and another named in the Schedule)",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351 (and others named in the Schedule)",
+    "role": "First Cross-Claimant"
+   },
+   {
+    "name": "PORT OF NEWCASTLE OPERATIONS PTY LIMITED ACN 165 332 990 (and others named in the Schedule)",
+    "role": "First Cross-Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr R Yezerski"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Third Respondents",
+    "name": "Mr B Lim"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First, Second and Third Respondents",
+    "name": "Gilbert + Tobin"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth Respondent and Fourth Cross-Respondent",
+    "name": "Mr IJM Ahmed"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fourth Respondent and Fourth Cross-Respondent",
+    "name": "MinterEllison"
+   },
+   {
+    "role": "counsel",
+    "for": "the First, Second and Third Cross-Respondents",
+    "name": "Mr B Hancock"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First, Second and Third Cross-Respondents",
+    "name": "Allens Linklaters"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1040",
+  "portal_file_numbers": [
+   "NSD2289/2018"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2021-08-31"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 2289 of 2018"
+  },
+  {
+   "label": "Judgment of",
+   "value": "JAGOT J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "31 August 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COSTS — necessary or proper party for purposes of joinder — entitlement to costs order of necessary or proper party joint to proceeding — costs of cross-claim — whether interests of justice require party other than respondent to bear costs of cross-respondent — entitlement to recover reasonable costs of complying with subpoena"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 4L, s 5\nFederal Court Rules 2011 (Cth) r 24.22)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "ACN 068 691 092 Pty Ltd v Plan 4 Insurance Services Pty Ltd [2012] SASCFC 25; (2012) 112 SASR 329\nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720\nBoral Australian Gypsum Ltd & Anor v Victorian WorkCover Authority & Anor [2015] VSCA 187\nCity of Swan v Lehman Bros Australia Ltd (No 3) [2009] FCA 1190\nFurber v Stacey [2005] NSWCA 242\nGEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 688; (2003) 201 ALR 55\nGladstone Park Shopping Centre Pty Ltd v Ross Wills & Ors (1984) 6 FCR 496\nJohn Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd [2010] HCA 19; (2010) 241 CLR 1\nKheirs Financial Services Pty Ltd & Anor v Aussie Home Loans Pty Ltd & Anor [2010] VSCA 355; (2010) 31 VR 46\nLombard Insurance Co (Australia) Ltd v Pastro (1994) 175 LSJS 448\nNews Limited v Australian Rugby Football League Limited [1996] FCA 870; (1996) 64 FCR 410\nSimpson v Monteith [2009] NSWSC 156"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "28"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "12 August 2021"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr R Yezerski"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First, Second and Third Respondents",
+   "value": "Mr B Lim"
+  },
+  {
+   "label": "Solicitor for the First, Second and Third Respondents",
+   "value": "Gilbert + Tobin"
+  },
+  {
+   "label": "Counsel for the Fourth Respondent and Fourth Cross-Respondent",
+   "value": "Mr IJM Ahmed"
+  },
+  {
+   "label": "Solicitor for the Fourth Respondent and Fourth Cross-Respondent",
+   "value": "MinterEllison"
+  },
+  {
+   "label": "Counsel for the First, Second and Third Cross-Respondents",
+   "value": "Mr B Hancock"
+  },
+  {
+   "label": "Solicitor for the First, Second and Third Cross-Respondents",
+   "value": "Allens Linklaters"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD2289/2018",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351",
+     "role": "First Respondent"
+    },
+    {
+     "name": "PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 (and another named in the Schedule)",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351 (and others named in the Schedule)",
+     "role": "First Cross-Claimant"
+    },
+    {
+     "name": "PORT OF NEWCASTLE OPERATIONS PTY LIMITED ACN 165 332 990 (and others named in the Schedule)",
+     "role": "First Cross-Respondent"
+    }
+   ],
+   "judges": [
+    "JAGOT J"
+   ],
+   "date": "2021-08-31",
+   "date_raw": "31 AUGUST 2021",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Within seven days, the parties confer and provide chambers with agreed or competing proposed orders as to costs reflecting the reasons for judgment published today.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The outstanding issues in this matter are the orders for costs that should be made consequential on the orders of 29 June 2021 dismissing the originating application and cross-claim for the reasons in Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720 (the principal judgment or J).",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Defined terms in the principal judgment are also used in this costs judgment.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The orders of 29 June 2021 reflect the fact that for the reasons given in the principal judgment: (a) the ACCC (and, in substance, PON) failed in respect of the ACCC’s claims against NSW Ports and the State, and (b) as a result, NSW Ports also failed in its cross-claim against PON and the State.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "The dispute between the parties about costs concerns whether:\nthe ACCC or NSW Ports should pay the State’s costs of the ACCC’s failed originating application;\nthe ACCC or NSW Ports should pay the State’s costs of NSW Ports’ failed cross-claim and the ACCC should pay NSW Ports’ costs of NSW Ports’ failed cross-claim; and\nNSW Ports should pay compliance costs in connection with the production of documents under subpoenas to PON, its chairman, and adviser, issued before PON was joined as a party to the cross-claim (in which event, those costs would be part of NSW Ports’ costs of the proceedings).",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "The ACCC contends that it should not be liable to pay the State’s costs of the cross-claim because:\nthe ACCC did not commence proceedings against the State and did not at any stage seek relief against the State;\nthe State was not a necessary party to the originating application: News Limited v Australian Rugby Football League Limited [1996] FCA 870; (1996) 64 FCR 410 at 525;\nthe State was joined to the proceeding by NSW Ports as a cross-respondent to its cross-claim;\non 19 August 2019, NSW Ports applied for the joinder of the State as a respondent to the originating application;\nthe State consented to joinder as a party to the originating application although no relief was sought against it;\nthe ACCC did not seek, or consent to, the joinder of the State; and\naccordingly, NSW Ports should pay the costs of the State.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "NSW Ports contends that the ACCC should pay the State’s costs of the originating application as:\nthe State was a necessary party to the originating application as the ACCC claimed relief that would have resulted in the invalidity and severance of (at least) cl 3 of each of the Port Botany and Kembla PCDs, by operation of s 4L of the Competition and Consumer Act 2010 (Cth) (CCA);\nthe relief claimed therefore directly affected the legal rights of the State and required that the State be joined: John Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd [2010] HCA 19; (2010) 241 CLR 1 at [131];\nthe ACCC contended in the proceeding that the State did not enjoy Crown immunity because it made the PCDs in the course of carrying on a business, which also required that the State be joined;\nthe ACCC’s decision not to join the State from the outset was misconceived;\nNSW Ports’ proposal that the State be joined was based on the State being a necessary part to the main proceeding;\nthe ACCC did not oppose that proposed order and did not seek any protective costs order; and\neven if the State was not a necessary party to the main proceeding, it was a proper party.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "The State supported the contentions of NSW Ports.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "NSW Ports’ contentions must be accepted. The fact that the originating application did not seek specific relief against the State does not mean that the State was not a proper and/or necessary party to the proceeding. Even if the State was not a necessary party, it was a proper party to the proceeding given that the relief sought, if granted, would change the State’s contractual rights and duties. That fact alone is sufficient to support the conclusion that the ACCC, as the unsuccessful party, should pay the State’s costs of the originating application.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "I also consider that the State was a necessary party to the main proceeding. The relief the ACCC sought, if granted, would have changed the contractual rights and duties as between the State and NSW Ports. The ACCC’s submissions about s 4L of the CCA having nothing to do with joinder, not applying to arrangements or understandings, and not operating other than as between the parties to the proceeding are misconceived. If the ACCC had succeeded, the result of the relief to be granted would have been to change the contractual relationship between NSW Ports and the State. The principle that only a party to the proceedings in which a declaration is made is bound by the declaration is not an answer. The declaration would have operated to prevent the State from enforcing the PCDs against NSW Ports, and NSW Ports from enforcing the PCDs against the State because the PCDs would have been declared to be unlawful and that declaration would have been binding on NSW Ports. Further, s 4L of the CCA assumes this to be the consequence of any such declaration. Under s 4L, if the contravening provision is severable, then the balance of the contract remains valid and enforceable. The corollary is that the contravening provision is not valid and enforceable. Section 83 does not suggest to the contrary. It is merely an aid to proof in subsequent proceedings.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "I do not accept that this approach will increase the burden on the ACCC in a manner which may discourage it from taking proceedings due to the need to join all parties to a contract. Joinder will only be required of parties whose rights and interests would be directly affected by the relief sought, as in the present case. With multi-party contracts, that may not be the case for all parties. Further, if relief is not sought against a party to a contract directly, that party may choose to enter a submitting appearance. It may be inferred that a party to a contract will only take an active role in the proceeding, as the State did in the present case, if it wishes to preserve its rights under the contractual status quo. It also may be inferred that it will only wish to do so if its rights stand to be directly affected. It cannot be the case that the ACCC should not be burdened by having to join a party whose rights will be directly affected by the relief sought.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "It is also not to the point that the ACCC may choose not to bring proceedings against all parties to an impugned contract, arrangement or understanding, including to give effect to its immunity and co-operation policy. At least insofar as a contract is concerned, a party to the contract is a necessary and proper party if the relief sought, if granted, will change the contractual relationship to which it is a party in some manner which directly affects its rights or duties. A party that has co-operated with the ACCC and been granted immunity from suit, it must be inferred, consents to the making of orders which will have that effect of changing the contractual relationship. On that basis, they may not need to be joined. But that is not the present case. The State could not be inferred to have consented to the relief the ACCC sought. To the contrary, it opposed that relief and had a direct interest in so doing.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "Otherwise, the concern raised by the ACCC about a necessary party being overseas is no reason to reach a contrary conclusion. An overseas party is common-place. Even if that contracting party is outside the scope of s 5 of the CCA, it may be a necessary party to the proceeding if its contractual rights will be directly affected.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Originating application – State’s costs"
+    ],
+    "text": "The fact that NSW Ports proposed the joinder of the State to the main proceeding after joining the State to its cross-claim is immaterial. The State was a necessary and proper party to the main proceeding. The ACCC did not suggest to the contrary at the time of joinder. Nor did it suggest that the joinder should be subject to any special costs regime. In these circumstances, the idea that any party other than the ACCC should pay the State’s costs of the originating application is untenable. The usual order as to the costs of the State should be made against the ACCC in respect of the originating application.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "The ACCC contends that NSW Ports should pay the State’s costs, and otherwise bear its own costs, of NSW Ports’ failed cross-claim because:\nthe failure of NSW Ports’ cross-claim is a separate event;\nthe usual position is that an unsuccessful cross-claimant will be liable for the costs of an unsuccessful cross-claim, even in circumstances where the failure of the cross-claim results from the failure of the principal claim against the cross-claimant in the proceedings: Kheirs Financial Services Pty Ltd & Anor v Aussie Home Loans Pty Ltd & Anor [2010] VSCA 355; (2010) 31 VR 46 at [15]-[16], [28]; Gladstone Park Shopping Centre Pty Ltd v Ross Wills & Ors (1984) 6 FCR 496 at 509-510;\nin the present case, the cross-claim was not inextricably linked to the principal claim such that they would necessarily rise or fall together: GEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 688; (2003) 201 ALR 55 at [72], [75]; Boral Australian Gypsum Ltd & Anor v Victorian WorkCover Authority & Anor [2015] VSCA 187 at [10];\nthe cross-claim (claiming that the PON PCD had the proscribed purpose or likely effect of substantially lessening competition) was not necessitated by the ACCC’s claim against NSW Ports. It was not an answer to the ACCC’s claim or a basis upon which NSW Ports might recover for any liability it had by reason of the ACCC’s claim;\nthe success or failure of the cross-claim did not depend on the outcome of the ACCC’s claim. It was possible, for example, that NSW Ports’ cross-claim might succeed, even if the ACCC’s claim against NSW Ports failed;\nthe cross-claim, even if successful, would not negate liability on the part of NSW Ports on the principal claim (J [1067]); and\nthe ACCC’s case did not make the cross-claim necessary or inevitable, and NSW Ports was not compelled to bring that claim. The Court would infer that NSW Ports elected to pursue the cross-claim because it determined that the forensic and strategic benefits of doing so outweighed the risks. Having made that assessment and pursued that course, NSW Ports should bear the ordinary costs consequences of its failure.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "NSW Ports submitted that:\n“[w]here the nature of the plaintiff’s claim, or allegations in support thereof, render it reasonable, having regard to the purposes of third party procedure, to bring in the third party, and the third party claim is unsuccessful solely by reason of the failure of the plaintiff to sustain its claim or the relevant allegations, the defendant should ordinarily recover from the plaintiff the costs of the third party claim including those which the defendant is ordered to pay to the third party”: Lombard Insurance Co (Australia) Ltd v Pastro (1994) 175 LSJS 448 at 450 cited in ACN 068 691 092 Pty Ltd v Plan 4 Insurance Services Pty Ltd [2012] SASCFC 25; (2012) 112 SASR 329 at [158]-[159];\nthe NSW Court of Appeal has also endorsed this principle, subject to a minor qualification that it “may be stating it too highly to say that the result indicated [by King CJ] is one that ‘ordinarily’ should follow”: Furber v Stacey [2005] NSWCA 242 at [32], [114]-[115];\nit is necessary to examine the “relationship” or “nexus” between the original application and the cross-claim in question: GEC Marconi at [72]-[75];\nthe illegality of the reimbursement provision in the PON PCD was an integer of the ACCC’s own case, although it did not seek relief against PON;\nNSW Ports’ cross-claim was entirely reflexive upon the ACCC’s allegations and sought to establish that, if the ACCC’s allegations were made out, and the reimbursement provision was illegal, that provision should be severed or not enforced and, on that basis, the compensation provisions in the Port Botany and Port Kembla PCDs had no anti-competitive effect. The cross-claim was also in the alternative to its primary defence; and\nthe cross-claim sought only to expose more clearly, and bring about the remedial consequences of, legal issues already in play on the ACCC’s case, and did so relying only on the ACCC’s factual allegations.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "There is some divergence of principle between intermediate appellate courts about these issues. However, Kheirs refers to Furber, and Furber refers to both Lombard and GEC Marconi. The weight of authority is that the approach in Lombard is expressed too emphatically. The only principles are: (a) costs ordinarily follow the event including that a respondent must pay the cross-respondent’s costs of an unsuccessful cross-claim, and (b) the interests of justice may require a different costs order depending on the relationship between the main claim and the cross-claim.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "Given the circumstances of the present case, the approach of NSW Ports should be accepted. While I cannot conclude that it was necessary or inevitable for NSW Ports to bring the cross-claim, the circumstances are such that the ACCC ought fairly to be responsible for the costs of the cross-claim.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "The cross-claim exposed the reality that there could be no challenge to the compensation provisions without deciding the legality of the reimbursement provisions. This issue was inherent within the ACCC’s case. The cross-claim made the issue manifest. The conceptual confusion identified at J [1067] is not why NSW Ports failed in its cross-claim. It failed because the ACCC failed in its main claim: J [1602].",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "Relevantly: (a) it was not only reasonable for NSW Ports to bring the cross-claim, but also, in doing so, it was exposing what was already inherent in the ACCC’s main claim, (b) the issues in the cross-claim were part and parcel of the ACCC’s main claim – by the cross-claim NSW Ports was merely taking the ACCC’s main claim to its logical conclusion, (c) it goes without saying that the ACCC’s main claim was the catalyst for the cross-claim, (d) the very basis of the cross-claim was contingent on the ACCC succeeding in the main claim – no independent right or interest of NSW Ports was sought to be vindicated, and (e) it is doubtful that the cross-claim involved any costs that would not have been incurred in the main claim in any event.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Cross-claim"
+    ],
+    "text": "In these circumstances the interests of justice require that the ACCC pay the costs of NSW Ports and the State in respect of the cross-claim.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "Contrary to its contentions, NSW Ports should pay the compliance costs in connection with the three subpoenas. The result is that these costs would form part of NSW Ports’ costs of the proceeding for which the ACCC will be liable on a party-party basis.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "As to the PON subpoena, this is because: (a) the ordinary rule is that a party serving a subpoena must pay the recipient’s reasonable costs of compliance with the subpoena, (b) NSW Ports must be taken to have known about this ordinary rule at the time it served the subpoena on PON, (c) the subpoena to PON was served before PON was a party, and (d) PON only became a party by reason of it being a respondent to NSW Ports’ cross-claim, which occurred after production under the PON subpoena. Contrary to NSW Ports’ submissions, this is not a case in which PON, as an unsuccessful party, is being paid for is costs of discovery. The circumstances are not analogous to City of Swan v Lehman Bros Australia Ltd (No 3) [2009] FCA 1190 at [20] or Simpson v Monteith [2009] NSWSC 156 at [54]-[58]. In those cases production occurred after joinder. Further, in City of Swan the recipient sought to become a party. In Simpson, the recipient was the trustee of the trust in respect of which the beneficiary was suing.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "It was not unreasonable for PON to file the interlocutory application seeking its compliance costs in these circumstances. PON should also have its costs of this interlocutory application against NSW Ports. The costs of that interlocutory application should remain with NSW Ports, not the ACCC. This is because NSW Ports could have avoided the interlocutory application by paying PON’s compliance costs as it was required to do in the ordinary course.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "As to the subpoenas to PON’s Chairman, Professor Green, and to Macquarie Fund Advisers Pty Ltd (MFA), this is because: (a) the ordinary rule is that a party serving a subpoena must pay the recipient’s reasonable costs of compliance with the subpoena, (b) NSW Ports must be taken to have known about this ordinary rule at the time it served the subpoena on Professor Green and MFA, (c) in correspondence to Professor Green’s and MFA’s lawyers before production under the subpoena, NSW Ports confirmed that it would consent to paying his and its reasonable compliance costs in accordance with r 24.22 of the Federal Court Rules 2011 (Cth), and (d) there is no reason to depart from the ordinary rule in the circumstances.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "NSW Ports’ submissions to the contrary are not persuasive: (a) it does not matter if PON indemnified Professor Green and MFA for their compliance costs – the liability to comply with the subpoena was that of each of Professor Green and MFA, and (b) equally, it does not matter if there are documents which PON should have discovered, after it became a party, which are within the scope of the subpoenas to Professor Green and MFA. As recipients of the subpoenas, Professor Green and MFA are entitled to their reasonable costs of compliance irrespective of their relationship with PON.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Subpoenas"
+    ],
+    "text": "Any issue as to the reasonableness of the costs of compliance should be dealt with as part of the overall assessment of the lump sums payable.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Conclusions"
+    ],
+    "text": "NSW Ports and the State have substantially succeeded against the ACCC. They should have their costs of and in connection with the hearing in respect of the issue of costs.",
+    "judge": "JAGOT J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Conclusions"
+    ],
+    "text": "The parties should confer and file agreed or competing orders reflecting these reasons for judgment within seven days.",
+    "judge": "JAGOT J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Jagot.",
+ "associate": null,
+ "dated": "2021-08-31",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 2289 of 2018\nRespondents\nFourth Respondent: | STATE OF NSW\nCross-Claimants\nSecond Cross-Claimant: | PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342\nThird Cross-Claimant: | PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582\nCross-Respondents\nSecond Cross-Respondent | PORT OF NEWCASTLE INVESTMENTS (PROPERTY) PTY LIMITED ACN 169 286 024\nThird Cross-Respondent | PORT OF NEWCASTLE INVESTMENTS PTY LIMITED ACN 169 132 441\nFourth Cross-Respondent | STATE OF NSW"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd (No 2) [2021] FCA 1040\n\n## Cover sheet\n\n**File number(s):** NSD 2289 of 2018\n\n**Judgment of:** JAGOT J\n\n**Date of judgment:** 31 August 2021\n\n**Catchwords:** COSTS — necessary or proper party for purposes of joinder — entitlement to costs order of necessary or proper party joint to proceeding — costs of cross-claim — whether interests of justice require party other than respondent to bear costs of cross-respondent — entitlement to recover reasonable costs of complying with subpoena\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) s 4L, s 5  \nFederal Court Rules 2011 (Cth) r 24.22)\n\n**Cases cited:** ACN 068 691 092 Pty Ltd v Plan 4 Insurance Services Pty Ltd [2012] SASCFC 25; (2012) 112 SASR 329  \nAustralian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720  \nBoral Australian Gypsum Ltd & Anor v Victorian WorkCover Authority & Anor [2015] VSCA 187  \nCity of Swan v Lehman Bros Australia Ltd (No 3) [2009] FCA 1190  \nFurber v Stacey [2005] NSWCA 242  \nGEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 688; (2003) 201 ALR 55  \nGladstone Park Shopping Centre Pty Ltd v Ross Wills & Ors (1984) 6 FCR 496  \nJohn Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd [2010] HCA 19; (2010) 241 CLR 1  \nKheirs Financial Services Pty Ltd & Anor v Aussie Home Loans Pty Ltd & Anor [2010] VSCA 355; (2010) 31 VR 46  \nLombard Insurance Co (Australia) Ltd v Pastro (1994) 175 LSJS 448  \nNews Limited v Australian Rugby Football League Limited [1996] FCA 870; (1996) 64 FCR 410  \nSimpson v Monteith [2009] NSWSC 156\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 28\n\n**Date of hearing:** 12 August 2021\n\n**Counsel for the Applicant:** Mr R Yezerski\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First, Second and Third Respondents:** Mr B Lim\n\n**Solicitor for the First, Second and Third Respondents:** Gilbert + Tobin\n\n**Counsel for the Fourth Respondent and Fourth Cross-Respondent:** Mr IJM Ahmed\n\n**Solicitor for the Fourth Respondent and Fourth Cross-Respondent:** MinterEllison\n\n**Counsel for the First, Second and Third Cross-Respondents:** Mr B Hancock\n\n**Solicitor for the First, Second and Third Cross-Respondents:** Allens Linklaters\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 2289 of 2018 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351<br>First Respondent<br>PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342<br>Second Respondent<br>PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 (and another named in the Schedule)<br>Third Respondent |\n| AND BETWEEN: | NSW PORTS OPERATIONS HOLD CO PTY LTD ACN 163 262 351 (and others named in the Schedule)<br>First Cross-Claimant |\n| AND: | PORT OF NEWCASTLE OPERATIONS PTY LIMITED ACN 165 332 990 (and others named in the Schedule)<br>First Cross-Respondent |\n\n| order made by: | JAGOT J |\n|---|---|\n| DATE OF ORDER: | 31 AUGUST 2021 |\n\n### THE COURT ORDERS THAT:\n\n1. Within seven days, the parties confer and provide chambers with agreed or competing proposed orders as to costs reflecting the reasons for judgment published today.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### JAGOT J:\n\n[1] The outstanding issues in this matter are the orders for costs that should be made consequential on the orders of 29 June 2021 dismissing the originating application and cross-claim for the reasons in Australian Competition and Consumer Commission v NSW Ports Operations Hold Co Pty Ltd [2021] FCA 720 (the principal judgment or J).\n\n[2] Defined terms in the principal judgment are also used in this costs judgment.\n\n[3] The orders of 29 June 2021 reflect the fact that for the reasons given in the principal judgment: (a) the ACCC (and, in substance, PON) failed in respect of the ACCC’s claims against NSW Ports and the State, and (b) as a result, NSW Ports also failed in its cross-claim against PON and the State.\n\n[4] The dispute between the parties about costs concerns whether:\n\nthe ACCC or NSW Ports should pay the State’s costs of the ACCC’s failed originating application;\n\nthe ACCC or NSW Ports should pay the State’s costs of NSW Ports’ failed cross-claim and the ACCC should pay NSW Ports’ costs of NSW Ports’ failed cross-claim; and\n\nNSW Ports should pay compliance costs in connection with the production of documents under subpoenas to PON, its chairman, and adviser, issued before PON was joined as a party to the cross-claim (in which event, those costs would be part of NSW Ports’ costs of the proceedings).\n\n#### Originating application – State’s costs\n\n[5] The ACCC contends that it should not be liable to pay the State’s costs of the cross-claim because:\n\nthe ACCC did not commence proceedings against the State and did not at any stage seek relief against the State;\n\nthe State was not a necessary party to the originating application: News Limited v Australian Rugby Football League Limited [1996] FCA 870; (1996) 64 FCR 410 at 525;\n\nthe State was joined to the proceeding by NSW Ports as a cross-respondent to its cross-claim;\n\non 19 August 2019, NSW Ports applied for the joinder of the State as a respondent to the originating application;\n\nthe State consented to joinder as a party to the originating application although no relief was sought against it;\n\nthe ACCC did not seek, or consent to, the joinder of the State; and\n\naccordingly, NSW Ports should pay the costs of the State.\n\n[6] NSW Ports contends that the ACCC should pay the State’s costs of the originating application as:\n\nthe State was a necessary party to the originating application as the ACCC claimed relief that would have resulted in the invalidity and severance of (at least) cl 3 of each of the Port Botany and Kembla PCDs, by operation of s 4L of the Competition and Consumer Act 2010 (Cth) (CCA);\n\nthe relief claimed therefore directly affected the legal rights of the State and required that the State be joined: John Alexander’s Clubs Pty Ltd v White City Tennis Club Ltd [2010] HCA 19; (2010) 241 CLR 1 at [131];\n\nthe ACCC contended in the proceeding that the State did not enjoy Crown immunity because it made the PCDs in the course of carrying on a business, which also required that the State be joined;\n\nthe ACCC’s decision not to join the State from the outset was misconceived;\n\nNSW Ports’ proposal that the State be joined was based on the State being a necessary part to the main proceeding;\n\nthe ACCC did not oppose that proposed order and did not seek any protective costs order; and\n\neven if the State was not a necessary party to the main proceeding, it was a proper party.\n\n[7] The State supported the contentions of NSW Ports.\n\n[8] NSW Ports’ contentions must be accepted. The fact that the originating application did not seek specific relief against the State does not mean that the State was not a proper and/or necessary party to the proceeding. Even if the State was not a necessary party, it was a proper party to the proceeding given that the relief sought, if granted, would change the State’s contractual rights and duties. That fact alone is sufficient to support the conclusion that the ACCC, as the unsuccessful party, should pay the State’s costs of the originating application.\n\n[9] I also consider that the State was a necessary party to the main proceeding. The relief the ACCC sought, if granted, would have changed the contractual rights and duties as between the State and NSW Ports. The ACCC’s submissions about s 4L of the CCA having nothing to do with joinder, not applying to arrangements or understandings, and not operating other than as between the parties to the proceeding are misconceived. If the ACCC had succeeded, the result of the relief to be granted would have been to change the contractual relationship between NSW Ports and the State. The principle that only a party to the proceedings in which a declaration is made is bound by the declaration is not an answer. The declaration would have operated to prevent the State from enforcing the PCDs against NSW Ports, and NSW Ports from enforcing the PCDs against the State because the PCDs would have been declared to be unlawful and that declaration would have been binding on NSW Ports. Further, s 4L of the CCA assumes this to be the consequence of any such declaration. Under s 4L, if the contravening provision is severable, then the balance of the contract remains valid and enforceable. The corollary is that the contravening provision is not valid and enforceable. Section 83 does not suggest to the contrary. It is merely an aid to proof in subsequent proceedings.\n\n[10] I do not accept that this approach will increase the burden on the ACCC in a manner which may discourage it from taking proceedings due to the need to join all parties to a contract. Joinder will only be required of parties whose rights and interests would be directly affected by the relief sought, as in the present case. With multi-party contracts, that may not be the case for all parties. Further, if relief is not sought against a party to a contract directly, that party may choose to enter a submitting appearance. It may be inferred that a party to a contract will only take an active role in the proceeding, as the State did in the present case, if it wishes to preserve its rights under the contractual status quo. It also may be inferred that it will only wish to do so if its rights stand to be directly affected. It cannot be the case that the ACCC should not be burdened by having to join a party whose rights will be directly affected by the relief sought.\n\n[11] It is also not to the point that the ACCC may choose not to bring proceedings against all parties to an impugned contract, arrangement or understanding, including to give effect to its immunity and co-operation policy. At least insofar as a contract is concerned, a party to the contract is a necessary and proper party if the relief sought, if granted, will change the contractual relationship to which it is a party in some manner which directly affects its rights or duties. A party that has co-operated with the ACCC and been granted immunity from suit, it must be inferred, consents to the making of orders which will have that effect of changing the contractual relationship. On that basis, they may not need to be joined. But that is not the present case. The State could not be inferred to have consented to the relief the ACCC sought. To the contrary, it opposed that relief and had a direct interest in so doing.\n\n[12] Otherwise, the concern raised by the ACCC about a necessary party being overseas is no reason to reach a contrary conclusion. An overseas party is common-place. Even if that contracting party is outside the scope of s 5 of the CCA, it may be a necessary party to the proceeding if its contractual rights will be directly affected.\n\n[13] The fact that NSW Ports proposed the joinder of the State to the main proceeding after joining the State to its cross-claim is immaterial. The State was a necessary and proper party to the main proceeding. The ACCC did not suggest to the contrary at the time of joinder. Nor did it suggest that the joinder should be subject to any special costs regime. In these circumstances, the idea that any party other than the ACCC should pay the State’s costs of the originating application is untenable. The usual order as to the costs of the State should be made against the ACCC in respect of the originating application.\n\n#### Cross-claim\n\n[14] The ACCC contends that NSW Ports should pay the State’s costs, and otherwise bear its own costs, of NSW Ports’ failed cross-claim because:\n\nthe failure of NSW Ports’ cross-claim is a separate event;\n\nthe usual position is that an unsuccessful cross-claimant will be liable for the costs of an unsuccessful cross-claim, even in circumstances where the failure of the cross-claim results from the failure of the principal claim against the cross-claimant in the proceedings: Kheirs Financial Services Pty Ltd & Anor v Aussie Home Loans Pty Ltd & Anor [2010] VSCA 355; (2010) 31 VR 46 at [15]-[16], [28]; Gladstone Park Shopping Centre Pty Ltd v Ross Wills & Ors (1984) 6 FCR 496 at 509-510;\n\nin the present case, the cross-claim was not inextricably linked to the principal claim such that they would necessarily rise or fall together: GEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 688; (2003) 201 ALR 55 at [72], [75]; Boral Australian Gypsum Ltd & Anor v Victorian WorkCover Authority & Anor [2015] VSCA 187 at [10];\n\nthe cross-claim (claiming that the PON PCD had the proscribed purpose or likely effect of substantially lessening competition) was not necessitated by the ACCC’s claim against NSW Ports. It was not an answer to the ACCC’s claim or a basis upon which NSW Ports might recover for any liability it had by reason of the ACCC’s claim;\n\nthe success or failure of the cross-claim did not depend on the outcome of the ACCC’s claim. It was possible, for example, that NSW Ports’ cross-claim might succeed, even if the ACCC’s claim against NSW Ports failed;\n\nthe cross-claim, even if successful, would not negate liability on the part of NSW Ports on the principal claim (J [1067]); and\n\nthe ACCC’s case did not make the cross-claim necessary or inevitable, and NSW Ports was not compelled to bring that claim. The Court would infer that NSW Ports elected to pursue the cross-claim because it determined that the forensic and strategic benefits of doing so outweighed the risks. Having made that assessment and pursued that course, NSW Ports should bear the ordinary costs consequences of its failure.\n\n[15] NSW Ports submitted that:\n\n“[w]here the nature of the plaintiff’s claim, or allegations in support thereof, render it reasonable, having regard to the purposes of third party procedure, to bring in the third party, and the third party claim is unsuccessful solely by reason of the failure of the plaintiff to sustain its claim or the relevant allegations, the defendant should ordinarily recover from the plaintiff the costs of the third party claim including those which the defendant is ordered to pay to the third party”: Lombard Insurance Co (Australia) Ltd v Pastro (1994) 175 LSJS 448 at 450 cited in ACN 068 691 092 Pty Ltd v Plan 4 Insurance Services Pty Ltd [2012] SASCFC 25; (2012) 112 SASR 329 at [158]-[159];\n\nthe NSW Court of Appeal has also endorsed this principle, subject to a minor qualification that it “may be stating it too highly to say that the result indicated [by King CJ] is one that ‘ordinarily’ should follow”: Furber v Stacey [2005] NSWCA 242 at [32], [114]-[115];\n\nit is necessary to examine the “relationship” or “nexus” between the original application and the cross-claim in question: GEC Marconi at [72]-[75];\n\nthe illegality of the reimbursement provision in the PON PCD was an integer of the ACCC’s own case, although it did not seek relief against PON;\n\nNSW Ports’ cross-claim was entirely reflexive upon the ACCC’s allegations and sought to establish that, if the ACCC’s allegations were made out, and the reimbursement provision was illegal, that provision should be severed or not enforced and, on that basis, the compensation provisions in the Port Botany and Port Kembla PCDs had no anti-competitive effect. The cross-claim was also in the alternative to its primary defence; and\n\nthe cross-claim sought only to expose more clearly, and bring about the remedial consequences of, legal issues already in play on the ACCC’s case, and did so relying only on the ACCC’s factual allegations.\n\n[16] There is some divergence of principle between intermediate appellate courts about these issues. However, Kheirs refers to Furber, and Furber refers to both Lombard and GEC Marconi. The weight of authority is that the approach in Lombard is expressed too emphatically. The only principles are: (a) costs ordinarily follow the event including that a respondent must pay the cross-respondent’s costs of an unsuccessful cross-claim, and (b) the interests of justice may require a different costs order depending on the relationship between the main claim and the cross-claim.\n\n[17] Given the circumstances of the present case, the approach of NSW Ports should be accepted. While I cannot conclude that it was necessary or inevitable for NSW Ports to bring the cross-claim, the circumstances are such that the ACCC ought fairly to be responsible for the costs of the cross-claim.\n\n[18] The cross-claim exposed the reality that there could be no challenge to the compensation provisions without deciding the legality of the reimbursement provisions. This issue was inherent within the ACCC’s case. The cross-claim made the issue manifest. The conceptual confusion identified at J [1067] is not why NSW Ports failed in its cross-claim. It failed because the ACCC failed in its main claim: J [1602].\n\n[19] Relevantly: (a) it was not only reasonable for NSW Ports to bring the cross-claim, but also, in doing so, it was exposing what was already inherent in the ACCC’s main claim, (b) the issues in the cross-claim were part and parcel of the ACCC’s main claim – by the cross-claim NSW Ports was merely taking the ACCC’s main claim to its logical conclusion, (c) it goes without saying that the ACCC’s main claim was the catalyst for the cross-claim, (d) the very basis of the cross-claim was contingent on the ACCC succeeding in the main claim – no independent right or interest of NSW Ports was sought to be vindicated, and (e) it is doubtful that the cross-claim involved any costs that would not have been incurred in the main claim in any event.\n\n[20] In these circumstances the interests of justice require that the ACCC pay the costs of NSW Ports and the State in respect of the cross-claim.\n\n#### Subpoenas\n\n[21] Contrary to its contentions, NSW Ports should pay the compliance costs in connection with the three subpoenas. The result is that these costs would form part of NSW Ports’ costs of the proceeding for which the ACCC will be liable on a party-party basis.\n\n[22] As to the PON subpoena, this is because: (a) the ordinary rule is that a party serving a subpoena must pay the recipient’s reasonable costs of compliance with the subpoena, (b) NSW Ports must be taken to have known about this ordinary rule at the time it served the subpoena on PON, (c) the subpoena to PON was served before PON was a party, and (d) PON only became a party by reason of it being a respondent to NSW Ports’ cross-claim, which occurred after production under the PON subpoena. Contrary to NSW Ports’ submissions, this is not a case in which PON, as an unsuccessful party, is being paid for is costs of discovery. The circumstances are not analogous to City of Swan v Lehman Bros Australia Ltd (No 3) [2009] FCA 1190 at [20] or Simpson v Monteith [2009] NSWSC 156 at [54]-[58]. In those cases production occurred after joinder. Further, in City of Swan the recipient sought to become a party. In Simpson, the recipient was the trustee of the trust in respect of which the beneficiary was suing.\n\n[23] It was not unreasonable for PON to file the interlocutory application seeking its compliance costs in these circumstances. PON should also have its costs of this interlocutory application against NSW Ports. The costs of that interlocutory application should remain with NSW Ports, not the ACCC. This is because NSW Ports could have avoided the interlocutory application by paying PON’s compliance costs as it was required to do in the ordinary course.\n\n[24] As to the subpoenas to PON’s Chairman, Professor Green, and to Macquarie Fund Advisers Pty Ltd (MFA), this is because: (a) the ordinary rule is that a party serving a subpoena must pay the recipient’s reasonable costs of compliance with the subpoena, (b) NSW Ports must be taken to have known about this ordinary rule at the time it served the subpoena on Professor Green and MFA, (c) in correspondence to Professor Green’s and MFA’s lawyers before production under the subpoena, NSW Ports confirmed that it would consent to paying his and its reasonable compliance costs in accordance with r 24.22 of the Federal Court Rules 2011 (Cth), and (d) there is no reason to depart from the ordinary rule in the circumstances.\n\n[25] NSW Ports’ submissions to the contrary are not persuasive: (a) it does not matter if PON indemnified Professor Green and MFA for their compliance costs – the liability to comply with the subpoena was that of each of Professor Green and MFA, and (b) equally, it does not matter if there are documents which PON should have discovered, after it became a party, which are within the scope of the subpoenas to Professor Green and MFA. As recipients of the subpoenas, Professor Green and MFA are entitled to their reasonable costs of compliance irrespective of their relationship with PON.\n\n[26] Any issue as to the reasonableness of the costs of compliance should be dealt with as part of the overall assessment of the lump sums payable.\n\n#### Conclusions\n\n[27] NSW Ports and the State have substantially succeeded against the ACCC. They should have their costs of and in connection with the hearing in respect of the issue of costs.\n\n[28] The parties should confer and file agreed or competing orders reflecting these reasons for judgment within seven days.\n\nI certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Jagot.\n\nAssociate:\n\nDated: 31 August 2021\n\n### SCHEDULE OF PARTIES\n\n|  | NSD 2289 of 2018 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | STATE OF NSW |\n| Cross-Claimants |  |\n| Second Cross-Claimant: | PORT BOTANY OPERATIONS PTY LTD ACN 161 204 342 |\n| Third Cross-Claimant: | PORT KEMBLA OPERATIONS PTY LTD ACN 161 246 582 |\n| Cross-Respondents |  |\n| Second Cross-Respondent | PORT OF NEWCASTLE INVESTMENTS (PROPERTY) PTY LIMITED ACN 169 286 024 |\n| Third Cross-Respondent | PORT OF NEWCASTLE INVESTMENTS PTY LIMITED ACN 169 132 441 |\n| Fourth Cross-Respondent | STATE OF NSW |\n",
+ "source_sha256": "3952b79d06ef01a36af1b3a81b502db8327998bf09127817f4d4a1d89b4e74f6"
+}

@@ -1,0 +1,454 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA1002.docx",
+ "metadata": {
+  "citation": "[2013] FCA 1002",
+  "name": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 6)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 1002,
+  "date_of_judgment": "2013-10-04",
+  "file_numbers": [
+   "SAD145/2009"
+  ],
+  "judges": [
+   "BESANKO J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2013-07-29"
+  ],
+  "hearing_raw": "29 July 2013",
+  "number_of_paragraphs": 34,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Application by second respondent to strike out statement of claim or, in the alternative, specified paragraphs of the statement of claim – application by applicant to seek leave to file and serve an amended statement of claim – whether the applicant has a prima facie case against the second respondent – whether the statement of claim or the specified paragraphs are fundamentally defective – consideration of the specified paragraphs.",
+   "Held: Leave to amend statement of claim to be granted subject to the provision of particulars in certain paragraphs."
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 37P",
+   "Federal Court Rules 1979 O 8 rr 3, 5",
+   "Federal Court Rules 2011 (Cth) rr 16.21(1), 16.41 – 16.45",
+   "Trade Practices Act 1974 (Cth) ss 84, 155"
+  ],
+  "cases_cited": [
+   "Auskay International Manufacturing & Trade Pty Ltd (ACN 078 654 243) v Qantas Airways Ltd (ACN 009 661 901) and Others [2008] FCA 1458; 251 ALR 166",
+   "Australian Competition & Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344",
+   "Australian Competition & Consumer Commission v Boral Ltd (No 2) (2000) ATPR 41-738",
+   "Australian Competition & Consumer Commission v Mobil Oil Australia Ltd (1997) ATPR 41-568",
+   "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; 298 ALR 251",
+   "Australian Securities & Investment Commission v Adler (2001) 40 ACSR 214",
+   "Chan Cuong Su (t/a Ausviet Travel) v Direct Flights International Pty Ltd (1998) ATPR 41-662",
+   "Multigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd (1996) ATPR 41-522",
+   "Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192",
+   "Research in Motion Ltd and Another v Samsung Electronics Australia Pty Ltd (2009) 176 FCR 66",
+   "State of Queensland v Pioneer Concrete (QLD) Pty Ltd (1999) ATPR 41-691"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "NEXANS SA RCS PARIS 393 525 852",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A) and NEXANS SA RCS PARIS 393 525 852",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr N O'Bryan SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "The First Respondent did not appear"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Johnson Winter & Slattery"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr M Hoffmann QC with Mr M Burnett"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca1002",
+  "portal_file_numbers": [
+   "SAD145/2009"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-10-04"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 6) [2013] FCA 1002"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A) and NEXANS SA RCS PARIS 393 525 852"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 145 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "BESANKO J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "4 October 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Application by second respondent to strike out statement of claim or, in the alternative, specified paragraphs of the statement of claim – application by applicant to seek leave to file and serve an amended statement of claim – whether the applicant has a prima facie case against the second respondent – whether the statement of claim or the specified paragraphs are fundamentally defective – consideration of the specified paragraphs.\nHeld: Leave to amend statement of claim to be granted subject to the provision of particulars in certain paragraphs."
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) ss 37M, 37P\nFederal Court Rules 1979 O 8 rr 3, 5\nFederal Court Rules 2011 (Cth) rr 16.21(1), 16.41 – 16.45\nTrade Practices Act 1974 (Cth) ss 84, 155"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Auskay International Manufacturing & Trade Pty Ltd (ACN 078 654 243) v Qantas Airways Ltd (ACN 009 661 901) and Others [2008] FCA 1458; 251 ALR 166\nAustralian Competition & Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344\nAustralian Competition & Consumer Commission v Boral Ltd (No 2) (2000) ATPR 41-738\nAustralian Competition & Consumer Commission v Mobil Oil Australia Ltd (1997) ATPR 41-568\nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; 298 ALR 251\nAustralian Securities & Investment Commission v Adler (2001) 40 ACSR 214\nChan Cuong Su (t/a Ausviet Travel) v Direct Flights International Pty Ltd (1998) ATPR 41-662\nMultigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd (1996) ATPR 41-522\nNexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192\nResearch in Motion Ltd and Another v Samsung Electronics Australia Pty Ltd (2009) 176 FCR 66\nState of Queensland v Pioneer Concrete (QLD) Pty Ltd (1999) ATPR 41-691"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "29 July 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "34"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr N O'Bryan SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "The First Respondent did not appear"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Johnson Winter & Slattery"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr M Hoffmann QC with Mr M Burnett"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD145/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "NEXANS SA RCS PARIS 393 525 852",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "BESANKO J"
+   ],
+   "date": "2013-10-04",
+   "date_raw": "4 October 2013",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The applicant bring in draft minutes of order reflecting the conclusions in these reasons.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT DIRECTS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "This is a dispute about the applicant’s statement of claim in a proceeding in this Court. The nature of the proceeding and the key elements of the applicant’s claim, including its claims for relief, are set out in the previous judgments of this Court. The Court granted leave to the applicant pursuant to O 8 rr 3 and 5 of the Federal Court Rules 1979 to serve its originating application and statement of claim outside the jurisdiction on the first and second respondents. Each of the first and second respondents thereafter filed a notice of motion seeking an order that the orders granting leave to serve them be discharged, or that service of the originating process on them be set aside."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "A judge of this Court (Lander J) heard those notices of motion and dismissed them. He delivered detailed reasons for his decision: Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; 298 ALR 251. In the course of reaching his decision, his Honour decided that the applicant had made out a prima facie case that would entitle it to the relief sought in the originating application and statement of claim, save and except for an aspect which is no longer material (at [381])."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "I heard an application by the second respondent for leave to appeal from the Judge’s decision. I dismissed that application: Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "There are two applications before the Court. First, by amended interlocutory application dated 28 March 2013, the second respondent seeks an order striking out the applicant’s statement of claim dated 23 September 2013 (“SOC”), or in the alternative, specified paragraphs of the SOC. Secondly, by interlocutory application dated 27 June 2013, the applicant seeks leave to file and serve an amended statement of claim (“ASOC”). The second respondent opposes the applicant’s application on the ground that the proposed ASOC does not cure the fundamental defects in the SOC. It is almost trite to say that an application for leave to amend a statement of claim will not be allowed if the proposed amendment is fundamentally defective (Research in Motion Ltd and Another v Samsung Electronics Australia Pty Ltd (2009) 176 FCR 66)."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The second respondent has been ordered to provide discovery, but has not yet done so. In fact, the second respondent has applied for an order discharging the order that it make discovery. It does so on the basis that discovery and inspection of documents would contravene a statute referred to in argument as the “French Blocking Statute” and it submits that in lieu of discovery, an order should be made that letters of request be issued pursuant to the Hague Convention. I have heard that application and I have reserved my decision."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "There is no dispute about the relevant principles on these applications. The second respondent relies on s 37P of the Federal Court of Australia Act 1976 (Cth) and r 16.21(1) of the Federal Court Rules 2011 (Cth). In addition to these legislative provisions, rr 16.41 – 16.45 of the Federal Court Rules deal with the provision of particulars."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Two general principles referred to by the second respondent should be mentioned. The second respondent submits that in a civil penal case such as this case, an applicant is required to state its case clearly and precisely, and the Court’s discretions must be exercised bearing in mind the seriousness of the allegations, the gravity of the consequences and the nature of the proceeding. In support of this principle, the second respondent refers to Multigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd (1996) ATPR 41-522 at 42,680; Australian Competition & Consumer Commission v Boral Ltd (No 2) (2000) ATPR 41-738 at [30]; Australian Securities & Investment Commission v Adler (2001) 40 ACSR 214; Australian Competition & Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344 at 360-361. I accept that this is a principle to which I must have regard."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Secondly, the second respondent refers to Australian Competition & Consumer Commission v Mobil Oil Australia Ltd (1997) ATPR 41-568 at 43,896 – 43,897 and submits that it stands for the proposition that an applicant’s claim may be struck out and leave to re-plead refused where it was inappropriate to allow the applicant access to discovery when it had used its powers under s 155 of the Trade Practices Act 1974 (Cth) and was unable to particularise its case sufficiently. At 43,897 Heerey J said:\nWhat the Commission is seeking to do precisely fits the homely but apt metaphor which the law has long used. Its pleading shows that the Commission does not have a case, but hopes by the discovery process to fish around in the hope that something will turn up.\n(See also Chan Cuong Su (t/a Ausviet Travel) v Direct Flights International Pty Ltd (1998) ATPR 41-662 at 41,375-7 per Lehane J.)"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "In this case, as Lander J found, the applicant has a prima facie case against the second respondent."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Paragraph 2.11"
+    ],
+    "text": "Paragraph 2.11 is a plea against the first respondent. However, it contains a definition of land cables and submarine cables which is then used throughout the SOC. In material respects, it is the same in the proposed ASOC and the SOC. It is as follows:\n2. The first respondent (Prysmian):\n…\n2.11 at all material times from on or about 27 November 2001, supplied and offered to supply products including high voltage and extra high voltage land-based electrical cables and accessories (land-cables) and medium voltage, high voltage and extra high voltage submarine electrical cables and accessories (submarine cables) to customers in places including Australia."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Paragraph 2.11"
+    ],
+    "text": "The second respondent’s complaint about this plea is that it does not contain a definition of “medium”, “high” and “extra high” and that this absence of a definition is important having regard to subsequent paragraphs in the proposed ASOC and the terms of the definition of “the Snowy Hydro Project” in paragraph 25. The answer to this complaint is that the applicant has provided particulars of “medium”, “high” and “extra high” in a letter to the first respondent’s solicitor dated 7 May 2010. These particulars can without difficulty be included in the proposed ASOC."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Paragraph 3.2"
+    ],
+    "text": "The plea in paragraph 3.2 in the proposed ASOC is the same as the plea in paragraph 3.2 of the SOC. In the proposed ASOC it is as follows:\n3. The second respondent (Nexans) at all material times:\n…\n3.2 supplied and offered to supply products including land cables and submarine cables to customers in places including Australia;"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Paragraph 3.2"
+    ],
+    "text": "The second respondent makes two complaints about this plea. First, it contends that the plea is uncertain because of the use of the word “including”. The complaint is that the plea is indefinite and leaves open the issue or question of other products. I reject this complaint. It is plain from reading the proposed ASOC as a whole that the applicant’s case relates to land cables and submarine cables."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Paragraph 3.2"
+    ],
+    "text": "The second respondent’s second complaint about the plea relates to the allegation that the second respondent supplied and offered to supply products to customers in Australia. The complaint is that this plea is unparticularised and potentially inconsistent with the plea in paragraph 48 of the proposed ASOC. It seems to me that this problem can be overcome by an appropriate cross-reference in paragraph 3.2 to paragraph 48. I do not think that there is any need to re-word paragraph 3.2 as the cross-reference will make clear the content of the plea."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Paragraph 3.3"
+    ],
+    "text": "Again, the plea in the proposed ASOC is the same as the plea in the SOC. It is as follows:\n3. The second respondent (Nexans) at all material times:\n…\n3.3 carried on business in Australia, and in a State or Territory of Australia;"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Paragraph 3.3"
+    ],
+    "text": "The second respondent’s complaint in relation to this plea is similar to its complaint in relation to the plea in paragraph 3.2. Again, I think an appropriate cross-reference to paragraph 48 will overcome any difficulty."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Paragraph 15"
+    ],
+    "text": "Again, the plea in paragraph 15 in the proposed ASOC is the same as the plea in paragraph 15 of the SOC. The plea in paragraph 15 refers to paragraphs 7-14 inclusive, and in order to understand the second respondent’s complaint, it is necessary to set out those paragraphs as well as paragraph 15:\n7. At all material times there has been demand in Australia for land cables from customers including:\n7.1 generators and distributors of electricity; and\n7.2 major construction, mining and development companies;\nwho require high voltage or extra high voltage cable that passes under land.\n8. There are no other products closely substitutable for land cables.\n9. At all material times the demand referred to in paragraph 7 above has been met by manufacturers and suppliers of land cables, including from at least 2001, Nexans, Prysmian, Viscas and JPS, and from at least 2002, Exsym.\n10. By reason of the matters alleged in paragraphs 7 to 9 above, at all material times there was a market in Australia for the supply of land cables by persons including from at least October 2001 Nexans, a member of the Pirelli group of companies (being Prysmian from in or about November 2001), Viscas and JPS, and from in or about April 2002, Exsym (the Australian land cable market).\n11. At all material times there has been demand in Australia for submarine cables from customers including:\n11.1 generators and distributors of electricity; and\n11.2 major construction, mining and development companies;\nwho require medium voltage or high voltage or extra high voltage cable that passes under ocean or watercourses.\n12. There are no other products closely substitutable for submarine cables.\n13. At all material times the demand referred to in paragraph 11 above has been met by manufacturers and suppliers of submarine cables, including from at least October 2001 Nexans, a member of the Pirelli group of companies (specifically from in or about November 2001, Prysmian), Viscas and JPS.\n14. By reason of the matters alleged in paragraphs 11 to 13 above, at all material times from at least October 2001 there was a market in Australia for the supply of submarine cables by persons including Nexans, a member of the Pirelli group of companies (being Prysmian from in or about November 2001), Viscas and JPS (the Australian submarine cable market).\n15. In the alternative to paragraphs 10 and 14 above, by reason of the matters pleaded in paragraphs 7 to 9 and 11 to 13 above, at all material times there was a market in Australia for supply of land cables and submarine cables (the Australian cable market)."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Paragraph 15"
+    ],
+    "text": "By way of background to its complaints, the second respondent refers to the importance of a proper identification of the relevant market (Auskay International Manufacturing & Trade Pty Ltd (ACN 078 654 243) v Qantas Airways Ltd (ACN 009 661 901) and Others [2008] FCA 1458; 251 ALR 166)."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Paragraph 15"
+    ],
+    "text": "The second respondent advances two complaints about the plea in paragraph 15. First, it contends that the plea of an Australian cable market is inconsistent with the plea in paragraph 8 that there are no other products closely substitutable for land cables and the plea in paragraph 12 that there are no other products closely substitutable for submarine cables. I reject this complaint. The plea in paragraph 15 is clearly a plea in the alternative to the pleas of an Australian land cable market and an Australian submarine cable market."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Paragraph 15"
+    ],
+    "text": "The second respondent’s second complaint about the pleas is that the plea of an Australian submarine cable market and an Australian cable market are irrelevant in view of the fact that the Snowy Hydro Project related to land cables and accessories. The A/R Cartel agreement is said by the applicant to relate to land cables and submarine cables and I am not convinced that the pleas of which the second respondent complains are irrelevant and should be struck out."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Paragraphs 18 and 19"
+    ],
+    "text": "Again, the pleas in these paragraphs are the same relevantly in the proposed ASOC and the SOC. The pleas in the ASOC relevant to the second respondent are as follows:\n18. From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n18.1 Jeanmarie Jay and Alain Romand of Nexans were the representatives of Nexans;\n…\n19. From at least October 2001:\n19.1 Mr Jay of Nexans was the secretary of the R Group;"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Paragraphs 18 and 19"
+    ],
+    "text": "The second respondent referred to s 84 of the Trade Practices Act and made the submission that there are no particulars of the facts whereby it was said that the conduct of Mr Jay and Mr Romand, particularly Mr Jay, was to be attributed to the second respondent."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Paragraphs 18 and 19"
+    ],
+    "text": "There are particulars, or at least material from which particulars may be prepared, in the reasons for judgment of Lander J. The applicant submits, and I accept, that that material comprises its case as it presently stands. The second respondent is aware of that case. Should I order that that material be formulated as particulars and included in the ASOC or a document filed with the ASOC? In my opinion, the answer to that question is no. I note in the context of the allegations presently under consideration that Lander J concluded as follows (at [359]):\nI reject Nexans’ submission that it requires a “leap of faith” to accept that the emails show Mr Jay, on behalf of Nexans, entered into the Snowy Hydro Agreement. In any event, at this stage of the proceeding, I need only be satisfied, and I am, that there is a prima facie case that the evidence shows that Mr Jay, on behalf of Nexans, caused Nexans to make or arrive at the Snowy Hydro Agreement, which provided that Prysmian would be the allottee for the Snowy Hydro Project."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Paragraphs 18 and 19"
+    ],
+    "text": "I also refer to my own reasons in which I dealt with the contention by the second respondent that the judge erred in concluding that there was a prima facie case that Mr Jay and Mr Romand had authority to act for or bind the second respondent (see [39] to [43])."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Paragraphs 18 and 19"
+    ],
+    "text": "Many of the matters in issue in this proceeding are within the knowledge of the second respondent. There is a real prospect that discovery or some other form of disclosure if ordered will result in further information coming to light and further particulars. In the unusual circumstances of this case and having regard to the dictates of efficiency (s 37M of the Federal Court of Australia Act), I do not think it either necessary or appropriate to require the applicant to provide particulars at this stage."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Paragraph 35"
+    ],
+    "text": "Again, the plea in paragraph 35 is the same in the proposed ASOC and the SOC. The plea follows a detailed plea of the arrangement or understanding which is referred to as the Snowy Hydro Project Agreement. The plea in paragraph 35 is in the following terms:\nBetween 24 September 2003 and 3 October 2003, the members of the R Group reached agreement that Prysmian would be the Allottee for the Snowy Hydro Project."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Paragraph 35"
+    ],
+    "text": "The second respondent’s case is that this plea is deficient because there are none of the usual particulars of the agreement. The second respondent submits that at least the overt acts from which the inference of an agreement could be drawn should be pleaded: State of Queensland v Pioneer Concrete (QLD) Pty Ltd (1999) ATPR 41-691 at [34] – [35] per Drummond J."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Paragraph 35"
+    ],
+    "text": "Lander J set out the matters and evidence upon which the applicant relies at this stage. I reject the complaint about this paragraph for the same reasons I have rejected the complaint about paragraphs 18 and 19."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "Again, the plea in the proposed ASOC is similar to the plea in the SOC. The plea deals with the A/R Cartel agreement and in the proposed ASOC is in the following terms:\nAs at October 2001, each of Nexans, a member or representative of the Pirelli group of companies, Viscas and Sumitimo (the cartel members) were parties to an arrangement or understanding containing provisions to the following effect (the A/R Cartel agreement):"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "The second respondent’s complaint about this paragraph is that it does not provide the usual particulars of the arrangement or understanding, and I mean by that, a statement of whether it was oral or in writing, or partly oral and partly written, the date upon which it was reached, and the effect of any oral conversations. Furthermore, the second respondent complains that the plea does not identify whether any agents were involved and if so, their identity."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "Lander J summarised the applicant’s case about the A/R Cartel agreement in his reasons, and in particular at [278] – [300]."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "I reject the second respondent’s complaints for the same reasons I have rejected the complaint about paragraphs 18 and 19."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "Subject to the provision of the particulars in relation to paragraph 2.11 as referred to above and to appropriate cross-references in paragraphs 3.2 and 3.3, I will grant the applicant leave to file and serve the proposed ASOC."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Paragraph 16"
+    ],
+    "text": "I will hear the parties as to other orders and as to costs."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-four (34) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.",
+ "associate": null,
+ "dated": "2013-10-04",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 6) [2013] FCA 1002\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 6) [2013] FCA 1002\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A) and NEXANS SA RCS PARIS 393 525 852\n\n**File number:** SAD 145 of 2009\n\n**Judge:** BESANKO J\n\n**Date of judgment:** 4 October 2013\n\n**Catchwords:** PRACTICE AND PROCEDURE – Application by second respondent to strike out statement of claim or, in the alternative, specified paragraphs of the statement of claim – application by applicant to seek leave to file and serve an amended statement of claim – whether the applicant has a prima facie case against the second respondent – whether the statement of claim or the specified paragraphs are fundamentally defective – consideration of the specified paragraphs.  \nHeld: Leave to amend statement of claim to be granted subject to the provision of particulars in certain paragraphs.\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) ss 37M, 37P  \nFederal Court Rules 1979 O 8 rr 3, 5  \nFederal Court Rules 2011 (Cth) rr 16.21(1), 16.41 – 16.45  \nTrade Practices Act 1974 (Cth) ss 84, 155\n\n**Cases cited:** Auskay International Manufacturing & Trade Pty Ltd (ACN 078 654 243) v Qantas Airways Ltd (ACN 009 661 901) and Others [2008] FCA 1458; 251 ALR 166  \nAustralian Competition & Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344  \nAustralian Competition & Consumer Commission v Boral Ltd (No 2) (2000) ATPR 41-738  \nAustralian Competition & Consumer Commission v Mobil Oil Australia Ltd (1997) ATPR 41-568  \nAustralian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; 298 ALR 251  \nAustralian Securities & Investment Commission v Adler (2001) 40 ACSR 214  \nChan Cuong Su (t/a Ausviet Travel) v Direct Flights International Pty Ltd (1998) ATPR 41-662  \nMultigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd (1996) ATPR 41-522  \nNexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192  \nResearch in Motion Ltd and Another v Samsung Electronics Australia Pty Ltd (2009) 176 FCR 66  \nState of Queensland v Pioneer Concrete (QLD) Pty Ltd (1999) ATPR 41-691\n\n**Date of hearing:** 29 July 2013\n\n**Place:** Adelaide\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 34\n\n**Counsel for the Applicant:** Mr N O'Bryan SC\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First Respondent:** The First Respondent did not appear\n\n**Solicitor for the First Respondent:** Johnson Winter & Slattery\n\n**Counsel for the Second Respondent:** Mr M Hoffmann QC with Mr M Burnett\n\n**Solicitor for the Second Respondent:** Clayton Utz\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE OF ORDER: | 4 October 2013 |\n| WHERE MADE: | ADELAIDE |\n\n### THE COURT DIRECTS THAT:\n\n1. The applicant bring in draft minutes of order reflecting the conclusions in these reasons.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 145 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | PRYSMIAN CAVI E SISTEMI ENERGIA S.R.L (FORMERLY PIRELLI CAVI A SISTEMI ENERGIA S.P.A)<br>First Respondent<br>NEXANS SA RCS PARIS 393 525 852<br>Second Respondent |\n\n| JUDGE: | BESANKO J |\n|---|---|\n| DATE: | 4 October 2013 |\n| PLACE: | ADELAIDE |\n\n### REASONS FOR JUDGMENT\n\n[1] This is a dispute about the applicant’s statement of claim in a proceeding in this Court. The nature of the proceeding and the key elements of the applicant’s claim, including its claims for relief, are set out in the previous judgments of this Court. The Court granted leave to the applicant pursuant to O 8 rr 3 and 5 of the Federal Court Rules 1979 to serve its originating application and statement of claim outside the jurisdiction on the first and second respondents. Each of the first and second respondents thereafter filed a notice of motion seeking an order that the orders granting leave to serve them be discharged, or that service of the originating process on them be set aside.\n\n[2] A judge of this Court (Lander J) heard those notices of motion and dismissed them. He delivered detailed reasons for his decision: Australian Competition and Consumer Commission v Prysmian Cavi E Sistemi Energia S.R.L. (No 4) [2012] FCA 1323; 298 ALR 251. In the course of reaching his decision, his Honour decided that the applicant had made out a prima facie case that would entitle it to the relief sought in the originating application and statement of claim, save and except for an aspect which is no longer material (at [381]).\n\n[3] I heard an application by the second respondent for leave to appeal from the Judge’s decision. I dismissed that application: Nexans SA RCS Paris 393 525 852 v Australian Competition and Consumer Commission [2013] FCA 192.\n\n[4] There are two applications before the Court. First, by amended interlocutory application dated 28 March 2013, the second respondent seeks an order striking out the applicant’s statement of claim dated 23 September 2013 (“SOC”), or in the alternative, specified paragraphs of the SOC. Secondly, by interlocutory application dated 27 June 2013, the applicant seeks leave to file and serve an amended statement of claim (“ASOC”). The second respondent opposes the applicant’s application on the ground that the proposed ASOC does not cure the fundamental defects in the SOC. It is almost trite to say that an application for leave to amend a statement of claim will not be allowed if the proposed amendment is fundamentally defective (Research in Motion Ltd and Another v Samsung Electronics Australia Pty Ltd (2009) 176 FCR 66).\n\n[5] The second respondent has been ordered to provide discovery, but has not yet done so. In fact, the second respondent has applied for an order discharging the order that it make discovery. It does so on the basis that discovery and inspection of documents would contravene a statute referred to in argument as the “French Blocking Statute” and it submits that in lieu of discovery, an order should be made that letters of request be issued pursuant to the Hague Convention. I have heard that application and I have reserved my decision.\n\n[6] There is no dispute about the relevant principles on these applications. The second respondent relies on s 37P of the Federal Court of Australia Act 1976 (Cth) and r 16.21(1) of the Federal Court Rules 2011 (Cth). In addition to these legislative provisions, rr 16.41 – 16.45 of the Federal Court Rules deal with the provision of particulars.\n\n[7] Two general principles referred to by the second respondent should be mentioned. The second respondent submits that in a civil penal case such as this case, an applicant is required to state its case clearly and precisely, and the Court’s discretions must be exercised bearing in mind the seriousness of the allegations, the gravity of the consequences and the nature of the proceeding. In support of this principle, the second respondent refers to Multigroup Distribution Services Pty Ltd v TNT Australia Pty Ltd (1996) ATPR 41-522 at 42,680; Australian Competition & Consumer Commission v Boral Ltd (No 2) (2000) ATPR 41-738 at [30]; Australian Securities & Investment Commission v Adler (2001) 40 ACSR 214; Australian Competition & Consumer Commission v Amcor Printing Papers Group Ltd (2000) 169 ALR 344 at 360-361. I accept that this is a principle to which I must have regard.\n\n[8] Secondly, the second respondent refers to Australian Competition & Consumer Commission v Mobil Oil Australia Ltd (1997) ATPR 41-568 at 43,896 – 43,897 and submits that it stands for the proposition that an applicant’s claim may be struck out and leave to re-plead refused where it was inappropriate to allow the applicant access to discovery when it had used its powers under s 155 of the Trade Practices Act 1974 (Cth) and was unable to particularise its case sufficiently. At 43,897 Heerey J said:\n\n> What the Commission is seeking to do precisely fits the homely but apt metaphor which the law has long used. Its pleading shows that the Commission does not have a case, but hopes by the discovery process to fish around in the hope that something will turn up.\n\n(See also Chan Cuong Su (t/a Ausviet Travel) v Direct Flights International Pty Ltd (1998) ATPR 41-662 at 41,375-7 per Lehane J.)\n\n[9] In this case, as Lander J found, the applicant has a prima facie case against the second respondent.\n\n#### Paragraph 2.11\n\n[10] Paragraph 2.11 is a plea against the first respondent. However, it contains a definition of land cables and submarine cables which is then used throughout the SOC. In material respects, it is the same in the proposed ASOC and the SOC. It is as follows:\n\n> 2. The first respondent (Prysmian):\n\n> …\n\n> 2.11 at all material times from on or about 27 November 2001, supplied and offered to supply products including high voltage and extra high voltage land-based electrical cables and accessories (land-cables) and medium voltage, high voltage and extra high voltage submarine electrical cables and accessories (submarine cables) to customers in places including Australia.\n\n[11] The second respondent’s complaint about this plea is that it does not contain a definition of “medium”, “high” and “extra high” and that this absence of a definition is important having regard to subsequent paragraphs in the proposed ASOC and the terms of the definition of “the Snowy Hydro Project” in paragraph 25. The answer to this complaint is that the applicant has provided particulars of “medium”, “high” and “extra high” in a letter to the first respondent’s solicitor dated 7 May 2010. These particulars can without difficulty be included in the proposed ASOC.\n\n#### Paragraph 3.2\n\n[12] The plea in paragraph 3.2 in the proposed ASOC is the same as the plea in paragraph 3.2 of the SOC. In the proposed ASOC it is as follows:\n\n> 3. The second respondent (Nexans) at all material times:\n\n> …\n\n> 3.2 supplied and offered to supply products including land cables and submarine cables to customers in places including Australia;\n\n[13] The second respondent makes two complaints about this plea. First, it contends that the plea is uncertain because of the use of the word “including”. The complaint is that the plea is indefinite and leaves open the issue or question of other products. I reject this complaint. It is plain from reading the proposed ASOC as a whole that the applicant’s case relates to land cables and submarine cables.\n\n[14] The second respondent’s second complaint about the plea relates to the allegation that the second respondent supplied and offered to supply products to customers in Australia. The complaint is that this plea is unparticularised and potentially inconsistent with the plea in paragraph 48 of the proposed ASOC. It seems to me that this problem can be overcome by an appropriate cross-reference in paragraph 3.2 to paragraph 48. I do not think that there is any need to re-word paragraph 3.2 as the cross-reference will make clear the content of the plea.\n\n#### Paragraph 3.3\n\n[15] Again, the plea in the proposed ASOC is the same as the plea in the SOC. It is as follows:\n\n> 3. The second respondent (Nexans) at all material times:\n\n> …\n\n> 3.3 carried on business in Australia, and in a State or Territory of Australia;\n\n[16] The second respondent’s complaint in relation to this plea is similar to its complaint in relation to the plea in paragraph 3.2. Again, I think an appropriate cross-reference to paragraph 48 will overcome any difficulty.\n\n#### Paragraph 15\n\n[17] Again, the plea in paragraph 15 in the proposed ASOC is the same as the plea in paragraph 15 of the SOC. The plea in paragraph 15 refers to paragraphs 7-14 inclusive, and in order to understand the second respondent’s complaint, it is necessary to set out those paragraphs as well as paragraph 15:\n\n> 7. At all material times there has been demand in Australia for land cables from customers including:\n\n> 7.1 generators and distributors of electricity; and\n\n> 7.2 major construction, mining and development companies;\n\n> who require high voltage or extra high voltage cable that passes under land.\n\n> 8. There are no other products closely substitutable for land cables.\n\n> 9. At all material times the demand referred to in paragraph 7 above has been met by manufacturers and suppliers of land cables, including from at least 2001, Nexans, Prysmian, Viscas and JPS, and from at least 2002, Exsym.\n\n> 10. By reason of the matters alleged in paragraphs 7 to 9 above, at all material times there was a market in Australia for the supply of land cables by persons including from at least October 2001 Nexans, a member of the Pirelli group of companies (being Prysmian from in or about November 2001), Viscas and JPS, and from in or about April 2002, Exsym (the Australian land cable market).\n\n> 11. At all material times there has been demand in Australia for submarine cables from customers including:\n\n> 11.1 generators and distributors of electricity; and\n\n> 11.2 major construction, mining and development companies;\n\n> who require medium voltage or high voltage or extra high voltage cable that passes under ocean or watercourses.\n\n> 12. There are no other products closely substitutable for submarine cables.\n\n> 13. At all material times the demand referred to in paragraph 11 above has been met by manufacturers and suppliers of submarine cables, including from at least October 2001 Nexans, a member of the Pirelli group of companies (specifically from in or about November 2001, Prysmian), Viscas and JPS.\n\n> 14. By reason of the matters alleged in paragraphs 11 to 13 above, at all material times from at least October 2001 there was a market in Australia for the supply of submarine cables by persons including Nexans, a member of the Pirelli group of companies (being Prysmian from in or about November 2001), Viscas and JPS (the Australian submarine cable market).\n\n> 15. In the alternative to paragraphs 10 and 14 above, by reason of the matters pleaded in paragraphs 7 to 9 and 11 to 13 above, at all material times there was a market in Australia for supply of land cables and submarine cables (the Australian cable market).\n\n[18] By way of background to its complaints, the second respondent refers to the importance of a proper identification of the relevant market (Auskay International Manufacturing & Trade Pty Ltd (ACN 078 654 243) v Qantas Airways Ltd (ACN 009 661 901) and Others [2008] FCA 1458; 251 ALR 166).\n\n[19] The second respondent advances two complaints about the plea in paragraph 15. First, it contends that the plea of an Australian cable market is inconsistent with the plea in paragraph 8 that there are no other products closely substitutable for land cables and the plea in paragraph 12 that there are no other products closely substitutable for submarine cables. I reject this complaint. The plea in paragraph 15 is clearly a plea in the alternative to the pleas of an Australian land cable market and an Australian submarine cable market.\n\n[20] The second respondent’s second complaint about the pleas is that the plea of an Australian submarine cable market and an Australian cable market are irrelevant in view of the fact that the Snowy Hydro Project related to land cables and accessories. The A/R Cartel agreement is said by the applicant to relate to land cables and submarine cables and I am not convinced that the pleas of which the second respondent complains are irrelevant and should be struck out.\n\n#### Paragraphs 18 and 19\n\n[21] Again, the pleas in these paragraphs are the same relevantly in the proposed ASOC and the SOC. The pleas in the ASOC relevant to the second respondent are as follows:\n\n> 18. From at least October 2001, the A/R Cartel members communicated by their individual representatives as follows:\n\n> 18.1 Jeanmarie Jay and Alain Romand of Nexans were the representatives of Nexans;\n\n> …\n\n> 19. From at least October 2001:\n\n> 19.1 Mr Jay of Nexans was the secretary of the R Group;\n\n[22] The second respondent referred to s 84 of the Trade Practices Act and made the submission that there are no particulars of the facts whereby it was said that the conduct of Mr Jay and Mr Romand, particularly Mr Jay, was to be attributed to the second respondent.\n\n[23] There are particulars, or at least material from which particulars may be prepared, in the reasons for judgment of Lander J. The applicant submits, and I accept, that that material comprises its case as it presently stands. The second respondent is aware of that case. Should I order that that material be formulated as particulars and included in the ASOC or a document filed with the ASOC? In my opinion, the answer to that question is no. I note in the context of the allegations presently under consideration that Lander J concluded as follows (at [359]):\n\n> I reject Nexans’ submission that it requires a “leap of faith” to accept that the emails show Mr Jay, on behalf of Nexans, entered into the Snowy Hydro Agreement. In any event, at this stage of the proceeding, I need only be satisfied, and I am, that there is a prima facie case that the evidence shows that Mr Jay, on behalf of Nexans, caused Nexans to make or arrive at the Snowy Hydro Agreement, which provided that Prysmian would be the allottee for the Snowy Hydro Project.\n\n[24] I also refer to my own reasons in which I dealt with the contention by the second respondent that the judge erred in concluding that there was a prima facie case that Mr Jay and Mr Romand had authority to act for or bind the second respondent (see [39] to [43]).\n\n[25] Many of the matters in issue in this proceeding are within the knowledge of the second respondent. There is a real prospect that discovery or some other form of disclosure if ordered will result in further information coming to light and further particulars. In the unusual circumstances of this case and having regard to the dictates of efficiency (s 37M of the Federal Court of Australia Act), I do not think it either necessary or appropriate to require the applicant to provide particulars at this stage.\n\n#### Paragraph 35\n\n[26] Again, the plea in paragraph 35 is the same in the proposed ASOC and the SOC. The plea follows a detailed plea of the arrangement or understanding which is referred to as the Snowy Hydro Project Agreement. The plea in paragraph 35 is in the following terms:\n\n> Between 24 September 2003 and 3 October 2003, the members of the R Group reached agreement that Prysmian would be the Allottee for the Snowy Hydro Project.\n\n[27] The second respondent’s case is that this plea is deficient because there are none of the usual particulars of the agreement. The second respondent submits that at least the overt acts from which the inference of an agreement could be drawn should be pleaded: State of Queensland v Pioneer Concrete (QLD) Pty Ltd (1999) ATPR 41-691 at [34] – [35] per Drummond J.\n\n[28] Lander J set out the matters and evidence upon which the applicant relies at this stage. I reject the complaint about this paragraph for the same reasons I have rejected the complaint about paragraphs 18 and 19.\n\n#### Paragraph 16\n\n[29] Again, the plea in the proposed ASOC is similar to the plea in the SOC. The plea deals with the A/R Cartel agreement and in the proposed ASOC is in the following terms:\n\n> As at October 2001, each of Nexans, a member or representative of the Pirelli group of companies, Viscas and Sumitimo (the cartel members) were parties to an arrangement or understanding containing provisions to the following effect (the A/R Cartel agreement):\n\n[30] The second respondent’s complaint about this paragraph is that it does not provide the usual particulars of the arrangement or understanding, and I mean by that, a statement of whether it was oral or in writing, or partly oral and partly written, the date upon which it was reached, and the effect of any oral conversations. Furthermore, the second respondent complains that the plea does not identify whether any agents were involved and if so, their identity.\n\n[31] Lander J summarised the applicant’s case about the A/R Cartel agreement in his reasons, and in particular at [278] – [300].\n\n[32] I reject the second respondent’s complaints for the same reasons I have rejected the complaint about paragraphs 18 and 19.\n\n[33] Subject to the provision of the particulars in relation to paragraph 2.11 as referred to above and to appropriate cross-references in paragraphs 3.2 and 3.3, I will grant the applicant leave to file and serve the proposed ASOC.\n\n[34] I will hear the parties as to other orders and as to costs.\n\nI certify that the preceding thirty-four (34) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.\n\nAssociate:\n\nDated: 4 October 2013\n",
+ "source_sha256": "d00bee8e477709c8ada5235239fb6bd5876b7f1c5038294bcaab96d8d2c5431c"
+}

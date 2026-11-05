@@ -1,0 +1,334 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2025/2025FCA1512.docx",
+ "metadata": {
+  "citation": "[2025] FCA 1512",
+  "name": "Quach v McIntyre (No 2)",
+  "court": "FCA",
+  "year": 2025,
+  "number": 1512,
+  "date_of_judgment": "2025-11-17",
+  "file_numbers": [
+   "QUD16/2024",
+   "QUD39/2024"
+  ],
+  "judges": [
+   "LOGAN J"
+  ],
+  "registry": "Queensland",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2025-11-17"
+  ],
+  "hearing_raw": "17 November 2025",
+  "number_of_paragraphs": 16,
+  "catchwords": [
+   "ESTOPPEL – where the applicant applies for a review under r 40.34 of the Federal Court Rules 2011 (Cth) for the exercise of power of a registrar to issue a cost certificate under r 40.27 – where leave to appeal from the judgment which founded the cost certificate was refused – where the applicant relies upon the same grounds to set aside the cost certificate as those advanced in the application for leave to appeal – where those grounds are subject to a final judgment – whether issue estoppel applies – application refused"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) ss 35A, 43",
+   "Federal Court Rules 2011 (Cth) rr 39.05C, 40.25, 40.26, 40.27, 40.34"
+  ],
+  "cases_cited": [
+   "Cassimatis v Australian Securities and Investments Commission (2016) 334 ALR 350",
+   "Port of Melbourne Authority v Anshun Pty Ltd (1981) 147 CLR 589",
+   "Quach v Davenport [2024] FCA 973",
+   "Quach v McIntyre [2024] FCA 564",
+   "Queensland v Commonwealth (1977) 139 CLR 585"
+  ],
+  "parties": [
+   {
+    "name": "DR MICHAEL VAN THANH QUACH",
+    "role": "Applicant"
+   },
+   {
+    "name": "MARK PHILLIP MCINTYRE",
+    "role": "Respondent"
+   },
+   {
+    "name": "HELEN JAYNE DOROTHY DAVENPORT",
+    "role": "Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "The applicant appeared in person"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Small Myers Hughes Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "The applicant appeared in person"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr M Patterson"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2025/2025fca1512",
+  "portal_file_numbers": [
+   "QUD16/2024",
+   "QUD39/2024"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2025-11-17"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "QUD 16 of 2024\nQUD 39 of 2024"
+  },
+  {
+   "label": "Judgment of",
+   "value": "LOGAN J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "17 November 2025"
+  },
+  {
+   "label": "Catchwords",
+   "value": "ESTOPPEL – where the applicant applies for a review under r 40.34 of the Federal Court Rules 2011 (Cth) for the exercise of power of a registrar to issue a cost certificate under r 40.27 – where leave to appeal from the judgment which founded the cost certificate was refused – where the applicant relies upon the same grounds to set aside the cost certificate as those advanced in the application for leave to appeal – where those grounds are subject to a final judgment – whether issue estoppel applies – application refused"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) ss 35A, 43\nFederal Court Rules 2011 (Cth) rr 39.05C, 40.25, 40.26, 40.27, 40.34"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Cassimatis v Australian Securities and Investments Commission (2016) 334 ALR 350\nPort of Melbourne Authority v Anshun Pty Ltd (1981) 147 CLR 589\nQuach v Davenport [2024] FCA 973\nQuach v McIntyre [2024] FCA 564\nQueensland v Commonwealth (1977) 139 CLR 585"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Queensland"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "16"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "17 November 2025"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "The applicant appeared in person"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Small Myers Hughes Lawyers"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "The applicant appeared in person"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr M Patterson"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "QUD16/2024",
+   "parties": [
+    {
+     "name": "DR MICHAEL VAN THANH QUACH",
+     "role": "Applicant"
+    },
+    {
+     "name": "MARK PHILLIP MCINTYRE",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LOGAN J"
+   ],
+   "date": "2025-11-17",
+   "date_raw": "17 NOVEMBER 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The application for the review of the decision of the registrar of 20 June 2025 to certify the respondent’s costs in a particular amount be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant pay the respondent’s costs in a lump sum in an amount fixed by the registrar if not agreed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:",
+    "ORDERS"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "QUD39/2024",
+   "parties": [
+    {
+     "name": "DR MICHAEL VAN THANH QUACH",
+     "role": "Applicant"
+    },
+    {
+     "name": "HELEN JAYNE DOROTHY DAVENPORT",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "LOGAN J"
+   ],
+   "date": "2025-11-17",
+   "date_raw": "17 NOVEMBER 2025",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The application for the review of the decision of the registrar of 20 June 2025 to certify the respondent’s costs in a particular amount be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicant pay the respondent’s costs in a lump sum in an amount fixed by the registrar if not agreed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 28 May 2024, in proceedings separately instituted by the present applicant, Dr Michael Van Thanh Quach, against Mr Mark Phillip McIntyre on the one hand and Ms Helen Jayne Dorothy Davenport on the other, respectively, QUD16/2024 and QUD39/2024. Thawley J made in each of those proceedings, for reasons given that day, the following orders:\n1. The proceeding be summarily dismissed under s 31A of the Federal Court of Australia Act 1976 (Cth);\n2. The applicant is to pay the costs of the respondent as agreed or assessed.\n(see Quach v McIntyre [2024] FCA 564)",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Dr Quach sought to challenge those orders. Those orders being interlocutory in character, he required a grant of leave to appeal. On 21 August 2024, Lee J refused leave to appeal against each of the orders made by the court as constituted by Thawley J: see Quach v Davenport [2024] FCA 973.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The costs orders made by Thawley J thereafter proceeded in the usual way to taxation under the rules by a registrar. A sequel to that taxation was that, in each case, a registrar certified pursuant to r 40.27 of the Federal Court Rules 2011 (Cth) (Rules) that the respective respondents’ costs as between party and party had been taxed in a particular amount.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "In turn, Dr Quach has applied pursuant to r 40.34 of the Rules for a review of the taxation. I thought that s 35A(5) of the Federal Court of Australia Act 1976 (Cth) (the Act) might have been an additional source of jurisdiction to review the registrar’s decision in respect of the taxation. However, the jurisdiction granted by s 35A(5) is keyed to proceedings in which a registrar has exercised any of the powers of the court under subs (1). Initially, I prefer to approach the case on the basis that the relevant source of authority to review the registrar’s decision is found in r 40.34.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "That may not matter very much in the sense that it seems to me that the review power which I am exercising is not materially different as between s 35A(5) of the Act and r 40.34 in the Rules.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "The nature of the court’s power on a review of a taxation of costs, under r 40.34 is the subject of a helpful exposition by Edelman J, when a judge of this Court in Cassimatis v Australian Securities and Investments Commission (2016) 334 ALR 350 at [7] and following. It is not necessary for the purpose of resolving the present review application to reach any concluded view as to the nature and bounds of that review power. It is certainly wider, in my view, than a power to review on the basis of jurisdictional error.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "At the heart of Dr Quach’s challenge to the Registrar’s decision that particular amounts are quantified as the amounts owed, pursuant to the cost orders of Justice Thawley, is the proposition that nothing whatsoever is owed, because there was no power at all to make an order for costs, given the nature, so he submits, of the two proceedings. Each such proceeding Dr Quach submits, was a criminal proceeding, such that there was no power to make an order for costs.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "One proposition advanced for the respondents is that the Registrar’s certification decision was a sequel to the costs orders, and that what is reviewed on the r 40.34 review is that sequel, rather than the correctness in law of the cost orders themselves. Dr Quach’s riposte to that, is that because the orders as to costs were interlocutory, the court has proven under r 39.05(i) of the Rules to set aside that interlocutory order. His further proposition is that, if as he submits it is patent that there was a complete absence of power, it must be possible on a review which quantified a particular amount for the court to conclude that no amount whatsoever is owed because there was no power to order him to pay anything, and to the extent necessary to vindicate that proposition the court should set aside the underlying order made on an interlocutory basis, that he pay costs as determined under the rules.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The authority for that proposition was not in terms one which was precisely identified by Dr Quach. I notice under r 40.25 or r 40.26 of the Rules and in turn, r 40.34(3) limits the review to grounds which had been earlier raised in the objection notice under those rules. However, there exists power generally to vary, what is otherwise the provision made by the Rules. If truly the point were one presently open to be advanced, and went to the very existence of any power, at all, to award costs, I would not regard r 40.34(3) as precluding my permitting Dr Quach to advance the issue.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Further, I assume in Dr Quach’s favour that the nature of the review power under r 40.34 would extend to entertaining on a review of a taxation that nothing whatsoever was owed because of a particular proposition of law.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Assuming all this in Dr Quach’s favour, the burden that he faces, in my view, is that the question of whether or not the proceedings were criminal proceedings, such that no power to award costs against him was to be found in s 43 of the Act has been determined against him, not just by the judgment of Thawley J, but more particularly by the refusal of leave to appeal against his Honour’s interlocutory orders, which included the relevant orders that Dr Quach pay the respondents costs.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "In refusing leave to appeal, Lee J upheld Thawley J’s conclusion that the proceedings were not criminal in character and that there existed power, under s 43 of the Act, to order costs was correct. That proposition, in my view, was what Aickin J described in Queensland v Commonwealth (1977) 139 CLR 585, at 614 to 615, as a “bare” question of law. In turn, it seems to me that the bare question of law has, as a result of the refusal of leave to appeal, been finally determined against Dr Quach such that he is esstopped from again asserting it on the present review proceeding. Here, in this proceeding, it is the same issue between the same parties, and there is the requisite element of finality. The case is one of issue estoppel, Port of Melbourne Authority v Anshun Pty Ltd (1981) 147 CLR 589 at 605. That being so, it would be quite inappropriate for me, in my view, to delve afresh into the merits of that issue as between the parties. In respect of that issue it has been finally determined.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "That being so, there is no basis on the review for impeaching or questioning, even assuming that is possible, the correctness of the underlying order that costs be paid. Instead, that order or those orders are subsisting orders in respect of a superior court of record in relation to which leave to appeal has been refused. I do not consider in those circumstances that there is any case for setting aside those orders under r 39.05. To do so would be subversive of the finality in the exercise occasioned by an exercise of federal judicial power.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Other points raised by Dr Quach related to section 91 of the Evidence Act 1995 (Cth). I note in passing that these points also were expressly canvassed before and rejected by Lee J in refusing leave to appeal. Once again, it would be subversive of the finality principle to embark upon any consideration of their merits.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "It only comes to this: on the basis of the challenge made to the Registrar’s decision, the application for review must be dismissed. I have dealt with the review on the merits, rather than in a summary way, as was suggested, is because I consider it better to deal with it on the merits. The result might have been no different, but it has been disposed of after a substantive hearing, not summarily.",
+    "judge": "LOGAN J"
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "In the ordinary course of events, and although there is a relevantly unfettered discretion in respect of the exercise of the power to award costs, the just exercise of that discretion, given the outcome, would be an order that costs follow the event. Dr Quach put that no such order should be made on the basis that he was self-represented. A natural person is not bound to conduct proceedings by a legal practitioner, but may instead appear personally. However, that a person is so acting and does not succeed in a particular application, the manner of appearance does not, in my view, sound against the usual exercise of that discretion, which is that costs follow the event. The respondents of each sought that, in lieu of ordering costs to be taxed, that costs be awarded in a lump sum. That is a preference which is underpinned by the court’s general practice note in relation to costs. Such an order is, in my view, apt in this instance.",
+    "judge": "LOGAN J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Logan.",
+ "associate": null,
+ "dated": "2025-12-01",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Quach v McIntyre (No 2) [2025] FCA 1512\n\n## Cover sheet\n\n**File number:** QUD 16 of 2024  \nQUD 39 of 2024\n\n**Judgment of:** LOGAN J\n\n**Date of judgment:** 17 November 2025\n\n**Catchwords:** ESTOPPEL – where the applicant applies for a review under r 40.34 of the Federal Court Rules 2011 (Cth) for the exercise of power of a registrar to issue a cost certificate under r 40.27 – where leave to appeal from the judgment which founded the cost certificate was refused – where the applicant relies upon the same grounds to set aside the cost certificate as those advanced in the application for leave to appeal – where those grounds are subject to a final judgment – whether issue estoppel applies – application refused\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) ss 35A, 43  \nFederal Court Rules 2011 (Cth) rr 39.05C, 40.25, 40.26, 40.27, 40.34\n\n**Cases cited:** Cassimatis v Australian Securities and Investments Commission (2016) 334 ALR 350  \nPort of Melbourne Authority v Anshun Pty Ltd (1981) 147 CLR 589  \nQuach v Davenport [2024] FCA 973  \nQuach v McIntyre [2024] FCA 564  \nQueensland v Commonwealth (1977) 139 CLR 585\n\n**Division:** General Division\n\n**Registry:** Queensland\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 16\n\n**Date of hearing:** 17 November 2025\n\n**Counsel for the Applicant:** The applicant appeared in person\n\n**Solicitor for the Respondent:** Small Myers Hughes Lawyers\n\n**Counsel for the Applicant:** The applicant appeared in person\n\n**Counsel for the Respondent:** Mr M Patterson\n\n## Judgment\n\n### ORDERS\n\n|  | QUD 16 of 2024 |\n|---|---|\n| BETWEEN: | DR MICHAEL VAN THANH QUACH<br>Applicant |\n| AND: | MARK PHILLIP MCINTYRE<br>Respondent |\n\n| order made by: | LOGAN J |\n|---|---|\n| DATE OF ORDER: | 17 NOVEMBER 2025 |\n\n### THE COURT ORDERS THAT:\n\n1. The application for the review of the decision of the registrar of 20 June 2025 to certify the respondent’s costs in a particular amount be dismissed.\n\n2. The applicant pay the respondent’s costs in a lump sum in an amount fixed by the registrar if not agreed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### ORDERS\n\n|  | QUD 39 of 2024 |\n|---|---|\n| BETWEEN: | DR MICHAEL VAN THANH QUACH<br>Applicant |\n| AND: | HELEN JAYNE DOROTHY DAVENPORT<br>Respondent |\n\n| order made by: | LOGAN J |\n|---|---|\n| DATE OF ORDER: | 17 NOVEMBER 2025 |\n\n### THE COURT ORDERS THAT:\n\n1. The application for the review of the decision of the registrar of 20 June 2025 to certify the respondent’s costs in a particular amount be dismissed.\n\n2. The applicant pay the respondent’s costs in a lump sum in an amount fixed by the registrar if not agreed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### (REVISED FROM TRANSCRIPT)\n\n### LOGAN J:\n\n[1] On 28 May 2024, in proceedings separately instituted by the present applicant, Dr Michael Van Thanh Quach, against Mr Mark Phillip McIntyre on the one hand and Ms Helen Jayne Dorothy Davenport on the other, respectively, QUD16/2024 and QUD39/2024. Thawley J made in each of those proceedings, for reasons given that day, the following orders:\n\n> 1. The proceeding be summarily dismissed under s 31A of the Federal Court of Australia Act 1976 (Cth);\n\n> 2. The applicant is to pay the costs of the respondent as agreed or assessed.\n\n(see Quach v McIntyre [2024] FCA 564)\n\n[2] Dr Quach sought to challenge those orders. Those orders being interlocutory in character, he required a grant of leave to appeal. On 21 August 2024, Lee J refused leave to appeal against each of the orders made by the court as constituted by Thawley J: see Quach v Davenport [2024] FCA 973.\n\n[3] The costs orders made by Thawley J thereafter proceeded in the usual way to taxation under the rules by a registrar. A sequel to that taxation was that, in each case, a registrar certified pursuant to r 40.27 of the Federal Court Rules 2011 (Cth) (Rules) that the respective respondents’ costs as between party and party had been taxed in a particular amount.\n\n[4] In turn, Dr Quach has applied pursuant to r 40.34 of the Rules for a review of the taxation. I thought that s 35A(5) of the Federal Court of Australia Act 1976 (Cth) (the Act) might have been an additional source of jurisdiction to review the registrar’s decision in respect of the taxation. However, the jurisdiction granted by s 35A(5) is keyed to proceedings in which a registrar has exercised any of the powers of the court under subs (1). Initially, I prefer to approach the case on the basis that the relevant source of authority to review the registrar’s decision is found in r 40.34.\n\n[5] That may not matter very much in the sense that it seems to me that the review power which I am exercising is not materially different as between s 35A(5) of the Act and r 40.34 in the Rules.\n\n[6] The nature of the court’s power on a review of a taxation of costs, under r 40.34 is the subject of a helpful exposition by Edelman J, when a judge of this Court in Cassimatis v Australian Securities and Investments Commission (2016) 334 ALR 350 at [7] and following. It is not necessary for the purpose of resolving the present review application to reach any concluded view as to the nature and bounds of that review power. It is certainly wider, in my view, than a power to review on the basis of jurisdictional error.\n\n[7] At the heart of Dr Quach’s challenge to the Registrar’s decision that particular amounts are quantified as the amounts owed, pursuant to the cost orders of Justice Thawley, is the proposition that nothing whatsoever is owed, because there was no power at all to make an order for costs, given the nature, so he submits, of the two proceedings. Each such proceeding Dr Quach submits, was a criminal proceeding, such that there was no power to make an order for costs.\n\n[8] One proposition advanced for the respondents is that the Registrar’s certification decision was a sequel to the costs orders, and that what is reviewed on the r 40.34 review is that sequel, rather than the correctness in law of the cost orders themselves. Dr Quach’s riposte to that, is that because the orders as to costs were interlocutory, the court has proven under r 39.05(i) of the Rules to set aside that interlocutory order. His further proposition is that, if as he submits it is patent that there was a complete absence of power, it must be possible on a review which quantified a particular amount for the court to conclude that no amount whatsoever is owed because there was no power to order him to pay anything, and to the extent necessary to vindicate that proposition the court should set aside the underlying order made on an interlocutory basis, that he pay costs as determined under the rules.\n\n[9] The authority for that proposition was not in terms one which was precisely identified by Dr Quach. I notice under r 40.25 or r 40.26 of the Rules and in turn, r 40.34(3) limits the review to grounds which had been earlier raised in the objection notice under those rules. However, there exists power generally to vary, what is otherwise the provision made by the Rules. If truly the point were one presently open to be advanced, and went to the very existence of any power, at all, to award costs, I would not regard r 40.34(3) as precluding my permitting Dr Quach to advance the issue.\n\n[10] Further, I assume in Dr Quach’s favour that the nature of the review power under r 40.34 would extend to entertaining on a review of a taxation that nothing whatsoever was owed because of a particular proposition of law.\n\n[11] Assuming all this in Dr Quach’s favour, the burden that he faces, in my view, is that the question of whether or not the proceedings were criminal proceedings, such that no power to award costs against him was to be found in s 43 of the Act has been determined against him, not just by the judgment of Thawley J, but more particularly by the refusal of leave to appeal against his Honour’s interlocutory orders, which included the relevant orders that Dr Quach pay the respondents costs.\n\n[12] In refusing leave to appeal, Lee J upheld Thawley J’s conclusion that the proceedings were not criminal in character and that there existed power, under s 43 of the Act, to order costs was correct. That proposition, in my view, was what Aickin J described in Queensland v Commonwealth (1977) 139 CLR 585, at 614 to 615, as a “bare” question of law. In turn, it seems to me that the bare question of law has, as a result of the refusal of leave to appeal, been finally determined against Dr Quach such that he is esstopped from again asserting it on the present review proceeding. Here, in this proceeding, it is the same issue between the same parties, and there is the requisite element of finality. The case is one of issue estoppel, Port of Melbourne Authority v Anshun Pty Ltd (1981) 147 CLR 589 at 605. That being so, it would be quite inappropriate for me, in my view, to delve afresh into the merits of that issue as between the parties. In respect of that issue it has been finally determined.\n\n[13] That being so, there is no basis on the review for impeaching or questioning, even assuming that is possible, the correctness of the underlying order that costs be paid. Instead, that order or those orders are subsisting orders in respect of a superior court of record in relation to which leave to appeal has been refused. I do not consider in those circumstances that there is any case for setting aside those orders under r 39.05. To do so would be subversive of the finality in the exercise occasioned by an exercise of federal judicial power.\n\n[14] Other points raised by Dr Quach related to section 91 of the Evidence Act 1995 (Cth). I note in passing that these points also were expressly canvassed before and rejected by Lee J in refusing leave to appeal. Once again, it would be subversive of the finality principle to embark upon any consideration of their merits.\n\n[15] It only comes to this: on the basis of the challenge made to the Registrar’s decision, the application for review must be dismissed. I have dealt with the review on the merits, rather than in a summary way, as was suggested, is because I consider it better to deal with it on the merits. The result might have been no different, but it has been disposed of after a substantive hearing, not summarily.\n\n[16] In the ordinary course of events, and although there is a relevantly unfettered discretion in respect of the exercise of the power to award costs, the just exercise of that discretion, given the outcome, would be an order that costs follow the event. Dr Quach put that no such order should be made on the basis that he was self-represented. A natural person is not bound to conduct proceedings by a legal practitioner, but may instead appear personally. However, that a person is so acting and does not succeed in a particular application, the manner of appearance does not, in my view, sound against the usual exercise of that discretion, which is that costs follow the event. The respondents of each sought that, in lieu of ordering costs to be taxed, that costs be awarded in a lump sum. That is a preference which is underpinned by the court’s general practice note in relation to costs. Such an order is, in my view, apt in this instance.\n\nI certify that the preceding sixteen (16) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Logan.\n\nAssociate:\n\nDated: 1 December 2025\n",
+ "source_sha256": "8e0d09a9803de5a62e8bd7f4c8679009645b7e712450975b37254c9b5795e74c"
+}

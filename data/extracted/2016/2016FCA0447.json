@@ -1,0 +1,1294 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2016/2016FCA0447.docx",
+ "metadata": {
+  "citation": "[2016] FCA 447",
+  "name": "Australian Competition and Consumer Commission v Australian Egg Corporation Limited",
+  "court": "FCA",
+  "year": 2016,
+  "number": 447,
+  "date_of_judgment": "2016-04-29",
+  "file_numbers": [
+   "SAD121/2014"
+  ],
+  "judges": [
+   "WHITE J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2016-03-23"
+  ],
+  "hearing_raw": "23 March 2016",
+  "number_of_paragraphs": 107,
+  "catchwords": [
+   "Competition – civil penalty proceeding – admitted contravention of the Competition and Consumer Act 2010 (Cth) – whether appropriate for court to act on admission – attempt to induce cartel conduct – agreed penalty",
+   "COSTS – application for reduction of successful party’s costs due to late admission – exercise of discretion – relevant factors – whether late admission unreasonable – whether successful party which unreasonably raised issues may be deprived of costs",
+   "COSTS – application for indemnity costs following Calderbank offer – exercise of discretion – relevant factors – special considerations for role of regulator – reasonable prospect of success"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) ss 44ZZRD, 44ZZRJ, 155",
+   "Evidence Act 1995 (Cth) s 191(2)",
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 37N, 43",
+   "Federal Court Rules 2011 (Cth) rr 20.25, 22.07, 24"
+  ],
+  "cases_cited": [
+   "Alister v The Queen (1983) 154 CLR 404",
+   "Australian Competition and Consumer Commission v Amcor Printing Papers Group Ltd [2000] FCA 163",
+   "Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 69",
+   "Australian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294",
+   "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 794; (2007) 160 FCR 321",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844",
+   "Australian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79",
+   "Australian Securities Commission v Aust-Home Investments Ltd [1993] FCA 585; (1993) 44 FCR 194",
+   "Bertie v Police (No 2) [2014] SASC 188",
+   "BHP Billiton Ltd v Parker [2012] SASCFC 73; (2012) 113 SASR 206",
+   "Colgate-Palmolive Co v Cussons Pty Ltd (1993) 46 FCR 225",
+   "Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46",
+   "Cummings v Lewis (1993) 41 FCR 559",
+   "Cretazzo v Lombardi (1975) 13 SASR 4",
+   "Damberg v Damberg [2001] NSWCA 87; (2001) 52 NSWRL 492",
+   "Daniels Corporation International Pty Ltd v Australian Competition and Consumer Commission [2002] HCA 49; (2002) 213 CLR 543",
+   "Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2015] FCAFC 59",
+   "Firebird Global Master Fund II Ltd v Republic of Nauru (No 2) [2015] HCA 53; (2015) 327 ALR 192",
+   "James v Australia and New Zealand Banking Group Ltd (1986) 64 ALR 347",
+   "J-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (Western Australian Branch) (No 2) (1992) 38 FCR 458",
+   "Meissner v The Queen [1995] HCA 41; (1995) 184 CLR 132",
+   "Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993",
+   "NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285",
+   "O’Keefe v Hayes Knight GTO Pty Ltd [2005] FCA 1559",
+   "R v Mohan [1976] 1 QB 1",
+   "Re Elgindata Ltd (No 2) [1993] 1 All ER 232",
+   "Re: Wilcox; Ex parte Venture Industries Pty Ltd (No 2) [1996] FCA 1132; (1996) 72 FCR 151",
+   "Rich v Australian Securities and Investments Commission [2004] HCA 42; (2004) 220 CLR 129",
+   "SPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356",
+   "Thalari v The Queen [2009] NSWCCA 170; (2009) 75 NSWLR 307",
+   "Trade Practices Commission v Allied Mills Industries Pty Ltd (No 4) (1981) 37 ALR 256",
+   "Trade Practices Commission v George Weston Foods Ltd (No 2) (1980) 43 FLR 55",
+   "Trade Practices Commission v Mobil Oil Australia Ltd (1984) 3 FCR 168",
+   "Trade Practices Commission v Tubemakers of Australia (1983) 47 ALR 719",
+   "Van Hemmen v State of Queensland [2007] FCA 1185"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN EGG CORPORATION LIMITED",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JAMES DALE KELLAWAY",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FARM PRIDE FOODS LTD",
+    "role": "Third Respondent (and others named in the Schedule)"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr T Duggan SC with Ms G Walker"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "the First and Second Respondents",
+    "name": "The First and Second Respondents did not appear"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr D Star"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "B2B Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth Respondent",
+    "name": "Ms R Orr QC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fourth Respondent",
+    "name": "Lander & Rogers Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fifth and Sixth Respondents",
+    "name": "Mr L Merrick"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fifth and Sixth Respondents",
+    "name": "Henry Davis York"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca0447",
+  "portal_file_numbers": [
+   "SAD121/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2016-04-29"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "SAD 121 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "WHITE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "29 April 2016"
+  },
+  {
+   "label": "Catchwords",
+   "value": "Competition – civil penalty proceeding – admitted contravention of the Competition and Consumer Act 2010 (Cth) – whether appropriate for court to act on admission – attempt to induce cartel conduct – agreed penalty\nCOSTS – application for reduction of successful party’s costs due to late admission – exercise of discretion – relevant factors – whether late admission unreasonable – whether successful party which unreasonably raised issues may be deprived of costs\nCOSTS – application for indemnity costs following Calderbank offer – exercise of discretion – relevant factors – special considerations for role of regulator – reasonable prospect of success"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) ss 44ZZRD, 44ZZRJ, 155\nEvidence Act 1995 (Cth) s 191(2)\nFederal Court of Australia Act 1976 (Cth) ss 37M, 37N, 43\nFederal Court Rules 2011 (Cth) rr 20.25, 22.07, 24"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Alister v The Queen (1983) 154 CLR 404\nAustralian Competition and Consumer Commission v Amcor Printing Papers Group Ltd [2000] FCA 163\nAustralian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 69\nAustralian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294\nAustralian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 794; (2007) 160 FCR 321\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844\nAustralian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79\nAustralian Securities Commission v Aust-Home Investments Ltd [1993] FCA 585; (1993) 44 FCR 194\nBertie v Police (No 2) [2014] SASC 188\nBHP Billiton Ltd v Parker [2012] SASCFC 73; (2012) 113 SASR 206\nColgate-Palmolive Co v Cussons Pty Ltd (1993) 46 FCR 225\nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46\nCummings v Lewis (1993) 41 FCR 559\nCretazzo v Lombardi (1975) 13 SASR 4\nDamberg v Damberg [2001] NSWCA 87; (2001) 52 NSWRL 492\nDaniels Corporation International Pty Ltd v Australian Competition and Consumer Commission [2002] HCA 49; (2002) 213 CLR 543\nDirector, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2015] FCAFC 59\nFirebird Global Master Fund II Ltd v Republic of Nauru (No 2) [2015] HCA 53; (2015) 327 ALR 192\nJames v Australia and New Zealand Banking Group Ltd (1986) 64 ALR 347\nJ-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (Western Australian Branch) (No 2) (1992) 38 FCR 458\nMeissner v The Queen [1995] HCA 41; (1995) 184 CLR 132\nMinister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993\nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285\nO’Keefe v Hayes Knight GTO Pty Ltd [2005] FCA 1559\nR v Mohan [1976] 1 QB 1\nRe Elgindata Ltd (No 2) [1993] 1 All ER 232\nRe: Wilcox; Ex parte Venture Industries Pty Ltd (No 2) [1996] FCA 1132; (1996) 72 FCR 151\nRich v Australian Securities and Investments Commission [2004] HCA 42; (2004) 220 CLR 129\nSPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356\nThalari v The Queen [2009] NSWCCA 170; (2009) 75 NSWLR 307\nTrade Practices Commission v Allied Mills Industries Pty Ltd (No 4) (1981) 37 ALR 256\nTrade Practices Commission v George Weston Foods Ltd (No 2) (1980) 43 FLR 55\nTrade Practices Commission v Mobil Oil Australia Ltd (1984) 3 FCR 168\nTrade Practices Commission v Tubemakers of Australia (1983) 47 ALR 719\nVan Hemmen v State of Queensland [2007] FCA 1185"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "23 March 2016"
+  },
+  {
+   "label": "Registry",
+   "value": "South Australia"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "107"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr T Duggan SC with Ms G Walker"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for the First and Second Respondents",
+   "value": "The First and Second Respondents did not appear"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr D Star"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "B2B Lawyers"
+  },
+  {
+   "label": "Counsel for the Fourth Respondent",
+   "value": "Ms R Orr QC"
+  },
+  {
+   "label": "Solicitor for the Fourth Respondent",
+   "value": "Lander & Rogers Lawyers"
+  },
+  {
+   "label": "Counsel for the Fifth and Sixth Respondents",
+   "value": "Mr L Merrick"
+  },
+  {
+   "label": "Solicitor for the Fifth and Sixth Respondents",
+   "value": "Henry Davis York"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD121/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN EGG CORPORATION LIMITED",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JAMES DALE KELLAWAY",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FARM PRIDE FOODS LTD",
+     "role": "Third Respondent (and others named in the Schedule)"
+    }
+   ],
+   "judges": [
+    "WHITE J"
+   ],
+   "date": "2016-04-29",
+   "date_raw": "29 APRIL 2016",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "Between 19 January and 8 February 2012, the Fourth Respondent, Zelko Lendich, attempted to encourage certain egg producers in Australia to enter into an arrangement or arrive at an understanding containing a provision to limit the production for supply and the supply of eggs in Australia when:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "at the time of the attempted encouragement:",
+     "level": 0
+    },
+    {
+     "label": "(i)",
+     "text": "each of the egg producers was a corporation within the meaning of s 4 the Competition and Consumer Act 2010 (Cth) (the CC Act); and",
+     "level": 0
+    },
+    {
+     "label": "(ii)",
+     "text": "at least two of the egg producers were in competition with each other in relation to the production for supply and the supply of eggs; and",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "the arrangement or understanding, if entered into, would have had the purpose of directly or indirectly preventing, restricting or limiting the production for supply and the supply, or the likely production for supply and the likely supply, of eggs by any or all of the egg producers,",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "and, by doing so, Zelko Lendich attempted to induce the egg producers to contravene s 44ZZRJ of the CC Act.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Zelko Lendich pay to the Commonwealth of Australia within 90 days of this order a pecuniary penalty in the sum of $120,000 in respect of the contravention of the CC Act the subject of the declaration herein.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "Zelko Lendich, at his own expense:",
+     "level": 0
+    },
+    {
+     "label": "(a)",
+     "text": "within 3 months of the date of this order, attend and undertake a training session on his responsibilities and obligations under ss 44ZZRJ, 44ZZRK and 76 of the CC Act;",
+     "level": 0
+    },
+    {
+     "label": "(b)",
+     "text": "ensure that the training referred to in para 3(a) is administered by a suitably qualified compliance professional or legal practitioner with expertise in competition law and/or the CC Act; and",
+     "level": 0
+    },
+    {
+     "label": "(c)",
+     "text": "provide to the Applicant a written statement or certificate from the person conducting the training referred to in para 3(a) within 14 days of completion of the training, verifying that such training has occurred.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "Within 90 days of the date of this order, Zelko Lendich pay the Applicant’s costs of and incidental to the proceedings in the agreed sum of $10,000.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The Applicant pay 85% of the costs of the First and Second Respondents of and incidental to the proceedings, to be taxed if not agreed.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The Applicant pay 90% of the costs of the Third, Fifth and Sixth Respondents of and incidental to the proceedings, to be taxed if not agreed.",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "By consent of the Applicant, the Third Respondent, Farm Pride and Zelko Lendich, Order 2 made on 18 September 2014, is varied so that it now provides:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "The Third Respondent is to pay 50% of the Applicant’s costs of the Third and Fourth Respondent’s interlocutory application of 9 May 2014.",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The applications by the non-parties Philip Szepe, Kinross Farms Pty Ltd, LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter for the costs of and incidental to their respective interlocutory applications filed on 23 and 27 October 2014 are dismissed.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT DECLARES THAT:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The Australian Competition and Consumer Commission (the ACCC) alleged that the six respondents to this proceeding had attempted to induce the 19 egg producers present at a meeting on 8 February 2012 (the Summit) to make an arrangement, or to enter into an understanding, to limit the supply of eggs which would contravene s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) (the CC Act).",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Shortly before the commencement of the trial of the liability issues, the fourth respondent, Mr Lendich, agreed with the ACCC that, in the period between 19 January and 8 February 2012, he had attempted to encourage egg producers to enter into an arrangement, or to arrive at an understanding, containing a provision with the purpose of preventing, restricting or limiting the production or supply of eggs. Mr Lendich also agreed that, at the time of his attempt, the egg producers were corporations and that two or more were in competition with each other in relation to the production and supply of eggs. The ACCC and Mr Lendich agreed on certain facts relating to the conduct, the orders to be made in respect of the conduct (including the penalty) and on submissions to be made jointly to the Court in support of the agreed orders.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "I directed that the submissions of the ACCC and Mr Lendich be heard after the Court had delivered judgment on the ACCC claims concerning the remaining respondents. The trial against those respondents then proceeded.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "In the judgment delivered on 10 February 2016, I found that the ACCC had not established its allegations against the remaining respondents: Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 69.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "These reasons concern three remaining matters:\n(a) the ACCC claims against Mr Lendich;\n(b) the applications by the successful respondents for their costs of the proceedings and the claim of the ACCC that it should have its costs in respect of an element of its claim which it contends three respondents had, unreasonably, refused to admit until shortly before the trial;\n(c) the applications by certain non-parties for the costs which they incurred in applying for confidentiality orders in respect of information they had provided to the ACCC pursuant to s 155 of the CC Act and which was to be discovered by the ACCC in the proceedings.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "These reasons are to be read in conjunction with the principal reasons and assume a knowledge by the reader of them. I will endeavour to avoid repetition.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "It is necessary to set out the course of events with respect to Mr Lendich’s agreed resolution of the claim against him because, despite joining in a submission that the Court should make the orders he had agreed with the ACCC, Mr Lendich submitted that the Court should not be satisfied that it was appropriate to make those orders. This was a curious submission and brought to mind the saying that those who sit straddling a fence usually find themselves in an uncomfortable position.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "The joint submissions provided by the ACCC and Mr Lendich at the commencement of the trial attached minutes of the orders the parties proposed and a Statement of Agreed Facts and Admissions (SOAFA).",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "The ACCC and Mr Lendich submitted then that the Court should make a declaration and orders for the imposition of a pecuniary penalty as follows:\n[1] Between 19 January and 8 February 2012, the fourth respondent (Zelko Lendich) attempted to encourage certain egg producers in Australia to enter into an arrangement or arrive at an understanding containing a provision to limit the production for supply and the supply of eggs in Australia in circumstances were:\n(a) at the time of the attempted encouragement:\n(i) each of the egg producers was a corporation within the meaning of s 4 the Competition and Consumer Act 2010 (Cth) (CCA);\n(ii) at least two of the egg producers were in competition with each other in relation to the production for supply and the supply of eggs; and\n(b) the provision of the arrangement or understanding, if entered into, would have the purpose of directly or indirectly preventing, restricting or limiting the production for supply and the supply, or the likely production for supply and the likely supply, of eggs by any or all of the egg producers,\nand, by doing so, Zelko Lendich attempted to induce the egg producers to contravene s 44ZZRRJ of the CCA.\n[2] Zelko Lendich pay to the Commonwealth of Australia a pecuniary penalty in the sum of $120,000 within 90 days of this order in respect of the contravention of the CCA declared by the Court in paragraph 1 above.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "In addition, the ACCC and Mr Lendich submitted that the Court should make an order that Mr Lendich undertake, at his own expense, particular forms of training and that he make a contribution to the ACCC’s costs.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "Following the delivery of the principal judgment, the ACCC and Mr Lendich filed on 26 February 2016 an amended joint submission. The amendments took account of the decision of the Full Court in Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2015] FCAFC 59 and the decision of the High Court on appeal in Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46 (Commonwealth v DFWBII) concerning the ability of parties to civil penalty proceedings to agree upon, and make submissions concerning, the penalty to be imposed. There were no other material changes.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "The amended submissions indicated that they were made in support of the proposed resolution of the claim against Mr Lendich and that the parties had agreed, for the purposes of s 191(2) of the Evidence Act 1995 (Cth), on the facts set out in the SOAFA at [3]-[42]. The SOAFA contained an express admission by Mr Lendich that he had made the attempt to induce a contravention of Pt IV of the CC Act alleged by the ACCC. In addition, the SOAFA contained numerous other acknowledgments by Mr Lendich of his conduct. The parties referred to the attempt admitted by Mr Lendich as a “contravention” and it is convenient to do likewise in these reasons.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "Three days after the amended joint submissions were filed, Mr Lendich filed a document entitled “Supplementary Submission of the Fourth Respondent”. In this document, he submitted that the Court had to assess, in the light of the Court’s findings in the principal judgment and the facts agreed in the SOAFA, whether it was appropriate to accept his admissions and to make the proposed declarations. Mr Lendich referred the Court to the judgment of Gray J in ACCC v Leahy Petroleum Pty Ltd [2007] FCA 794; (2007) 160 FCR 321 at [49] and submitted that the Court should assess whether his admissions should be accepted, or whether there is “reason to doubt the correctness” of his admissions as to the legal consequences of the facts agreed in the SOAFA. The submission concluded with the following two paragraphs:\n[8] If the Court is satisfied that the admission should be accepted and that Mr Lendich’s conduct did amount to a contravention of the Act, Mr Lendich submits that the Joint Submission should also be accepted, and the proposed declarations and penalties should be ordered.\n[9] If, however, the Court is not satisfied that Mr Lendich’s conduct amounted to a contravention of the Act, the proposed relief should not be ordered.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "The supplementary submission did not indicate on its face that Mr Lendich was seeking to resile from the joint submissions, from the agreement which he had reached with the ACCC, or from the facts which he had admitted. It seemed to be no more than a reminder that the Court must be satisfied that the facts he had admitted justified the proposed orders.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "In the oral submissions 23 days later, Mr Lendich’s position shifted. He said that he was not seeking to resile from the facts he had agreed with the ACCC, but repeated that the Court was obliged to consider whether those facts warranted the declaration and other relief which he had agreed with the ACCC. In support of this submission, counsel referred to Leahy Petroleum at [43]-[50] (Gray J) and to Damberg v Damberg [2001] NSWCA 87; (2001) 52 NSWRL 492 at [148]-[160] (Heydon JA). In particular, counsel noted the observation of Heydon JA at [157] that “the court is not bound to act on admissions made by the parties or on [statements] of fact agreed between the parties”.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "In Leahy Petroleum, Gray J said at [51]:\n[A]n admission may amount to a concession as to a matter of law, or a conclusion on a matter of mixed fact and law. If law is complex, or there is difficulty in determining on which side of an indistinct line the particular facts fall, it is necessary to be wary of accepting an admission conflicting with conclusions drawn on the evidence, and with the benefit of full submissions as to the law.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "Mr Lendich referred to the passages in the principal judgment in which the Court found that the ACCC had not proven that the other respondents had the requisite intention for an attempt to induce the alleged contravention of s 44ZZRJ. He submitted that the facts which he had agreed with the ACCC did not take proof of the ACCC case any further in his case, with the effect that, if the Court gave effect to his agreement with the ACCC in the way contemplated by the joint submissions, there would be inconsistent verdicts.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "The claim against Mr Lendich"
+    ],
+    "text": "Thus, by the conclusion of his oral submissions, Mr Lendich’s position was that, despite the joint submissions and the SOAFA filed on 26 February 2016, the Court should not make the declaration and other orders which he had joined with the ACCC in presenting to the Court.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "I accept that in this case, as with all cases of agreed facts and submissions, the Court must consider whether it is appropriate to act on them. So also when the Court is asked to enter judgment on the basis of admissions.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "However, the remaining aspects of Mr Lendich’s submissions cannot be upheld. They either overlook, or do not give proper effect to, the admission by Mr Lendich of his intention which is implicit in the express admissions contained in the SOAFA.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "Paragraphs [1]-[40] of the SOAFA contained admissions of numerous matters which, with one or two exceptions, were also the matters on which the Court made findings in the principal judgment. Paragraph [41] then contained the following agreement:\n41. By reason of the foregoing, and for the purpose of these proceedings only, the ACCC and Mr Lendich agree that that, by:\n(a) attending the AECL Board meeting referred to in paragraph 26 above;\n(b) knowing that the AECL Publications were being received by some of the Specified Members and contained information concerning egg supply and inventory levels;\n(c) receiving and reading the emails from Mr Kellaway referred to in paragraphs 29 and 31 above;\n(d) joining the resolution at the meeting of the AECL Board on 19 January 2012 to invite the top 25 Australian egg producers to the urgent meeting to encourage destocking and egg disposal;\n(e) knowing that Mr Quirke and Mr Kellaway would give presentations at the urgent meeting concerning their views on the perceived oversupply of eggs in the Australian egg industry to encourage destocking and egg disposal;\n(f) attending the urgent meeting and observing the presentations given by Mr Quirke and Mr Kellaway at the urgent meeting;\n(g) not dissociating himself from, or otherwise disavowing any of the information or views expressed in the presentations given by Mr Quirke and Mr Kellaway at the urgent meeting and any of the material contained in the AECL documents specified in this Statement;\n(h) speaking at the urgent meeting about the desirability of egg producers lowering stock densities in cages in conformity with the expectations of industry and Government to improve bird welfare;\n(i) knowing that it was likely that two or more of the egg producers represented at the urgent meeting were in competition with each other in relation to the production for supply and the supply of eggs to wholesale or retail businesses in Australia; and\n(j) being in attendance at the urgent meeting knowing that many of the representatives of egg producers in attendance knew him to be a director of both AECL and Farm Pride Foods,\nMr Lendich attempted to encourage the egg producers attending the urgent meeting who were likely to be in competition with each other to enter into an arrangement or arrive at an understanding containing a provision with the purpose of preventing, restricting or limiting:\n(i) the production, or likely production, of eggs by egg producers; or\n(ii) the supply, or likely supply, of eggs by egg producers\nby any or all of the parties to the arrangement or understanding.\n(Emphasis added)",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "Paragraph [43] of the SOAFA contained the following admission by Mr Lendich:\n[43] By engaging in the conduct referred to in paragraph 41 above, in the context of all other matters and circumstances set out in this Statement as agreed facts, Mr Lendich admits that he has attempted to induce one or more of the Specified Members to contravene a provision of Pt IV of the CCA (other than ss 44ZZRF or 44ZZRG) within the meaning of s 76(1)(d) of the CCA.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "As can be seen, in [41] and [43] of the SOAFA, Mr Lendich admitted that he had “attempted” to induce the attendees at the Summit to enter into an agreement, or to arrive at an understanding, of a proscribed kind.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "The ACCC and Mr Lendich agreed expressly that the Court could rely on these admissions to pronounce judgment and to make the agreed orders. They referred to r 22.07 of the Federal Court Rules 2011 (Cth), which provides:\nIf a party makes an admission, another party may apply to the Court for any judgment or order to which the party is entitled on the admission.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "It is implicit in the notion of attempt that the person intended to do the matter attempted. One cannot have an attempt without such an intention: R v Mohan [1976] 1 QB 1 at 6-8; Alister v The Queen (1983) 154 CLR 404 at 422-3; Trade Practices Commission v Tubemakers of Australia (1983) 47 ALR 719 at 737. It is for this reason that Toohey J held in Trade Practices Commission v Mobil Oil Australia Ltd (1984) 3 FCR 168 at 183 that, “in the case of attempt, there must be an intention to bring about the prohibited result”.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "In the criminal law, a plea of guilty constitutes an admission of all the essential elements of the offence charged: Meissner v The Queen [1995] HCA 41; (1995) 184 CLR 132 at 157. For this reason, courts set aside convictions entered following a plea of guilty only when satisfied that a miscarriage of justice has occurred, as, for example, when defendants did not understand the nature of the charge, or did not intend to admit guilt, or when, upon the facts admitted by the plea, they cannot in law have been guilty of the offence: Bertie v Police (No 2) [2014] SASC 188 at [21]; Thalari v The Queen [2009] NSWCCA 170, (2009) 75 NSWLR 307 at [35].",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "I consider that the same principle should be applied by analogy in this case, with the effect that Mr Lendich’s admission of the attempt alleged by the ACCC involved implicitly an acknowledgement by him that he had had the requisite intention for the attempt. Mr Lendich could make that admission because he knew what his state of mind was at relevant times. In fact, his admission of his intention is the best form of evidence because it was not possible for the ACCC or this Court to see into his mind. Absent his admission, the ACCC had to rely on the inferences which could be drawn from Mr Lendich’s proven conduct.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "Mr Lendich did not point to any circumstance suggesting that his admission of his intention was unreliable or suspect. He was legally represented and the Court may infer that he had proper advice before making the admission. There was no suggestion that he had not. It is pertinent that Mr Lendich continues to be represented by the same solicitors and counsel who represented him when the admission was made, a circumstance which is unlikely if any issue has arisen concerning the appropriateness of the advice he received before making the admission.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "The circumstances of the present case are different from those considered by Gray J in ACCC v Leahy. In that case, the ACCC did not allege an attempt but a completed agreement. Some respondents admitted that such an agreement had been made. Following the trial against the remaining respondents, Gray J found that no agreement of the kind alleged had been made and, accordingly, that it was inappropriate to act on the admissions. In contrast the ACCC claims in the present case failed because it did not establish, on the evidence presented at trial, that any of the remaining respondents had the requisite intention. In its case against Mr Lendich, however, the ACCC has additional evidence on this topic in the form of his own admission as to his intention.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "There is no inconsistency of verdicts. Mr Lendich’s admission of his intention fills the gap which existed in the ACCC case against the other respondents. There is no basis upon which the Court should conclude that it is inappropriate to act on that admission.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Acting on the admissions by Mr Lendich"
+    ],
+    "text": "I am satisfied, in the light of the matters contained in the joint submissions, the SOAFA and the evidence at trial, that the declaration agreed between the ACCC and Mr Lendich is appropriate and should be made.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "The claim against Mr Lendich",
+     "The agreed penalty"
+    ],
+    "text": "Separate consideration needs to be given to the agreed penalty. The decision of the High Court in Commonwealth v DFWBII indicates that it is appropriate for a regulator such as the ACCC to agree a penalty with a contravenor and for the parties to submit that the Court should impose that penalty.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "The claim against Mr Lendich",
+     "The agreed penalty"
+    ],
+    "text": "One of the matters bearing on the appropriateness of the agreed penalty in the present case is the credit to be granted to Mr Lendich for his admission before trial of his culpability, his agreement with the ACCC and his willingness to facilitate the course of justice. Considered by themselves, these were significant matters as they involved a display of honesty and, given the attitude of his fellow respondents, some courage. They are matters which would warrant a marked reduction in the penalty which would otherwise be appropriate.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "The claim against Mr Lendich",
+     "The agreed penalty"
+    ],
+    "text": "However, this is where the discomfort resulting from Mr Lendich’s attempt to sit on both sides of the fence becomes apparent. By his submissions at the penalty hearing, Mr Lendich sought to avoid the consequences of his admissions even though he knew that he had had the proscribed intention and had formally admitted it. To my mind, that detracts from the sincerity which the Court would otherwise have accepted was indicated by his admission and cooperation with the ACCC and, in turn, requires the Court to consider closely whether the agreed penalty of $120,000 may be inadequate.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "The claim against Mr Lendich",
+     "The agreed penalty"
+    ],
+    "text": "Although my mind has wavered about this, I have concluded ultimately that the amount agreed by the parties for the penalty is appropriate, and within the permissible range. In reaching this conclusion, I have had regard to the principles discussed in the authorities to which the joint submission referred, namely, Trade Practices Commission v Allied Mills Industries Pty Ltd (No 4) (1981) 37 ALR 256 at 259; NW Frozen Foods Pty Ltd v ACCC (1996) 71 FCR 285 at 290-1, 298-9; ACCC v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79 at [18]; Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993 at 48,626.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Mr Lendich’s liability for costs"
+    ],
+    "text": "The ACCC and Mr Lendich proposed initially an order having the effect that Mr Lendich pay “a contribution” to the costs of the ACCC to be agreed or taxed. Such an order would be inappropriate because the parties cannot be compelled to reach agreement and the function of a Registrar on a taxation is to quantify a liability of costs previously imposed, and not to determine what the liability should be. The parties then proposed an order which was capable of affecting the rights of the third respondent, Farm Pride. Subsequently, Farm Pride indicated its consent to the making of the order. I am satisfied that the costs orders are appropriate.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "The claim against Mr Lendich",
+     "Mr Lendich’s liability for costs"
+    ],
+    "text": "Orders will be made in terms of the minutes agreed between the ACCC and Mr Lendich.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Costs"
+    ],
+    "text": "There are two principal issues concerning the costs of the other respondents. The first is whether Farm Pride should have some of its costs on an indemnity basis, having regard to the terms of a so-called Calderbank offer. The second is whether there should be some reduction of the costs to be paid by the ACCC to Farm Pride, IMS (the fifth respondent) and Mr Ironside (the sixth respondent) having regard to their belated admission of a matter which caused the ACCC to incur additional costs.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Costs",
+     "The costs of AECL and Mr Kellaway"
+    ],
+    "text": "The ACCC, AECL and Mr Kellaway are agreed that the Court should order the ACCC to pay 85% of the costs of AECL and Mr Kellaway. The parties’ agreement did not indicate the basis for this apportionment but I infer that it takes account of the ACCC’s success on the Crown immunity issue raised by AECL and Mr Kellaway. I will make the agreed order.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Farm Pride submitted that the ACCC should pay its costs on a party/party basis up to and including 2 April 2015 and thereafter on an indemnity basis.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "In the ordinary case, the Court will exercise the discretion under s 43 of the Federal Court of Australia Act 1976 (Cth) (the FCA Act) to order that costs following the event be paid on a party/party basis. The Court may, however, depart from that basis if there is “some special or unusual feature in the case” justifying that course: Re: Wilcox; Ex parte Venture Industries Pty Ltd (No 2) [1996] FCA 1132; (1996) 72 FCR 151 at 152-3.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Farm Pride submitted that such a feature exists presently because of a so-called Calderbank offer it had made to the ACCC on 30 March 2015. Before that date, Farm Pride had made without prejudice offers of settlement to the ACCC which it relied upon as part of the background to its offer. By the letter of 30 March, Farm Pride offered to consent to orders having the following effect:\n(i) A declaration in the terms sought by the ACCC with respect to Farm Pride in its originating application;\n(ii) An injunction with a term of five years in the terms sought by the ACCC with respect of Farm Pride in the originating application;\n(iii) Payment by Farm Pride of a pecuniary penalty of $400,000;\n(iv) The establishment by Farm Pride of a compliance program in the terms sought by the ACCC in its originating application;\n(v) Payment by Farm Pride to the ACCC of the sum of $100,000 on account of its costs.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The 30 March letter concluded with following:\nThis offer is made in accordance with the principles applied in Calderbank v Calderbank [1975] 3 All ER 333 and Cutts v Head [1984] Ch 290 and as developed in subsequent case law. In the event that the offer is not accepted, Farm Pride will rely on this letter in support of an application for its costs on an indemnity basis.\nThis offer will remain open for acceptance for 14 days from the date of this letter.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The ACCC responded to the offer by an email of 2 April 2015 which was marked “Without Prejudice Save as to Costs”. The substance of the ACCC response was as follows:\nThe ACCC has considered your client’s offer but is not prepared to accept it.\nIn our discussion on 24 February 2015, we conveyed the ACCC’s without prejudice offer of $1.25m, with an upfront payment, and a willingness to consider a payment plan if that would assist your client in making the payment. Your client’s current offer with respect to penalty and costs has not substantially changed from that indicated in a supplementary submission dated 17 February 2015, notwithstanding the indication of the ACCC’s position that was conveyed on 24 February 2015.\nWhile it is apparent that the parties’ respective positions on this issue remain far apart, the ACCC is willing to continue settlement discussions if there is a genuine prospect for negotiation to occur. Are you able to advise whether your client’s offer of 30 March 2015 represents its final position in relation to penalty and costs?",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "It seems that there were no further discussions with respect to resolution of the claim against Farm Pride and the trial of the action commenced on 20 April 2015.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Farm Pride submits that its 30 March 2015 offer was reasonable; that it has obtained an outcome which bettered that offer; and that the ACCC rejection of the offer was imprudent or unreasonable, such as to make it appropriate for it to have costs on an indemnity basis after the date of the rejection.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The question for the Court’s determination is whether the particular facts and circumstances relating to the ACCC allegations involving Farm Pride and its rejection of the 30 March 2015 offer warrant the making of an order for payment of costs other than on a party/party basis: Colgate-Palmolive Co v Cussons Pty Ltd (1993) 46 FCR 225 at 234; ACCC v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294 at [22].",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Although an unreasonable or imprudent rejection of an informal offer of settlement made by letter will often warrant a court departing from the usual order that costs be paid on a party/party basis, this is not the single criterion on which the exercise of the Court’s discretion turns. Farm Pride referred in this respect to the observation of Doyle CJ and White J in BHP Billiton Ltd v Parker [2012] SASCFC 73; (2012) 113 SASR 206 at [263]:\nIt is also important to bear in mind that the question is not simply whether, having regard to a Calderbank letter, a court should order the defendant to pay costs on a basis other than as between party and party. The court will be exercising a broad discretion, and the making of an informal offer of settlement is merely one of a number of matters relevant to the exercise of that discretion … And a Calderbank letter is but one instance of how a party might make an offer which has been “imprudently refused” … Imprudent refusal of an offer of settlement is often raised as the basis for an application for an order for costs on a basis other than as between party and party, but once again it has to be borne in mind that while “imprudent refusal” conveniently encapsulates an approach to the exercise of the discretion, in the end the issue is whether the discretion should be exercised to depart from the usual basis of an order for costs.\n(Citations omitted)",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Sackville J referred to similar considerations in ACCC v Amcor Printing Papers Group Ltd [2000] FCA 163 at [9]:\nThe authorities in this Court have accepted that the rejection of a Calderbank offer (in the sense of an offer to settle specifically made with a view to being used, if not accepted, in relation to a costs application) does not of itself justify an order for costs on an indemnity basis if the offeree fails to secure a more favourable outcome in the proceeding … The significance to be attached to a Calderbank offer depends on its terms and the circumstances of the litigation, including the time at which the offer is made and the understanding of the parties as to the strengths and weaknesses of their respective cases …\n(Citation omitted)",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The authorities indicate that the matters bearing upon whether the rejection of an informal offer of settlement may warrant a later order of indemnity costs include:\n(i) the stage the proceedings had reached when the offer was made;\n(ii) the time allowed to the offeree to consider the offer;\n(iii) the extent of the compromise offered;\n(iv) the offeree’s prospects of success, assessed as at the date of the offer;\n(v) whether the offeree should have appreciated that its claim would fail;\n(vi) whether the offeror explained why it considered the offeree will fail or, at least, not better the offer;\n(vii) the clarity with which the terms of the offer are expressed; and\n(viii) whether the offeror foreshadowed an application for indemnity costs in the event of the rejection of its offer.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "I respectfully agree with the observation of Pagone J in SPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356 at [3] concerning factors of this kind:\nThose factors are not to be applied slavishly but provide indicators to determine whether an offer had been rejected unreasonably. One may add to those factors such matters as may now relevantly arise by virtue of ss 37M and 37N of the Federal Court of Australia Act 1976 (Cth) which imposes overarching obligations on parties and their lawyers to conduct and dispose of proceedings efficiently.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The ACCC acknowledged that the only material difference between the parties concerning Farm Pride’s informal offer had been the amount of the proposed penalty.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "In resisting Farm Pride’s application for indemnity costs, the ACCC relied on the following:\n(a) the civil penalty nature of the proceedings and its position as the regulator responsible for enforcement of the CC Act. Amongst other things, this meant that it did not have the freedom to agree upon an appropriate penalty in the same way as does a private litigant in civil litigation. It can agree a penalty, but it is for the Court to determine its appropriateness. Its role in making submissions to the Court in support of the appropriateness of a proposed penalty requires it to be satisfied that the penalty in a proposed resolution is within an appropriate range of penalties for a contravention of the kind in question;\n(b) its commencement and pursuit of the case against Farm Pride had been reasonable;\n(c) its rejection of the 30 March 2015 offer had not been peremptory;\n(d) its rejection of the offer had not been unreasonable as a penalty of $400,000 would have been insufficient had it made out its case;\n(e) it had been open to Farm Pride upon the rejection of its offer to come to the Court, admit its contravention with a statement of the basis for that admission and then to have submitted that a penalty of $400,000 was appropriate, and Farm Pride had not done so.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "In my opinion, some of these matters are of no significance. The circumstance mentioned in (e) that Farm Pride could have chosen, after 3 April 2015, to admit a contravention and make submissions in support of a proposed penalty of $400,000 is, to my mind, immaterial. In the first place, that circumstance does not bear upon the reasonableness, or otherwise, of the ACCC rejection of the offer which Farm Pride did in fact make. Secondly, the submission overlooks that what Farm Pride was proposing was an agreed resolution of the proceedings pursuant to which submissions would be made to the Court by both the ACCC and it in support of the agreed position. It was seeking to avoid a circumstance in which its fate would be at large.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Similarly, I do not regard the issue mentioned in (b) as being pertinent. The question is not whether it was appropriate for the ACCC to commence and pursue the allegations, but whether, having done so, it was unreasonable for the ACCC not to have accepted Farm Pride’s proposed resolution of the claims against it.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Farm Pride submitted that the circumstance that its offer had been rejected “in a mere three days” suggested “a peremptory rejection by a closed mind”. This was a submission that the ACCC had not given proper consideration to its offer. I do not regard the time at which the ACCC rejected the Farm Pride offer to be significant for present purposes. The ACCC had been in discussions with Farm Pride about a possible resolution for some time before 31 March 2015 and had had ample opportunity to consider the issues concerning a resolution of its claims against Mr Lendich. The Farm Pride offer did not come out of the blue. There is no reason to suppose that, in the context of the negotiations which had preceded the Lendich offer, a period of three days was inadequate for proper consideration by the ACCC of the offer. The circumstance that the ACCC rejected the offer within three days is just as consistent with it considering the offer and its implications in an efficient way and making a decision expeditiously.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "This means, to my mind, that the principal matters bearing upon the Farm Pride application for indemnity costs are the ACCC’s position as regulator, the civil penalty nature of the proceedings, and the reasonableness or otherwise, of the ACCC’s rejection of the offer.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The first two matters are important considerations. Allsop J in ACCC v Baxter Healthcare Pty Ltd [2005] FCA 860 at [12] said:\nA rejection of an offer in a penalty case such as this brings with it considerations of public responsibility for the administration of an important piece of Commonwealth legislation that do not attend an offer in a civil suit.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "In his costs decision in ACCC v Leahy Petroleum Pty Ltd [2007] FCA 1844, Gray J also referred to particular considerations bearing upon the determination of applications for costs orders against the ACCC:\n[24] The ACCC is a statutory body, established by s 6A of the Trade Practices Act. … [T]he ACCC has cast upon it significant responsibilities on behalf of the public, to ensure as far as practicable that there is compliance with the provisions of the Trade Practices Act. When the ACCC has commenced and pursued a proceeding in respect of alleged contraventions of a provision of the Trade Practices Act, and there is no suggestion that it has acted with any ulterior motive, the Court should not be quick to award costs against it on anything other than the usual party-party basis when the ACCC has suffered a loss in the proceeding. Excessive readiness to force the ACCC to compensate the winning party to a greater extent than the normal party-party costs incurred might operate as a deterrent to the ACCC against bringing proceedings in the exercise of its public functions.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Those observations are, in my view, as pertinent now as they were when made in 2007.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Several of Farm Pride’s submissions went to the appropriateness of its proposed penalty of $400,000. It emphasised that the allegation made against it was of an attempt only, and not of a completed contravention of s 44ZZRJ; that the proposed penalty of $400,000 was a substantial sum and more than three times the penalty which the ACCC later agreed with Mr Lendich; that the ACCC had the “comfort” of knowing that, if the Court considered that a penalty of $400,000 was inappropriate, it had the ability to impose an increased penalty; and that it had, in its earlier correspondence, set out in some detail matters bearing upon the reasonableness of its proposed penalty.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "The Court should be wary about determining the likely ultimate outcome of proceedings for the sole purpose of determining questions of costs in relation to those proceedings: Australian Securities Commission v Aust-Home Investments Ltd [1993] FCA 585; (1993) 44 FCR 194 at 201. This counts against the Court considering in any detailed way now the adequacy of Farm Pride’s proposed penalty. It is sufficient to say that, in the circumstances as known to the Court presently, and on that basis only, the proposed penalty does not appear to be plainly unreasonable, especially taking into account the reduction in penalty to which Farm Pride may have been entitled for its acknowledgement of its contravention.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Although with some hesitation, I have concluded that it is inappropriate to order the ACCC to pay costs to Farm Pride on other than a party/party basis. I have reached that conclusion having regard to the following matters. First, the special position of the ACCC as a public regulator. Secondly, although it seems that the ACCC did not have any regard to “litigation risk”, there is an absence of any indication that it acted in a highhanded manner or had sought to take advantage of its position as a publicly funded body in litigation with private entities and individuals.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Thirdly, the issue upon which the ACCC failed at trial was proof that Farm Pride had the requisite intention. Two considerations suggest that it was not unreasonable for the ACCC, as at 3 April 2015, to think that it had reasonable prospects of establishing that issue. First, there is the admission by Farm Pride’s Managing Director, Mr Lendich, only two weeks later that he did have the intention alleged by the ACCC. The second is that the ACCC allegations were made against several respondents. Although the individual respondents had each invoked the privilege against self-incrimination, there was, at 3 April 2015, the prospect that each would give evidence in the trial with the consequence that the ACCC would be able to adduce additional evidence from them, including evidence as to their respective intentions. The rationale for the Court’s caution in upholding an application for summary judgment by one of several defendants discussed in authorities such as Trade Practices Commission v George Weston Foods Ltd (No 2) (1980) 43 FLR 55 at 62 (Davies J); James v Australia and New Zealand Banking Group Ltd (1986) 64 ALR 347 at 401 (Toohey J); and J-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (Western Australian Branch) (No 2) (1992) 38 FCR 458 at 465 (French J) is pertinent in the present context, namely, that account should be taken in proceedings in which there are multiple respondents of the possibility that evidence adduced by one or more respondents may implicate others.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "Finally, I note that in Commonwealth v DFWBII at [109], Keane J suggested that it may be appropriate for a public regulator to take account of litigation risk in the settlement of litigation brought by that regulator. The parties in the present case did not address submissions to this question but, in any event, because the judgment in Commonwealth v DFWBII was delivered on 9 December 2015, the ACCC did not as at 3 April 2015 have the benefit of the reasons of the High Court on this point.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "Costs",
+     "Farm Pride’s claim for indemnity costs"
+    ],
+    "text": "For these reasons I consider that the ACCC should pay Farm Pride’s costs on a party/party basis.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The ACCC seeks a reduction of the costs it must pay to Farm Pride, IMS and Mr Ironside on account of their refusal, until just before trial, to admit a matter. It submitted that the refusal had been unreasonable and had caused it to incur significant unnecessary expense.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "In order for the ACCC to make out the attempt it alleged, it had to establish that at least two of the attendees at the Summit were, or were likely to be, in competition with one another in relation to the production for supply and the supply of eggs: s 44ZZRD(4) (the Competition Condition).",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The ACCC Statement of Claim (SoC) pleaded the following in relation to this element:\n[13] At all material times, and in particular between 26 November 2010 and 9 February 2012, at least two of the Specified Members were, or were likely to be, in competition with each other in relation to the production for supply and the supply of eggs to wholesale or retail businesses in the regions of South Australia (SA), Western Australia (WA), the Northern Territory (NT), Queensland (QLD), New South Wales (NSW), Victoria (VIC) and Tasmania (TAS) as denoted in Schedule A.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "Schedule A was in the form of a table listing each Specified Member, the name of the person representing the Specified Member who attended the Summit, and the State(s) or Territory in which the Specified Member was in competition with other Specified Members.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The AECL and Mr Kellaway admitted the allegation in [13] of SoC. However, each of the defences of Farm Pride (15 August 2014), IMS (18 August 2014) and Mr Ironside (18 August 2014) denied the allegation in SoC [13], while adding pleas as to the activities of Farm Pride and IMS respectively. Farm Pride’s defence to SoC [13] was as follows:\n[13] In answer to paragraph 13, the Third Respondent says as follows:\n[13.1] The Third Respondent refers to and repeats paragraph 5.2 above.\n[13.2] At all material times the Third Respondent:\n[13.2.1] produced eggs for supply only in Victoria and New South Wales;\n[13.2.2] supplied eggs to wholesale or retail businesses throughout Australia, but predominately in New South Wales, Victoria and Queensland; and\n[13.2.3] engaged in other commercial activities in relation to value-added egg products throughout Australia.\n[13.3] The Third Respondent does not admit the allegations in paragraph 13 insofar as it relates to the conduct of the other respondents.\n[13.4] The Third Respondent otherwise denies the allegations in paragraph 13.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The pleas of IMS and Mr Ironside to SoC [13] were (relevantly) identical:\n[13] In response to paragraph 13, it/he:\n(a) admits that at all material times it/Twelve Oaks Poultry carried on business as an egg producer based in Queensland; and\n(b) otherwise denies the allegation in paragraph 13.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "None of these defences admitted the central allegation made by the ACCC in SoC [13].",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The ACCC contends that, on any reasonable view, the question of whether at least two or more of the attendees were in respect of the identified States and Territories in competition with one another should not have been an issue. The denials of Farm Pride, IMS and Mr Ironside had the consequence that it had had to undertake extensive work involving significant expense, to prove the Competition Condition before, by amended defences filed 12 days before the commencement of the trial, each of Farm Pride, IMS and Mr Ironside admitted that the Condition was satisfied.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "Upon this basis, the ACCC submits that it should not have to pay the costs incurred by Farm Pride, IMS and Mr Ironside concerning the Competition Condition and that each should pay the costs which it incurred in obtaining the evidence to prove that element of its claim.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The work of the ACCC directed to this issue included the following:\n(a) discovering to the respondents the transcripts of examinations of various egg producers conducted pursuant to s 155 of the CC Act;\n(b) by correspondence dated 3 October 2014, informing the 74 individuals and companies who had been examined pursuant to s 155 or which had produced documents to it pursuant to s 155, as the case may be, of the discovery orders made by the Court on 18 September 2014 which gave them an opportunity to apply for orders to protect the confidentiality of the information they had provided to the ACCC and which it would be disclosing to the respondents;\n(c) dealing with telephone calls and correspondence from the egg producers referred to in (b) who raised concerns about the disclosure of their confidential information;\n(d) engaging in extensive correspondence with the respondents between 10 October 2014 and 27 October 2014 concerning possible agreement as to means of addressing the concerns of the egg producers;\n(e) considering and addressing interlocutory applications by seven non-party egg producers seeking orders for the protection of their confidential information which it was otherwise obliged by the Court’s orders to disclose to the respondents;\n(f) attending at a substantial directions hearing on 29 October 2014 at which the applications of the seven egg producers and some of the respondents for orders protecting the confidentiality of their information were addressed;\n(g) preparing, filing and serving on 6 November 2014 a substantial notice to admit facts directed to the competition issue;\n(h) considering the notices of dispute filed by the respondents in response to the notice to admit facts;\n(i) filing, on 17 November 2014, an interlocutory application and supporting affidavit seeking leave to rely at trial on affidavits filed by a number of the non-parties in October 2014;\n(j) addressing the means by which the evidence from the egg producers on the competition issues was to be adduced at trial, including addressing this as a significant topic at the directions hearing on 3 February 2015;\n(k) obtaining leave to issue, and subsequently issuing, subpoenas to seven egg producers requiring them to produce documents relating to the Competition Condition;\n(l) issuing subpoenas to individual egg producers requiring them to attend at trial to give oral evidence;\n(m) addressing until April 2015, and at the pre-trial directions hearing on 8 April 2015, issues relating to the evidence to be given by the proposed egg producer witnesses, including identifying the portions of affidavits from six egg producers to be relied upon at trial, preparing outlines of the evidence to be adduced from the egg producer witnesses generally, and obtaining leave to inspect, and inspecting, documents produced on subpoena;\n(n) considering between 12 November 2014 and April 2015, various aspects of the evidence to be presented in support of its proof of the Competition Condition.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The evidence did not disclose the work of the respondents in relation to the Competition Condition. It is unlikely to have been as extensive as that of the ACCC but, nevertheless, is likely to have been significant.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The discretion with respect to costs granted by s 43 of the FCA Act may be exercised so as to deprive a successful party of some of its costs and, further, to require that party to pay some of the costs of the unsuccessful party: Cretazzo v Lombardi (1975) 13 SASR 4 at 11-12. In particular, a successful party which has unreasonably or improperly raised issues on which it has failed may be ordered to pay the costs of the other on those issues and may be deprived of part of its own costs: Re Elgindata Ltd (No 2) [1993] 1 All ER 232; Cummings v Lewis (1993) 41 FCR 559 at 603.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "In Firebird Global Master Fund II Ltd v Republic of Nauru (No 2) [2015] HCA 53; (2015) 327 ALR 192 at [6], the High Court deprecated applications for an apportionment of costs on an issue-by-issue basis requiring the exercise of the costs discretion to take into account the issues upon which the successful party has succeeded, and not succeeded. Nevertheless, there are cases in which such an apportionment is appropriate. Allsop J referred to one such circumstance in Baxter Healthcare at [10] when he said that “unnecessary stubbornness, unreasonable taking of points and a refusal to co-operate in the efficient running of litigation (including penalty litigation) should be able to be dealt with in a flexible way by orders for costs”.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "Farm Pride, IMS and Mr Ironside raised a number of matters in resisting the ACCC contention. These were to the effect that, at the time they filed their respective defences, they had insufficient knowledge to be able to make an admission of SoC [13]; that the identification of competition in a market involves complex questions; that it had been inappropriate for the ACCC to assume that the markets in which egg producers were in competition were defined by State or Territory boundaries; that it had been inappropriate for the ACCC to seek admissions of facts in the liability trial which were more pertinent to issues of penalty in the event that the contraventions were established; and that having regard to the fact that these were penalty proceedings, it had been open to them to require the ACCC to prove its case (citing Daniels Corporation International Pty Ltd v ACCC [2002] HCA 49, (2002) 213 CLR 543 at [31] and Rich v ASIC [2004] HCA 42, (2004) 220 CLR 129 at [24]). In addition, the respondents referred to correspondence with the ACCC in which they had indicated a willingness to admit that Farm Pride was, or was likely to be, in competition with Days Eggs Pty Ltd in relation to the supply of eggs in South Australia, which they had contended was sufficient for proof of the Competition Condition.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "I consider that the ACCC submission should be upheld. The contention that the subject matter of SoC [13] was outside the knowledge of Farm Pride, IMS and Mr Ironside is simply implausible. None of these respondents adduced evidence at the costs hearing in support of this submission and it is belied by the evidence at the trial. Farm Pride is the third largest egg producer in Australia. It defies common sense to suppose that its directors and senior management know so little about the competition it faces in the markets in which it operates, and the egg industry generally, that it was unable readily to acknowledge the truth of the assertion made in SoC [13].",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "Mr Ironside has had an extensive involvement in the Australian egg industry, having been Chairman of the Board of Directors of AECL since its incorporation in 2002; having previously held roles in the Australian Egg Industry Association, the activities of which were taken over by AECL upon its incorporation; having been Vice-President of the Queensland Egg Farmers’ Association for about five years; having been Secretary of the North Queensland Poultry Farmers’ Association from about 1977 to 1990; having held the position of Financial Controller in the International Egg Commission from 2009 to date; and having been President of Egg Farmers Australia from 2010 to date. Again, it defies common sense to suppose that Mr Ironside was not able readily to recognise the truth of the ACCC assertion in SoC [13]. Given Mr Ironside’s background and experience, I am not willing to act on a bare submission from the Bar table that Mr Ironside did not have this knowledge. Further, I am satisfied that it is appropriate to attribute to IMS the knowledge of Mr Ironside.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "It is true, as the respondents submitted, that the identification of competition within a market can in some contexts be a matter of complexity. In some contexts and for some purposes, it can, however, be a matter which is quite straightforward and the subject of common knowledge. On my assessment, the content of SoC [13] falls clearly into the second of these categories.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "It was not reasonable for these respondents to put the ACCC to proof of the competition condition. Farm Pride and IMS did not have the benefit of the privilege against self-incrimination and, in any event, an unreasonable failure to admit facts is inconsistent with the overarching obligation imposed by ss 37M and 37N of the FCA Act. Those provisions apply as much in penalty proceedings as to other forms of litigation.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The circumstance that the markets in which participants in the egg industry are engaged are not confined by State or Territory boundaries is a matter of no consequence presently and did not bear upon the ability of the respondents to make the admission of SoC [13].",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "Finally, the ACC was entitled to regard the proposed admission that Farm Pride was, or was likely to be, in competition with Days Eggs Pty Ltd in relation to the supply of eggs in South Australia as being inadequate in the circumstances.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "It was common ground that, in the event that the Court considered that the ACCC should have its costs resulting from the denial of SoC [13], it should be reflected in a percentage reduction of the costs to be paid by the ACCC to these respondents. It was also common ground that the reduction should take account of the costs unnecessarily incurred by the ACCC as well as denying the respondents the costs they incurred in relation to the competition issue. I agree that that is sensible, as it will facilitate the taxation of the costs to be paid, should such a taxation become necessary.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "The ACCC proposed a reduction of 15%. The respondents submitted that the reduction should be no more than nominal and, in particular, no more than 5%.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "It is not possible for the Court to engage in any precision in assessing the appropriate reduction as it has been provided with only limited material for the purpose. Instead, the Court has to rely upon its own general experience of costs, have regard to the extent of the work carried out by the ACCC identified earlier as well as that likely to have been carried out by the respondents, and compare the likely costs incurred in connection with the Competition Condition with the costs likely to have been incurred by the respondents generally. These were the costs of a seven day trial, including the costs of substantial preparation on issues other than the Competition Condition. Account must also be made of the fact that the ACCC seeks that three respondents (effectively two because IMS and Mr Ironside had common representation) contribute to the one set of costs it incurred, so that there is the potential for it to be over compensated.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "Costs",
+     "Costs reduction because of a refusal to admit facts?"
+    ],
+    "text": "In those circumstances, the ACCC’s proposed reduction of 15% is excessive. I consider that justice will be done by an order that the ACCC pay 90% of the costs of Farm Pride, IMS and Mr Ironside on a party/party basis.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Two pairs of non-parties seek orders for costs in their favour against the ACCC in respect of the interlocutory applications which they filed on 23 and 27 October 2014 respectively. They are Philip Szepe and Kinross Farms Pty Ltd, and LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter. Both the non-parties and the ACCC agreed that the Court should deal with these applications on the papers and did not seek to make additional oral submissions.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "The circumstances in which these non-parties made interlocutory applications have been touched on already. In brief, they arose from the order of the Court on 18 September 2014 that the ACCC make discovery of the transcripts of the examinations which it had conducted pursuant to s 155 of the CC Act in respect of the alleged contravening conduct, as well as of the documents which had been produced to it under compulsion in the exercise of the same powers. The Court recognised at the time that the effect of compliance by the ACCC with that order could mean that confidential material of the non-parties may be disclosed to the respondents, some of whom were their competitors. Accordingly, the Court ordered that the ACCC notify each person who had been examined, or which had provided documents under compulsion pursuant to s 155, of their entitlement to apply for a variation or revocation of the orders in order to protect their confidentiality.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "As noted above, a number of non-parties made applications of this kind which were addressed at the interlocutory hearing on 29 October 2014. Some of the non-parties also made application at that time for orders that the ACCC, and/or the respondents, pay the costs which they had incurred in so doing. The Court reserved that question.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Kinross Farms Pty Ltd/Mr Szepe and LaTrobe Valley Farm Fresh Pty Ltd/Mr Powter now renew their respective applications. None of the other non-parties have done so. Kinross Farms/Mr Szepe and LaTrobe Valley Farm/Mr Powter submit that they were broadly successful in obtaining orders to protect their confidentiality, that their circumstances are analogous to those of a person against whom a non-party discovery order is made (r 20.25 of the FCR) or who produced documents in answer to a subpoena (r 24 of the FCR), that the ACCC, despite knowing that it would be discovering information which was by its very nature confidential, had not itself proposed at the time of the discovery order a confidentiality regime, thereby leaving them with no alternative but to apply to the Court, and that it would be unfair if “innocent” parties in their position had to bear the costs of acting to protect the confidentiality of their information in proceedings in which they had no interest.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "The power of the Court to order costs in favour of a non-party is well recognised: O’Keefe v Hayes Knight GTO Pty Ltd [2005] FCA 1559; Van Hemmen v State of Queensland [2007] FCA 1185. The authorities indicate, however, that generally the Court exercises caution before making an order of costs in favour of a non-party.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "A number of matters are pertinent to the exercise of the discretion sought by the non-parties. First, the ACCC had been entitled to exercise its powers pursuant to s 155 to compel persons to attend for examination and/or to produce documents as part of its investigation. Information in documentary form thereby came into the possession of the ACCC.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Secondly, the ACCC was compelled by order of the Court to make discovery of various categories of documents which included the non-parties’ confidential information. The ACCC drew to the Court’s attention that some of this information may be confidential and, accordingly, at the time of ordering discovery, the Court put in place a mechanism by which the non-parties could be heard with respect to their confidentiality. I do not consider that any criticism can be made of the ACCC in this respect and, to the extent that the submissions of the non-parties did so, it is rejected.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Thirdly, agreement on a regime to protect the non-parties’ confidentiality was not just a matter for the ACCC: each of the respondents was involved as well. It is evident that the ACCC took considerable steps with a view to promoting agreement by all parties on a confidentiality regime to protect the non-parties’ interests, but was not successful. Hence the matter had to be resolved at the directions hearing on 29 October 2014.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Fourthly, had the topic of confidentiality been addressed before the discovery order was made, it is likely that the non-parties would still have had to incur legal costs. In the events which happened, those costs are likely to have been much the same whether or not the attempts to secure agreement on a confidentiality regime had occurred before or after the filing of the interlocutory applications.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Fifthly, although there may be some similarities with the Court’s regime for non-party discovery and subpoenas, there are relevant and distinct differences. The procedure for non-party discovery is a means by which the Court will compel a non-party to produce documents for possible use in the litigation. A party seeking an order for non-party discovery is thereby seeking an exercise of discretion in its favour which will involve interference with the rights of the non-party. The Court usually takes the view that, in these circumstances, the applying party should pay the costs incurred by the non-party in complying with its order. The position with subpoenas is much the same. In contrast, in the present case, the ACCC was not seeking an exercise of discretion in its favour, but instead was complying with obligations imposed on it by Court order. Further, it was the non-parties themselves who were the moving parties in the Court.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "Lastly, I consider that account should be taken of the place of s 155 in the range of powers available to the ACCC. It can be taken to be an indication of the legislative policy that the ACCC may obtain information and documents by means other than those contemplated by the Court’s Rules. The Court should not readily impose impediments on the ACCC making use of the information and documents which it has obtained by lawful means.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "The application for costs by non-parties"
+    ],
+    "text": "It is understandable that the non-parties feel a sense of grievance arising from the circumstance that they have had to incur legal expenses in seeking to protect their confidentiality and in which they are “innocent” parties. However, I do not regard those matters as being so persuasive as to warrant an exercise of the discretion in their favour, in the light of the considerations to which I have referred above. The applications by the non-parties for costs are refused.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "Summary"
+    ],
+    "text": "For the reasons given above, I make the declaration concerning the conduct of Mr Lendich set out earlier in these reasons and order that he pay to the Commonwealth a pecuniary penalty of $120,000. In addition, I make the order with respect to training which Mr Lendich has agreed with the ACCC and direct that he pay the ACCC the sum of $10,000 on account of its costs.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "Summary"
+    ],
+    "text": "The ACCC is to pay 85% of the costs of the first and second respondents of and incidental to the proceedings, to be taxed if not agreed.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "Summary"
+    ],
+    "text": "The ACCC is to pay 90% of the costs of the third, fifth and sixth respondents of and incidental to the proceedings, to be taxed if not agreed.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "Summary"
+    ],
+    "text": "By consent of the ACCC, Farm Pride and Mr Lendich, the order in para 2 of the orders made on 18 September 2014 is varied so that it now provides:\nThe Third Respondent is to pay 50% of the Applicant’s costs of the Third and Fourth Respondent’s interlocutory application of 9 July 2014.",
+    "judge": "WHITE J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "Summary"
+    ],
+    "text": "The applications by the non-parties Philip Szepe, Kinross Farms Pty, LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter for the costs of and incidental to their respective interlocutory applications filed on 23 and 27 October 2014 are dismissed.",
+    "judge": "WHITE J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and seven (107) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice White.",
+ "associate": null,
+ "dated": "2016-04-29",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "SAD 121 of 2014\nRespondents\nFourth Respondent: | ZELKO LENDICH\nFifth Respondent: | IRONSIDE MANAGEMENT SERVICES PTY LTD\nSixth Respondent: | JEFFREY WILLIAM IRONSIDE"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 447\n\n## Cover sheet\n\n**File number:** SAD 121 of 2014\n\n**Judge:** WHITE J\n\n**Date of judgment:** 29 April 2016\n\n**Catchwords:** Competition – civil penalty proceeding – admitted contravention of the Competition and Consumer Act 2010 (Cth) – whether appropriate for court to act on admission – attempt to induce cartel conduct – agreed penalty  \nCOSTS – application for reduction of successful party’s costs due to late admission – exercise of discretion – relevant factors – whether late admission unreasonable – whether successful party which unreasonably raised issues may be deprived of costs  \nCOSTS – application for indemnity costs following Calderbank offer – exercise of discretion – relevant factors – special considerations for role of regulator – reasonable prospect of success\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) ss 44ZZRD, 44ZZRJ, 155  \nEvidence Act 1995 (Cth) s 191(2)  \nFederal Court of Australia Act 1976 (Cth) ss 37M, 37N, 43  \nFederal Court Rules 2011 (Cth) rr 20.25, 22.07, 24\n\n**Cases cited:** Alister v The Queen (1983) 154 CLR 404  \nAustralian Competition and Consumer Commission v Amcor Printing Papers Group Ltd [2000] FCA 163  \nAustralian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 69  \nAustralian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294  \nAustralian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860  \nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 794; (2007) 160 FCR 321  \nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844  \nAustralian Competition and Consumer Commission v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79  \nAustralian Securities Commission v Aust-Home Investments Ltd [1993] FCA 585; (1993) 44 FCR 194  \nBertie v Police (No 2) [2014] SASC 188  \nBHP Billiton Ltd v Parker [2012] SASCFC 73; (2012) 113 SASR 206  \nColgate-Palmolive Co v Cussons Pty Ltd (1993) 46 FCR 225  \nCommonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46  \nCummings v Lewis (1993) 41 FCR 559  \nCretazzo v Lombardi (1975) 13 SASR 4  \nDamberg v Damberg [2001] NSWCA 87; (2001) 52 NSWRL 492  \nDaniels Corporation International Pty Ltd v Australian Competition and Consumer Commission [2002] HCA 49; (2002) 213 CLR 543  \nDirector, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2015] FCAFC 59  \nFirebird Global Master Fund II Ltd v Republic of Nauru (No 2) [2015] HCA 53; (2015) 327 ALR 192  \nJames v Australia and New Zealand Banking Group Ltd (1986) 64 ALR 347  \nJ-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (Western Australian Branch) (No 2) (1992) 38 FCR 458  \nMeissner v The Queen [1995] HCA 41; (1995) 184 CLR 132  \nMinister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993  \nNW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission (1996) 71 FCR 285  \nO’Keefe v Hayes Knight GTO Pty Ltd [2005] FCA 1559  \nR v Mohan [1976] 1 QB 1  \nRe Elgindata Ltd (No 2) [1993] 1 All ER 232  \nRe: Wilcox; Ex parte Venture Industries Pty Ltd (No 2) [1996] FCA 1132; (1996) 72 FCR 151  \nRich v Australian Securities and Investments Commission [2004] HCA 42; (2004) 220 CLR 129  \nSPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356  \nThalari v The Queen [2009] NSWCCA 170; (2009) 75 NSWLR 307  \nTrade Practices Commission v Allied Mills Industries Pty Ltd (No 4) (1981) 37 ALR 256  \nTrade Practices Commission v George Weston Foods Ltd (No 2) (1980) 43 FLR 55  \nTrade Practices Commission v Mobil Oil Australia Ltd (1984) 3 FCR 168  \nTrade Practices Commission v Tubemakers of Australia (1983) 47 ALR 719  \nVan Hemmen v State of Queensland [2007] FCA 1185\n\n**Date of hearing:** 23 March 2016\n\n**Registry:** South Australia\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 107\n\n**Counsel for the Applicant:** Mr T Duggan SC with Ms G Walker\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for the First and Second Respondents:** The First and Second Respondents did not appear\n\n**Counsel for the Third Respondent:** Mr D Star\n\n**Solicitor for the Third Respondent:** B2B Lawyers\n\n**Counsel for the Fourth Respondent:** Ms R Orr QC\n\n**Solicitor for the Fourth Respondent:** Lander & Rogers Lawyers\n\n**Counsel for the Fifth and Sixth Respondents:** Mr L Merrick\n\n**Solicitor for the Fifth and Sixth Respondents:** Henry Davis York\n\n## Judgment\n\n### ORDERS\n\n|  | SAD 121 of 2014 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | AUSTRALIAN EGG CORPORATION LIMITED<br>First Respondent<br>JAMES DALE KELLAWAY<br>Second Respondent<br>FARM PRIDE FOODS LTD<br>Third Respondent (and others named in the Schedule) |\n\n| JUDGE: | WHITE J |\n|---|---|\n| DATE OF ORDER: | 29 APRIL 2016 |\n\n### THE COURT DECLARES THAT:\n\n1. Between 19 January and 8 February 2012, the Fourth Respondent, Zelko Lendich, attempted to encourage certain egg producers in Australia to enter into an arrangement or arrive at an understanding containing a provision to limit the production for supply and the supply of eggs in Australia when:\n\n(a) at the time of the attempted encouragement:\n\n(i) each of the egg producers was a corporation within the meaning of s 4 the Competition and Consumer Act 2010 (Cth) (the CC Act); and\n\n(ii) at least two of the egg producers were in competition with each other in relation to the production for supply and the supply of eggs; and\n\n(b) the arrangement or understanding, if entered into, would have had the purpose of directly or indirectly preventing, restricting or limiting the production for supply and the supply, or the likely production for supply and the likely supply, of eggs by any or all of the egg producers,\n\nand, by doing so, Zelko Lendich attempted to induce the egg producers to contravene s 44ZZRJ of the CC Act.\n\nTHE COURT ORDERS THAT:\n\n2. Zelko Lendich pay to the Commonwealth of Australia within 90 days of this order a pecuniary penalty in the sum of $120,000 in respect of the contravention of the CC Act the subject of the declaration herein.\n\n3. Zelko Lendich, at his own expense:\n\n(a) within 3 months of the date of this order, attend and undertake a training session on his responsibilities and obligations under ss 44ZZRJ, 44ZZRK and 76 of the CC Act;\n\n(b) ensure that the training referred to in para 3(a) is administered by a suitably qualified compliance professional or legal practitioner with expertise in competition law and/or the CC Act; and\n\n(c) provide to the Applicant a written statement or certificate from the person conducting the training referred to in para 3(a) within 14 days of completion of the training, verifying that such training has occurred.\n\n4. Within 90 days of the date of this order, Zelko Lendich pay the Applicant’s costs of and incidental to the proceedings in the agreed sum of $10,000.\n\n5. The Applicant pay 85% of the costs of the First and Second Respondents of and incidental to the proceedings, to be taxed if not agreed.\n\n6. The Applicant pay 90% of the costs of the Third, Fifth and Sixth Respondents of and incidental to the proceedings, to be taxed if not agreed.\n\n7. By consent of the Applicant, the Third Respondent, Farm Pride and Zelko Lendich, Order 2 made on 18 September 2014, is varied so that it now provides:\n\nThe Third Respondent is to pay 50% of the Applicant’s costs of the Third and Fourth Respondent’s interlocutory application of 9 May 2014.\n\n8. The applications by the non-parties Philip Szepe, Kinross Farms Pty Ltd, LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter for the costs of and incidental to their respective interlocutory applications filed on 23 and 27 October 2014 are dismissed.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### WHITE J:\n\n[1] The Australian Competition and Consumer Commission (the ACCC) alleged that the six respondents to this proceeding had attempted to induce the 19 egg producers present at a meeting on 8 February 2012 (the Summit) to make an arrangement, or to enter into an understanding, to limit the supply of eggs which would contravene s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) (the CC Act).\n\n[2] Shortly before the commencement of the trial of the liability issues, the fourth respondent, Mr Lendich, agreed with the ACCC that, in the period between 19 January and 8 February 2012, he had attempted to encourage egg producers to enter into an arrangement, or to arrive at an understanding, containing a provision with the purpose of preventing, restricting or limiting the production or supply of eggs. Mr Lendich also agreed that, at the time of his attempt, the egg producers were corporations and that two or more were in competition with each other in relation to the production and supply of eggs. The ACCC and Mr Lendich agreed on certain facts relating to the conduct, the orders to be made in respect of the conduct (including the penalty) and on submissions to be made jointly to the Court in support of the agreed orders.\n\n[3] I directed that the submissions of the ACCC and Mr Lendich be heard after the Court had delivered judgment on the ACCC claims concerning the remaining respondents. The trial against those respondents then proceeded.\n\n[4] In the judgment delivered on 10 February 2016, I found that the ACCC had not established its allegations against the remaining respondents: Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2016] FCA 69.\n\n[5] These reasons concern three remaining matters:\n\n(a) the ACCC claims against Mr Lendich;\n\n(b) the applications by the successful respondents for their costs of the proceedings and the claim of the ACCC that it should have its costs in respect of an element of its claim which it contends three respondents had, unreasonably, refused to admit until shortly before the trial;\n\n(c) the applications by certain non-parties for the costs which they incurred in applying for confidentiality orders in respect of information they had provided to the ACCC pursuant to s 155 of the CC Act and which was to be discovered by the ACCC in the proceedings.\n\n[6] These reasons are to be read in conjunction with the principal reasons and assume a knowledge by the reader of them. I will endeavour to avoid repetition.\n\n#### The claim against Mr Lendich\n\n[7] It is necessary to set out the course of events with respect to Mr Lendich’s agreed resolution of the claim against him because, despite joining in a submission that the Court should make the orders he had agreed with the ACCC, Mr Lendich submitted that the Court should not be satisfied that it was appropriate to make those orders. This was a curious submission and brought to mind the saying that those who sit straddling a fence usually find themselves in an uncomfortable position.\n\n[8] The joint submissions provided by the ACCC and Mr Lendich at the commencement of the trial attached minutes of the orders the parties proposed and a Statement of Agreed Facts and Admissions (SOAFA).\n\n[9] The ACCC and Mr Lendich submitted then that the Court should make a declaration and orders for the imposition of a pecuniary penalty as follows:\n\n> [1] Between 19 January and 8 February 2012, the fourth respondent (Zelko Lendich) attempted to encourage certain egg producers in Australia to enter into an arrangement or arrive at an understanding containing a provision to limit the production for supply and the supply of eggs in Australia in circumstances were:\n\n> (a) at the time of the attempted encouragement:\n\n> (i) each of the egg producers was a corporation within the meaning of s 4 the Competition and Consumer Act 2010 (Cth) (CCA);\n\n> (ii) at least two of the egg producers were in competition with each other in relation to the production for supply and the supply of eggs; and\n\n> (b) the provision of the arrangement or understanding, if entered into, would have the purpose of directly or indirectly preventing, restricting or limiting the production for supply and the supply, or the likely production for supply and the likely supply, of eggs by any or all of the egg producers,\n\n> and, by doing so, Zelko Lendich attempted to induce the egg producers to contravene s 44ZZRRJ of the CCA.\n\n> [2] Zelko Lendich pay to the Commonwealth of Australia a pecuniary penalty in the sum of $120,000 within 90 days of this order in respect of the contravention of the CCA declared by the Court in paragraph 1 above.\n\n[10] In addition, the ACCC and Mr Lendich submitted that the Court should make an order that Mr Lendich undertake, at his own expense, particular forms of training and that he make a contribution to the ACCC’s costs.\n\n[11] Following the delivery of the principal judgment, the ACCC and Mr Lendich filed on 26 February 2016 an amended joint submission. The amendments took account of the decision of the Full Court in Director, Fair Work Building Industry Inspectorate v Construction, Forestry, Mining and Energy Union [2015] FCAFC 59 and the decision of the High Court on appeal in Commonwealth of Australia v Director, Fair Work Building Industry Inspectorate [2015] HCA 46 (Commonwealth v DFWBII) concerning the ability of parties to civil penalty proceedings to agree upon, and make submissions concerning, the penalty to be imposed. There were no other material changes.\n\n[12] The amended submissions indicated that they were made in support of the proposed resolution of the claim against Mr Lendich and that the parties had agreed, for the purposes of s 191(2) of the Evidence Act 1995 (Cth), on the facts set out in the SOAFA at [3]-[42]. The SOAFA contained an express admission by Mr Lendich that he had made the attempt to induce a contravention of Pt IV of the CC Act alleged by the ACCC. In addition, the SOAFA contained numerous other acknowledgments by Mr Lendich of his conduct. The parties referred to the attempt admitted by Mr Lendich as a “contravention” and it is convenient to do likewise in these reasons.\n\n[13] Three days after the amended joint submissions were filed, Mr Lendich filed a document entitled “Supplementary Submission of the Fourth Respondent”. In this document, he submitted that the Court had to assess, in the light of the Court’s findings in the principal judgment and the facts agreed in the SOAFA, whether it was appropriate to accept his admissions and to make the proposed declarations. Mr Lendich referred the Court to the judgment of Gray J in ACCC v Leahy Petroleum Pty Ltd [2007] FCA 794; (2007) 160 FCR 321 at [49] and submitted that the Court should assess whether his admissions should be accepted, or whether there is “reason to doubt the correctness” of his admissions as to the legal consequences of the facts agreed in the SOAFA. The submission concluded with the following two paragraphs:\n\n> [8] If the Court is satisfied that the admission should be accepted and that Mr Lendich’s conduct did amount to a contravention of the Act, Mr Lendich submits that the Joint Submission should also be accepted, and the proposed declarations and penalties should be ordered.\n\n> [9] If, however, the Court is not satisfied that Mr Lendich’s conduct amounted to a contravention of the Act, the proposed relief should not be ordered.\n\n[14] The supplementary submission did not indicate on its face that Mr Lendich was seeking to resile from the joint submissions, from the agreement which he had reached with the ACCC, or from the facts which he had admitted. It seemed to be no more than a reminder that the Court must be satisfied that the facts he had admitted justified the proposed orders.\n\n[15] In the oral submissions 23 days later, Mr Lendich’s position shifted. He said that he was not seeking to resile from the facts he had agreed with the ACCC, but repeated that the Court was obliged to consider whether those facts warranted the declaration and other relief which he had agreed with the ACCC. In support of this submission, counsel referred to Leahy Petroleum at [43]-[50] (Gray J) and to Damberg v Damberg [2001] NSWCA 87; (2001) 52 NSWRL 492 at [148]-[160] (Heydon JA). In particular, counsel noted the observation of Heydon JA at [157] that “the court is not bound to act on admissions made by the parties or on [statements] of fact agreed between the parties”.\n\n[16] In Leahy Petroleum, Gray J said at [51]:\n\n> [A]n admission may amount to a concession as to a matter of law, or a conclusion on a matter of mixed fact and law. If law is complex, or there is difficulty in determining on which side of an indistinct line the particular facts fall, it is necessary to be wary of accepting an admission conflicting with conclusions drawn on the evidence, and with the benefit of full submissions as to the law.\n\n[17] Mr Lendich referred to the passages in the principal judgment in which the Court found that the ACCC had not proven that the other respondents had the requisite intention for an attempt to induce the alleged contravention of s 44ZZRJ. He submitted that the facts which he had agreed with the ACCC did not take proof of the ACCC case any further in his case, with the effect that, if the Court gave effect to his agreement with the ACCC in the way contemplated by the joint submissions, there would be inconsistent verdicts.\n\n[18] Thus, by the conclusion of his oral submissions, Mr Lendich’s position was that, despite the joint submissions and the SOAFA filed on 26 February 2016, the Court should not make the declaration and other orders which he had joined with the ACCC in presenting to the Court.\n\n##### Acting on the admissions by Mr Lendich\n\n[19] I accept that in this case, as with all cases of agreed facts and submissions, the Court must consider whether it is appropriate to act on them. So also when the Court is asked to enter judgment on the basis of admissions.\n\n[20] However, the remaining aspects of Mr Lendich’s submissions cannot be upheld. They either overlook, or do not give proper effect to, the admission by Mr Lendich of his intention which is implicit in the express admissions contained in the SOAFA.\n\n[21] Paragraphs [1]-[40] of the SOAFA contained admissions of numerous matters which, with one or two exceptions, were also the matters on which the Court made findings in the principal judgment. Paragraph [41] then contained the following agreement:\n\n> 41. By reason of the foregoing, and for the purpose of these proceedings only, the ACCC and Mr Lendich agree that that, by:\n\n> (a) attending the AECL Board meeting referred to in paragraph 26 above;\n\n> (b) knowing that the AECL Publications were being received by some of the Specified Members and contained information concerning egg supply and inventory levels;\n\n> (c) receiving and reading the emails from Mr Kellaway referred to in paragraphs 29 and 31 above;\n\n> (d) joining the resolution at the meeting of the AECL Board on 19 January 2012 to invite the top 25 Australian egg producers to the urgent meeting to encourage destocking and egg disposal;\n\n> (e) knowing that Mr Quirke and Mr Kellaway would give presentations at the urgent meeting concerning their views on the perceived oversupply of eggs in the Australian egg industry to encourage destocking and egg disposal;\n\n> (f) attending the urgent meeting and observing the presentations given by Mr Quirke and Mr Kellaway at the urgent meeting;\n\n> (g) not dissociating himself from, or otherwise disavowing any of the information or views expressed in the presentations given by Mr Quirke and Mr Kellaway at the urgent meeting and any of the material contained in the AECL documents specified in this Statement;\n\n> (h) speaking at the urgent meeting about the desirability of egg producers lowering stock densities in cages in conformity with the expectations of industry and Government to improve bird welfare;\n\n> (i) knowing that it was likely that two or more of the egg producers represented at the urgent meeting were in competition with each other in relation to the production for supply and the supply of eggs to wholesale or retail businesses in Australia; and\n\n> (j) being in attendance at the urgent meeting knowing that many of the representatives of egg producers in attendance knew him to be a director of both AECL and Farm Pride Foods,\n\n> Mr Lendich attempted to encourage the egg producers attending the urgent meeting who were likely to be in competition with each other to enter into an arrangement or arrive at an understanding containing a provision with the purpose of preventing, restricting or limiting:\n\n> (i) the production, or likely production, of eggs by egg producers; or\n\n> (ii) the supply, or likely supply, of eggs by egg producers\n\n> by any or all of the parties to the arrangement or understanding.\n\n> (Emphasis added)\n\n[22] Paragraph [43] of the SOAFA contained the following admission by Mr Lendich:\n\n> [43] By engaging in the conduct referred to in paragraph 41 above, in the context of all other matters and circumstances set out in this Statement as agreed facts, Mr Lendich admits that he has attempted to induce one or more of the Specified Members to contravene a provision of Pt IV of the CCA (other than ss 44ZZRF or 44ZZRG) within the meaning of s 76(1)(d) of the CCA.\n\n[23] As can be seen, in [41] and [43] of the SOAFA, Mr Lendich admitted that he had “attempted” to induce the attendees at the Summit to enter into an agreement, or to arrive at an understanding, of a proscribed kind.\n\n[24] The ACCC and Mr Lendich agreed expressly that the Court could rely on these admissions to pronounce judgment and to make the agreed orders. They referred to r 22.07 of the Federal Court Rules 2011 (Cth), which provides:\n\n> If a party makes an admission, another party may apply to the Court for any judgment or order to which the party is entitled on the admission.\n\n[25] It is implicit in the notion of attempt that the person intended to do the matter attempted. One cannot have an attempt without such an intention: R v Mohan [1976] 1 QB 1 at 6-8; Alister v The Queen (1983) 154 CLR 404 at 422-3; Trade Practices Commission v Tubemakers of Australia (1983) 47 ALR 719 at 737. It is for this reason that Toohey J held in Trade Practices Commission v Mobil Oil Australia Ltd (1984) 3 FCR 168 at 183 that, “in the case of attempt, there must be an intention to bring about the prohibited result”.\n\n[26] In the criminal law, a plea of guilty constitutes an admission of all the essential elements of the offence charged: Meissner v The Queen [1995] HCA 41; (1995) 184 CLR 132 at 157. For this reason, courts set aside convictions entered following a plea of guilty only when satisfied that a miscarriage of justice has occurred, as, for example, when defendants did not understand the nature of the charge, or did not intend to admit guilt, or when, upon the facts admitted by the plea, they cannot in law have been guilty of the offence: Bertie v Police (No 2) [2014] SASC 188 at [21]; Thalari v The Queen [2009] NSWCCA 170, (2009) 75 NSWLR 307 at [35].\n\n[27] I consider that the same principle should be applied by analogy in this case, with the effect that Mr Lendich’s admission of the attempt alleged by the ACCC involved implicitly an acknowledgement by him that he had had the requisite intention for the attempt. Mr Lendich could make that admission because he knew what his state of mind was at relevant times. In fact, his admission of his intention is the best form of evidence because it was not possible for the ACCC or this Court to see into his mind. Absent his admission, the ACCC had to rely on the inferences which could be drawn from Mr Lendich’s proven conduct.\n\n[28] Mr Lendich did not point to any circumstance suggesting that his admission of his intention was unreliable or suspect. He was legally represented and the Court may infer that he had proper advice before making the admission. There was no suggestion that he had not. It is pertinent that Mr Lendich continues to be represented by the same solicitors and counsel who represented him when the admission was made, a circumstance which is unlikely if any issue has arisen concerning the appropriateness of the advice he received before making the admission.\n\n[29] The circumstances of the present case are different from those considered by Gray J in ACCC v Leahy. In that case, the ACCC did not allege an attempt but a completed agreement. Some respondents admitted that such an agreement had been made. Following the trial against the remaining respondents, Gray J found that no agreement of the kind alleged had been made and, accordingly, that it was inappropriate to act on the admissions. In contrast the ACCC claims in the present case failed because it did not establish, on the evidence presented at trial, that any of the remaining respondents had the requisite intention. In its case against Mr Lendich, however, the ACCC has additional evidence on this topic in the form of his own admission as to his intention.\n\n[30] There is no inconsistency of verdicts. Mr Lendich’s admission of his intention fills the gap which existed in the ACCC case against the other respondents. There is no basis upon which the Court should conclude that it is inappropriate to act on that admission.\n\n[31] I am satisfied, in the light of the matters contained in the joint submissions, the SOAFA and the evidence at trial, that the declaration agreed between the ACCC and Mr Lendich is appropriate and should be made.\n\n##### The agreed penalty\n\n[32] Separate consideration needs to be given to the agreed penalty. The decision of the High Court in Commonwealth v DFWBII indicates that it is appropriate for a regulator such as the ACCC to agree a penalty with a contravenor and for the parties to submit that the Court should impose that penalty.\n\n[33] One of the matters bearing on the appropriateness of the agreed penalty in the present case is the credit to be granted to Mr Lendich for his admission before trial of his culpability, his agreement with the ACCC and his willingness to facilitate the course of justice. Considered by themselves, these were significant matters as they involved a display of honesty and, given the attitude of his fellow respondents, some courage. They are matters which would warrant a marked reduction in the penalty which would otherwise be appropriate.\n\n[34] However, this is where the discomfort resulting from Mr Lendich’s attempt to sit on both sides of the fence becomes apparent. By his submissions at the penalty hearing, Mr Lendich sought to avoid the consequences of his admissions even though he knew that he had had the proscribed intention and had formally admitted it. To my mind, that detracts from the sincerity which the Court would otherwise have accepted was indicated by his admission and cooperation with the ACCC and, in turn, requires the Court to consider closely whether the agreed penalty of $120,000 may be inadequate.\n\n[35] Although my mind has wavered about this, I have concluded ultimately that the amount agreed by the parties for the penalty is appropriate, and within the permissible range. In reaching this conclusion, I have had regard to the principles discussed in the authorities to which the joint submission referred, namely, Trade Practices Commission v Allied Mills Industries Pty Ltd (No 4) (1981) 37 ALR 256 at 259; NW Frozen Foods Pty Ltd v ACCC (1996) 71 FCR 285 at 290-1, 298-9; ACCC v Real Estate Institute of Western Australia Inc (1999) 161 ALR 79 at [18]; Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd [2004] ATPR 41-993 at 48,626.\n\n##### Mr Lendich’s liability for costs\n\n[36] The ACCC and Mr Lendich proposed initially an order having the effect that Mr Lendich pay “a contribution” to the costs of the ACCC to be agreed or taxed. Such an order would be inappropriate because the parties cannot be compelled to reach agreement and the function of a Registrar on a taxation is to quantify a liability of costs previously imposed, and not to determine what the liability should be. The parties then proposed an order which was capable of affecting the rights of the third respondent, Farm Pride. Subsequently, Farm Pride indicated its consent to the making of the order. I am satisfied that the costs orders are appropriate.\n\n[37] Orders will be made in terms of the minutes agreed between the ACCC and Mr Lendich.\n\n#### Costs\n\n[38] There are two principal issues concerning the costs of the other respondents. The first is whether Farm Pride should have some of its costs on an indemnity basis, having regard to the terms of a so-called Calderbank offer. The second is whether there should be some reduction of the costs to be paid by the ACCC to Farm Pride, IMS (the fifth respondent) and Mr Ironside (the sixth respondent) having regard to their belated admission of a matter which caused the ACCC to incur additional costs.\n\n##### The costs of AECL and Mr Kellaway\n\n[39] The ACCC, AECL and Mr Kellaway are agreed that the Court should order the ACCC to pay 85% of the costs of AECL and Mr Kellaway. The parties’ agreement did not indicate the basis for this apportionment but I infer that it takes account of the ACCC’s success on the Crown immunity issue raised by AECL and Mr Kellaway. I will make the agreed order.\n\n##### Farm Pride’s claim for indemnity costs\n\n[40] Farm Pride submitted that the ACCC should pay its costs on a party/party basis up to and including 2 April 2015 and thereafter on an indemnity basis.\n\n[41] In the ordinary case, the Court will exercise the discretion under s 43 of the Federal Court of Australia Act 1976 (Cth) (the FCA Act) to order that costs following the event be paid on a party/party basis. The Court may, however, depart from that basis if there is “some special or unusual feature in the case” justifying that course: Re: Wilcox; Ex parte Venture Industries Pty Ltd (No 2) [1996] FCA 1132; (1996) 72 FCR 151 at 152-3.\n\n[42] Farm Pride submitted that such a feature exists presently because of a so-called Calderbank offer it had made to the ACCC on 30 March 2015. Before that date, Farm Pride had made without prejudice offers of settlement to the ACCC which it relied upon as part of the background to its offer. By the letter of 30 March, Farm Pride offered to consent to orders having the following effect:\n\n> (i) A declaration in the terms sought by the ACCC with respect to Farm Pride in its originating application;\n\n> (ii) An injunction with a term of five years in the terms sought by the ACCC with respect of Farm Pride in the originating application;\n\n> (iii) Payment by Farm Pride of a pecuniary penalty of $400,000;\n\n> (iv) The establishment by Farm Pride of a compliance program in the terms sought by the ACCC in its originating application;\n\n> (v) Payment by Farm Pride to the ACCC of the sum of $100,000 on account of its costs.\n\n[43] The 30 March letter concluded with following:\n\n> This offer is made in accordance with the principles applied in Calderbank v Calderbank [1975] 3 All ER 333 and Cutts v Head [1984] Ch 290 and as developed in subsequent case law. In the event that the offer is not accepted, Farm Pride will rely on this letter in support of an application for its costs on an indemnity basis.\n\n> This offer will remain open for acceptance for 14 days from the date of this letter.\n\n[44] The ACCC responded to the offer by an email of 2 April 2015 which was marked “Without Prejudice Save as to Costs”. The substance of the ACCC response was as follows:\n\n> The ACCC has considered your client’s offer but is not prepared to accept it.\n\n> In our discussion on 24 February 2015, we conveyed the ACCC’s without prejudice offer of $1.25m, with an upfront payment, and a willingness to consider a payment plan if that would assist your client in making the payment. Your client’s current offer with respect to penalty and costs has not substantially changed from that indicated in a supplementary submission dated 17 February 2015, notwithstanding the indication of the ACCC’s position that was conveyed on 24 February 2015.\n\n> While it is apparent that the parties’ respective positions on this issue remain far apart, the ACCC is willing to continue settlement discussions if there is a genuine prospect for negotiation to occur. Are you able to advise whether your client’s offer of 30 March 2015 represents its final position in relation to penalty and costs?\n\n[45] It seems that there were no further discussions with respect to resolution of the claim against Farm Pride and the trial of the action commenced on 20 April 2015.\n\n[46] Farm Pride submits that its 30 March 2015 offer was reasonable; that it has obtained an outcome which bettered that offer; and that the ACCC rejection of the offer was imprudent or unreasonable, such as to make it appropriate for it to have costs on an indemnity basis after the date of the rejection.\n\n[47] The question for the Court’s determination is whether the particular facts and circumstances relating to the ACCC allegations involving Farm Pride and its rejection of the 30 March 2015 offer warrant the making of an order for payment of costs other than on a party/party basis: Colgate-Palmolive Co v Cussons Pty Ltd (1993) 46 FCR 225 at 234; ACCC v Australian Safeway Stores Pty Ltd (No 3) [2002] FCA 1294 at [22].\n\n[48] Although an unreasonable or imprudent rejection of an informal offer of settlement made by letter will often warrant a court departing from the usual order that costs be paid on a party/party basis, this is not the single criterion on which the exercise of the Court’s discretion turns. Farm Pride referred in this respect to the observation of Doyle CJ and White J in BHP Billiton Ltd v Parker [2012] SASCFC 73; (2012) 113 SASR 206 at [263]:\n\n> It is also important to bear in mind that the question is not simply whether, having regard to a Calderbank letter, a court should order the defendant to pay costs on a basis other than as between party and party. The court will be exercising a broad discretion, and the making of an informal offer of settlement is merely one of a number of matters relevant to the exercise of that discretion … And a Calderbank letter is but one instance of how a party might make an offer which has been “imprudently refused” … Imprudent refusal of an offer of settlement is often raised as the basis for an application for an order for costs on a basis other than as between party and party, but once again it has to be borne in mind that while “imprudent refusal” conveniently encapsulates an approach to the exercise of the discretion, in the end the issue is whether the discretion should be exercised to depart from the usual basis of an order for costs.\n\n> (Citations omitted)\n\n[49] Sackville J referred to similar considerations in ACCC v Amcor Printing Papers Group Ltd [2000] FCA 163 at [9]:\n\n> The authorities in this Court have accepted that the rejection of a Calderbank offer (in the sense of an offer to settle specifically made with a view to being used, if not accepted, in relation to a costs application) does not of itself justify an order for costs on an indemnity basis if the offeree fails to secure a more favourable outcome in the proceeding … The significance to be attached to a Calderbank offer depends on its terms and the circumstances of the litigation, including the time at which the offer is made and the understanding of the parties as to the strengths and weaknesses of their respective cases …\n\n> (Citation omitted)\n\n[50] The authorities indicate that the matters bearing upon whether the rejection of an informal offer of settlement may warrant a later order of indemnity costs include:\n\n(i) the stage the proceedings had reached when the offer was made;\n\n(ii) the time allowed to the offeree to consider the offer;\n\n(iii) the extent of the compromise offered;\n\n(iv) the offeree’s prospects of success, assessed as at the date of the offer;\n\n(v) whether the offeree should have appreciated that its claim would fail;\n\n(vi) whether the offeror explained why it considered the offeree will fail or, at least, not better the offer;\n\n(vii) the clarity with which the terms of the offer are expressed; and\n\n(viii) whether the offeror foreshadowed an application for indemnity costs in the event of the rejection of its offer.\n\n[51] I respectfully agree with the observation of Pagone J in SPI PowerNet Pty Ltd v Commissioner of Taxation (No 2) [2014] FCA 356 at [3] concerning factors of this kind:\n\n> Those factors are not to be applied slavishly but provide indicators to determine whether an offer had been rejected unreasonably. One may add to those factors such matters as may now relevantly arise by virtue of ss 37M and 37N of the Federal Court of Australia Act 1976 (Cth) which imposes overarching obligations on parties and their lawyers to conduct and dispose of proceedings efficiently.\n\n[52] The ACCC acknowledged that the only material difference between the parties concerning Farm Pride’s informal offer had been the amount of the proposed penalty.\n\n[53] In resisting Farm Pride’s application for indemnity costs, the ACCC relied on the following:\n\n(a) the civil penalty nature of the proceedings and its position as the regulator responsible for enforcement of the CC Act. Amongst other things, this meant that it did not have the freedom to agree upon an appropriate penalty in the same way as does a private litigant in civil litigation. It can agree a penalty, but it is for the Court to determine its appropriateness. Its role in making submissions to the Court in support of the appropriateness of a proposed penalty requires it to be satisfied that the penalty in a proposed resolution is within an appropriate range of penalties for a contravention of the kind in question;\n\n(b) its commencement and pursuit of the case against Farm Pride had been reasonable;\n\n(c) its rejection of the 30 March 2015 offer had not been peremptory;\n\n(d) its rejection of the offer had not been unreasonable as a penalty of $400,000 would have been insufficient had it made out its case;\n\n(e) it had been open to Farm Pride upon the rejection of its offer to come to the Court, admit its contravention with a statement of the basis for that admission and then to have submitted that a penalty of $400,000 was appropriate, and Farm Pride had not done so.\n\n[54] In my opinion, some of these matters are of no significance. The circumstance mentioned in (e) that Farm Pride could have chosen, after 3 April 2015, to admit a contravention and make submissions in support of a proposed penalty of $400,000 is, to my mind, immaterial. In the first place, that circumstance does not bear upon the reasonableness, or otherwise, of the ACCC rejection of the offer which Farm Pride did in fact make. Secondly, the submission overlooks that what Farm Pride was proposing was an agreed resolution of the proceedings pursuant to which submissions would be made to the Court by both the ACCC and it in support of the agreed position. It was seeking to avoid a circumstance in which its fate would be at large.\n\n[55] Similarly, I do not regard the issue mentioned in (b) as being pertinent. The question is not whether it was appropriate for the ACCC to commence and pursue the allegations, but whether, having done so, it was unreasonable for the ACCC not to have accepted Farm Pride’s proposed resolution of the claims against it.\n\n[56] Farm Pride submitted that the circumstance that its offer had been rejected “in a mere three days” suggested “a peremptory rejection by a closed mind”. This was a submission that the ACCC had not given proper consideration to its offer. I do not regard the time at which the ACCC rejected the Farm Pride offer to be significant for present purposes. The ACCC had been in discussions with Farm Pride about a possible resolution for some time before 31 March 2015 and had had ample opportunity to consider the issues concerning a resolution of its claims against Mr Lendich. The Farm Pride offer did not come out of the blue. There is no reason to suppose that, in the context of the negotiations which had preceded the Lendich offer, a period of three days was inadequate for proper consideration by the ACCC of the offer. The circumstance that the ACCC rejected the offer within three days is just as consistent with it considering the offer and its implications in an efficient way and making a decision expeditiously.\n\n[57] This means, to my mind, that the principal matters bearing upon the Farm Pride application for indemnity costs are the ACCC’s position as regulator, the civil penalty nature of the proceedings, and the reasonableness or otherwise, of the ACCC’s rejection of the offer.\n\n[58] The first two matters are important considerations. Allsop J in ACCC v Baxter Healthcare Pty Ltd [2005] FCA 860 at [12] said:\n\n> A rejection of an offer in a penalty case such as this brings with it considerations of public responsibility for the administration of an important piece of Commonwealth legislation that do not attend an offer in a civil suit.\n\n[59] In his costs decision in ACCC v Leahy Petroleum Pty Ltd [2007] FCA 1844, Gray J also referred to particular considerations bearing upon the determination of applications for costs orders against the ACCC:\n\n> [24] The ACCC is a statutory body, established by s 6A of the Trade Practices Act. … [T]he ACCC has cast upon it significant responsibilities on behalf of the public, to ensure as far as practicable that there is compliance with the provisions of the Trade Practices Act. When the ACCC has commenced and pursued a proceeding in respect of alleged contraventions of a provision of the Trade Practices Act, and there is no suggestion that it has acted with any ulterior motive, the Court should not be quick to award costs against it on anything other than the usual party-party basis when the ACCC has suffered a loss in the proceeding. Excessive readiness to force the ACCC to compensate the winning party to a greater extent than the normal party-party costs incurred might operate as a deterrent to the ACCC against bringing proceedings in the exercise of its public functions.\n\n[60] Those observations are, in my view, as pertinent now as they were when made in 2007.\n\n[61] Several of Farm Pride’s submissions went to the appropriateness of its proposed penalty of $400,000. It emphasised that the allegation made against it was of an attempt only, and not of a completed contravention of s 44ZZRJ; that the proposed penalty of $400,000 was a substantial sum and more than three times the penalty which the ACCC later agreed with Mr Lendich; that the ACCC had the “comfort” of knowing that, if the Court considered that a penalty of $400,000 was inappropriate, it had the ability to impose an increased penalty; and that it had, in its earlier correspondence, set out in some detail matters bearing upon the reasonableness of its proposed penalty.\n\n[62] The Court should be wary about determining the likely ultimate outcome of proceedings for the sole purpose of determining questions of costs in relation to those proceedings: Australian Securities Commission v Aust-Home Investments Ltd [1993] FCA 585; (1993) 44 FCR 194 at 201. This counts against the Court considering in any detailed way now the adequacy of Farm Pride’s proposed penalty. It is sufficient to say that, in the circumstances as known to the Court presently, and on that basis only, the proposed penalty does not appear to be plainly unreasonable, especially taking into account the reduction in penalty to which Farm Pride may have been entitled for its acknowledgement of its contravention.\n\n[63] Although with some hesitation, I have concluded that it is inappropriate to order the ACCC to pay costs to Farm Pride on other than a party/party basis. I have reached that conclusion having regard to the following matters. First, the special position of the ACCC as a public regulator. Secondly, although it seems that the ACCC did not have any regard to “litigation risk”, there is an absence of any indication that it acted in a highhanded manner or had sought to take advantage of its position as a publicly funded body in litigation with private entities and individuals.\n\n[64] Thirdly, the issue upon which the ACCC failed at trial was proof that Farm Pride had the requisite intention. Two considerations suggest that it was not unreasonable for the ACCC, as at 3 April 2015, to think that it had reasonable prospects of establishing that issue. First, there is the admission by Farm Pride’s Managing Director, Mr Lendich, only two weeks later that he did have the intention alleged by the ACCC. The second is that the ACCC allegations were made against several respondents. Although the individual respondents had each invoked the privilege against self-incrimination, there was, at 3 April 2015, the prospect that each would give evidence in the trial with the consequence that the ACCC would be able to adduce additional evidence from them, including evidence as to their respective intentions. The rationale for the Court’s caution in upholding an application for summary judgment by one of several defendants discussed in authorities such as Trade Practices Commission v George Weston Foods Ltd (No 2) (1980) 43 FLR 55 at 62 (Davies J); James v Australia and New Zealand Banking Group Ltd (1986) 64 ALR 347 at 401 (Toohey J); and J-Corp Pty Ltd v Australian Builders Labourers Federated Union of Workers (Western Australian Branch) (No 2) (1992) 38 FCR 458 at 465 (French J) is pertinent in the present context, namely, that account should be taken in proceedings in which there are multiple respondents of the possibility that evidence adduced by one or more respondents may implicate others.\n\n[65] Finally, I note that in Commonwealth v DFWBII at [109], Keane J suggested that it may be appropriate for a public regulator to take account of litigation risk in the settlement of litigation brought by that regulator. The parties in the present case did not address submissions to this question but, in any event, because the judgment in Commonwealth v DFWBII was delivered on 9 December 2015, the ACCC did not as at 3 April 2015 have the benefit of the reasons of the High Court on this point.\n\n[66] For these reasons I consider that the ACCC should pay Farm Pride’s costs on a party/party basis.\n\n##### Costs reduction because of a refusal to admit facts?\n\n[67] The ACCC seeks a reduction of the costs it must pay to Farm Pride, IMS and Mr Ironside on account of their refusal, until just before trial, to admit a matter. It submitted that the refusal had been unreasonable and had caused it to incur significant unnecessary expense.\n\n[68] In order for the ACCC to make out the attempt it alleged, it had to establish that at least two of the attendees at the Summit were, or were likely to be, in competition with one another in relation to the production for supply and the supply of eggs: s 44ZZRD(4) (the Competition Condition).\n\n[69] The ACCC Statement of Claim (SoC) pleaded the following in relation to this element:\n\n> [13] At all material times, and in particular between 26 November 2010 and 9 February 2012, at least two of the Specified Members were, or were likely to be, in competition with each other in relation to the production for supply and the supply of eggs to wholesale or retail businesses in the regions of South Australia (SA), Western Australia (WA), the Northern Territory (NT), Queensland (QLD), New South Wales (NSW), Victoria (VIC) and Tasmania (TAS) as denoted in Schedule A.\n\n[70] Schedule A was in the form of a table listing each Specified Member, the name of the person representing the Specified Member who attended the Summit, and the State(s) or Territory in which the Specified Member was in competition with other Specified Members.\n\n[71] The AECL and Mr Kellaway admitted the allegation in [13] of SoC. However, each of the defences of Farm Pride (15 August 2014), IMS (18 August 2014) and Mr Ironside (18 August 2014) denied the allegation in SoC [13], while adding pleas as to the activities of Farm Pride and IMS respectively. Farm Pride’s defence to SoC [13] was as follows:\n\n> [13] In answer to paragraph 13, the Third Respondent says as follows:\n\n> [13.1] The Third Respondent refers to and repeats paragraph 5.2 above.\n\n> [13.2] At all material times the Third Respondent:\n\n> [13.2.1] produced eggs for supply only in Victoria and New South Wales;\n\n> [13.2.2] supplied eggs to wholesale or retail businesses throughout Australia, but predominately in New South Wales, Victoria and Queensland; and\n\n> [13.2.3] engaged in other commercial activities in relation to value-added egg products throughout Australia.\n\n> [13.3] The Third Respondent does not admit the allegations in paragraph 13 insofar as it relates to the conduct of the other respondents.\n\n> [13.4] The Third Respondent otherwise denies the allegations in paragraph 13.\n\n[72] The pleas of IMS and Mr Ironside to SoC [13] were (relevantly) identical:\n\n> [13] In response to paragraph 13, it/he:\n\n> (a) admits that at all material times it/Twelve Oaks Poultry carried on business as an egg producer based in Queensland; and\n\n> (b) otherwise denies the allegation in paragraph 13.\n\n[73] None of these defences admitted the central allegation made by the ACCC in SoC [13].\n\n[74] The ACCC contends that, on any reasonable view, the question of whether at least two or more of the attendees were in respect of the identified States and Territories in competition with one another should not have been an issue. The denials of Farm Pride, IMS and Mr Ironside had the consequence that it had had to undertake extensive work involving significant expense, to prove the Competition Condition before, by amended defences filed 12 days before the commencement of the trial, each of Farm Pride, IMS and Mr Ironside admitted that the Condition was satisfied.\n\n[75] Upon this basis, the ACCC submits that it should not have to pay the costs incurred by Farm Pride, IMS and Mr Ironside concerning the Competition Condition and that each should pay the costs which it incurred in obtaining the evidence to prove that element of its claim.\n\n[76] The work of the ACCC directed to this issue included the following:\n\n(a) discovering to the respondents the transcripts of examinations of various egg producers conducted pursuant to s 155 of the CC Act;\n\n(b) by correspondence dated 3 October 2014, informing the 74 individuals and companies who had been examined pursuant to s 155 or which had produced documents to it pursuant to s 155, as the case may be, of the discovery orders made by the Court on 18 September 2014 which gave them an opportunity to apply for orders to protect the confidentiality of the information they had provided to the ACCC and which it would be disclosing to the respondents;\n\n(c) dealing with telephone calls and correspondence from the egg producers referred to in (b) who raised concerns about the disclosure of their confidential information;\n\n(d) engaging in extensive correspondence with the respondents between 10 October 2014 and 27 October 2014 concerning possible agreement as to means of addressing the concerns of the egg producers;\n\n(e) considering and addressing interlocutory applications by seven non-party egg producers seeking orders for the protection of their confidential information which it was otherwise obliged by the Court’s orders to disclose to the respondents;\n\n(f) attending at a substantial directions hearing on 29 October 2014 at which the applications of the seven egg producers and some of the respondents for orders protecting the confidentiality of their information were addressed;\n\n(g) preparing, filing and serving on 6 November 2014 a substantial notice to admit facts directed to the competition issue;\n\n(h) considering the notices of dispute filed by the respondents in response to the notice to admit facts;\n\n(i) filing, on 17 November 2014, an interlocutory application and supporting affidavit seeking leave to rely at trial on affidavits filed by a number of the non-parties in October 2014;\n\n(j) addressing the means by which the evidence from the egg producers on the competition issues was to be adduced at trial, including addressing this as a significant topic at the directions hearing on 3 February 2015;\n\n(k) obtaining leave to issue, and subsequently issuing, subpoenas to seven egg producers requiring them to produce documents relating to the Competition Condition;\n\n(l) issuing subpoenas to individual egg producers requiring them to attend at trial to give oral evidence;\n\n(m) addressing until April 2015, and at the pre-trial directions hearing on 8 April 2015, issues relating to the evidence to be given by the proposed egg producer witnesses, including identifying the portions of affidavits from six egg producers to be relied upon at trial, preparing outlines of the evidence to be adduced from the egg producer witnesses generally, and obtaining leave to inspect, and inspecting, documents produced on subpoena;\n\n(n) considering between 12 November 2014 and April 2015, various aspects of the evidence to be presented in support of its proof of the Competition Condition.\n\n[77] The evidence did not disclose the work of the respondents in relation to the Competition Condition. It is unlikely to have been as extensive as that of the ACCC but, nevertheless, is likely to have been significant.\n\n[78] The discretion with respect to costs granted by s 43 of the FCA Act may be exercised so as to deprive a successful party of some of its costs and, further, to require that party to pay some of the costs of the unsuccessful party: Cretazzo v Lombardi (1975) 13 SASR 4 at 11-12. In particular, a successful party which has unreasonably or improperly raised issues on which it has failed may be ordered to pay the costs of the other on those issues and may be deprived of part of its own costs: Re Elgindata Ltd (No 2) [1993] 1 All ER 232; Cummings v Lewis (1993) 41 FCR 559 at 603.\n\n[79] In Firebird Global Master Fund II Ltd v Republic of Nauru (No 2) [2015] HCA 53; (2015) 327 ALR 192 at [6], the High Court deprecated applications for an apportionment of costs on an issue-by-issue basis requiring the exercise of the costs discretion to take into account the issues upon which the successful party has succeeded, and not succeeded. Nevertheless, there are cases in which such an apportionment is appropriate. Allsop J referred to one such circumstance in Baxter Healthcare at [10] when he said that “unnecessary stubbornness, unreasonable taking of points and a refusal to co-operate in the efficient running of litigation (including penalty litigation) should be able to be dealt with in a flexible way by orders for costs”.\n\n[80] Farm Pride, IMS and Mr Ironside raised a number of matters in resisting the ACCC contention. These were to the effect that, at the time they filed their respective defences, they had insufficient knowledge to be able to make an admission of SoC [13]; that the identification of competition in a market involves complex questions; that it had been inappropriate for the ACCC to assume that the markets in which egg producers were in competition were defined by State or Territory boundaries; that it had been inappropriate for the ACCC to seek admissions of facts in the liability trial which were more pertinent to issues of penalty in the event that the contraventions were established; and that having regard to the fact that these were penalty proceedings, it had been open to them to require the ACCC to prove its case (citing Daniels Corporation International Pty Ltd v ACCC [2002] HCA 49, (2002) 213 CLR 543 at [31] and Rich v ASIC [2004] HCA 42, (2004) 220 CLR 129 at [24]). In addition, the respondents referred to correspondence with the ACCC in which they had indicated a willingness to admit that Farm Pride was, or was likely to be, in competition with Days Eggs Pty Ltd in relation to the supply of eggs in South Australia, which they had contended was sufficient for proof of the Competition Condition.\n\n[81] I consider that the ACCC submission should be upheld. The contention that the subject matter of SoC [13] was outside the knowledge of Farm Pride, IMS and Mr Ironside is simply implausible. None of these respondents adduced evidence at the costs hearing in support of this submission and it is belied by the evidence at the trial. Farm Pride is the third largest egg producer in Australia. It defies common sense to suppose that its directors and senior management know so little about the competition it faces in the markets in which it operates, and the egg industry generally, that it was unable readily to acknowledge the truth of the assertion made in SoC [13].\n\n[82] Mr Ironside has had an extensive involvement in the Australian egg industry, having been Chairman of the Board of Directors of AECL since its incorporation in 2002; having previously held roles in the Australian Egg Industry Association, the activities of which were taken over by AECL upon its incorporation; having been Vice-President of the Queensland Egg Farmers’ Association for about five years; having been Secretary of the North Queensland Poultry Farmers’ Association from about 1977 to 1990; having held the position of Financial Controller in the International Egg Commission from 2009 to date; and having been President of Egg Farmers Australia from 2010 to date. Again, it defies common sense to suppose that Mr Ironside was not able readily to recognise the truth of the ACCC assertion in SoC [13]. Given Mr Ironside’s background and experience, I am not willing to act on a bare submission from the Bar table that Mr Ironside did not have this knowledge. Further, I am satisfied that it is appropriate to attribute to IMS the knowledge of Mr Ironside.\n\n[83] It is true, as the respondents submitted, that the identification of competition within a market can in some contexts be a matter of complexity. In some contexts and for some purposes, it can, however, be a matter which is quite straightforward and the subject of common knowledge. On my assessment, the content of SoC [13] falls clearly into the second of these categories.\n\n[84] It was not reasonable for these respondents to put the ACCC to proof of the competition condition. Farm Pride and IMS did not have the benefit of the privilege against self-incrimination and, in any event, an unreasonable failure to admit facts is inconsistent with the overarching obligation imposed by ss 37M and 37N of the FCA Act. Those provisions apply as much in penalty proceedings as to other forms of litigation.\n\n[85] The circumstance that the markets in which participants in the egg industry are engaged are not confined by State or Territory boundaries is a matter of no consequence presently and did not bear upon the ability of the respondents to make the admission of SoC [13].\n\n[86] Finally, the ACC was entitled to regard the proposed admission that Farm Pride was, or was likely to be, in competition with Days Eggs Pty Ltd in relation to the supply of eggs in South Australia as being inadequate in the circumstances.\n\n[87] It was common ground that, in the event that the Court considered that the ACCC should have its costs resulting from the denial of SoC [13], it should be reflected in a percentage reduction of the costs to be paid by the ACCC to these respondents. It was also common ground that the reduction should take account of the costs unnecessarily incurred by the ACCC as well as denying the respondents the costs they incurred in relation to the competition issue. I agree that that is sensible, as it will facilitate the taxation of the costs to be paid, should such a taxation become necessary.\n\n[88] The ACCC proposed a reduction of 15%. The respondents submitted that the reduction should be no more than nominal and, in particular, no more than 5%.\n\n[89] It is not possible for the Court to engage in any precision in assessing the appropriate reduction as it has been provided with only limited material for the purpose. Instead, the Court has to rely upon its own general experience of costs, have regard to the extent of the work carried out by the ACCC identified earlier as well as that likely to have been carried out by the respondents, and compare the likely costs incurred in connection with the Competition Condition with the costs likely to have been incurred by the respondents generally. These were the costs of a seven day trial, including the costs of substantial preparation on issues other than the Competition Condition. Account must also be made of the fact that the ACCC seeks that three respondents (effectively two because IMS and Mr Ironside had common representation) contribute to the one set of costs it incurred, so that there is the potential for it to be over compensated.\n\n[90] In those circumstances, the ACCC’s proposed reduction of 15% is excessive. I consider that justice will be done by an order that the ACCC pay 90% of the costs of Farm Pride, IMS and Mr Ironside on a party/party basis.\n\n#### The application for costs by non-parties\n\n[91] Two pairs of non-parties seek orders for costs in their favour against the ACCC in respect of the interlocutory applications which they filed on 23 and 27 October 2014 respectively. They are Philip Szepe and Kinross Farms Pty Ltd, and LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter. Both the non-parties and the ACCC agreed that the Court should deal with these applications on the papers and did not seek to make additional oral submissions.\n\n[92] The circumstances in which these non-parties made interlocutory applications have been touched on already. In brief, they arose from the order of the Court on 18 September 2014 that the ACCC make discovery of the transcripts of the examinations which it had conducted pursuant to s 155 of the CC Act in respect of the alleged contravening conduct, as well as of the documents which had been produced to it under compulsion in the exercise of the same powers. The Court recognised at the time that the effect of compliance by the ACCC with that order could mean that confidential material of the non-parties may be disclosed to the respondents, some of whom were their competitors. Accordingly, the Court ordered that the ACCC notify each person who had been examined, or which had provided documents under compulsion pursuant to s 155, of their entitlement to apply for a variation or revocation of the orders in order to protect their confidentiality.\n\n[93] As noted above, a number of non-parties made applications of this kind which were addressed at the interlocutory hearing on 29 October 2014. Some of the non-parties also made application at that time for orders that the ACCC, and/or the respondents, pay the costs which they had incurred in so doing. The Court reserved that question.\n\n[94] Kinross Farms Pty Ltd/Mr Szepe and LaTrobe Valley Farm Fresh Pty Ltd/Mr Powter now renew their respective applications. None of the other non-parties have done so. Kinross Farms/Mr Szepe and LaTrobe Valley Farm/Mr Powter submit that they were broadly successful in obtaining orders to protect their confidentiality, that their circumstances are analogous to those of a person against whom a non-party discovery order is made (r 20.25 of the FCR) or who produced documents in answer to a subpoena (r 24 of the FCR), that the ACCC, despite knowing that it would be discovering information which was by its very nature confidential, had not itself proposed at the time of the discovery order a confidentiality regime, thereby leaving them with no alternative but to apply to the Court, and that it would be unfair if “innocent” parties in their position had to bear the costs of acting to protect the confidentiality of their information in proceedings in which they had no interest.\n\n[95] The power of the Court to order costs in favour of a non-party is well recognised: O’Keefe v Hayes Knight GTO Pty Ltd [2005] FCA 1559; Van Hemmen v State of Queensland [2007] FCA 1185. The authorities indicate, however, that generally the Court exercises caution before making an order of costs in favour of a non-party.\n\n[96] A number of matters are pertinent to the exercise of the discretion sought by the non-parties. First, the ACCC had been entitled to exercise its powers pursuant to s 155 to compel persons to attend for examination and/or to produce documents as part of its investigation. Information in documentary form thereby came into the possession of the ACCC.\n\n[97] Secondly, the ACCC was compelled by order of the Court to make discovery of various categories of documents which included the non-parties’ confidential information. The ACCC drew to the Court’s attention that some of this information may be confidential and, accordingly, at the time of ordering discovery, the Court put in place a mechanism by which the non-parties could be heard with respect to their confidentiality. I do not consider that any criticism can be made of the ACCC in this respect and, to the extent that the submissions of the non-parties did so, it is rejected.\n\n[98] Thirdly, agreement on a regime to protect the non-parties’ confidentiality was not just a matter for the ACCC: each of the respondents was involved as well. It is evident that the ACCC took considerable steps with a view to promoting agreement by all parties on a confidentiality regime to protect the non-parties’ interests, but was not successful. Hence the matter had to be resolved at the directions hearing on 29 October 2014.\n\n[99] Fourthly, had the topic of confidentiality been addressed before the discovery order was made, it is likely that the non-parties would still have had to incur legal costs. In the events which happened, those costs are likely to have been much the same whether or not the attempts to secure agreement on a confidentiality regime had occurred before or after the filing of the interlocutory applications.\n\n[100] Fifthly, although there may be some similarities with the Court’s regime for non-party discovery and subpoenas, there are relevant and distinct differences. The procedure for non-party discovery is a means by which the Court will compel a non-party to produce documents for possible use in the litigation. A party seeking an order for non-party discovery is thereby seeking an exercise of discretion in its favour which will involve interference with the rights of the non-party. The Court usually takes the view that, in these circumstances, the applying party should pay the costs incurred by the non-party in complying with its order. The position with subpoenas is much the same. In contrast, in the present case, the ACCC was not seeking an exercise of discretion in its favour, but instead was complying with obligations imposed on it by Court order. Further, it was the non-parties themselves who were the moving parties in the Court.\n\n[101] Lastly, I consider that account should be taken of the place of s 155 in the range of powers available to the ACCC. It can be taken to be an indication of the legislative policy that the ACCC may obtain information and documents by means other than those contemplated by the Court’s Rules. The Court should not readily impose impediments on the ACCC making use of the information and documents which it has obtained by lawful means.\n\n[102] It is understandable that the non-parties feel a sense of grievance arising from the circumstance that they have had to incur legal expenses in seeking to protect their confidentiality and in which they are “innocent” parties. However, I do not regard those matters as being so persuasive as to warrant an exercise of the discretion in their favour, in the light of the considerations to which I have referred above. The applications by the non-parties for costs are refused.\n\n#### Summary\n\n[103] For the reasons given above, I make the declaration concerning the conduct of Mr Lendich set out earlier in these reasons and order that he pay to the Commonwealth a pecuniary penalty of $120,000. In addition, I make the order with respect to training which Mr Lendich has agreed with the ACCC and direct that he pay the ACCC the sum of $10,000 on account of its costs.\n\n[104] The ACCC is to pay 85% of the costs of the first and second respondents of and incidental to the proceedings, to be taxed if not agreed.\n\n[105] The ACCC is to pay 90% of the costs of the third, fifth and sixth respondents of and incidental to the proceedings, to be taxed if not agreed.\n\n[106] By consent of the ACCC, Farm Pride and Mr Lendich, the order in para 2 of the orders made on 18 September 2014 is varied so that it now provides:\n\n> The Third Respondent is to pay 50% of the Applicant’s costs of the Third and Fourth Respondent’s interlocutory application of 9 July 2014.\n\n[107] The applications by the non-parties Philip Szepe, Kinross Farms Pty, LaTrobe Valley Farm Fresh Pty Ltd and Gilbert Powter for the costs of and incidental to their respective interlocutory applications filed on 23 and 27 October 2014 are dismissed.\n\nI certify that the preceding one hundred and seven (107) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice White.\n\nAssociate:\n\nDated: 29 April 2016\n\n### SCHEDULE OF PARTIES\n\n|  | SAD 121 of 2014 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | ZELKO LENDICH |\n| Fifth Respondent: | IRONSIDE MANAGEMENT SERVICES PTY LTD |\n| Sixth Respondent: | JEFFREY WILLIAM IRONSIDE |\n",
+ "source_sha256": "926061d700ba1a910424802fcafc95cabe3f214a21477e65dcf935d493f04563"
+}

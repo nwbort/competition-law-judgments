@@ -1,0 +1,1421 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2018/2018FCA0684.docx",
+ "metadata": {
+  "citation": "[2018] FCA 684",
+  "name": "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 4)",
+  "court": "FCA",
+  "year": 2018,
+  "number": 684,
+  "date_of_judgment": "2018-06-01",
+  "file_numbers": [
+   "VID698/2014"
+  ],
+  "judges": [
+   "MIDDLETON J"
+  ],
+  "registry": "Victoria",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2018-02-12"
+  ],
+  "hearing_raw": "12 February 2018",
+  "last_submissions": "2018-03-02",
+  "number_of_paragraphs": 139,
+  "catchwords": [
+   "COMPETITION – secondary boycott – pecuniary penalties – course of conduct and totality principles – relevance to penalty of actual loss and damage occurring in secondary boycott – injunctions – compliance program – form of declarations",
+   "COSTS – Calderbank offer – relevant factors – special consideration of regulator’s role",
+   "COSTS – apportionment of costs"
+  ],
+  "legislation": [
+   "Fair Work Act 2009 (Cth)",
+   "Trade Practices Act 1974 (Cth)"
+  ],
+  "cases_cited": [
+   "Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) [2010] FCA 977; (2010) 199 IR 373",
+   "Australian Competition and Consumer Commission v 4WD Systems Pty Ltd [2003] FCA 850",
+   "Australian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 145 ALR 36",
+   "Australian Competition and Consumer Commission v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2004] FCA 517",
+   "Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860",
+   "Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159",
+   "Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146",
+   "Australian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd (No 2) [2009] FCA 433",
+   "Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698",
+   "Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844",
+   "Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181",
+   "Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (No 7) [2016] FCA 424",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730",
+   "Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191",
+   "Australian Competition and Consumer Commission v Unique International College (No 7) [2017] FCA 1289",
+   "Australian Competition and Consumer Commission v Yazaki Corporation [2018] FCAFC 73",
+   "Australian Competition and Consumer Commission v Z-Tek Computers Pty Ltd (1997) 78 FCR 197",
+   "Australian Ophthalmic Supplies Pty Ltd v McAlary-Smith [2008] FCAFC 8, (2008) 165 FCR 560",
+   "Construction, Forestry, Mining and Energy Union v Cahill (2010) 194 IR 461",
+   "Dr Martens v Figgins Holdings (No 2) [2000] FCA 602",
+   "Grocon Constructors (Victoria) Pty Ltd v The Construction, Forestry, Mining and Energy Union (No 2) [2014] VSC 134",
+   "Markarian v The Queen [2005] HCA 25",
+   "McDonald v R (1994) 48 FCR 555",
+   "Queensland North Australia Pty Ltd v Takeovers Panel (No 2) [2015] FCAFC 128",
+   "Ruddock v Vadarlis (No 2) (2001) 115 FCR 229",
+   "The State of Victoria v Sportsbet Pty Ltd (No 2) [2012] FCAFC 174",
+   "Trade Practices Commission v CSR Limited (1991) ATPR 41-076",
+   "Veen v The Queen (No 2) (1988) 164 CLR 465",
+   "Weininger v The Queen; (2003) 212 CLR 629"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JOHN SETKA",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "SHAUN MICHAEL REARDON",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr P D Crutchfield QC with Mr N P De Young"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "DLA Piper Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Ms R M Doyle SC with Mr J R Gurr"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Slater and Gordon Lawyers"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2018/2018fca0684",
+  "portal_file_numbers": [
+   "VID698/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2018-06-01"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "VID 698 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "MIDDLETON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "1 June 2018"
+  },
+  {
+   "label": "Catchwords",
+   "value": "COMPETITION – secondary boycott – pecuniary penalties – course of conduct and totality principles – relevance to penalty of actual loss and damage occurring in secondary boycott – injunctions – compliance program – form of declarations\nCOSTS – Calderbank offer – relevant factors – special consideration of regulator’s role\nCOSTS – apportionment of costs"
+  },
+  {
+   "label": "Legislation",
+   "value": "Fair Work Act 2009 (Cth)\nTrade Practices Act 1974 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) [2010] FCA 977; (2010) 199 IR 373\nAustralian Competition and Consumer Commission v 4WD Systems Pty Ltd [2003] FCA 850\nAustralian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 145 ALR 36\nAustralian Competition and Consumer Commission v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2004] FCA 517\nAustralian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860\nAustralian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159\nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146\nAustralian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd (No 2) [2009] FCA 433\nAustralian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698\nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844\nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181\nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (No 7) [2016] FCA 424\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730\nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191\nAustralian Competition and Consumer Commission v Unique International College (No 7) [2017] FCA 1289\nAustralian Competition and Consumer Commission v Yazaki Corporation [2018] FCAFC 73\nAustralian Competition and Consumer Commission v Z-Tek Computers Pty Ltd (1997) 78 FCR 197\nAustralian Ophthalmic Supplies Pty Ltd v McAlary-Smith [2008] FCAFC 8, (2008) 165 FCR 560\nConstruction, Forestry, Mining and Energy Union v Cahill (2010) 194 IR 461\nDr Martens v Figgins Holdings (No 2) [2000] FCA 602\nGrocon Constructors (Victoria) Pty Ltd v The Construction, Forestry, Mining and Energy Union (No 2) [2014] VSC 134\nMarkarian v The Queen [2005] HCA 25\nMcDonald v R (1994) 48 FCR 555\nQueensland North Australia Pty Ltd v Takeovers Panel (No 2) [2015] FCAFC 128\nRuddock v Vadarlis (No 2) (2001) 115 FCR 229\nThe State of Victoria v Sportsbet Pty Ltd (No 2) [2012] FCAFC 174\nTrade Practices Commission v CSR Limited (1991) ATPR 41-076\nVeen v The Queen (No 2) (1988) 164 CLR 465\nWeininger v The Queen; (2003) 212 CLR 629"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "12 February 2018"
+  },
+  {
+   "label": "Date of last submissions",
+   "value": "2 March 2018"
+  },
+  {
+   "label": "Registry",
+   "value": "Victoria"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "139"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr P D Crutchfield QC with Mr N P De Young"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "DLA Piper Australia"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Ms R M Doyle SC with Mr J R Gurr"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Slater and Gordon Lawyers"
+  },
+  {
+   "label": "4 June 2018",
+   "value": "Before Order 1, the definitions have been removed."
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "VID698/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JOHN SETKA",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "SHAUN MICHAEL REARDON",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "MIDDLETON J"
+   ],
+   "date": "2018-06-01",
+   "date_raw": "1 JUNE 2018",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The CFMEU pay to the ACCC 40% of the ACCC’s costs of and in connection with the proceedings, to be paid on a party/party basis.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "On 12 February 2018, the Court made the following declarations and orders:\nIn these orders the following definitions apply:\nAlsafe means Alsafe Premix Concrete Pty Ltd ACN 003 290 999;\nBan Against Boral means the instruction the CFMEU gave at the Trades Hall meeting in March 2013 to the Shop Stewards and the CFMEU organisers not to allow Boral to supply concrete to commercial construction sites in metropolitan Melbourne;\nBoral means Boral Resources and/or Alsafe;\nBoral Resources means Boral Resources (Vic.) Pty Ltd ACN 004 620 731;\nHawthorn Site means the construction site for the Hawthorn Aquatic Centre in Hawthorn;\nOceania means Oceania Universal Paving Australia Pty Ltd ACN 005 882 191;\nRichmond Site means the construction site for an office block in Church Street, Richmond;\nS & A Paving means S & A Paving Pty Ltd ACN 006 768 798;\nShop Steward means, in respect of each construction site at which CFMEU members are engaged, a person appointed to fulfil the role of, or to otherwise act as, a “shop steward”, “job steward” or “union delegate” for that site.\nTHE COURT DECLARES THAT:\n(1) In respect of the Hawthorn Site, between about March and June 2013, with and following the Ban Against Boral, the First Respondent (‘the CFMEU’) engaged in conduct in concert with a Shop Steward which hindered or prevented the acquisition of concrete by S & A Paving from Alsafe (a Boral subsidiary) for the purpose of causing substantial loss or damage to the business of Boral, being conduct which was likely to have the effect of causing substantial loss or damage to the business of Boral, in contravention of s 45D(1) of the Competition and Consumer Act 2010 (Cth) (‘the Act’).\n(2) In respect of the Richmond Site, between about March and April 2013, with and following the Ban Against Boral, the CFMEU engaged in conduct in concert with a Shop Steward which hindered or prevented the acquisition of concrete by Oceania from Boral for the purpose of causing substantial loss or damage to the business of Boral, being conduct which was likely to have the effect of causing substantial loss or damage to the business of Boral, in contravention of s 45D(1) of the Act.\nTHE COURT ORDERS THAT:\n(1) The CFMEU pay to the Commonwealth a penalty in the sum of $500,000 in respect of each contravention, being $1,000,000 in the aggregate.\n(2) The CFMEU:\n(2.1) include in each of its courses it provides for Shop Stewards (known as the Delegates Course) in Victoria from 30 March 2018 a practical training session on the requirements of section 45D of the Act for a period of five years from the date of this order; and\n(2.2) ensure that each training session is conducted by a suitably qualified training professional.\n(3) Subject to further order, the non-publication and suppression orders made by the Court on 9 November 2017 remain in force, and operate until the conclusion of the criminal proceedings against the individual respondents or until 31 December 2018, whichever is the later in time.\n(4) Pursuant to section 37AG of the Federal Court of Australia Act 1976 (Cth) the Court makes the following suppression orders on the ground that the orders are necessary to prevent prejudice to the proper administration of justice:\n(4.1) Any published version of the Court’s orders will be redacted in the manner to omit non – publishable materials; and\n(4.2) No person may disclose by publication or otherwise the information in the redacted paragraphs of the Court’s orders.\n(5) Subject to further order, Order 4 shall operate until the conclusion of the criminal proceedings against the individual respondents or until 31 December 2018, whichever is the later in time.\n(6) The matter is adjourned for a further hearing as to costs.\n(7) The CFMEU, on or before 4.00 pm on 19 February 2018, file and serve any written submissions (including any letters) as to costs.\n(8) The ACCC, on or before 4.00 pm on 26 February 2018, file and serve any submissions as to costs.\n(9) The CFMEU, on or before 4.00 pm on 2 March 2018, file and serve any reply submissions.\n(10) The Court will determine the question of costs on the papers subject to any other order.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "These reasons concern the orders already made by the Court and the outstanding issue of costs (which issue is determined on the papers). These reasons are to be read in conjunction with the primary reasons concerning liability: Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191 (‘ACCC v CFMEU’). The terms used in the primary reasons are adopted in these reasons.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "INTRODUCTION"
+    ],
+    "text": "In ACCC v CFMEU, the Court found, inter alia, that:\nat a shop steward’s meeting held on 14 March 2013 there was a communication made by the executives of CFMEU intended by them to be followed by shop stewards present at that meeting (and any other shop steward who became aware of the communication) that the shop stewards needed to stop Boral trucks from going on site and supplying concrete. This would include the conduct of hindering by the action of slow safety checks or the threat of such conduct being communicated to a Boral customer;\nthe Ban Against Boral was intended by the CFMEU to be an instruction to shop stewards, in the sense that it was expected by the CFMEU that the Ban Against Boral would be implemented to the extent possible by each shop steward at the relevant construction site until further notice. The communication was received and accepted by shop stewards as instructions that they were required to implement. In this way, there was a meeting of minds by each relevant shop steward with the CFMEU;\nshop stewards implemented the Ban Against Boral at the Hawthorn and Richmond sites in the manner alleged by the ACCC. A purpose of the conduct engaged in by the CFMEU and each relevant shop steward was to cause substantial loss and damage, and that conduct was likely to have the effect of causing substantial loss and damage to the business of Boral; and\nthe CFMEU contravened s 45D(1) of the CCA on two occasions, namely in respect of the Hawthorn and Richmond sites.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The ACCC sought the relief contained in a proposed form of orders for:\ndeclarations pursuant to s 21 of the FCAA;\ninjunctive relief pursuant to s 80 of the CCA against the CFMEU;\na pecuniary penalty pursuant to s 76(1A)(a) of the CCA for the CFMEU in an amount to be determined by the Court;\nan order pursuant to s 86C of the CCA requiring the CFMEU to implement a compliance program; and\nan order for costs pursuant to s 43 of the FCAA against the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The main dispute between the parties on the appropriate orders in the end concerned the penalty and the issue of costs. I will deal first with the issue of penalty, and return to the other orders (including costs) later.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "In summary, the ACCC submitted that a penalty of $1.5 million (being the total of the statutory maxima for the two contraventions) was appropriate to achieve specific and general deterrence, having regard to the following matters:\nthe contravening conduct was very serious;\nthe contravening conduct was intended to cause substantial loss and damage;\nthe contravening conduct was deliberate;\nthe contraventions arose out of the conduct of senior executives of the CFMEU;\nthe CFMEU has previously been found to have engaged in similar conduct; and\nthe CFMEU demonstrated no contrition and has not cooperated.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU submitted that:\nThe ACCC’s submission that two separate penalties ought be imposed, both fixed at the level of the statutory maximum, ought be rejected. The nature and consequences of the offending do not justify the imposition of two maximum penalties;\nThe two contraventions found proven by the Court ought be treated as arising out of a single course of conduct, by reason of the legal and factual interrelationship between them.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU submitted that none of these matters relied upon by the ACCC in light of the Court’s findings, either alone or taken together, was capable of justifying the imposition of the maximum penalty for the two contraventions. It submitted that the maximum penalty was to be reserved for the “worst possible case”. Consequently, absent a conclusion by the Court that the conduct of the CFMEU was the “worst possible case” of offending under s 45D of the CCA, it was not appropriate to apply the maximum penalty, and the findings and the evidence did not support such a conclusion.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "It was submitted that in order for the Court to be able to take financial loss into account for the purpose of assessing penalty, there must be evidence to support a specific finding as to the quantum of loss and damage actually suffered. No evidence was led directly as to the extent to which Boral would or did lose market share, or to seek to quantify in monetary terms this loss.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "It was submitted that the only evidence of business disruption to Boral proven to have flowed from the two contraventions demonstrated that modest volumes of concrete were not supplied at two sites. These were said to be isolated events, as the evidence was that S & A Paving (the contractor at Hawthorn) and Oceania (the contractor at Richmond) continued to purchase concrete from Boral in the months that followed the contraventions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "It was also submitted that the Court should be mindful in the exercise of the sentencing discretion that it is penalising the contravening conduct, and not the underlying intention. It was submitted that whilst it may have been intended that the Ban Against Boral instruction was to have a broader effect than merely at the Hawthorn Site and the Richmond Site, it was only by reference to the contraventions found proven with respect to those two sites that the penalty is to be fixed. In other words, it was submitted that the CFMEU was to be punished for the fact that it acted in contravention of s 45D at the Hawthorn Site and the Richmond Site, and not for the fact that in communicating the Ban Against Boral it intended for the Ban to have a broader effect. It was said by the CFMEU that in and of itself, the communication of the Ban Against Boral did not give rise to a contravention of s 45D, and it was accordingly not the touchstone for the assessment of penalty.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "As to past conduct, the CFMEU accepted that the principles applicable to the treatment of relevant prior conduct in the exercise of the sentencing discretion were summarised by Barker J in Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) (2010) 199 IR 373. They include, relevantly:\nSimilar prior relevant conduct may be taken into account in assessing penalty, however it cannot be given such weight as to lead to the imposition of a penalty that is disproportionate to the gravity of the instant contravention;\nSimilar previous conduct may demonstrate that a respondent has a history of engaging in the particular conduct in question, and that the penalties previously imposed were insufficient to act as a specific deterrent; and\nA respondent is not to be punished again for the prior conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU submitted that the ACCC had identified only one prior contravention of s 45D by the union: Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730. However, it was submitted that by reason of the fact that this contravention arose out of the conduct of officials of the Western Australian branch of the CFMEU, an autonomous state branch, and occurred in 2004, some nine years prior to the events the subject of this proceeding, it should be accorded less weight than might otherwise be the case.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU submitted that the decision in Grocon Constructors (Victoria) Pty Ltd v The Construction, Forestry, Mining and Energy Union (No 2) [2014] VSC 134 does not constitute a relevant prior contravention. The conduct in question took place in August to September 2012. The findings of contempt were made by the Court on 24 May 2013 (see [2013] VSC 275), and the penalties were not imposed until 31 March 2014 (see [2014] VSC 134). In those circumstances, the contempt convictions were not strictly treated as prior contraventions, though the conduct to which they relate may be relevant in a broader sense. While it was accepted by the CFMEU that the Grocon contempt matters were not irrelevant to the exercise of the sentencing discretion, it was submitted that the weight to be given to this matter depended on an assessment of all the circumstances.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU also submitted that it was not aware of any cases concerning contraventions of s 45D(1) which provide a direct analogy with the conduct at issue in this proceeding. It submitted that some similarities were apparent in the following two decisions which concerned union conduct:\nIn Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730, a penalty of $50,000 was imposed with respect to a s 45D contravention, where the union had consented to a finding of contravention. The circumstances involved an 18 minute interruption to a concrete pour. The Court reduced the penalty in light of factors including the fact that the CFMEU had not engaged in the conduct for financial gain; and\nIn Australian Competition and Consumer Commission v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2004] FCA 517, the parties agreed that the Court ought impose a $100,000 penalty for a s 45D contravention following a one month picket.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "It was also submitted by the CFMEU that the ACCC ought not be permitted to “have it both ways”. It was said that the ACCC asserted on the one hand that the two contraventions in this proceeding were so separate and distinct in nature that they ought to attract separate (maximum) penalties. Yet, it was observed by the CFMEU, that the ACCC also submitted that the Ban Against Boral was not just intended to be implemented at one site but was “extensive in nature” and was intended to be “implemented across metropolitan Melbourne”.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "The CFMEU also submitted that if the Court was not inclined to apply the “one transaction” rule, then it was submitted that care ought be taken to distinguish between the different consequences of the contravening conduct at the two sites. It was submitted that the very small volume of concrete not supplied by Alsafe at the Hawthorn site to S & A Paving requires the imposition of a lower penalty than that which might be appropriate with contravening conduct at the Richmond site. In contrast, by reason of the fact that Boral lost a greater volume of concrete vis a vis the Richmond site (approximately 5,000 cubic metres) it was accepted that it may be appropriate for the Court to impose a higher penalty with respect to that contravention.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "SUMMARY OF THE POSITION OF THE PARTIES"
+    ],
+    "text": "It was submitted that it would be appropriate to treat the two contraventions as arising out of a single course of conduct, and to impose a single penalty of about $400,000. In the alternative, it was submitted by the CFMEU that the Court may regard it as appropriate to impose a penalty in the order of about one quarter of the maximum with respect to the contravention at the Hawthorn Site ($190,000) and a penalty of about one third of the maximum with respect to the Richmond Site ($250,000). This would give rise to an aggregate penalty of about $440,000.00. Any other penalty, it was submitted, would offend the totality principle.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "The following briefly describes the result at trial, but the only complete description of the circumstances of the contraventions is to be found in the primary reasons concerning liability.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "During the course of the hearing, allegations in respect of one site (Flinders Street) were abandoned, and ultimately the “omnibus” allegation was not seriously pressed. Of the 11 remaining site-specific contraventions alleged by the ACCC, eight of those related to the conduct of the CFMEU and a relevant shop steward or organiser, while the remaining three allegations related to attempted conduct of the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "The Court found in favour of the ACCC in respect of two of the eight conduct allegations. The remaining conduct allegations, and all of the attempt allegations, were dismissed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "There was always the question whether any particular Shop Steward had in fact implemented the Ban against Boral at any of the sites alleged. This question gave rise to different answers at each of the sites. The Court found contraventions of s 45D(1) had in fact occurred by reason of conduct implementing the Ban Against Boral at only two sites.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "In relation to the Hawthorn Site, it is to be kept in mind that:\nThe contravention related to the non-supply by Alsafe of at least 72 cubic metres of concrete to S & A Paving, between 8 April 2013 and 14 June 2013;\nS & A Paving were using Alsafe as concrete supplier on the Hawthorn Aquatic Centre;\nS & A Paving reverted to using Holcim, who had previously been their supplier;\nThe safety checks undertaken by Mr Thomas at the site were performed for a legitimate purpose, and that Mr Thomas did not use the check lists as a ruse to stop or delay Boral trucks coming onto the site. No Boral truck was turned away; and\nThe essence of the contravention was a statement by Mr Thomas that he would have to “check the trucks” if S & A Paving used Alsafe. This constituted the threat of using safety checks to hinder the supply of concrete by Boral.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "As to the Richmond Site, it is to be kept in mind that:\nThe Richmond Site was an office building where the head contactor was Hacer. Oceania was subcontracted to do foundations, groundwork, concrete and reinforcement works. Oceania were using Boral as their supplier;\nFor a short period of time after Mr Scott conveyed a message to Oceania representatives to the effect that it would be desirous not to use Boral, Oceania continued to order its concrete from Boral, but that concrete was delivered by arrangement with Boral in Holcim and Hanson trucks. Thereafter, however, Oceania switched suppliers to Holcim and bought directly from Holcim for a period of time. That occurred as a consequence of the message conveyed by Mr Scott to Oceania;\nThe volume of concrete which was not supplied by Boral to Oceania (ie that which was ultimately supplied by Holcim instead) was approximately 5,009.1 cubic metres.\nNo Boral trucks were delayed or turned away from Richmond;\nMr Scott was not completing safety checklists as some kind of cover for the implementation of a ban; and\nAfter attending the March meeting, Mr Scott was aware of the Ban Against Boral and he conveyed a message to Oceania representatives to the effect that it would be ‘desirous not to use Boral.’ As a consequence, Oceania switched suppliers for the Richmond Site.”",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "It can be accepted that the volumes of concrete not supplied as a result of the contravening conduct by Boral (or its subsidiary Alsafe) to the Richmond and Hawthorn sites were modest. Further, there was no picket or physical obstruction at the Richmond or Hawthorn sites (or at any of the sites to which Boral intended to deliver or did deliver concrete which were the subject of allegations in this proceeding). There was also evidence that S & A Paving and Oceania, who were impacted by the contravening conduct, returned to Boral and continued to do business with them after a brief hiatus.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "A BRIEF SUMMARY OF THE TRIAL RESULT"
+    ],
+    "text": "However, as mentioned in [3] above, the Ban Against Boral was made by the CFMEU and communicated to shop stewards with its intended consequences.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "The Court’s power to impose a pecuniary penalty is governed by s 76 of the CCA.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Under s 76(1), the Court may order a person who has contravened a provision of Pt IV (relevantly including s 45D) to pay such pecuniary penalty, in respect of each act or omission by the person, as the Court determines to be appropriate.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Section 76(1) of the CCA provides that, in determining the appropriate pecuniary penalty, the Court must have regard to all relevant matters including:\nthe nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;\nthe circumstances in which the act or omission took place; and\nwhether the person has previously been found by the Court in proceedings under Pt VI or Pt XIB of the CCA to have engaged in any similar conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Section 76(1A) provides that the maximum penalty for a body corporate for each act or omission to which s 76 applies that relates to s 45D of the CCA is not to exceed $750,000.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "The Court has long regarded deterrence (both specific and general) as the primary objective of imposing penalties under the CCA.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "As noted above, s 76(1) sets out mandatory factors to be considered by the Court in determining the appropriate penalty.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "In Trade Practices Commission v CSR Limited (1991) ATPR 41-076, French J (as he then was) identified the following considerations relevant to the assessment of a pecuniary penalty under s 76:\nthe nature and extent of the contravening conduct;\nthe amount of loss or damage caused;\nthe circumstances in which the conduct took place;\nthe size of the contravening company;\nthe degree of power it has, as evidenced by its market share and ease of entry into the market;\nthe deliberateness of the contravention and the period over which it extended;\nwhether the contravention arose out of the conduct of senior management or at a lower level;\nwhether the company has a corporate culture conducive to compliance with the relevant legislation as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention; and\nwhether the company has shown a disposition to cooperate with the authorities responsible for the enforcement of the relevant legislation in relation to the contravention.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Those considerations have been adopted in many subsequent cases, and if not expressly mentioned, include whether the respondent has engaged in similar conduct in the past, the respondent’s financial position, and whether the conduct was systematic, deliberate or covert.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "The Court is to determine a penalty which is proportionate to the contravening conduct and the contravener’s circumstances by a process of instinctive synthesis after taking into account all relevant factors: see for example Australian Ophthalmic Supplies Pty Ltd v McAlary-Smith [2008] FCAFC 8, (2008) 165 FCR 560 at [27], [55]; Markarian v The Queen [2005] HCA 25, (2005) 228 CLR 357 at [37], [39].",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "In relation to previous conduct, the High Court addressed the significance of a previous record in Weininger v The Queen; (2003) 212 CLR 629 at [32]. The plurality said:\n… A person who has been convicted of, or admits to, the commission of other offences will, all other things being equal, ordinarily receive a heavier sentence than a person who has previously led a blameless life. Imposing a sentence heavier than otherwise would have been passed is not to sentence the first person again for offences of which he or she was earlier convicted or to sentence that offender for the offences admitted but not charged. It is to do no more than give effect to the well-established principle (in this case established by statute) that the character and antecedents of the offender are, to the extent that they are relevant and known to the sentencing court, to be taken into account in fixing the sentence to be passed. Taking all aspects, both positive and negative, of an offender’s known character and antecedents into account in sentencing for an offence is not to punish the offender again for those earlier matters; it is to take proper account of matters which are relevant to fixing the sentence under consideration.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Not all prior offending will necessarily be relevant, at all, or in the same way, to the Court’s task of sentencing. Much will depend on the nature of the prior offending, the time when the prior offending occurred and the circumstances in which it occurred. Therefore, previous offending of a generally similar kind will be particularly relevant, but even conduct of that kind may lose its significance if it occurred at a time well-distant from the current offending.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "This is not to say previous offences of a different character may not be relevant to sentencing. Depending upon the circumstances, a history of previous convictions may indicate an attitude of defiance of, or indifference to, compliance with the law.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "These principles, although developed in relation to the sentencing of criminal offences, are apposite to the fixation of penalties for contraventions of the present kind.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 40,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "As mentioned already by reference to the submissions of the CFMEU, in Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) [2010] FCA 977; (2010) 199 IR 373 at [47], Barker J summarised several of the principles regarding the significance of previous contraventions to the imposition of penalty, which to the extent I have referred to above at [12] I adopt.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 41,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Then it is to be recalled that in determining the appropriate penalty for a multiplicity of civil penalty contraventions, the Court has had regard to two related principles that originate in the criminal law: the “course of conduct” or “one transaction” principle and the “totality” principle. They are not rules, but principles or tools to assist the Court in arriving at an appropriate penalty. It is not appropriate to treat multiple contraventions as just one contravention for the purposes of determining the maximum limit dictated by the relevant legislation.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 42,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "As observed recently by Beach J in Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 at [24] – [25]:\n… the “course of conduct” principle does not have paramountcy in the process of assessing an appropriate penalty. It cannot of itself operate as a de facto limit on the penalty to be imposed for contraventions of the ACL. Further, its application and utility must be tailored to the circumstances. In some cases, the contravening conduct may involve many acts of contravention that affect a very large number of consumers and a large monetary value of commerce, but the conduct might be characterised as involving a single course of conduct. Contrastingly, in other cases, there may be a small number of contraventions, affecting few consumers and having small commercial significance, but the conduct might be characterised as involving several separate courses of conduct. It might be anomalous to apply the concept to the former scenario, yet be precluded from applying it to the latter scenario. The ‘course of conduct’ principle cannot unduly fetter the proper application of s 224. (emphasis and footnotes removed)",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 43,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "This statement was approved by the Full Court in Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181 (‘Reckitt’) at [141] per Jagot, Yates and Bromwich JJ and in Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159 at [425] and [426] per Middleton, Beach and Moshinsky JJ.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 44,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "The “course of conduct” or “one transaction” principle means that consideration should be given to whether the contraventions arise out of the same course of conduct or the one transaction, to determine whether it is appropriate that a “concurrent” or single penalty should be imposed for the contraventions. The principle was explained by Middleton and Gordon JJ in Construction, Forestry, Mining and Energy Union v Cahill (2010) 194 IR 461 (‘Cahill’) at [41]:\n…the principle recognises that where there is an interrelationship between the legal and factual elements of two or more offences for which an offender has been charged, care must be taken to ensure that the offender is not punished twice for what is essentially the same criminality. That requires careful identification of what is “the same criminality” and that is necessarily a factual specific enquiry.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 45,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "As Middleton and Gordon JJ further explained in Cahill, even if the contraventions are properly characterised as arising from a single course of conduct, a judge is not obliged to apply the principle if the resulting penalty fails to reflect the seriousness of the contraventions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 46,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Whilst the Full Court decision in Australian Competition and Consumer Commission v Yazaki Corporation [2018] FCAFC 73 (Allsop CJ, Middleton and Robertson JJ) was not available at the time the Court made the orders relating to penalty in this proceeding, I observe that the reasoning of the Full Court at [226] to [236] is consistent with the course of conduct principles enunciated above.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 47,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "It can thus be seen that the single course of conduct principle is applicable when there is an inter-relationship between the legal and factual elements of two or more contraventions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 48,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "However, an identity of purpose does not necessarily warrant the conclusion that everything done in pursuit of that purpose was part of a single course of conduct. A concerted campaign by a union may explain the conduct of its officials but it does not in itself provide the requisite inter-relationship between the contraventions to necessarily warrant the application of the single course of conduct principle.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 49,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "The concern to avoid double punishment in this context might also be seen as an aspect of what is sometimes described as the “totality” principle: the total penalty should reflect the overall culpability involved.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 50,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "At the end of the consideration of an appropriate penalty, the Court must ensure that the overall penalty is appropriate and that the sum of the penalties imposed for several contraventions does not result in the total of the penalties exceeding what is proper having regard to the totality of the contravening conduct involved: see for example Australian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 145 ALR 36 (‘ACCC v Safeway’) at 53 per Goldberg J, applying McDonald v R (1994) 48 FCR 555. The Court must, as an initial step, impose a penalty appropriate for each contravention and then as a check, at the end of the process, consider whether the aggregate is appropriate for the total contravening conduct involved: see ACCC v Safeway at 53 per Goldberg J, applying McDonald v R (1994) 48 FCR 555 at 563 per Burchett and Higgins JJ.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 51,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "I make some other observations as to the relevant principles. The first observation relates to the relevance of the maximum penalty. In this regard, I adopt the approach of the Full Court in Reckitt at [154] to [156]:\n154 In considering the sufficiency of a proposed civil penalty, regard must ordinarily be had to the maximum penalty. In Markarian, a criminal sentencing context, it was observed at [31] that:\ncareful attention to maximum penalties will almost always be required, first because the legislature has legislated for them; secondly, because they invite comparison between the worst possible case and the case before the court at the time; and thirdly, because in that regard they do provide, taken and balanced with all of the other relevant factors, a yardstick.\n155 The reasoning in Markarian about the need to have regard to the maximum penalty when considering the quantum of a penalty has been accepted to apply to civil penalties in numerous decisions of this Court both at first instance and on appeal (Director of Consumer Affairs, Victoria v Alpha Flight Services Pty Ltd [2015] FCAFC 118 at [43]; Australian Competition and Consumer Commission v BAJV Pty Ltd [2014] FCAFC 52; (2014) ATPR 42-470 at [50]-[52]; Setka v Gregor (No 2) [2011] FCAFC 90; (2011) 195 FCR 203 at [46]; McDonald v Australian Building and Construction Commissioner [2011] FCAFC 29; (2011) 202 IR 467 at [28]-[29]). As Markarian makes clear, the maximum penalty, while important, is but one yardstick that ordinarily must be applied.\n156 Care must be taken to ensure that the maximum penalty is not applied mechanically, instead of it being treated as one of a number of relevant factors, albeit an important one. Put another way, a contravention that is objectively in the mid-range of objective seriousness may not, for that reason alone, transpose into a penalty range somewhere in the middle between zero and the maximum penalty. Similarly, just because a contravention is towards either end of the spectrum of contraventions of its kind does not mean that the penalty must be towards the bottom or top of the range respectively. However, ordinarily there must be some reasonable relationship between the theoretical maximum and the final penalty imposed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 52,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Whilst the maximum penalties are to be reserved for the worst kinds of contraventions, this does not mean that all other contraventions are to be graded by reference to some hypothetical worst case. As the High Court stated in Veen v The Queen (No 2) (1988) 164 CLR 465 at 478:\n… the maximum penalty prescribed for an offence is intended for cases falling within the worst category of cases for which that penalty is prescribed: Ibbs v R (1987) 61 ALJR 525 at 527; 74 ALR 1 at 5. That does not mean that a lesser penalty must be imposed if it be possible to envisage a worse case; ingenuity can always conjure up a case of greater heinousness. A sentence which imposes the maximum penalty offends this principle only if the case is recognisably outside the worst category.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 53,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "Then there is the question of loss and the consequences of the contravening conduct. If there is a purpose of the conduct to cause loss, and this does not eventuate, or cannot be proved, this does not necessarily mean that the penalty should not be substantial if the other circumstances require such a penalty. The object of the penalty is to deter. As with the situation where the Court is concerned with the making of profits by a respondent from contravening conduct, deterrence may require a substantial penalty even if the conduct did not ultimately result in any loss to the victim of the contravention.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 54,
+    "headings": [
+     "PENALTY – APPLICABLE PRINCIPLES"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (No 7) [2016] FCA 424 Edelman J said in relation to profits that:\n54 … although many cases (including decisions of mine) speak of the relevant factor as “profit from contravening conduct”, this label conceals two different factors. One factor is any intended profits. Another is any actual profits. If contravening conduct is engaged in for the purpose of making particular profits then the intention to profit must be deterred even if no actual profit is made. An attempt to calculate actual profit will make no difference to deterrence based upon intended profit: see Australian Competition and Consumer Commission v TPG Internet Pty Ltd [2013] HCA 54; (2013) 250 CLR 640, 659 [66] (French CJ, Crennan, Bell and Keane JJ).\n55 In this case, the contravening conduct was part of the marketing and promotion of the Nurofen Specific Pain Range. Like most marketing and packaging endeavours, it was plainly engaged with the intention of increasing profits. To that extent, deterrence is required even if it were the case that the conduct did not ultimately result in any profit.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 55,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The contravening conduct should be regarded as very serious. The need for deterrence, both general and specific, is substantial. In general terms, the matters relied upon by the ACCC in [6] above can be accepted.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 56,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "As already mentioned, in terms of the introduction of the Ban Against Boral by the CFMEU, the Court found that:\nat the March shop steward’s meeting there was a communication made by the executives of CFMEU intended by the CFMEU to be followed by shop stewards present at that meeting (and any other shop steward who became aware of the communication) that the shop stewards needed to stop Boral trucks from going on site and supplying concrete;\nthe Ban Against Boral was intended by the CFMEU to be an instruction to shop stewards, in the sense that it was expected by the CFMEU that the Ban Against Boral would be implemented to the extent possible by each shop steward at the relevant construction site until further notice. The communication was received and accepted by shop stewards as instructions that they were required to implement; and\nthe Ban Against Boral was not just intended by the CFMEU or the shop stewards to be implemented only at one site. It was intended to be implemented across metropolitan Melbourne, as the shop stewards appreciated and were informed by the instruction given at the March meeting.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The Court has also found that the Ban Against Boral was in fact implemented at two major commercial construction sites.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 58,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The contravening conduct occurred against the background of a dispute between the CFMEU and Grocon regarding Grocon’s refusal to accept CFMEU shop stewards as workers’ representatives on Grocon sites. This ongoing dispute led to Grocon and Boral (one of Grocon’s concrete suppliers at the time) initiating separate proceedings in the Supreme Court of Victoria.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 59,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The Court has relevantly found that the contravening conduct had a purpose to cause substantial loss or damage to Boral and was likely to have the effect of causing substantial loss and damage to the business of Boral. The whole purpose of the Ban Against Boral was to cause a substantial loss to Boral, by deterring customers (existing or potential) from using Boral in metropolitan Melbourne. The call of the CFMEU at the March meeting was not just to stop Boral trucks from going on one site, and it was an ongoing fight which the CFMEU wanted to win, directed to Boral’s business across various sites in metropolitan Melbourne. Even if no Boral trucks were actually sent away by reason of the conduct, the real harm to Boral was damage to its reputation by the threat that Boral trucks would be hindered or delayed in the delivery of concrete. This threat was made known to certain customers, some of whom changed their supplier of concrete away from Boral.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 60,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "I now mention the important matters I have considered.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 61,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "First, the contravening conduct by the CFMEU should be regarded as deliberate.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 62,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "Further, the contravening conduct arose out of the conduct of senior management. The executives of the CFMEU who attended the March shop steward’s meeting and engaged in the contravening conduct included the Secretary (Mr Setka), the President (Mr Edwards) and the Vice-President (Mr Reardon). They were senior executives from the Victorian and Tasmanian Branch Construction & General Division of the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 63,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "Then, there is no doubt that the CFMEU has displayed a general disregard for the law. The ACCC referred to a number of instances demonstrating this fact. The CFMEU has been found to have contravened other Commonwealth legislation such as the Fair Work Act 2009 (Cth) on a very large number of occasions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 64,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "There has not been presented to the Court evidence of any CCA compliance program in place at the CFMEU at any time prior to or during the contravening period.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 65,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "As far as similar conduct is concerned, in Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730, the Federal Court ordered the CFMEU to pay $115,000 in penalties and costs for breaching s 45D(1) of the Trade Practices Act 1974 (Cth) when picketing was found to have delayed a concrete pour at a construction site in Perth. This was a decision made many years ago, and in very different circumstances. I have found this decision to be of little relevance to the circumstances of this proceeding.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 66,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The CFMEU has displayed no relevant contrition or cooperation which has in this proceeding been relied upon by the CFMEU. The conduct of the CFMEU referred to later in these reasons relevant to costs was not relied upon the CFMEU (or the ACCC) as relevant to my consideration of the penalty to impose.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 67,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The CFMEU is a very substantial organisation. It is a national organisation with branches throughout the country covering a broad range of industries. The Victoria-Tasmania Divisional Branch alone, as at 31 December 2015, had 25,202 members and net assets of $58,335,580. Whilst the size of the CFMEU does not justify a penalty larger than is otherwise appropriate, it fortifies the imposition of a substantial penalty in the circumstances of this case.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 68,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "Putting all these considerations together, the contraventions are objectively in the upper range of seriousness and gravity. This should be reflected in the final penalty imposed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 69,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "It is not only permissible, but necessary, to take into account all the circumstances of the two contraventions found to have occurred, and this will include the Ban against Boral and its intended operation. I will not repeat the Court’s findings in relation to this important aspect. I do not accept the submission of the CFMEU that the circumstances surrounding the Ban against Boral intending to have broad effect is not relevant to the contravening conduct found in respect of the two sites. The intended effect goes to the deliberateness of the conduct and is part of the circumstances in which the conduct resulting in the contraventions took place.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 70,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "I have already found in the primary reasons the damage sustained to the business of Boral. However, even if no or minimal losses occurred, the main object of the penalty is to deter conduct that is intended to or has the purpose of inflicting financial harm.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 71,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "It will be observed that I have treated each contravention as deserving the same penalty, and have not differentiated in the way suggested by the CFMEU on the basis of the losses at each site. I do not regard the differentiation as significant, and treat the conduct at each site as relevantly similar in character. I do this also because I consider the main consideration in this area relates (at least in the circumstances of this proceeding) to the purpose and likely effect of the contravening conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 72,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "This is not to say that the two contraventions involve one transaction; whilst the Ban against Boral was the basis of the events that followed, the implementation was separately undertaken by different personnel, at different places and times, and in varying circumstances. However, I accept that in considering the penalty for each contravention, the circumstances surrounding the implementation of the Ban Against Boral were similar in nature.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 73,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "The real issue for consideration in this proceeding on penalty is to stand back and consider in the context of the Ban against Boral and its implementation at the two sites the appropriate overall penalty. As I have indicated, it would be impermissible to treat the two contraventions in assessing the final penalties as putting the maximum limit (strictly or notionally) as $750,000.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 74,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "With all the matters I have accepted above in conformity with the submission of the ACCC a substantial penalty should be imposed. However, the suggested aggregate penalty of $1.5 million would exceed what is appropriate for the contravening conduct as a whole. This is not a case which calls for the imposition of the maximum penalty for each contravention, leading to the imposition of two cumulative penalties totalling $1.5 million.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 75,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "I consider that in terms of the gravity of the contraventions, it has to be recalled that the volumes of concrete not supplied as a result of the contravening conduct by Boral (or its subsidiary Alsafe) to the Richmond and Hawthorn sites were modest. This is relevant, although as I have indicated must be viewed against the whole purpose of the Ban against Boral and its intended operation.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 76,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "In addition, there was no picket or physical obstruction at the Richmond or Hawthorn sites, and the safety checks were grounded in genuine safety concerns in relation to deliveries by concrete trucks at construction sites. This turned out to be a case where the threat to institute safety checks was the conduct that constituted the implementation of the Ban against Boral.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 77,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "Then, whilst each contravention was separate, and could not be treated as one, there was the fact that both implementations were in relation to the Ban against Boral communicated to shop stewards. As I have said, the implementations were similar in nature, namely the making of a threat.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 78,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES"
+    ],
+    "text": "Therefore, in my view an aggregate penalty of the $1 million, where the possible aggregate is $1.5 million, is an appropriate sum to satisfy the need to deter future contravening conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 79,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Declarations"
+    ],
+    "text": "It is appropriate to make declarations in this proceeding and this did not seem to be in dispute. As the Commonwealth agency responsible for enforcing the CCA, the ACCC has a real interest in seeking the proposed declarations. In this case, declaratory relief will have utility and will serve the public interest in a number of ways: it will vindicate the ACCC’s claim that the CFMEU contravened s 45D(1) of the CCA, (serving the purpose of deterrence), will mark the Court’s disapproval of the conduct engaged in by the CFMEU, and will set out clearly the foundation for the pecuniary penalty.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 80,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Declarations"
+    ],
+    "text": "There was a dispute concerning the wording of the declarations that should be made by the Court. After discussion with Counsel representing the parties at the penalty hearing, no objection was made to the form of declarations finally made by the Court on 12 February 2018. The declarations identify the ‘gist’ of the factual findings of the Court without recording any impermissible summary: see the discussion of Perram J in Australian Competition and Consumer Commission v Unique International College (No 7) [2017] FCA 1289 at [19] to [22].",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 81,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "The ACCC sought the imposition of an injunction restraining the CFMEU for a period of five years from engaging in conduct in concert with any other person or persons that hinders or prevents another person acquiring goods or services from Boral and that is engaged in for the purpose, and would have or be likely to have the effect, of causing substantial loss or damage to the business of Boral.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 82,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "In deciding whether to grant injunctive relief, a relevant factor is whether the existing sanctions for the conduct to be the subject of the injunction require to be supplemented by the availability of the range of sanctions applicable to contempt of court. The ACCC submitted that injunctive relief was required because of the likelihood of repeated conduct and the potential for damage from repeated conduct. The only restraint sought related to Boral, and not to any other entity.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 83,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 at [88], Beach J surveyed the relevant authorities in relation to injunctions and distilled from them the following principles (which I adopt):\nFirst, injunctive relief will not automatically follow in the event of contravening conduct, and is only one weapon in the discretionary armoury;\nSecond, the likelihood of future contravention is an important relevant factor to be taken into account;\nThird, many contraventions will simply not justify injunctive relief, and it is for the applicant to demonstrate that the injunction sought will serve a purpose; and\nFourth, a declaration may achieve the same result sought to be achieved by an injunction, being the marking of the Court’s disapproval of a respondent’s conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 84,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146 at [111] the Full Court stated:\nMany contraventions simply will not justify injunctive relief. We doubt whether unintentional misconduct in contravention of s 52 would lead to such relief. An isolated intentional breach may also not warrant it. Conduct which occurred many years before the enforcement proceedings may not do so, especially if the offender has not recently infringed the law, or is no longer in a position where contravention is likely. These are obvious cases but they raise questions as to the relevant factors in considering whether to grant such relief. The discretion is at large. It is for the relevant applicant to demonstrate that the injunction will serve a purpose. That purpose may involve the protection of the public interest or private rights.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 85,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "I observe that it would be wrong to impose an injunction in order to punish perceived deliberate wrongdoing. Most relevantly in this proceeding, injunctive relief will not be granted where future contraventions (relating to Boral) are not likely.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 86,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Injunction"
+    ],
+    "text": "In light of the above observations, injunctive relief cannot be justified and is not appropriate. The events the subject of the two proven contraventions date back to around June 2013. The ACCC has not demonstrated that there is any real risk of future contraventions of s 45D(1) in the terms of the proposed injunction, limited as it is to Boral. The evidence is the Ban against Boral is no longer in existence. The Court has made declarations and has imposed a substantial penalty. I do not need to enter the debate about whether there are orders of the Supreme Court of Victoria that have been breached or are still extant. If I otherwise considered it appropriate to do so, I would have made an appropriate injunctive order even if an existing Supreme Court order covered similar conduct.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 87,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Compliance Program"
+    ],
+    "text": "Section 86C of the CCA also empowers the Court to order the CFMEU to implement a compliance program.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 88,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Compliance Program"
+    ],
+    "text": "In Australian Competition and Consumer Commission v 4WD Systems Pty Ltd [2003] FCA 850 at [214], Selway J saw no particular benefit or purpose in requiring the respondent to carry on a compliance program in the absence of some clear benefit that such a program might deliver in terms of future behaviour by the respondent. To do so, his Honour concluded, would be entirely punitive. Similarly, in Australian Competition and Consumer Commission v Z-Tek Computers Pty Ltd (1997) 78 FCR 197, Merkel J concluded that an order directing the implementation of a compliance program should relate to conduct which has a sufficient nexus or relationship to the actual or alleged contravention which has enlivened the jurisdiction of the Court.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 89,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Compliance Program"
+    ],
+    "text": "Therefore, there are some limits on what a court will order in considering a compliance program, including:\na court will be reluctant to order that a respondent undertake a compliance program where there is no clear benefit that might be delivered in terms of future behaviour by the respondent because this would amount to a punitive order;\nthe scope of any compliance program must be relevant to the contravention. That there must be a sufficient nexus between the conduct and the proposed order.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 90,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Compliance Program"
+    ],
+    "text": "I see a utility in a compliance program, if for no other reason than to keep in the minds of shop stewards the basic requirements of the law. I do not assume that all shop stewards would disobey the law if they became conversant with its requirements. A compliance program in the terms ordered will serve a useful purpose.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 91,
+    "headings": [
+     "PENALTY - APPLICATION OF PRINCIPLES",
+     "Compliance Program"
+    ],
+    "text": "There was debate at the penalty hearing concerning the form of a compliance program after I indicated I would be ordering such a program. In the end, the nature and extent of the compliance program finally ordered was not objected to by the parties.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 92,
+    "headings": [
+     "COSTS",
+     "Parties position"
+    ],
+    "text": "As indicated already, the question of costs was in dispute between the parties.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 93,
+    "headings": [
+     "COSTS",
+     "Parties position"
+    ],
+    "text": "The ACCC submitted in summary the following:\n• The ACCC was the successful party in this proceeding and costs should follow the event in the ordinary way. The ACCC had successfully established that the CFMEU contravened s 45D(1) of the CCA and the Court had made declarations of contravention and ordered the CFMEU to pay pecuniary penalties totalling $1 million.\n• The Court should order that the CFMEU pay all of the ACCC’s costs of and incidental to the proceeding. Contrary to the CFMEU’s argument, it is not necessary for the Court to make separate orders for costs reflecting the ACCC not succeeding on other claims for contravention of s 45D(1), as the issues and evidence in those claims substantially overlapped with the claims on which the ACCC succeeded.\n• Alternatively, if the Court was minded to make separate orders for costs reflecting the ACCC not succeeding on other claims for contravention of s 45D(1), the ACCC sought an order that the CFMEU pay at least 60% of its costs of and incidental to the proceeding. This proportion roughly reflected the number of witnesses who gave evidence at trial in support of the claims on which the ACCC succeeded and time spent at trial on matters common to all claims.\n• The ACCC’s entitlement to costs should not be affected by reason of its non-acceptance of the CFMEU’s Calderbank offer. The authorities show that the Court should be wary in applying the Calderbank principles to a regulator such as the ACCC in a civil penalty case in view of public interest the regulator serves. The CFMEU, as the party seeking a special costs order, had not in any event established that the ACCC’s conduct in rejecting the offer was unreasonable. Further, the ACCC made a reasonable counter-offer in response to the CFMEU’s Calderbank letter.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 94,
+    "headings": [
+     "COSTS",
+     "Parties position"
+    ],
+    "text": "The CFMEU submitted in summary the following:\n• The ACCC’s application for costs in its favour should be refused. The ACCC proceeded to trial alleging 13 contraventions of s 45D of the CCA, including 12 alleged site-specific contraventions and an “omnibus” claim, and it failed to establish all but two of the alleged contraventions.\n• The ACCC has not enjoyed substantial success in the proceeding. In addition, the ACCC unreasonably rejected a Calderbank offer made to it prior to trial which, had it been accepted, would have obviated the need for a trial altogether and resulted in the imposition of penalties substantially higher than it ultimately succeeded in achieving.\n• The CFMEU sought an order that the ACCC pay its costs on an indemnity basis on and from 26 September 2016, and that there otherwise be no order as to costs.\n• Alternatively, the CFMEU sought an order that the ACCC pay the CFMEU’s costs on an indemnity basis on and from 26 September 2016 and an order that the CFMEU pay only one quarter of the ACCC’s costs on the standard basis for the period up to 25 September 2016. The second limb of this order was intended to reflect the fact that ACCC succeeded at trial in relation to only two of the 12 separate contraventions alleged in its pleading.\n• As a further alternative, it was submitted that if the Court was against the CFMEU on the question of the rejection of the Calderbank offer serving to enliven its entitlement to indemnity costs, then there ought be no order as to costs. This outcome would be a fair one in light of the ACCC’s failure at trial with respect to 10 of the 12 allegations and its rejection of the offer which, had it been accepted, would have obviated the need for a trial altogether.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 95,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The Court’s discretionary power to award costs derives from s 43 of the FCAA.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 96,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The discretion conferred by s 43(2) is unfettered, save that it must be exercised judicially and not arbitrarily or capriciously.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 97,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The approach of awarding costs on an issues basis or otherwise apportioning costs is often applied in complex trials or those involving many issues in recognition of the demands of the community for greater economy and efficiency in the use of the Court’s resources. In Ruddock v Vadarlis (No 2) (2001) 115 FCR 229 (‘Ruddock’) Black CJ and French J (as he then was) said at [11]:\n• Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.\n• Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.\n• A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties’ costs of them. In this sense “issue” does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 98,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "In Queensland North Australia Pty Ltd v Takeovers Panel (No 2) [2015] FCAFC 128 after referring to Ruddock and The State of Victoria v Sportsbet Pty Ltd (No 2) [2012] FCAFC 174, the Full Court observed at [11]:\nThese decisions treat the success or failure of the relevant party as being the starting point in consideration of the question of costs. However they contemplate at least three distinct categories of situation in which a successful party might be deprived of costs, or even ordered to pay the costs of the other side. One such category is where the applicant has been only partially successful in that it has not obtained all of the relief sought. The second category is where a party has succeeded in obtaining the relief sought, but has not succeeded on all bases (factual or legal) upon which it sought such relief. Of course, it is possible that a particular outcome will fall into both categories. A third category involves consideration of the successful party’s conduct of the case.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 99,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "In considering the appropriate approach to costs in this process, the Court should have regard to s 37N(4) of the FCAA. Subject to later observations regarding the position of a regulator as a party to civil proceedings, this provision applies to the ACCC just like any other party to civil proceedings.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 100,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Section 37N(1) of the FCAA provides that the parties to a civil proceeding:\nmust conduct the proceeding (including negotiations for settlement of the dispute to which the proceeding relates) in a way that is consistent with the overarching purpose.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 101,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The overarching purpose is described in s 37M(1) as being to:\nfacilitate the just resolution of disputes: (a) according to law; and (b) as quickly, inexpensively and efficiently as possible.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 102,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Section 37M(2) provides that the overarching purpose includes the following objectives:\n(a) the just determination of all proceedings before the Court;\n(b) the efficient use of the judicial and administrative resources available for the purposes of the Court;\n(c) the efficient disposal of the Court’s overall caseload;\n(d) the disposal of all proceedings in a timely manner;\n(e) the resolution of disputes at a cost that is proportionate to the importance and complexity of the matters in dispute.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 103,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Section 37N(4) requires the Court to “take account of any failure to comply with the duty imposed by subsection (1) and (2)” in exercising the discretion to award costs. These provisions dictate that the way in which litigation is initiated and conducted must be taken into account by the Court in exercising its discretion on costs.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 104,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Generally speaking then, costs will follow the event subject to the various considerations mentioned above. Of course, it is necessary to identify “the event”. However, a party’s entitlement to receive costs or responsibility to pay them is first to be assessed by reference to a party’s success or failure in the litigation and a party’s conduct in or in connection with the litigation.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 105,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "It is also important to recall that an unsuccessful party is not automatically entitled to costs in respect of those issues of facts or law on which the successful party failed.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 106,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "In Dr Martens v Figgins Holdings (No 2) [2000] FCA 602, Goldberg J said at [54]:\nA court should be reluctant to embrace the proposition that, as a general rule, it is appropriate to undertake an enquiry as to who was successful in relation to particular issues in a case to determine whether there should be an apportionment of costs against a successful party. A court should not be too ready to disallow costs simply because a party has failed upon an issue, unless it be quite a separate and distinct issue from the issues in respect of which it succeeded or unless there be some element of unreasonableness or inappropriate conduct in relation to that issue…",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 107,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "If a successful party has caused a significant increase in the length or cost of proceedings by raising issues or making allegations on which he fails, then it may be deprived of the whole or part of its costs. However, a successful party who neither improperly nor unreasonably raises issues or makes allegations on which he fails ought not ordinarily be ordered to pay any part of the unsuccessful party’s costs.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 108,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "As to the Calderbank letter and the position of the CFMEU I make the following observations.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 109,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The conduct of a party in a proceeding may justify an order for indemnity costs, but not its conduct in refusing an offer of settlement if not acting imprudently or unreasonably at the time of the offer.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 110,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "The fact that the offer of settlement was itself reasonable does not necessarily mean that it was unreasonable to reject it. The burden is on the party seeking the special costs order to show that the conduct of the offeree was unreasonable.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 111,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Factors relevant to the exercise of discretion include the stage of the proceeding at which the offer was made, the time allowed for the offeree to consider the offer, the reasonableness of the offeree in rejecting the offer, and the content of any response of the offeree to the offer.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 112,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "If the settlement offer is to be effective, it should be couched in such terms as will enable the offeree to make a carefully considered comparison between the offer made and the ultimate relief it is seeking in all its aspects. Then, of course, the offer put must prove to be equal to or better than the party’s ultimate result at trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 113,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "Some different considerations apply to Calderbank offers made to regulators bringing a civil penalty proceeding. In Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860 at [12], Allsop CJ said:\nA rejection of an offer in a penalty case such as this brings with it considerations of public responsibility for the administration of an important piece of Commonwealth legislation that do not attend an offer in a civil suit.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 114,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844 at [24], Gray J also referred to particular considerations bearing upon the determination of applications for costs orders against the ACCC:\nThe ACCC is a statutory body, established by s 6A of the Trade Practices Act. … [T]he ACCC has cast upon it significant responsibilities on behalf of the public, to ensure as far as practicable that there is compliance with the provisions of the Trade Practices Act. When the ACCC has commenced and pursued a proceeding in respect of alleged contraventions of a provision of the Trade Practices Act, and there is no suggestion that it has acted with any ulterior motive, the Court should not be quick to award costs against it on anything other than the usual party-party basis when the ACCC has suffered a loss in the proceeding. Excessive readiness to force the ACCC to compensate the winning party to a greater extent than the normal party-party costs incurred might operate as a deterrent to the ACCC against bringing proceedings in the exercise of its public functions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 115,
+    "headings": [
+     "COSTS",
+     "The principles applicable"
+    ],
+    "text": "In Australian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd (No 2) [2009] FCA 433, Mansfield J said at [8] and [10]:\n[8] … The conduct complained of is likely to reflect not uncommon commercial advertising practices. Indeed Harris Scarfe disputed that its conduct in any respect contravened the TP Act. Moreover, the outcome of the proceeding indicates that in certain respects the conduct alleged did contravene the TP Act, and in other respects it did not. There is an important role for public awareness and education from a determination about the lawfulness of the conduct engaged in by Harris Scarfe.\n…\n[10] The relevant principles for the exercise of the Court’s discretion as to costs, in the light of a Calderbank offer, are well-known. The public interest is in the sensible and just compromise of disputes where that is appropriate. That is so whether the parties in dispute are private citizens or governmental instrumentalities. There may be circumstances where compromise is not appropriate, having regard to the nature of the allegations made. For instance, in the face of an allegation of serious fraud or dishonesty, a party may properly seek the vindication which a favourable court determination will recognise. Much depends on the particular circumstances. There may be circumstances, in the case of a public regulator such as the ACCC, where the particular issues are of such importance that it is proper to seek a judicial determination of them. Such cases will necessarily not be common. The ACCC is, like any other party, obliged to seek sensible resolution of disputes: see eg per Dowsett J in Australian Competition and Consumer Commission v Danoz Direct Pty Ltd [2003] FCA 1580 at [6]-[9].",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 116,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The ACCC was the successful party, in that the Court made declarations of contraventions and ordered the CFMEU to pay civil penalties totalling $1 million and to implement a compliance program with respect to the training of shop stewards in compliance with s 45D.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 117,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "However, this is a proceeding where there were separate and distinct issues of fact relating to separate sites, which can be identified.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 118,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Having said this, there was also overlap of the issues relevant to the unsuccessful claims and the claims in respect of the Hawthorn and Richmond sites, where the ACCC has been successful. There were common factual elements in all of the claims that:\nthe CFMEU introduced the Ban Against Boral;\nit was intended and expected by the CFMEU that the Ban Against Boral would be implemented by shop stewards until further notice and shop stewards understood that they were required to implement the Ban Against Boral without further notice; and\na purpose of the Ban Against Boral was to cause substantial loss and damage, and that conduct was likely to have the effect of causing substantial loss and damage to the business of Boral.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 119,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Further, evidence adduced by the witnesses on other sites was relied on to establish the common elements referred to above in addition to implementation. In particular, at [94] and [117] – [118] of the primary reasons, the Court held that the evidence of “ban related representations” at other sites was relevant and admissible against the CFMEU to assist in proving the ACCC’s case as to the implementation and purpose of the Ban Against Boral, including in respect of the Hawthorn and Richmond sites.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 120,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "I accept that the Amended Statement of Claim alleged 13 separate contraventions of s 45D, and of the 11 claims remaining by the time of closing submissions, the ACCC succeeded in respect of only two. Whilst each claim had as the important element the issuing of the Ban against Boral in March 2013, each was a distinct allegation with respect to which contravening conduct in the nature of implementation by a shop steward had to be proven by the ACCC.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 121,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The CFMEU provided an analysis of the witnesses presented to the Court. It was submitted that 12 out of the 18 witnesses (or two thirds) called by the ACCC gave evidence in respect of sites upon which the ACCC failed to prove its case. When the witnesses called by the CFMEU were added, it was submitted that 16 out of 23 (70%) gave evidence solely in relation to sites in respect of which the ACCC failed to prove the contraventions alleged.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 122,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "However, I do not consider that the approach to costs should be viewed in this fashion. As I have said, each of the pleaded causes of action had as a common element: the need to establish the Ban Against Boral, and all of the shop steward witnesses were required to give evidence in relation to this issue. I agree that much of the evidence given by the shop stewards (and all but two of the other witnesses) was given in relation to the 12 specific sites, and this requires consideration as to the time of the Court wasted on this exercise to the extent only site specific aspects were covered by this evidence.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 123,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Before going any further I will look at the Calderbank offer made on 20 September 2016 by the CFMEU.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 124,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The offer was expressed to remain open until 26 September 2016. The trial was listed to commence on 3 October 2016.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 125,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "In its Calderbank offer, the CFMEU proposed a number of items with respect to which the ACCC has in fact achieved an unfavourable result in comparison to the offer. The principal elements of the offer were as follows:\nThe CFMEU agreed to submit to the imposition of a penalty of $3 million in total in respect of 12 contraventions ($300,000.00 for each of the eight alleged contraventions of s 45D, and $150,000.00 for each of the four alleged attempted contraventions of s 45D);\nAn injunction restraining the CFMEU for five years from hindering or preventing Boral from supplying concrete;\nDeclarations with respect to 12 alleged contraventions and attempted contraventions;\nThe CFMEU would pay the ACCC’s costs on a standard basis; and\nAgreement to a detailed s 191 Statement.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 126,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "By going to judgment, the following occurred:\nThe ACCC succeeded in establishing contraventions at only two out of the 12 sites;\nA penalty of $1 million - one third of the amount which the union had offered to pay - was imposed by the Court on 12 February 2018;\nThe Court declined to grant an injunction; and\nDeclarations have been made in relation to only two of the 12 alleged contraventions.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 127,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The offer embodied in the Calderbank offer was made on the condition that the Court would be jointly approached to make a suppression order set out to operate until the conclusion of the criminal proceedings. The Calderbank letter explained that the very substantial overlap between this proceeding and the criminal proceedings which were on foot was the reason why the suppression order would be sought. In the Calderbank letter, the CFMEU also pointed out certain weaknesses in the ACCC’s case.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 128,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "As history shows, the ACCC rejected the CFMEU’s offer and elected to proceed to trial. Substantial Court time and costs would have been avoided had the ACCC accepted the CFMEU’s Calderbank offer.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 129,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Whilst the ACCC has significant responsibility to administer and ensure as far as practicable that there is compliance with the provisions of the CCA in the public interest, it was still under a responsibility to seek a sensible resolution to the dispute and was subject to the obligations enshrined in the FCAA to which I have referred.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 130,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The offer contained in the Calderbank letter was contingent on the parties making joint application to the Court for orders suppressing publication of the settlement (other than a limited disclosure) and the Court making such orders. However, as the ACCC also pointed out in its response, the proposed limited disclosure may have been misleading to the public, merely recording that the litigation had “concluded”.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 131,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "The ACCC made a counter-offer in its response seeking to resolve the proceeding on the basis that the CFMEU pay the same proposed penalty and make the same proposed admissions. The ACCC’s counter-offer was not contingent on suppression orders and provided for the CFMEU alone to make an application for suppression orders and for the limited public disclosure to state that the Court had made declarations of contravention and ordered a penalty of $3 million (subject to the Court’s orders). The CFMEU did not accept this counter-offer. I consider the counter offer was an appropriate response, and the ACCC did not on this basis unreasonably reject the offer. Whilst the Court did after argument make a suppression order, it was not on the basis that the public would not have some understanding of the litigation and the result.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 132,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "In addition, as the ACCC also pointed out in its response, the proposed statement of agreed facts did not contain all necessary material which would have needed to be before the Court on the question of the agreed relief. I accept that in circumstances where the offer was made so close to trial, there was a real risk of there being insufficient time to seek to agree such matters prior to trial.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 133,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Further, there is another matter to consider in relation to the Calderbank offer. This was a proceeding in which the ACCC needed to prove certain matters by viva voce evidence from various witnesses it did not control, or have the benefit of their co-operation. Putting aside the information obtained through its coercive powers, the ACCC was required to call witnesses whose evidence may or may not have been accepted, and to call witnesses who may have been expected to be unfavourable. In the context of the ACCC’s public responsibility, it was not unreasonable for the ACCC to reject the offer at the time it was made so close to the trial and proceed to a hearing. The issue of the implementation of the Ban against Boral at the various sites was fact specific, and depended on the consideration of the events described by various witnesses and issues of credibility. I do not consider that in these circumstances it was unreasonable for the ACCC to reject the offer at the time it was made.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 134,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "I now return to consider the issue of costs more broadly.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 135,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "Any order should reflect the fact that not only did the ACCC fail on 10 out of its 12 pleaded causes of action, but the CFMEU succeeded on those 10 claims.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 136,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "As already alluded to, a successful party who has failed on certain issues may not only be deprived of the costs of those issues, but may be ordered as well to pay the other party’s costs of them. Rather than making separate costs orders in favour of the first respondent to reflect the significant costs incurred in successfully defending 10 of the allegations relating to the various sites it is appropriate in the exercise of the Court’s discretion to apply a total reduction to any costs which might otherwise be awarded in favour of the ACCC in respect of the two claims upon which it succeeded.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 137,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "However, as alluded to, part of the difficulty in the apportionment of costs in this proceeding arises because of the overlap between the evidence of the Ban Against Boral and the evidence of the implementation at each site. Each party put forward an analysis of the evidence relevant to each separate site, which I have used as a guide.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 138,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "There is no precise mathematical way to determine this issue, but I proceed on the basis that the ACCC was successful on proving the Ban Against Boral, contraventions in relation to two sites and some of the evidence referable to the other sites was relevant to the introduction and implementation at the two sites of Ban Against Boral. As best I can, I would allocate about 70% of the costs in favour of the ACCC. Then the CFMEU was otherwise successful in defending most of the sites in contention in various ways (which did not involve the overlap of evidence I have explained), and needed to expend costs in that defence. As a matter of assessment, it seems to me fair and reasonable to deduct 30% of the costs otherwise allocated to the ACCC, so as to reduce the ACCC’s entitlement to costs as the successful party in the litigation. This is done to avoid complexities in taxation, and by making the assumption that the costs of each party are not too dissimilar.",
+    "judge": "MIDDLETON J"
+   },
+   {
+    "n": 139,
+    "headings": [
+     "COSTS",
+     "Application of principles"
+    ],
+    "text": "I will order that the CFMEU pay to the ACCC 40% of the ACCC’s costs of and in connection with the proceeding, to be paid on a party/party basis.",
+    "judge": "MIDDLETON J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding one hundred and thirty-nine (139) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.",
+ "associate": null,
+ "dated": "2018-06-01",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 4) [2018] FCA 684\n\n## Cover sheet\n\n**File number:** VID 698 of 2014\n\n**Judge:** MIDDLETON J\n\n**Date of judgment:** 1 June 2018\n\n**Catchwords:** COMPETITION – secondary boycott – pecuniary penalties – course of conduct and totality principles – relevance to penalty of actual loss and damage occurring in secondary boycott – injunctions – compliance program – form of declarations  \nCOSTS – Calderbank offer – relevant factors – special consideration of regulator’s role  \nCOSTS – apportionment of costs\n\n**Legislation:** Fair Work Act 2009 (Cth)  \nTrade Practices Act 1974 (Cth)\n\n**Cases cited:** Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) [2010] FCA 977; (2010) 199 IR 373  \nAustralian Competition and Consumer Commission v 4WD Systems Pty Ltd [2003] FCA 850  \nAustralian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 145 ALR 36  \nAustralian Competition and Consumer Commission v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2004] FCA 517  \nAustralian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860  \nAustralian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159  \nAustralian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146  \nAustralian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd (No 2) [2009] FCA 433  \nAustralian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698  \nAustralian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844  \nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181  \nAustralian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (No 7) [2016] FCA 424  \nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730  \nAustralian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191  \nAustralian Competition and Consumer Commission v Unique International College (No 7) [2017] FCA 1289  \nAustralian Competition and Consumer Commission v Yazaki Corporation [2018] FCAFC 73  \nAustralian Competition and Consumer Commission v Z-Tek Computers Pty Ltd (1997) 78 FCR 197  \nAustralian Ophthalmic Supplies Pty Ltd v McAlary-Smith [2008] FCAFC 8, (2008) 165 FCR 560  \nConstruction, Forestry, Mining and Energy Union v Cahill (2010) 194 IR 461  \nDr Martens v Figgins Holdings (No 2) [2000] FCA 602  \nGrocon Constructors (Victoria) Pty Ltd v The Construction, Forestry, Mining and Energy Union (No 2) [2014] VSC 134  \nMarkarian v The Queen [2005] HCA 25  \nMcDonald v R (1994) 48 FCR 555  \nQueensland North Australia Pty Ltd v Takeovers Panel (No 2) [2015] FCAFC 128  \nRuddock v Vadarlis (No 2) (2001) 115 FCR 229  \nThe State of Victoria v Sportsbet Pty Ltd (No 2) [2012] FCAFC 174  \nTrade Practices Commission v CSR Limited (1991) ATPR 41-076  \nVeen v The Queen (No 2) (1988) 164 CLR 465  \nWeininger v The Queen; (2003) 212 CLR 629\n\n**Date of hearing:** 12 February 2018\n\n**Date of last submissions:** 2 March 2018\n\n**Registry:** Victoria\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 139\n\n**Counsel for the Applicant:** Mr P D Crutchfield QC with Mr N P De Young\n\n**Solicitor for the Applicant:** DLA Piper Australia\n\n**Counsel for the Respondents:** Ms R M Doyle SC with Mr J R Gurr\n\n**Solicitor for the Respondents:** Slater and Gordon Lawyers\n\n**4 June 2018:** Before Order 1, the definitions have been removed.\n\n## Judgment\n\n### ORDERS\n\n|  | VID 698 of 2014 |\n|---|---|\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n| AND: | THE CONSTRUCTION, FORESTRY, MINING AND ENERGY UNION<br>First Respondent<br>JOHN SETKA<br>Second Respondent<br>SHAUN MICHAEL REARDON<br>Third Respondent |\n\n| JUDGE: | MIDDLETON J |\n|---|---|\n| DATE OF ORDER: | 1 JUNE 2018 |\n\n### THE COURT ORDERS THAT:\n\n1. The CFMEU pay to the ACCC 40% of the ACCC’s costs of and in connection with the proceedings, to be paid on a party/party basis.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### MIDDLETON J:\n\n### INTRODUCTION\n\n[1] On 12 February 2018, the Court made the following declarations and orders:\n\n> In these orders the following definitions apply:\n\n> Alsafe means Alsafe Premix Concrete Pty Ltd ACN 003 290 999;\n\n> Ban Against Boral means the instruction the CFMEU gave at the Trades Hall meeting in March 2013 to the Shop Stewards and the CFMEU organisers not to allow Boral to supply concrete to commercial construction sites in metropolitan Melbourne;\n\n> Boral means Boral Resources and/or Alsafe;\n\n> Boral Resources means Boral Resources (Vic.) Pty Ltd ACN 004 620 731;\n\n> Hawthorn Site means the construction site for the Hawthorn Aquatic Centre in Hawthorn;\n\n> Oceania means Oceania Universal Paving Australia Pty Ltd ACN 005 882 191;\n\n> Richmond Site means the construction site for an office block in Church Street, Richmond;\n\n> S & A Paving means S & A Paving Pty Ltd ACN 006 768 798;\n\n> Shop Steward means, in respect of each construction site at which CFMEU members are engaged, a person appointed to fulfil the role of, or to otherwise act as, a “shop steward”, “job steward” or “union delegate” for that site.\n\n> THE COURT DECLARES THAT:\n\n> (1) In respect of the Hawthorn Site, between about March and June 2013, with and following the Ban Against Boral, the First Respondent (‘the CFMEU’) engaged in conduct in concert with a Shop Steward which hindered or prevented the acquisition of concrete by S & A Paving from Alsafe (a Boral subsidiary) for the purpose of causing substantial loss or damage to the business of Boral, being conduct which was likely to have the effect of causing substantial loss or damage to the business of Boral, in contravention of s 45D(1) of the Competition and Consumer Act 2010 (Cth) (‘the Act’).\n\n> (2) In respect of the Richmond Site, between about March and April 2013, with and following the Ban Against Boral, the CFMEU engaged in conduct in concert with a Shop Steward which hindered or prevented the acquisition of concrete by Oceania from Boral for the purpose of causing substantial loss or damage to the business of Boral, being conduct which was likely to have the effect of causing substantial loss or damage to the business of Boral, in contravention of s 45D(1) of the Act.\n\n> THE COURT ORDERS THAT:\n\n> (1) The CFMEU pay to the Commonwealth a penalty in the sum of $500,000 in respect of each contravention, being $1,000,000 in the aggregate.\n\n> (2) The CFMEU:\n\n> (2.1) include in each of its courses it provides for Shop Stewards (known as the Delegates Course) in Victoria from 30 March 2018 a practical training session on the requirements of section 45D of the Act for a period of five years from the date of this order; and\n\n> (2.2) ensure that each training session is conducted by a suitably qualified training professional.\n\n> (3) Subject to further order, the non-publication and suppression orders made by the Court on 9 November 2017 remain in force, and operate until the conclusion of the criminal proceedings against the individual respondents or until 31 December 2018, whichever is the later in time.\n\n> (4) Pursuant to section 37AG of the Federal Court of Australia Act 1976 (Cth) the Court makes the following suppression orders on the ground that the orders are necessary to prevent prejudice to the proper administration of justice:\n\n> (4.1) Any published version of the Court’s orders will be redacted in the manner to omit non – publishable materials; and\n\n> (4.2) No person may disclose by publication or otherwise the information in the redacted paragraphs of the Court’s orders.\n\n> (5) Subject to further order, Order 4 shall operate until the conclusion of the criminal proceedings against the individual respondents or until 31 December 2018, whichever is the later in time.\n\n> (6) The matter is adjourned for a further hearing as to costs.\n\n> (7) The CFMEU, on or before 4.00 pm on 19 February 2018, file and serve any written submissions (including any letters) as to costs.\n\n> (8) The ACCC, on or before 4.00 pm on 26 February 2018, file and serve any submissions as to costs.\n\n> (9) The CFMEU, on or before 4.00 pm on 2 March 2018, file and serve any reply submissions.\n\n> (10) The Court will determine the question of costs on the papers subject to any other order.\n\n[2] These reasons concern the orders already made by the Court and the outstanding issue of costs (which issue is determined on the papers). These reasons are to be read in conjunction with the primary reasons concerning liability: Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union (No 2) [2017] FCA 1191 (‘ACCC v CFMEU’). The terms used in the primary reasons are adopted in these reasons.\n\n[3] In ACCC v CFMEU, the Court found, inter alia, that:\n\nat a shop steward’s meeting held on 14 March 2013 there was a communication made by the executives of CFMEU intended by them to be followed by shop stewards present at that meeting (and any other shop steward who became aware of the communication) that the shop stewards needed to stop Boral trucks from going on site and supplying concrete. This would include the conduct of hindering by the action of slow safety checks or the threat of such conduct being communicated to a Boral customer;\n\nthe Ban Against Boral was intended by the CFMEU to be an instruction to shop stewards, in the sense that it was expected by the CFMEU that the Ban Against Boral would be implemented to the extent possible by each shop steward at the relevant construction site until further notice. The communication was received and accepted by shop stewards as instructions that they were required to implement. In this way, there was a meeting of minds by each relevant shop steward with the CFMEU;\n\nshop stewards implemented the Ban Against Boral at the Hawthorn and Richmond sites in the manner alleged by the ACCC. A purpose of the conduct engaged in by the CFMEU and each relevant shop steward was to cause substantial loss and damage, and that conduct was likely to have the effect of causing substantial loss and damage to the business of Boral; and\n\nthe CFMEU contravened s 45D(1) of the CCA on two occasions, namely in respect of the Hawthorn and Richmond sites.\n\n### SUMMARY OF THE POSITION OF THE PARTIES\n\n[4] The ACCC sought the relief contained in a proposed form of orders for:\n\ndeclarations pursuant to s 21 of the FCAA;\n\ninjunctive relief pursuant to s 80 of the CCA against the CFMEU;\n\na pecuniary penalty pursuant to s 76(1A)(a) of the CCA for the CFMEU in an amount to be determined by the Court;\n\nan order pursuant to s 86C of the CCA requiring the CFMEU to implement a compliance program; and\n\nan order for costs pursuant to s 43 of the FCAA against the CFMEU.\n\n[5] The main dispute between the parties on the appropriate orders in the end concerned the penalty and the issue of costs. I will deal first with the issue of penalty, and return to the other orders (including costs) later.\n\n[6] In summary, the ACCC submitted that a penalty of $1.5 million (being the total of the statutory maxima for the two contraventions) was appropriate to achieve specific and general deterrence, having regard to the following matters:\n\nthe contravening conduct was very serious;\n\nthe contravening conduct was intended to cause substantial loss and damage;\n\nthe contravening conduct was deliberate;\n\nthe contraventions arose out of the conduct of senior executives of the CFMEU;\n\nthe CFMEU has previously been found to have engaged in similar conduct; and\n\nthe CFMEU demonstrated no contrition and has not cooperated.\n\n[7] The CFMEU submitted that:\n\nThe ACCC’s submission that two separate penalties ought be imposed, both fixed at the level of the statutory maximum, ought be rejected. The nature and consequences of the offending do not justify the imposition of two maximum penalties;\n\nThe two contraventions found proven by the Court ought be treated as arising out of a single course of conduct, by reason of the legal and factual interrelationship between them.\n\n[8] The CFMEU submitted that none of these matters relied upon by the ACCC in light of the Court’s findings, either alone or taken together, was capable of justifying the imposition of the maximum penalty for the two contraventions. It submitted that the maximum penalty was to be reserved for the “worst possible case”. Consequently, absent a conclusion by the Court that the conduct of the CFMEU was the “worst possible case” of offending under s 45D of the CCA, it was not appropriate to apply the maximum penalty, and the findings and the evidence did not support such a conclusion.\n\n[9] It was submitted that in order for the Court to be able to take financial loss into account for the purpose of assessing penalty, there must be evidence to support a specific finding as to the quantum of loss and damage actually suffered. No evidence was led directly as to the extent to which Boral would or did lose market share, or to seek to quantify in monetary terms this loss.\n\n[10] It was submitted that the only evidence of business disruption to Boral proven to have flowed from the two contraventions demonstrated that modest volumes of concrete were not supplied at two sites. These were said to be isolated events, as the evidence was that S & A Paving (the contractor at Hawthorn) and Oceania (the contractor at Richmond) continued to purchase concrete from Boral in the months that followed the contraventions.\n\n[11] It was also submitted that the Court should be mindful in the exercise of the sentencing discretion that it is penalising the contravening conduct, and not the underlying intention. It was submitted that whilst it may have been intended that the Ban Against Boral instruction was to have a broader effect than merely at the Hawthorn Site and the Richmond Site, it was only by reference to the contraventions found proven with respect to those two sites that the penalty is to be fixed. In other words, it was submitted that the CFMEU was to be punished for the fact that it acted in contravention of s 45D at the Hawthorn Site and the Richmond Site, and not for the fact that in communicating the Ban Against Boral it intended for the Ban to have a broader effect. It was said by the CFMEU that in and of itself, the communication of the Ban Against Boral did not give rise to a contravention of s 45D, and it was accordingly not the touchstone for the assessment of penalty.\n\n[12] As to past conduct, the CFMEU accepted that the principles applicable to the treatment of relevant prior conduct in the exercise of the sentencing discretion were summarised by Barker J in Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) (2010) 199 IR 373. They include, relevantly:\n\nSimilar prior relevant conduct may be taken into account in assessing penalty, however it cannot be given such weight as to lead to the imposition of a penalty that is disproportionate to the gravity of the instant contravention;\n\nSimilar previous conduct may demonstrate that a respondent has a history of engaging in the particular conduct in question, and that the penalties previously imposed were insufficient to act as a specific deterrent; and\n\nA respondent is not to be punished again for the prior conduct.\n\n[13] The CFMEU submitted that the ACCC had identified only one prior contravention of s 45D by the union: Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730. However, it was submitted that by reason of the fact that this contravention arose out of the conduct of officials of the Western Australian branch of the CFMEU, an autonomous state branch, and occurred in 2004, some nine years prior to the events the subject of this proceeding, it should be accorded less weight than might otherwise be the case.\n\n[14] The CFMEU submitted that the decision in Grocon Constructors (Victoria) Pty Ltd v The Construction, Forestry, Mining and Energy Union (No 2) [2014] VSC 134 does not constitute a relevant prior contravention. The conduct in question took place in August to September 2012. The findings of contempt were made by the Court on 24 May 2013 (see [2013] VSC 275), and the penalties were not imposed until 31 March 2014 (see [2014] VSC 134). In those circumstances, the contempt convictions were not strictly treated as prior contraventions, though the conduct to which they relate may be relevant in a broader sense. While it was accepted by the CFMEU that the Grocon contempt matters were not irrelevant to the exercise of the sentencing discretion, it was submitted that the weight to be given to this matter depended on an assessment of all the circumstances.\n\n[15] The CFMEU also submitted that it was not aware of any cases concerning contraventions of s 45D(1) which provide a direct analogy with the conduct at issue in this proceeding. It submitted that some similarities were apparent in the following two decisions which concerned union conduct:\n\nIn Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730, a penalty of $50,000 was imposed with respect to a s 45D contravention, where the union had consented to a finding of contravention. The circumstances involved an 18 minute interruption to a concrete pour. The Court reduced the penalty in light of factors including the fact that the CFMEU had not engaged in the conduct for financial gain; and\n\nIn Australian Competition and Consumer Commission v Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union [2004] FCA 517, the parties agreed that the Court ought impose a $100,000 penalty for a s 45D contravention following a one month picket.\n\n[16] It was also submitted by the CFMEU that the ACCC ought not be permitted to “have it both ways”. It was said that the ACCC asserted on the one hand that the two contraventions in this proceeding were so separate and distinct in nature that they ought to attract separate (maximum) penalties. Yet, it was observed by the CFMEU, that the ACCC also submitted that the Ban Against Boral was not just intended to be implemented at one site but was “extensive in nature” and was intended to be “implemented across metropolitan Melbourne”.\n\n[17] The CFMEU also submitted that if the Court was not inclined to apply the “one transaction” rule, then it was submitted that care ought be taken to distinguish between the different consequences of the contravening conduct at the two sites. It was submitted that the very small volume of concrete not supplied by Alsafe at the Hawthorn site to S & A Paving requires the imposition of a lower penalty than that which might be appropriate with contravening conduct at the Richmond site. In contrast, by reason of the fact that Boral lost a greater volume of concrete vis a vis the Richmond site (approximately 5,000 cubic metres) it was accepted that it may be appropriate for the Court to impose a higher penalty with respect to that contravention.\n\n[18] It was submitted that it would be appropriate to treat the two contraventions as arising out of a single course of conduct, and to impose a single penalty of about $400,000. In the alternative, it was submitted by the CFMEU that the Court may regard it as appropriate to impose a penalty in the order of about one quarter of the maximum with respect to the contravention at the Hawthorn Site ($190,000) and a penalty of about one third of the maximum with respect to the Richmond Site ($250,000). This would give rise to an aggregate penalty of about $440,000.00. Any other penalty, it was submitted, would offend the totality principle.\n\n### A BRIEF SUMMARY OF THE TRIAL RESULT\n\n[19] The following briefly describes the result at trial, but the only complete description of the circumstances of the contraventions is to be found in the primary reasons concerning liability.\n\n[20] During the course of the hearing, allegations in respect of one site (Flinders Street) were abandoned, and ultimately the “omnibus” allegation was not seriously pressed. Of the 11 remaining site-specific contraventions alleged by the ACCC, eight of those related to the conduct of the CFMEU and a relevant shop steward or organiser, while the remaining three allegations related to attempted conduct of the CFMEU.\n\n[21] The Court found in favour of the ACCC in respect of two of the eight conduct allegations. The remaining conduct allegations, and all of the attempt allegations, were dismissed.\n\n[22] There was always the question whether any particular Shop Steward had in fact implemented the Ban against Boral at any of the sites alleged. This question gave rise to different answers at each of the sites. The Court found contraventions of s 45D(1) had in fact occurred by reason of conduct implementing the Ban Against Boral at only two sites.\n\n[23] In relation to the Hawthorn Site, it is to be kept in mind that:\n\nThe contravention related to the non-supply by Alsafe of at least 72 cubic metres of concrete to S & A Paving, between 8 April 2013 and 14 June 2013;\n\nS & A Paving were using Alsafe as concrete supplier on the Hawthorn Aquatic Centre;\n\nS & A Paving reverted to using Holcim, who had previously been their supplier;\n\nThe safety checks undertaken by Mr Thomas at the site were performed for a legitimate purpose, and that Mr Thomas did not use the check lists as a ruse to stop or delay Boral trucks coming onto the site. No Boral truck was turned away; and\n\nThe essence of the contravention was a statement by Mr Thomas that he would have to “check the trucks” if S & A Paving used Alsafe. This constituted the threat of using safety checks to hinder the supply of concrete by Boral.\n\n[24] As to the Richmond Site, it is to be kept in mind that:\n\nThe Richmond Site was an office building where the head contactor was Hacer. Oceania was subcontracted to do foundations, groundwork, concrete and reinforcement works. Oceania were using Boral as their supplier;\n\nFor a short period of time after Mr Scott conveyed a message to Oceania representatives to the effect that it would be desirous not to use Boral, Oceania continued to order its concrete from Boral, but that concrete was delivered by arrangement with Boral in Holcim and Hanson trucks. Thereafter, however, Oceania switched suppliers to Holcim and bought directly from Holcim for a period of time. That occurred as a consequence of the message conveyed by Mr Scott to Oceania;\n\nThe volume of concrete which was not supplied by Boral to Oceania (ie that which was ultimately supplied by Holcim instead) was approximately 5,009.1 cubic metres.\n\nNo Boral trucks were delayed or turned away from Richmond;\n\nMr Scott was not completing safety checklists as some kind of cover for the implementation of a ban; and\n\nAfter attending the March meeting, Mr Scott was aware of the Ban Against Boral and he conveyed a message to Oceania representatives to the effect that it would be ‘desirous not to use Boral.’ As a consequence, Oceania switched suppliers for the Richmond Site.”\n\n[25] It can be accepted that the volumes of concrete not supplied as a result of the contravening conduct by Boral (or its subsidiary Alsafe) to the Richmond and Hawthorn sites were modest. Further, there was no picket or physical obstruction at the Richmond or Hawthorn sites (or at any of the sites to which Boral intended to deliver or did deliver concrete which were the subject of allegations in this proceeding). There was also evidence that S & A Paving and Oceania, who were impacted by the contravening conduct, returned to Boral and continued to do business with them after a brief hiatus.\n\n[26] However, as mentioned in [3] above, the Ban Against Boral was made by the CFMEU and communicated to shop stewards with its intended consequences.\n\n### PENALTY – APPLICABLE PRINCIPLES\n\n[27] The Court’s power to impose a pecuniary penalty is governed by s 76 of the CCA.\n\n[28] Under s 76(1), the Court may order a person who has contravened a provision of Pt IV (relevantly including s 45D) to pay such pecuniary penalty, in respect of each act or omission by the person, as the Court determines to be appropriate.\n\n[29] Section 76(1) of the CCA provides that, in determining the appropriate pecuniary penalty, the Court must have regard to all relevant matters including:\n\nthe nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;\n\nthe circumstances in which the act or omission took place; and\n\nwhether the person has previously been found by the Court in proceedings under Pt VI or Pt XIB of the CCA to have engaged in any similar conduct.\n\n[30] Section 76(1A) provides that the maximum penalty for a body corporate for each act or omission to which s 76 applies that relates to s 45D of the CCA is not to exceed $750,000.\n\n[31] The Court has long regarded deterrence (both specific and general) as the primary objective of imposing penalties under the CCA.\n\n[32] As noted above, s 76(1) sets out mandatory factors to be considered by the Court in determining the appropriate penalty.\n\n[33] In Trade Practices Commission v CSR Limited (1991) ATPR 41-076, French J (as he then was) identified the following considerations relevant to the assessment of a pecuniary penalty under s 76:\n\nthe nature and extent of the contravening conduct;\n\nthe amount of loss or damage caused;\n\nthe circumstances in which the conduct took place;\n\nthe size of the contravening company;\n\nthe degree of power it has, as evidenced by its market share and ease of entry into the market;\n\nthe deliberateness of the contravention and the period over which it extended;\n\nwhether the contravention arose out of the conduct of senior management or at a lower level;\n\nwhether the company has a corporate culture conducive to compliance with the relevant legislation as evidenced by educational programs and disciplinary or other corrective measures in response to an acknowledged contravention; and\n\nwhether the company has shown a disposition to cooperate with the authorities responsible for the enforcement of the relevant legislation in relation to the contravention.\n\n[34] Those considerations have been adopted in many subsequent cases, and if not expressly mentioned, include whether the respondent has engaged in similar conduct in the past, the respondent’s financial position, and whether the conduct was systematic, deliberate or covert.\n\n[35] The Court is to determine a penalty which is proportionate to the contravening conduct and the contravener’s circumstances by a process of instinctive synthesis after taking into account all relevant factors: see for example Australian Ophthalmic Supplies Pty Ltd v McAlary-Smith [2008] FCAFC 8, (2008) 165 FCR 560 at [27], [55]; Markarian v The Queen [2005] HCA 25, (2005) 228 CLR 357 at [37], [39].\n\n[36] In relation to previous conduct, the High Court addressed the significance of a previous record in Weininger v The Queen; (2003) 212 CLR 629 at [32]. The plurality said:\n\n> … A person who has been convicted of, or admits to, the commission of other offences will, all other things being equal, ordinarily receive a heavier sentence than a person who has previously led a blameless life. Imposing a sentence heavier than otherwise would have been passed is not to sentence the first person again for offences of which he or she was earlier convicted or to sentence that offender for the offences admitted but not charged. It is to do no more than give effect to the well-established principle (in this case established by statute) that the character and antecedents of the offender are, to the extent that they are relevant and known to the sentencing court, to be taken into account in fixing the sentence to be passed. Taking all aspects, both positive and negative, of an offender’s known character and antecedents into account in sentencing for an offence is not to punish the offender again for those earlier matters; it is to take proper account of matters which are relevant to fixing the sentence under consideration.\n\n[37] Not all prior offending will necessarily be relevant, at all, or in the same way, to the Court’s task of sentencing. Much will depend on the nature of the prior offending, the time when the prior offending occurred and the circumstances in which it occurred. Therefore, previous offending of a generally similar kind will be particularly relevant, but even conduct of that kind may lose its significance if it occurred at a time well-distant from the current offending.\n\n[38] This is not to say previous offences of a different character may not be relevant to sentencing. Depending upon the circumstances, a history of previous convictions may indicate an attitude of defiance of, or indifference to, compliance with the law.\n\n[39] These principles, although developed in relation to the sentencing of criminal offences, are apposite to the fixation of penalties for contraventions of the present kind.\n\n[40] As mentioned already by reference to the submissions of the CFMEU, in Australian Building and Construction Commissioner v The Construction, Forestry, Mining and Energy Union (No 2) [2010] FCA 977; (2010) 199 IR 373 at [47], Barker J summarised several of the principles regarding the significance of previous contraventions to the imposition of penalty, which to the extent I have referred to above at [12] I adopt.\n\n[41] Then it is to be recalled that in determining the appropriate penalty for a multiplicity of civil penalty contraventions, the Court has had regard to two related principles that originate in the criminal law: the “course of conduct” or “one transaction” principle and the “totality” principle. They are not rules, but principles or tools to assist the Court in arriving at an appropriate penalty. It is not appropriate to treat multiple contraventions as just one contravention for the purposes of determining the maximum limit dictated by the relevant legislation.\n\n[42] As observed recently by Beach J in Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 at [24] – [25]:\n\n> … the “course of conduct” principle does not have paramountcy in the process of assessing an appropriate penalty. It cannot of itself operate as a de facto limit on the penalty to be imposed for contraventions of the ACL. Further, its application and utility must be tailored to the circumstances. In some cases, the contravening conduct may involve many acts of contravention that affect a very large number of consumers and a large monetary value of commerce, but the conduct might be characterised as involving a single course of conduct. Contrastingly, in other cases, there may be a small number of contraventions, affecting few consumers and having small commercial significance, but the conduct might be characterised as involving several separate courses of conduct. It might be anomalous to apply the concept to the former scenario, yet be precluded from applying it to the latter scenario. The ‘course of conduct’ principle cannot unduly fetter the proper application of s 224. (emphasis and footnotes removed)\n\n[43] This statement was approved by the Full Court in Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd [2016] FCAFC 181 (‘Reckitt’) at [141] per Jagot, Yates and Bromwich JJ and in Australian Competition and Consumer Commission v Cement Australia Pty Ltd [2017] FCAFC 159 at [425] and [426] per Middleton, Beach and Moshinsky JJ.\n\n[44] The “course of conduct” or “one transaction” principle means that consideration should be given to whether the contraventions arise out of the same course of conduct or the one transaction, to determine whether it is appropriate that a “concurrent” or single penalty should be imposed for the contraventions. The principle was explained by Middleton and Gordon JJ in Construction, Forestry, Mining and Energy Union v Cahill (2010) 194 IR 461 (‘Cahill’) at [41]:\n\n> …the principle recognises that where there is an interrelationship between the legal and factual elements of two or more offences for which an offender has been charged, care must be taken to ensure that the offender is not punished twice for what is essentially the same criminality. That requires careful identification of what is “the same criminality” and that is necessarily a factual specific enquiry.\n\n[45] As Middleton and Gordon JJ further explained in Cahill, even if the contraventions are properly characterised as arising from a single course of conduct, a judge is not obliged to apply the principle if the resulting penalty fails to reflect the seriousness of the contraventions.\n\n[46] Whilst the Full Court decision in Australian Competition and Consumer Commission v Yazaki Corporation [2018] FCAFC 73 (Allsop CJ, Middleton and Robertson JJ) was not available at the time the Court made the orders relating to penalty in this proceeding, I observe that the reasoning of the Full Court at [226] to [236] is consistent with the course of conduct principles enunciated above.\n\n[47] It can thus be seen that the single course of conduct principle is applicable when there is an inter-relationship between the legal and factual elements of two or more contraventions.\n\n[48] However, an identity of purpose does not necessarily warrant the conclusion that everything done in pursuit of that purpose was part of a single course of conduct. A concerted campaign by a union may explain the conduct of its officials but it does not in itself provide the requisite inter-relationship between the contraventions to necessarily warrant the application of the single course of conduct principle.\n\n[49] The concern to avoid double punishment in this context might also be seen as an aspect of what is sometimes described as the “totality” principle: the total penalty should reflect the overall culpability involved.\n\n[50] At the end of the consideration of an appropriate penalty, the Court must ensure that the overall penalty is appropriate and that the sum of the penalties imposed for several contraventions does not result in the total of the penalties exceeding what is proper having regard to the totality of the contravening conduct involved: see for example Australian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 145 ALR 36 (‘ACCC v Safeway’) at 53 per Goldberg J, applying McDonald v R (1994) 48 FCR 555. The Court must, as an initial step, impose a penalty appropriate for each contravention and then as a check, at the end of the process, consider whether the aggregate is appropriate for the total contravening conduct involved: see ACCC v Safeway at 53 per Goldberg J, applying McDonald v R (1994) 48 FCR 555 at 563 per Burchett and Higgins JJ.\n\n[51] I make some other observations as to the relevant principles. The first observation relates to the relevance of the maximum penalty. In this regard, I adopt the approach of the Full Court in Reckitt at [154] to [156]:\n\n> 154 In considering the sufficiency of a proposed civil penalty, regard must ordinarily be had to the maximum penalty. In Markarian, a criminal sentencing context, it was observed at [31] that:\n\n> careful attention to maximum penalties will almost always be required, first because the legislature has legislated for them; secondly, because they invite comparison between the worst possible case and the case before the court at the time; and thirdly, because in that regard they do provide, taken and balanced with all of the other relevant factors, a yardstick.\n\n> 155 The reasoning in Markarian about the need to have regard to the maximum penalty when considering the quantum of a penalty has been accepted to apply to civil penalties in numerous decisions of this Court both at first instance and on appeal (Director of Consumer Affairs, Victoria v Alpha Flight Services Pty Ltd [2015] FCAFC 118 at [43]; Australian Competition and Consumer Commission v BAJV Pty Ltd [2014] FCAFC 52; (2014) ATPR 42-470 at [50]-[52]; Setka v Gregor (No 2) [2011] FCAFC 90; (2011) 195 FCR 203 at [46]; McDonald v Australian Building and Construction Commissioner [2011] FCAFC 29; (2011) 202 IR 467 at [28]-[29]). As Markarian makes clear, the maximum penalty, while important, is but one yardstick that ordinarily must be applied.\n\n> 156 Care must be taken to ensure that the maximum penalty is not applied mechanically, instead of it being treated as one of a number of relevant factors, albeit an important one. Put another way, a contravention that is objectively in the mid-range of objective seriousness may not, for that reason alone, transpose into a penalty range somewhere in the middle between zero and the maximum penalty. Similarly, just because a contravention is towards either end of the spectrum of contraventions of its kind does not mean that the penalty must be towards the bottom or top of the range respectively. However, ordinarily there must be some reasonable relationship between the theoretical maximum and the final penalty imposed.\n\n[52] Whilst the maximum penalties are to be reserved for the worst kinds of contraventions, this does not mean that all other contraventions are to be graded by reference to some hypothetical worst case. As the High Court stated in Veen v The Queen (No 2) (1988) 164 CLR 465 at 478:\n\n> … the maximum penalty prescribed for an offence is intended for cases falling within the worst category of cases for which that penalty is prescribed: Ibbs v R (1987) 61 ALJR 525 at 527; 74 ALR 1 at 5. That does not mean that a lesser penalty must be imposed if it be possible to envisage a worse case; ingenuity can always conjure up a case of greater heinousness. A sentence which imposes the maximum penalty offends this principle only if the case is recognisably outside the worst category.\n\n[53] Then there is the question of loss and the consequences of the contravening conduct. If there is a purpose of the conduct to cause loss, and this does not eventuate, or cannot be proved, this does not necessarily mean that the penalty should not be substantial if the other circumstances require such a penalty. The object of the penalty is to deter. As with the situation where the Court is concerned with the making of profits by a respondent from contravening conduct, deterrence may require a substantial penalty even if the conduct did not ultimately result in any loss to the victim of the contravention.\n\n[54] In Australian Competition and Consumer Commission v Reckitt Benckiser (Australia) Pty Ltd (No 7) [2016] FCA 424 Edelman J said in relation to profits that:\n\n> 54 … although many cases (including decisions of mine) speak of the relevant factor as “profit from contravening conduct”, this label conceals two different factors. One factor is any intended profits. Another is any actual profits. If contravening conduct is engaged in for the purpose of making particular profits then the intention to profit must be deterred even if no actual profit is made. An attempt to calculate actual profit will make no difference to deterrence based upon intended profit: see Australian Competition and Consumer Commission v TPG Internet Pty Ltd [2013] HCA 54; (2013) 250 CLR 640, 659 [66] (French CJ, Crennan, Bell and Keane JJ).\n\n> 55 In this case, the contravening conduct was part of the marketing and promotion of the Nurofen Specific Pain Range. Like most marketing and packaging endeavours, it was plainly engaged with the intention of increasing profits. To that extent, deterrence is required even if it were the case that the conduct did not ultimately result in any profit.\n\n### PENALTY - APPLICATION OF PRINCIPLES\n\n[55] The contravening conduct should be regarded as very serious. The need for deterrence, both general and specific, is substantial. In general terms, the matters relied upon by the ACCC in [6] above can be accepted.\n\n[56] As already mentioned, in terms of the introduction of the Ban Against Boral by the CFMEU, the Court found that:\n\nat the March shop steward’s meeting there was a communication made by the executives of CFMEU intended by the CFMEU to be followed by shop stewards present at that meeting (and any other shop steward who became aware of the communication) that the shop stewards needed to stop Boral trucks from going on site and supplying concrete;\n\nthe Ban Against Boral was intended by the CFMEU to be an instruction to shop stewards, in the sense that it was expected by the CFMEU that the Ban Against Boral would be implemented to the extent possible by each shop steward at the relevant construction site until further notice. The communication was received and accepted by shop stewards as instructions that they were required to implement; and\n\nthe Ban Against Boral was not just intended by the CFMEU or the shop stewards to be implemented only at one site. It was intended to be implemented across metropolitan Melbourne, as the shop stewards appreciated and were informed by the instruction given at the March meeting.\n\n[57] The Court has also found that the Ban Against Boral was in fact implemented at two major commercial construction sites.\n\n[58] The contravening conduct occurred against the background of a dispute between the CFMEU and Grocon regarding Grocon’s refusal to accept CFMEU shop stewards as workers’ representatives on Grocon sites. This ongoing dispute led to Grocon and Boral (one of Grocon’s concrete suppliers at the time) initiating separate proceedings in the Supreme Court of Victoria.\n\n[59] The Court has relevantly found that the contravening conduct had a purpose to cause substantial loss or damage to Boral and was likely to have the effect of causing substantial loss and damage to the business of Boral. The whole purpose of the Ban Against Boral was to cause a substantial loss to Boral, by deterring customers (existing or potential) from using Boral in metropolitan Melbourne. The call of the CFMEU at the March meeting was not just to stop Boral trucks from going on one site, and it was an ongoing fight which the CFMEU wanted to win, directed to Boral’s business across various sites in metropolitan Melbourne. Even if no Boral trucks were actually sent away by reason of the conduct, the real harm to Boral was damage to its reputation by the threat that Boral trucks would be hindered or delayed in the delivery of concrete. This threat was made known to certain customers, some of whom changed their supplier of concrete away from Boral.\n\n[60] I now mention the important matters I have considered.\n\n[61] First, the contravening conduct by the CFMEU should be regarded as deliberate.\n\n[62] Further, the contravening conduct arose out of the conduct of senior management. The executives of the CFMEU who attended the March shop steward’s meeting and engaged in the contravening conduct included the Secretary (Mr Setka), the President (Mr Edwards) and the Vice-President (Mr Reardon). They were senior executives from the Victorian and Tasmanian Branch Construction & General Division of the CFMEU.\n\n[63] Then, there is no doubt that the CFMEU has displayed a general disregard for the law. The ACCC referred to a number of instances demonstrating this fact. The CFMEU has been found to have contravened other Commonwealth legislation such as the Fair Work Act 2009 (Cth) on a very large number of occasions.\n\n[64] There has not been presented to the Court evidence of any CCA compliance program in place at the CFMEU at any time prior to or during the contravening period.\n\n[65] As far as similar conduct is concerned, in Australian Competition and Consumer Commission v The Construction, Forestry, Mining and Energy Union [2006] FCA 1730, the Federal Court ordered the CFMEU to pay $115,000 in penalties and costs for breaching s 45D(1) of the Trade Practices Act 1974 (Cth) when picketing was found to have delayed a concrete pour at a construction site in Perth. This was a decision made many years ago, and in very different circumstances. I have found this decision to be of little relevance to the circumstances of this proceeding.\n\n[66] The CFMEU has displayed no relevant contrition or cooperation which has in this proceeding been relied upon by the CFMEU. The conduct of the CFMEU referred to later in these reasons relevant to costs was not relied upon the CFMEU (or the ACCC) as relevant to my consideration of the penalty to impose.\n\n[67] The CFMEU is a very substantial organisation. It is a national organisation with branches throughout the country covering a broad range of industries. The Victoria-Tasmania Divisional Branch alone, as at 31 December 2015, had 25,202 members and net assets of $58,335,580. Whilst the size of the CFMEU does not justify a penalty larger than is otherwise appropriate, it fortifies the imposition of a substantial penalty in the circumstances of this case.\n\n[68] Putting all these considerations together, the contraventions are objectively in the upper range of seriousness and gravity. This should be reflected in the final penalty imposed.\n\n[69] It is not only permissible, but necessary, to take into account all the circumstances of the two contraventions found to have occurred, and this will include the Ban against Boral and its intended operation. I will not repeat the Court’s findings in relation to this important aspect. I do not accept the submission of the CFMEU that the circumstances surrounding the Ban against Boral intending to have broad effect is not relevant to the contravening conduct found in respect of the two sites. The intended effect goes to the deliberateness of the conduct and is part of the circumstances in which the conduct resulting in the contraventions took place.\n\n[70] I have already found in the primary reasons the damage sustained to the business of Boral. However, even if no or minimal losses occurred, the main object of the penalty is to deter conduct that is intended to or has the purpose of inflicting financial harm.\n\n[71] It will be observed that I have treated each contravention as deserving the same penalty, and have not differentiated in the way suggested by the CFMEU on the basis of the losses at each site. I do not regard the differentiation as significant, and treat the conduct at each site as relevantly similar in character. I do this also because I consider the main consideration in this area relates (at least in the circumstances of this proceeding) to the purpose and likely effect of the contravening conduct.\n\n[72] This is not to say that the two contraventions involve one transaction; whilst the Ban against Boral was the basis of the events that followed, the implementation was separately undertaken by different personnel, at different places and times, and in varying circumstances. However, I accept that in considering the penalty for each contravention, the circumstances surrounding the implementation of the Ban Against Boral were similar in nature.\n\n[73] The real issue for consideration in this proceeding on penalty is to stand back and consider in the context of the Ban against Boral and its implementation at the two sites the appropriate overall penalty. As I have indicated, it would be impermissible to treat the two contraventions in assessing the final penalties as putting the maximum limit (strictly or notionally) as $750,000.\n\n[74] With all the matters I have accepted above in conformity with the submission of the ACCC a substantial penalty should be imposed. However, the suggested aggregate penalty of $1.5 million would exceed what is appropriate for the contravening conduct as a whole. This is not a case which calls for the imposition of the maximum penalty for each contravention, leading to the imposition of two cumulative penalties totalling $1.5 million.\n\n[75] I consider that in terms of the gravity of the contraventions, it has to be recalled that the volumes of concrete not supplied as a result of the contravening conduct by Boral (or its subsidiary Alsafe) to the Richmond and Hawthorn sites were modest. This is relevant, although as I have indicated must be viewed against the whole purpose of the Ban against Boral and its intended operation.\n\n[76] In addition, there was no picket or physical obstruction at the Richmond or Hawthorn sites, and the safety checks were grounded in genuine safety concerns in relation to deliveries by concrete trucks at construction sites. This turned out to be a case where the threat to institute safety checks was the conduct that constituted the implementation of the Ban against Boral.\n\n[77] Then, whilst each contravention was separate, and could not be treated as one, there was the fact that both implementations were in relation to the Ban against Boral communicated to shop stewards. As I have said, the implementations were similar in nature, namely the making of a threat.\n\n[78] Therefore, in my view an aggregate penalty of the $1 million, where the possible aggregate is $1.5 million, is an appropriate sum to satisfy the need to deter future contravening conduct.\n\n#### Declarations\n\n[79] It is appropriate to make declarations in this proceeding and this did not seem to be in dispute. As the Commonwealth agency responsible for enforcing the CCA, the ACCC has a real interest in seeking the proposed declarations. In this case, declaratory relief will have utility and will serve the public interest in a number of ways: it will vindicate the ACCC’s claim that the CFMEU contravened s 45D(1) of the CCA, (serving the purpose of deterrence), will mark the Court’s disapproval of the conduct engaged in by the CFMEU, and will set out clearly the foundation for the pecuniary penalty.\n\n[80] There was a dispute concerning the wording of the declarations that should be made by the Court. After discussion with Counsel representing the parties at the penalty hearing, no objection was made to the form of declarations finally made by the Court on 12 February 2018. The declarations identify the ‘gist’ of the factual findings of the Court without recording any impermissible summary: see the discussion of Perram J in Australian Competition and Consumer Commission v Unique International College (No 7) [2017] FCA 1289 at [19] to [22].\n\n#### Injunction\n\n[81] The ACCC sought the imposition of an injunction restraining the CFMEU for a period of five years from engaging in conduct in concert with any other person or persons that hinders or prevents another person acquiring goods or services from Boral and that is engaged in for the purpose, and would have or be likely to have the effect, of causing substantial loss or damage to the business of Boral.\n\n[82] In deciding whether to grant injunctive relief, a relevant factor is whether the existing sanctions for the conduct to be the subject of the injunction require to be supplemented by the availability of the range of sanctions applicable to contempt of court. The ACCC submitted that injunctive relief was required because of the likelihood of repeated conduct and the potential for damage from repeated conduct. The only restraint sought related to Boral, and not to any other entity.\n\n[83] In Australian Competition and Consumer Commission v Hillside (Australia New Media) Pty Ltd trading as Bet365 (No 2) [2016] FCA 698 at [88], Beach J surveyed the relevant authorities in relation to injunctions and distilled from them the following principles (which I adopt):\n\nFirst, injunctive relief will not automatically follow in the event of contravening conduct, and is only one weapon in the discretionary armoury;\n\nSecond, the likelihood of future contravention is an important relevant factor to be taken into account;\n\nThird, many contraventions will simply not justify injunctive relief, and it is for the applicant to demonstrate that the injunction sought will serve a purpose; and\n\nFourth, a declaration may achieve the same result sought to be achieved by an injunction, being the marking of the Court’s disapproval of a respondent’s conduct.\n\n[84] In Australian Competition and Consumer Commission v Dataline.Net.Au Pty Ltd [2007] FCAFC 146 at [111] the Full Court stated:\n\n> Many contraventions simply will not justify injunctive relief. We doubt whether unintentional misconduct in contravention of s 52 would lead to such relief. An isolated intentional breach may also not warrant it. Conduct which occurred many years before the enforcement proceedings may not do so, especially if the offender has not recently infringed the law, or is no longer in a position where contravention is likely. These are obvious cases but they raise questions as to the relevant factors in considering whether to grant such relief. The discretion is at large. It is for the relevant applicant to demonstrate that the injunction will serve a purpose. That purpose may involve the protection of the public interest or private rights.\n\n[85] I observe that it would be wrong to impose an injunction in order to punish perceived deliberate wrongdoing. Most relevantly in this proceeding, injunctive relief will not be granted where future contraventions (relating to Boral) are not likely.\n\n[86] In light of the above observations, injunctive relief cannot be justified and is not appropriate. The events the subject of the two proven contraventions date back to around June 2013. The ACCC has not demonstrated that there is any real risk of future contraventions of s 45D(1) in the terms of the proposed injunction, limited as it is to Boral. The evidence is the Ban against Boral is no longer in existence. The Court has made declarations and has imposed a substantial penalty. I do not need to enter the debate about whether there are orders of the Supreme Court of Victoria that have been breached or are still extant. If I otherwise considered it appropriate to do so, I would have made an appropriate injunctive order even if an existing Supreme Court order covered similar conduct.\n\n#### Compliance Program\n\n[87] Section 86C of the CCA also empowers the Court to order the CFMEU to implement a compliance program.\n\n[88] In Australian Competition and Consumer Commission v 4WD Systems Pty Ltd [2003] FCA 850 at [214], Selway J saw no particular benefit or purpose in requiring the respondent to carry on a compliance program in the absence of some clear benefit that such a program might deliver in terms of future behaviour by the respondent. To do so, his Honour concluded, would be entirely punitive. Similarly, in Australian Competition and Consumer Commission v Z-Tek Computers Pty Ltd (1997) 78 FCR 197, Merkel J concluded that an order directing the implementation of a compliance program should relate to conduct which has a sufficient nexus or relationship to the actual or alleged contravention which has enlivened the jurisdiction of the Court.\n\n[89] Therefore, there are some limits on what a court will order in considering a compliance program, including:\n\na court will be reluctant to order that a respondent undertake a compliance program where there is no clear benefit that might be delivered in terms of future behaviour by the respondent because this would amount to a punitive order;\n\nthe scope of any compliance program must be relevant to the contravention. That there must be a sufficient nexus between the conduct and the proposed order.\n\n[90] I see a utility in a compliance program, if for no other reason than to keep in the minds of shop stewards the basic requirements of the law. I do not assume that all shop stewards would disobey the law if they became conversant with its requirements. A compliance program in the terms ordered will serve a useful purpose.\n\n[91] There was debate at the penalty hearing concerning the form of a compliance program after I indicated I would be ordering such a program. In the end, the nature and extent of the compliance program finally ordered was not objected to by the parties.\n\n### COSTS\n\n#### Parties position\n\n[92] As indicated already, the question of costs was in dispute between the parties.\n\n[93] The ACCC submitted in summary the following:\n\n• The ACCC was the successful party in this proceeding and costs should follow the event in the ordinary way. The ACCC had successfully established that the CFMEU contravened s 45D(1) of the CCA and the Court had made declarations of contravention and ordered the CFMEU to pay pecuniary penalties totalling $1 million.\n\n• The Court should order that the CFMEU pay all of the ACCC’s costs of and incidental to the proceeding. Contrary to the CFMEU’s argument, it is not necessary for the Court to make separate orders for costs reflecting the ACCC not succeeding on other claims for contravention of s 45D(1), as the issues and evidence in those claims substantially overlapped with the claims on which the ACCC succeeded.\n\n• Alternatively, if the Court was minded to make separate orders for costs reflecting the ACCC not succeeding on other claims for contravention of s 45D(1), the ACCC sought an order that the CFMEU pay at least 60% of its costs of and incidental to the proceeding. This proportion roughly reflected the number of witnesses who gave evidence at trial in support of the claims on which the ACCC succeeded and time spent at trial on matters common to all claims.\n\n• The ACCC’s entitlement to costs should not be affected by reason of its non-acceptance of the CFMEU’s Calderbank offer. The authorities show that the Court should be wary in applying the Calderbank principles to a regulator such as the ACCC in a civil penalty case in view of public interest the regulator serves. The CFMEU, as the party seeking a special costs order, had not in any event established that the ACCC’s conduct in rejecting the offer was unreasonable. Further, the ACCC made a reasonable counter-offer in response to the CFMEU’s Calderbank letter.\n\n[94] The CFMEU submitted in summary the following:\n\n• The ACCC’s application for costs in its favour should be refused. The ACCC proceeded to trial alleging 13 contraventions of s 45D of the CCA, including 12 alleged site-specific contraventions and an “omnibus” claim, and it failed to establish all but two of the alleged contraventions.\n\n• The ACCC has not enjoyed substantial success in the proceeding. In addition, the ACCC unreasonably rejected a Calderbank offer made to it prior to trial which, had it been accepted, would have obviated the need for a trial altogether and resulted in the imposition of penalties substantially higher than it ultimately succeeded in achieving.\n\n• The CFMEU sought an order that the ACCC pay its costs on an indemnity basis on and from 26 September 2016, and that there otherwise be no order as to costs.\n\n• Alternatively, the CFMEU sought an order that the ACCC pay the CFMEU’s costs on an indemnity basis on and from 26 September 2016 and an order that the CFMEU pay only one quarter of the ACCC’s costs on the standard basis for the period up to 25 September 2016. The second limb of this order was intended to reflect the fact that ACCC succeeded at trial in relation to only two of the 12 separate contraventions alleged in its pleading.\n\n• As a further alternative, it was submitted that if the Court was against the CFMEU on the question of the rejection of the Calderbank offer serving to enliven its entitlement to indemnity costs, then there ought be no order as to costs. This outcome would be a fair one in light of the ACCC’s failure at trial with respect to 10 of the 12 allegations and its rejection of the offer which, had it been accepted, would have obviated the need for a trial altogether.\n\n#### The principles applicable\n\n[95] The Court’s discretionary power to award costs derives from s 43 of the FCAA.\n\n[96] The discretion conferred by s 43(2) is unfettered, save that it must be exercised judicially and not arbitrarily or capriciously.\n\n[97] The approach of awarding costs on an issues basis or otherwise apportioning costs is often applied in complex trials or those involving many issues in recognition of the demands of the community for greater economy and efficiency in the use of the Court’s resources. In Ruddock v Vadarlis (No 2) (2001) 115 FCR 229 (‘Ruddock’) Black CJ and French J (as he then was) said at [11]:\n\n> • Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.\n\n> • Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.\n\n> • A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties’ costs of them. In this sense “issue” does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.\n\n[98] In Queensland North Australia Pty Ltd v Takeovers Panel (No 2) [2015] FCAFC 128 after referring to Ruddock and The State of Victoria v Sportsbet Pty Ltd (No 2) [2012] FCAFC 174, the Full Court observed at [11]:\n\n> These decisions treat the success or failure of the relevant party as being the starting point in consideration of the question of costs. However they contemplate at least three distinct categories of situation in which a successful party might be deprived of costs, or even ordered to pay the costs of the other side. One such category is where the applicant has been only partially successful in that it has not obtained all of the relief sought. The second category is where a party has succeeded in obtaining the relief sought, but has not succeeded on all bases (factual or legal) upon which it sought such relief. Of course, it is possible that a particular outcome will fall into both categories. A third category involves consideration of the successful party’s conduct of the case.\n\n[99] In considering the appropriate approach to costs in this process, the Court should have regard to s 37N(4) of the FCAA. Subject to later observations regarding the position of a regulator as a party to civil proceedings, this provision applies to the ACCC just like any other party to civil proceedings.\n\n[100] Section 37N(1) of the FCAA provides that the parties to a civil proceeding:\n\n> must conduct the proceeding (including negotiations for settlement of the dispute to which the proceeding relates) in a way that is consistent with the overarching purpose.\n\n[101] The overarching purpose is described in s 37M(1) as being to:\n\n> facilitate the just resolution of disputes: (a) according to law; and (b) as quickly, inexpensively and efficiently as possible.\n\n[102] Section 37M(2) provides that the overarching purpose includes the following objectives:\n\n> (a) the just determination of all proceedings before the Court;\n\n> (b) the efficient use of the judicial and administrative resources available for the purposes of the Court;\n\n> (c) the efficient disposal of the Court’s overall caseload;\n\n> (d) the disposal of all proceedings in a timely manner;\n\n> (e) the resolution of disputes at a cost that is proportionate to the importance and complexity of the matters in dispute.\n\n[103] Section 37N(4) requires the Court to “take account of any failure to comply with the duty imposed by subsection (1) and (2)” in exercising the discretion to award costs. These provisions dictate that the way in which litigation is initiated and conducted must be taken into account by the Court in exercising its discretion on costs.\n\n[104] Generally speaking then, costs will follow the event subject to the various considerations mentioned above. Of course, it is necessary to identify “the event”. However, a party’s entitlement to receive costs or responsibility to pay them is first to be assessed by reference to a party’s success or failure in the litigation and a party’s conduct in or in connection with the litigation.\n\n[105] It is also important to recall that an unsuccessful party is not automatically entitled to costs in respect of those issues of facts or law on which the successful party failed.\n\n[106] In Dr Martens v Figgins Holdings (No 2) [2000] FCA 602, Goldberg J said at [54]:\n\n> A court should be reluctant to embrace the proposition that, as a general rule, it is appropriate to undertake an enquiry as to who was successful in relation to particular issues in a case to determine whether there should be an apportionment of costs against a successful party. A court should not be too ready to disallow costs simply because a party has failed upon an issue, unless it be quite a separate and distinct issue from the issues in respect of which it succeeded or unless there be some element of unreasonableness or inappropriate conduct in relation to that issue…\n\n[107] If a successful party has caused a significant increase in the length or cost of proceedings by raising issues or making allegations on which he fails, then it may be deprived of the whole or part of its costs. However, a successful party who neither improperly nor unreasonably raises issues or makes allegations on which he fails ought not ordinarily be ordered to pay any part of the unsuccessful party’s costs.\n\n[108] As to the Calderbank letter and the position of the CFMEU I make the following observations.\n\n[109] The conduct of a party in a proceeding may justify an order for indemnity costs, but not its conduct in refusing an offer of settlement if not acting imprudently or unreasonably at the time of the offer.\n\n[110] The fact that the offer of settlement was itself reasonable does not necessarily mean that it was unreasonable to reject it. The burden is on the party seeking the special costs order to show that the conduct of the offeree was unreasonable.\n\n[111] Factors relevant to the exercise of discretion include the stage of the proceeding at which the offer was made, the time allowed for the offeree to consider the offer, the reasonableness of the offeree in rejecting the offer, and the content of any response of the offeree to the offer.\n\n[112] If the settlement offer is to be effective, it should be couched in such terms as will enable the offeree to make a carefully considered comparison between the offer made and the ultimate relief it is seeking in all its aspects. Then, of course, the offer put must prove to be equal to or better than the party’s ultimate result at trial.\n\n[113] Some different considerations apply to Calderbank offers made to regulators bringing a civil penalty proceeding. In Australian Competition and Consumer Commission v Baxter Healthcare Pty Ltd [2005] FCA 860 at [12], Allsop CJ said:\n\n> A rejection of an offer in a penalty case such as this brings with it considerations of public responsibility for the administration of an important piece of Commonwealth legislation that do not attend an offer in a civil suit.\n\n[114] In Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd [2007] FCA 1844 at [24], Gray J also referred to particular considerations bearing upon the determination of applications for costs orders against the ACCC:\n\n> The ACCC is a statutory body, established by s 6A of the Trade Practices Act. … [T]he ACCC has cast upon it significant responsibilities on behalf of the public, to ensure as far as practicable that there is compliance with the provisions of the Trade Practices Act. When the ACCC has commenced and pursued a proceeding in respect of alleged contraventions of a provision of the Trade Practices Act, and there is no suggestion that it has acted with any ulterior motive, the Court should not be quick to award costs against it on anything other than the usual party-party basis when the ACCC has suffered a loss in the proceeding. Excessive readiness to force the ACCC to compensate the winning party to a greater extent than the normal party-party costs incurred might operate as a deterrent to the ACCC against bringing proceedings in the exercise of its public functions.\n\n[115] In Australian Competition and Consumer Commission v Harris Scarfe Australia Pty Ltd (No 2) [2009] FCA 433, Mansfield J said at [8] and [10]:\n\n> [8] … The conduct complained of is likely to reflect not uncommon commercial advertising practices. Indeed Harris Scarfe disputed that its conduct in any respect contravened the TP Act. Moreover, the outcome of the proceeding indicates that in certain respects the conduct alleged did contravene the TP Act, and in other respects it did not. There is an important role for public awareness and education from a determination about the lawfulness of the conduct engaged in by Harris Scarfe.\n\n> …\n\n> [10] The relevant principles for the exercise of the Court’s discretion as to costs, in the light of a Calderbank offer, are well-known. The public interest is in the sensible and just compromise of disputes where that is appropriate. That is so whether the parties in dispute are private citizens or governmental instrumentalities. There may be circumstances where compromise is not appropriate, having regard to the nature of the allegations made. For instance, in the face of an allegation of serious fraud or dishonesty, a party may properly seek the vindication which a favourable court determination will recognise. Much depends on the particular circumstances. There may be circumstances, in the case of a public regulator such as the ACCC, where the particular issues are of such importance that it is proper to seek a judicial determination of them. Such cases will necessarily not be common. The ACCC is, like any other party, obliged to seek sensible resolution of disputes: see eg per Dowsett J in Australian Competition and Consumer Commission v Danoz Direct Pty Ltd [2003] FCA 1580 at [6]-[9].\n\n#### Application of principles\n\n[116] The ACCC was the successful party, in that the Court made declarations of contraventions and ordered the CFMEU to pay civil penalties totalling $1 million and to implement a compliance program with respect to the training of shop stewards in compliance with s 45D.\n\n[117] However, this is a proceeding where there were separate and distinct issues of fact relating to separate sites, which can be identified.\n\n[118] Having said this, there was also overlap of the issues relevant to the unsuccessful claims and the claims in respect of the Hawthorn and Richmond sites, where the ACCC has been successful. There were common factual elements in all of the claims that:\n\nthe CFMEU introduced the Ban Against Boral;\n\nit was intended and expected by the CFMEU that the Ban Against Boral would be implemented by shop stewards until further notice and shop stewards understood that they were required to implement the Ban Against Boral without further notice; and\n\na purpose of the Ban Against Boral was to cause substantial loss and damage, and that conduct was likely to have the effect of causing substantial loss and damage to the business of Boral.\n\n[119] Further, evidence adduced by the witnesses on other sites was relied on to establish the common elements referred to above in addition to implementation. In particular, at [94] and [117] – [118] of the primary reasons, the Court held that the evidence of “ban related representations” at other sites was relevant and admissible against the CFMEU to assist in proving the ACCC’s case as to the implementation and purpose of the Ban Against Boral, including in respect of the Hawthorn and Richmond sites.\n\n[120] I accept that the Amended Statement of Claim alleged 13 separate contraventions of s 45D, and of the 11 claims remaining by the time of closing submissions, the ACCC succeeded in respect of only two. Whilst each claim had as the important element the issuing of the Ban against Boral in March 2013, each was a distinct allegation with respect to which contravening conduct in the nature of implementation by a shop steward had to be proven by the ACCC.\n\n[121] The CFMEU provided an analysis of the witnesses presented to the Court. It was submitted that 12 out of the 18 witnesses (or two thirds) called by the ACCC gave evidence in respect of sites upon which the ACCC failed to prove its case. When the witnesses called by the CFMEU were added, it was submitted that 16 out of 23 (70%) gave evidence solely in relation to sites in respect of which the ACCC failed to prove the contraventions alleged.\n\n[122] However, I do not consider that the approach to costs should be viewed in this fashion. As I have said, each of the pleaded causes of action had as a common element: the need to establish the Ban Against Boral, and all of the shop steward witnesses were required to give evidence in relation to this issue. I agree that much of the evidence given by the shop stewards (and all but two of the other witnesses) was given in relation to the 12 specific sites, and this requires consideration as to the time of the Court wasted on this exercise to the extent only site specific aspects were covered by this evidence.\n\n[123] Before going any further I will look at the Calderbank offer made on 20 September 2016 by the CFMEU.\n\n[124] The offer was expressed to remain open until 26 September 2016. The trial was listed to commence on 3 October 2016.\n\n[125] In its Calderbank offer, the CFMEU proposed a number of items with respect to which the ACCC has in fact achieved an unfavourable result in comparison to the offer. The principal elements of the offer were as follows:\n\nThe CFMEU agreed to submit to the imposition of a penalty of $3 million in total in respect of 12 contraventions ($300,000.00 for each of the eight alleged contraventions of s 45D, and $150,000.00 for each of the four alleged attempted contraventions of s 45D);\n\nAn injunction restraining the CFMEU for five years from hindering or preventing Boral from supplying concrete;\n\nDeclarations with respect to 12 alleged contraventions and attempted contraventions;\n\nThe CFMEU would pay the ACCC’s costs on a standard basis; and\n\nAgreement to a detailed s 191 Statement.\n\n[126] By going to judgment, the following occurred:\n\nThe ACCC succeeded in establishing contraventions at only two out of the 12 sites;\n\nA penalty of $1 million - one third of the amount which the union had offered to pay - was imposed by the Court on 12 February 2018;\n\nThe Court declined to grant an injunction; and\n\nDeclarations have been made in relation to only two of the 12 alleged contraventions.\n\n[127] The offer embodied in the Calderbank offer was made on the condition that the Court would be jointly approached to make a suppression order set out to operate until the conclusion of the criminal proceedings. The Calderbank letter explained that the very substantial overlap between this proceeding and the criminal proceedings which were on foot was the reason why the suppression order would be sought. In the Calderbank letter, the CFMEU also pointed out certain weaknesses in the ACCC’s case.\n\n[128] As history shows, the ACCC rejected the CFMEU’s offer and elected to proceed to trial. Substantial Court time and costs would have been avoided had the ACCC accepted the CFMEU’s Calderbank offer.\n\n[129] Whilst the ACCC has significant responsibility to administer and ensure as far as practicable that there is compliance with the provisions of the CCA in the public interest, it was still under a responsibility to seek a sensible resolution to the dispute and was subject to the obligations enshrined in the FCAA to which I have referred.\n\n[130] The offer contained in the Calderbank letter was contingent on the parties making joint application to the Court for orders suppressing publication of the settlement (other than a limited disclosure) and the Court making such orders. However, as the ACCC also pointed out in its response, the proposed limited disclosure may have been misleading to the public, merely recording that the litigation had “concluded”.\n\n[131] The ACCC made a counter-offer in its response seeking to resolve the proceeding on the basis that the CFMEU pay the same proposed penalty and make the same proposed admissions. The ACCC’s counter-offer was not contingent on suppression orders and provided for the CFMEU alone to make an application for suppression orders and for the limited public disclosure to state that the Court had made declarations of contravention and ordered a penalty of $3 million (subject to the Court’s orders). The CFMEU did not accept this counter-offer. I consider the counter offer was an appropriate response, and the ACCC did not on this basis unreasonably reject the offer. Whilst the Court did after argument make a suppression order, it was not on the basis that the public would not have some understanding of the litigation and the result.\n\n[132] In addition, as the ACCC also pointed out in its response, the proposed statement of agreed facts did not contain all necessary material which would have needed to be before the Court on the question of the agreed relief. I accept that in circumstances where the offer was made so close to trial, there was a real risk of there being insufficient time to seek to agree such matters prior to trial.\n\n[133] Further, there is another matter to consider in relation to the Calderbank offer. This was a proceeding in which the ACCC needed to prove certain matters by viva voce evidence from various witnesses it did not control, or have the benefit of their co-operation. Putting aside the information obtained through its coercive powers, the ACCC was required to call witnesses whose evidence may or may not have been accepted, and to call witnesses who may have been expected to be unfavourable. In the context of the ACCC’s public responsibility, it was not unreasonable for the ACCC to reject the offer at the time it was made so close to the trial and proceed to a hearing. The issue of the implementation of the Ban against Boral at the various sites was fact specific, and depended on the consideration of the events described by various witnesses and issues of credibility. I do not consider that in these circumstances it was unreasonable for the ACCC to reject the offer at the time it was made.\n\n[134] I now return to consider the issue of costs more broadly.\n\n[135] Any order should reflect the fact that not only did the ACCC fail on 10 out of its 12 pleaded causes of action, but the CFMEU succeeded on those 10 claims.\n\n[136] As already alluded to, a successful party who has failed on certain issues may not only be deprived of the costs of those issues, but may be ordered as well to pay the other party’s costs of them. Rather than making separate costs orders in favour of the first respondent to reflect the significant costs incurred in successfully defending 10 of the allegations relating to the various sites it is appropriate in the exercise of the Court’s discretion to apply a total reduction to any costs which might otherwise be awarded in favour of the ACCC in respect of the two claims upon which it succeeded.\n\n[137] However, as alluded to, part of the difficulty in the apportionment of costs in this proceeding arises because of the overlap between the evidence of the Ban Against Boral and the evidence of the implementation at each site. Each party put forward an analysis of the evidence relevant to each separate site, which I have used as a guide.\n\n[138] There is no precise mathematical way to determine this issue, but I proceed on the basis that the ACCC was successful on proving the Ban Against Boral, contraventions in relation to two sites and some of the evidence referable to the other sites was relevant to the introduction and implementation at the two sites of Ban Against Boral. As best I can, I would allocate about 70% of the costs in favour of the ACCC. Then the CFMEU was otherwise successful in defending most of the sites in contention in various ways (which did not involve the overlap of evidence I have explained), and needed to expend costs in that defence. As a matter of assessment, it seems to me fair and reasonable to deduct 30% of the costs otherwise allocated to the ACCC, so as to reduce the ACCC’s entitlement to costs as the successful party in the litigation. This is done to avoid complexities in taxation, and by making the assumption that the costs of each party are not too dissimilar.\n\n[139] I will order that the CFMEU pay to the ACCC 40% of the ACCC’s costs of and in connection with the proceeding, to be paid on a party/party basis.\n\nI certify that the preceding one hundred and thirty-nine (139) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.\n\nAssociate:\n\nDated: 1 June 2018\n",
+ "source_sha256": "90db03cb6fe5ff04cb94ec1934bba4374c95a3880c9946b29775b745de889e77"
+}

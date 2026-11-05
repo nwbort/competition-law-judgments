@@ -1,0 +1,534 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2021/2021FCA1670.docx",
+ "metadata": {
+  "citation": "[2021] FCA 1670",
+  "name": "Watt v Shepherd (No 3)",
+  "court": "FCA",
+  "year": 2021,
+  "number": 1670,
+  "date_of_judgment": "2021-12-13",
+  "file_numbers": [
+   "NSD922/2019"
+  ],
+  "judges": [
+   "RARES J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Regulator and Consumer Protection",
+  "hearing_dates": [
+   "2021-12-13"
+  ],
+  "hearing_raw": "13 December 2021",
+  "number_of_paragraphs": 31,
+  "catchwords": [
+   "CONSUMER LAW – relief – application for compensation order under ss 237 and 243 of the Australian Consumer Law – where respondents engaged in misleading or deceptive or unconscionable conduct inducing applicants to enter into franchise agreements and an agreement to assign trade receivables – whether compensation sum should take into account benefits applicants obtained under avoided franchise agreements"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) sch 2, ss 237, 243",
+   "Trade Practices Act 1974 (Cth)"
+  ],
+  "cases_cited": [
+   "HTW Valuers (Central QLD) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640",
+   "I & L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited (2002) 210 CLR 109",
+   "Marks v GIO Australia Holdings Limited (1998) 196 CLR 494",
+   "Ted Brown Quarries Pty Ltd v General Quarries (Gilston) Pty Ltd (1977) 16 ALR 23",
+   "Watt v Shepherd [2021] FCA 561",
+   "Watt v Shepherd (No 2) [2021] FCA 826",
+   "Wyzenbeek v Australasian Marine Imports Pty Ltd (2019) 272 FCR 373"
+  ],
+  "parties": [
+   {
+    "name": "ESPIE IAN WATT",
+    "role": "First Applicant"
+   },
+   {
+    "name": "MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)",
+    "role": "Third Applicant"
+   },
+   {
+    "name": "PHILLIP CHARLES SHEPHERD",
+    "role": "First Respondent"
+   },
+   {
+    "name": "MARK ROBERT STEIDLE",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Mr R Parsons"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Bray Jackson & Co"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondent",
+    "name": "Mr C P O’Neill"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondent",
+    "name": "Colin Biggers & Paisley"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca1670",
+  "portal_file_numbers": [
+   "NSD922/2019"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2021-12-13"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 922 of 2019"
+  },
+  {
+   "label": "Judgment of",
+   "value": "RARES J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "13 December 2021"
+  },
+  {
+   "label": "Catchwords",
+   "value": "CONSUMER LAW – relief – application for compensation order under ss 237 and 243 of the Australian Consumer Law – where respondents engaged in misleading or deceptive or unconscionable conduct inducing applicants to enter into franchise agreements and an agreement to assign trade receivables – whether compensation sum should take into account benefits applicants obtained under avoided franchise agreements"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) sch 2, ss 237, 243\nTrade Practices Act 1974 (Cth)"
+  },
+  {
+   "label": "Cases cited",
+   "value": "HTW Valuers (Central QLD) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640\nI & L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited (2002) 210 CLR 109\nMarks v GIO Australia Holdings Limited (1998) 196 CLR 494\nTed Brown Quarries Pty Ltd v General Quarries (Gilston) Pty Ltd (1977) 16 ALR 23\nWatt v Shepherd [2021] FCA 561\nWatt v Shepherd (No 2) [2021] FCA 826\nWyzenbeek v Australasian Marine Imports Pty Ltd (2019) 272 FCR 373"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Regulator and Consumer Protection"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "31"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "13 December 2021"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Mr R Parsons"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Bray Jackson & Co"
+  },
+  {
+   "label": "Counsel for the Respondent",
+   "value": "Mr C P O’Neill"
+  },
+  {
+   "label": "Solicitor for the Respondent",
+   "value": "Colin Biggers & Paisley"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD922/2019",
+   "parties": [
+    {
+     "name": "ESPIE IAN WATT",
+     "role": "First Applicant"
+    },
+    {
+     "name": "MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)",
+     "role": "Third Applicant"
+    },
+    {
+     "name": "PHILLIP CHARLES SHEPHERD",
+     "role": "First Respondent"
+    },
+    {
+     "name": "MARK ROBERT STEIDLE",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "RARES J"
+   ],
+   "date": "2021-12-13",
+   "date_raw": "13 DECEMBER 2021",
+   "orders": [
+    {
+     "label": "",
+     "text": "THE SECOND APPLICANT BY ITS COUNSEL THAT IT WILL DO ALL THINGS NECESSARY WITHIN 14 DAYS ON ITS PART TO TRANSFER TO THE RESPONDENTS, OR AS THEY MAY JOINTLY DIRECT, ALL SHARES AND OPTIONS FOR SHARES IN THE CAPITAL OF THE THIRD RESPONDENT THAT IT HOLDS OR TO WHICH IT MAY BE ENTITLED; AND",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "EACH OF THE APPLICANTS BY THEIR COUNSEL THAT THEY WILL DO ALL THINGS NECESSARY WITHIN 14 DAYS ON THEIR RESPECTIVE PARTS TO TRANSFER TO THE RESPONDENTS ALL SUCH SHARES AS THEY MAY HOLD IN THE CAPITAL OF THE THIRD RESPONDENT AS THE RESPONDENTS MAY JOINTLY DIRECT;",
+     "level": 0
+    },
+    {
+     "label": "1.",
+     "text": "It be declared that any assignment or agreement to assign to the third respondent and or the fourth respondent the debts due (as trade receivables) to the second applicant as trustee of the Snowy Mountains Services Unit Trust owing as at 30 June 2016 or at any other date or dates is void ab initio.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondents pay the sum of $58,418.03 to the first, fourth and fifth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $9,664.10 (Tumbarumba).",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The respondents pay the sum of $19,138.76 to the first and fourth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $3,166.13 (Batlow).",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The respondents pay the sum of $94,849.70 to the first applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $15,691.00 (Wagga).",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The respondents pay the sum of $188,745.19 to the first and sixth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $31,224.15 (Tumut).",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The respondents pay the sum of $79,751.18 to the third applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $13,193.25 (Cootamundra).",
+     "level": 0
+    },
+    {
+     "label": "7.",
+     "text": "The respondents pay the sum of $18,956.49 to the seventh applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $3,135.98 (Young).",
+     "level": 0
+    },
+    {
+     "label": "8.",
+     "text": "The respondents pay the sum of $31,470.28 to the fourth and sixth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $5,206.13 (Russell Street).",
+     "level": 0
+    },
+    {
+     "label": "9.",
+     "text": "The respondents pay the applicants’ costs of the proceedings excepting only those costs which have been ordered in favour of the respondents, which may be set off against the applicants’ costs so ordered.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "UPON THE UNDERTAKING OF:",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "On 20 May 2021, I refused the respondents’ application to obtain an extension of time in which to file their evidence after considerable default, struck out their defence and dismissed their cross-claim by reason of their history of default in compliance with orders for them to put their evidence on in a timely way: Watt v Shepherd [2021] FCA 561.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "I adjourned the issue of what relief ought be granted to the applicants to 8 July 2021 and delivered judgment on part of that matter on 23 July 2021: Watt v Shepherd (No 2) [2021] FCA 826. I will not repeat the background and will use the abbreviations here that I used in my earlier reasons. On 23 July 2021, I ordered that the franchise agreements between the fourth respondent, Summit Pharmacies Group Pty Limited (SPG) and various applicants be declared void on and from 30 June 2018 and gave judgment against each of the respondents for damages to be assessed. I ordered that the applicants file and serve any further evidence on which they proposed to rely in relation to damages and appropriate relief, together with written submissions, by 13 August 2021 and the respondents to respond by 3 September 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "On 7 September 2021, I extended the time for the respondents to respond to 17 September 2021 and listed the outstanding issues for hearing on 8 October 2021. The parties were endeavouring to deal with those orders during a period of lockdown in both Sydney and Melbourne where their lawyers are respectively located.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "On 8 October 2021, I ordered the applicants to file and serve draft orders that identified the relief they sought together with explanations for any calculations linked to the current evidence on or before 22 October 2021 and the respondents to file and serve any explanation of disagreements and any response to the documents that the applicants produced by 5 November 2021 and listed the matter for hearing on 11 November 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "On 12 November 2021, the respondents were seeking, but had not yet obtained, access to underlying data in the MYOB files of the applicants upon which they had constructed their calculations of loss. I extended the time for the respondents to respond to 25 November 2021, required the applicants to file and serve any response to that material by 2 December 2021 and gave the respondents a further opportunity to respond in written submissions by 9 December 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The applicants produced two documents on 22 October 2021, being a short explanation and submission together with a calculation taken from exhibit CI-1 to the affidavit of Courtney Inglis made on 13 August 2021 which comprised, relevantly, the MYOB files and explained how they were assembled and maintained. She was a bookkeeper engaged on their behalf in the operation of their business. The applicants also provided draft orders based on the calculations that they had made to support their current claim, that they substantively summarised in the form of annexure A to these reasons (which is the applicants’ corrected version of 9 December 2021 that eliminates a transpositional error).",
+    "judge": "RARES J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "Following my first reasons, the applicants caused their accountant, Michael Wakeling, to make two affidavits on 8 and 30 June 2021 based on the MYOB records that the pharmacies maintained before, during and after their management of part of the businesses that became franchised to SPG in the period between March 2017 and June 2018. Mr Wakeling made a number of assertions that I ruled were inadmissible. He did not establish, by his own evidence, the basis on which his calculations were made. That led to Ms Inglis preparing her affidavit identifying how the MYOB records, from which Mr Wakeling made his calculations, were kept. Ms Inglis’ evidence proved those records by exhibiting them. Those records and Mr Wakeling’s methodology led to the current claim in annexure A. The applicants’ claim is confined to the expenditures that they say the seven pharmacy proprietors made under the franchise agreements which they were caused to enter into by the respondents’ misleading or deceptive or unconscionable conduct.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The applicants gave the respondents access to a backup set of MYOB files created in October 2018 in circumstances where the applicants were still using their MYOB system that incorporated the material that had been collected in the backup version. The respondents provided the backup files to an expert accountant, who, I infer, assisted them in the production of five calculations which I marked for identification as follows (SMSUT is the acronym for the Snowy Mountain Services Unit Trust of which the second applicant, Mazzawattie Pty Ltd, has been the trustee since 28 May 2001: see Watt (No 2) [2021] FCA 826 [16]):\n• MFI2: calculation of changes to cost: pharmacies;\n• MFI3: calculation of changes to net assets: pharmacies;\n• MFI4: calculation of changes to net assets: SMSUT;\n• MFI5: calculation of changes to net profit: pharmacies; and\n• MFI6: calculation of changes to net profit: SMSUT.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The respondents provided MFIs 2 to 6 to the applicants without much explanation on 29 November 2021 and then on 9 December 2021 provided written submissions that did seek to explain those in some degree. This provoked a response by the applicants, first, on 9 December 2021 which relied on the calculation, that is annexure A to these reasons, and identified that the applicants were seeking to have a refund of fees that they paid to the respondents over the 16-month period during which the franchise arrangements operated between them prior to my declaring them void as from 30 June 2018. Secondly, on 10 December 2021, the applicants put on a detailed response to the calculations in MFIs 2 to 6 that included adjustments based on the MYOB files in spreadsheets that I marked for identification as follows:\n• MFI7: calculation of changes to net profit: pharmacies;\n• MFI8: June 2018 SMSUT service fees; and\n• MFI9: calculation of changes to net assets: pharmacies.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "Significantly, the applicants’ submissions identified that the respondents’ calculations had omitted a significant sum in June 2018 for fees charged by Mazzawattie, as trustee for SMSUT, for five of the seven stores whose franchise agreements I held to be void, being Tumbarumba, Batlow, Wagga, Tumut and Russell Street. Two other stores, Cootamundra and Young, were not serviced by SMSUT. The applicants’ calculations also identified that there had been an error in the MYOB records for opening stock for the Wagga store in October 2015 that did not bring to account accurately the closing stock for September 2015 but increased it by about $525,000. The applicants relied on their calculations in MFIs 7, 8 and 9 to bring those adjustments substantively to account. They also claimed that, by reason of a favourable arrangement with an ophthalmologist in Wagga that, so they asserted without evidence, commenced in about June 2016, they had dispensed considerable numbers of prescription injections, administered by an ophthalmologist. They claimed that those ophthalmic prescriptions accounted for about $103,000 in profits during the period from then until June 2018. The applicants argued that the respondents could not have been responsible for those profits since arrangements in respect of the franchises only commenced after the ophthalmologist began filling prescriptions.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The respondents submitted that they were in a somewhat difficult position in asserting that they should be given credit against any claims by the applicants because they were not able, first, to maintain the claims in their cross-claim and, secondly, to put on further evidence subsequent to the affidavit of the second respondent, Mark Steidle, sworn 5 October 2021, on which he was cross-examined on 8 October 2021.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "During Mr Steidle’s evidence, he established that the applicants had been claiming a refund of franchise fees, some of which had been entered into their MYOB accounts but which they, in fact, had not paid. That non-payment occurred because of the disputes that, by late in the 2017/18 financial year, had arisen between the parties, leading to an overestimate of the applicants’ claims.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "After Mr Steidle’s evidence, the applicants made adjustments to their initial claims in column E of annexure A to give an allowance for fees not paid.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The applicants also seek to establish that they have suffered loss or damage that flowed from their entry into the franchise arrangements based on their assignment of fees due to Mazzawattie as trustee of SMSUT, the subject of annexure A, and a transaction that occurred in March 2017, as I found in Watt (No 2) [2021] FCA 826 at [43]. The applicants pleaded in the statement of claim that that transaction came about by Mr Watt causing Mazzawattie to make good inaccurate representations that RX Holdings Pty Limited, the third respondent, had made to Symbion Limited in a balance sheet and information memorandum provided to Symbion on about 1 February 2017. The balance sheet had recorded that SPG’s assets included the trade receivables of $4,490,288 that were, in fact, due to Mazzawattie in its capacity as trustee of SMSUT. I found, based on the allegations in the statement of claim, in Watt (No 2) [2021] FCA 826 at [43]:\nOn 18 March 2017, Mr Shepherd proposed to Mr Watt that the latter participate in a scheme to avoid disclosing that RX Holdings’ representation in the information memorandum given to Symbion was misleading. As part of that scheme, Mr Shepherd proposed that Hermidale, as trustee of the Watt Family Trust, forego an amount of approximately $3.5 million standing to its loan account with SMSUT and that, in lieu of that asset, RX Holdings would issue Mazzawattie with 375,000 shares and about 1.5 million options for shares in RX Holdings to convert in proportion to the repayment of the SMSUT trade receivables by the individual pharmacies. Mr Shepherd represented to Mr Watt, on behalf of Hermidale, that RX Holdings’ grant of those shares and options would ensure that Mr Watt and Hermidale were appropriately recognised and remunerated in respect of the loan account by the receipt, in due course, of shares in RX Holdings, including upon the maturity of the options. The representation was founded on the proposition that the shares in RX Holdings would have a value commensurate with the loan account. Mr Watt acted in reliance on that representation and, on behalf of Hermidale, agreed to accept the issue of shares and options in lieu of its SMSUT loan account. The RX Holdings shares have never achieved any commercial value and RX Holdings asserts that it is entitled to be paid the SMSUT trade receivables as assignee of them.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The applicants, through their counsel, have undertaken that, if Mazzawattie’s assignment of the receivables is reversed, they will do all things necessary on their part to be done to transfer, as the respondents direct, all the shares and options for shares in the capital of RX Holdings that the respondents say they issued, so that the transaction can be undone and both parties will be restored to the position they would have had, if the misleading or unconscionable conduct that occurred not taken place.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "Both Mr Steidle and Mr Wakeling were chartered accountants. Mr Steidle noted that the MYOB records were not themselves documents prepared to comply with accounting standards. Rather, they were management records that are ordinarily subject to significant adjustments in the preparation of financial statements for an enterprise or company. And, indeed, the history of what has happened in the attempts by both parties to address whatever compensation ought be ordered has demonstrated the results recorded in those MYOB records sometimes need adjustments. Mr Steidle observed that Mr Wakeling’s analysis was based on a selected subset of the costs for support operations that each of the seven pharmacies incurred before, during and after their involvement with the respondents. He noted Mr Wakeling’s figures assumed that all service fees that SPG charged had been incurred and paid. However, Mr Steidle asserted that the Batlow, Russell Street, Tumbarumba, Tumut and Wagga pharmacies had not paid a total of $119,066.21 of the invoiced fees.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "The further calculations by the applicants, which were cross-referenced to franchise fees recorded in the MYOB system as having been both paid or not paid up to June 2018, demonstrated that the applicants had wrongly included an allowance of $40,068.45 for fees not paid, that is now corrected in column E in annexure A to these reasons.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Procedural background"
+    ],
+    "text": "Mr Steidle said that the respondents had provided marketing, retail, commercial negotiation, IT and financial support for the applicants’ group, and that many of their services did not exist prior to RX Holdings’ engagement. He asserted that the respondents’ involvement was intended to increase the value of the businesses over a number of years and that Mr Wakeling’s analysis had not quantified the value the respondents had added by the provision of those services. Mr Steidle put forward an example of a new contract that the respondents anticipated would lead to a 10 per cent increase in gross margins of trading with the generic pharmaceutical supplier, Apotex, that SPG had notified to the applicants it had negotiated in October 2017. However, Mr Steidle did not exhibit, and the respondents did not tender, any contract with Apotex. As a result, I limited his assertion about the benefit of any such contract to evidence of a communication and not evidence of the truth of the facts contained in that communication when the respondents sought to rely on it in their evidence. Mr Steidle was involved in the preparation of a table that purported to show in about April 2018 for the 10 month period in each of the financial years commencing 1 July 2016 and 2017 to 30 April 2017 and 2018, respectively, sales of all New South Wales pharmacies in the SPG group had increased by 7.1 per cent as compared to what the table claimed was a 3.2 per cent increase in pharmacy sales for the State.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "However, at that time there were disputes between Mr Watt and the applicants, on the one hand, and the respondents, on the other, as to how the franchise was operating. Those disputes had developed and intensified from January and February 2018. By then, the applicants were seeking to withdraw from the franchise arrangements with the respondents. I find that the document that Mr Steidle relied on, that was prepared by the respondents in April 2018 in order to persuade the applicants not to leave the franchising structure, did not differentiate between statistics for regional and metropolitan pharmacy sales and did not compare, year on year, the performances of the applicants’ pharmacies. The figures which it purported to give as a comparator to performance in the State generally came from a software program of a third party supplier to the respondents that was not in evidence and the accuracy of which was not available to be explored. I give no weight to that comparison.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In MFI2, the respondents calculated that the increase in growth of sales of the seven pharmacies of 5.7 per cent had occurred in the 16 months of their engagement with the applicants as compared to the preceding 16 months. However, as the difficulties with the MYOB figures that I have explained earlier showed, it is difficult to rely on that raw data as to the overall performance of the franchises that is not otherwise examined or explained.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The respondents’ calculations seek to assert that, taken as a whole, there had been an increase in total net assets of both the pharmacies and SMSUT and an increase in net profits over the period when the applicants’ businesses were within the respondents’ franchise arrangements. However, in my opinion, that assertion does not reflect a correct methodological approach. Each of the proprietors of the seven pharmacies, being some of the applicants, claims to be entitled to compensation under ss 237 and or 243 of the Australian Consumer Law in Sch 2 of the Competition and Consumer Act 2010 (Cth) because the respective proprietor suffered loss or damage by the conduct in which the respondents engaged that I have found to have been misleading or deceptive or unconscionable. It cannot be correct to treat the individual proprietors of the pharmacies in a collective way and examine whether, overall, the group was better off or not through its involvement with the respondents. It is the position of each of the relevant store proprietors that is relevant. That is because each of the proprietors individually entered into the now avoided franchise contracts with SPG.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "When the performance of each of the seven pharmacies is looked at individually, there is no coherent or observable trend to support the respondents’ analysis. Rather, there is, as one might expect with seven different businesses, a range of performances, some of which resulted in net profits, others in net losses. In my opinion, the respondents’ framework for analysis of the calculation of loss or compensation did not engage with the way in which the applicants put their claim.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "As I noted earlier, the respondents pointed out that they had been deprived of the ability to rely on a defence or to seek to set off matters in a cross-claim. However, the relevant analysis of the applicants’ claims based on the statement of claim and the findings in Watt (No 2) [2021] FCA 826 that relied on the pleading in the statement of claim is relatively simple: it is that, first, the applicants would not have paid the respective franchise and marketing fees, that were more expensive than what they had paid SMSUT, and so suffered a loss after giving credit to the respondents for savings in advertising costs during the 16 months resulting from the franchise arrangements and, secondly, Mr Watt would not have caused Mazzawattie to enter into the assignment of the SMSUT trade receivables in exchange for the allotment of shares had the respondents not engaged in the misleading, deceptive or unconscionable conduct.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "In I & L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited (2002) 210 CLR 109 at 121–122 [33], Gleeson CJ said:\nI am unable to accept the respondent’s argument. The relevant purpose of the statute was to proscribe misleading and deceptive conduct in circumstances which included those of the present case. In aid of that purpose, the statute provided for compensation, by an award of damages, to a victim of such conduct. The measure of damages stipulated was the loss or damage of which the conduct was a cause. It was not limited to loss or damage of which such conduct was the sole cause. In most business transactions resulting in financial loss there are multiple causes of the loss. The statutory purpose would be defeated if the remedy under s 82 were restricted to loss of which the contravening conduct was the sole cause. What is there, then, in the justice and equity of the particular case that might lead to a conclusion that the respondent should not be regarded as legally responsible for the whole of the loss, even though the contravention was a cause of the whole of the loss? Upon what principle might such responsibility be diminished? In a financing transaction, a lender takes security to protect itself against the risk of default by the borrower. One aspect of that risk is that the lender might have failed adequately to assess the borrower’s capacity to service the debt. I cannot see why, as a matter of principle, such failure by a lender should be treated, in the application of s 82, as a factor which diminishes the legal responsibility of a valuer by negativing in part the causal effect of the valuer’s misleading conduct. The statutory rule of conduct found in s 52, when applied to the relationship between a valuer and a prospective lender, gives rise to a legal responsibility in a case such as the present which extends to the whole of the loss of which the valuer’s misleading conduct is a direct cause.\n(emphasis added)",
+    "judge": "RARES J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Gaudron, Gummow and Hayne JJ came to a similar conclusion (210 CLR at 128 [57]); see also Marks v GIO Australia Holdings Limited (1998) 196 CLR 494 at 505 [24] per Gaudron J. And in Marks 196 CLR at 515 [54]–[55], McHugh, Hayne and Callinan JJ said that the inquiry under s 87 of the Trade Practices Act 1974 (Cth), the analogue to s 243 of the ACL, was one about “whether it is likely that as a result of the contravention the party concerned will suffer some prejudice or disadvantage”.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "Ordinarily, provided that there is some evidence of damage in the field of assessing damages, a tribunal of fact has to do the best that it can in assessing the quantum: HTW Valuers (Central QLD) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640 at 661 [47] per Gleeson CJ, McHugh, Gummow, Kirby and Heydon JJ, citing Barwick CJ in Ted Brown Quarries Pty Ltd v General Quarries (Gilston) Pty Ltd (1977) 16 ALR 23 at 26. The method of assessing compensation under a statutory provision, such as ss 237 and 243, is not confined to the processes provided at common law or equity: Wyzenbeek v Australasian Marine Imports Pty Ltd (2019) 272 FCR 373 at 390–398 [67]–[93] per Rares, Burley and Anastassiou JJ.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I am satisfied that the applicants have established that each of the relevant seven pharmacies suffered a loss calculated in accordance with the methodology identified in annexure A to these reasons. Accordingly, each proprietor of those pharmacies is entitled to a refund of the net extra franchise fees he, she, it or they paid over the term of the franchise agreement, including the marketing levy, giving credit for savings, if any, in that business’s financial servicing, marketing and advertising expenses as compared to the comparable fees that the business paid to SMSUT prior to entering into the franchise arrangements, which it was not charged after the franchising arrangements came into place. The sum to which each of the seven pharmacies is entitled is in column F of annexure A to these reasons to which interest will need to be calculated to today.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I am also satisfied that, as I found in Watt (No 2) [2021] FCA 826 at [43], Mr Watt acted in reliance on the respondents’ misleading and deceptive or unconscionable representation to assign the Mazzawattie’s trade receivables, held in its capacity as the trustee of SMSUT, to make good the representation RX holdings had made to Symbion in exchange for the issue of shares and options that, in effect, were worthless because the represented and promised success of the respondents’ franchise operation came to nothing. It follows that that transaction will also need to be undone.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The originating application claimed an order under ss 237 or 243 of the ACL that the respondents assign to Mazzawattie the SMSUT trade receivables described in par 26 of the statement of claim. The problem with that description was that par 26 stated what those trade receivables were at three different dates, namely: 21 April 2016, 1 January 2017 and 1 March 2017. The respondents described this transaction in their cross-claim, which I dismissed because of their default, as an agreement entered into on 21 March 2017 based on a letter dated 20 March 2017 between RX Holdings and Mr Watt. The applicants have now sought to describe the transaction in those same terms.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "In my opinion, the appropriate order is to avoid the transaction entered into on or about 18 March 2017 between Mazzawattie, RX Holdings and SPG, pursuant to which Mazzawattie assigned its trade receivables as at that date in exchange for which RX Holdings promised to issue, or issued, Mazzawattie with 375,000 shares and 1,485,233 options to convert, in proportion to payment to RX Holdings of the SMSUT trade receivables by the individual pharmacies. However, that order should be made on condition that the applicants cause to be returned to RX Holdings any shares and options so issued and assign any right to the issue of shares or options, as the respondents direct.",
+    "judge": "RARES J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Conclusion"
+    ],
+    "text": "I will make orders which will require the parties to agree some interest calculations on the Court’s pre-judgment interest rates on the net sums payable to the individual pharmacies in accordance with annexure A to these reasons.",
+    "judge": "RARES J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Rares.",
+ "associate": null,
+ "dated": "2022-03-04",
+ "schedules": [
+  {
+   "title": "ANNEXURE A",
+   "text": ""
+  },
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 922 of 2021\nApplicants\nFourth Applicant: | SYLVIA WATT\nFifth Applicant: | GLEN MCCALLUM\nSixth Applicant: | KERRIE PEACOCK\nSeventh Applicant: | ASBET PTY LTD ACN 003 317 404\nEighth Applicant: | BURROUGHS PTY LTD ACN 613 528 028\nNinth Applicant: | HERMIDALE HOLDINGS PTY LTD ACN 151 952 939\nRespondents\nFourth Respondent: | SUMMIT PHARMACY GROUP PTY LTD ACN 152 166 660"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Watt v Shepherd (No 3) [2021] FCA 1670\n\n## Cover sheet\n\n**File number(s):** NSD 922 of 2019\n\n**Judgment of:** RARES J\n\n**Date of judgment:** 13 December 2021\n\n**Catchwords:** CONSUMER LAW – relief – application for compensation order under ss 237 and 243 of the Australian Consumer Law – where respondents engaged in misleading or deceptive or unconscionable conduct inducing applicants to enter into franchise agreements and an agreement to assign trade receivables – whether compensation sum should take into account benefits applicants obtained under avoided franchise agreements\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) sch 2, ss 237, 243  \nTrade Practices Act 1974 (Cth)\n\n**Cases cited:** HTW Valuers (Central QLD) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640  \nI & L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited (2002) 210 CLR 109  \nMarks v GIO Australia Holdings Limited (1998) 196 CLR 494  \nTed Brown Quarries Pty Ltd v General Quarries (Gilston) Pty Ltd (1977) 16 ALR 23  \nWatt v Shepherd [2021] FCA 561  \nWatt v Shepherd (No 2) [2021] FCA 826  \nWyzenbeek v Australasian Marine Imports Pty Ltd (2019) 272 FCR 373\n\n**Division:** General Division\n\n**Registry:** New South Wales\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Regulator and Consumer Protection\n\n**Number of paragraphs:** 31\n\n**Date of hearing:** 13 December 2021\n\n**Counsel for the Applicants:** Mr R Parsons\n\n**Solicitor for the Applicants:** Bray Jackson & Co\n\n**Counsel for the Respondent:** Mr C P O’Neill\n\n**Solicitor for the Respondent:** Colin Biggers & Paisley\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 922 of 2019 |\n|---|---|\n| BETWEEN: | ESPIE IAN WATT<br>First Applicant<br>MAZZAWATTIE PTY LTD ACN 096 943 476 AS TRUSTEE OF SMSUT<br>Second Applicant<br>WATTABEAR PTY LTD ACN 148 915 262 (and others named in the Schedule)<br>Third Applicant |\n| AND: | PHILLIP CHARLES SHEPHERD<br>First Respondent<br>MARK ROBERT STEIDLE<br>Second Respondent<br>RX HOLDINGS PTY LTD ACN 612 534 746 (and another named in the Schedule)<br>Third Respondent |\n\n| order made by: | RARES J |\n|---|---|\n| DATE OF ORDER: | 13 DECEMBER 2021 |\n\n### UPON THE UNDERTAKING OF:\n\nTHE SECOND APPLICANT BY ITS COUNSEL THAT IT WILL DO ALL THINGS NECESSARY WITHIN 14 DAYS ON ITS PART TO TRANSFER TO THE RESPONDENTS, OR AS THEY MAY JOINTLY DIRECT, ALL SHARES AND OPTIONS FOR SHARES IN THE CAPITAL OF THE THIRD RESPONDENT THAT IT HOLDS OR TO WHICH IT MAY BE ENTITLED; AND\n\nEACH OF THE APPLICANTS BY THEIR COUNSEL THAT THEY WILL DO ALL THINGS NECESSARY WITHIN 14 DAYS ON THEIR RESPECTIVE PARTS TO TRANSFER TO THE RESPONDENTS ALL SUCH SHARES AS THEY MAY HOLD IN THE CAPITAL OF THE THIRD RESPONDENT AS THE RESPONDENTS MAY JOINTLY DIRECT;\n\n### THE COURT ORDERS THAT:\n\n1. It be declared that any assignment or agreement to assign to the third respondent and or the fourth respondent the debts due (as trade receivables) to the second applicant as trustee of the Snowy Mountains Services Unit Trust owing as at 30 June 2016 or at any other date or dates is void ab initio.\n\n2. The respondents pay the sum of $58,418.03 to the first, fourth and fifth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $9,664.10 (Tumbarumba).\n\n3. The respondents pay the sum of $19,138.76 to the first and fourth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $3,166.13 (Batlow).\n\n4. The respondents pay the sum of $94,849.70 to the first applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $15,691.00 (Wagga).\n\n5. The respondents pay the sum of $188,745.19 to the first and sixth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $31,224.15 (Tumut).\n\n6. The respondents pay the sum of $79,751.18 to the third applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $13,193.25 (Cootamundra).\n\n7. The respondents pay the sum of $18,956.49 to the seventh applicant together with interest from 1 July 2018 to 13 December 2021 in the sum of $3,135.98 (Young).\n\n8. The respondents pay the sum of $31,470.28 to the fourth and sixth applicants together with interest from 1 July 2018 to 13 December 2021 in the sum of $5,206.13 (Russell Street).\n\n9. The respondents pay the applicants’ costs of the proceedings excepting only those costs which have been ordered in favour of the respondents, which may be set off against the applicants’ costs so ordered.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### (Revised from the transcript)\n\n### RARES J:\n\n#### Procedural background\n\n[1] On 20 May 2021, I refused the respondents’ application to obtain an extension of time in which to file their evidence after considerable default, struck out their defence and dismissed their cross-claim by reason of their history of default in compliance with orders for them to put their evidence on in a timely way: Watt v Shepherd [2021] FCA 561.\n\n[2] I adjourned the issue of what relief ought be granted to the applicants to 8 July 2021 and delivered judgment on part of that matter on 23 July 2021: Watt v Shepherd (No 2) [2021] FCA 826. I will not repeat the background and will use the abbreviations here that I used in my earlier reasons. On 23 July 2021, I ordered that the franchise agreements between the fourth respondent, Summit Pharmacies Group Pty Limited (SPG) and various applicants be declared void on and from 30 June 2018 and gave judgment against each of the respondents for damages to be assessed. I ordered that the applicants file and serve any further evidence on which they proposed to rely in relation to damages and appropriate relief, together with written submissions, by 13 August 2021 and the respondents to respond by 3 September 2021.\n\n[3] On 7 September 2021, I extended the time for the respondents to respond to 17 September 2021 and listed the outstanding issues for hearing on 8 October 2021. The parties were endeavouring to deal with those orders during a period of lockdown in both Sydney and Melbourne where their lawyers are respectively located.\n\n[4] On 8 October 2021, I ordered the applicants to file and serve draft orders that identified the relief they sought together with explanations for any calculations linked to the current evidence on or before 22 October 2021 and the respondents to file and serve any explanation of disagreements and any response to the documents that the applicants produced by 5 November 2021 and listed the matter for hearing on 11 November 2021.\n\n[5] On 12 November 2021, the respondents were seeking, but had not yet obtained, access to underlying data in the MYOB files of the applicants upon which they had constructed their calculations of loss. I extended the time for the respondents to respond to 25 November 2021, required the applicants to file and serve any response to that material by 2 December 2021 and gave the respondents a further opportunity to respond in written submissions by 9 December 2021.\n\n[6] The applicants produced two documents on 22 October 2021, being a short explanation and submission together with a calculation taken from exhibit CI-1 to the affidavit of Courtney Inglis made on 13 August 2021 which comprised, relevantly, the MYOB files and explained how they were assembled and maintained. She was a bookkeeper engaged on their behalf in the operation of their business. The applicants also provided draft orders based on the calculations that they had made to support their current claim, that they substantively summarised in the form of annexure A to these reasons (which is the applicants’ corrected version of 9 December 2021 that eliminates a transpositional error).\n\n[7] Following my first reasons, the applicants caused their accountant, Michael Wakeling, to make two affidavits on 8 and 30 June 2021 based on the MYOB records that the pharmacies maintained before, during and after their management of part of the businesses that became franchised to SPG in the period between March 2017 and June 2018. Mr Wakeling made a number of assertions that I ruled were inadmissible. He did not establish, by his own evidence, the basis on which his calculations were made. That led to Ms Inglis preparing her affidavit identifying how the MYOB records, from which Mr Wakeling made his calculations, were kept. Ms Inglis’ evidence proved those records by exhibiting them. Those records and Mr Wakeling’s methodology led to the current claim in annexure A. The applicants’ claim is confined to the expenditures that they say the seven pharmacy proprietors made under the franchise agreements which they were caused to enter into by the respondents’ misleading or deceptive or unconscionable conduct.\n\n[8] The applicants gave the respondents access to a backup set of MYOB files created in October 2018 in circumstances where the applicants were still using their MYOB system that incorporated the material that had been collected in the backup version. The respondents provided the backup files to an expert accountant, who, I infer, assisted them in the production of five calculations which I marked for identification as follows (SMSUT is the acronym for the Snowy Mountain Services Unit Trust of which the second applicant, Mazzawattie Pty Ltd, has been the trustee since 28 May 2001: see Watt (No 2) [2021] FCA 826 [16]):\n\n• MFI2: calculation of changes to cost: pharmacies;\n\n• MFI3: calculation of changes to net assets: pharmacies;\n\n• MFI4: calculation of changes to net assets: SMSUT;\n\n• MFI5: calculation of changes to net profit: pharmacies; and\n\n• MFI6: calculation of changes to net profit: SMSUT.\n\n[9] The respondents provided MFIs 2 to 6 to the applicants without much explanation on 29 November 2021 and then on 9 December 2021 provided written submissions that did seek to explain those in some degree. This provoked a response by the applicants, first, on 9 December 2021 which relied on the calculation, that is annexure A to these reasons, and identified that the applicants were seeking to have a refund of fees that they paid to the respondents over the 16-month period during which the franchise arrangements operated between them prior to my declaring them void as from 30 June 2018. Secondly, on 10 December 2021, the applicants put on a detailed response to the calculations in MFIs 2 to 6 that included adjustments based on the MYOB files in spreadsheets that I marked for identification as follows:\n\n• MFI7: calculation of changes to net profit: pharmacies;\n\n• MFI8: June 2018 SMSUT service fees; and\n\n• MFI9: calculation of changes to net assets: pharmacies.\n\n[10] Significantly, the applicants’ submissions identified that the respondents’ calculations had omitted a significant sum in June 2018 for fees charged by Mazzawattie, as trustee for SMSUT, for five of the seven stores whose franchise agreements I held to be void, being Tumbarumba, Batlow, Wagga, Tumut and Russell Street. Two other stores, Cootamundra and Young, were not serviced by SMSUT. The applicants’ calculations also identified that there had been an error in the MYOB records for opening stock for the Wagga store in October 2015 that did not bring to account accurately the closing stock for September 2015 but increased it by about $525,000. The applicants relied on their calculations in MFIs 7, 8 and 9 to bring those adjustments substantively to account. They also claimed that, by reason of a favourable arrangement with an ophthalmologist in Wagga that, so they asserted without evidence, commenced in about June 2016, they had dispensed considerable numbers of prescription injections, administered by an ophthalmologist. They claimed that those ophthalmic prescriptions accounted for about $103,000 in profits during the period from then until June 2018. The applicants argued that the respondents could not have been responsible for those profits since arrangements in respect of the franchises only commenced after the ophthalmologist began filling prescriptions.\n\n[11] The respondents submitted that they were in a somewhat difficult position in asserting that they should be given credit against any claims by the applicants because they were not able, first, to maintain the claims in their cross-claim and, secondly, to put on further evidence subsequent to the affidavit of the second respondent, Mark Steidle, sworn 5 October 2021, on which he was cross-examined on 8 October 2021.\n\n[12] During Mr Steidle’s evidence, he established that the applicants had been claiming a refund of franchise fees, some of which had been entered into their MYOB accounts but which they, in fact, had not paid. That non-payment occurred because of the disputes that, by late in the 2017/18 financial year, had arisen between the parties, leading to an overestimate of the applicants’ claims.\n\n[13] After Mr Steidle’s evidence, the applicants made adjustments to their initial claims in column E of annexure A to give an allowance for fees not paid.\n\n[14] The applicants also seek to establish that they have suffered loss or damage that flowed from their entry into the franchise arrangements based on their assignment of fees due to Mazzawattie as trustee of SMSUT, the subject of annexure A, and a transaction that occurred in March 2017, as I found in Watt (No 2) [2021] FCA 826 at [43]. The applicants pleaded in the statement of claim that that transaction came about by Mr Watt causing Mazzawattie to make good inaccurate representations that RX Holdings Pty Limited, the third respondent, had made to Symbion Limited in a balance sheet and information memorandum provided to Symbion on about 1 February 2017. The balance sheet had recorded that SPG’s assets included the trade receivables of $4,490,288 that were, in fact, due to Mazzawattie in its capacity as trustee of SMSUT. I found, based on the allegations in the statement of claim, in Watt (No 2) [2021] FCA 826 at [43]:\n\n> On 18 March 2017, Mr Shepherd proposed to Mr Watt that the latter participate in a scheme to avoid disclosing that RX Holdings’ representation in the information memorandum given to Symbion was misleading. As part of that scheme, Mr Shepherd proposed that Hermidale, as trustee of the Watt Family Trust, forego an amount of approximately $3.5 million standing to its loan account with SMSUT and that, in lieu of that asset, RX Holdings would issue Mazzawattie with 375,000 shares and about 1.5 million options for shares in RX Holdings to convert in proportion to the repayment of the SMSUT trade receivables by the individual pharmacies. Mr Shepherd represented to Mr Watt, on behalf of Hermidale, that RX Holdings’ grant of those shares and options would ensure that Mr Watt and Hermidale were appropriately recognised and remunerated in respect of the loan account by the receipt, in due course, of shares in RX Holdings, including upon the maturity of the options. The representation was founded on the proposition that the shares in RX Holdings would have a value commensurate with the loan account. Mr Watt acted in reliance on that representation and, on behalf of Hermidale, agreed to accept the issue of shares and options in lieu of its SMSUT loan account. The RX Holdings shares have never achieved any commercial value and RX Holdings asserts that it is entitled to be paid the SMSUT trade receivables as assignee of them.\n\n[15] The applicants, through their counsel, have undertaken that, if Mazzawattie’s assignment of the receivables is reversed, they will do all things necessary on their part to be done to transfer, as the respondents direct, all the shares and options for shares in the capital of RX Holdings that the respondents say they issued, so that the transaction can be undone and both parties will be restored to the position they would have had, if the misleading or unconscionable conduct that occurred not taken place.\n\n[16] Both Mr Steidle and Mr Wakeling were chartered accountants. Mr Steidle noted that the MYOB records were not themselves documents prepared to comply with accounting standards. Rather, they were management records that are ordinarily subject to significant adjustments in the preparation of financial statements for an enterprise or company. And, indeed, the history of what has happened in the attempts by both parties to address whatever compensation ought be ordered has demonstrated the results recorded in those MYOB records sometimes need adjustments. Mr Steidle observed that Mr Wakeling’s analysis was based on a selected subset of the costs for support operations that each of the seven pharmacies incurred before, during and after their involvement with the respondents. He noted Mr Wakeling’s figures assumed that all service fees that SPG charged had been incurred and paid. However, Mr Steidle asserted that the Batlow, Russell Street, Tumbarumba, Tumut and Wagga pharmacies had not paid a total of $119,066.21 of the invoiced fees.\n\n[17] The further calculations by the applicants, which were cross-referenced to franchise fees recorded in the MYOB system as having been both paid or not paid up to June 2018, demonstrated that the applicants had wrongly included an allowance of $40,068.45 for fees not paid, that is now corrected in column E in annexure A to these reasons.\n\n[18] Mr Steidle said that the respondents had provided marketing, retail, commercial negotiation, IT and financial support for the applicants’ group, and that many of their services did not exist prior to RX Holdings’ engagement. He asserted that the respondents’ involvement was intended to increase the value of the businesses over a number of years and that Mr Wakeling’s analysis had not quantified the value the respondents had added by the provision of those services. Mr Steidle put forward an example of a new contract that the respondents anticipated would lead to a 10 per cent increase in gross margins of trading with the generic pharmaceutical supplier, Apotex, that SPG had notified to the applicants it had negotiated in October 2017. However, Mr Steidle did not exhibit, and the respondents did not tender, any contract with Apotex. As a result, I limited his assertion about the benefit of any such contract to evidence of a communication and not evidence of the truth of the facts contained in that communication when the respondents sought to rely on it in their evidence. Mr Steidle was involved in the preparation of a table that purported to show in about April 2018 for the 10 month period in each of the financial years commencing 1 July 2016 and 2017 to 30 April 2017 and 2018, respectively, sales of all New South Wales pharmacies in the SPG group had increased by 7.1 per cent as compared to what the table claimed was a 3.2 per cent increase in pharmacy sales for the State.\n\n#### Consideration\n\n[19] However, at that time there were disputes between Mr Watt and the applicants, on the one hand, and the respondents, on the other, as to how the franchise was operating. Those disputes had developed and intensified from January and February 2018. By then, the applicants were seeking to withdraw from the franchise arrangements with the respondents. I find that the document that Mr Steidle relied on, that was prepared by the respondents in April 2018 in order to persuade the applicants not to leave the franchising structure, did not differentiate between statistics for regional and metropolitan pharmacy sales and did not compare, year on year, the performances of the applicants’ pharmacies. The figures which it purported to give as a comparator to performance in the State generally came from a software program of a third party supplier to the respondents that was not in evidence and the accuracy of which was not available to be explored. I give no weight to that comparison.\n\n[20] In MFI2, the respondents calculated that the increase in growth of sales of the seven pharmacies of 5.7 per cent had occurred in the 16 months of their engagement with the applicants as compared to the preceding 16 months. However, as the difficulties with the MYOB figures that I have explained earlier showed, it is difficult to rely on that raw data as to the overall performance of the franchises that is not otherwise examined or explained.\n\n[21] The respondents’ calculations seek to assert that, taken as a whole, there had been an increase in total net assets of both the pharmacies and SMSUT and an increase in net profits over the period when the applicants’ businesses were within the respondents’ franchise arrangements. However, in my opinion, that assertion does not reflect a correct methodological approach. Each of the proprietors of the seven pharmacies, being some of the applicants, claims to be entitled to compensation under ss 237 and or 243 of the Australian Consumer Law in Sch 2 of the Competition and Consumer Act 2010 (Cth) because the respective proprietor suffered loss or damage by the conduct in which the respondents engaged that I have found to have been misleading or deceptive or unconscionable. It cannot be correct to treat the individual proprietors of the pharmacies in a collective way and examine whether, overall, the group was better off or not through its involvement with the respondents. It is the position of each of the relevant store proprietors that is relevant. That is because each of the proprietors individually entered into the now avoided franchise contracts with SPG.\n\n[22] When the performance of each of the seven pharmacies is looked at individually, there is no coherent or observable trend to support the respondents’ analysis. Rather, there is, as one might expect with seven different businesses, a range of performances, some of which resulted in net profits, others in net losses. In my opinion, the respondents’ framework for analysis of the calculation of loss or compensation did not engage with the way in which the applicants put their claim.\n\n[23] As I noted earlier, the respondents pointed out that they had been deprived of the ability to rely on a defence or to seek to set off matters in a cross-claim. However, the relevant analysis of the applicants’ claims based on the statement of claim and the findings in Watt (No 2) [2021] FCA 826 that relied on the pleading in the statement of claim is relatively simple: it is that, first, the applicants would not have paid the respective franchise and marketing fees, that were more expensive than what they had paid SMSUT, and so suffered a loss after giving credit to the respondents for savings in advertising costs during the 16 months resulting from the franchise arrangements and, secondly, Mr Watt would not have caused Mazzawattie to enter into the assignment of the SMSUT trade receivables in exchange for the allotment of shares had the respondents not engaged in the misleading, deceptive or unconscionable conduct.\n\n[24] In I & L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited (2002) 210 CLR 109 at 121–122 [33], Gleeson CJ said:\n\n> I am unable to accept the respondent’s argument. The relevant purpose of the statute was to proscribe misleading and deceptive conduct in circumstances which included those of the present case. In aid of that purpose, the statute provided for compensation, by an award of damages, to a victim of such conduct. The measure of damages stipulated was the loss or damage of which the conduct was a cause. It was not limited to loss or damage of which such conduct was the sole cause. In most business transactions resulting in financial loss there are multiple causes of the loss. The statutory purpose would be defeated if the remedy under s 82 were restricted to loss of which the contravening conduct was the sole cause. What is there, then, in the justice and equity of the particular case that might lead to a conclusion that the respondent should not be regarded as legally responsible for the whole of the loss, even though the contravention was a cause of the whole of the loss? Upon what principle might such responsibility be diminished? In a financing transaction, a lender takes security to protect itself against the risk of default by the borrower. One aspect of that risk is that the lender might have failed adequately to assess the borrower’s capacity to service the debt. I cannot see why, as a matter of principle, such failure by a lender should be treated, in the application of s 82, as a factor which diminishes the legal responsibility of a valuer by negativing in part the causal effect of the valuer’s misleading conduct. The statutory rule of conduct found in s 52, when applied to the relationship between a valuer and a prospective lender, gives rise to a legal responsibility in a case such as the present which extends to the whole of the loss of which the valuer’s misleading conduct is a direct cause.\n\n> (emphasis added)\n\n[25] Gaudron, Gummow and Hayne JJ came to a similar conclusion (210 CLR at 128 [57]); see also Marks v GIO Australia Holdings Limited (1998) 196 CLR 494 at 505 [24] per Gaudron J. And in Marks 196 CLR at 515 [54]–[55], McHugh, Hayne and Callinan JJ said that the inquiry under s 87 of the Trade Practices Act 1974 (Cth), the analogue to s 243 of the ACL, was one about “whether it is likely that as a result of the contravention the party concerned will suffer some prejudice or disadvantage”.\n\n[26] Ordinarily, provided that there is some evidence of damage in the field of assessing damages, a tribunal of fact has to do the best that it can in assessing the quantum: HTW Valuers (Central QLD) Pty Ltd v Astonland Pty Ltd (2004) 217 CLR 640 at 661 [47] per Gleeson CJ, McHugh, Gummow, Kirby and Heydon JJ, citing Barwick CJ in Ted Brown Quarries Pty Ltd v General Quarries (Gilston) Pty Ltd (1977) 16 ALR 23 at 26. The method of assessing compensation under a statutory provision, such as ss 237 and 243, is not confined to the processes provided at common law or equity: Wyzenbeek v Australasian Marine Imports Pty Ltd (2019) 272 FCR 373 at 390–398 [67]–[93] per Rares, Burley and Anastassiou JJ.\n\n[27] I am satisfied that the applicants have established that each of the relevant seven pharmacies suffered a loss calculated in accordance with the methodology identified in annexure A to these reasons. Accordingly, each proprietor of those pharmacies is entitled to a refund of the net extra franchise fees he, she, it or they paid over the term of the franchise agreement, including the marketing levy, giving credit for savings, if any, in that business’s financial servicing, marketing and advertising expenses as compared to the comparable fees that the business paid to SMSUT prior to entering into the franchise arrangements, which it was not charged after the franchising arrangements came into place. The sum to which each of the seven pharmacies is entitled is in column F of annexure A to these reasons to which interest will need to be calculated to today.\n\n[28] I am also satisfied that, as I found in Watt (No 2) [2021] FCA 826 at [43], Mr Watt acted in reliance on the respondents’ misleading and deceptive or unconscionable representation to assign the Mazzawattie’s trade receivables, held in its capacity as the trustee of SMSUT, to make good the representation RX holdings had made to Symbion in exchange for the issue of shares and options that, in effect, were worthless because the represented and promised success of the respondents’ franchise operation came to nothing. It follows that that transaction will also need to be undone.\n\n[29] The originating application claimed an order under ss 237 or 243 of the ACL that the respondents assign to Mazzawattie the SMSUT trade receivables described in par 26 of the statement of claim. The problem with that description was that par 26 stated what those trade receivables were at three different dates, namely: 21 April 2016, 1 January 2017 and 1 March 2017. The respondents described this transaction in their cross-claim, which I dismissed because of their default, as an agreement entered into on 21 March 2017 based on a letter dated 20 March 2017 between RX Holdings and Mr Watt. The applicants have now sought to describe the transaction in those same terms.\n\n#### Conclusion\n\n[30] In my opinion, the appropriate order is to avoid the transaction entered into on or about 18 March 2017 between Mazzawattie, RX Holdings and SPG, pursuant to which Mazzawattie assigned its trade receivables as at that date in exchange for which RX Holdings promised to issue, or issued, Mazzawattie with 375,000 shares and 1,485,233 options to convert, in proportion to payment to RX Holdings of the SMSUT trade receivables by the individual pharmacies. However, that order should be made on condition that the applicants cause to be returned to RX Holdings any shares and options so issued and assign any right to the issue of shares or options, as the respondents direct.\n\n[31] I will make orders which will require the parties to agree some interest calculations on the Court’s pre-judgment interest rates on the net sums payable to the individual pharmacies in accordance with annexure A to these reasons.\n\nI certify that the preceding thirty-one (31) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Rares.\n\nAssociate:\n\nDated: 4 March 2022\n\nANNEXURE A\n\n### SCHEDULE OF PARTIES\n\n|  | NSD 922 of 2021 |\n|---|---|\n| Applicants |  |\n| Fourth Applicant: | SYLVIA WATT |\n| Fifth Applicant: | GLEN MCCALLUM |\n| Sixth Applicant: | KERRIE PEACOCK |\n| Seventh Applicant: | ASBET PTY LTD ACN 003 317 404 |\n| Eighth Applicant: | BURROUGHS PTY LTD ACN 613 528 028 |\n| Ninth Applicant: | HERMIDALE HOLDINGS PTY LTD ACN 151 952 939 |\n| Respondents |  |\n| Fourth Respondent: | SUMMIT PHARMACY GROUP PTY LTD ACN 152 166 660 |\n",
+ "source_sha256": "b1e1d439ecd0dccf8b4ebb7286cf200b49b61c592f6264e1a10e88530a097f79"
+}

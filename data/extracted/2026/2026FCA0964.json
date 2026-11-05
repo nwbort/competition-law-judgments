@@ -1,0 +1,344 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2026/2026FCA0964.docx",
+ "metadata": {
+  "citation": "[2026] FCA 964",
+  "name": "Dynamic Insurance Services Pty Ltd v Steadfast Group Limited",
+  "court": "FCA",
+  "year": 2026,
+  "number": 964,
+  "date_of_judgment": "2026-07-22",
+  "file_numbers": [
+   "WAD91/2026"
+  ],
+  "judges": [
+   "FEUTRILL J"
+  ],
+  "registry": "Western Australia",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "hearing_dates": [
+   "2026-06-17"
+  ],
+  "hearing_raw": "17 June 2026",
+  "number_of_paragraphs": 15,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – corporations – application to dispense with requirement for corporation to be represented by a lawyer – proposed representation by director – applicable principles – overarching purpose of civil practice and procedure provisions – interests of justice – complexity of proceeding – objectivity and independence of litigant – director as witness – director briefing expert witnesses"
+  ],
+  "legislation": [
+   "Australian Consumer Law (being Sch 2 to the Competition and Consumer Act 2001 (Cth)) s 21",
+   "Competition and Consumer Act 2010 (Cth) ss 45, 46, 47",
+   "Australian Securities and Investments Commission Act 2001 (Cth) s 12CB",
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Federal Court Rules 2011 (Cth) rr 1.34, 4.01, 11.02"
+  ],
+  "cases_cited": [
+   "Basetec Services Pty Ltd v CPB Contractors Pty Ltd (formerly Leighton Contractors Pty Ltd) [2017] FCA 510",
+   "Damjanovic v Maley [2002] NSWCA 230; 55 NSWLR 149",
+   "Fox v Olsen [1999] SASC 411",
+   "Francis (Trustee) v Oculus Accounting Pty Ltd [2021] FCA 448",
+   "Giannarelli v Wraith [1988] HCA 52; 165 CLR 543",
+   "Hubbard Association of Scientologists International v Anderson [1972] VR 340",
+   "Lewis v Daily Telegraph Ltd (No 2) [1964] 2 QB 601",
+   "Wedderburn v Wedderburn (1853) 17 Beav 158; 51 ER 993"
+  ],
+  "parties": [
+   {
+    "name": "DYNAMIC INSURANCE SERVICES PTY LTD",
+    "role": "First Applicant"
+   },
+   {
+    "name": "CYNTHIA YAP",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "STEADFAST GROUP LIMITED ACN 073 659 677",
+    "role": "First Respondent"
+   },
+   {
+    "name": "QBE INSURANCE (AUSTRALIA) LIMITED ACN 003 191 035",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "ALLIANZ AUSTRALIA INSURANCE LIMITED ACN 000 122 850",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "The Second Applicant sought leave to represent the First Applicant and appeared in person"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Ms PA Bond"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "Barry Nilsson Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Ms S Nadilo"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Gilbert + Tobin"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Ms R Young SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Hall & Wilcox"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca0964",
+  "portal_file_numbers": [
+   "WAD91/2026"
+  ],
+  "portal_event": "Publication of Reasons",
+  "portal_event_date": "2026-07-22"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number",
+   "value": "WAD 91 of 2026"
+  },
+  {
+   "label": "Judgment of",
+   "value": "FEUTRILL J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "22 July 2026"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – corporations – application to dispense with requirement for corporation to be represented by a lawyer – proposed representation by director – applicable principles – overarching purpose of civil practice and procedure provisions – interests of justice – complexity of proceeding – objectivity and independence of litigant – director as witness – director briefing expert witnesses"
+  },
+  {
+   "label": "Legislation",
+   "value": "Australian Consumer Law (being Sch 2 to the Competition and Consumer Act 2001 (Cth)) s 21\nCompetition and Consumer Act 2010 (Cth) ss 45, 46, 47\nAustralian Securities and Investments Commission Act 2001 (Cth) s 12CB\nFederal Court of Australia Act 1976 (Cth) s 37M\nFederal Court Rules 2011 (Cth) rr 1.34, 4.01, 11.02"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Basetec Services Pty Ltd v CPB Contractors Pty Ltd (formerly Leighton Contractors Pty Ltd) [2017] FCA 510\nDamjanovic v Maley [2002] NSWCA 230; 55 NSWLR 149\nFox v Olsen [1999] SASC 411\nFrancis (Trustee) v Oculus Accounting Pty Ltd [2021] FCA 448\nGiannarelli v Wraith [1988] HCA 52; 165 CLR 543\nHubbard Association of Scientologists International v Anderson [1972] VR 340\nLewis v Daily Telegraph Ltd (No 2) [1964] 2 QB 601\nWedderburn v Wedderburn (1853) 17 Beav 158; 51 ER 993"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "Registry",
+   "value": "Western Australia"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "15"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "17 June 2026"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "The Second Applicant sought leave to represent the First Applicant and appeared in person"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Ms PA Bond"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "Barry Nilsson Lawyers"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Ms S Nadilo"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Gilbert + Tobin"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Ms R Young SC"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Hall & Wilcox"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "WAD91/2026",
+   "parties": [
+    {
+     "name": "DYNAMIC INSURANCE SERVICES PTY LTD",
+     "role": "First Applicant"
+    },
+    {
+     "name": "CYNTHIA YAP",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "STEADFAST GROUP LIMITED ACN 073 659 677",
+     "role": "First Respondent"
+    },
+    {
+     "name": "QBE INSURANCE (AUSTRALIA) LIMITED ACN 003 191 035",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "ALLIANZ AUSTRALIA INSURANCE LIMITED ACN 000 122 850",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "FEUTRILL J"
+   ],
+   "date": "2026-07-22",
+   "date_raw": "22 JULY 2026",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application in the originating application for orders dispensing with the requirement that the first applicant be represented by a lawyer and permitting the second applicant to represent the first applicant in the proceeding be dismissed.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The applicants pay the respondents’ costs of the interlocutory application to be taxed in any event.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "The applicants in this proceeding are a corporation (Dynamic Insurance Services Pty Ltd) and an individual (Ms Yap). Ms Yap is the sole director of Dynamic Insurance. In the originating application the applicants claim declarations, damages, interest, other relief and costs against the respondents (Steadfast Group Limited, QBE Insurance (Australia) Limited and Allianz Australia Insurance Limited) for alleged anti-competitive agreements, misuse of market power, and exclusive dealing in contravention of ss 45, 46 and 47 of the Competition and Consumer Act 2010 (Cth) and statutory unconscionable conduct in contravention of s 21 of the Australian Consumer Law (being Sch 2 to the Competition and Consumer Act) and s 12CB of the Australian Securities and Investments Commission Act 2001 (Cth).",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "Rule 4.01(1) of the Federal Court Rules 2011 (Cth) provides that a person may be represented in the Court by a lawyer or may be unrepresented, but r 4.01(2) provides that a corporation must not proceed in the Court other than by a lawyer. In the originating application the applicants also apply for an interlocutory order dispensing with compliance with r 4.01(2) and permitting Ms Yap to represent Dynamic Insurance in the proceeding. All respondents oppose the Court making such an order.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "As reflected in r 4.01(1), a person may be represented in this Court by a lawyer (a person enrolled as a legal practitioner of a federal court or the Supreme Court of a State or Territory) or may be unrepresented. A corporation is a legal person but is a legal fiction. It acts through the organs of the corporation or through the agency of natural persons. Therefore, in every proceeding in the Court in which a corporation participates, that corporation must be ‘represented’ by a natural person and the corporation cannot be ‘unrepresented’ for the purposes of r 4.01(1). Thus, consistently with the requirement that a person who is represented must be represented by a lawyer, r 4.01(2) provides that a corporation must not proceed in the Court other than by a lawyer. A notice of an address for service for a corporation must also be filed by a lawyer: r 11.02 of the Rules.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Nonetheless, there is no doubt that the Court has power to dispense with compliance with any rule, including r 4.01(2), under r 1.34 of the Rules. However, as with any other provision of the Rules, r 1.34 must be interpreted and applied and the power conferred by r 1.34 must be exercised in the way that best promotes the overarching purpose of the civil practice and procedure provisions: s 37M(1), s 37M(3) of the Federal Court of Australia Act 1976 (Cth). Further, irrespective of r 1.34 of the Rules, the Court has power to dispense with the requirement that a person who is represented must be represented by a lawyer as an incident of the implied power of this Court to control and regulate its proceedings in the interests of the administration of justice. That implied power may be exercised whether the person represented is a natural person or a corporation. The ‘guiding principle’ in the exercise of the dispensing power is the public interest in the attainment of the ends of justice: Damjanovic v Maley [2002] NSWCA 230; 55 NSWLR 149 at [33], [37]-[86] (Stein JA, Mason P and Sheller JA agreeing).",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "Consistently with the overarching purpose of the civil practice and procedure provisions, the public has an interest in the just resolution of disputes as quickly, inexpensively and efficiently as possible. In general, that public interest is best achieved through the representation of parties by lawyers. ‘The adversary system assumes, in the interests of both justice and efficiency, that cases will be presented to courts by skilled professionals. To the extent that assumption breaks down, so does the system’: Damjanovic at [76]-[77], [84] citing a speech Gleeson CJ gave to the Supreme Court of Japan in January 2000.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "As Mason CJ explained in Giannarelli v Wraith [1988] HCA 52; 165 CLR 543, the peculiar feature of a lawyer’s responsibility is that the lawyer owes a duty to the court (the administration of justice) as well as to the client (the person represented). The performance of a lawyer’s paramount duty to the court will require the lawyer to act in a variety of ways to the possible disadvantage of the client. In so doing, performance of the paramount duty facilitates the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible: Giannarelli v Wraith at 556-557. Neither a litigant in person nor lay advocate is an officer of the court and neither owes this paramount duty to the court (the administration of justice). Additionally, neither is at risk of disciplinary sanction for failing to perform this paramount duty.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Lay advocates are also unqualified, unaccredited and uninsured. Lay advocates do not owe the professional obligations to the person represented that are owed by lawyers. Therefore, a person represented by a non-lawyer is exposed to the uninsured risks associated with the provision of untrained and unskilled services. Similarly, lay advocates do not owe professional duties to other parties to the proceeding: Damjanovic at [74]-[75], [79]-[80].",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "It follows that the general rule that a person who is represented in this Court be represented by a lawyer is founded in the public interest in the administration of justice. It is not a rule directed to protecting a lawyer’s privilege or monopoly: Damjanovic at [86]. Otherwise, the rationale for the imposition of the specific requirement that a corporation must not proceed in this Court other than by a lawyer and like requirements in other courts has been examined at length in a number of authorities: Francis (Trustee) v Oculus Accounting Pty Ltd [2021] FCA 448 at [36] (Derrington J). Key reasons include:\nThe importance of ensuring that those who represent a corporation are authorised to do so and may thereby be subjected to orders of the court, in particular, in relation to costs: at [36(1)].\nThat the officer representing a corporation truly represents the interests of the corporation (as a whole) and not the officer’s own interest: at [36(2)].\nThe necessity of the interests of the proper administration of justice means that a person is generally unsuitable to represent a corporation unless that person is a lawyer: at [36(3)]. See, also, Hubbard Association of Scientologists International v Anderson [1972] VR 340 at 343-344 (Smith, Little and Gowans JJ).",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Taking into account the foundation and rationale for the general rule, the Court will usually take into account the following factors, drawn from the authorities, when considering if it is in the interests of the administration of justice to dispense with compliance with r 4.01(2) of the Rules: Basetec Services Pty Ltd v CPB Contractors Pty Ltd (formerly Leighton Contractors Pty Ltd) [2017] FCA 510 at [8] (White J); Francis at [43]-[47].\nThe extent to which a lack of financial capacity would inhibit a corporation from obtaining legal representation. While stultification of the proceeding and access to justice may be a significant factor in favour of dispensation, it is necessary to have regard to the financial capacity of those behind the corporation who stand to benefit from the litigation as part of considering the corporation’s true financial capacity. It is also not a determinative factor and all factors should be taken into account when considering where the balance of the interests of the administration of justice lie.\nHaving regard to the factual and legal complexity of the proceeding, the extent to which the proposed representative of the corporation has appropriate skills, training, qualifications and experience to represent the corporation effectively.\nThe extent to which the overarching purpose of the civil practice and procedure provisions will be or is likely to be attained if the corporation is represented in the proceeding by the proposed representative compared to the extent to which that purpose will be or is likely to be attained if the corporation is represented by a lawyer.\nThe extent to which the proposed representative is able to represent the corporation with the degree of objectivity expected of a legal practitioner. Specifically, the extent to which the proposed representative will be or is likely to be a witness in the proceeding particularly if credit is likely to be in issue and (or) it will be or is likely to be necessary to instruct independent expert witnesses.\nThe extent to which a lack of available disciplinary measures in relation to the proposed representative of the corporation will or may affect the proper administration of justice.\nThe manner in which the proceeding has progressed to the date of the dispensation application and the manner in which it may progress to resolution if the corporation is not represented by a lawyer.\nIf the corporation is a respondent, rather than an applicant, a more liberal approach may be appropriate.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "In the circumstances of this proceeding, it is also relevant that Ms Yap is a separate applicant and she has chosen to be unrepresented in accordance with r 4.01(1) of the Rules. While it is not unusual for separate respondents to have separate representation in a proceeding, there is a long-standing practice that it is not appropriate for multiple applicants to be separately represented in the same proceeding. The rule of practice, as explained in Wedderburn v Wedderburn (1853) 17 Beav 158; 51 ER 993 at 993 (Sir John Romily MR), is directed to the necessity of parties joined as applicants to act consistently and as one in the proceeding: Lewis v Daily Telegraph Ltd (No 2) [1964] 2 QB 601 at 619-620 (Pearson LJ, Sellers LJ and Russell LJ agreeing). Nonetheless, the Court may also dispense with the usual requirement of common representation in an appropriate case if satisfied that certain practical difficulties and potential prejudice to the respondents can be overcome: Fox v Olsen [1999] SASC 411 at [19] (Mullighan J, Doyle CJ and Wicks J agreeing). Therefore, without a dispensing order of another kind in this proceeding, the practical effect of r 4.01(2) is to require both Dynamic Insurance and Ms Yap to be represented by the same lawyer. That is a factor that should also be taken into account in the circumstances of this proceeding as it tends to negate the rationale for representation of a corporation by a lawyer to which reference is made in paras [9(1)] and [9(2)].",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "Nonetheless, although Ms Yap submits that it will be more efficient, cost effective and proportionate if she represents Dynamic Insurance, she also submits that the company, through her, has the financial capacity to engage lawyers. In support of that submission, Ms Yap read an affidavit of hers affirmed 10 June 2026. Although stated as conclusions, Ms Yap deposes, in effect, that she has the financial capacity and is willing and able to provide financial support to Dynamic Insurance by way of a loan. Therefore, the application to dispense with r 4.01(2) is not made on any ground that the requirement of the rule is an impediment to Dynamic Insurance’s (or Ms Yap’s) access to justice if a dispensing order is not made.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "Otherwise, all the remaining factors that are usually taken into account on an application to dispense with r 4.01(2) of the Rules are against exercising that power in the circumstances of this proceeding. Indeed, while Ms Yap submits that her familiarity with the facts and issues is a virtue that would make her representing Dynamic Insurance more efficient and proportionate, in fact, it is her intimacy and identity with the claims that renders her representation of the company the very vice against which representation by a lawyer is intended to guard.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "The proceeding involves complex matters of competition law. Although defences have been filed to the applicants’ statement of claim, a cursory review of the statement of claim reveals that it has deficiencies that are likely to be raised or exploited by the respondents in the proceeding. The proceeding also involves statutory unconscionable conduct, which is also not a straightforward claim factually or legally. As a non-lawyer, it is inevitable that Ms Yap will encounter difficulties pleading and articulating sustainable causes of action that, irrespective of the underlying merits of the claims, is likely to lead to delay, increased cost and inefficiency in the conduct of the proceeding. While Ms Yap’s skill, competence and experience in conducting Dynamic Insurance’s business is not doubted, having regard to these matters of complexity, there is good reason to think that it is not in the best interests of Dynamic Insurance that it be represented by Ms Yap, as a non-lawyer, in the proceeding.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "Further, notwithstanding Ms Yap’s submissions to the contrary, it is difficult to accept that the applicants could prove their claims without calling Ms Yap as a witness. It is also difficult to envisage the applicants proving their claims under ss 45, 46 and 47 of the Competition and Consumer Act without expert evidence of some nature. Therefore, there is a significant risk that Ms Yap will not be able to maintain the degree of objectivity and independence necessary to conduct the proceeding on behalf of Dynamic Insurance and, in particular, instruct expert witnesses in a manner that preserves the independence of those witnesses. In this respect, none of the ethical or disciplinary safeguards to the administration of justice apply to mitigate that risk. Similarly, an absence of objectivity and independence risks the applicants wishing ‘to chase every rabbit down its burrow’ irrespective of merit leading to prolongation, increased cost and inefficiency in the resolution of disputes that can be avoided by lawyers discharging their paramount duty to the Court.",
+    "judge": "FEUTRILL J"
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "In short, in the circumstances of this case there is no reason to depart from (and indeed there are good reasons to retain) the requirement in the Rules that the corporation be represented in proceedings in this Court by a lawyer. Thus, the application to dispense with the requirement of r 4.01(2) should be dismissed with costs.",
+    "judge": "FEUTRILL J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding fifteen (15) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Feutrill.",
+ "associate": null,
+ "dated": "2026-07-22",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Dynamic Insurance Services Pty Ltd v Steadfast Group Limited [2026] FCA 964\n\n## Cover sheet\n\n**File number:** WAD 91 of 2026\n\n**Judgment of:** FEUTRILL J\n\n**Date of judgment:** 22 July 2026\n\n**Catchwords:** PRACTICE AND PROCEDURE – corporations – application to dispense with requirement for corporation to be represented by a lawyer – proposed representation by director – applicable principles – overarching purpose of civil practice and procedure provisions – interests of justice – complexity of proceeding – objectivity and independence of litigant – director as witness – director briefing expert witnesses\n\n**Legislation:** Australian Consumer Law (being Sch 2 to the Competition and Consumer Act 2001 (Cth)) s 21  \nCompetition and Consumer Act 2010 (Cth) ss 45, 46, 47  \nAustralian Securities and Investments Commission Act 2001 (Cth) s 12CB  \nFederal Court of Australia Act 1976 (Cth) s 37M  \nFederal Court Rules 2011 (Cth) rr 1.34, 4.01, 11.02\n\n**Cases cited:** Basetec Services Pty Ltd v CPB Contractors Pty Ltd (formerly Leighton Contractors Pty Ltd) [2017] FCA 510  \nDamjanovic v Maley [2002] NSWCA 230; 55 NSWLR 149  \nFox v Olsen [1999] SASC 411  \nFrancis (Trustee) v Oculus Accounting Pty Ltd [2021] FCA 448  \nGiannarelli v Wraith [1988] HCA 52; 165 CLR 543  \nHubbard Association of Scientologists International v Anderson [1972] VR 340  \nLewis v Daily Telegraph Ltd (No 2) [1964] 2 QB 601  \nWedderburn v Wedderburn (1853) 17 Beav 158; 51 ER 993\n\n**Division:** General Division\n\n**Registry:** Western Australia\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Number of paragraphs:** 15\n\n**Date of hearing:** 17 June 2026\n\n**Counsel for the Applicants:** The Second Applicant sought leave to represent the First Applicant and appeared in person\n\n**Counsel for the First Respondent:** Ms PA Bond\n\n**Solicitor for the First Respondent:** Barry Nilsson Lawyers\n\n**Counsel for the Second Respondent:** Ms S Nadilo\n\n**Solicitor for the Second Respondent:** Gilbert + Tobin\n\n**Counsel for the Third Respondent:** Ms R Young SC\n\n**Solicitor for the Third Respondent:** Hall & Wilcox\n\n## Judgment\n\n### ORDERS\n\n|  | WAD 91 of 2026 |\n|---|---|\n| BETWEEN: | DYNAMIC INSURANCE SERVICES PTY LTD<br>First Applicant<br>CYNTHIA YAP<br>Second Applicant |\n| AND: | STEADFAST GROUP LIMITED ACN 073 659 677<br>First Respondent<br>QBE INSURANCE (AUSTRALIA) LIMITED ACN 003 191 035<br>Second Respondent<br>ALLIANZ AUSTRALIA INSURANCE LIMITED ACN 000 122 850<br>Third Respondent |\n\n| order made by: | FEUTRILL J |\n|---|---|\n| DATE OF ORDER: | 22 JULY 2026 |\n\n### THE COURT ORDERS THAT:\n\n1. The interlocutory application in the originating application for orders dispensing with the requirement that the first applicant be represented by a lawyer and permitting the second applicant to represent the first applicant in the proceeding be dismissed.\n\n2. The applicants pay the respondents’ costs of the interlocutory application to be taxed in any event.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### FEUTRILL J:\n\n[1] The applicants in this proceeding are a corporation (Dynamic Insurance Services Pty Ltd) and an individual (Ms Yap). Ms Yap is the sole director of Dynamic Insurance. In the originating application the applicants claim declarations, damages, interest, other relief and costs against the respondents (Steadfast Group Limited, QBE Insurance (Australia) Limited and Allianz Australia Insurance Limited) for alleged anti-competitive agreements, misuse of market power, and exclusive dealing in contravention of ss 45, 46 and 47 of the Competition and Consumer Act 2010 (Cth) and statutory unconscionable conduct in contravention of s 21 of the Australian Consumer Law (being Sch 2 to the Competition and Consumer Act) and s 12CB of the Australian Securities and Investments Commission Act 2001 (Cth).\n\n[2] Rule 4.01(1) of the Federal Court Rules 2011 (Cth) provides that a person may be represented in the Court by a lawyer or may be unrepresented, but r 4.01(2) provides that a corporation must not proceed in the Court other than by a lawyer. In the originating application the applicants also apply for an interlocutory order dispensing with compliance with r 4.01(2) and permitting Ms Yap to represent Dynamic Insurance in the proceeding. All respondents oppose the Court making such an order.\n\n[3] As reflected in r 4.01(1), a person may be represented in this Court by a lawyer (a person enrolled as a legal practitioner of a federal court or the Supreme Court of a State or Territory) or may be unrepresented. A corporation is a legal person but is a legal fiction. It acts through the organs of the corporation or through the agency of natural persons. Therefore, in every proceeding in the Court in which a corporation participates, that corporation must be ‘represented’ by a natural person and the corporation cannot be ‘unrepresented’ for the purposes of r 4.01(1). Thus, consistently with the requirement that a person who is represented must be represented by a lawyer, r 4.01(2) provides that a corporation must not proceed in the Court other than by a lawyer. A notice of an address for service for a corporation must also be filed by a lawyer: r 11.02 of the Rules.\n\n[4] Nonetheless, there is no doubt that the Court has power to dispense with compliance with any rule, including r 4.01(2), under r 1.34 of the Rules. However, as with any other provision of the Rules, r 1.34 must be interpreted and applied and the power conferred by r 1.34 must be exercised in the way that best promotes the overarching purpose of the civil practice and procedure provisions: s 37M(1), s 37M(3) of the Federal Court of Australia Act 1976 (Cth). Further, irrespective of r 1.34 of the Rules, the Court has power to dispense with the requirement that a person who is represented must be represented by a lawyer as an incident of the implied power of this Court to control and regulate its proceedings in the interests of the administration of justice. That implied power may be exercised whether the person represented is a natural person or a corporation. The ‘guiding principle’ in the exercise of the dispensing power is the public interest in the attainment of the ends of justice: Damjanovic v Maley [2002] NSWCA 230; 55 NSWLR 149 at [33], [37]-[86] (Stein JA, Mason P and Sheller JA agreeing).\n\n[5] Consistently with the overarching purpose of the civil practice and procedure provisions, the public has an interest in the just resolution of disputes as quickly, inexpensively and efficiently as possible. In general, that public interest is best achieved through the representation of parties by lawyers. ‘The adversary system assumes, in the interests of both justice and efficiency, that cases will be presented to courts by skilled professionals. To the extent that assumption breaks down, so does the system’: Damjanovic at [76]-[77], [84] citing a speech Gleeson CJ gave to the Supreme Court of Japan in January 2000.\n\n[6] As Mason CJ explained in Giannarelli v Wraith [1988] HCA 52; 165 CLR 543, the peculiar feature of a lawyer’s responsibility is that the lawyer owes a duty to the court (the administration of justice) as well as to the client (the person represented). The performance of a lawyer’s paramount duty to the court will require the lawyer to act in a variety of ways to the possible disadvantage of the client. In so doing, performance of the paramount duty facilitates the just resolution of disputes according to law and as quickly, inexpensively and efficiently as possible: Giannarelli v Wraith at 556-557. Neither a litigant in person nor lay advocate is an officer of the court and neither owes this paramount duty to the court (the administration of justice). Additionally, neither is at risk of disciplinary sanction for failing to perform this paramount duty.\n\n[7] Lay advocates are also unqualified, unaccredited and uninsured. Lay advocates do not owe the professional obligations to the person represented that are owed by lawyers. Therefore, a person represented by a non-lawyer is exposed to the uninsured risks associated with the provision of untrained and unskilled services. Similarly, lay advocates do not owe professional duties to other parties to the proceeding: Damjanovic at [74]-[75], [79]-[80].\n\n[8] It follows that the general rule that a person who is represented in this Court be represented by a lawyer is founded in the public interest in the administration of justice. It is not a rule directed to protecting a lawyer’s privilege or monopoly: Damjanovic at [86]. Otherwise, the rationale for the imposition of the specific requirement that a corporation must not proceed in this Court other than by a lawyer and like requirements in other courts has been examined at length in a number of authorities: Francis (Trustee) v Oculus Accounting Pty Ltd [2021] FCA 448 at [36] (Derrington J). Key reasons include:\n\nThe importance of ensuring that those who represent a corporation are authorised to do so and may thereby be subjected to orders of the court, in particular, in relation to costs: at [36(1)].\n\nThat the officer representing a corporation truly represents the interests of the corporation (as a whole) and not the officer’s own interest: at [36(2)].\n\nThe necessity of the interests of the proper administration of justice means that a person is generally unsuitable to represent a corporation unless that person is a lawyer: at [36(3)]. See, also, Hubbard Association of Scientologists International v Anderson [1972] VR 340 at 343-344 (Smith, Little and Gowans JJ).\n\n[9] Taking into account the foundation and rationale for the general rule, the Court will usually take into account the following factors, drawn from the authorities, when considering if it is in the interests of the administration of justice to dispense with compliance with r 4.01(2) of the Rules: Basetec Services Pty Ltd v CPB Contractors Pty Ltd (formerly Leighton Contractors Pty Ltd) [2017] FCA 510 at [8] (White J); Francis at [43]-[47].\n\nThe extent to which a lack of financial capacity would inhibit a corporation from obtaining legal representation. While stultification of the proceeding and access to justice may be a significant factor in favour of dispensation, it is necessary to have regard to the financial capacity of those behind the corporation who stand to benefit from the litigation as part of considering the corporation’s true financial capacity. It is also not a determinative factor and all factors should be taken into account when considering where the balance of the interests of the administration of justice lie.\n\nHaving regard to the factual and legal complexity of the proceeding, the extent to which the proposed representative of the corporation has appropriate skills, training, qualifications and experience to represent the corporation effectively.\n\nThe extent to which the overarching purpose of the civil practice and procedure provisions will be or is likely to be attained if the corporation is represented in the proceeding by the proposed representative compared to the extent to which that purpose will be or is likely to be attained if the corporation is represented by a lawyer.\n\nThe extent to which the proposed representative is able to represent the corporation with the degree of objectivity expected of a legal practitioner. Specifically, the extent to which the proposed representative will be or is likely to be a witness in the proceeding particularly if credit is likely to be in issue and (or) it will be or is likely to be necessary to instruct independent expert witnesses.\n\nThe extent to which a lack of available disciplinary measures in relation to the proposed representative of the corporation will or may affect the proper administration of justice.\n\nThe manner in which the proceeding has progressed to the date of the dispensation application and the manner in which it may progress to resolution if the corporation is not represented by a lawyer.\n\nIf the corporation is a respondent, rather than an applicant, a more liberal approach may be appropriate.\n\n[10] In the circumstances of this proceeding, it is also relevant that Ms Yap is a separate applicant and she has chosen to be unrepresented in accordance with r 4.01(1) of the Rules. While it is not unusual for separate respondents to have separate representation in a proceeding, there is a long-standing practice that it is not appropriate for multiple applicants to be separately represented in the same proceeding. The rule of practice, as explained in Wedderburn v Wedderburn (1853) 17 Beav 158; 51 ER 993 at 993 (Sir John Romily MR), is directed to the necessity of parties joined as applicants to act consistently and as one in the proceeding: Lewis v Daily Telegraph Ltd (No 2) [1964] 2 QB 601 at 619-620 (Pearson LJ, Sellers LJ and Russell LJ agreeing). Nonetheless, the Court may also dispense with the usual requirement of common representation in an appropriate case if satisfied that certain practical difficulties and potential prejudice to the respondents can be overcome: Fox v Olsen [1999] SASC 411 at [19] (Mullighan J, Doyle CJ and Wicks J agreeing). Therefore, without a dispensing order of another kind in this proceeding, the practical effect of r 4.01(2) is to require both Dynamic Insurance and Ms Yap to be represented by the same lawyer. That is a factor that should also be taken into account in the circumstances of this proceeding as it tends to negate the rationale for representation of a corporation by a lawyer to which reference is made in paras [9(1)] and [9(2)].\n\n[11] Nonetheless, although Ms Yap submits that it will be more efficient, cost effective and proportionate if she represents Dynamic Insurance, she also submits that the company, through her, has the financial capacity to engage lawyers. In support of that submission, Ms Yap read an affidavit of hers affirmed 10 June 2026. Although stated as conclusions, Ms Yap deposes, in effect, that she has the financial capacity and is willing and able to provide financial support to Dynamic Insurance by way of a loan. Therefore, the application to dispense with r 4.01(2) is not made on any ground that the requirement of the rule is an impediment to Dynamic Insurance’s (or Ms Yap’s) access to justice if a dispensing order is not made.\n\n[12] Otherwise, all the remaining factors that are usually taken into account on an application to dispense with r 4.01(2) of the Rules are against exercising that power in the circumstances of this proceeding. Indeed, while Ms Yap submits that her familiarity with the facts and issues is a virtue that would make her representing Dynamic Insurance more efficient and proportionate, in fact, it is her intimacy and identity with the claims that renders her representation of the company the very vice against which representation by a lawyer is intended to guard.\n\n[13] The proceeding involves complex matters of competition law. Although defences have been filed to the applicants’ statement of claim, a cursory review of the statement of claim reveals that it has deficiencies that are likely to be raised or exploited by the respondents in the proceeding. The proceeding also involves statutory unconscionable conduct, which is also not a straightforward claim factually or legally. As a non-lawyer, it is inevitable that Ms Yap will encounter difficulties pleading and articulating sustainable causes of action that, irrespective of the underlying merits of the claims, is likely to lead to delay, increased cost and inefficiency in the conduct of the proceeding. While Ms Yap’s skill, competence and experience in conducting Dynamic Insurance’s business is not doubted, having regard to these matters of complexity, there is good reason to think that it is not in the best interests of Dynamic Insurance that it be represented by Ms Yap, as a non-lawyer, in the proceeding.\n\n[14] Further, notwithstanding Ms Yap’s submissions to the contrary, it is difficult to accept that the applicants could prove their claims without calling Ms Yap as a witness. It is also difficult to envisage the applicants proving their claims under ss 45, 46 and 47 of the Competition and Consumer Act without expert evidence of some nature. Therefore, there is a significant risk that Ms Yap will not be able to maintain the degree of objectivity and independence necessary to conduct the proceeding on behalf of Dynamic Insurance and, in particular, instruct expert witnesses in a manner that preserves the independence of those witnesses. In this respect, none of the ethical or disciplinary safeguards to the administration of justice apply to mitigate that risk. Similarly, an absence of objectivity and independence risks the applicants wishing ‘to chase every rabbit down its burrow’ irrespective of merit leading to prolongation, increased cost and inefficiency in the resolution of disputes that can be avoided by lawyers discharging their paramount duty to the Court.\n\n[15] In short, in the circumstances of this case there is no reason to depart from (and indeed there are good reasons to retain) the requirement in the Rules that the corporation be represented in proceedings in this Court by a lawyer. Thus, the application to dispense with the requirement of r 4.01(2) should be dismissed with costs.\n\nI certify that the preceding fifteen (15) numbered paragraphs are a true copy of the Reasons for Judgment of the Honourable Justice Feutrill.\n\nAssociate:\n\nDated: 22 July 2026\n",
+ "source_sha256": "93f771d8739c2fe0cfe214d08d7d1c010b4f632035af8082cdffc76c951105a5"
+}

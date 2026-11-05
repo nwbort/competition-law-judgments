@@ -1,0 +1,488 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2014/2014FCA1010.docx",
+ "metadata": {
+  "citation": "[2014] FCA 1010",
+  "name": "Australian Competition and Consumer Commission v Australian Egg Corporation Limited",
+  "court": "FCA",
+  "year": 2014,
+  "number": 1010,
+  "date_of_judgment": "2014-09-18",
+  "file_numbers": [
+   "SAD121/2014"
+  ],
+  "judges": [
+   "WHITE J"
+  ],
+  "registry": "South Australia",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Adelaide",
+  "hearing_dates": [
+   "2014-08-19"
+  ],
+  "hearing_raw": "19 August 2014",
+  "number_of_paragraphs": 37,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – transfer of proceedings – respondents based in various States – whether ‘sound reason’ to order transfer – applicant’s choice of venue not capricious – transfer would convenience some parties and potential witnesses while inconveniencing others – location of legal representatives of limited significance – application refused."
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 44ZZRJ",
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 48"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Collagen Aesthetics Australia Pty Ltd [2002] FCA 1134",
+   "Australian Competition and Consumer Commission v Virgin Mobile Australia Pty Ltd [2002] FCA 1239",
+   "Australian Competition and Consumer Commission v Fila Sport Oceania Pty Ltd [2003] FCA 430",
+   "BWK Elders (Australia) Pty Ltd v Westgate Wool Company Pty Ltd [2002] FCA 807",
+   "Lamb v Hogs Breath Company Pty Ltd (No 1) [2007] FCA 49",
+   "Mortimer v Opes Prime Stockbroking Ltd (Administrators Appointed) (in liq) [2009] FCA 227",
+   "National Mutual Holdings Pty Ltd v The Sentry Corporation (1988) 19 FCR 155",
+   "Wepar Nominees Pty Ltd v Schofield [2013] FCA 920"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AUSTRALIAN EGG CORPORATION LIMITED",
+    "role": "First Respondent"
+   },
+   {
+    "name": "JAMES DALE KELLAWAY",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "FARM PRIDE FOODS LTD",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "ZELKO LENDICH",
+    "role": "Fourth Respondent"
+   },
+   {
+    "name": "IRONSIDE MANAGEMENT SERVICES PTY LTD",
+    "role": "Fifth Respondent"
+   },
+   {
+    "name": "JEFFREY WILLIAM IRONSIDE",
+    "role": "Sixth Respondent"
+   },
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Appellant"
+   },
+   {
+    "name": "aUSTRALIAN EGG CORPORATION LIMITED",
+    "role": "First Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AUSTRALIAN EGG CORPORATION LIMITED, JAMES DALE KELLAWAY, FARM PRIDE FOODS LTD, ZELKO LENDICH, IRONSIDE MANAGEMENT SERVICES PTY LTD and JEFFREY WILLIAM IRONSIDE",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms N Charlesworth"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitors"
+   },
+   {
+    "role": "counsel",
+    "for": "the First and Second Respondents",
+    "name": "Mr S Doyle SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First and Second Respondents",
+    "name": "Fisher Jeffries"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr D Star"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "B2B Lawyers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth Respondent",
+    "name": "Mr C Henderson"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fourth Respondent",
+    "name": "Lander & Rogers"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fifth and Sixth Respondents",
+    "name": "Mr L Merrick"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fifth and Sixth Respondents",
+    "name": "Henry Davis York"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2014/2014fca1010",
+  "portal_file_numbers": [
+   "SAD121/2014"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2014-09-18"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2014] FCA 1010"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AUSTRALIAN EGG CORPORATION LIMITED, JAMES DALE KELLAWAY, FARM PRIDE FOODS LTD, ZELKO LENDICH, IRONSIDE MANAGEMENT SERVICES PTY LTD and JEFFREY WILLIAM IRONSIDE"
+  },
+  {
+   "label": "File number",
+   "value": "SAD 121 of 2014"
+  },
+  {
+   "label": "Judge",
+   "value": "WHITE J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "18 September 2014"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – transfer of proceedings – respondents based in various States – whether ‘sound reason’ to order transfer – applicant’s choice of venue not capricious – transfer would convenience some parties and potential witnesses while inconveniencing others – location of legal representatives of limited significance – application refused."
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 44ZZRJ\nFederal Court of Australia Act 1976 (Cth) ss 37M, 48"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Collagen Aesthetics Australia Pty Ltd [2002] FCA 1134\nAustralian Competition and Consumer Commission v Virgin Mobile Australia Pty Ltd [2002] FCA 1239\nAustralian Competition and Consumer Commission v Fila Sport Oceania Pty Ltd [2003] FCA 430\nBWK Elders (Australia) Pty Ltd v Westgate Wool Company Pty Ltd [2002] FCA 807\nLamb v Hogs Breath Company Pty Ltd (No 1) [2007] FCA 49\nMortimer v Opes Prime Stockbroking Ltd (Administrators Appointed) (in liq) [2009] FCA 227\nNational Mutual Holdings Pty Ltd v The Sentry Corporation (1988) 19 FCR 155\nWepar Nominees Pty Ltd v Schofield [2013] FCA 920"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "19 August 2014"
+  },
+  {
+   "label": "Place",
+   "value": "Adelaide"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "37"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms N Charlesworth"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitors"
+  },
+  {
+   "label": "Counsel for the First and Second Respondents",
+   "value": "Mr S Doyle SC"
+  },
+  {
+   "label": "Solicitors for the First and Second Respondents",
+   "value": "Fisher Jeffries"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr D Star"
+  },
+  {
+   "label": "Solicitors for the Third Respondent",
+   "value": "B2B Lawyers"
+  },
+  {
+   "label": "Counsel for the Fourth Respondent",
+   "value": "Mr C Henderson"
+  },
+  {
+   "label": "Solicitors for the Fourth Respondent",
+   "value": "Lander & Rogers"
+  },
+  {
+   "label": "Counsel for the Fifth and Sixth Respondents",
+   "value": "Mr L Merrick"
+  },
+  {
+   "label": "Solicitors for the Fifth and Sixth Respondents",
+   "value": "Henry Davis York"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "SAD121/2014",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AUSTRALIAN EGG CORPORATION LIMITED",
+     "role": "First Respondent"
+    },
+    {
+     "name": "JAMES DALE KELLAWAY",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "FARM PRIDE FOODS LTD",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "ZELKO LENDICH",
+     "role": "Fourth Respondent"
+    },
+    {
+     "name": "IRONSIDE MANAGEMENT SERVICES PTY LTD",
+     "role": "Fifth Respondent"
+    },
+    {
+     "name": "JEFFREY WILLIAM IRONSIDE",
+     "role": "Sixth Respondent"
+    }
+   ],
+   "judges": [
+    "WHITE J"
+   ],
+   "date_raw": "18 september",
+   "place": "ADELAIDE",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The Third and Fourth Respondents’ interlocutory application of 9 July 2014 is refused.",
+     "level": 0
+    }
+   ],
+   "registry": "South Australia",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "In these proceedings, the Australian Competition and Consumer Commission (the ACCC) seeks declarations that each of the six respondents attempted to induce certain egg producers to enter into an arrangement, or to arrive at an understanding, containing a cartel provision which would contravene s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) (the CCA). In addition, the ACCC seeks consequential orders including the imposition of pecuniary penalties on each respondent."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The principal conduct upon which the ACCC relies for the claim is said to have occurred at a meeting held in Sydney on 8 February 2012 organised by the first respondent, the Australian Egg Corporation Ltd (AECL). The meeting is said to have been attended by representatives of 19 egg producers in various States and the Northern Territory as well as by the second respondent (Mr Kellaway), the fourth respondent (Mr Lendich) and the sixth respondent (Mr Ironside). Each of Messrs Kellaway, Lendich and Ironside were directors of AECL in February 2012. Mr Lendich was also a director of the third respondent, Farm Pride Foods Ltd (Farm Pride) and Mr Ironside a director of the fifth respondent, Ironside Management Services Pty Ltd (Ironside Management). The ACCC alleges that at the meeting on 8 February 2012 the respondents encouraged egg producers to act in a coordinated and consolidated fashion to limit the production and supply of eggs in Australia."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "The proceedings were commenced in the South Australian District Registry of the Court on 26 May 2014. Farm Pride and Mr Lendich seek an order under s 48 of the Federal Court of Australia Act 1976 (Cth) (the FCA Act) transferring the proceeding to the Victorian District Registry. The remaining respondents consent to an order for transfer being made, but the application is opposed by the ACCC."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Section 48(1) of the FCA Act provides as follows:\nThe Court or a Judge may, at any stage of a proceeding in the Court, direct that the proceeding or a part of the proceeding be conducted or continued at a place specified in the order, subject to such conditions (if any) as the Court or Judge imposes."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "The exercise of the discretion under s 48 has now been considered on numerous occasions, and the principles on which the Court acts are settled. In National Mutual Holdings Pty Ltd v The Sentry Corporation (1988) 19 FCR 155 at 162, the Full Court said:\nThe Court must, however, be satisfied, after considering all relevant matters, that there is sound reason to direct that the proceeding be conducted or continued elsewhere. Its starting point is that the proceeding has been commenced at a particular place. Why should it be changed? On the one hand, if the party who commenced the proceeding chose that place capriciously the Court will be justified in giving no weight to the choice of place. At the other end of the scale, a proceeding may have continued for some time at the place of commencement with many steps having been taken there, for example, filing of pleadings and affidavits, discovery and inspection. Due weight will be given by the court to such matters before directing that the proceeding should continue at a different place.\nThe balance of convenience is important, but its weight must vary from case to case. Ultimately the test is: where can the case be conducted or continued most suitably bearing in mind the interests of all the parties, the ends of justice in the determination of issues between them, and the most efficient administration of the Court. It cannot and should not, in our opinion, be defined more closely or precisely.\nThe subsequent cases have indicated the variety of matters which may bear on the determination of whether there is “sound reason” to order the transfer of the proceedings. Given the various circumstances in which applications for transfer are made, it is unsurprising that the considerations which are given prominence vary from case to case."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Some matters can be taken to be settled. These include:\n(a) there is no onus of proof in the strict sense to be discharged by the party seeking to have the proceedings continued elsewhere: Sentry at 162;\n(b) the national character of the Court, including its capacity to put in place flexible arrangements for the taking of evidence and the receipt of submissions, is pertinent: Australian Competition and Consumer Commission v Virgin Mobile Australia Pty Ltd [2002] FCA 1239 at [16], [20]; Mortimer v Opes Prime Stockbroking Ltd (Administrators Appointed) (in liq) [2009] FCA 227 at [15]. As French J observed in Lamb v Hogs Breath Company Pty Ltd (No 1) [2007] FCA 49 at [9]:\nSo far as the interlocutory processes are concerned, unless some unusual circumstance occurs, it matters little whether the proceeding is in the Perth or Brisbane Registry because in either event the party not in the home Registry will be able to participate by way of video-link or even teleconference. The Court also has the facility for the electronic filing of submissions and the like and the conduct of litigation, in part, through that.\n(c) The place of residence of the parties and their witnesses, the expense to the parties, the place where the events giving rise to the applicant’s cause of action, and the convenience of the Court itself are relevant matters: Sentry at 162;\n(d) The balance of convenience is a very relevant, but not decisive, consideration: Sentry at 162.\n(e) Any difference in the rights of the parties under the relevant law of different States or Territories, to the extent that these can be identified and assessed at the time the Court considers the application, may be material: Sentry at 163;\n(f) Ultimately, the discretion is to be exercised “having regard to considerations of sound case management, the national character of the court and practical considerations including the convenience of the parties”: Virgin Mobile at [16]."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "Counsel for Farm Pride also referred to the overarching purpose of the civil practice and procedure provisions specified in s 37M of the FCA Act and, in particular, to the efficient use of the judicial and administrative resources available for the purposes of the Court (subs (2)(b)). However, s 37M appears to add little, if anything, to the matters to be considered, as matters of efficiency, expedition and economy are usual matters for the Court’s consideration."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "Counsel for Farm Pride referred, first, to the absence of any real connection of the proceedings to South Australia. He noted that the events giving rise to the cause of action alleged by the ACCC did not occur in South Australia as the meeting of 8 February 2012 took place in Sydney and only one participant at the meeting, a Mr Andary, is from South Australia. There is presently no indication that Mr Andary will give evidence in the trial. None of the respondents are based in Adelaide."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "Counsel also submitted that the reason that the ACCC commenced the proceedings in the South Australian Registry is the happenstance that it conducted its investigation in its Adelaide office. He submitted that this circumstance meant that the ACCC’s decision to commence the proceeding in the South Australian Registry was “capricious” in the sense discussed in Sentry at 162. Counsel drew attention to Australian Competition and Consumer Commission v Collagen Aesthetics Australia Pty Ltd [2002] FCA 1134 in which proceedings commenced in the South Australian Registry by reason only that the ACCC had carried out its investigations in Adelaide were transferred to Canberra. He submitted that similar considerations were applicable in the present case."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "In my opinion, the decision of the ACCC to commence the proceedings in the South Australian Registry cannot reasonably be regarded as capricious in the sense of being random, fickle or intended to prejudice the respondents. I agree, respectfully, with the observation of French J in Virgin Mobile at [19]:\nThe choice of location by the ACCC was not capricious and it is not suggested that it was. The Perth office had the conduct of the initial investigation. Whether that was because of a local complaint or because of an allocation of a task involving a national marketing operation to the Perth office by the ACCC headquarters in Canberra does not appear and is really neither here nor there.\nI also observe that in Collagen Aesthetics, Cooper J did not regard the ACCC’s commencement of proceedings in the same city in which it had investigated the subject matter of the proceedings to be capricious, saying only that it was “fortuitous”."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "I agree that, apart from the circumstance that the ACCC carried out its investigation in its Adelaide office, the proceedings do not otherwise appear to have a natural connection with South Australia. In saying that, I am putting to one side consideration of the parties’ legal representation to which I will return."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "On the other hand, the natural connection of the proceedings with Victoria, again putting to one side the parties’ legal representation, is not particularly strong either."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "Counsel referred to two principal features. First, Farm Pride is a publicly listed company with operations in New South Wales and Victoria but its headquarters and senior executive staff are based in Keysborough in Melbourne. On the other hand, I note that only one of Farm Pride’s current directors is resident in Victoria. That is Mr De Lacy who is also acting as Farm Pride’s interim Chief Executive Officer. Further, the registered office of the AECL is in Sydney and none of its directors reside in Melbourne. The registered office of Ironside Management is in Queensland and all of its directors, including Mr Ironside, also reside in Queensland."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The second feature is that there were more participants from Victoria at the 8 February 2012 meeting than from any other State. Nine of the participants are based in Victoria, six in New South Wales, three in Queensland, one in South Australia and two (apart from Mr Lendich) in Western Australia. It is to be noted however, that the combined number of attendees from other States exceeds those from Victoria. That circumstance diminishes Melbourne as the most suitable place for the proceedings."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "The location of the witnesses who will, or who are likely to, give evidence in the trial is an important consideration. The convenience of witnesses and of those calling them seemed to be the most substantial of the matters to which Farm Pride referred."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "As noted, 13 of the attendees at the 8 February 2012 meeting live in other States. If they are required to give evidence, they will have to travel to the place of trial, whether it be Adelaide or Melbourne. I also observe that the affidavits on which Farm Pride and Mr Lendich rely do not indicate whether the Victorian based participants are resident in, or close to Melbourne, or elsewhere in Victoria. If they are not resident in or near Melbourne, some travel by them, with the associated costs and inconvenience, will be inevitable in any event. It is also possible that, for some of these attendees, Adelaide may be a more convenient location than Melbourne. However, I accept that generally one would expect Victorian based witnesses to consider Melbourne a more convenient location for trial than Adelaide."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "However, the significance to be attached to the circumstance that nine of the attendees reside in Victoria is diminished because the Court has not been told that any of them will, or is likely to, give evidence at the trial. The ACCC has indicated that its case is likely to be entirely documentary. Farm Pride and Mr Lendich have referred only to “potential” witnesses. The other respondents have not given any indication as to the evidence, if any, they are likely to adduce at the trial."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "The uncertainty as to whether any Victorian based person will, or is likely to, give evidence at the trial mitigates against the convenience of the witnesses, and of those calling them, being regarded as a sound reason for transfer of proceedings to Melbourne at this stage. That is especially so given that, when the Court has information about the persons who will give evidence, it will be able to give directions as to the venue of the trial and, if appropriate, to the taking of evidence from witnesses via video link. In doing so, it will be able to take account of the nature, likely length and importance of the evidence from each proposed witnesses."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "Counsel emphasised some matters of convenience. Mr Lendich, who was one of Farm Pride’s directors at relevant times, but is no longer, resides in Perth. He was previously Managing Director/Executive Chairman of Farm Pride but is now the executive director of a small technology company operating as a management consultant in the food industry. Although resident in Perth, Mr Lendich deposed to having strong business and personal networks in Melbourne and only limited association with Adelaide. He travels to Melbourne at least once a month for approximately five days for personal and business reasons. An adult daughter lives in Melbourne. He deposed to the convenience for him of the proceedings being conducted in Melbourne having regard to the ease of access to his Melbourne based solicitors and counsel and to the private accommodation arrangements available to him."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Mr Lendich also deposed to the strain imposed by his involvement in the litigation, especially having regard to the potential effect on his professional reputation. I accept that that is likely to be the case. However, I consider that strain will continue wherever the proceedings are continued and that the transfer of the proceedings to Melbourne is unlikely to mitigate it in a significant way. I also observe that Mr Lendich was, until recently, a director of a publicly listed company."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "Mr Bell is a director of Farm Pride and was an attendee at the meeting on 8 February 2012. He is not a party to the proceedings but has deposed that he expects to be called as a witness at the trial, although he did not indicate by whom. Although resident in Perth, Mr Bell deposed to having strong business networks in Melbourne and to travelling to Melbourne two or three times per month for business and other purposes. He would find it more convenient and cost effective if the proceedings were conducted in Melbourne, as he travels to Adelaide less frequently."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "The inconvenience to Mr Lendich and Mr Bell if the proceedings remain in Adelaide is, to an extent, offset by the inconvenience to the ACCC and its staff if those who have been involved in the investigation and instruction of its legal advisors have to travel to Melbourne."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "Farm Pride and Mr Lendich referred in detail to the legal representation of the various parties. However, the location of the parties’ legal representatives is generally regarded as a matter of limited significance on applications of the present kind. See, for example, BWK Elders (Australia) Pty Ltd v Westgate Wool Company Pty Ltd [2002] FCA 807 at [22]-[25]; Virgin Mobile at [18]; Australian Competition and Consumer Commission v Fila Sport Oceania Pty Ltd [2003] FCA 430 at [8] and Wepar Nominees Pty Ltd v Schofield [2013] FCA 920 at [12]. In the ordinary case, the parties select the solicitors and counsel to represent them with knowledge of the registry in which the proceedings have been commenced, with the consequence that that selection does not, at least generally, create a circumstance capable of having much significance on a transfer application."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "The ACCC is represented by the Australian Government Solicitor (AGS) through its Adelaide office. Apart from the supervision exercised by a Melbourne based solicitor in the AGS, the legal work has been carried out in Adelaide. The ACCC has retained Adelaide based junior counsel and Melbourne based senior counsel."
+   },
+   {
+    "n": 25,
+    "headings": [],
+    "text": "The AECL and Mr Kellaway are both represented by the one Adelaide based firm of solicitors and by Adelaide based counsel. Farm Pride is represented by Melbourne based solicitors and counsel who, for a time, also represented Mr Lendich. These solicitors have a longstanding relationship with Farm Pride and were retained by it in July 2013 in relation to the investigation by the ACCC which gave rise to the proceedings. It is understandable that Farm Pride will wish those solicitors to continue as its legal representatives in the proceedings. I take into account that those solicitors were retained well before the proceedings were commenced."
+   },
+   {
+    "n": 26,
+    "headings": [],
+    "text": "Mr Lendich is now represented by Melbourne based solicitors who have retained, or are retaining, Melbourne based counsel. However, Mr Lendich retained these solicitors and counsel as recently as 18 July 2014, that is, after Farm Pride and Mr Lendich had filed their application seeking a transfer of the proceedings to the Court’s Melbourne Registry. Mr Lendich may be taken to have been aware at the time of the prospect that the transfer application may be refused."
+   },
+   {
+    "n": 27,
+    "headings": [],
+    "text": "Ironside Management and Mr Ironside are represented by Sydney based solicitors but Melbourne based counsel."
+   },
+   {
+    "n": 28,
+    "headings": [],
+    "text": "Thus, if the parties continue their current representation arrangements, the number who will be inconvenienced if the proceedings remain in Adelaide is approximately equal to the number who will be inconvenienced if the proceedings are transferred."
+   },
+   {
+    "n": 29,
+    "headings": [],
+    "text": "No doubt the involvement of Melbourne based solicitors and counsel will add to the costs of some parties if the proceedings remain in Adelaide. However, those additional costs will result from the choice which those parties have made with respect to the legal representation. I accept, however, that that consideration does not apply with the same force with respect to Farm Pride."
+   },
+   {
+    "n": 30,
+    "headings": [],
+    "text": "I also have the impression that the affidavits filed by Farm Pride concerning the costs which it will incur if the proceedings remain in Adelaide tended to exaggerate the additional costs involved, for example, by suggesting that Farm Pride will occur accommodation and travel costs for two counsel, two solicitors and up to three representatives for Farm Pride for each hearing, including the interlocutory hearings. Prima facie, this level of representation and attendance at interlocutory hearings does not seem reasonable. Apart from anything else, the costs incurred by the parties in interlocutory attendances can be mitigated by the use of the Court’s video link facilities. There are of course costs involved in the use of those facilities but, given the disparate location of the respective solicitors and counsel, those costs are likely to have to be incurred by one or other party whether the proceedings remain in Adelaide or are transferred to Melbourne."
+   },
+   {
+    "n": 31,
+    "headings": [],
+    "text": "I acknowledge the convenience to Mr Lendich of being able to instruct his Melbourne based solicitors and counsel during his regular trips to Melbourne. However, he will still be able to do that during the preparation for trial phase. Further, if Mr Lendich wishes to participate in the interlocutory hearings, arrangements for his attendance by video link may be made, if required."
+   },
+   {
+    "n": 32,
+    "headings": [],
+    "text": "Counsel for Farm Pride referred to Mr De Lacy’s affidavit in which he deposed to the effect on Farm Pride’s financial position of the additional costs it will incur if the proceedings continue in Adelaide. As indicated, I accept that there will be additional costs but the financial statements of Farm Pride indicate that it is not without significant financial resources. Its position cannot be likened to that of an individual with only limited resources."
+   },
+   {
+    "n": 33,
+    "headings": [],
+    "text": "Counsel for Farm Pride emphasised the desirability of Farm Pride senior management being able to continue to attend to the company’s day to day affairs as well as attending to give instructions in the trial. In the case of a trial which is likely to be lengthy, this can be a relevant consideration: Fila Sport Oceania at [23]. However, the probable length of the trial in this case is not yet known. Further, a decision at this stage to continue the proceedings in Adelaide does not foreclose a decision as to the place of trial. Further still, the ACCC can be expected to have a similar interest with respect to the productive use of the time of its Adelaide based officers."
+   },
+   {
+    "n": 34,
+    "headings": [],
+    "text": "Counsel submitted that a transfer at this stage would result in relatively little disruption to the efficient management of the proceedings, noting that the proceedings are still at a relatively early stage. I accept that that is likely to be so."
+   },
+   {
+    "n": 35,
+    "headings": [],
+    "text": "Finally, I refer to the support of the remaining respondents for the application of Farm Pride and Mr Lendich. However, I note that, apart from the additional expense to Ironside Management and Mr Ironside arising from the location of the solicitors and counsel they have retained, these respondents did not adduce evidence of any detriment which they will suffer if the proceedings remain in Adelaide, or of any benefit they will obtain if the proceedings are transferred."
+   },
+   {
+    "n": 36,
+    "headings": [],
+    "text": "The matters which I have summarised indicate that a transfer of the proceedings to the Melbourne Registry will have some advantages to Farm Pride and Mr Lendich. However, there will also be detriments to the ACCC. The circumstance that nine of the attendees at the meeting on 8 February 2012 are based in Victoria is pertinent but, as indicated, that is to be balanced against the circumstance that the 13 other attendees are based in other States. In addition, there remains the uncertainty as to whether any of the Victorian attendees will be called to give evidence. To my mind, these matters, taken together with the other matters to which Farm Pride and Mr Lendich referred, do not establish sound reason for transfer of the proceedings."
+   },
+   {
+    "n": 37,
+    "headings": [],
+    "text": "Accordingly, the interlocutory application of Farm Pride and Mr Lendich of 9 July 2014 is refused."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-seven (37) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice White.",
+ "associate": null,
+ "dated": "2014-09-18",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2014] FCA 1010\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Australian Egg Corporation Limited [2014] FCA 1010\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AUSTRALIAN EGG CORPORATION LIMITED, JAMES DALE KELLAWAY, FARM PRIDE FOODS LTD, ZELKO LENDICH, IRONSIDE MANAGEMENT SERVICES PTY LTD and JEFFREY WILLIAM IRONSIDE\n\n**File number:** SAD 121 of 2014\n\n**Judge:** WHITE J\n\n**Date of judgment:** 18 September 2014\n\n**Catchwords:** PRACTICE AND PROCEDURE – transfer of proceedings – respondents based in various States – whether ‘sound reason’ to order transfer – applicant’s choice of venue not capricious – transfer would convenience some parties and potential witnesses while inconveniencing others – location of legal representatives of limited significance – application refused.\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) s 44ZZRJ  \nFederal Court of Australia Act 1976 (Cth) ss 37M, 48\n\n**Cases cited:** Australian Competition and Consumer Commission v Collagen Aesthetics Australia Pty Ltd [2002] FCA 1134  \nAustralian Competition and Consumer Commission v Virgin Mobile Australia Pty Ltd [2002] FCA 1239  \nAustralian Competition and Consumer Commission v Fila Sport Oceania Pty Ltd [2003] FCA 430  \nBWK Elders (Australia) Pty Ltd v Westgate Wool Company Pty Ltd [2002] FCA 807  \nLamb v Hogs Breath Company Pty Ltd (No 1) [2007] FCA 49  \nMortimer v Opes Prime Stockbroking Ltd (Administrators Appointed) (in liq) [2009] FCA 227  \nNational Mutual Holdings Pty Ltd v The Sentry Corporation (1988) 19 FCR 155  \nWepar Nominees Pty Ltd v Schofield [2013] FCA 920\n\n**Date of hearing:** 19 August 2014\n\n**Place:** Adelaide\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 37\n\n**Counsel for the Applicant:** Ms N Charlesworth\n\n**Solicitor for the Applicant:** Australian Government Solicitors\n\n**Counsel for the First and Second Respondents:** Mr S Doyle SC\n\n**Solicitors for the First and Second Respondents:** Fisher Jeffries\n\n**Counsel for the Third Respondent:** Mr D Star\n\n**Solicitors for the Third Respondent:** B2B Lawyers\n\n**Counsel for the Fourth Respondent:** Mr C Henderson\n\n**Solicitors for the Fourth Respondent:** Lander & Rogers\n\n**Counsel for the Fifth and Sixth Respondents:** Mr L Merrick\n\n**Solicitors for the Fifth and Sixth Respondents:** Henry Davis York\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 121 of 2014 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AUSTRALIAN EGG CORPORATION LIMITED<br>First Respondent<br>JAMES DALE KELLAWAY<br>Second Respondent<br>FARM PRIDE FOODS LTD<br>Third Respondent<br>ZELKO LENDICH<br>Fourth Respondent<br>IRONSIDE MANAGEMENT SERVICES PTY LTD<br>Fifth Respondent<br>JEFFREY WILLIAM IRONSIDE<br>Sixth Respondent |\n\n| JUDGE: | WHITE J |\n|---|---|\n| DATE OF ORDER: | 18 september |\n| WHERE MADE: | ADELAIDE |\n\n### THE COURT ORDERS THAT:\n\n1. The Third and Fourth Respondents’ interlocutory application of 9 July 2014 is refused.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| SOUTH AUSTRALIA DISTRICT REGISTRY |  |\n| GENERAL DIVISION | SAD 121 of 2014 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Appellant |\n|---|---|\n| AND: | aUSTRALIAN EGG CORPORATION LIMITED<br>First Respondent<br>JAMES DALE KELLAWAY<br>Second Respondent<br>FARM PRIDE FOODS LTD<br>Third Respondent<br>ZELKO LENDICH<br>Fourth Respondent<br>IRONSIDE MANAGEMENT SERVICES PTY LTD<br>Fifth Respondent<br>JEFFREY WILLIAM IRONSIDE<br>Sixth Respondent |\n\n| JUDGE: | WHITE J |\n|---|---|\n| DATE: | 18 SEPTEMBER 2014 |\n| PLACE: | ADELAIDE |\n\n### REASONS FOR JUDGMENT\n\n[1] In these proceedings, the Australian Competition and Consumer Commission (the ACCC) seeks declarations that each of the six respondents attempted to induce certain egg producers to enter into an arrangement, or to arrive at an understanding, containing a cartel provision which would contravene s 44ZZRJ of the Competition and Consumer Act 2010 (Cth) (the CCA). In addition, the ACCC seeks consequential orders including the imposition of pecuniary penalties on each respondent.\n\n[2] The principal conduct upon which the ACCC relies for the claim is said to have occurred at a meeting held in Sydney on 8 February 2012 organised by the first respondent, the Australian Egg Corporation Ltd (AECL). The meeting is said to have been attended by representatives of 19 egg producers in various States and the Northern Territory as well as by the second respondent (Mr Kellaway), the fourth respondent (Mr Lendich) and the sixth respondent (Mr Ironside). Each of Messrs Kellaway, Lendich and Ironside were directors of AECL in February 2012. Mr Lendich was also a director of the third respondent, Farm Pride Foods Ltd (Farm Pride) and Mr Ironside a director of the fifth respondent, Ironside Management Services Pty Ltd (Ironside Management). The ACCC alleges that at the meeting on 8 February 2012 the respondents encouraged egg producers to act in a coordinated and consolidated fashion to limit the production and supply of eggs in Australia.\n\n[3] The proceedings were commenced in the South Australian District Registry of the Court on 26 May 2014. Farm Pride and Mr Lendich seek an order under s 48 of the Federal Court of Australia Act 1976 (Cth) (the FCA Act) transferring the proceeding to the Victorian District Registry. The remaining respondents consent to an order for transfer being made, but the application is opposed by the ACCC.\n\n[4] Section 48(1) of the FCA Act provides as follows:\n\n> The Court or a Judge may, at any stage of a proceeding in the Court, direct that the proceeding or a part of the proceeding be conducted or continued at a place specified in the order, subject to such conditions (if any) as the Court or Judge imposes.\n\n[5] The exercise of the discretion under s 48 has now been considered on numerous occasions, and the principles on which the Court acts are settled. In National Mutual Holdings Pty Ltd v The Sentry Corporation (1988) 19 FCR 155 at 162, the Full Court said:\n\n> The Court must, however, be satisfied, after considering all relevant matters, that there is sound reason to direct that the proceeding be conducted or continued elsewhere. Its starting point is that the proceeding has been commenced at a particular place. Why should it be changed? On the one hand, if the party who commenced the proceeding chose that place capriciously the Court will be justified in giving no weight to the choice of place. At the other end of the scale, a proceeding may have continued for some time at the place of commencement with many steps having been taken there, for example, filing of pleadings and affidavits, discovery and inspection. Due weight will be given by the court to such matters before directing that the proceeding should continue at a different place.\n\n> The balance of convenience is important, but its weight must vary from case to case. Ultimately the test is: where can the case be conducted or continued most suitably bearing in mind the interests of all the parties, the ends of justice in the determination of issues between them, and the most efficient administration of the Court. It cannot and should not, in our opinion, be defined more closely or precisely.\n\nThe subsequent cases have indicated the variety of matters which may bear on the determination of whether there is “sound reason” to order the transfer of the proceedings. Given the various circumstances in which applications for transfer are made, it is unsurprising that the considerations which are given prominence vary from case to case.\n\n[6] Some matters can be taken to be settled. These include:\n\n(a) there is no onus of proof in the strict sense to be discharged by the party seeking to have the proceedings continued elsewhere: Sentry at 162;\n\n(b) the national character of the Court, including its capacity to put in place flexible arrangements for the taking of evidence and the receipt of submissions, is pertinent: Australian Competition and Consumer Commission v Virgin Mobile Australia Pty Ltd [2002] FCA 1239 at [16], [20]; Mortimer v Opes Prime Stockbroking Ltd (Administrators Appointed) (in liq) [2009] FCA 227 at [15]. As French J observed in Lamb v Hogs Breath Company Pty Ltd (No 1) [2007] FCA 49 at [9]:\n\n> So far as the interlocutory processes are concerned, unless some unusual circumstance occurs, it matters little whether the proceeding is in the Perth or Brisbane Registry because in either event the party not in the home Registry will be able to participate by way of video-link or even teleconference. The Court also has the facility for the electronic filing of submissions and the like and the conduct of litigation, in part, through that.\n\n(c) The place of residence of the parties and their witnesses, the expense to the parties, the place where the events giving rise to the applicant’s cause of action, and the convenience of the Court itself are relevant matters: Sentry at 162;\n\n(d) The balance of convenience is a very relevant, but not decisive, consideration: Sentry at 162.\n\n(e) Any difference in the rights of the parties under the relevant law of different States or Territories, to the extent that these can be identified and assessed at the time the Court considers the application, may be material: Sentry at 163;\n\n(f) Ultimately, the discretion is to be exercised “having regard to considerations of sound case management, the national character of the court and practical considerations including the convenience of the parties”: Virgin Mobile at [16].\n\n[7] Counsel for Farm Pride also referred to the overarching purpose of the civil practice and procedure provisions specified in s 37M of the FCA Act and, in particular, to the efficient use of the judicial and administrative resources available for the purposes of the Court (subs (2)(b)). However, s 37M appears to add little, if anything, to the matters to be considered, as matters of efficiency, expedition and economy are usual matters for the Court’s consideration.\n\n[8] Counsel for Farm Pride referred, first, to the absence of any real connection of the proceedings to South Australia. He noted that the events giving rise to the cause of action alleged by the ACCC did not occur in South Australia as the meeting of 8 February 2012 took place in Sydney and only one participant at the meeting, a Mr Andary, is from South Australia. There is presently no indication that Mr Andary will give evidence in the trial. None of the respondents are based in Adelaide.\n\n[9] Counsel also submitted that the reason that the ACCC commenced the proceedings in the South Australian Registry is the happenstance that it conducted its investigation in its Adelaide office. He submitted that this circumstance meant that the ACCC’s decision to commence the proceeding in the South Australian Registry was “capricious” in the sense discussed in Sentry at 162. Counsel drew attention to Australian Competition and Consumer Commission v Collagen Aesthetics Australia Pty Ltd [2002] FCA 1134 in which proceedings commenced in the South Australian Registry by reason only that the ACCC had carried out its investigations in Adelaide were transferred to Canberra. He submitted that similar considerations were applicable in the present case.\n\n[10] In my opinion, the decision of the ACCC to commence the proceedings in the South Australian Registry cannot reasonably be regarded as capricious in the sense of being random, fickle or intended to prejudice the respondents. I agree, respectfully, with the observation of French J in Virgin Mobile at [19]:\n\n> The choice of location by the ACCC was not capricious and it is not suggested that it was. The Perth office had the conduct of the initial investigation. Whether that was because of a local complaint or because of an allocation of a task involving a national marketing operation to the Perth office by the ACCC headquarters in Canberra does not appear and is really neither here nor there.\n\nI also observe that in Collagen Aesthetics, Cooper J did not regard the ACCC’s commencement of proceedings in the same city in which it had investigated the subject matter of the proceedings to be capricious, saying only that it was “fortuitous”.\n\n[11] I agree that, apart from the circumstance that the ACCC carried out its investigation in its Adelaide office, the proceedings do not otherwise appear to have a natural connection with South Australia. In saying that, I am putting to one side consideration of the parties’ legal representation to which I will return.\n\n[12] On the other hand, the natural connection of the proceedings with Victoria, again putting to one side the parties’ legal representation, is not particularly strong either.\n\n[13] Counsel referred to two principal features. First, Farm Pride is a publicly listed company with operations in New South Wales and Victoria but its headquarters and senior executive staff are based in Keysborough in Melbourne. On the other hand, I note that only one of Farm Pride’s current directors is resident in Victoria. That is Mr De Lacy who is also acting as Farm Pride’s interim Chief Executive Officer. Further, the registered office of the AECL is in Sydney and none of its directors reside in Melbourne. The registered office of Ironside Management is in Queensland and all of its directors, including Mr Ironside, also reside in Queensland.\n\n[14] The second feature is that there were more participants from Victoria at the 8 February 2012 meeting than from any other State. Nine of the participants are based in Victoria, six in New South Wales, three in Queensland, one in South Australia and two (apart from Mr Lendich) in Western Australia. It is to be noted however, that the combined number of attendees from other States exceeds those from Victoria. That circumstance diminishes Melbourne as the most suitable place for the proceedings.\n\n[15] The location of the witnesses who will, or who are likely to, give evidence in the trial is an important consideration. The convenience of witnesses and of those calling them seemed to be the most substantial of the matters to which Farm Pride referred.\n\n[16] As noted, 13 of the attendees at the 8 February 2012 meeting live in other States. If they are required to give evidence, they will have to travel to the place of trial, whether it be Adelaide or Melbourne. I also observe that the affidavits on which Farm Pride and Mr Lendich rely do not indicate whether the Victorian based participants are resident in, or close to Melbourne, or elsewhere in Victoria. If they are not resident in or near Melbourne, some travel by them, with the associated costs and inconvenience, will be inevitable in any event. It is also possible that, for some of these attendees, Adelaide may be a more convenient location than Melbourne. However, I accept that generally one would expect Victorian based witnesses to consider Melbourne a more convenient location for trial than Adelaide.\n\n[17] However, the significance to be attached to the circumstance that nine of the attendees reside in Victoria is diminished because the Court has not been told that any of them will, or is likely to, give evidence at the trial. The ACCC has indicated that its case is likely to be entirely documentary. Farm Pride and Mr Lendich have referred only to “potential” witnesses. The other respondents have not given any indication as to the evidence, if any, they are likely to adduce at the trial.\n\n[18] The uncertainty as to whether any Victorian based person will, or is likely to, give evidence at the trial mitigates against the convenience of the witnesses, and of those calling them, being regarded as a sound reason for transfer of proceedings to Melbourne at this stage. That is especially so given that, when the Court has information about the persons who will give evidence, it will be able to give directions as to the venue of the trial and, if appropriate, to the taking of evidence from witnesses via video link. In doing so, it will be able to take account of the nature, likely length and importance of the evidence from each proposed witnesses.\n\n[19] Counsel emphasised some matters of convenience. Mr Lendich, who was one of Farm Pride’s directors at relevant times, but is no longer, resides in Perth. He was previously Managing Director/Executive Chairman of Farm Pride but is now the executive director of a small technology company operating as a management consultant in the food industry. Although resident in Perth, Mr Lendich deposed to having strong business and personal networks in Melbourne and only limited association with Adelaide. He travels to Melbourne at least once a month for approximately five days for personal and business reasons. An adult daughter lives in Melbourne. He deposed to the convenience for him of the proceedings being conducted in Melbourne having regard to the ease of access to his Melbourne based solicitors and counsel and to the private accommodation arrangements available to him.\n\n[20] Mr Lendich also deposed to the strain imposed by his involvement in the litigation, especially having regard to the potential effect on his professional reputation. I accept that that is likely to be the case. However, I consider that strain will continue wherever the proceedings are continued and that the transfer of the proceedings to Melbourne is unlikely to mitigate it in a significant way. I also observe that Mr Lendich was, until recently, a director of a publicly listed company.\n\n[21] Mr Bell is a director of Farm Pride and was an attendee at the meeting on 8 February 2012. He is not a party to the proceedings but has deposed that he expects to be called as a witness at the trial, although he did not indicate by whom. Although resident in Perth, Mr Bell deposed to having strong business networks in Melbourne and to travelling to Melbourne two or three times per month for business and other purposes. He would find it more convenient and cost effective if the proceedings were conducted in Melbourne, as he travels to Adelaide less frequently.\n\n[22] The inconvenience to Mr Lendich and Mr Bell if the proceedings remain in Adelaide is, to an extent, offset by the inconvenience to the ACCC and its staff if those who have been involved in the investigation and instruction of its legal advisors have to travel to Melbourne.\n\n[23] Farm Pride and Mr Lendich referred in detail to the legal representation of the various parties. However, the location of the parties’ legal representatives is generally regarded as a matter of limited significance on applications of the present kind. See, for example, BWK Elders (Australia) Pty Ltd v Westgate Wool Company Pty Ltd [2002] FCA 807 at [22]-[25]; Virgin Mobile at [18]; Australian Competition and Consumer Commission v Fila Sport Oceania Pty Ltd [2003] FCA 430 at [8] and Wepar Nominees Pty Ltd v Schofield [2013] FCA 920 at [12]. In the ordinary case, the parties select the solicitors and counsel to represent them with knowledge of the registry in which the proceedings have been commenced, with the consequence that that selection does not, at least generally, create a circumstance capable of having much significance on a transfer application.\n\n[24] The ACCC is represented by the Australian Government Solicitor (AGS) through its Adelaide office. Apart from the supervision exercised by a Melbourne based solicitor in the AGS, the legal work has been carried out in Adelaide. The ACCC has retained Adelaide based junior counsel and Melbourne based senior counsel.\n\n[25] The AECL and Mr Kellaway are both represented by the one Adelaide based firm of solicitors and by Adelaide based counsel. Farm Pride is represented by Melbourne based solicitors and counsel who, for a time, also represented Mr Lendich. These solicitors have a longstanding relationship with Farm Pride and were retained by it in July 2013 in relation to the investigation by the ACCC which gave rise to the proceedings. It is understandable that Farm Pride will wish those solicitors to continue as its legal representatives in the proceedings. I take into account that those solicitors were retained well before the proceedings were commenced.\n\n[26] Mr Lendich is now represented by Melbourne based solicitors who have retained, or are retaining, Melbourne based counsel. However, Mr Lendich retained these solicitors and counsel as recently as 18 July 2014, that is, after Farm Pride and Mr Lendich had filed their application seeking a transfer of the proceedings to the Court’s Melbourne Registry. Mr Lendich may be taken to have been aware at the time of the prospect that the transfer application may be refused.\n\n[27] Ironside Management and Mr Ironside are represented by Sydney based solicitors but Melbourne based counsel.\n\n[28] Thus, if the parties continue their current representation arrangements, the number who will be inconvenienced if the proceedings remain in Adelaide is approximately equal to the number who will be inconvenienced if the proceedings are transferred.\n\n[29] No doubt the involvement of Melbourne based solicitors and counsel will add to the costs of some parties if the proceedings remain in Adelaide. However, those additional costs will result from the choice which those parties have made with respect to the legal representation. I accept, however, that that consideration does not apply with the same force with respect to Farm Pride.\n\n[30] I also have the impression that the affidavits filed by Farm Pride concerning the costs which it will incur if the proceedings remain in Adelaide tended to exaggerate the additional costs involved, for example, by suggesting that Farm Pride will occur accommodation and travel costs for two counsel, two solicitors and up to three representatives for Farm Pride for each hearing, including the interlocutory hearings. Prima facie, this level of representation and attendance at interlocutory hearings does not seem reasonable. Apart from anything else, the costs incurred by the parties in interlocutory attendances can be mitigated by the use of the Court’s video link facilities. There are of course costs involved in the use of those facilities but, given the disparate location of the respective solicitors and counsel, those costs are likely to have to be incurred by one or other party whether the proceedings remain in Adelaide or are transferred to Melbourne.\n\n[31] I acknowledge the convenience to Mr Lendich of being able to instruct his Melbourne based solicitors and counsel during his regular trips to Melbourne. However, he will still be able to do that during the preparation for trial phase. Further, if Mr Lendich wishes to participate in the interlocutory hearings, arrangements for his attendance by video link may be made, if required.\n\n[32] Counsel for Farm Pride referred to Mr De Lacy’s affidavit in which he deposed to the effect on Farm Pride’s financial position of the additional costs it will incur if the proceedings continue in Adelaide. As indicated, I accept that there will be additional costs but the financial statements of Farm Pride indicate that it is not without significant financial resources. Its position cannot be likened to that of an individual with only limited resources.\n\n[33] Counsel for Farm Pride emphasised the desirability of Farm Pride senior management being able to continue to attend to the company’s day to day affairs as well as attending to give instructions in the trial. In the case of a trial which is likely to be lengthy, this can be a relevant consideration: Fila Sport Oceania at [23]. However, the probable length of the trial in this case is not yet known. Further, a decision at this stage to continue the proceedings in Adelaide does not foreclose a decision as to the place of trial. Further still, the ACCC can be expected to have a similar interest with respect to the productive use of the time of its Adelaide based officers.\n\n[34] Counsel submitted that a transfer at this stage would result in relatively little disruption to the efficient management of the proceedings, noting that the proceedings are still at a relatively early stage. I accept that that is likely to be so.\n\n[35] Finally, I refer to the support of the remaining respondents for the application of Farm Pride and Mr Lendich. However, I note that, apart from the additional expense to Ironside Management and Mr Ironside arising from the location of the solicitors and counsel they have retained, these respondents did not adduce evidence of any detriment which they will suffer if the proceedings remain in Adelaide, or of any benefit they will obtain if the proceedings are transferred.\n\n[36] The matters which I have summarised indicate that a transfer of the proceedings to the Melbourne Registry will have some advantages to Farm Pride and Mr Lendich. However, there will also be detriments to the ACCC. The circumstance that nine of the attendees at the meeting on 8 February 2012 are based in Victoria is pertinent but, as indicated, that is to be balanced against the circumstance that the 13 other attendees are based in other States. In addition, there remains the uncertainty as to whether any of the Victorian attendees will be called to give evidence. To my mind, these matters, taken together with the other matters to which Farm Pride and Mr Lendich referred, do not establish sound reason for transfer of the proceedings.\n\n[37] Accordingly, the interlocutory application of Farm Pride and Mr Lendich of 9 July 2014 is refused.\n\nI certify that the preceding thirty-seven (37) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice White.\n\nAssociate:\n\nDated: 18 September 2014\n",
+ "source_sha256": "2425e62a104b25c22260823aecac853442acb012e1e3bab21bc567f42195d93a"
+}

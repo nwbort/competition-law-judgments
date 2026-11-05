@@ -1,0 +1,491 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2015/2015FCA1144.docx",
+ "metadata": {
+  "citation": "[2015] FCA 1144",
+  "name": "Australian Competition and Consumer Commission v Little Company of Mary Health Care Limited",
+  "court": "FCA",
+  "year": 2015,
+  "number": 1144,
+  "date_of_judgment": "2015-10-26",
+  "file_numbers": [
+   "NSD1295/2015"
+  ],
+  "judges": [
+   "ROBERTSON J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2015-10-26"
+  ],
+  "hearing_raw": "26 October 2015",
+  "number_of_paragraphs": 35,
+  "catchwords": [
+   "TRADE PRACTICES – exclusive dealing – respondents acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures at day surgery facilities operated by the respondents on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave the respondents the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an accredited medical practitioner, who owned or controlled an entity that was in competition with the services offered by the respondents – conduct having the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied – respondents admitted their conduct resulted in a contravention by each of them of the Competition and Consumer Act 2010 (Cth) s 47",
+   "PRACTICE AND PROCEDURE – exercise of Court’s discretion to make a declaration where the parties file a statement of agreed facts, joint submissions and proposed consent orders – applicant not seeking a pecuniary penalty"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth) s 47",
+   "Evidence Act 1995 (Cth) s 191",
+   "Federal Court of Australia Act 1976 (Cth) s 21"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2006] FCA 1730",
+   "Australian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; 201 FCR 378",
+   "Forster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)",
+    "role": "Second Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697) and CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Ms KC Morgan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Baker & McKenzie"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr PJ Brereton SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "DLA Piper Australia"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1144",
+  "portal_file_numbers": [
+   "NSD1295/2014"
+  ],
+  "portal_event": "Hearing",
+  "portal_event_date": "2015-10-26"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Little Company of Mary Health Care Limited [2015] FCA 1144"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697) and CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 1295 of 2015"
+  },
+  {
+   "label": "Judge",
+   "value": "ROBERTSON J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "26 October 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "TRADE PRACTICES – exclusive dealing – respondents acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures at day surgery facilities operated by the respondents on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave the respondents the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an accredited medical practitioner, who owned or controlled an entity that was in competition with the services offered by the respondents – conduct having the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied – respondents admitted their conduct resulted in a contravention by each of them of the Competition and Consumer Act 2010 (Cth) s 47\nPRACTICE AND PROCEDURE – exercise of Court’s discretion to make a declaration where the parties file a statement of agreed facts, joint submissions and proposed consent orders – applicant not seeking a pecuniary penalty"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth) s 47\nEvidence Act 1995 (Cth) s 191\nFederal Court of Australia Act 1976 (Cth) s 21"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2006] FCA 1730\nAustralian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; 201 FCR 378\nForster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "26 October 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "35"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Ms KC Morgan"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Baker & McKenzie"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr PJ Brereton SC"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "DLA Piper Australia"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD1295/2015",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)",
+     "role": "Second Respondent"
+    }
+   ],
+   "judges": [
+    "ROBERTSON J"
+   ],
+   "date": "2015-10-26",
+   "date_raw": "26 OCTOBER 2015",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "From March 2011 to the date of this Order the respondents engaged in the practice of exclusive dealing by:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures (Accredited Medical Practitioners) at day surgery facilities operated by LCMHC (Day Surgery Facilities) through its subsidiary, Calvary Health Care Riverina Limited (Calvary Riverina);",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave LCMHC and/or Calvary Riverina the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an Accredited Medical Practitioner, who owned or controlled an entity that was in competition with the services offered by LCMHC and/or Calvary Riverina;",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "which conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied, in contravention of s 47(1) of the Competition and Consumer Act 2010 (Cth).",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "THE COURT BY CONSENT ORDERS THAT:",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "The respondents pay the applicant’s costs of and incidental to the proceeding, agreed in the sum of $100,000.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "The proceedings be otherwise dismissed.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The first respondent undertakes to the Court that, within 14 days of the Court making orders in the form of the annexed short minutes of order, it will delete or otherwise remove clauses 13.1(m) and 24.2(a)(vii) of the 2014 Calvary Private Hospital By-Laws.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "Upon the Court accepting the Undertaking given by the first respondent, Little Company of Mary Health Care Limited (LCMHC), in paragraph 4 below:",
+    "THE COURT BY CONSENT DECLARES THAT:",
+    "THE COURT NOTES THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "These proceedings concern the market in which day surgery services in Wagga Wagga, New South Wales were supplied from March 2011 to October 2015."
+   },
+   {
+    "n": 2,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "One of the issues in the proceedings is whether the respondents engaged in the practice of exclusive dealing by acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures at day surgery facilities operated by the respondents on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave the respondents the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an accredited medical practitioner, who owned or controlled an entity that was in competition with the services provided by the respondents."
+   },
+   {
+    "n": 3,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The parties have filed a statement of agreed facts, joint submissions and proposed consent orders to resolve these proceedings. By its Amended Application and Amended Statement of Claim filed in court this morning, the Australian Competition and Consumer Commission (ACCC) does not seek a pecuniary penalty."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Introduction"
+    ],
+    "text": "The statement of agreed facts is for the purpose of this proceeding only and it is pursuant to s 191 of the Evidence Act 1995 (Cth) that the respondents have made the admissions in that statement. Other than the admissions contained in the facts agreed in that statement, the respondents make no admissions in relation to, and do not agree with, the other matters pleaded by the applicant in the Amended Statement of Claim."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "The statement of agreed facts, provided in accordance with s 191 of the Evidence Act, identified that the first respondent, Little Company of Mary Health Care Ltd (LCMHC) was engaged in, amongst other things, the supply of private and public hospital services in Australia. The second respondent, Calvary Health Care Riverina Limited (Calvary Riverina) was engaged in, amongst other things, the supply of private hospital services in Wagga Wagga, New South Wales."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From at least March 2007, LCMHC operated the Calvary Health Care Riverina Private Hospital (Calvary Riverina Private Hospital) in Wagga Wagga, New South Wales through its subsidiary Calvary Riverina."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From at least March 2007, LCMHC and/or Calvary Riverina operated day surgery facilities in Wagga Wagga as a division of the Calvary Riverina Private Hospital."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From at least March 2007, LCMHC and/or Calvary Riverina, through the Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities, provided a range of private hospital services in Wagga Wagga, including day surgery services and non-day surgery services."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "There was demand in Wagga Wagga and the surrounding areas by patients for day surgery services."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "The demand in Wagga Wagga and the surrounding areas for day surgery services by private patients was generally met by operators of private hospitals and private day surgery centres located in Wagga Wagga and the surrounding areas."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "The applicant contended that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with private hospitals and day surgery centres located in Wagga Wagga and the surrounding areas while the respondents contended that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with private hospitals, private day surgery centres and public hospitals located in Wagga Wagga and the surrounding areas. Nothing turns on that difference in the parties’ contentions."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "Thus the parties agreed that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with, at least, private hospitals and some day surgery centres located in Wagga Wagga and the surrounding areas."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "There existed a market in which day surgery services, amongst other surgery services, were supplied in Wagga Wagga and the surrounding areas."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From about March 2007, day surgery procedures were performed at Calvary Riverina Day Surgery Facilities by medical practitioners who had been granted access and clinical privileges to provide medical services at Calvary Riverina Private Hospital (Accredited Medical Practitioners)."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From about March 2007 until about March 2011, by reason of clauses 13 and 15 of the LCMHC By-Laws then in effect (2007 By-Laws), medical practitioners wishing to perform day surgery procedures and all other procedures at Calvary Riverina Private Hospital were required to apply to LCMHC for accreditation and to have their application accepted."
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From about March 2011, by reason of clauses 13.1(a), 13(c) and 15(b) of the By-Laws then in effect, medical practitioners wishing to perform day surgery procedures and all other procedures at Calvary Riverina Private Hospital were required to complete and submit a medical application form to LCMHC for accreditation and to have their application accepted."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From at least March 2007, by completing the medical application form, medical practitioners were required to declare in writing that he or she had read, accepted and agreed to observe each and all of the LCMHC By-Laws, as may be amended or replaced from time to time."
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "Upon acceptance by LCMHC of an application for accreditation, there was a contract between an Accredited Medical Practitioner and LCMHC that required the parties to comply with the By-Laws in force from time to time."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From at least March 2007 accreditation of LCMHC was not exclusive, such that Accredited Medical Practitioners were allowed to perform day surgery procedures at day surgery facilities that were in competition with LCMHC and/or its subsidiaries; and provide medical services at any facility that was in competition with LCMHC and/or its subsidiaries."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "On 17 March 2011, LCMHC approved updated Private Hospital By-Laws (2011 By-Laws) which included terms concerning the eligibility for or termination of accreditation of a health practitioner who took a position in an organisation which acted in competition with the services offered by LCMHC. Medical practitioners who became aware of the 2011 amendments may have taken them into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "By medical practitioners accepting accreditation on terms that included the 2011 amendments, those practitioners were able to supply a service to LCMHC and/or Calvary Riverina, and LCMHC and/or Calvary Riverina were able to acquire a service from those practitioners, namely the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities amongst other medical services provided to patients by Accredited Medical Practitioners at Calvary Riverina Private Hospital."
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "LCMHC and/or Calvary Riverina offered to and acquired services from Accredited Medical Practitioners from March 2011 to June 2014 in accordance with the 2011 By-Laws."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "Between about March 2011 and June 2014, LCMHC and/or Calvary Riverina did not refuse to grant or renew accreditation to, or revoke the accreditation of, any medical practitioner at any of the private hospitals, including Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities, pursuant to the 2011 amendments."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "On 23 June 2014, LCMHC approved proposed updated Private Hospital By-Laws (2014 By-Laws) which would apply at Calvary Riverina Private Hospital, amongst others, including Calvary Riverina Day Surgery Facilities. The 2014 By-Laws included terms concerning the eligibility for or termination of accreditation of a health practitioner who took a position in an organisation where the practitioner had or would have an interest or duty which conflicted or competed with the practitioner’s obligations under the By-Laws to promote and support the business and objectives of LCMHC. Medical practitioners who became aware of the 2014 amendments may have taken them into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "By medical practitioners accepting accreditation on terms that included the 2014 amendments, Accredited Medical Practitioners were able to supply a service to LCMHC and/or Calvary Riverina, and LCMHC and/or Calvary Riverina were able to acquire a service from Accredited Medical Practitioners, namely, the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities, amongst other medical services provided to patients by Accredited Medical Practitioners at Calvary Riverina Private Hospital."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "LCMHC and/or Calvary Riverina offered to and acquired services from Accredited Medical Practitioners from July 2014 in accordance with the 2014 By-Laws."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "Between around July 2014 and October 2015, LCMHC and/or Calvary Riverina did not refuse to grant or renew accreditation to, or revoke the accreditation of, any medical practitioner at any of their private hospitals, including Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities pursuant to the 2014 amendments."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "At all material times, both under the 2011 By-Laws and under the 2014 By-Laws, the LCMHC Board had discretion over the accreditation process, including whether to grant, suspend or terminate accreditation."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "From March 2011 to 12 October 2015, LCMHC and/or Calvary Riverina:\noffered to acquire, and acquired, a service from Accredited Medical Practitioners, namely, the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities;\nhad, in accordance with the 2011 amendments and the 2014 amendments (as applicable), the qualified ability to refuse to grant accreditation to medical practitioners, or to revoke the accreditation of an Accredited Medical Practitioner, who also owned or controlled an entity that was in competition with the services offered by LCMHC and/or Calvary Riverina;\nin circumstances where some medical practitioners accredited to practice at Calvary Riverina Day Surgery Facilities became aware of the 2011 amendments and/or or the 2014 amendments and may have taken those amendments into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina,\nwhich conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga were supplied."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "The respondents admitted, for the purposes of these proceedings only, that from March 2011 to 12 October 2015 they engaged in the practice of exclusive dealing, which conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied, in contravention by each of them of s 47(1) of the Competition and Consumer Act."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Conduct and admitted contraventions"
+    ],
+    "text": "Given the admissions by the respondents that they contravened s 47(1) in that manner, the ACCC did not press the remaining allegations in the Amended Application and Amended Statement of Claim and the parties sought to have the proceeding otherwise dismissed on the terms set out in the short minutes of order annexed to the parties’ joint submissions."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "The Court has a discretionary power granted by s 21 of the Federal Court of Australia Act 1976 (Cth) and the question for decision is whether to exercise it so as to grant declaratory relief."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I am satisfied that the proposed declaration relates to conduct that contravenes s 47 of the Competition and Consumer Act and that the matters in issue have been identified and particularised by the parties with precision. I am also satisfied that it is in the public interest for the ACCC to seek to have the declarations made and for the declarations to be made: Forster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421 at 437-438. A significant legal controversy in the case is being resolved. I also find that each of the respondents is a proper contradictor because each has agreed to admit that it has contravened the Competition and Consumer Act and is the proposed subject of the declaration: see Australian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; 201 FCR 378."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Consideration"
+    ],
+    "text": "I find the declaration sought is appropriate as recording the Court’s disapproval of the conduct engaged in by the respondents in contravention of the Competition and Consumer Act. The declaration will also serve the public interest in defining and publicising the type of conduct that constitutes a contravention of s 47 of the Competition and Consumer Act, thus informing the public of the contravening conduct, giving effect to the purposes of the Competition and Consumer Act and tending to deter other corporations from contravening the Competition and Consumer Act, in particular s 47: see Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2006] FCA 1730 at [6] per RD Nicholson J."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Conclusion and orders"
+    ],
+    "text": "For these reasons and on the basis of the facts set out in the statement of agreed facts, I make the declaration and orders sought by the parties."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-five (35) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.",
+ "associate": null,
+ "dated": "2015-10-26",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [
+  "listed on the portal under NSD1295/2014, which the judgment itself does not name (it names NSD1295/2015)"
+ ],
+ "text": "# Australian Competition and Consumer Commission v Little Company of Mary Health Care Limited [2015] FCA 1144\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Little Company of Mary Health Care Limited [2015] FCA 1144\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697) and CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)\n\n**File number:** NSD 1295 of 2015\n\n**Judge:** ROBERTSON J\n\n**Date of judgment:** 26 October 2015\n\n**Catchwords:** TRADE PRACTICES – exclusive dealing – respondents acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures at day surgery facilities operated by the respondents on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave the respondents the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an accredited medical practitioner, who owned or controlled an entity that was in competition with the services offered by the respondents – conduct having the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied – respondents admitted their conduct resulted in a contravention by each of them of the Competition and Consumer Act 2010 (Cth) s 47  \nPRACTICE AND PROCEDURE – exercise of Court’s discretion to make a declaration where the parties file a statement of agreed facts, joint submissions and proposed consent orders – applicant not seeking a pecuniary penalty\n\n**Legislation:** Competition and Consumer Act 2010 (Cth) s 47  \nEvidence Act 1995 (Cth) s 191  \nFederal Court of Australia Act 1976 (Cth) s 21\n\n**Cases cited:** Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2006] FCA 1730  \nAustralian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; 201 FCR 378  \nForster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421\n\n**Date of hearing:** 26 October 2015\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 35\n\n**Counsel for the Applicant:** Ms KC Morgan\n\n**Solicitor for the Applicant:** Baker & McKenzie\n\n**Counsel for the Respondents:** Mr PJ Brereton SC\n\n**Solicitor for the Respondents:** DLA Piper Australia\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 1295 of 2015 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697)<br>First Respondent<br>CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)<br>Second Respondent |\n\n| JUDGE: | ROBERTSON J |\n|---|---|\n| DATE OF ORDER: | 26 OCTOBER 2015 |\n| WHERE MADE: | SYDNEY |\n\n### Upon the Court accepting the Undertaking given by the first respondent, Little Company of Mary Health Care Limited (LCMHC), in paragraph 4 below:\n\n### THE COURT BY CONSENT DECLARES THAT:\n\n1. From March 2011 to the date of this Order the respondents engaged in the practice of exclusive dealing by:\n\nacquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures (Accredited Medical Practitioners) at day surgery facilities operated by LCMHC (Day Surgery Facilities) through its subsidiary, Calvary Health Care Riverina Limited (Calvary Riverina);\n\non condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave LCMHC and/or Calvary Riverina the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an Accredited Medical Practitioner, who owned or controlled an entity that was in competition with the services offered by LCMHC and/or Calvary Riverina;\n\nwhich conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied, in contravention of s 47(1) of the Competition and Consumer Act 2010 (Cth).\n\nTHE COURT BY CONSENT ORDERS THAT:\n\n2. The respondents pay the applicant’s costs of and incidental to the proceeding, agreed in the sum of $100,000.\n\n3. The proceedings be otherwise dismissed.\n\nTHE COURT NOTES THAT:\n\n4. The first respondent undertakes to the Court that, within 14 days of the Court making orders in the form of the annexed short minutes of order, it will delete or otherwise remove clauses 13.1(m) and 24.2(a)(vii) of the 2014 Calvary Private Hospital By-Laws.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 1295 of 2015 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | LITTLE COMPANY OF MARY HEALTH CARE LIMITED (ACN 079 815 697)<br>First Respondent<br>CALVARY HEALTH CARE RIVERINA LIMITED (ACN 105 810 688)<br>Second Respondent |\n\n| JUDGE: | ROBERTSON J |\n|---|---|\n| DATE: | 26 OCTOBER 2015 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n#### Introduction\n\n[1] These proceedings concern the market in which day surgery services in Wagga Wagga, New South Wales were supplied from March 2011 to October 2015.\n\n[2] One of the issues in the proceedings is whether the respondents engaged in the practice of exclusive dealing by acquiring and offering to acquire services from medical practitioners who had been granted, and held, access and clinical privileges to perform procedures at day surgery facilities operated by the respondents on condition that a provision in the Private Hospital By-Laws applying to the Calvary Riverina Day Surgery Facilities gave the respondents the qualified ability to refuse to grant accreditation to a medical practitioner, or to revoke the accreditation of an accredited medical practitioner, who owned or controlled an entity that was in competition with the services provided by the respondents.\n\n[3] The parties have filed a statement of agreed facts, joint submissions and proposed consent orders to resolve these proceedings. By its Amended Application and Amended Statement of Claim filed in court this morning, the Australian Competition and Consumer Commission (ACCC) does not seek a pecuniary penalty.\n\n[4] The statement of agreed facts is for the purpose of this proceeding only and it is pursuant to s 191 of the Evidence Act 1995 (Cth) that the respondents have made the admissions in that statement. Other than the admissions contained in the facts agreed in that statement, the respondents make no admissions in relation to, and do not agree with, the other matters pleaded by the applicant in the Amended Statement of Claim.\n\n#### Conduct and admitted contraventions\n\n[5] The statement of agreed facts, provided in accordance with s 191 of the Evidence Act, identified that the first respondent, Little Company of Mary Health Care Ltd (LCMHC) was engaged in, amongst other things, the supply of private and public hospital services in Australia. The second respondent, Calvary Health Care Riverina Limited (Calvary Riverina) was engaged in, amongst other things, the supply of private hospital services in Wagga Wagga, New South Wales.\n\n[6] From at least March 2007, LCMHC operated the Calvary Health Care Riverina Private Hospital (Calvary Riverina Private Hospital) in Wagga Wagga, New South Wales through its subsidiary Calvary Riverina.\n\n[7] From at least March 2007, LCMHC and/or Calvary Riverina operated day surgery facilities in Wagga Wagga as a division of the Calvary Riverina Private Hospital.\n\n[8] From at least March 2007, LCMHC and/or Calvary Riverina, through the Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities, provided a range of private hospital services in Wagga Wagga, including day surgery services and non-day surgery services.\n\n[9] There was demand in Wagga Wagga and the surrounding areas by patients for day surgery services.\n\n[10] The demand in Wagga Wagga and the surrounding areas for day surgery services by private patients was generally met by operators of private hospitals and private day surgery centres located in Wagga Wagga and the surrounding areas.\n\n[11] The applicant contended that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with private hospitals and day surgery centres located in Wagga Wagga and the surrounding areas while the respondents contended that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with private hospitals, private day surgery centres and public hospitals located in Wagga Wagga and the surrounding areas. Nothing turns on that difference in the parties’ contentions.\n\n[12] Thus the parties agreed that LCMHC and Calvary Riverina were in competition in the provision of day surgery services to private patients with, at least, private hospitals and some day surgery centres located in Wagga Wagga and the surrounding areas.\n\n[13] There existed a market in which day surgery services, amongst other surgery services, were supplied in Wagga Wagga and the surrounding areas.\n\n[14] From about March 2007, day surgery procedures were performed at Calvary Riverina Day Surgery Facilities by medical practitioners who had been granted access and clinical privileges to provide medical services at Calvary Riverina Private Hospital (Accredited Medical Practitioners).\n\n[15] From about March 2007 until about March 2011, by reason of clauses 13 and 15 of the LCMHC By-Laws then in effect (2007 By-Laws), medical practitioners wishing to perform day surgery procedures and all other procedures at Calvary Riverina Private Hospital were required to apply to LCMHC for accreditation and to have their application accepted.\n\n[16] From about March 2011, by reason of clauses 13.1(a), 13(c) and 15(b) of the By-Laws then in effect, medical practitioners wishing to perform day surgery procedures and all other procedures at Calvary Riverina Private Hospital were required to complete and submit a medical application form to LCMHC for accreditation and to have their application accepted.\n\n[17] From at least March 2007, by completing the medical application form, medical practitioners were required to declare in writing that he or she had read, accepted and agreed to observe each and all of the LCMHC By-Laws, as may be amended or replaced from time to time.\n\n[18] Upon acceptance by LCMHC of an application for accreditation, there was a contract between an Accredited Medical Practitioner and LCMHC that required the parties to comply with the By-Laws in force from time to time.\n\n[19] From at least March 2007 accreditation of LCMHC was not exclusive, such that Accredited Medical Practitioners were allowed to perform day surgery procedures at day surgery facilities that were in competition with LCMHC and/or its subsidiaries; and provide medical services at any facility that was in competition with LCMHC and/or its subsidiaries.\n\n[20] On 17 March 2011, LCMHC approved updated Private Hospital By-Laws (2011 By-Laws) which included terms concerning the eligibility for or termination of accreditation of a health practitioner who took a position in an organisation which acted in competition with the services offered by LCMHC. Medical practitioners who became aware of the 2011 amendments may have taken them into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina.\n\n[21] By medical practitioners accepting accreditation on terms that included the 2011 amendments, those practitioners were able to supply a service to LCMHC and/or Calvary Riverina, and LCMHC and/or Calvary Riverina were able to acquire a service from those practitioners, namely the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities amongst other medical services provided to patients by Accredited Medical Practitioners at Calvary Riverina Private Hospital.\n\n[22] LCMHC and/or Calvary Riverina offered to and acquired services from Accredited Medical Practitioners from March 2011 to June 2014 in accordance with the 2011 By-Laws.\n\n[23] Between about March 2011 and June 2014, LCMHC and/or Calvary Riverina did not refuse to grant or renew accreditation to, or revoke the accreditation of, any medical practitioner at any of the private hospitals, including Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities, pursuant to the 2011 amendments.\n\n[24] On 23 June 2014, LCMHC approved proposed updated Private Hospital By-Laws (2014 By-Laws) which would apply at Calvary Riverina Private Hospital, amongst others, including Calvary Riverina Day Surgery Facilities. The 2014 By-Laws included terms concerning the eligibility for or termination of accreditation of a health practitioner who took a position in an organisation where the practitioner had or would have an interest or duty which conflicted or competed with the practitioner’s obligations under the By-Laws to promote and support the business and objectives of LCMHC. Medical practitioners who became aware of the 2014 amendments may have taken them into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina.\n\n[25] By medical practitioners accepting accreditation on terms that included the 2014 amendments, Accredited Medical Practitioners were able to supply a service to LCMHC and/or Calvary Riverina, and LCMHC and/or Calvary Riverina were able to acquire a service from Accredited Medical Practitioners, namely, the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities, amongst other medical services provided to patients by Accredited Medical Practitioners at Calvary Riverina Private Hospital.\n\n[26] LCMHC and/or Calvary Riverina offered to and acquired services from Accredited Medical Practitioners from July 2014 in accordance with the 2014 By-Laws.\n\n[27] Between around July 2014 and October 2015, LCMHC and/or Calvary Riverina did not refuse to grant or renew accreditation to, or revoke the accreditation of, any medical practitioner at any of their private hospitals, including Calvary Riverina Private Hospital and the Calvary Riverina Day Surgery Facilities pursuant to the 2014 amendments.\n\n[28] At all material times, both under the 2011 By-Laws and under the 2014 By-Laws, the LCMHC Board had discretion over the accreditation process, including whether to grant, suspend or terminate accreditation.\n\n[29] From March 2011 to 12 October 2015, LCMHC and/or Calvary Riverina:\n\noffered to acquire, and acquired, a service from Accredited Medical Practitioners, namely, the benefit of day surgery procedures performed on patients at Calvary Riverina Day Surgery Facilities;\n\nhad, in accordance with the 2011 amendments and the 2014 amendments (as applicable), the qualified ability to refuse to grant accreditation to medical practitioners, or to revoke the accreditation of an Accredited Medical Practitioner, who also owned or controlled an entity that was in competition with the services offered by LCMHC and/or Calvary Riverina;\n\nin circumstances where some medical practitioners accredited to practice at Calvary Riverina Day Surgery Facilities became aware of the 2011 amendments and/or or the 2014 amendments and may have taken those amendments into account in considering whether to establish a new private hospital or private day surgery centre located in Wagga Wagga and the surrounding areas supplying day surgery services to private patients in competition with LCMHC and/or Calvary Riverina,\n\nwhich conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga were supplied.\n\n[30] The respondents admitted, for the purposes of these proceedings only, that from March 2011 to 12 October 2015 they engaged in the practice of exclusive dealing, which conduct had the likely effect of substantially lessening competition in the market in which day surgery services in Wagga Wagga, New South Wales were supplied, in contravention by each of them of s 47(1) of the Competition and Consumer Act.\n\n[31] Given the admissions by the respondents that they contravened s 47(1) in that manner, the ACCC did not press the remaining allegations in the Amended Application and Amended Statement of Claim and the parties sought to have the proceeding otherwise dismissed on the terms set out in the short minutes of order annexed to the parties’ joint submissions.\n\n#### Consideration\n\n[32] The Court has a discretionary power granted by s 21 of the Federal Court of Australia Act 1976 (Cth) and the question for decision is whether to exercise it so as to grant declaratory relief.\n\n[33] I am satisfied that the proposed declaration relates to conduct that contravenes s 47 of the Competition and Consumer Act and that the matters in issue have been identified and particularised by the parties with precision. I am also satisfied that it is in the public interest for the ACCC to seek to have the declarations made and for the declarations to be made: Forster v Jododex Australia Pty Ltd [1972] HCA 61; 127 CLR 421 at 437-438. A significant legal controversy in the case is being resolved. I also find that each of the respondents is a proper contradictor because each has agreed to admit that it has contravened the Competition and Consumer Act and is the proposed subject of the declaration: see Australian Competition and Consumer Commission v MSY Technology Pty Ltd [2012] FCAFC 56; 201 FCR 378.\n\n[34] I find the declaration sought is appropriate as recording the Court’s disapproval of the conduct engaged in by the respondents in contravention of the Competition and Consumer Act. The declaration will also serve the public interest in defining and publicising the type of conduct that constitutes a contravention of s 47 of the Competition and Consumer Act, thus informing the public of the contravening conduct, giving effect to the purposes of the Competition and Consumer Act and tending to deter other corporations from contravening the Competition and Consumer Act, in particular s 47: see Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2006] FCA 1730 at [6] per RD Nicholson J.\n\n#### Conclusion and orders\n\n[35] For these reasons and on the basis of the facts set out in the statement of agreed facts, I make the declaration and orders sought by the parties.\n\nI certify that the preceding thirty-five (35) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Robertson.\n\nAssociate:\n\nDated: 26 October 2015\n",
+ "source_sha256": "cdbe8ff637352acf48b1fce7547a1992e7e7b6f129899f8cffe0f84f3e627f11"
+}

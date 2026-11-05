@@ -1,0 +1,250 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA0533.docx",
+ "metadata": {
+  "citation": "[2013] FCA 533",
+  "name": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 12)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 533,
+  "date_of_judgment": "2013-05-30",
+  "file_numbers": [
+   "NSD534/2010",
+   "NSD955/2009"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-04-18"
+  ],
+  "hearing_raw": "18 April 2013",
+  "number_of_paragraphs": 11,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – Suppression order – Application by third party for orders under s 37AG of the Federal Court of Australia Act 1976 (Cth) – Whether documents sufficiently commercially sensitive and current – Whether order should be made"
+  ],
+  "legislation": [
+   "Federal Court of Australia Act 1976 (Cth) s 37AG"
+  ],
+  "cases_cited": [
+   "Australian Competition and Consumer Commission v Air New Zealand Limited (No 3) [2012] FCA 1430 cited",
+   "Australian Competition and Consumer Commission v Air New Zealand Limited (No 4) [2012] FCA 1439 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   },
+   {
+    "name": "GARUDA INDONESIA LIMITED (arbn 000 312 685)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Halley SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "Air New Zealand",
+    "name": "R Smith SC, N Owens, R Yezerski"
+   },
+   {
+    "role": "solicitor",
+    "for": "Air New Zealand",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "Garuda",
+    "name": "M Leeming SC, T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "Garuda",
+    "name": "Norton White"
+   },
+   {
+    "role": "solicitor",
+    "for": "Singpore",
+    "name": "K Watts of Minter Ellison"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0533",
+  "portal_file_numbers": [
+   "NSD955/2009",
+   "NSD534/2010"
+  ],
+  "portal_event": "Administrative Listing",
+  "portal_event_date": "2013-05-30"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 12) [2013] FCA 533"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)"
+  },
+  {
+   "label": "File numbers",
+   "value": "NSD 534 of 2010\nNSD 955 of 2009"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "30 May 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – Suppression order – Application by third party for orders under s 37AG of the Federal Court of Australia Act 1976 (Cth) – Whether documents sufficiently commercially sensitive and current – Whether order should be made"
+  },
+  {
+   "label": "Legislation",
+   "value": "Federal Court of Australia Act 1976 (Cth) s 37AG"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Australian Competition and Consumer Commission v Air New Zealand Limited (No 3) [2012] FCA 1430 cited\nAustralian Competition and Consumer Commission v Air New Zealand Limited (No 4) [2012] FCA 1439 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "18 April 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "General"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "11"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Halley SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for Air New Zealand",
+   "value": "R Smith SC, N Owens, R Yezerski"
+  },
+  {
+   "label": "Solicitor for Air New Zealand",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for Garuda",
+   "value": "M Leeming SC, T Brennan"
+  },
+  {
+   "label": "Solicitor for Garuda",
+   "value": "Norton White"
+  },
+  {
+   "label": "Solicitor for Singpore",
+   "value": "K Watts of Minter Ellison"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 1 May 2013 I made orders suppressing the publication of four elements of the evidence. These were:\n(a) the internal SIAC email dated 19 April 2002 from Kenn Ang together with the attachments to it which are respectively SQC.142.900000002 and SQC.142.900000004;\n(b) the documents in Confidential Annexure NR-2 to the affidavit of Nazim Ros;\n(c) the attachments to internal SIAC emails which are SQC.123.900000091 and SQC.123.900000096; and\n(d) the fourth and fifth sentences of paragraph 21 of the affidavit of Nazim Ros."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "In addition, I ordered that the same material appearing in the affidavit in support of the application for the orders (being the affidavit of Ms Jaime June Lee of 18 April 2013) be correspondingly suppressed."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "I made the orders on the application of a non-party, Singapore Airlines (‘Singapore’), which claimed that their public release would not be in the interests of the administration of justice. The making of the orders was not opposed by any party. Singapore sought that its confidentiality in the documents be preserved for a period of ten years. In the event, I made orders giving protection for only two years."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "These are my reasons for taking that course."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "As it transpires, the documents in (a) and (b) are instances of the same documents. One is an email and the other an attachment to that email. The email is dated 19 April 2002 and is from a Singapore employee, Mr Kenn Ang, to a large number of other Singapore employees and is entitled ‘Implementation of Cargo Fuel Surcharge’. The attachment is entitled ‘Understanding our Fuel Surcharge’ and sets out the basis upon which Singapore proposed to calculate its fuel surcharge."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "Before me, evidence was given by Mr Brenton Wu (through Mr Lee) that this document revealed Singapore’s internal fuel surcharge methodology; that Singapore had never published this methodology; and, that its publication would permit its competitors to reverse engineer its pricing decisions to its significant commercial disadvantage."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The information in question is ten years old. In Australian Competition and Consumer Commission v Air New Zealand Limited (No 4) [2012] FCA 1439 at [8] I rejected a similar claim by Singapore in respect of commercial information of the same vintage holding that the information had no continuing commercial use. In this case, however, I do not think the same reasoning applies. Unlike the material in that case, there is evidence that the methodology in question remains current. I accept, therefore, that its release would expose Singapore to real commercial prejudice. Commercial sensitivity can be a basis for the making of confidentiality orders for the Courts do not intend, save when it is necessary, to disrupt the orderly conduct of commerce: see the authorities collected in Australian Competition and Consumer Commission v Air New Zealand Limited (No 3) [2012] FCA 1430 at [35]. The threshold remains, however, substantial. Mere embarrassment or annoyance will not suffice. The difficulty must rise so high as the standard in s 37AG of the Federal Court of Australia Act 1976 (Cth) (‘the Act’), that is, the non-disclosure must be necessary in order to prevent prejudice to the proper administration of justice."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The documents in (c) and (d) are attachments to emails sent in 2003 and set out the surcharges actually imposed in that year. Largely for similar reasons, I accept that an order should be made in their case. There is a real risk of reverse engineering Singapore’s current pricing policy from these documents. I made this order on the same ground."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "The fourth and fifth sentences of paragraph 21 of Mr Ros’s affidavit dealt directly with Mr Kenn Ang’s email of 19 April 2002 (above) and should be the subject of a confidentiality order for the same reasons."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "Singapore sought an order which would endure for ten years. In my opinion, an order of that extent would not be appropriate. The information protected by these orders warrants protection only so long as it relates to current practice. If Singapore changes tack on the question of how, or even if, it charges a fuel surcharge on cargo, this information will have no particular significance."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "In the circumstances, I will grant two years protection."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding eleven (11) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2013-05-30",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Air New Zealand Limited (No 12) [2013] FCA 533\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 12) [2013] FCA 533\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)  \nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA LIMITED (ARBN 000 861 165)\n\n**File numbers:** NSD 534 of 2010  \nNSD 955 of 2009\n\n**Judge:** PERRAM J\n\n**Date of judgment:** 30 May 2013\n\n**Catchwords:** PRACTICE AND PROCEDURE – Suppression order – Application by third party for orders under s 37AG of the Federal Court of Australia Act 1976 (Cth) – Whether documents sufficiently commercially sensitive and current – Whether order should be made\n\n**Legislation:** Federal Court of Australia Act 1976 (Cth) s 37AG\n\n**Cases cited:** Australian Competition and Consumer Commission v Air New Zealand Limited (No 3) [2012] FCA 1430 cited  \nAustralian Competition and Consumer Commission v Air New Zealand Limited (No 4) [2012] FCA 1439 cited\n\n**Date of hearing:** 18 April 2013\n\n**Place:** Sydney\n\n**Division:** General\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 11\n\n**Counsel for the Applicant:** J Halley SC\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for Air New Zealand:** R Smith SC, N Owens, R Yezerski\n\n**Solicitor for Air New Zealand:** Corrs Chambers Westgarth\n\n**Counsel for Garuda:** M Leeming SC, T Brennan\n\n**Solicitor for Garuda:** Norton White\n\n**Solicitor for Singpore:** K Watts of Minter Ellison\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | GARUDA INDONESIA LIMITED (arbn 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE: | 30 MAY 2013 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] On 1 May 2013 I made orders suppressing the publication of four elements of the evidence. These were:\n\n(a) the internal SIAC email dated 19 April 2002 from Kenn Ang together with the attachments to it which are respectively SQC.142.900000002 and SQC.142.900000004;\n\n(b) the documents in Confidential Annexure NR-2 to the affidavit of Nazim Ros;\n\n(c) the attachments to internal SIAC emails which are SQC.123.900000091 and SQC.123.900000096; and\n\n(d) the fourth and fifth sentences of paragraph 21 of the affidavit of Nazim Ros.\n\n[2] In addition, I ordered that the same material appearing in the affidavit in support of the application for the orders (being the affidavit of Ms Jaime June Lee of 18 April 2013) be correspondingly suppressed.\n\n[3] I made the orders on the application of a non-party, Singapore Airlines (‘Singapore’), which claimed that their public release would not be in the interests of the administration of justice. The making of the orders was not opposed by any party. Singapore sought that its confidentiality in the documents be preserved for a period of ten years. In the event, I made orders giving protection for only two years.\n\n[4] These are my reasons for taking that course.\n\n[5] As it transpires, the documents in (a) and (b) are instances of the same documents. One is an email and the other an attachment to that email. The email is dated 19 April 2002 and is from a Singapore employee, Mr Kenn Ang, to a large number of other Singapore employees and is entitled ‘Implementation of Cargo Fuel Surcharge’. The attachment is entitled ‘Understanding our Fuel Surcharge’ and sets out the basis upon which Singapore proposed to calculate its fuel surcharge.\n\n[6] Before me, evidence was given by Mr Brenton Wu (through Mr Lee) that this document revealed Singapore’s internal fuel surcharge methodology; that Singapore had never published this methodology; and, that its publication would permit its competitors to reverse engineer its pricing decisions to its significant commercial disadvantage.\n\n[7] The information in question is ten years old. In Australian Competition and Consumer Commission v Air New Zealand Limited (No 4) [2012] FCA 1439 at [8] I rejected a similar claim by Singapore in respect of commercial information of the same vintage holding that the information had no continuing commercial use. In this case, however, I do not think the same reasoning applies. Unlike the material in that case, there is evidence that the methodology in question remains current. I accept, therefore, that its release would expose Singapore to real commercial prejudice. Commercial sensitivity can be a basis for the making of confidentiality orders for the Courts do not intend, save when it is necessary, to disrupt the orderly conduct of commerce: see the authorities collected in Australian Competition and Consumer Commission v Air New Zealand Limited (No 3) [2012] FCA 1430 at [35]. The threshold remains, however, substantial. Mere embarrassment or annoyance will not suffice. The difficulty must rise so high as the standard in s 37AG of the Federal Court of Australia Act 1976 (Cth) (‘the Act’), that is, the non-disclosure must be necessary in order to prevent prejudice to the proper administration of justice.\n\n[8] The documents in (c) and (d) are attachments to emails sent in 2003 and set out the surcharges actually imposed in that year. Largely for similar reasons, I accept that an order should be made in their case. There is a real risk of reverse engineering Singapore’s current pricing policy from these documents. I made this order on the same ground.\n\n[9] The fourth and fifth sentences of paragraph 21 of Mr Ros’s affidavit dealt directly with Mr Kenn Ang’s email of 19 April 2002 (above) and should be the subject of a confidentiality order for the same reasons.\n\n[10] Singapore sought an order which would endure for ten years. In my opinion, an order of that extent would not be appropriate. The information protected by these orders warrants protection only so long as it relates to current practice. If Singapore changes tack on the question of how, or even if, it charges a fuel surcharge on cargo, this information will have no particular significance.\n\n[11] In the circumstances, I will grant two years protection.\n\nI certify that the preceding eleven (11) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 30 May 2013\n",
+ "source_sha256": "763a6a0a7b1a3afec773ce77aa3ee0d3cc6a9d5dc3be7e446551a2973a94892f"
+}

@@ -1,0 +1,433 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2015/2015FCA1520.docx",
+ "metadata": {
+  "citation": "[2015] FCA 1520",
+  "name": "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd",
+  "court": "FCA",
+  "year": 2015,
+  "number": 1520,
+  "date_of_judgment": "2015-10-15",
+  "file_numbers": [
+   "NSD2510/2013"
+  ],
+  "judges": [
+   "WIGNEY J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2015-10-15"
+  ],
+  "hearing_raw": "15 October 2015",
+  "number_of_paragraphs": 24,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – discovery – interlocutory application seeking discovery orders – special discovery pursuant to r 20.15 of the Federal Court Rules 2011 (Cth) – whether discovery orders sought will facilitate the just resolution of the proceedings as quickly, inexpensively and efficiently as possible – whether discovery orders sought are consistent with the overarching purpose in Pt VB of the Federal Court of Australia Act 1976 (Cth) – whether discovery orders sought are necessary in the interests of a fair trial or the fair disposition of the proceedings"
+  ],
+  "legislation": [
+   "Competition and Consumer Act 2010 (Cth)",
+   "Federal Court of Australia Act 1976 (Cth), Pt VB",
+   "Federal Court Rules 2011 (Cth), r 20.15",
+   "Trade Practices Act 1974 (Cth), ss 45, 155"
+  ],
+  "cases_cited": [
+   "Alanco Australia Pty Ltd v Higgins (No 2) [2011] FCA 1063",
+   "Trade Practices Commission v CC (New South Wales) Pty Limited (No 4) (1995) 58 FCR 426"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163)",
+    "role": "First Respondent"
+   },
+   {
+    "name": "PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "PAUL ANSELL",
+    "role": "Third Respondent"
+   },
+   {
+    "name": "WOOLWORTHS LIMITED (ACN 000 014 675)",
+    "role": "Fourth Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163), PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827), PAUL ANSELL and WOOLWORTHS LIMITED (ACN 000 014 675)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "Mr C M Scerri QC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Norton Rose Fulbright Australia"
+   },
+   {
+    "role": "counsel",
+    "for": "the First Respondent",
+    "name": "Mr A J Payne SC with Mr C E Bannan"
+   },
+   {
+    "role": "solicitor",
+    "for": "the First Respondent",
+    "name": "King & Wood Mallesons"
+   },
+   {
+    "role": "counsel",
+    "for": "the Second Respondent",
+    "name": "Mr M Scott QC with Mr A D Barraclough"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Second Respondent",
+    "name": "Allens"
+   },
+   {
+    "role": "counsel",
+    "for": "the Third Respondent",
+    "name": "Mr M Walton SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Third Respondent",
+    "name": "Bird & Bird"
+   },
+   {
+    "role": "counsel",
+    "for": "the Fourth Respondent",
+    "name": "Mr D Roche"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Fourth Respondent",
+    "name": "Clayton Utz"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2015/2015fca1520",
+  "portal_file_numbers": [
+   "NSD2510/2013"
+  ],
+  "portal_event": "Interlocutory Hearing",
+  "portal_event_date": "2015-10-15"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2015] FCA 1520"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163), PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827), PAUL ANSELL and WOOLWORTHS LIMITED (ACN 000 014 675)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 2510 of 2013"
+  },
+  {
+   "label": "Judge",
+   "value": "WIGNEY J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "15 October 2015"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – discovery – interlocutory application seeking discovery orders – special discovery pursuant to r 20.15 of the Federal Court Rules 2011 (Cth) – whether discovery orders sought will facilitate the just resolution of the proceedings as quickly, inexpensively and efficiently as possible – whether discovery orders sought are consistent with the overarching purpose in Pt VB of the Federal Court of Australia Act 1976 (Cth) – whether discovery orders sought are necessary in the interests of a fair trial or the fair disposition of the proceedings"
+  },
+  {
+   "label": "Legislation",
+   "value": "Competition and Consumer Act 2010 (Cth)\nFederal Court of Australia Act 1976 (Cth), Pt VB\nFederal Court Rules 2011 (Cth), r 20.15\nTrade Practices Act 1974 (Cth), ss 45, 155"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Alanco Australia Pty Ltd v Higgins (No 2) [2011] FCA 1063\nTrade Practices Commission v CC (New South Wales) Pty Limited (No 4) (1995) 58 FCR 426"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "15 October 2015"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "24"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "Mr C M Scerri QC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Norton Rose Fulbright Australia"
+  },
+  {
+   "label": "Counsel for the First Respondent",
+   "value": "Mr A J Payne SC with Mr C E Bannan"
+  },
+  {
+   "label": "Solicitor for the First Respondent",
+   "value": "King & Wood Mallesons"
+  },
+  {
+   "label": "Counsel for the Second Respondent",
+   "value": "Mr M Scott QC with Mr A D Barraclough"
+  },
+  {
+   "label": "Solicitor for the Second Respondent",
+   "value": "Allens"
+  },
+  {
+   "label": "Counsel for the Third Respondent",
+   "value": "Mr M Walton SC"
+  },
+  {
+   "label": "Solicitor for the Third Respondent",
+   "value": "Bird & Bird"
+  },
+  {
+   "label": "Counsel for the Fourth Respondent",
+   "value": "Mr D Roche"
+  },
+  {
+   "label": "Solicitor for the Fourth Respondent",
+   "value": "Clayton Utz"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD2510/2013",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163)",
+     "role": "First Respondent"
+    },
+    {
+     "name": "PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "PAUL ANSELL",
+     "role": "Third Respondent"
+    },
+    {
+     "name": "WOOLWORTHS LIMITED (ACN 000 014 675)",
+     "role": "Fourth Respondent"
+    }
+   ],
+   "judges": [
+    "WIGNEY J"
+   ],
+   "date": "2015-10-15",
+   "date_raw": "15 OCTOBER 2015",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The interlocutory application seeking discovery filed on 12 October 2015 be dismissed, with costs.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "By 4.00pm on 23 October 2015, the fourth respondent serve on the applicant an electronic copy of:",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the data referred to in its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015 and described in paragraph 6 of the letter from the fourth respondent’s solicitors dated 9 October 2015; and",
+     "level": 0
+    },
+    {
+     "label": "",
+     "text": "the spreadsheet described in paragraph 2 of its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015.",
+     "level": 0
+    },
+    {
+     "label": "3.",
+     "text": "By 4.00pm on 30 October 2015, the first respondent serve on the applicant an electronic copy of the data described in paragraph 7 of the ACCC Proposal as amended by the letters from the first respondent’s solicitors dated 25 September 2015 and 14 October 2015.",
+     "level": 0
+    },
+    {
+     "label": "4.",
+     "text": "The matter be listed for further directions at 9.00am on 21 October 2015.",
+     "level": 0
+    },
+    {
+     "label": "5.",
+     "text": "The parties have liberty to contact the associate to Wigney J in the event that it is unnecessary to have a directions hearing on 21 October 2015 and in the event that orders can be made by consent in chambers in relation to any further orders relating to the proposed dataset.",
+     "level": 0
+    },
+    {
+     "label": "6.",
+     "text": "The matter be listed for hearing on 5 February 2016 in relation to any application relating to the expert’s report served by the applicant.",
+     "level": 0
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [
+   "(Delivered ex tempore, revised from transcript)"
+  ],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "In these proceedings, the Australian Competition and Consumer Commission (ACCC) seeks relief against Colgate-Palmolive Pty Ltd (Colgate), PZ Cussons Australia Pty Ltd (Cussons), Mr Paul Ansell and Woolworths Limited (Woolworths) arising from alleged contraventions of s 45 and other provisions of the then Trade Practices Act 1974 (Cth) (the TP Act), now the Competition and Consumer Act 2010 (Cth), relating to contracts, agreements or understandings that are alleged to have had the purpose or effect of substantially lessening competition."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "The alleged contravening conduct is said to have occurred in the market for laundry detergent in Australia. By interlocutory application filed on 12 October 2015, the ACCC seeks discovery orders against Colgate and Cussons. Whilst the interlocutory application does not say so in terms, the discovery sought is special discovery pursuant to r 20.15 of the Federal Court Rules 2011 (Cth). In short, the discovery orders seek production of documents that record prices and profits from sales of laundry detergent in New Zealand over a three year period. The application for discovery is opposed."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "For the reasons that follow, the application is dismissed. In short, I am not satisfied that the orders sought will facilitate the just resolution of the proceedings as quickly, inexpensively and efficiently as possible. The discovery orders sought are not consistent with the “overarching purpose” in Pt VB of the Federal Court of Australia Act 1976 (Cth): cf Alanco Australia Pty Ltd v Higgins (No 2) [2011] FCA 1063 at [7]. Nor am I satisfied that the discovery orders are necessary in the interests of a fair trial or the fair disposition of the proceedings: cf Trade Practices Commission v CC (New South Wales) Pty Limited (No 4) (1995) 58 FCR 426 at 436-437. Indeed, in my view, the discovery sought is likely to increase the cost and complexity of the trial and put at risk the eight week trial date that has been set for the matter."
+   },
+   {
+    "n": 4,
+    "headings": [],
+    "text": "Given the need to determine this application without delay, my reasons are brief."
+   },
+   {
+    "n": 5,
+    "headings": [],
+    "text": "These proceedings have been on foot for some considerable time. It is unnecessary to detail the history of the proceedings in any great detail. The proceedings were commenced on 12 December 2013. The commencement of the proceedings followed a relatively lengthy investigation by the ACCC. That investigation included examinations and the production of information and documents pursuant to s 155 of the TP Act."
+   },
+   {
+    "n": 6,
+    "headings": [],
+    "text": "There have been numerous directions hearings and a case management conference before the previous docket judge. Directions were made in relation to the filing of evidence. The ACCC filed its lay evidence-in-chief by August 2014. Whilst the market in question in the proceedings is the market for laundry detergent in Australia, the evidence filed by the ACCC addressed, to a certain extent, some facts relevant to the market for laundry detergent in New Zealand. It did not include data in relation to prices, sales or profits from sales of laundry detergent in New Zealand. The ACCC appeared to rely on the evidence relating to the conduct of participants in the New Zealand laundry detergent market in contradistinction to the conduct that allegedly occurred in the Australian market. The contrast between the conduct in the two different markets was relied on as a circumstantial fact or circumstance in seeking to prove the existence of the alleged contracts, agreements or understandings in the Australian market."
+   },
+   {
+    "n": 7,
+    "headings": [],
+    "text": "The respondents filed their lay evidence by March 2015. Colgate’s evidence included a response by one of its witnesses to the evidence adduced by the ACCC concerning the events that occurred in the New Zealand market for laundry detergent. Again, that evidence did not descend into any detail concerning prices, sales or profits."
+   },
+   {
+    "n": 8,
+    "headings": [],
+    "text": "The question of discovery was first raised before the docket judge in February 2014. Ultimately, her Honour was persuaded by the respondents that discovery should be deferred until after the lay evidence had been filed. The question of discovery was agitated again by the ACCC in July and August 2014. The ACCC proposed fairly extensive discovery involving certain categories of documents. None of the categories included price, sales or profit data relating to the New Zealand market. The ACCC ultimately did not file an interlocutory application seeking discovery and indicated to the respondents in inter partes correspondence that it would revisit the issue after the respondents had filed their lay evidence-in-chief."
+   },
+   {
+    "n": 9,
+    "headings": [],
+    "text": "There was a directions hearing before the docket judge in March 2015. Detailed directions were made in relation to reply evidence, an agreed statement of facts, subpoenas, expert evidence and confidentiality orders. It does not appear that the question of discovery was raised at the directions hearing."
+   },
+   {
+    "n": 10,
+    "headings": [],
+    "text": "The proceedings were then listed for a case management conference before the docket judge on 20 August 2015. Again, some detailed orders involving case management were made in relation to an agreed statement of facts and expert evidence, as well as some limited discovery by the ACCC. There was, however, no suggestion by the ACCC that it would seek any more extensive discovery, let alone discovery of any New Zealand data."
+   },
+   {
+    "n": 11,
+    "headings": [],
+    "text": "The question of production by the respondents of the New Zealand data arose for the first time in September 2015. It arose in the context of discussions concerning an agreed “dataset” to be provided to the experts that are apparently intended to be retained by both the ACCC and some of the respondents. The parties have largely agreed on a proposed dataset in relation to the Australian market for laundry detergent. The respondents told the ACCC in the context of those discussions, however, that they would not produce data in relation to New Zealand. It is that refusal that ultimately prompted the filing of this interlocutory application."
+   },
+   {
+    "n": 12,
+    "headings": [],
+    "text": "The ACCC says that the New Zealand data is important because it wants to provide it to its expert witness. In an affidavit filed in support of the interlocutory application, the ACCC’s solicitor gives the following evidence (at [21]-[23]) concerning the supposed importance of the documents the subject of the proposed discovery order:\nThe ACCC has engaged Dr Philip Williams, an economist, to give evidence as an expert witness at the trial in this proceeding.\nEvidence has already been filed in this proceeding in relation to New Zealand, including by the ACCC and the First and Second Respondents as referred to above. In particular, that evidence indicates that the same three major suppliers of laundry detergents operated in both the Australian and New Zealand markets, but that the Second Respondent engaged in different behaviour in the New Zealand market by not introducing, in around February 2009, the ultra concentrated laundry detergents that it introduced in Australia at around that time.\nAccess to the New Zealand data sought by the Interlocutory Application would enable Dr Williams to compare what occurred in New Zealand with what occurred in Australia by reference to data in respect of New Zealand of the same type and with the same parameters as the data that will be made available to him in respect of Australia."
+   },
+   {
+    "n": 13,
+    "headings": [],
+    "text": "It is difficult to see how that evidence could support a finding that the discovery orders sought are necessary in the interests of a fair trial or the fair disposal of these proceedings. The evidence does not rise so high as to suggest that Dr Williams, the expert witness proposed to be called by the ACCC, either requested the data or needs the data to express his opinions in relation to the questions asked of him. It does not support the inference that the data will necessarily assist Dr Williams."
+   },
+   {
+    "n": 14,
+    "headings": [],
+    "text": "The question of expert evidence is already likely to be problematic. The parties are unable to agree on the material that should be briefed to the experts. Nor are they able to agree on the assumptions that the experts should make or the questions to be asked of them. It would seem that if Dr Williams, or any other expert, is asked to express an opinion based on the New Zealand data, if it is produced, it would be necessary for the experts to be briefed with either further assumptions, facts or evidence, most likely contentious, in relation to the New Zealand market. That is significant, because the respondents claim that if they are required to produce the New Zealand data, they would be likely to seek leave to file evidence, or additional evidence, concerning the New Zealand market. Had I been minded to make the discovery orders, I would have given the respondents leave to file that additional evidence."
+   },
+   {
+    "n": 15,
+    "headings": [],
+    "text": "Whilst it is true that the ACCC has filed some limited evidence in relation to the New Zealand market in its initial evidence-in-chief, that evidence did not descend to the sort of detail that will unquestionably need to be addressed in the evidence if the experts are asked to express opinions about, or based on, price, sales and profit data relating to the New Zealand market for laundry detergent. In all the circumstances, it would appear that the introduction of assumptions, questions and data concerning the New Zealand market will most likely make the expert evidence even more complex and costly than it is already likely to be."
+   },
+   {
+    "n": 16,
+    "headings": [],
+    "text": "There is also evidence from the respondents to the effect that there are likely to be complexities involved in producing documents in accordance with the proposed discovery categories. No single document or suite of documents exist that contain all the data. The data would have to be extracted, downloaded and manipulated into documents fit for production. It is clear that such an exercise would take some considerable time. In the case of Colgate, it could take until late November 2015. It would appear that Cussons could do it in slightly less time. In any event, both Colgate and Cussons indicate that that they may not be able to produce documents that cover all of the data within the categories in the proposed discovery categories."
+   },
+   {
+    "n": 17,
+    "headings": [],
+    "text": "Colgate and Cussons also believe that it could take until late January 2016 for them to file any additional evidence relating to the New Zealand data or the market to which it relates. What that effectively means is that the ACCC’s expert would not be able to be briefed with the required material, including, the data and the additional evidence in relation to it, until late January 2016. The current timetable proposed in relation to the expert evidence is that the ACCC will file its expert evidence on or before 22 December 2015."
+   },
+   {
+    "n": 18,
+    "headings": [],
+    "text": "It is readily apparent, therefore, that if the New Zealand data was required to be produced, and leave was given to the respondents to file evidence in relation to the New Zealand market, the proposed timetable would be blown out. This is all, of course, also in a perfect world. Litigation of this sort rarely takes place in such a world. If there were any glitches in the production of the New Zealand data, or the additional evidence in relation to it, the timetable could be set back further still. It follows that if the discovery orders are made, this would put the current timetable and the June 2016 trial date at considerable risk."
+   },
+   {
+    "n": 19,
+    "headings": [],
+    "text": "The potential risk that the June 2016 trial date might be lost must also be considered in light of the fact that the ACCC did not raise this potential issue in relation to discovery with the docket judge when the matter was set down for trial."
+   },
+   {
+    "n": 20,
+    "headings": [],
+    "text": "Given the length of time since this matter was commenced, it is in the interests of the parties and the public interest for the trial to proceed in June 2016. I am loath to make any order that might imperil that trial date."
+   },
+   {
+    "n": 21,
+    "headings": [],
+    "text": "In my opinion, this application has simply been made too late in the day. Whilst it is true that the ACCC led evidence about the New Zealand market in its evidence-in-chief, it did not seek to lead any evidence concerning prices, sales or profits in the New Zealand market. It did not raise the prospect of requiring discovery in respect of the New Zealand data in the context of the discussions that occurred during 2014 in relation to discovery. It did not raise any issue concerning production of the New Zealand data when this matter was set down for trial. That would appear to be because it was, in a sense, an afterthought which arose only when the question of the proposed agreed dataset to be briefed to the experts became an issue."
+   },
+   {
+    "n": 22,
+    "headings": [],
+    "text": "It is also unclear whether the New Zealand data can or will ultimately assist the ACCC’s case. The most that can be said is that the ACCC’s expert may be able to express some opinion based on the data. Even that opinion, if positive to the ACCC’s case, would only be one circumstantial fact in the ACCC’s case concerning the Australian market. It must be emphasised again that the ACCC’s case concerns the Australian market, not the New Zealand market. It should also be noted in that context that the New Zealand market is not mentioned at all in the pleadings, including in the detailed particulars that descend into some detail about inferences that can or should be drawn from the primary facts."
+   },
+   {
+    "n": 23,
+    "headings": [],
+    "text": "In my opinion, given the delay in seeking discovery, the difficulties any such order may cause to the existing timetable and hearing date, the added complexity that may arise as a result of this additional aspect of the case, and the, at best, uncertain relevance and importance of the material, the discovery order is not warranted."
+   },
+   {
+    "n": 24,
+    "headings": [],
+    "text": "The Court makes the following orders:\n1. The interlocutory application seeking discovery filed on 12 October 2015 be dismissed, with costs.\n2. By 4.00pm on 23 October 2015, the fourth respondent serve on the applicant an electronic copy of:\n(a) the data referred to in its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015 and described in paragraph 6 of the letter from the fourth respondent’s solicitors dated 9 October 2015; and\n(b) the spreadsheet described in paragraph 2 of its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015.\n3. By 4.00pm on 30 October 2015, the first respondent serve on the applicant an electronic copy of the data described in paragraph 7 of the ACCC Proposal as amended by the letters from the first respondent’s solicitors dated 25 September 2015 and 14 October 2015.\n4. The matter be listed for further directions at 9.00am on 21 October 2015.\n5. The parties have liberty to contact the associate to Wigney J in the event that it is unnecessary to have a directions hearing on 21 October 2015 and in the event that orders can be made by consent in chambers in relation to any further orders relating to the proposed dataset.\n6. The matter be listed for hearing on 5 February 2016 in relation to any application relating to the expert’s report served by the applicant."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding twenty-four (24) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wigney.",
+ "associate": null,
+ "dated": "2016-02-04",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2015] FCA 1520\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v Colgate-Palmolive Pty Ltd [2015] FCA 1520\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163), PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827), PAUL ANSELL and WOOLWORTHS LIMITED (ACN 000 014 675)\n\n**File number:** NSD 2510 of 2013\n\n**Judge:** WIGNEY J\n\n**Date of judgment:** 15 October 2015\n\n**Catchwords:** PRACTICE AND PROCEDURE – discovery – interlocutory application seeking discovery orders – special discovery pursuant to r 20.15 of the Federal Court Rules 2011 (Cth) – whether discovery orders sought will facilitate the just resolution of the proceedings as quickly, inexpensively and efficiently as possible – whether discovery orders sought are consistent with the overarching purpose in Pt VB of the Federal Court of Australia Act 1976 (Cth) – whether discovery orders sought are necessary in the interests of a fair trial or the fair disposition of the proceedings\n\n**Legislation:** Competition and Consumer Act 2010 (Cth)  \nFederal Court of Australia Act 1976 (Cth), Pt VB  \nFederal Court Rules 2011 (Cth), r 20.15  \nTrade Practices Act 1974 (Cth), ss 45, 155\n\n**Cases cited:** Alanco Australia Pty Ltd v Higgins (No 2) [2011] FCA 1063  \nTrade Practices Commission v CC (New South Wales) Pty Limited (No 4) (1995) 58 FCR 426\n\n**Date of hearing:** 15 October 2015\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 24\n\n**Counsel for the Applicant:** Mr C M Scerri QC\n\n**Solicitor for the Applicant:** Norton Rose Fulbright Australia\n\n**Counsel for the First Respondent:** Mr A J Payne SC with Mr C E Bannan\n\n**Solicitor for the First Respondent:** King & Wood Mallesons\n\n**Counsel for the Second Respondent:** Mr M Scott QC with Mr A D Barraclough\n\n**Solicitor for the Second Respondent:** Allens\n\n**Counsel for the Third Respondent:** Mr M Walton SC\n\n**Solicitor for the Third Respondent:** Bird & Bird\n\n**Counsel for the Fourth Respondent:** Mr D Roche\n\n**Solicitor for the Fourth Respondent:** Clayton Utz\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD2510 of 2013 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163)<br>First Respondent<br>PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)<br>Second Respondent<br>PAUL ANSELL<br>Third Respondent<br>WOOLWORTHS LIMITED (ACN 000 014 675)<br>Fourth Respondent |\n\n| JUDGE: | WIGNEY J |\n|---|---|\n| DATE OF ORDER: | 15 OCTOBER 2015 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The interlocutory application seeking discovery filed on 12 October 2015 be dismissed, with costs.\n\n2. By 4.00pm on 23 October 2015, the fourth respondent serve on the applicant an electronic copy of:\n\nthe data referred to in its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015 and described in paragraph 6 of the letter from the fourth respondent’s solicitors dated 9 October 2015; and\n\nthe spreadsheet described in paragraph 2 of its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015.\n\n3. By 4.00pm on 30 October 2015, the first respondent serve on the applicant an electronic copy of the data described in paragraph 7 of the ACCC Proposal as amended by the letters from the first respondent’s solicitors dated 25 September 2015 and 14 October 2015.\n\n4. The matter be listed for further directions at 9.00am on 21 October 2015.\n\n5. The parties have liberty to contact the associate to Wigney J in the event that it is unnecessary to have a directions hearing on 21 October 2015 and in the event that orders can be made by consent in chambers in relation to any further orders relating to the proposed dataset.\n\n6. The matter be listed for hearing on 5 February 2016 in relation to any application relating to the expert’s report served by the applicant.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD2510 of 2013 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | COLGATE-PALMOLIVE PTY LTD (ACN 002 792 163)<br>First Respondent<br>PZ CUSSONS AUSTRALIA PTY LTD (ACN 004 164 827)<br>Second Respondent<br>PAUL ANSELL<br>Third Respondent<br>WOOLWORTHS LIMITED (ACN 000 014 675)<br>Fourth Respondent |\n\n| JUDGE: | WIGNEY J |\n|---|---|\n| DATE: | 15 OCTOBER 2015 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n(Delivered ex tempore, revised from transcript)\n\n[1] In these proceedings, the Australian Competition and Consumer Commission (ACCC) seeks relief against Colgate-Palmolive Pty Ltd (Colgate), PZ Cussons Australia Pty Ltd (Cussons), Mr Paul Ansell and Woolworths Limited (Woolworths) arising from alleged contraventions of s 45 and other provisions of the then Trade Practices Act 1974 (Cth) (the TP Act), now the Competition and Consumer Act 2010 (Cth), relating to contracts, agreements or understandings that are alleged to have had the purpose or effect of substantially lessening competition.\n\n[2] The alleged contravening conduct is said to have occurred in the market for laundry detergent in Australia. By interlocutory application filed on 12 October 2015, the ACCC seeks discovery orders against Colgate and Cussons. Whilst the interlocutory application does not say so in terms, the discovery sought is special discovery pursuant to r 20.15 of the Federal Court Rules 2011 (Cth). In short, the discovery orders seek production of documents that record prices and profits from sales of laundry detergent in New Zealand over a three year period. The application for discovery is opposed.\n\n[3] For the reasons that follow, the application is dismissed. In short, I am not satisfied that the orders sought will facilitate the just resolution of the proceedings as quickly, inexpensively and efficiently as possible. The discovery orders sought are not consistent with the “overarching purpose” in Pt VB of the Federal Court of Australia Act 1976 (Cth): cf Alanco Australia Pty Ltd v Higgins (No 2) [2011] FCA 1063 at [7]. Nor am I satisfied that the discovery orders are necessary in the interests of a fair trial or the fair disposition of the proceedings: cf Trade Practices Commission v CC (New South Wales) Pty Limited (No 4) (1995) 58 FCR 426 at 436-437. Indeed, in my view, the discovery sought is likely to increase the cost and complexity of the trial and put at risk the eight week trial date that has been set for the matter.\n\n[4] Given the need to determine this application without delay, my reasons are brief.\n\n[5] These proceedings have been on foot for some considerable time. It is unnecessary to detail the history of the proceedings in any great detail. The proceedings were commenced on 12 December 2013. The commencement of the proceedings followed a relatively lengthy investigation by the ACCC. That investigation included examinations and the production of information and documents pursuant to s 155 of the TP Act.\n\n[6] There have been numerous directions hearings and a case management conference before the previous docket judge. Directions were made in relation to the filing of evidence. The ACCC filed its lay evidence-in-chief by August 2014. Whilst the market in question in the proceedings is the market for laundry detergent in Australia, the evidence filed by the ACCC addressed, to a certain extent, some facts relevant to the market for laundry detergent in New Zealand. It did not include data in relation to prices, sales or profits from sales of laundry detergent in New Zealand. The ACCC appeared to rely on the evidence relating to the conduct of participants in the New Zealand laundry detergent market in contradistinction to the conduct that allegedly occurred in the Australian market. The contrast between the conduct in the two different markets was relied on as a circumstantial fact or circumstance in seeking to prove the existence of the alleged contracts, agreements or understandings in the Australian market.\n\n[7] The respondents filed their lay evidence by March 2015. Colgate’s evidence included a response by one of its witnesses to the evidence adduced by the ACCC concerning the events that occurred in the New Zealand market for laundry detergent. Again, that evidence did not descend into any detail concerning prices, sales or profits.\n\n[8] The question of discovery was first raised before the docket judge in February 2014. Ultimately, her Honour was persuaded by the respondents that discovery should be deferred until after the lay evidence had been filed. The question of discovery was agitated again by the ACCC in July and August 2014. The ACCC proposed fairly extensive discovery involving certain categories of documents. None of the categories included price, sales or profit data relating to the New Zealand market. The ACCC ultimately did not file an interlocutory application seeking discovery and indicated to the respondents in inter partes correspondence that it would revisit the issue after the respondents had filed their lay evidence-in-chief.\n\n[9] There was a directions hearing before the docket judge in March 2015. Detailed directions were made in relation to reply evidence, an agreed statement of facts, subpoenas, expert evidence and confidentiality orders. It does not appear that the question of discovery was raised at the directions hearing.\n\n[10] The proceedings were then listed for a case management conference before the docket judge on 20 August 2015. Again, some detailed orders involving case management were made in relation to an agreed statement of facts and expert evidence, as well as some limited discovery by the ACCC. There was, however, no suggestion by the ACCC that it would seek any more extensive discovery, let alone discovery of any New Zealand data.\n\n[11] The question of production by the respondents of the New Zealand data arose for the first time in September 2015. It arose in the context of discussions concerning an agreed “dataset” to be provided to the experts that are apparently intended to be retained by both the ACCC and some of the respondents. The parties have largely agreed on a proposed dataset in relation to the Australian market for laundry detergent. The respondents told the ACCC in the context of those discussions, however, that they would not produce data in relation to New Zealand. It is that refusal that ultimately prompted the filing of this interlocutory application.\n\n[12] The ACCC says that the New Zealand data is important because it wants to provide it to its expert witness. In an affidavit filed in support of the interlocutory application, the ACCC’s solicitor gives the following evidence (at [21]-[23]) concerning the supposed importance of the documents the subject of the proposed discovery order:\n\n> The ACCC has engaged Dr Philip Williams, an economist, to give evidence as an expert witness at the trial in this proceeding.\n\n> Evidence has already been filed in this proceeding in relation to New Zealand, including by the ACCC and the First and Second Respondents as referred to above. In particular, that evidence indicates that the same three major suppliers of laundry detergents operated in both the Australian and New Zealand markets, but that the Second Respondent engaged in different behaviour in the New Zealand market by not introducing, in around February 2009, the ultra concentrated laundry detergents that it introduced in Australia at around that time.\n\n> Access to the New Zealand data sought by the Interlocutory Application would enable Dr Williams to compare what occurred in New Zealand with what occurred in Australia by reference to data in respect of New Zealand of the same type and with the same parameters as the data that will be made available to him in respect of Australia.\n\n[13] It is difficult to see how that evidence could support a finding that the discovery orders sought are necessary in the interests of a fair trial or the fair disposal of these proceedings. The evidence does not rise so high as to suggest that Dr Williams, the expert witness proposed to be called by the ACCC, either requested the data or needs the data to express his opinions in relation to the questions asked of him. It does not support the inference that the data will necessarily assist Dr Williams.\n\n[14] The question of expert evidence is already likely to be problematic. The parties are unable to agree on the material that should be briefed to the experts. Nor are they able to agree on the assumptions that the experts should make or the questions to be asked of them. It would seem that if Dr Williams, or any other expert, is asked to express an opinion based on the New Zealand data, if it is produced, it would be necessary for the experts to be briefed with either further assumptions, facts or evidence, most likely contentious, in relation to the New Zealand market. That is significant, because the respondents claim that if they are required to produce the New Zealand data, they would be likely to seek leave to file evidence, or additional evidence, concerning the New Zealand market. Had I been minded to make the discovery orders, I would have given the respondents leave to file that additional evidence.\n\n[15] Whilst it is true that the ACCC has filed some limited evidence in relation to the New Zealand market in its initial evidence-in-chief, that evidence did not descend to the sort of detail that will unquestionably need to be addressed in the evidence if the experts are asked to express opinions about, or based on, price, sales and profit data relating to the New Zealand market for laundry detergent. In all the circumstances, it would appear that the introduction of assumptions, questions and data concerning the New Zealand market will most likely make the expert evidence even more complex and costly than it is already likely to be.\n\n[16] There is also evidence from the respondents to the effect that there are likely to be complexities involved in producing documents in accordance with the proposed discovery categories. No single document or suite of documents exist that contain all the data. The data would have to be extracted, downloaded and manipulated into documents fit for production. It is clear that such an exercise would take some considerable time. In the case of Colgate, it could take until late November 2015. It would appear that Cussons could do it in slightly less time. In any event, both Colgate and Cussons indicate that that they may not be able to produce documents that cover all of the data within the categories in the proposed discovery categories.\n\n[17] Colgate and Cussons also believe that it could take until late January 2016 for them to file any additional evidence relating to the New Zealand data or the market to which it relates. What that effectively means is that the ACCC’s expert would not be able to be briefed with the required material, including, the data and the additional evidence in relation to it, until late January 2016. The current timetable proposed in relation to the expert evidence is that the ACCC will file its expert evidence on or before 22 December 2015.\n\n[18] It is readily apparent, therefore, that if the New Zealand data was required to be produced, and leave was given to the respondents to file evidence in relation to the New Zealand market, the proposed timetable would be blown out. This is all, of course, also in a perfect world. Litigation of this sort rarely takes place in such a world. If there were any glitches in the production of the New Zealand data, or the additional evidence in relation to it, the timetable could be set back further still. It follows that if the discovery orders are made, this would put the current timetable and the June 2016 trial date at considerable risk.\n\n[19] The potential risk that the June 2016 trial date might be lost must also be considered in light of the fact that the ACCC did not raise this potential issue in relation to discovery with the docket judge when the matter was set down for trial.\n\n[20] Given the length of time since this matter was commenced, it is in the interests of the parties and the public interest for the trial to proceed in June 2016. I am loath to make any order that might imperil that trial date.\n\n[21] In my opinion, this application has simply been made too late in the day. Whilst it is true that the ACCC led evidence about the New Zealand market in its evidence-in-chief, it did not seek to lead any evidence concerning prices, sales or profits in the New Zealand market. It did not raise the prospect of requiring discovery in respect of the New Zealand data in the context of the discussions that occurred during 2014 in relation to discovery. It did not raise any issue concerning production of the New Zealand data when this matter was set down for trial. That would appear to be because it was, in a sense, an afterthought which arose only when the question of the proposed agreed dataset to be briefed to the experts became an issue.\n\n[22] It is also unclear whether the New Zealand data can or will ultimately assist the ACCC’s case. The most that can be said is that the ACCC’s expert may be able to express some opinion based on the data. Even that opinion, if positive to the ACCC’s case, would only be one circumstantial fact in the ACCC’s case concerning the Australian market. It must be emphasised again that the ACCC’s case concerns the Australian market, not the New Zealand market. It should also be noted in that context that the New Zealand market is not mentioned at all in the pleadings, including in the detailed particulars that descend into some detail about inferences that can or should be drawn from the primary facts.\n\n[23] In my opinion, given the delay in seeking discovery, the difficulties any such order may cause to the existing timetable and hearing date, the added complexity that may arise as a result of this additional aspect of the case, and the, at best, uncertain relevance and importance of the material, the discovery order is not warranted.\n\n[24] The Court makes the following orders:\n\n1. The interlocutory application seeking discovery filed on 12 October 2015 be dismissed, with costs.\n\n2. By 4.00pm on 23 October 2015, the fourth respondent serve on the applicant an electronic copy of:\n\n(a) the data referred to in its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015 and described in paragraph 6 of the letter from the fourth respondent’s solicitors dated 9 October 2015; and\n\n(b) the spreadsheet described in paragraph 2 of its Proposed Assumptions and Questions to be put to the Expert Witness filed on 4 August 2015.\n\n3. By 4.00pm on 30 October 2015, the first respondent serve on the applicant an electronic copy of the data described in paragraph 7 of the ACCC Proposal as amended by the letters from the first respondent’s solicitors dated 25 September 2015 and 14 October 2015.\n\n4. The matter be listed for further directions at 9.00am on 21 October 2015.\n\n5. The parties have liberty to contact the associate to Wigney J in the event that it is unnecessary to have a directions hearing on 21 October 2015 and in the event that orders can be made by consent in chambers in relation to any further orders relating to the proposed dataset.\n\n6. The matter be listed for hearing on 5 February 2016 in relation to any application relating to the expert’s report served by the applicant.\n\nI certify that the preceding twenty-four (24) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Wigney.\n\nAssociate:\n\nDated: 4 February 2016\n",
+ "source_sha256": "640d30ef69887ee858fe7359f3fe86bbaa45019fa9ea7327f13c292c7c8e5d69"
+}

@@ -1,0 +1,777 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2013/2013FCA0323.docx",
+ "metadata": {
+  "citation": "[2013] FCA 323",
+  "name": "Australian Competition and Consumer Commission v P. T. Garuda Indonesia (No 9)",
+  "court": "FCA",
+  "year": 2013,
+  "number": 323,
+  "date_of_judgment": "2013-04-11",
+  "file_numbers": [
+   "NSD955/2010",
+   "NSD534/2010"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "category": "Catchwords",
+  "place": "Sydney",
+  "hearing_dates": [
+   "2013-03-27"
+  ],
+  "hearing_raw": "27 March 2013",
+  "number_of_paragraphs": 64,
+  "catchwords": [
+   "EVIDENCE – Opinion evidence - Expert evidence – Whether expert on international transportation law qualified to give evidence on competition law – Whether expert on international transportation law qualified to give evidence on treaty construction",
+   "EVIDENCE – Opinion evidence – Expert evidence – Proof of international law – Whether international law to be proved as a matter of law – Whether question of international law arising as part of foreign law to be proved as a fact or whether it should be excluded - Interaction between foreign, domestic and international law in evidence"
+  ],
+  "legislation": [
+   "Constitution s 51(xxix)",
+   "Air Navigation Act 1920 (Cth) s 12",
+   "Evidence Act 1995 (Cth) ss 135, 190",
+   "Federal Court of Australia Act 1976 (Cth) s 37M",
+   "Undang-Undang Republik Indonesia Nomor 15 Tahun 1992 Tentang Penerbangan [Law No 15 of 1992 on Aviation] (Indonesia) Art 2 and Art 3",
+   "Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara [Government Regulation No 40 of 1995 on Aviation] (Indonesia) Art 12",
+   "Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Indonesia for Air Services Between and Beyond their Respective Territory, Australia-Indonesia, signed 7 March 1969 [1969] ATS 4 (entered into force 7 March 1969) Art 6",
+   "Agreement between the United States and the United Kingdom relating to Air Services, United States of America-United Kingdom, signed 11 February 1946, 3 UNTS 253 (entered into force 11 February 1946) Art 11",
+   "Statute of the International Court of Justice, 39 AJIL Supp 215 (entered into force 24 October 1945) Art 38",
+   "Vienna Convention on the Law of Treaties, opened for signature on 23 May 1969, 1155 UNTS 331 (entered into force 27 January 1980) Art 31"
+  ],
+  "cases_cited": [
+   "Allstate Life Insurance Co v Australia & New Zealand Banking Group [No. 6] (1996) 64 FCR 79 cited",
+   "Commissioner of Taxation v SNF (Australia) Pty Ltd (2011) 193 FCR 149 cited",
+   "Danberg v Danberg (2001) 52 NSWLR 492 cited",
+   "Jumbunna Coal Mine NL v Victorian Coal Miners’ Association (1908) 6 CLR 309 cited",
+   "Jones v Ministry of the Interior of the Kingdom of Saudi Arabia [2007] 1 AC 270 cited",
+   "Koninklijke Philips Electronics NV v Remington Products Australia Pty Ltd (2000) 100 FCR 90 cited",
+   "Kuwait Airways Corpn v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883 cited",
+   "Chu Kheng Lim v Minister for Immigration, Local Government and Ethnic Affairs (1992) 176 CLR 1 cited",
+   "Mabo v Queensland [No 2] (1992) 175 CLR 1 cited",
+   "Minister of State for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 273 cited",
+   "NBGM v Minister for Immigration and Multicultural and Indigenous Affairs (2006) 231 CLR 52 cited",
+   "R v Bow Street Metropolitan Stipendiary Magistrate; ex p Pinochet Ugarte (No 3) (Amnesty International intervening) [2000] 1 AC 147 cited",
+   "Compania Naviera Vascongado v SS Christina [1938] AC 485 cited",
+   "Thiel v Commissioner of Taxation (1990) 171 CLR 338 cited",
+   "Trendtex Trading Corp v Central Bank of Nigeria [1977] 1 QB 529 discussed",
+   "Victoria v Commonwealth (1996) 187 CLR 416 cited"
+  ],
+  "parties": [
+   {
+    "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+    "role": "Applicant"
+   },
+   {
+    "name": "P. T. GARUDA INDONESIA (ARBN 000 861 165)",
+    "role": "Respondent"
+   },
+   {
+    "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+    "role": "Respondent"
+   }
+  ],
+  "parties_summary": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)\nAUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicant",
+    "name": "J Halley SC, E Collins SC"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicant",
+    "name": "Australian Government Solicitor"
+   },
+   {
+    "role": "counsel",
+    "for": "Air New Zealand",
+    "name": "N Owens"
+   },
+   {
+    "role": "solicitor",
+    "for": "Air New Zealand",
+    "name": "Corrs Chambers Westgarth"
+   },
+   {
+    "role": "counsel",
+    "for": "Garuda",
+    "name": "M Leeming SC, T Brennan"
+   },
+   {
+    "role": "solicitor",
+    "for": "Garuda",
+    "name": "Norton White"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2013/2013fca0323",
+  "portal_file_numbers": [
+   "NSD955/2009",
+   "NSD534/2010"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2013-04-11"
+ },
+ "cover_sheet": [
+  {
+   "label": "Citation",
+   "value": "Australian Competition and Consumer Commission v P. T. Garuda Indonesia (No 9) [2013] FCA 323"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 955 of 2010"
+  },
+  {
+   "label": "Parties",
+   "value": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)"
+  },
+  {
+   "label": "File number",
+   "value": "NSD 534 of 2010"
+  },
+  {
+   "label": "Judge",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "11 April 2013"
+  },
+  {
+   "label": "Catchwords",
+   "value": "EVIDENCE – Opinion evidence - Expert evidence – Whether expert on international transportation law qualified to give evidence on competition law – Whether expert on international transportation law qualified to give evidence on treaty construction\nEVIDENCE – Opinion evidence – Expert evidence – Proof of international law – Whether international law to be proved as a matter of law – Whether question of international law arising as part of foreign law to be proved as a fact or whether it should be excluded - Interaction between foreign, domestic and international law in evidence"
+  },
+  {
+   "label": "Legislation",
+   "value": "Constitution s 51(xxix)\nAir Navigation Act 1920 (Cth) s 12\nEvidence Act 1995 (Cth) ss 135, 190\nFederal Court of Australia Act 1976 (Cth) s 37M\nUndang-Undang Republik Indonesia Nomor 15 Tahun 1992 Tentang Penerbangan [Law No 15 of 1992 on Aviation] (Indonesia) Art 2 and Art 3\nPeraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara [Government Regulation No 40 of 1995 on Aviation] (Indonesia) Art 12\nAgreement between the Government of the Commonwealth of Australia and the Government of the Republic of Indonesia for Air Services Between and Beyond their Respective Territory, Australia-Indonesia, signed 7 March 1969 [1969] ATS 4 (entered into force 7 March 1969) Art 6\nAgreement between the United States and the United Kingdom relating to Air Services, United States of America-United Kingdom, signed 11 February 1946, 3 UNTS 253 (entered into force 11 February 1946) Art 11\nStatute of the International Court of Justice, 39 AJIL Supp 215 (entered into force 24 October 1945) Art 38\nVienna Convention on the Law of Treaties, opened for signature on 23 May 1969, 1155 UNTS 331 (entered into force 27 January 1980) Art 31"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Allstate Life Insurance Co v Australia & New Zealand Banking Group [No. 6] (1996) 64 FCR 79 cited\nCommissioner of Taxation v SNF (Australia) Pty Ltd (2011) 193 FCR 149 cited\nDanberg v Danberg (2001) 52 NSWLR 492 cited\nJumbunna Coal Mine NL v Victorian Coal Miners’ Association (1908) 6 CLR 309 cited\nJones v Ministry of the Interior of the Kingdom of Saudi Arabia [2007] 1 AC 270 cited\nKoninklijke Philips Electronics NV v Remington Products Australia Pty Ltd (2000) 100 FCR 90 cited\nKuwait Airways Corpn v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883 cited\nChu Kheng Lim v Minister for Immigration, Local Government and Ethnic Affairs (1992) 176 CLR 1 cited\nMabo v Queensland [No 2] (1992) 175 CLR 1 cited\nMinister of State for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 273 cited\nNBGM v Minister for Immigration and Multicultural and Indigenous Affairs (2006) 231 CLR 52 cited\nR v Bow Street Metropolitan Stipendiary Magistrate; ex p Pinochet Ugarte (No 3) (Amnesty International intervening) [2000] 1 AC 147 cited\nCompania Naviera Vascongado v SS Christina [1938] AC 485 cited\nThiel v Commissioner of Taxation (1990) 171 CLR 338 cited\nTrendtex Trading Corp v Central Bank of Nigeria [1977] 1 QB 529 discussed\nVictoria v Commonwealth (1996) 187 CLR 416 cited"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "27 March 2013"
+  },
+  {
+   "label": "Place",
+   "value": "Sydney"
+  },
+  {
+   "label": "Division",
+   "value": "GENERAL DIVISION"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "64"
+  },
+  {
+   "label": "Counsel for the Applicant",
+   "value": "J Halley SC, E Collins SC"
+  },
+  {
+   "label": "Solicitor for the Applicant",
+   "value": "Australian Government Solicitor"
+  },
+  {
+   "label": "Counsel for Air New Zealand",
+   "value": "N Owens"
+  },
+  {
+   "label": "Solicitor for Air New Zealand",
+   "value": "Corrs Chambers Westgarth"
+  },
+  {
+   "label": "Counsel for Garuda",
+   "value": "M Leeming SC, T Brennan"
+  },
+  {
+   "label": "Solicitor for Garuda",
+   "value": "Norton White"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD955/2009",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "P. T. GARUDA INDONESIA (ARBN 000 861 165)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-04-11",
+   "date_raw": "11 APRIL 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The report of Professor Dempsey be received save that:",
+     "level": 0
+    },
+    {
+     "label": "1.1",
+     "text": "the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;",
+     "level": 1
+    },
+    {
+     "label": "1.2",
+     "text": "the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;",
+     "level": 1
+    },
+    {
+     "label": "1.3",
+     "text": "the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views;",
+     "level": 1
+    },
+    {
+     "label": "1.4",
+     "text": "the second whole paragraph of page 12 is rejected; and",
+     "level": 1
+    },
+    {
+     "label": "1.5",
+     "text": "the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected.",
+     "level": 1
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  },
+  {
+   "file_number": "NSD534/2010",
+   "parties": [
+    {
+     "name": "AUSTRALIAN COMPETITION AND CONSUMER COMMISSION",
+     "role": "Applicant"
+    },
+    {
+     "name": "AIR NEW ZEALAND LIMITED (ARBN 000 312 685)",
+     "role": "Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2013-04-11",
+   "date_raw": "11 APRIL 2013",
+   "place": "SYDNEY",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The report of Professor Dempsey be received save that:",
+     "level": 0
+    },
+    {
+     "label": "1.1",
+     "text": "the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;",
+     "level": 1
+    },
+    {
+     "label": "1.2",
+     "text": "the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;",
+     "level": 1
+    },
+    {
+     "label": "1.3",
+     "text": "the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views;",
+     "level": 1
+    },
+    {
+     "label": "1.4",
+     "text": "the second whole paragraph of page 12 is rejected; and",
+     "level": 1
+    },
+    {
+     "label": "1.5",
+     "text": "the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected.",
+     "level": 1
+    }
+   ],
+   "registry": "New South Wales",
+   "division": "General Division",
+   "headings": [
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [],
+    "text": "On 27 March 2013 I heard argument on the admissibility of the report of Professor Paul Stephen Dempsey filed on 13 March 2013. Professor Dempsey is an expert on international transportation law. There was no dispute that he is eminent in his field. He is the author of several well-known works in the area. On 28 March 2013, I determined that some parts of Professor Dempsey’s report should be excluded from the evidence while admitting certain others to which objection had been taken."
+   },
+   {
+    "n": 2,
+    "headings": [],
+    "text": "There were ten individual objections to particular parts of the report. There were two global debates as well. The Commission, on the one hand, contended that the report should be rejected because of the lateness of its service. Garuda, on the other, submitted – by reference to various documents generated by the Commission at an earlier time – that the contents of Professor Dempsey’s report were not really in dispute and contended that s 37M of the Federal Court of Australia Act 1976 (Cth) (‘the FCA Act’) and/or s 190 of the Evidence Act 1995 (Cth) (‘the Act’) might be used to circumvent the Commission’s objections in their entirety."
+   },
+   {
+    "n": 3,
+    "headings": [],
+    "text": "It is convenient to deal first with those parts of the objections debate having their source in the law of evidence."
+   },
+   {
+    "n": 4,
+    "headings": [
+     "Objection No. 1"
+    ],
+    "text": "Professor Dempsey says at page 2 of his report:\nTo understand Article 6, one must understand the historical context in which it was negotiated, for in 1969, the landscape of competition and government oversight was quite different than exists in some States today."
+   },
+   {
+    "n": 5,
+    "headings": [
+     "Objection No. 1"
+    ],
+    "text": "Objection is taken to the italicised portion on the basis that it is an expression of opinion other than on the basis of specialised knowledge."
+   },
+   {
+    "n": 6,
+    "headings": [
+     "Objection No. 1"
+    ],
+    "text": "Professor Dempsey is being called to give evidence, inter alia, about the way in which the interpretation of Art 6 of the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Indonesia for Air Services Between and Beyond their Respective Territory, Australia-Indonesia, signed 7 March 1969, [1969] ATS 4 (entered into force 7 March 1969) (‘Australia-Indonesia Bilaterial ATA’) should be approached. The manner in which that exercise is to be carried out, and the materials which might be utilised in its pursuit, are an aspect of the field of international transportation law and I do not accept, therefore, that the italicised portion, lies outside Professor Dempsey’s area of expertise."
+   },
+   {
+    "n": 7,
+    "headings": [
+     "Objection No. 2"
+    ],
+    "text": "Objection is taken to the following statement at page 2 of Professor Dempsey’s report:\nGovernment oversight then was largely promotional and protectionist in emphasis, focusing on avoiding “destructive competition” and achieving both carrier economic health as well as consumer equity. Under these traditional bilateral air transport agreements, intercarrier agreements on tariffs were the norm."
+   },
+   {
+    "n": 8,
+    "headings": [
+     "Objection No. 2"
+    ],
+    "text": "The ‘then’ is 1969. The objection is twofold. First, it is said that the opinion is not based on specialised knowledge. I reject that submission for the reasons given in relation to Objection No. 1. Secondly, it is said that the basis of the opinion is not disclosed. The statement, however, is not Professor Dempsey’s opinion. It is an aspect of the matters relied on by Professor Dempsey as being relevant to the interpretation of Art 6 of the Australia-Indonesia Bilaterial ATA and is admissible."
+   },
+   {
+    "n": 9,
+    "headings": [
+     "Objection No. 3"
+    ],
+    "text": "Objection is taken to the following statement on page 3:\nIndonesia is among the States that in most markets rejects “open skies”, and instead is concerned with the economic health of its airlines."
+   },
+   {
+    "n": 10,
+    "headings": [
+     "Objection No. 3"
+    ],
+    "text": "It is said that this is an expression of opinion not based on specialised opinion. I reject this submission. Professor Dempsey is qualified to give such an opinion."
+   },
+   {
+    "n": 11,
+    "headings": [
+     "Objection No. 4"
+    ],
+    "text": "Objection is taken to the following passage on page 6:\nAccordingly, individual States entered into bilateral negotiations with foreign governments with the objective of concluding air transport agreements which would secure important traffic rights abroad for their international carriers, as well as allowing them to set fares."
+   },
+   {
+    "n": 12,
+    "headings": [
+     "Objection No. 4"
+    ],
+    "text": "It is said that this is a conclusion and is an opinion not based on specialised knowledge. I reject the proposition that this is not within Professor Dempsey’s area of expertise – the matter seems plainly within it. Nor do I think it involves the inadmissible expression of a conclusion. In the context of giving the background to Art 6 he is merely explaining his perception of the motives of the States party. Given the field of his expertise, I see no problems with this."
+   },
+   {
+    "n": 13,
+    "headings": [
+     "Objection No. 5"
+    ],
+    "text": "Objection is taken to a quote Professor Dempsey has included at page 7 of his report. It is a quote, according to footnote 19 of his report, from a work by Antigoni Lykotrafiti entitled ‘Consolidation and Rationalisation in the Transatlantic Air Transport Market – Prospects and Challenges for Competition and Consumer Welfare’ (2011) Journal of Air Law and Commerce (76) 661, 669. The quotation, which is extensive, immediately follows this statement by Professor Dempsey:\nThe post-World War II era saw a proliferation of bilateral air transport agreements beginning with the so-called Bermuda I agreement between the United States and the United Kingdom in 1946.\nThe quote from Ms Lykotrafiti’s piece is as follows:\nA product of compromise between American liberalism and British protectionisms, the [Bermuda I] agreement dealt with the issues typically addressed by a bilateral agreement (i.e., market entry (designation or airlines and routes) and traffic rights, capacity and frequency of service, and rate-setting) in a moderately restrictive way. Thus, while the designation of carriers was left with individual governments, the routes to be operated were to be negotiated bilaterally. Moreover, although the determination of capacity and frequency levels fell in the first instance within the discretion of the airlines, such determination had to respect traffic demand, subject to ex post facto review by individual governments. Lastly, while the setting of fares was delegated to the International Air Transport Association (IATA), its authority was curtailed by the so-called double-approval requirement."
+   },
+   {
+    "n": 14,
+    "headings": [
+     "Objection No. 5"
+    ],
+    "text": "The objection raised against this quotation is that it is a submission and a conclusion. I reject this contention. The quote is proffered as part of the reason the Professor holds the view expressed in the preceding sentence. It is part of his process of reasoning."
+   },
+   {
+    "n": 15,
+    "headings": [
+     "Objection No. 6"
+    ],
+    "text": "Objection is taken to the following passage on pages 7 and 8 of Professor Dempsey’s report:\nOn the issue of pricing Bermuda I approved “rate conference machinery of the International Air Transport Association”. Hence, carriers were allowed to collectively set fares. Rates set by airlines were to be “fair and economic”. The approach was a balanced one, taking into account the interest of the travelling and shipping public and the air carriers, who were to be protected from rates that were “unfair” (to consumers) and “uneconomic” (to airlines). Rates were to be “fixed at reasonable levels, due regard being paid to all relevant factors, such as cost of operation, reasonable profit and the rates charged by any other air carriers”. Hence, carriers were not to charge below their costs, and were to be allowed a reasonable profit, taking into account the rates charged by their competitors. Airlines were to be protected from destructive and uneconomic competition.\n(footnotes omitted, emphasis in original)"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "Objection No. 6"
+    ],
+    "text": "The objection was said to be that this was a submission or not an opinion based on specialised knowledge. During oral argument it emerged that it was suggested that the footnotes did not support what was cited on their behalf. The footnotes in question are footnotes 21-24 and these contain references to the text of particular articles in the Agreement between the United States and the United Kingdom relating to Air Services, United States of America-United Kingdom, signed 11 February 1946, 3 UNTS 253 (entered into force 11 February 1946) (‘Bermuda I’). I have perused Bermuda I and Arts II(b), II(c), II(h) and II(j) thereof. There is force in the suggestion that Professor Dempsey’s extracts do not capture the full flavour of each article read in its entirety. But I do not think, however, this means the passage is inadmissible. It purports to be no more than a summary of what the Bermuda I form of agreement did and, viewed that way, is no more than a step in the Professor’s process of reasoning. I reject the proposition that Professor Dempsey lacks the qualifications to discuss such a subject matter."
+   },
+   {
+    "n": 17,
+    "headings": [
+     "Objections Nos. 7 & 8"
+    ],
+    "text": "The first complete paragraph on page 11 of the report is as follows:\nFor example in 1995, Canada concluded a relatively liberal bilateral with the United States, and in 1999, a traditional restrictive, conservative bilateral with the United Arab Emirates, which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE. Similarly, Australia concluded an “open skies” agreement with the United States in 2008, (a country with which Australia had earlier had acrimonious relations over the effort of the U.S. to foist de facto liberalization upon it), but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996.\n(footnotes omitted, emphasis added)"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "Objections Nos. 7 & 8"
+    ],
+    "text": "Objection was taken to the italicised portions on the basis that it was hearsay and did not involve the formation of an opinion based upon specialised knowledge. Footnotes 48 and 51 are to Wikipedia pages. What is disclosed then is the materials upon which Professor Dempsey has relied in forming his opinion. On that basis I propose to admit it. It would be unfair, having done so, to expect the Commission to explore the correctness of the Wikipedia entries and accordingly I will limit the two passages to evidence of the matters relied upon by Professor Dempsey in reaching his opinion."
+   },
+   {
+    "n": 19,
+    "headings": [
+     "Objection No. 9"
+    ],
+    "text": "Objection was taken to the following passage on page 11:\nThough ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia."
+   },
+   {
+    "n": 20,
+    "headings": [
+     "Objection No. 9"
+    ],
+    "text": "The basis of the objection was that it was merely a submission. The passage does not involve the expression of an opinion about international transportation law and I reject it."
+   },
+   {
+    "n": 21,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "It was this objection which reflected the true debate between the parties. From pages 11 to 13 in Professor Dempsey’s report there is a section headed ‘Analysis’ to which the Commission objected in its entirety. The first paragraph of this section is as follows:\nAs we have seen, there are different types of bilateral air transport agreements. Some are restrictive, conservative and protectionist, while others are liberal and free-market in orientation, and there are many shades of gray in between. The Indonesia-Australia Bilateral Air Transport Agreement is in the former category. It was negotiated in the context of aviation relations in 1969, before the introduction of “open skies” free market competition. Under the bilaterals concluded during that period, governments protected their airlines from “destructive competition” by creating an environment in which air carriers could earn a reasonable return on investment. Antitrust and competition laws were no part of the equation, as carriers were explicitly permitted – indeed, expected – to consult and agree on issues involving pricing either under IATA auspices, or directly with competing carriers on the routes in question. To this day, Indonesia has steadfastly resisted efforts, even with in ASEAN, to embrace an “open skies” aviation regime. An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted.\n(footnotes omitted, emphasis added)"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The objection to this paragraph was omnibus, but, with the exception of the last sentence, I do not perceive a problem. Professor Dempsey is skilled in the area of international transportation law and this paragraph does no more than explain his view of the historical position in relation to the form of agreement to which Indonesia is a party. He does not, in this paragraph, say anything about the construction of Art 6. Insofar as the last sentence is concerned, its use should be limited as material upon which Professor Dempsey’s views are based, but not as to the truth of Professor Tan’s views."
+   },
+   {
+    "n": 23,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The second paragraph is as follows:\nAbsent the bilateral, negotiation of pricing by competing airlines would violate the competition laws of many States. But the Indonesia-Australia bilateral air transport agreement explicitly allows such negotiations and agreements between competing airlines. To attempt to graft contemporary free-market policy preferences onto carriers operating under the Indonesia-Australia bilateral would clearly violate the intention of the draftsmen, and breach the relationship between the two State parties to this agreement."
+   },
+   {
+    "n": 24,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Professor Dempsey has not been put forward as an expert on international competition law although his area of expertise intersects with competition issues. The first sentence is expressed at a level of generality which makes it unfair since it will not be known until the question is asked which States and which laws are involved. It also conceals an assumption that the bilateral negotiation of pricing (presumably under Bermuda I – style arrangements) is not in breach of the unidentified States’ competition laws. This, in turn, conceals an opinion about the operation and meaning of the bilateral agreements in question. I am doubtful that Professor Dempsey has the requisite expertise to express the opinion in the first sentence but even if he does, the opinion is so bound up with unstated assumptions that it would be unfair to force the Commission to cross-examine upon it. I reject the sentence both because of a lack of qualification and because it would, in any event, be unfairly prejudicial under s 135 of the Act."
+   },
+   {
+    "n": 25,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The Commission’s objections to the balance of the paragraph were, in effect, threefold. First, it was submitted that evidence could not be received as to the content or operation of public international law. Those matters were to be determined in the same way as ordinary legal argument. Secondly, if evidence of public international law could be received nevertheless the authorities dealing with the receipt of foreign law suggested, by analogy, that its use was limited to an indication of what the law was and could not go further than this to suggest how the law should be applied and that Professor Dempsey’s opinion transgressed this principle. Thirdly, it was submitted that the evidence should be excluded as a matter of discretion because it added nothing beyond what was, in effect, legal argument; because it had been served late; and, because the basis for much of the opinion was not disclosed and would emerge for the first time in cross-examination (‘the Global Issues’)."
+   },
+   {
+    "n": 26,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "In my opinion, the evidence should be rejected. Professor Dempsey’s opinion is directed to showing that, if it be established that Garuda engaged in the conduct alleged against it, it was compelled to do so by Australian law and/or Indonesian law, which, so it is said, required Garuda to comply with the Australia-Indonesia Bilateral ATA. The lynchpin of this argument is Art 6(2) of the Australia-Indonesia Bilateral ATA which provides:\nAgreement on the tariffs shall, whenever possible, be reached by the designated airlines concerned through the rate-fixing machinery of the International Air Transport Association. When this is not possible, tariffs in respect of each of the specified routes shall be agreed upon between the designated airlines concerned. In any case the tariffs shall be subject to the approval of the aeronautical authorities of both Contracting Parties."
+   },
+   {
+    "n": 27,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The Australia-Indonesia Bilateral ATA is an international agreement between Australia and Indonesia and this, no doubt, provides the impetus for the Commission’s suggestion that evidence as to its meaning is evidence about the content of public international law. For the balance of these reasons I will use the expression public international law to refer to that part of the law of nations as consists of treaties and the expression customary international law to refer to those international norms deriving from the practice and usages of nations. I will use the expression international law to refer to both."
+   },
+   {
+    "n": 28,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "In this case, public international law has no direct application. What is involved instead is:\n(a) Australian statute law which is alleged to compel Garuda to comply with the Australia-Indonesia Bilateral ATA; more particularly, it is said that Garuda was required, when flying over Australian territory, to hold an international airline licence by s 12 of the Air Navigation Act 1920 (Cth) (‘the AN Act’) and to comply with the conditions endorsed on that licence. Garuda submits that its licence was subject to a condition that it comply with the Australia-Indonesia Bilateral ATA. The question of the meaning of Art 6(2), therefore, arises as a step along the way to determining what the AN Act required.\n(b) Indonesian law which is alleged to require Garuda to comply with the Australia-Indonesia Bilateral ATA. Reliance is to be placed on Art 2 and Art 3 of Undang-Undang Republik Indonesia Nomor 15 Tahun 1992 Tentang Penerbangan [Law No 15 of 1992 on Aviation] (Indonesia) and Art 12 of Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara [Government Regulation No 40 of 1995 on Aviation] (Indonesia) which, together, are said to require Garuda to comply with Art 6(2) of the Australia-Indonesia Bilateral ATA."
+   },
+   {
+    "n": 29,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The meaning of Art 6(2) thus emerges as a question about the requirements of Australian law for the purposes of (a) but Indonesian law for the purposes of (b). This gives rise, in turn, to a contradiction. What little authority there is suggests that under Australian law a question of public international law is not one which involves the taking of evidence. On the other hand, under Australian law, foreign law such as Indonesian law is a fact to be proved by evidence. Thus Art 6(2), qua an integer of Australian law, is not to be the subject of evidence but, qua an integer of Indonesian law, is."
+   },
+   {
+    "n": 30,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "I have been unable to avert this incoherence at the level of the assumptions which generate it."
+   },
+   {
+    "n": 31,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "There is no doubt that domestic law cannot be proved law by evidence. Sometimes it has been said that a court can take judicial notice of the law of the forum, a usage of the concept of judicial notice which is described by Mr Heydon in Cross on Evidence (LexisNexis Butterworths, 9th ed, 2013), p 167 at [3075], as involving ‘on any view a misnomer’ and by Mr Carter as being a ‘promiscuous use of the terminology of judicial notice’ in Enid Campbell and Louis Waller (eds) ‘Judicial Notice: Related and Unrelated Matters’ in Well and Truly Tried: Essays on Evidence (The Law Book Company Limited, 2nd ed, 1982) p 90. In truth, opinion evidence is not receivable on an issue of domestic law because the law is not a matter for proof or disproof. It is for this reason, as pointed out in Cross on Evidence at [3075], that a judge is not obliged to accept a proposition of law agreed upon by the parties: cf. Danberg v Danberg (2001) 52 NSWLR 492, 519 at [149]."
+   },
+   {
+    "n": 32,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Does a similar principle apply to international law? Despite authority to this effect being scarce, it seems that the answer is that it does. This is (or was) the view of Professor Mann (see Francis Mann, Foreign Affairs in English Courts (Clarendon Press, 1986) p 126), Professor Crawford (see James Crawford, Brownlie’s Principles of Public International Law (Oxford University Press, 8th ed, 2012), p 56) and Professor O’Donnell (see Daniel O’Connell, International Law, (Stevens and Sons, 2nd ed, 1970) p 53). A similar view was expressed by Ian Hunter in ‘Proving Foreign and International Law in the Courts of England and Wales’ (1978) Virginia Journal of International Law 19(4) 665, 677-678. In an obiter dictum, Stephenson LJ reached the same conclusion in Trendtex Trading Corp v Central Bank of Nigeria [1977] 1 QB 529, 569 (‘…and they are not proved in English Courts by expert evidence like foreign law’)."
+   },
+   {
+    "n": 33,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The mechanics of why this might be so are somewhat more elusive. The learned author of Cross on Evidence says that proof of public international law is not required because it is part of domestic law citing Trendtex p 1383-1387 at [41005]. In that case, one of the questions which arose was whether the Nigerian Central Bank could claim sovereign immunity in respect of the events arising from the Nigerian cement scandal. There was an issue as to whether the Nigerian Central Bank was an emanation of Nigeria and hence was entitled to claim the benefit of that immunity. There was also a question as to whether sovereign immunity extended to cover commercial activities of state emanations or merely governmental ones. Customary international law had favoured the broader view but developments preceding the time of the litigation suggested that the doctrine may have narrowed somewhat."
+   },
+   {
+    "n": 34,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "At the time of the decision, English domestic law made sovereign immunity a question of the common law. The issue in Trendtex was whether the common law doctrine picked up the customary international law on sovereign immunity as it was from time to time (and with it the more recent narrowing of the doctrine) or whether the Court of Appeal was bound by the House of Lords’ decision in Compania Naviera Vascongado v SS Christina [1938] AC 485 to a broad view of the immunity which applied to all State activities whether commercial or not. Denning MR and Shaw LJ thought that the rule which applied was the customary international law rule which had been incorporated into domestic law. Stephenson LJ thought the matter controlled by the common law as laid down in SS Christina."
+   },
+   {
+    "n": 35,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "With great respect to the learned author of Cross on Evidence I do not think that Trendtex can stand as authority for the general proposition that public international law is part of domestic law for the purpose of proving its meaning and content. This is largely for reasons relating to the breadth of the proposition."
+   },
+   {
+    "n": 36,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "If by the expression ‘public international law’ it was intended to refer to treaty law then the statement is inconsistent with the Anglo-Australian understanding of the effect of treaties in domestic law. Whilst there are some rare treaties which may have a domestic legal effect (such as, for example, those terminating a state of war) the near universal position is that a treaty entered into by the executive ‘has no legal effect upon the rights and duties of citizens’ and that if the Commonwealth wishes to convert treaty requirements into domestic legal ones it must use legislation: Victoria v Commonwealth (1996) 187 CLR 416, 481 (‘the Industrial Relations Case’). If, as is more likely, the passage in Cross on Evidence is intended to refer to the rules of customary international law then Trendtex does provide support for that proposition at least in relation to the rules of customary international law pertaining to sovereign immunity."
+   },
+   {
+    "n": 37,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "In this case, however, the question which arises is not concerned with a rule of customary international law, but the proper construction of an article of a treaty, and Trendtex potentially does not assist. I say potentially because, as I discuss later, there may be an issue as to whether the Australia-Indonesia Bilateral ATA is to be interpreted in accordance with the Vienna Convention on the Law of Treaties, opened for signature on 23 May 1969, 1155 UNTS 331 (entered into force 27 January 1980) (‘the Vienna Convention’) or customary international law in light of the fact that Indonesia has not acceded to that treaty: cf. Thiel v Federal Commissioner of Taxation (1990) 171 CLR 338, 349, 356."
+   },
+   {
+    "n": 38,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Leaving that diversion to one side, the position is, I think, more nuanced than Cross on Evidence suggests. Questions of international law may arise before domestic courts in a variety of conceptually different circumstances. These include:\n(a) situations where a question of domestic common law overlaps with an area of customary international law. The former common law obtaining to sovereign immunity exemplified in Trendtex and Christina SS is an example of this situation. In such cases, prior to the matter being dealt with explicitly by statute, it was natural to think that the common law on the topic ought to align with the customary international law on the same issue. Similar tendencies may be discerned in the domestic law concerning immunity ratione materiae: cf. R v Bow Street Metropolitan Stipendiary Magistrate; ex p Pinochet Ugarte (No 3) (Amnesty International intervening) [2000] 1 AC 147, 205, 266-267, 277-278, 290; Jones v Ministry of the Interior of the Kingdom of Saudi Arabia [2007] 1 AC 270, 286 at [19], 303-304 at [89]-[94] and 306 [103]-[105]. The original doctrine of terra nullius was an aspect of customary international law upon which came to rest a corresponding common law concept. When the High Court came to consider the scope of that doctrine at common law it inevitably invited a consideration of the customary international law position of the doctrine: see Mabo v Queensland [No 2] (1992) 175 CLR 1, 32-41;\n(b) a conceptually similar class of case arises where the common law operates in the same area as a treaty. Here the considerations are largely the same;\n(c) situations where a domestic statute evinces an intention to give effect to a treaty in its own terms: cf. NBGM v Minister for Immigration and Multicultural and Indigenous Affairs (2006) 231 CLR 52, 71-72 at [61];\n(d) situations where a choice arises for a court between an interpretation of a statute which causes Australia to infringe international law and one which does not: every statute is ‘to be so interpreted and applied as far as its language admits as not to be inconsistent with the comity of nations or with the established rules of international law’: Jumbunna Coal Mine NL v Victorian Coal Miners’ Association (1908) 6 CLR 309, 363; Chu Kheng Lim v Minister of State for Immigration, Local Government and Ethnic Affairs (1992) 176 CLR 1, 38; Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 273, 287;\n(e) situations (perhaps) where the Commonwealth’s ratification of a treaty gives rise, in domestic administrative law, to a legitimate expectation: Teoh;\n(f) situations involving the act of State doctrine where it is said that the State in question has acted in breach of international law and thereby taken itself outside the doctrine: see Kuwait Airways Corpn v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883, 1081 at [27]-[29];\n(g) situations (perhaps) where a domestic court declines to give effect to a foreign law because it infringes international law or a jus cogens obligation: Kuwait Airways 883, 1081 at [27]-[29];\n(h) situations in constitutional law where a question arises as to whether a Commonwealth law, in fact, sufficiently implements a treaty obligation under s 51(xxix) of the Constitution to be a valid law: Industrial Relations Case 416, 487."
+   },
+   {
+    "n": 39,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Leaving aside (a) which is caught up in the debate about whether customary international law is part of the common law, each of (b)-(h) is a question of domestic law where that law, for its own purposes, looks outside domestic law to international norms."
+   },
+   {
+    "n": 40,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "By itself, however, that observation cannot be sufficient to require the conclusion that international law should be approached, when it comes to the manner of its proof, as a question of law rather than as one of fact. Australian law sometimes looks outside itself to foreign law, but, when it does so, that sort of legal debate is resolved principally as if it were a factual one."
+   },
+   {
+    "n": 41,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The mere externality of a legal framework cannot, therefore, be sufficient to mean that proof of that framework or its meaning is to be approached on the basis of legal rather than factual argument. The differential treatment of international and foreign law is one that must, therefore, find its justification in considerations extending beyond its non-autochthonous character."
+   },
+   {
+    "n": 42,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "What might these be? One set of reasons is likely instrumental. The proliferation of international law concepts throughout modern legal systems, including Australia’s, would make it inconvenient to require evidentiary proof each time one arose for consideration. In this Court, for example, double taxation treaties are frequently considered as is the Convention Relating to the Status of Refugees 1951, opened for signature 28 July 1951, 189 UNTS 150 (entered into force 22 April 1954) as amended by the Protocol Relating to the Status of Refugees 1967, opened for signature on 31 January 1967, 606 UNTS 267 (entered into force 4 October 1967). It would add a layer of expense and complexity if that discourse were required to be approached factually."
+   },
+   {
+    "n": 43,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Another set of reasons is more premised on principle. The considerations outlined above at [37] show that domestic public law (by which I mean areas such as statutory interpretation, constitutional and administrative law) and international law are intertwined. Whilst it is true that foreign law and domestic law are also intertwined by reason of the principles relating to conflict of laws this does not occur in a way which impacts on the actual content of domestic law. A forum court may apply the law of Malta to a particular contract but this in no way effects the content of Australian law. When, on the other hand, a court construes a statute to comply with a treaty obligation this cannot be said to be so and in such a circumstance, international law then exerts a discernable influence on the content of local law."
+   },
+   {
+    "n": 44,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "There may be some circumstances where the common law and international law are one and the same. Trendtex may be an example of this if one accepts Denning MR and Shaw LJ’s incorporation theory. But even so, most international law will not have that quality. Given its practical affect on domestic public law and the operation of s 51(xxix) of the Constitution, however, it is not inaccurate to view international law as perhaps one of the sources of domestic law. That is not to say that it is paramount or that the Australian legal order is somehow to be seen as a corollary of international law. It is rather to accept that local rules of interpretation and public law have the effect of picking up, or invoking, international law at various points in the decision-making process and that when they do this it has the effect of making international law one of the sources, among a number, of local law. If one accepts that international law can be a source of local law – in that very precise and limited sense – it is natural to expect that it will be approached as a legal question when it comes to questions of proof."
+   },
+   {
+    "n": 45,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "There is an additional reason for reaching the same conclusion. It is accepted that the sources of international law include the decisions of national courts. Article 38 of the Statute of the International Court of Justice, 39 AJIL Supp 215 (entered into force 24 October 1945) (‘ the ICJ Statute’) sets out the international law to be applied by that Court and is generally regarded as a complete statement of the sources of international law: Brownlie’s Principles of Public International Law p 22. Art 38(1) provides:\nThe Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply:\na. international conventions, whether general or particular, establishing rules expressly recognized by the contesting states;\nb. international custom, as evidence of a general practice accepted as law;\nc. the general principles of law recognized by civilized nations;\nd. subject to the provisions of Article 59 judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law."
+   },
+   {
+    "n": 46,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "It is accepted doctrine that the reference to ‘judicial decisions’ includes the output of national courts: Brownlie’s Principles of Public International Law p 41. Unlike their relationship with French or German law, for example, Australian courts are, therefore, actual participants in the interpretation and implementation of international law."
+   },
+   {
+    "n": 47,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "International law is then a normative system having a significant impact on the content of domestic public law whilst, at the same time, Australian courts are themselves potential sources of the same international norms. It is natural in such circumstances to treat international law as if it were domestic law for the purpose of its proof. This is not to make, what I think would be, the unrealistic suggestion that Australian law includes international law (eg. as opposed to the latter being a source in the limited sense discussed above, of the former). Rather, it is to accept its inherent legal nature, its domestic legal consequences, the practicality of it being dealt with as legal material and the qualification of domestic courts to engage in such an exercise. These matters mark it out as qualitatively different to foreign law."
+   },
+   {
+    "n": 48,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "It follows that before an Australian court a question as to the interpretation of a treaty which arises in the course of ascertaining the operation of Australian law is to be approached as a question of law rather than as one of fact. This conclusion accords with the practise of Australian courts: cf Thiel, Commissioner of Taxation v SNF (Australia) Pty Ltd (2011) 193 FCR 149, 184-186 at [112]-[120]; cf Industrial Relations Case 416, 545."
+   },
+   {
+    "n": 49,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "Mr Leeming also advanced an argument that Professor Dempsey’s opinion might be received as part of the context against which Art 6(2) was to be interpreted. For this purpose, Mr Leeming invoked Art 31(1) of the Vienna Convention which provides relevantly that a treaty is to be interpreted ‘in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in light of its object and purpose’ (emphasis added). For present purposes, I will assume that Art 31 reflects customary international law and applies to the Australia-Indonesia Bilateral ATA. In principle, I accept Mr Leeming’s submissions that the context may be proved by Professor Dempsey in the way suggested. Indeed, I did not really apprehend that the Commission adopted a contrary position for, by and large, it did not object to the Professor’s contextual evidence. The difficulty, however, is that an opinion about the meaning of Art 6(2) does not fall within the scope of that principle."
+   },
+   {
+    "n": 50,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "I reject also the submission that Professor Dempsey is to be viewed as a ‘highly qualified publicist’ within the meaning of Art 38(1)(d) of the ICJ Statute (above at [45]). Art 38 makes the ‘teachings’ of highly qualified publicists a subsidiary source of international law. I do not accept Professor Dempsey’s evidence is a ‘teaching’ within Art 38."
+   },
+   {
+    "n": 51,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "This is not, however, the end of the matter. In this case, the interpretation of Art 6(2) also arises as a matter of Indonesian law. Unquestionably Indonesian law is to be proved as a fact and that factual material will include assertions about the meaning of Article 6(2). In principle, this must mean that Garuda is entitled to elicit from Professor Dempsey evidence about the meaning of the Australia-Indonesia Bilateral ATA as part of proving its case on the content of Indonesian law."
+   },
+   {
+    "n": 52,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "One arrives then, perhaps tortuously, at the conclusion that Professor Dempsey’s evidence about the meaning of the Australia-Indonesia Bilateral ATA is inadmissible for the purposes of considering Garuda’s obligations under Australian law but admissible for considering precisely the same obligations under Indonesian law."
+   },
+   {
+    "n": 53,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "If evidence of the meaning of Art 6(2) as part of Indonesian law is permitted to be led then the cross-examination of Professor Dempsey is likely to range over precisely the same subject matter as will inevitably be the subject of final submissions when dealing with the Australia-Indonesia Bilateral ATA under Australian law. That colloquy will focus principally, one would imagine, on whether Art 31 of the Vienna Convention reflects customary international law, the context of the Australia-Indonesia Bilateral ATA and the nature of State practice as between Australia and Indonesia."
+   },
+   {
+    "n": 54,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "I do not think that the Professor’s views are likely to add anything more in the form of evidence than they will add in the form of Mr Leeming’s eventual submissions based upon them. Indeed, given the more active role of the Court during submissions it is unlikely that cross-examination of the Professor by counsel is likely to add anything which will not otherwise be obtained by cross-examination of counsel by the Court. In that circumstance, I conclude that the receipt of Professor Dempsey’s views on the meaning of the Australia-Indonesia Bilateral ATA, although relevant to a fact in issue – Indonesian law – would result in a waste of time and resources which is not justified by its likely probative effect. I reject therefore its receipt pursuant to s 135(c) of the Act which permits the Court, in its discretion, to reject evidence if its probative value is substantially outweighed by the danger that it might ‘cause or result in undue waste of time’: cf Koninklijke Philips Electronics v Remington Products Pty Ltd (2000) 100 FCR 90, 107 at [21] per Burchett J (Hill and Branson JJ concurring)."
+   },
+   {
+    "n": 55,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "I reject the third sentence of the passage quoted above at [22] on the same basis."
+   },
+   {
+    "n": 56,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "The third (final) paragraph on page 12 is as follows:\nDiplomatic delegations from Australia and Indonesia have met several times since 2001 to negotiate a new bilateral air transport agreement. The Australian government proposed more liberal tariff arrangements to replace Article 6, above. Negotiations have been cordial, but have yet to produce a new agreement. Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions.\n(footnotes omitted, emphasis in original)"
+   },
+   {
+    "n": 57,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "I admit the first three sentences which may legitimately go to the background of the present arrangements and which are, for reasons I have already given, within Professor Dempsey’s expertise. I reject the balance as it involves – at the very least – an expression of opinion on a question of international law."
+   },
+   {
+    "n": 58,
+    "headings": [
+     "Objection No. 10"
+    ],
+    "text": "On the assumption that evidence might be received on the content and meaning of the Australia-Indonesia Bilateral ATA, the Commission advanced a further argument that the report was apt to usurp the judicial function by going beyond the identification of foreign law and impermissibly seeking to apply foreign law to the facts, citing Allstate Life Insurance Co v Australia & New Zealand Banking Group [No. 6] (1996) 64 FCR 79 per Lindgren J. In light of the conclusions reached on the proof of international law, I do not need to decide this issue."
+   },
+   {
+    "n": 59,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "The Commission submitted that Professor Dempsey’s report should not be received because of the tardiness in its service. It was not provided, it is true, until the 42nd day of the trial although the fact that expert evidence of this kind would be led was flagged in December last year. It would be difficult, so the Commission contended, to obtain an expert in such a rarefied area in the time remaining for the trial. I do not accept this submission. I have rejected the tender of those parts of Professor Dempsey’s report dealing with the meaning of the Australia-Indonesia Bilateral ATA and these were potentially the most damaging to the Commission. In any event, I discern no tardiness. Garuda came into these proceedings only shortly before the trial commenced and this was done on the basis that it would do its best to get the case up and running as the trial proceeded. To my observation, this has been done. If the Commission is prejudiced, in terms of time, by the need to reply to those parts of Professor Dempsey’s report that remain I will entertain any application which it wishes to make."
+   },
+   {
+    "n": 60,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "I reject also Garuda’s submission that I should deploy s 37M of the FCA Act or s 190 of the Act to curtail the Commission’s objections to Professor Dempsey’s report on the basis that his evidence was not seriously in dispute. In that regard, I was taken to two discussion papers and an authorisation issued by the Commission which suggested that, in the past, it may have made statements about the operation of the air transportation legal regime not dissimilar to those now being expressed by Professor Dempsey."
+   },
+   {
+    "n": 61,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "I do not think that resolution of this debate at this time would be useful. Assuming in Garuda’s favour that the material does make good its contention about the earlier position of the Commission, the possibilities are:\n(a) the Commission is pursuing an argument about the Australia-Indonesia Bilateral ATA it knows to be wrong; or\n(b) the Commission’s position on the Australia-Indonesia Bilateral ATA has changed since the time of the creation of the discussion papers and authorisation."
+   },
+   {
+    "n": 62,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "I would not be prepared, given the seriousness of proposition (a), to make such a finding on the materials presently available. I cannot conclude, therefore, that the issue is not in dispute. The questions under s 37M of the FCA Act and s 190 of the Act do not arise."
+   },
+   {
+    "n": 63,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "I gave rulings on the objections to Professor Dempsey’s report on 28 March 2013. In those I rejected the material the subject of Objections 7 and 8 but I would now admit those as evidence of the material relied upon by him in forming his opinion only, i.e., not the truth of the material."
+   },
+   {
+    "n": 64,
+    "headings": [
+     "Global Issues"
+    ],
+    "text": "The report of Professor Dempsey will be received save that:\n(a) the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;\n(b) the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;\n(c) the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views.\n(d) the second whole paragraph of page 12 is rejected; and\n(e) the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected."
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding sixty-four (64) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2013-04-11",
+ "schedules": [],
+ "footnotes": [],
+ "warnings": [
+  "listed on the portal under NSD955/2009, which the judgment itself does not name (it names NSD955/2010, NSD534/2010)"
+ ],
+ "text": "# Australian Competition and Consumer Commission v P. T. Garuda Indonesia (No 9) [2013] FCA 323\n\n## Cover sheet\n\n**Citation:** Australian Competition and Consumer Commission v P. T. Garuda Indonesia (No 9) [2013] FCA 323\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v P. T. GARUDA INDONESIA (ARBN 000 861 165)\n\n**File number:** NSD 955 of 2010\n\n**Parties:** AUSTRALIAN COMPETITION AND CONSUMER COMMISSION v AIR NEW ZEALAND LIMITED (ARBN 000 312 685)\n\n**File number:** NSD 534 of 2010\n\n**Judge:** PERRAM J\n\n**Date of judgment:** 11 April 2013\n\n**Catchwords:** EVIDENCE – Opinion evidence - Expert evidence – Whether expert on international transportation law qualified to give evidence on competition law – Whether expert on international transportation law qualified to give evidence on treaty construction  \nEVIDENCE – Opinion evidence – Expert evidence – Proof of international law – Whether international law to be proved as a matter of law – Whether question of international law arising as part of foreign law to be proved as a fact or whether it should be excluded - Interaction between foreign, domestic and international law in evidence\n\n**Legislation:** Constitution s 51(xxix)  \nAir Navigation Act 1920 (Cth) s 12  \nEvidence Act 1995 (Cth) ss 135, 190  \nFederal Court of Australia Act 1976 (Cth) s 37M  \nUndang-Undang Republik Indonesia Nomor 15 Tahun 1992 Tentang Penerbangan [Law No 15 of 1992 on Aviation] (Indonesia) Art 2 and Art 3  \nPeraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara [Government Regulation No 40 of 1995 on Aviation] (Indonesia) Art 12  \nAgreement between the Government of the Commonwealth of Australia and the Government of the Republic of Indonesia for Air Services Between and Beyond their Respective Territory, Australia-Indonesia, signed 7 March 1969 [1969] ATS 4 (entered into force 7 March 1969) Art 6  \nAgreement between the United States and the United Kingdom relating to Air Services, United States of America-United Kingdom, signed 11 February 1946, 3 UNTS 253 (entered into force 11 February 1946) Art 11  \nStatute of the International Court of Justice, 39 AJIL Supp 215 (entered into force 24 October 1945) Art 38  \nVienna Convention on the Law of Treaties, opened for signature on 23 May 1969, 1155 UNTS 331 (entered into force 27 January 1980) Art 31\n\n**Cases cited:** Allstate Life Insurance Co v Australia & New Zealand Banking Group [No. 6] (1996) 64 FCR 79 cited  \nCommissioner of Taxation v SNF (Australia) Pty Ltd (2011) 193 FCR 149 cited  \nDanberg v Danberg (2001) 52 NSWLR 492 cited  \nJumbunna Coal Mine NL v Victorian Coal Miners’ Association (1908) 6 CLR 309 cited  \nJones v Ministry of the Interior of the Kingdom of Saudi Arabia [2007] 1 AC 270 cited  \nKoninklijke Philips Electronics NV v Remington Products Australia Pty Ltd (2000) 100 FCR 90 cited  \nKuwait Airways Corpn v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883 cited  \nChu Kheng Lim v Minister for Immigration, Local Government and Ethnic Affairs (1992) 176 CLR 1 cited  \nMabo v Queensland [No 2] (1992) 175 CLR 1 cited  \nMinister of State for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 273 cited  \nNBGM v Minister for Immigration and Multicultural and Indigenous Affairs (2006) 231 CLR 52 cited  \nR v Bow Street Metropolitan Stipendiary Magistrate; ex p Pinochet Ugarte (No 3) (Amnesty International intervening) [2000] 1 AC 147 cited  \nCompania Naviera Vascongado v SS Christina [1938] AC 485 cited  \nThiel v Commissioner of Taxation (1990) 171 CLR 338 cited  \nTrendtex Trading Corp v Central Bank of Nigeria [1977] 1 QB 529 discussed  \nVictoria v Commonwealth (1996) 187 CLR 416 cited\n\n**Date of hearing:** 27 March 2013\n\n**Place:** Sydney\n\n**Division:** GENERAL DIVISION\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 64\n\n**Counsel for the Applicant:** J Halley SC, E Collins SC\n\n**Solicitor for the Applicant:** Australian Government Solicitor\n\n**Counsel for Air New Zealand:** N Owens\n\n**Solicitor for Air New Zealand:** Corrs Chambers Westgarth\n\n**Counsel for Garuda:** M Leeming SC, T Brennan\n\n**Solicitor for Garuda:** Norton White\n\n## Judgment\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P. T. GARUDA INDONESIA (ARBN 000 861 165)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 11 APRIL 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The report of Professor Dempsey be received save that:\n\n  1.1 the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;\n\n  1.2 the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;\n\n  1.3 the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views;\n\n  1.4 the second whole paragraph of page 12 is rejected; and\n\n  1.5 the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 11 APRIL 2013 |\n| WHERE MADE: | SYDNEY |\n\n### THE COURT ORDERS THAT:\n\n1. The report of Professor Dempsey be received save that:\n\n  1.1 the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;\n\n  1.2 the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;\n\n  1.3 the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views;\n\n  1.4 the second whole paragraph of page 12 is rejected; and\n\n  1.5 the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 955 of 2009 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | P. T. GARUDA INDONESIA (ARBN 000 861 165)<br>Respondent |\n\n| IN THE FEDERAL COURT OF AUSTRALIA |  |\n|---|---|\n| NEW SOUTH WALES DISTRICT REGISTRY |  |\n| GENERAL DIVISION | NSD 534 of 2010 |\n\n| BETWEEN: | AUSTRALIAN COMPETITION AND CONSUMER COMMISSION<br>Applicant |\n|---|---|\n| AND: | AIR NEW ZEALAND LIMITED (ARBN 000 312 685)<br>Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE: | 11 APRIL 2013 |\n| PLACE: | SYDNEY |\n\n### REASONS FOR JUDGMENT\n\n[1] On 27 March 2013 I heard argument on the admissibility of the report of Professor Paul Stephen Dempsey filed on 13 March 2013. Professor Dempsey is an expert on international transportation law. There was no dispute that he is eminent in his field. He is the author of several well-known works in the area. On 28 March 2013, I determined that some parts of Professor Dempsey’s report should be excluded from the evidence while admitting certain others to which objection had been taken.\n\n[2] There were ten individual objections to particular parts of the report. There were two global debates as well. The Commission, on the one hand, contended that the report should be rejected because of the lateness of its service. Garuda, on the other, submitted – by reference to various documents generated by the Commission at an earlier time – that the contents of Professor Dempsey’s report were not really in dispute and contended that s 37M of the Federal Court of Australia Act 1976 (Cth) (‘the FCA Act’) and/or s 190 of the Evidence Act 1995 (Cth) (‘the Act’) might be used to circumvent the Commission’s objections in their entirety.\n\n[3] It is convenient to deal first with those parts of the objections debate having their source in the law of evidence.\n\n##### Objection No. 1\n\n[4] Professor Dempsey says at page 2 of his report:\n\n> To understand Article 6, one must understand the historical context in which it was negotiated, for in 1969, the landscape of competition and government oversight was quite different than exists in some States today.\n\n[5] Objection is taken to the italicised portion on the basis that it is an expression of opinion other than on the basis of specialised knowledge.\n\n[6] Professor Dempsey is being called to give evidence, inter alia, about the way in which the interpretation of Art 6 of the Agreement between the Government of the Commonwealth of Australia and the Government of the Republic of Indonesia for Air Services Between and Beyond their Respective Territory, Australia-Indonesia, signed 7 March 1969, [1969] ATS 4 (entered into force 7 March 1969) (‘Australia-Indonesia Bilaterial ATA’) should be approached. The manner in which that exercise is to be carried out, and the materials which might be utilised in its pursuit, are an aspect of the field of international transportation law and I do not accept, therefore, that the italicised portion, lies outside Professor Dempsey’s area of expertise.\n\n##### Objection No. 2\n\n[7] Objection is taken to the following statement at page 2 of Professor Dempsey’s report:\n\n> Government oversight then was largely promotional and protectionist in emphasis, focusing on avoiding “destructive competition” and achieving both carrier economic health as well as consumer equity. Under these traditional bilateral air transport agreements, intercarrier agreements on tariffs were the norm.\n\n[8] The ‘then’ is 1969. The objection is twofold. First, it is said that the opinion is not based on specialised knowledge. I reject that submission for the reasons given in relation to Objection No. 1. Secondly, it is said that the basis of the opinion is not disclosed. The statement, however, is not Professor Dempsey’s opinion. It is an aspect of the matters relied on by Professor Dempsey as being relevant to the interpretation of Art 6 of the Australia-Indonesia Bilaterial ATA and is admissible.\n\n##### Objection No. 3\n\n[9] Objection is taken to the following statement on page 3:\n\n> Indonesia is among the States that in most markets rejects “open skies”, and instead is concerned with the economic health of its airlines.\n\n[10] It is said that this is an expression of opinion not based on specialised opinion. I reject this submission. Professor Dempsey is qualified to give such an opinion.\n\n##### Objection No. 4\n\n[11] Objection is taken to the following passage on page 6:\n\n> Accordingly, individual States entered into bilateral negotiations with foreign governments with the objective of concluding air transport agreements which would secure important traffic rights abroad for their international carriers, as well as allowing them to set fares.\n\n[12] It is said that this is a conclusion and is an opinion not based on specialised knowledge. I reject the proposition that this is not within Professor Dempsey’s area of expertise – the matter seems plainly within it. Nor do I think it involves the inadmissible expression of a conclusion. In the context of giving the background to Art 6 he is merely explaining his perception of the motives of the States party. Given the field of his expertise, I see no problems with this.\n\n##### Objection No. 5\n\n[13] Objection is taken to a quote Professor Dempsey has included at page 7 of his report. It is a quote, according to footnote 19 of his report, from a work by Antigoni Lykotrafiti entitled ‘Consolidation and Rationalisation in the Transatlantic Air Transport Market – Prospects and Challenges for Competition and Consumer Welfare’ (2011) Journal of Air Law and Commerce (76) 661, 669. The quotation, which is extensive, immediately follows this statement by Professor Dempsey:\n\n> The post-World War II era saw a proliferation of bilateral air transport agreements beginning with the so-called Bermuda I agreement between the United States and the United Kingdom in 1946.\n\nThe quote from Ms Lykotrafiti’s piece is as follows:\n\n> A product of compromise between American liberalism and British protectionisms, the [Bermuda I] agreement dealt with the issues typically addressed by a bilateral agreement (i.e., market entry (designation or airlines and routes) and traffic rights, capacity and frequency of service, and rate-setting) in a moderately restrictive way. Thus, while the designation of carriers was left with individual governments, the routes to be operated were to be negotiated bilaterally. Moreover, although the determination of capacity and frequency levels fell in the first instance within the discretion of the airlines, such determination had to respect traffic demand, subject to ex post facto review by individual governments. Lastly, while the setting of fares was delegated to the International Air Transport Association (IATA), its authority was curtailed by the so-called double-approval requirement.\n\n[14] The objection raised against this quotation is that it is a submission and a conclusion. I reject this contention. The quote is proffered as part of the reason the Professor holds the view expressed in the preceding sentence. It is part of his process of reasoning.\n\n##### Objection No. 6\n\n[15] Objection is taken to the following passage on pages 7 and 8 of Professor Dempsey’s report:\n\n> On the issue of pricing Bermuda I approved “rate conference machinery of the International Air Transport Association”. Hence, carriers were allowed to collectively set fares. Rates set by airlines were to be “fair and economic”. The approach was a balanced one, taking into account the interest of the travelling and shipping public and the air carriers, who were to be protected from rates that were “unfair” (to consumers) and “uneconomic” (to airlines). Rates were to be “fixed at reasonable levels, due regard being paid to all relevant factors, such as cost of operation, reasonable profit and the rates charged by any other air carriers”. Hence, carriers were not to charge below their costs, and were to be allowed a reasonable profit, taking into account the rates charged by their competitors. Airlines were to be protected from destructive and uneconomic competition.\n\n> (footnotes omitted, emphasis in original)\n\n[16] The objection was said to be that this was a submission or not an opinion based on specialised knowledge. During oral argument it emerged that it was suggested that the footnotes did not support what was cited on their behalf. The footnotes in question are footnotes 21-24 and these contain references to the text of particular articles in the Agreement between the United States and the United Kingdom relating to Air Services, United States of America-United Kingdom, signed 11 February 1946, 3 UNTS 253 (entered into force 11 February 1946) (‘Bermuda I’). I have perused Bermuda I and Arts II(b), II(c), II(h) and II(j) thereof. There is force in the suggestion that Professor Dempsey’s extracts do not capture the full flavour of each article read in its entirety. But I do not think, however, this means the passage is inadmissible. It purports to be no more than a summary of what the Bermuda I form of agreement did and, viewed that way, is no more than a step in the Professor’s process of reasoning. I reject the proposition that Professor Dempsey lacks the qualifications to discuss such a subject matter.\n\n##### Objections Nos. 7 & 8\n\n[17] The first complete paragraph on page 11 of the report is as follows:\n\n> For example in 1995, Canada concluded a relatively liberal bilateral with the United States, and in 1999, a traditional restrictive, conservative bilateral with the United Arab Emirates, which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE. Similarly, Australia concluded an “open skies” agreement with the United States in 2008, (a country with which Australia had earlier had acrimonious relations over the effort of the U.S. to foist de facto liberalization upon it), but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996.\n\n> (footnotes omitted, emphasis added)\n\n[18] Objection was taken to the italicised portions on the basis that it was hearsay and did not involve the formation of an opinion based upon specialised knowledge. Footnotes 48 and 51 are to Wikipedia pages. What is disclosed then is the materials upon which Professor Dempsey has relied in forming his opinion. On that basis I propose to admit it. It would be unfair, having done so, to expect the Commission to explore the correctness of the Wikipedia entries and accordingly I will limit the two passages to evidence of the matters relied upon by Professor Dempsey in reaching his opinion.\n\n##### Objection No. 9\n\n[19] Objection was taken to the following passage on page 11:\n\n> Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia.\n\n[20] The basis of the objection was that it was merely a submission. The passage does not involve the expression of an opinion about international transportation law and I reject it.\n\n##### Objection No. 10\n\n[21] It was this objection which reflected the true debate between the parties. From pages 11 to 13 in Professor Dempsey’s report there is a section headed ‘Analysis’ to which the Commission objected in its entirety. The first paragraph of this section is as follows:\n\n> As we have seen, there are different types of bilateral air transport agreements. Some are restrictive, conservative and protectionist, while others are liberal and free-market in orientation, and there are many shades of gray in between. The Indonesia-Australia Bilateral Air Transport Agreement is in the former category. It was negotiated in the context of aviation relations in 1969, before the introduction of “open skies” free market competition. Under the bilaterals concluded during that period, governments protected their airlines from “destructive competition” by creating an environment in which air carriers could earn a reasonable return on investment. Antitrust and competition laws were no part of the equation, as carriers were explicitly permitted – indeed, expected – to consult and agree on issues involving pricing either under IATA auspices, or directly with competing carriers on the routes in question. To this day, Indonesia has steadfastly resisted efforts, even with in ASEAN, to embrace an “open skies” aviation regime. An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted.\n\n> (footnotes omitted, emphasis added)\n\n[22] The objection to this paragraph was omnibus, but, with the exception of the last sentence, I do not perceive a problem. Professor Dempsey is skilled in the area of international transportation law and this paragraph does no more than explain his view of the historical position in relation to the form of agreement to which Indonesia is a party. He does not, in this paragraph, say anything about the construction of Art 6. Insofar as the last sentence is concerned, its use should be limited as material upon which Professor Dempsey’s views are based, but not as to the truth of Professor Tan’s views.\n\n[23] The second paragraph is as follows:\n\n> Absent the bilateral, negotiation of pricing by competing airlines would violate the competition laws of many States. But the Indonesia-Australia bilateral air transport agreement explicitly allows such negotiations and agreements between competing airlines. To attempt to graft contemporary free-market policy preferences onto carriers operating under the Indonesia-Australia bilateral would clearly violate the intention of the draftsmen, and breach the relationship between the two State parties to this agreement.\n\n[24] Professor Dempsey has not been put forward as an expert on international competition law although his area of expertise intersects with competition issues. The first sentence is expressed at a level of generality which makes it unfair since it will not be known until the question is asked which States and which laws are involved. It also conceals an assumption that the bilateral negotiation of pricing (presumably under Bermuda I – style arrangements) is not in breach of the unidentified States’ competition laws. This, in turn, conceals an opinion about the operation and meaning of the bilateral agreements in question. I am doubtful that Professor Dempsey has the requisite expertise to express the opinion in the first sentence but even if he does, the opinion is so bound up with unstated assumptions that it would be unfair to force the Commission to cross-examine upon it. I reject the sentence both because of a lack of qualification and because it would, in any event, be unfairly prejudicial under s 135 of the Act.\n\n[25] The Commission’s objections to the balance of the paragraph were, in effect, threefold. First, it was submitted that evidence could not be received as to the content or operation of public international law. Those matters were to be determined in the same way as ordinary legal argument. Secondly, if evidence of public international law could be received nevertheless the authorities dealing with the receipt of foreign law suggested, by analogy, that its use was limited to an indication of what the law was and could not go further than this to suggest how the law should be applied and that Professor Dempsey’s opinion transgressed this principle. Thirdly, it was submitted that the evidence should be excluded as a matter of discretion because it added nothing beyond what was, in effect, legal argument; because it had been served late; and, because the basis for much of the opinion was not disclosed and would emerge for the first time in cross-examination (‘the Global Issues’).\n\n[26] In my opinion, the evidence should be rejected. Professor Dempsey’s opinion is directed to showing that, if it be established that Garuda engaged in the conduct alleged against it, it was compelled to do so by Australian law and/or Indonesian law, which, so it is said, required Garuda to comply with the Australia-Indonesia Bilateral ATA. The lynchpin of this argument is Art 6(2) of the Australia-Indonesia Bilateral ATA which provides:\n\n> Agreement on the tariffs shall, whenever possible, be reached by the designated airlines concerned through the rate-fixing machinery of the International Air Transport Association. When this is not possible, tariffs in respect of each of the specified routes shall be agreed upon between the designated airlines concerned. In any case the tariffs shall be subject to the approval of the aeronautical authorities of both Contracting Parties.\n\n[27] The Australia-Indonesia Bilateral ATA is an international agreement between Australia and Indonesia and this, no doubt, provides the impetus for the Commission’s suggestion that evidence as to its meaning is evidence about the content of public international law. For the balance of these reasons I will use the expression public international law to refer to that part of the law of nations as consists of treaties and the expression customary international law to refer to those international norms deriving from the practice and usages of nations. I will use the expression international law to refer to both.\n\n[28] In this case, public international law has no direct application. What is involved instead is:\n\n(a) Australian statute law which is alleged to compel Garuda to comply with the Australia-Indonesia Bilateral ATA; more particularly, it is said that Garuda was required, when flying over Australian territory, to hold an international airline licence by s 12 of the Air Navigation Act 1920 (Cth) (‘the AN Act’) and to comply with the conditions endorsed on that licence. Garuda submits that its licence was subject to a condition that it comply with the Australia-Indonesia Bilateral ATA. The question of the meaning of Art 6(2), therefore, arises as a step along the way to determining what the AN Act required.\n\n(b) Indonesian law which is alleged to require Garuda to comply with the Australia-Indonesia Bilateral ATA. Reliance is to be placed on Art 2 and Art 3 of Undang-Undang Republik Indonesia Nomor 15 Tahun 1992 Tentang Penerbangan [Law No 15 of 1992 on Aviation] (Indonesia) and Art 12 of Peraturan Pemerintah Republik Indonesia Nomor 40 Tahun 1995 Tentang Angkutan Udara [Government Regulation No 40 of 1995 on Aviation] (Indonesia) which, together, are said to require Garuda to comply with Art 6(2) of the Australia-Indonesia Bilateral ATA.\n\n[29] The meaning of Art 6(2) thus emerges as a question about the requirements of Australian law for the purposes of (a) but Indonesian law for the purposes of (b). This gives rise, in turn, to a contradiction. What little authority there is suggests that under Australian law a question of public international law is not one which involves the taking of evidence. On the other hand, under Australian law, foreign law such as Indonesian law is a fact to be proved by evidence. Thus Art 6(2), qua an integer of Australian law, is not to be the subject of evidence but, qua an integer of Indonesian law, is.\n\n[30] I have been unable to avert this incoherence at the level of the assumptions which generate it.\n\n[31] There is no doubt that domestic law cannot be proved law by evidence. Sometimes it has been said that a court can take judicial notice of the law of the forum, a usage of the concept of judicial notice which is described by Mr Heydon in Cross on Evidence (LexisNexis Butterworths, 9th ed, 2013), p 167 at [3075], as involving ‘on any view a misnomer’ and by Mr Carter as being a ‘promiscuous use of the terminology of judicial notice’ in Enid Campbell and Louis Waller (eds) ‘Judicial Notice: Related and Unrelated Matters’ in Well and Truly Tried: Essays on Evidence (The Law Book Company Limited, 2nd ed, 1982) p 90. In truth, opinion evidence is not receivable on an issue of domestic law because the law is not a matter for proof or disproof. It is for this reason, as pointed out in Cross on Evidence at [3075], that a judge is not obliged to accept a proposition of law agreed upon by the parties: cf. Danberg v Danberg (2001) 52 NSWLR 492, 519 at [149].\n\n[32] Does a similar principle apply to international law? Despite authority to this effect being scarce, it seems that the answer is that it does. This is (or was) the view of Professor Mann (see Francis Mann, Foreign Affairs in English Courts (Clarendon Press, 1986) p 126), Professor Crawford (see James Crawford, Brownlie’s Principles of Public International Law (Oxford University Press, 8th ed, 2012), p 56) and Professor O’Donnell (see Daniel O’Connell, International Law, (Stevens and Sons, 2nd ed, 1970) p 53). A similar view was expressed by Ian Hunter in ‘Proving Foreign and International Law in the Courts of England and Wales’ (1978) Virginia Journal of International Law 19(4) 665, 677-678. In an obiter dictum, Stephenson LJ reached the same conclusion in Trendtex Trading Corp v Central Bank of Nigeria [1977] 1 QB 529, 569 (‘…and they are not proved in English Courts by expert evidence like foreign law’).\n\n[33] The mechanics of why this might be so are somewhat more elusive. The learned author of Cross on Evidence says that proof of public international law is not required because it is part of domestic law citing Trendtex p 1383-1387 at [41005]. In that case, one of the questions which arose was whether the Nigerian Central Bank could claim sovereign immunity in respect of the events arising from the Nigerian cement scandal. There was an issue as to whether the Nigerian Central Bank was an emanation of Nigeria and hence was entitled to claim the benefit of that immunity. There was also a question as to whether sovereign immunity extended to cover commercial activities of state emanations or merely governmental ones. Customary international law had favoured the broader view but developments preceding the time of the litigation suggested that the doctrine may have narrowed somewhat.\n\n[34] At the time of the decision, English domestic law made sovereign immunity a question of the common law. The issue in Trendtex was whether the common law doctrine picked up the customary international law on sovereign immunity as it was from time to time (and with it the more recent narrowing of the doctrine) or whether the Court of Appeal was bound by the House of Lords’ decision in Compania Naviera Vascongado v SS Christina [1938] AC 485 to a broad view of the immunity which applied to all State activities whether commercial or not. Denning MR and Shaw LJ thought that the rule which applied was the customary international law rule which had been incorporated into domestic law. Stephenson LJ thought the matter controlled by the common law as laid down in SS Christina.\n\n[35] With great respect to the learned author of Cross on Evidence I do not think that Trendtex can stand as authority for the general proposition that public international law is part of domestic law for the purpose of proving its meaning and content. This is largely for reasons relating to the breadth of the proposition.\n\n[36] If by the expression ‘public international law’ it was intended to refer to treaty law then the statement is inconsistent with the Anglo-Australian understanding of the effect of treaties in domestic law. Whilst there are some rare treaties which may have a domestic legal effect (such as, for example, those terminating a state of war) the near universal position is that a treaty entered into by the executive ‘has no legal effect upon the rights and duties of citizens’ and that if the Commonwealth wishes to convert treaty requirements into domestic legal ones it must use legislation: Victoria v Commonwealth (1996) 187 CLR 416, 481 (‘the Industrial Relations Case’). If, as is more likely, the passage in Cross on Evidence is intended to refer to the rules of customary international law then Trendtex does provide support for that proposition at least in relation to the rules of customary international law pertaining to sovereign immunity.\n\n[37] In this case, however, the question which arises is not concerned with a rule of customary international law, but the proper construction of an article of a treaty, and Trendtex potentially does not assist. I say potentially because, as I discuss later, there may be an issue as to whether the Australia-Indonesia Bilateral ATA is to be interpreted in accordance with the Vienna Convention on the Law of Treaties, opened for signature on 23 May 1969, 1155 UNTS 331 (entered into force 27 January 1980) (‘the Vienna Convention’) or customary international law in light of the fact that Indonesia has not acceded to that treaty: cf. Thiel v Federal Commissioner of Taxation (1990) 171 CLR 338, 349, 356.\n\n[38] Leaving that diversion to one side, the position is, I think, more nuanced than Cross on Evidence suggests. Questions of international law may arise before domestic courts in a variety of conceptually different circumstances. These include:\n\n(a) situations where a question of domestic common law overlaps with an area of customary international law. The former common law obtaining to sovereign immunity exemplified in Trendtex and Christina SS is an example of this situation. In such cases, prior to the matter being dealt with explicitly by statute, it was natural to think that the common law on the topic ought to align with the customary international law on the same issue. Similar tendencies may be discerned in the domestic law concerning immunity ratione materiae: cf. R v Bow Street Metropolitan Stipendiary Magistrate; ex p Pinochet Ugarte (No 3) (Amnesty International intervening) [2000] 1 AC 147, 205, 266-267, 277-278, 290; Jones v Ministry of the Interior of the Kingdom of Saudi Arabia [2007] 1 AC 270, 286 at [19], 303-304 at [89]-[94] and 306 [103]-[105]. The original doctrine of terra nullius was an aspect of customary international law upon which came to rest a corresponding common law concept. When the High Court came to consider the scope of that doctrine at common law it inevitably invited a consideration of the customary international law position of the doctrine: see Mabo v Queensland [No 2] (1992) 175 CLR 1, 32-41;\n\n(b) a conceptually similar class of case arises where the common law operates in the same area as a treaty. Here the considerations are largely the same;\n\n(c) situations where a domestic statute evinces an intention to give effect to a treaty in its own terms: cf. NBGM v Minister for Immigration and Multicultural and Indigenous Affairs (2006) 231 CLR 52, 71-72 at [61];\n\n(d) situations where a choice arises for a court between an interpretation of a statute which causes Australia to infringe international law and one which does not: every statute is ‘to be so interpreted and applied as far as its language admits as not to be inconsistent with the comity of nations or with the established rules of international law’: Jumbunna Coal Mine NL v Victorian Coal Miners’ Association (1908) 6 CLR 309, 363; Chu Kheng Lim v Minister of State for Immigration, Local Government and Ethnic Affairs (1992) 176 CLR 1, 38; Minister for Immigration and Ethnic Affairs v Teoh (1995) 183 CLR 273, 287;\n\n(e) situations (perhaps) where the Commonwealth’s ratification of a treaty gives rise, in domestic administrative law, to a legitimate expectation: Teoh;\n\n(f) situations involving the act of State doctrine where it is said that the State in question has acted in breach of international law and thereby taken itself outside the doctrine: see Kuwait Airways Corpn v Iraqi Airways Co (Nos 4 and 5) [2002] 2 AC 883, 1081 at [27]-[29];\n\n(g) situations (perhaps) where a domestic court declines to give effect to a foreign law because it infringes international law or a jus cogens obligation: Kuwait Airways 883, 1081 at [27]-[29];\n\n(h) situations in constitutional law where a question arises as to whether a Commonwealth law, in fact, sufficiently implements a treaty obligation under s 51(xxix) of the Constitution to be a valid law: Industrial Relations Case 416, 487.\n\n[39] Leaving aside (a) which is caught up in the debate about whether customary international law is part of the common law, each of (b)-(h) is a question of domestic law where that law, for its own purposes, looks outside domestic law to international norms.\n\n[40] By itself, however, that observation cannot be sufficient to require the conclusion that international law should be approached, when it comes to the manner of its proof, as a question of law rather than as one of fact. Australian law sometimes looks outside itself to foreign law, but, when it does so, that sort of legal debate is resolved principally as if it were a factual one.\n\n[41] The mere externality of a legal framework cannot, therefore, be sufficient to mean that proof of that framework or its meaning is to be approached on the basis of legal rather than factual argument. The differential treatment of international and foreign law is one that must, therefore, find its justification in considerations extending beyond its non-autochthonous character.\n\n[42] What might these be? One set of reasons is likely instrumental. The proliferation of international law concepts throughout modern legal systems, including Australia’s, would make it inconvenient to require evidentiary proof each time one arose for consideration. In this Court, for example, double taxation treaties are frequently considered as is the Convention Relating to the Status of Refugees 1951, opened for signature 28 July 1951, 189 UNTS 150 (entered into force 22 April 1954) as amended by the Protocol Relating to the Status of Refugees 1967, opened for signature on 31 January 1967, 606 UNTS 267 (entered into force 4 October 1967). It would add a layer of expense and complexity if that discourse were required to be approached factually.\n\n[43] Another set of reasons is more premised on principle. The considerations outlined above at [37] show that domestic public law (by which I mean areas such as statutory interpretation, constitutional and administrative law) and international law are intertwined. Whilst it is true that foreign law and domestic law are also intertwined by reason of the principles relating to conflict of laws this does not occur in a way which impacts on the actual content of domestic law. A forum court may apply the law of Malta to a particular contract but this in no way effects the content of Australian law. When, on the other hand, a court construes a statute to comply with a treaty obligation this cannot be said to be so and in such a circumstance, international law then exerts a discernable influence on the content of local law.\n\n[44] There may be some circumstances where the common law and international law are one and the same. Trendtex may be an example of this if one accepts Denning MR and Shaw LJ’s incorporation theory. But even so, most international law will not have that quality. Given its practical affect on domestic public law and the operation of s 51(xxix) of the Constitution, however, it is not inaccurate to view international law as perhaps one of the sources of domestic law. That is not to say that it is paramount or that the Australian legal order is somehow to be seen as a corollary of international law. It is rather to accept that local rules of interpretation and public law have the effect of picking up, or invoking, international law at various points in the decision-making process and that when they do this it has the effect of making international law one of the sources, among a number, of local law. If one accepts that international law can be a source of local law – in that very precise and limited sense – it is natural to expect that it will be approached as a legal question when it comes to questions of proof.\n\n[45] There is an additional reason for reaching the same conclusion. It is accepted that the sources of international law include the decisions of national courts. Article 38 of the Statute of the International Court of Justice, 39 AJIL Supp 215 (entered into force 24 October 1945) (‘ the ICJ Statute’) sets out the international law to be applied by that Court and is generally regarded as a complete statement of the sources of international law: Brownlie’s Principles of Public International Law p 22. Art 38(1) provides:\n\n> The Court, whose function is to decide in accordance with international law such disputes as are submitted to it, shall apply:\n\n> a. international conventions, whether general or particular, establishing rules expressly recognized by the contesting states;\n\n> b. international custom, as evidence of a general practice accepted as law;\n\n> c. the general principles of law recognized by civilized nations;\n\n> d. subject to the provisions of Article 59 judicial decisions and the teachings of the most highly qualified publicists of the various nations, as subsidiary means for the determination of rules of law.\n\n[46] It is accepted doctrine that the reference to ‘judicial decisions’ includes the output of national courts: Brownlie’s Principles of Public International Law p 41. Unlike their relationship with French or German law, for example, Australian courts are, therefore, actual participants in the interpretation and implementation of international law.\n\n[47] International law is then a normative system having a significant impact on the content of domestic public law whilst, at the same time, Australian courts are themselves potential sources of the same international norms. It is natural in such circumstances to treat international law as if it were domestic law for the purpose of its proof. This is not to make, what I think would be, the unrealistic suggestion that Australian law includes international law (eg. as opposed to the latter being a source in the limited sense discussed above, of the former). Rather, it is to accept its inherent legal nature, its domestic legal consequences, the practicality of it being dealt with as legal material and the qualification of domestic courts to engage in such an exercise. These matters mark it out as qualitatively different to foreign law.\n\n[48] It follows that before an Australian court a question as to the interpretation of a treaty which arises in the course of ascertaining the operation of Australian law is to be approached as a question of law rather than as one of fact. This conclusion accords with the practise of Australian courts: cf Thiel, Commissioner of Taxation v SNF (Australia) Pty Ltd (2011) 193 FCR 149, 184-186 at [112]-[120]; cf Industrial Relations Case 416, 545.\n\n[49] Mr Leeming also advanced an argument that Professor Dempsey’s opinion might be received as part of the context against which Art 6(2) was to be interpreted. For this purpose, Mr Leeming invoked Art 31(1) of the Vienna Convention which provides relevantly that a treaty is to be interpreted ‘in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in light of its object and purpose’ (emphasis added). For present purposes, I will assume that Art 31 reflects customary international law and applies to the Australia-Indonesia Bilateral ATA. In principle, I accept Mr Leeming’s submissions that the context may be proved by Professor Dempsey in the way suggested. Indeed, I did not really apprehend that the Commission adopted a contrary position for, by and large, it did not object to the Professor’s contextual evidence. The difficulty, however, is that an opinion about the meaning of Art 6(2) does not fall within the scope of that principle.\n\n[50] I reject also the submission that Professor Dempsey is to be viewed as a ‘highly qualified publicist’ within the meaning of Art 38(1)(d) of the ICJ Statute (above at [45]). Art 38 makes the ‘teachings’ of highly qualified publicists a subsidiary source of international law. I do not accept Professor Dempsey’s evidence is a ‘teaching’ within Art 38.\n\n[51] This is not, however, the end of the matter. In this case, the interpretation of Art 6(2) also arises as a matter of Indonesian law. Unquestionably Indonesian law is to be proved as a fact and that factual material will include assertions about the meaning of Article 6(2). In principle, this must mean that Garuda is entitled to elicit from Professor Dempsey evidence about the meaning of the Australia-Indonesia Bilateral ATA as part of proving its case on the content of Indonesian law.\n\n[52] One arrives then, perhaps tortuously, at the conclusion that Professor Dempsey’s evidence about the meaning of the Australia-Indonesia Bilateral ATA is inadmissible for the purposes of considering Garuda’s obligations under Australian law but admissible for considering precisely the same obligations under Indonesian law.\n\n[53] If evidence of the meaning of Art 6(2) as part of Indonesian law is permitted to be led then the cross-examination of Professor Dempsey is likely to range over precisely the same subject matter as will inevitably be the subject of final submissions when dealing with the Australia-Indonesia Bilateral ATA under Australian law. That colloquy will focus principally, one would imagine, on whether Art 31 of the Vienna Convention reflects customary international law, the context of the Australia-Indonesia Bilateral ATA and the nature of State practice as between Australia and Indonesia.\n\n[54] I do not think that the Professor’s views are likely to add anything more in the form of evidence than they will add in the form of Mr Leeming’s eventual submissions based upon them. Indeed, given the more active role of the Court during submissions it is unlikely that cross-examination of the Professor by counsel is likely to add anything which will not otherwise be obtained by cross-examination of counsel by the Court. In that circumstance, I conclude that the receipt of Professor Dempsey’s views on the meaning of the Australia-Indonesia Bilateral ATA, although relevant to a fact in issue – Indonesian law – would result in a waste of time and resources which is not justified by its likely probative effect. I reject therefore its receipt pursuant to s 135(c) of the Act which permits the Court, in its discretion, to reject evidence if its probative value is substantially outweighed by the danger that it might ‘cause or result in undue waste of time’: cf Koninklijke Philips Electronics v Remington Products Pty Ltd (2000) 100 FCR 90, 107 at [21] per Burchett J (Hill and Branson JJ concurring).\n\n[55] I reject the third sentence of the passage quoted above at [22] on the same basis.\n\n[56] The third (final) paragraph on page 12 is as follows:\n\n> Diplomatic delegations from Australia and Indonesia have met several times since 2001 to negotiate a new bilateral air transport agreement. The Australian government proposed more liberal tariff arrangements to replace Article 6, above. Negotiations have been cordial, but have yet to produce a new agreement. Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions.\n\n> (footnotes omitted, emphasis in original)\n\n[57] I admit the first three sentences which may legitimately go to the background of the present arrangements and which are, for reasons I have already given, within Professor Dempsey’s expertise. I reject the balance as it involves – at the very least – an expression of opinion on a question of international law.\n\n[58] On the assumption that evidence might be received on the content and meaning of the Australia-Indonesia Bilateral ATA, the Commission advanced a further argument that the report was apt to usurp the judicial function by going beyond the identification of foreign law and impermissibly seeking to apply foreign law to the facts, citing Allstate Life Insurance Co v Australia & New Zealand Banking Group [No. 6] (1996) 64 FCR 79 per Lindgren J. In light of the conclusions reached on the proof of international law, I do not need to decide this issue.\n\n##### Global Issues\n\n[59] The Commission submitted that Professor Dempsey’s report should not be received because of the tardiness in its service. It was not provided, it is true, until the 42nd day of the trial although the fact that expert evidence of this kind would be led was flagged in December last year. It would be difficult, so the Commission contended, to obtain an expert in such a rarefied area in the time remaining for the trial. I do not accept this submission. I have rejected the tender of those parts of Professor Dempsey’s report dealing with the meaning of the Australia-Indonesia Bilateral ATA and these were potentially the most damaging to the Commission. In any event, I discern no tardiness. Garuda came into these proceedings only shortly before the trial commenced and this was done on the basis that it would do its best to get the case up and running as the trial proceeded. To my observation, this has been done. If the Commission is prejudiced, in terms of time, by the need to reply to those parts of Professor Dempsey’s report that remain I will entertain any application which it wishes to make.\n\n[60] I reject also Garuda’s submission that I should deploy s 37M of the FCA Act or s 190 of the Act to curtail the Commission’s objections to Professor Dempsey’s report on the basis that his evidence was not seriously in dispute. In that regard, I was taken to two discussion papers and an authorisation issued by the Commission which suggested that, in the past, it may have made statements about the operation of the air transportation legal regime not dissimilar to those now being expressed by Professor Dempsey.\n\n[61] I do not think that resolution of this debate at this time would be useful. Assuming in Garuda’s favour that the material does make good its contention about the earlier position of the Commission, the possibilities are:\n\n(a) the Commission is pursuing an argument about the Australia-Indonesia Bilateral ATA it knows to be wrong; or\n\n(b) the Commission’s position on the Australia-Indonesia Bilateral ATA has changed since the time of the creation of the discussion papers and authorisation.\n\n[62] I would not be prepared, given the seriousness of proposition (a), to make such a finding on the materials presently available. I cannot conclude, therefore, that the issue is not in dispute. The questions under s 37M of the FCA Act and s 190 of the Act do not arise.\n\n[63] I gave rulings on the objections to Professor Dempsey’s report on 28 March 2013. In those I rejected the material the subject of Objections 7 and 8 but I would now admit those as evidence of the material relied upon by him in forming his opinion only, i.e., not the truth of the material.\n\n[64] The report of Professor Dempsey will be received save that:\n\n(a) the words ‘which Canada has steadfastly refused to liberalize despite aggressive diplomatic pressure brought to bear by the UAE’ and ‘but has consistently refused to conclude an “open skies” bilateral with Singapore despite consistent overtures since 1996’ on page 11 will be received only as evidence of the materials relied upon by Professor Dempsey in reaching his opinion;\n\n(b) the words ‘Though ideologically wedded to “open skies”, the U.S. is bound by its international commitments, and must maintain the obligations to which it is legally committed in its bilateral treaty agreements, even when they are at odds with its contemporary policies. The same is true for Australia in its bilateral commitments to States like Indonesia’ on page 11 are rejected;\n\n(c) the words ‘An advocate of “open skies” in international aviation, Professor Alan Tan of the National University of Singapore recently noted, “Indonesia is the hold out. The problem is, there are established airline interests in Indonesia that prefer to see things restricted’ will be admitted as evidence of the material upon which Professor Dempsey relied on in forming his opinion but not as to the truth of Professor Tan’s views.\n\n(d) the second whole paragraph of page 12 is rejected; and\n\n(e) the words ‘Absent the conclusion of a new liberal, “open skies” bilateral between these two States prohibiting intercarrier agreements on tariffs, or renunciation by Australia of the existing 1969 Indonesia-Australia bilateral (which would only become effective 12 months after notice of renunciation, pursuant Article 10 of the 1969 agreement), any effort by Australian competition authorities to prosecute air carriers for “price fixing” would violate Australia’s obligations under international law. In either case, the Australian government could lawfully apply its competition law to such traffic only prospectively – for events occurring after such diplomatic actions’ on page 13 are rejected.\n\nI certify that the preceding sixty-four (64) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 11 April 2013\n",
+ "source_sha256": "e1b46f99f51827feb38193a36b4bfde5b83c508df74fa6ab30d6ad464455cd59"
+}

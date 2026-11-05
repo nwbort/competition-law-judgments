@@ -1,0 +1,547 @@
+{
+ "extractor_version": 1,
+ "source_file": "data/judgments/2017/2017FCA0454.docx",
+ "metadata": {
+  "citation": "[2017] FCA 454",
+  "name": "Lavecky v Visa Inc",
+  "court": "FCA",
+  "year": 2017,
+  "number": 454,
+  "date_of_judgment": "2017-05-08",
+  "file_numbers": [
+   "NSD557/2016"
+  ],
+  "judges": [
+   "PERRAM J"
+  ],
+  "registry": "New South Wales",
+  "division": "General Division",
+  "national_practice_area": "Commercial and Corporations",
+  "sub_area": "Economic Regulator, Competition and Access",
+  "category": "Catchwords",
+  "hearing_dates": [
+   "2017-04-11"
+  ],
+  "hearing_raw": "11 April 2017",
+  "number_of_paragraphs": 39,
+  "catchwords": [
+   "PRACTICE AND PROCEDURE – application for Court endorsement of proposed § 1782 applications under Title 28 of the United States Code – principles of case management – whether application a fishing expedition – whether Court should exercise discretion to endorse application to be filed in foreign jurisdiction"
+  ],
+  "legislation": [
+   "Evidence Act 1995 (Cth) s 75",
+   "Federal Court of Australia Act 1976 (Cth) ss 37M, 37M(1)",
+   "Federal Court Rules 2011 (Cth) r 20.23",
+   "United States Code (US) Title 28 § 1782"
+  ],
+  "cases_cited": [
+   "Allstate Life Insurance Co v Australia and New Zealand Banking Group Ltd (No 4) [1996] FCA 1270; (1996) 64 FCR 61",
+   "Associated Dominions Assurance Society Pty Ltd v John Fairfax & Sons Pty Ltd (1955) 72 WN (NSW) 250",
+   "Australian Competition and Consumer Commission v Visa Inc [2015] FCA 1020; (2015) 339 ALR 413",
+   "Jones v Treasury Wine Estates Ltd [2016] FCAFC 59; (2016) 241 FCR 111",
+   "Pathway Investments Pty Ltd v National Australia Bank Ltd (No 2) [2012] VSC 495",
+   "Sentry Corporation v Peat Marwick Mitchell & Co [1990] FCA 278; (1990) 24 FCR 463",
+   "South Carolina Insurance Company v Assurantie Maatschappij De Zeven Provincien NV [1987] AC 24"
+  ],
+  "parties": [
+   {
+    "name": "DANIEL LAVECKY",
+    "role": "First Applicant"
+   },
+   {
+    "name": "SUNIL SHARMA",
+    "role": "Second Applicant"
+   },
+   {
+    "name": "VISA INC",
+    "role": "First Respondent"
+   },
+   {
+    "name": "VISA WORLDWIDE PTE LTD",
+    "role": "Second Respondent"
+   },
+   {
+    "name": "VISA U.S.A. INC (and others named in the Schedule)",
+    "role": "Third Respondent"
+   }
+  ],
+  "representation": [
+   {
+    "role": "counsel",
+    "for": "the Applicants",
+    "name": "Dr A Bell SC with Mr T Maltz"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Applicants",
+    "name": "Arnold Bloch Leibler"
+   },
+   {
+    "role": "counsel",
+    "for": "the Respondents",
+    "name": "Mr J Karkar QC with Mr D Roche"
+   },
+   {
+    "role": "solicitor",
+    "for": "the Respondents",
+    "name": "Herbert Smith Freehills"
+   }
+  ],
+  "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2017/2017fca0454",
+  "portal_file_numbers": [
+   "NSD557/2016"
+  ],
+  "portal_event": "Judgment",
+  "portal_event_date": "2017-05-08"
+ },
+ "cover_sheet": [
+  {
+   "label": "File number(s)",
+   "value": "NSD 557 of 2016"
+  },
+  {
+   "label": "Judge(s)",
+   "value": "PERRAM J"
+  },
+  {
+   "label": "Date of judgment",
+   "value": "8 May 2017"
+  },
+  {
+   "label": "Catchwords",
+   "value": "PRACTICE AND PROCEDURE – application for Court endorsement of proposed § 1782 applications under Title 28 of the United States Code – principles of case management – whether application a fishing expedition – whether Court should exercise discretion to endorse application to be filed in foreign jurisdiction"
+  },
+  {
+   "label": "Legislation",
+   "value": "Evidence Act 1995 (Cth) s 75\nFederal Court of Australia Act 1976 (Cth) ss 37M, 37M(1)\nFederal Court Rules 2011 (Cth) r 20.23\nUnited States Code (US) Title 28 § 1782"
+  },
+  {
+   "label": "Cases cited",
+   "value": "Allstate Life Insurance Co v Australia and New Zealand Banking Group Ltd (No 4) [1996] FCA 1270; (1996) 64 FCR 61\nAssociated Dominions Assurance Society Pty Ltd v John Fairfax & Sons Pty Ltd (1955) 72 WN (NSW) 250\nAustralian Competition and Consumer Commission v Visa Inc [2015] FCA 1020; (2015) 339 ALR 413\nJones v Treasury Wine Estates Ltd [2016] FCAFC 59; (2016) 241 FCR 111\nPathway Investments Pty Ltd v National Australia Bank Ltd (No 2) [2012] VSC 495\nSentry Corporation v Peat Marwick Mitchell & Co [1990] FCA 278; (1990) 24 FCR 463\nSouth Carolina Insurance Company v Assurantie Maatschappij De Zeven Provincien NV [1987] AC 24"
+  },
+  {
+   "label": "Date of hearing",
+   "value": "11 April 2017"
+  },
+  {
+   "label": "Registry",
+   "value": "New South Wales"
+  },
+  {
+   "label": "Division",
+   "value": "General Division"
+  },
+  {
+   "label": "National Practice Area",
+   "value": "Commercial and Corporations"
+  },
+  {
+   "label": "Sub-area",
+   "value": "Economic Regulator, Competition and Access"
+  },
+  {
+   "label": "Category",
+   "value": "Catchwords"
+  },
+  {
+   "label": "Number of paragraphs",
+   "value": "39"
+  },
+  {
+   "label": "Counsel for the Applicants",
+   "value": "Dr A Bell SC with Mr T Maltz"
+  },
+  {
+   "label": "Solicitor for the Applicants",
+   "value": "Arnold Bloch Leibler"
+  },
+  {
+   "label": "Counsel for the Respondents",
+   "value": "Mr J Karkar QC with Mr D Roche"
+  },
+  {
+   "label": "Solicitor for the Respondents",
+   "value": "Herbert Smith Freehills"
+  }
+ ],
+ "contents": [],
+ "corrigenda": [],
+ "orders": [
+  {
+   "file_number": "NSD557/2016",
+   "parties": [
+    {
+     "name": "DANIEL LAVECKY",
+     "role": "First Applicant"
+    },
+    {
+     "name": "SUNIL SHARMA",
+     "role": "Second Applicant"
+    },
+    {
+     "name": "VISA INC",
+     "role": "First Respondent"
+    },
+    {
+     "name": "VISA WORLDWIDE PTE LTD",
+     "role": "Second Respondent"
+    },
+    {
+     "name": "VISA U.S.A. INC (and others named in the Schedule)",
+     "role": "Third Respondent"
+    }
+   ],
+   "judges": [
+    "PERRAM J"
+   ],
+   "date": "2017-05-08",
+   "date_raw": "8 MAY 2017",
+   "orders": [
+    {
+     "label": "1.",
+     "text": "The Court approves the Applicants making applications for orders under §1782 of Title 28 of the United States Code seeking documents from Global Payments Inc, Jefferies LLC and Atos SE. in substantially the same form as those exhibited to the Affidavit of Jonathan Milner of 9 February 2017 on condition that any such proposed application be served on the Respondents at least 21 days before it is filed in the United States.",
+     "level": 0
+    },
+    {
+     "label": "2.",
+     "text": "Costs of the hearing on 11 April 2017 be costs in the cause.",
+     "level": 0
+    }
+   ],
+   "headings": [
+    "ORDERS",
+    "THE COURT ORDERS THAT:"
+   ],
+   "note": "Note: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011."
+  }
+ ],
+ "reasons": {
+  "preamble": [],
+  "paragraphs": [
+   {
+    "n": 1,
+    "headings": [
+     "1. Introduction"
+    ],
+    "text": "§ 1782 of Title 28 of the United States Code is entitled ‘Assistance to foreign and international tribunals and to litigants before such tribunals’. Amongst other things, § 1782 authorises the District Court for a federal district to order a person who resides in that district, or is there to be ‘found’, to give testimony; or a statement; or to produce documents for use in a foreign proceeding. The Applicants intend to apply under § 1782 to the District Court for the Southern District of New York for orders that three entities relevant to the present proceedings produce documents to assist them in the conduct of the litigation before this Court; however, they have not yet so applied.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 2,
+    "headings": [
+     "1. Introduction"
+    ],
+    "text": "The three entities are a French entity, Atos SE (‘Atos’) (which was formerly known as Atos Origin SA during the times material to the Applicants’ proceeding in this Court), Jefferies LLC (‘Jefferies’) (formerly known as Jefferies & Company, Inc) and Global Payments Inc (‘Global Payments’). Before applying, the Applicants have first applied to this Court for an indication that it endorses the Applicants in making those applications. For the reasons which follow, it is appropriate that this Court endorse the making of the applications. Costs of the hearing on 11 April 2017 will be costs in the cause.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 3,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "The Applicants are former directors and shareholders of Pure Commerce Pty Ltd (‘Pure Commerce’). Mr Daniel Lavecky, the First Applicant, was also its founder. At all relevant times, Pure Commerce provided currency conversion services to participants in international payment card networks, including the payment card network operated by Visa Inc and its related entities (compendiously, ‘Visa’).",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 4,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "Starting in 2010, various regulators around the world commenced investigations into alleged anti-competitive conduct by Visa, in which it was said that Visa had sought to restrict the ability of companies such as Pure Commerce to provide currency conversion services to participants in Visa’s payment card network. In 2013, the Australian Competition and Consumer Commission commenced a lawsuit against Visa. The lawsuit resulted in a settlement in which Visa admitted that some of its alleged conduct had violated the anti-trust provisions of the Competition and Consumer Act 2010 (Cth) and was required to pay a monetary penalty of $18 million imposed by this Court: see Australian Competition and Consumer Commission v Visa Inc [2015] FCA 1020; (2015) 339 ALR 413.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 5,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "In April 2016, the Applicants commenced these proceedings against the Respondents. They claim that at the time of the Respondents’ allegedly anticompetitive conduct in 2010, they were in advanced negotiations to sell their shares in Pure Commerce to at least two interested parties. They allege that as a result of the Respondents’ conduct, the proposed sale was derailed and that it was not until January 2013 that they were finally able to sell their interests in Pure Commerce. In consequence, they claim to have lost the opportunity to sell their shares in Pure Commerce in 2010 at a higher price than that which they ultimately went on to receive in January 2013. It is, therefore, a lost opportunity case.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 6,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "The present dispute before the Court arises because the Applicants wish to apply under § 1782 to have Jefferies, Atos and Global Payments produce documents to assist in the prosecution of that case.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 7,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "Towards the end of 2009, Jefferies was engaged as Pure Commerce’s financial advisor in relation to a potential sale of the shares in the company. Jefferies is alleged by the Applicants to have provided valuations for the Pure Commerce business; to have identified a list of potential purchasers for Pure Commerce; and to have had extensive contact with those prospective purchasers.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 8,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "Atos is alleged by the Applicants to have been one of the two parties interested in purchasing the shares in Pure Commerce in 2010. By April 2010, the Applicants say that Atos had conducted a substantial due diligence of the Pure Commerce business and had expressed an interest in purchasing the shares in Pure Commerce.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 9,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "Global Payments is alleged by the Applicants to have been the other party interested in purchasing the shares in Pure Commerce in 2010. By April 2010, the Applicants say that, like Atos, Global Payments had also conducted a substantial due diligence of the Pure Commerce business and had expressed an interest in purchasing the shares in Pure Commerce.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 10,
+    "headings": [
+     "2. Facts"
+    ],
+    "text": "The Applicants propose to seek documents from these corporations to buttress their lost opportunity case, using the procedure in § 1782.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 11,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "In a number of cases, this Court (and other superior State courts) have restrained the taking of depositions in the United States either under § 1782 or as an aspect of proceedings in the United States which this Court has perceived to be ancillary or subordinate to proceedings in this Court: see Sentry Corporation v Peat Marwick Mitchell & Co [1990] FCA 278; (1990) 24 FCR 463 (‘Sentry Corporation’); Allstate Life Insurance Co v Australia and New Zealand Banking Group Ltd (No 4) [1996] FCA 1270; (1996) 64 FCR 61; Pathway Investments Pty Ltd v National Australia Bank Ltd (No 2) [2012] VSC 495 (‘Pathway Investments’); Jones v Treasury Wine Estates Ltd [2016] FCAFC 59; (2016) 241 FCR 111 (‘Treasury Wine’). The jurisdictional bases on which these anti-suit injunctions rest has varied over time, sometimes being expressed as equitable in nature, and at other times as an aspect of the Court’s ability to restrain contempts or abuses of its own processes. More recently in Treasury Wine, the Full Court of this Court has suggested that the jurisdiction to grant such an injunction may also be connected to s 37M of the Federal Court of Australia Act 1976 (Cth) (‘the FCAA’) as an example of the Court’s ability to vindicate its own case management procedures.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 12,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "This case is not, of course, about the taking of depositions under § 1782 or even about anti-suit injunctions. Instead, all that the Applicants presently propose is to seek the production of documents from Atos, Jefferies and Global Payments who are alleged by the Applicants to reside in New York or there to be ‘found’ within the meaning of § 1782.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 13,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "An important aspect of the reasoning in Treasury Wine was the centrality of this Court’s role, by means of case management, to bring about the timely and efficient dispatch of the litigation in its docket. In Treasury Wine, that centrality was found to have been threatened by the proposed deployment of a procedure alien to, but not beyond the power of, this Court’s ordinary processes. This was the seeking of depositions. Its centrality was also threatened by the pursuit of that same course without first informing this Court of what was proposed: see Treasury Wine at 118 [47].",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 14,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "To head off any application by the Respondents for a similar anti-suit injunction to that obtained in Treasury Wine, the Applicants now ask the Court to endorse in advance their three proposed applications under § 1782. In doing so, they accept this Court’s endorsement may be subject to conditions. If this Court were to decline to give its endorsement, and the Applicants nevertheless approached the District Court for ex parte relief under § 1782, the result would most likely be the grant by this Court of an anti-suit injunction on the Treasury Wine basis; that is to say, as a vindication of this Court’s case management role under s 37M(1) of the FCAA (‘The overarching purpose of the civil practice and procedure provisions is to facilitate the just resolution of disputes: (a) according to law; and (b) as quickly, inexpensively and efficiently as possible.’). So too, if this Court endorsed the applications under § 1782 but granted that endorsement subject to conditions which were subsequently contravened by the Applicants, a similar result might reasonably be expected to ensue.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 15,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "Consequently, by bringing this application for endorsement the Applicants have acknowledged, and do not seek to flout, this Court’s role in managing the litigation before it. In that way, this case differs significantly from Treasury Wine - where the applicant had sought ex parte relief under § 1782 without notifying the docket judge in this Court that it was going to do so. Another material difference from Treasury Wine is the context in which the application in that case took place, viz, a class action suit which the Full Court acknowledged assumed particular significance from a case management perspective: see Treasury Wine at 116 [30] and 117 [39]. The most significant difference from the position of the parties in Treasury Wine is that the Applicants here do not seek the taking of depositions which Australian courts do not presently favour.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 16,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "So far as the researches of counsel were able to show, there does not appear to have been a case where a party contemplating seeking discovery under § 1782 in the United States has first approached this Court for endorsement of the application. That such an application might be made was, however, explicitly adverted to in Treasury Wine at 118 [47] and in Pathway Investments at [6]. The question therefore arises: what principles should guide the granting of such an endorsement? The Respondents relied upon a passage in Treasury Wine at 118-19 [48] where the Full Court, apparently in speaking of an application for endorsement, said:\n‘It is neither necessary nor helpful to hypothesise upon the circumstances which might warrant such endorsement. We would expect them to be exceptional.’",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 17,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "There is a certain tension between these two sentences. I read the Full Court’s observation as limited to an application for endorsement of a §1782 application for depositions. I would note that, even read that way, it is an obiter dictum since no such application was before the Court. In any event, the passage does not assist the Respondents on this endorsement application which is not for depositions.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 18,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "Because the Full Court related the authority to issue an anti-suit injunction in cases analogous to the present to, inter alia, s 37M, it follows that endorsement will generally be granted on ordinary case management principles; that is to say, given the circumstances of this case, would it be useful from a case management perspective to permit the Applicants to apply for the documents they wish to obtain in the Southern District? If so, what conditions should be imposed?",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 19,
+    "headings": [
+     "3. The applicable principles of law"
+    ],
+    "text": "Whilst it is unwise to be definitive about these matters in advance, the following matters are likely to be germane to a consideration of whether to endorse an application made under procedures such as § 1782:\n(1) What is the importance of the material to be sought under the procedure to the applicant’s case?\n(2) Are there other methods available for obtaining it?\n(3) Does the material sought impinge upon or undermine some important procedural limitation in this jurisdiction such as, for example, the unwillingness of the Court to permit fishing expeditions or, perhaps, the general unwillingness of this Court to order depositions?\n(4) What is the cost involved in the process for the parties before this Court?\n(5) Is that cost a proportionate burden having regard to the significance of the material?\n(6) Is the proposed proceeding under § 1782 in the District Court frivolous or obviously doomed to fail?\n(7) How long might the applications take to resolve and what impact might they have upon the timely preparation of the matter before this Court for trial?\n(8) Is there any need to impose conditions upon the endorsement so as to address any issues arising from (1)-(7) above?",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 20,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "A consideration of these matters suggests that in this case approval should be granted subject to a minor condition.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 21,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "The material sought from the Southern District is important material for the disposition of the proceeding before this Court. The Applicants’ primary claim for loss and damage appears at paragraphs [170]-[181] of the Further Amended Statement of Claim (‘the FASOC’) under the heading ‘Damages and Causation: Loss of Specific Opportunities in 2010’. There are three cases pleaded further and in the alternative to the claims pleaded in the paragraphs above. Those are pursued at paragraphs [182]-[192] of the FASOC; but the primary case remains the case pleaded at paragraphs [170]-[181]. Those paragraphs are as follows:\nDamages and Causation: Loss of Specific Opportunities in April 2010\n170 From no later than September 2009, Daniel Lavecky and Sunil Sharma (and the other shareholder in Pure Commerce, Holdings and PCL) (Prospective Vendors and Applicants) had as an objective to enter into a transaction with an acquirer involving the sale of all, or a substantial portion, of the Prospective Vendors’ shares in Pure Commerce (and/or Holdings and PCL) for:\n(i) cash; and/or\n(ii) valuable stock issued by the acquiring company.\n(the Contemplated Transaction)\n171 On or around 11 September 2009, Holdings engaged Jefferies & Co lnc, an investment bank (Jefferies), as a financial advisor in relation to a possible transaction involving the shares or assets of Pure Commerce or its related entities (Jefferies Engagement).\n172 From around September 2009 onwards, pursuant to the Jefferies Engagement, Jefferies (in collaboration with the management of Pure Commerce) engaged in a process of:\n(a) identifying companies who may be interested in acquiring Pure Commerce and/or its related entities (Prospective Acquirers); and\n(b) communicating with the Prospective Acquirers, including by the making of presentations to the Prospective Acquirers.\n173 By April 2010 the list of Prospective Acquirers had been narrowed to a list of two Prospective Acquirers.\n174 By late-April 2010 representatives of each of the two Prospective Acquirers had each separately stated that they intended to make some form of an acquisition offer in relation to Pure Commerce (Two Potential Acquirers) and the Contemplated Transaction with one of them had a material prospect of taking place.\nParticulars\nParticulars of likely acquirers and expression of interest\nTo be disclosed subject to a confidentiality regime being agreed.\n175 In the premises, by April 2010, the Prospective Vendors had a valuable opportunity to enter into the Contemplated Transaction (Valuable Opportunity) with:\n(a) one of the Two Potential Acquirers; and/or\n(b) another (as yet unknown) acquirer, from among the Prospective Acquirers.\n176 Each of the Two Potential Acquirers learned, by early May 2010, of the substance of the changes to the VIOR in Australia and/or elsewhere, either:\n(a) by being notified by Pure Commerce itself; and/or\n(b) by independently acquiring knowledge of the VIOR changes.\n177 Due to the Part IV Infringements:\n(a) each of the Two Potential Acquirers learned of the changes to the VIOR.\n(b) it can be inferred that each of the Two Potential Acquirers revised and downgraded their view about the prospects of the Pure Commerce DCC Business.\n(c) each of the Two Potential Acquirers ceased expressing any interest making an offer to acquire the shares in Pure Commerce.\n(d) neither of the Two Potential Acquirers made an offer to the Prospective Vendors to acquire the shares in Pure Commerce.\n178. In the premises, the Valuable Opportunity was lost due to Visa Group’s Conduct (Loss of Opportunity).\n179 On or around 4 January 2013, Daniel Lavecky, Sunil Sharma and Cibalis Pty Limited (together, the 2013 Vendors) entered into an agreement under which they sold their shares in Pure Commerce to epay Australia Holdings Pty Limited (Share Sale Agreement).\nParticulars\nParticulars of Share Sale Agreement\nParticulars of the Share Sale Agreement will be provided after a confidentiality regime is entered into.\n180 The value to the 2013 Vendors of their consideration under the Share Sale Agreement was lower than the value (adjusted to account for the time-value of funds from 2010) of the price and terms they would have obtained in 2010, in the absence of the Loss of Opportunity (Loss of Opportunity Difference).\n181 The Loss of Opportunity Difference is damage or loss within the meaning of s.82 of the Act.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 22,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "It will be seen that a central part of the case on damages is the allegation in paragraph 174 that the two prospective acquirers (Atos and Global Payments) had stated that they intended to make some form of acquisition offer. It will also be seen that the pleading suggests that particulars for this allegation will be forthcoming upon the agreement of an appropriate confidentiality regime. Apparently, this has not proved to be so and no such particulars have yet been provided.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 23,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "Nevertheless, on the application before this Court, the solicitor for the Applicants, Mr Milner, gave evidence on information and belief (based on discussions he had had with the First Applicant, Mr Lavecky) as to what took place in relation to the allegation in paragraph 174. That evidence was to the following effect:\na) In November 2009, Jefferies was engaged as Pure Commerce’s financial advisor in relation to a potential sale transaction.\nb) By January 2010, Jefferies had identified a list of potential purchasers that it proposed to contact, and communicated that list to Pure Commerce.\nc) By 22 January 2010, several potential purchasers had signed possible negotiated transaction non-disclosure agreements and had been provided with access to confidential information such as management presentations, historical financials and financial forecasts. Atos was one of the parties which had signed such an agreement.\nd) As of 2 March 2010, the two parties that were most advanced in the sale process were Atos and Global Payments.\ne) The Applicants made a presentation to senior executives of Global Payments on or about 26 January 2010 in Atlanta, and to senior executives of Atos in early February 2010.\nf) Between 9 and 11 February 2010, Sidharth Singh of Global Payments and Mr Lavecky exchanged emails about a proposed pilot program to be established between Global Payments and Pure Commerce as part of Global Payments’ due diligence.\ng) Between February 2010 and April 2010, Pure Commerce, on the one hand, and Atos and Global Payments, on the other, exchanged correspondence in relation to a number of due diligence queries.\nh) In March 2010, in response to further due diligence questions from Global Payments, the Applicants provided it with further information via a telephone call.\ni) Atos asked additional due diligence questions in April 2010, which were answered by way of a presentation made to it by the Applicants in Belgium.\nj) A final due diligence call with Atos was held on 29 April 2010. The attendees from Atos included Dirk de Cock (CEO of Atos Worldline in Belgium), Nicholas Maldan (Director of M&A at Atos), and Patrick Byron (who held a senior M&A related role at Atos at that time).\nk) Mr Lavecky recalls that one or more representatives of Atos said words to the following effect during the 29 April 2010 call:\n‘We will come back to you with an offer.’",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 24,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "Accepting this evidence for the purposes of the present application, it is reasonably arguable that there would exist documentation within Atos, Jefferies, and Global Payments reflecting the existence of these communications. Indeed, Mr Milner’s evidence explicitly refers to the existence of such documents at (b) and (g) above. Further, Mr Milner’s evidence establishes the existence of a case to be tried that Atos and Global Payments were on the cusp of deciding to make the acquisition in Pure Commerce. The Respondents’ submission that Mr Milner’s evidence is somehow to be discounted because it is hearsay has little traction in an interlocutory debate such as the present.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 25,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "The proposed application under § 1782 is not, therefore, a stab in the dark hoping to connect with some unknown target, but rather a directed strike at a perceived and visible forensic reality. Further, the material in question will be important to the outcome of the trial for, if available, it will provide documentary corroboration for what are at the moment largely uncorroborated assertions by way of proposed oral testimony. It is correct to say, therefore, that the material sought under the § 1782 procedure is likely to be significant for the outcome of the trial in this Court. It will follow, contrary to the submissions of the Respondents, that the Applicants are not engaged in what the authorities sometimes refer to as a fishing expedition: cf. Associated Dominions Assurance Society Pty Ltd v John Fairfax & Sons Pty Ltd (1955) 72 WN (NSW) 250 at 254 per Owen J. Here, Mr Milner’s evidence clearly shows that this pond has fish in it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 26,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "Further, not only is this material potentially important for the outcome of this litigation, but there appears to be no other way that it can be brought before this Court. None of Jefferies, Atos or Global Payments are located within Australia. It was not suggested by the Respondents that a subpoena might be issued to them out of this Court or that this Court’s third party discovery procedure in Rule 20.23 of the Federal Court Rules 2011 (Cth) (‘FCR’) might be utilised against parties not resident within the jurisdiction.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 27,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "In fact, the procedure in FCR 20.23 is also important to the present application for a different reason. It shows that seeking discovery of documents from a third party, unlike the seeking of depositions, is not alien to the processes of this Court. FCR 20.23 provides:\n20.23 Discovery from non-party\n(1) If a party believes that a person who is not a party has or is likely to have, or has had or is likely to have had, in the person’s control, documents that are directly relevant to an issue raised on the pleadings or affidavits, the party may apply to the Court for an order that the person make discovery of the documents to the party.\n(2) An application under this rule must:\n(a) be served personally on the person; and\n(b) be accompanied by an affidavit:\n(i) stating the facts on which the applicant relies; and\n(ii) identifying, as precisely as possible, the documents, or categories of documents to which the application relates.\n(3) A copy of the accompanying affidavit for an application must be served on each person on whom the application is served.\n(4) In subrule (1), a reference to an affidavit is a reference to:\n(a) an affidavit accompanying an originating application; and\n(b) an affidavit in response to the affidavit accompanying the originating application.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 28,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "What the Applicants therefore propose in the District Court has an analogy with procedures which this Court could, in its discretion, make available in the case of Jefferies, Atos and Global Payments, if they were situated in this jurisdiction. In that regard, the current case differs from Treasury Wine - and other cases under § 1782 dealing with depositions - where efforts were made to use § 1782 to achieve a procedural outcome against which this Court, thus far, has turned its face. The Full Court appeared to be somewhat hostile to the idea of this Court permitting the seeking of depositions under § 1782 or at least doing so in circumstances which were not exceptional: see 118-19 [48]. Those statements were, as I have already observed, in obiter. There is at present no such application before this Court and hence no occasion for me to consider the matter either. I would note, however, that the House of Lords did permit such a course under § 1782 in South Carolina Insurance Company v Assurantie Maatschappij De Zeven Provincien NV [1987] AC 24.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 29,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "A hurdle that the Applicants face in relation to Atos is that it is unclear which of the many members of the worldwide Atos group is the entity which would have possession, custody or control of the documents in question. This is, it should be noted, not a problem in the case of Jefferies and Global Payments in respect of which there was no suggestion by the Respondents that they were not within the reach of § 1782.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 30,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "Atos itself is the holding company for the Atos group. With any large group, such as the Atos group, it is possible that there may be some documents in the possession, custody or control of individual group members. It is also possible that the electronic document management system for the group is provided, within the group, by a single entity to the other entities. So too, it is impossible to know in advance just precisely how this group operates across international borders. The Applicants’ proposed joinder of the holding company reflects an assumption – or perhaps even a gamble – that the holding company will have sufficient legal authority to instruct its subsidiaries as to document production. In fact, there are two gambles concealed in this position. The first is that being a parent company of a subsidiary will be sufficient for the purposes of US law to enliven § 1782. The second is that by selecting the holding company for the group, the Applicants will succeed in persuading the District Court that the holding company is resident in the Southern District or there to be ‘found’ within the meaning of § 1782.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 31,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "It was urged upon this Court by the Respondents that I should conclude that the Applicants would fail on these issues before the District Court and that this was a good reason to decline to grant this Court’s permission to make such an application which, on this view, would be doomed.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 32,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "This submission should be measured against the requirements of case management. It is by no means obvious that Atos will necessarily wish to ventilate these issues before the District Court. Not being enmeshed in this litigation, it may be willing to produce the material without complaint. Furthermore, there is much to be said for the view that the District Court is better qualified to express views about the operation of § 1782 than this Court is. In that regard, both sides elicited extensive expert evidence about the intricacies of US federal procedure on the present application. I do not think that this Court should enter that fray. Beyond satisfying itself that what proposed is not obviously a waste of time, this Court should not spend any of its time on that topic.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 33,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "It would need to be strikingly obvious that an application such as the present was not permitted under foreign law, before this Court would consider working out the procedural law of foreign courts which are much better placed to do so. The material before this Court about the operation of § 1782 as a matter of US federal law did not begin to approach that kind of standard. Further, factual issues such as where Atos is ‘found’, how its group is structured and operates on a transnational basis, or how the group’s documents are managed across international borders, are ones on which it might reasonably be expected that the evidence of Atos would throw some light. If Atos decides to oppose the application, presumably it may put that kind of material before the District Court - if there is anything in the point. That evidence would be a much more reliable way of working out the § 1782 issues than via the through-a-glass-darkly approach adopted on the present application. Again, this points to the instrumental advantages the District Court has over this Court on these issues. Analogous reasoning disposes of the Respondents’ further contention that the § 1782 application in relation to Atos will subvert French procedural law. In any event, the evidence before this Court on the content of French law was essentially non-existent.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 34,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "There is no question that the procedure being adopted is going to be expensive for the Applicants and perhaps for Atos, Jefferies and Global Payments. So far as the Applicants are concerned, they are not troubled by this expense (or, perhaps more accurately, not sufficiently troubled not to pursue the procedure). The expense to Atos, Jefferies and Global Payments is not an expense in the proceedings before me and therefore does not directly have an impact on the parties to the litigation in this Court, although the inconvenience to them is something this Court should acknowledge. Notwithstanding the expense that will be involved, I am satisfied given the significant and complex nature of the case that the invocation of the § 1782 procedure is a proportionate response to the problems faced by the Applicants.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 35,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "The position of the Respondents is more complex. They have signalled a desire to be as actively involved as possible in the Applicants’ applications under § 1782. Indeed, they seek to have this Court impose requirements upon the Applicants, inter alia, that they consent in the proceedings in the District Court to the Respondents’ participation in those proceedings. I can see no reason why this Court should do that. In terms of the management of these proceedings, I perceive no need for the Respondents to be involved in the § 1782 proceedings which are between the Applicants and the three parties against whom it wishes to apply. Whether the District Court wishes to hear from the Respondents on those applications is a matter for it and it would be discourteous for this Court indirectly to influence how the District Court wishes to conduct the litigation before it.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 36,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "It is not necessary for this Court in the management of the proceedings before it to have any position on that issue. It follows that the costs that the Respondents may incur in relation to the § 1782 procedure will be to their own account.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 37,
+    "headings": [
+     "3. Consideration"
+    ],
+    "text": "There is no doubt that the utilisation of the § 1782 procedure is likely to prolong the proceedings in this Court, in the sense that I expect that once it is under way it may take some time to resolve. It is true also that if permission were refused this would probably expedite the proceedings to a degree. However, the expeditious hearing of proceedings, whilst very much a worthy aim, is not the sole aim of litigation in this Court. Section 37M of the FCAA also explicitly invokes ‘just’ outcomes. Here I am satisfied that the seeking of the material in question is sufficiently significant to the outcome of the litigation that the delay that its seeking will engender is warranted.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 38,
+    "headings": [
+     "4. Conditions"
+    ],
+    "text": "I turn then to whether I should impose conditions upon the grant of permission. The case management requirements of this Court do not necessitate the involvement of the Respondents in the District Court and I will not require the Applicant to pay the Respondents’ costs of any such foray. The Respondents should, I think, be put in much the same position that they would be if the Applicants were making an application under FCR 20.23 for discovery from a non-party. That rule does not require service of the application on the other parties to the litigation, but the electronic court file means that parties such as the Respondents would be immediately aware of the application having been made (unless it was for some reason subject to a suppression order). The rule also makes no provision for the right of another party to be heard and whether that is a useful course would generally be for the judge hearing the application to determine based on the circumstances of the particular case. In this case, the only condition that should be imposed is that the Applicants provide the Respondents with the proposed application and any material in support at least 21 days before its filing in the District Court. This will put them in a similar position to that which would have existed by reason of the electronic court file if an application under FCR 20.23 had been made.",
+    "judge": "PERRAM J"
+   },
+   {
+    "n": 39,
+    "headings": [
+     "5. Conclusion"
+    ],
+    "text": "I will make the following orders:\n(1) The Court approves the Applicants making applications for orders under §1782 of Title 28 of the United States Code seeking documents from Global Payments Inc, Jefferies LLC and Atos SE. in substantially the same form as those exhibited to the Affidavit of Jonathan Milner of 9 February 2017 on condition that any such proposed application be served on the Respondents at least 21 days before it is filed in the United States.\n(2) Costs of the hearing on 11 April 2017 be costs in the cause.",
+    "judge": "PERRAM J"
+   }
+  ]
+ },
+ "certificate": "I certify that the preceding thirty-nine (39) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.",
+ "associate": null,
+ "dated": "2017-05-08",
+ "schedules": [
+  {
+   "title": "SCHEDULE OF PARTIES",
+   "text": "NSD 557 of 2016\nRespondents\nFourth Respondent: | VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564)\nFifth Respondent: | VISA INTERNATIONAL SERVICE ASSOCIATION"
+  }
+ ],
+ "footnotes": [],
+ "warnings": [],
+ "text": "# Lavecky v Visa Inc [2017] FCA 454\n\n## Cover sheet\n\n**File number(s):** NSD 557 of 2016\n\n**Judge(s):** PERRAM J\n\n**Date of judgment:** 8 May 2017\n\n**Catchwords:** PRACTICE AND PROCEDURE – application for Court endorsement of proposed § 1782 applications under Title 28 of the United States Code – principles of case management – whether application a fishing expedition – whether Court should exercise discretion to endorse application to be filed in foreign jurisdiction\n\n**Legislation:** Evidence Act 1995 (Cth) s 75  \nFederal Court of Australia Act 1976 (Cth) ss 37M, 37M(1)  \nFederal Court Rules 2011 (Cth) r 20.23  \nUnited States Code (US) Title 28 § 1782\n\n**Cases cited:** Allstate Life Insurance Co v Australia and New Zealand Banking Group Ltd (No 4) [1996] FCA 1270; (1996) 64 FCR 61  \nAssociated Dominions Assurance Society Pty Ltd v John Fairfax & Sons Pty Ltd (1955) 72 WN (NSW) 250  \nAustralian Competition and Consumer Commission v Visa Inc [2015] FCA 1020; (2015) 339 ALR 413  \nJones v Treasury Wine Estates Ltd [2016] FCAFC 59; (2016) 241 FCR 111  \nPathway Investments Pty Ltd v National Australia Bank Ltd (No 2) [2012] VSC 495  \nSentry Corporation v Peat Marwick Mitchell & Co [1990] FCA 278; (1990) 24 FCR 463  \nSouth Carolina Insurance Company v Assurantie Maatschappij De Zeven Provincien NV [1987] AC 24\n\n**Date of hearing:** 11 April 2017\n\n**Registry:** New South Wales\n\n**Division:** General Division\n\n**National Practice Area:** Commercial and Corporations\n\n**Sub-area:** Economic Regulator, Competition and Access\n\n**Category:** Catchwords\n\n**Number of paragraphs:** 39\n\n**Counsel for the Applicants:** Dr A Bell SC with Mr T Maltz\n\n**Solicitor for the Applicants:** Arnold Bloch Leibler\n\n**Counsel for the Respondents:** Mr J Karkar QC with Mr D Roche\n\n**Solicitor for the Respondents:** Herbert Smith Freehills\n\n## Judgment\n\n### ORDERS\n\n|  | NSD 557 of 2016 |\n|---|---|\n| BETWEEN: | DANIEL LAVECKY<br>First Applicant<br>SUNIL SHARMA<br>Second Applicant |\n| AND: | VISA INC<br>First Respondent<br>VISA WORLDWIDE PTE LTD<br>Second Respondent<br>VISA U.S.A. INC (and others named in the Schedule)<br>Third Respondent |\n\n| JUDGE: | PERRAM J |\n|---|---|\n| DATE OF ORDER: | 8 MAY 2017 |\n\n### THE COURT ORDERS THAT:\n\n1. The Court approves the Applicants making applications for orders under §1782 of Title 28 of the United States Code seeking documents from Global Payments Inc, Jefferies LLC and Atos SE. in substantially the same form as those exhibited to the Affidavit of Jonathan Milner of 9 February 2017 on condition that any such proposed application be served on the Respondents at least 21 days before it is filed in the United States.\n\n2. Costs of the hearing on 11 April 2017 be costs in the cause.\n\nNote: Entry of orders is dealt with in Rule 39.32 of the Federal Court Rules 2011.\n\n### REASONS FOR JUDGMENT\n\n### PERRAM J:\n\n#### 1. Introduction\n\n[1] § 1782 of Title 28 of the United States Code is entitled ‘Assistance to foreign and international tribunals and to litigants before such tribunals’. Amongst other things, § 1782 authorises the District Court for a federal district to order a person who resides in that district, or is there to be ‘found’, to give testimony; or a statement; or to produce documents for use in a foreign proceeding. The Applicants intend to apply under § 1782 to the District Court for the Southern District of New York for orders that three entities relevant to the present proceedings produce documents to assist them in the conduct of the litigation before this Court; however, they have not yet so applied.\n\n[2] The three entities are a French entity, Atos SE (‘Atos’) (which was formerly known as Atos Origin SA during the times material to the Applicants’ proceeding in this Court), Jefferies LLC (‘Jefferies’) (formerly known as Jefferies & Company, Inc) and Global Payments Inc (‘Global Payments’). Before applying, the Applicants have first applied to this Court for an indication that it endorses the Applicants in making those applications. For the reasons which follow, it is appropriate that this Court endorse the making of the applications. Costs of the hearing on 11 April 2017 will be costs in the cause.\n\n#### 2. Facts\n\n[3] The Applicants are former directors and shareholders of Pure Commerce Pty Ltd (‘Pure Commerce’). Mr Daniel Lavecky, the First Applicant, was also its founder. At all relevant times, Pure Commerce provided currency conversion services to participants in international payment card networks, including the payment card network operated by Visa Inc and its related entities (compendiously, ‘Visa’).\n\n[4] Starting in 2010, various regulators around the world commenced investigations into alleged anti-competitive conduct by Visa, in which it was said that Visa had sought to restrict the ability of companies such as Pure Commerce to provide currency conversion services to participants in Visa’s payment card network. In 2013, the Australian Competition and Consumer Commission commenced a lawsuit against Visa. The lawsuit resulted in a settlement in which Visa admitted that some of its alleged conduct had violated the anti-trust provisions of the Competition and Consumer Act 2010 (Cth) and was required to pay a monetary penalty of $18 million imposed by this Court: see Australian Competition and Consumer Commission v Visa Inc [2015] FCA 1020; (2015) 339 ALR 413.\n\n[5] In April 2016, the Applicants commenced these proceedings against the Respondents. They claim that at the time of the Respondents’ allegedly anticompetitive conduct in 2010, they were in advanced negotiations to sell their shares in Pure Commerce to at least two interested parties. They allege that as a result of the Respondents’ conduct, the proposed sale was derailed and that it was not until January 2013 that they were finally able to sell their interests in Pure Commerce. In consequence, they claim to have lost the opportunity to sell their shares in Pure Commerce in 2010 at a higher price than that which they ultimately went on to receive in January 2013. It is, therefore, a lost opportunity case.\n\n[6] The present dispute before the Court arises because the Applicants wish to apply under § 1782 to have Jefferies, Atos and Global Payments produce documents to assist in the prosecution of that case.\n\n[7] Towards the end of 2009, Jefferies was engaged as Pure Commerce’s financial advisor in relation to a potential sale of the shares in the company. Jefferies is alleged by the Applicants to have provided valuations for the Pure Commerce business; to have identified a list of potential purchasers for Pure Commerce; and to have had extensive contact with those prospective purchasers.\n\n[8] Atos is alleged by the Applicants to have been one of the two parties interested in purchasing the shares in Pure Commerce in 2010. By April 2010, the Applicants say that Atos had conducted a substantial due diligence of the Pure Commerce business and had expressed an interest in purchasing the shares in Pure Commerce.\n\n[9] Global Payments is alleged by the Applicants to have been the other party interested in purchasing the shares in Pure Commerce in 2010. By April 2010, the Applicants say that, like Atos, Global Payments had also conducted a substantial due diligence of the Pure Commerce business and had expressed an interest in purchasing the shares in Pure Commerce.\n\n[10] The Applicants propose to seek documents from these corporations to buttress their lost opportunity case, using the procedure in § 1782.\n\n#### 3. The applicable principles of law\n\n[11] In a number of cases, this Court (and other superior State courts) have restrained the taking of depositions in the United States either under § 1782 or as an aspect of proceedings in the United States which this Court has perceived to be ancillary or subordinate to proceedings in this Court: see Sentry Corporation v Peat Marwick Mitchell & Co [1990] FCA 278; (1990) 24 FCR 463 (‘Sentry Corporation’); Allstate Life Insurance Co v Australia and New Zealand Banking Group Ltd (No 4) [1996] FCA 1270; (1996) 64 FCR 61; Pathway Investments Pty Ltd v National Australia Bank Ltd (No 2) [2012] VSC 495 (‘Pathway Investments’); Jones v Treasury Wine Estates Ltd [2016] FCAFC 59; (2016) 241 FCR 111 (‘Treasury Wine’). The jurisdictional bases on which these anti-suit injunctions rest has varied over time, sometimes being expressed as equitable in nature, and at other times as an aspect of the Court’s ability to restrain contempts or abuses of its own processes. More recently in Treasury Wine, the Full Court of this Court has suggested that the jurisdiction to grant such an injunction may also be connected to s 37M of the Federal Court of Australia Act 1976 (Cth) (‘the FCAA’) as an example of the Court’s ability to vindicate its own case management procedures.\n\n[12] This case is not, of course, about the taking of depositions under § 1782 or even about anti-suit injunctions. Instead, all that the Applicants presently propose is to seek the production of documents from Atos, Jefferies and Global Payments who are alleged by the Applicants to reside in New York or there to be ‘found’ within the meaning of § 1782.\n\n[13] An important aspect of the reasoning in Treasury Wine was the centrality of this Court’s role, by means of case management, to bring about the timely and efficient dispatch of the litigation in its docket. In Treasury Wine, that centrality was found to have been threatened by the proposed deployment of a procedure alien to, but not beyond the power of, this Court’s ordinary processes. This was the seeking of depositions. Its centrality was also threatened by the pursuit of that same course without first informing this Court of what was proposed: see Treasury Wine at 118 [47].\n\n[14] To head off any application by the Respondents for a similar anti-suit injunction to that obtained in Treasury Wine, the Applicants now ask the Court to endorse in advance their three proposed applications under § 1782. In doing so, they accept this Court’s endorsement may be subject to conditions. If this Court were to decline to give its endorsement, and the Applicants nevertheless approached the District Court for ex parte relief under § 1782, the result would most likely be the grant by this Court of an anti-suit injunction on the Treasury Wine basis; that is to say, as a vindication of this Court’s case management role under s 37M(1) of the FCAA (‘The overarching purpose of the civil practice and procedure provisions is to facilitate the just resolution of disputes: (a) according to law; and (b) as quickly, inexpensively and efficiently as possible.’). So too, if this Court endorsed the applications under § 1782 but granted that endorsement subject to conditions which were subsequently contravened by the Applicants, a similar result might reasonably be expected to ensue.\n\n[15] Consequently, by bringing this application for endorsement the Applicants have acknowledged, and do not seek to flout, this Court’s role in managing the litigation before it. In that way, this case differs significantly from Treasury Wine - where the applicant had sought ex parte relief under § 1782 without notifying the docket judge in this Court that it was going to do so. Another material difference from Treasury Wine is the context in which the application in that case took place, viz, a class action suit which the Full Court acknowledged assumed particular significance from a case management perspective: see Treasury Wine at 116 [30] and 117 [39]. The most significant difference from the position of the parties in Treasury Wine is that the Applicants here do not seek the taking of depositions which Australian courts do not presently favour.\n\n[16] So far as the researches of counsel were able to show, there does not appear to have been a case where a party contemplating seeking discovery under § 1782 in the United States has first approached this Court for endorsement of the application. That such an application might be made was, however, explicitly adverted to in Treasury Wine at 118 [47] and in Pathway Investments at [6]. The question therefore arises: what principles should guide the granting of such an endorsement? The Respondents relied upon a passage in Treasury Wine at 118-19 [48] where the Full Court, apparently in speaking of an application for endorsement, said:\n\n> ‘It is neither necessary nor helpful to hypothesise upon the circumstances which might warrant such endorsement. We would expect them to be exceptional.’\n\n[17] There is a certain tension between these two sentences. I read the Full Court’s observation as limited to an application for endorsement of a §1782 application for depositions. I would note that, even read that way, it is an obiter dictum since no such application was before the Court. In any event, the passage does not assist the Respondents on this endorsement application which is not for depositions.\n\n[18] Because the Full Court related the authority to issue an anti-suit injunction in cases analogous to the present to, inter alia, s 37M, it follows that endorsement will generally be granted on ordinary case management principles; that is to say, given the circumstances of this case, would it be useful from a case management perspective to permit the Applicants to apply for the documents they wish to obtain in the Southern District? If so, what conditions should be imposed?\n\n[19] Whilst it is unwise to be definitive about these matters in advance, the following matters are likely to be germane to a consideration of whether to endorse an application made under procedures such as § 1782:\n\n(1) What is the importance of the material to be sought under the procedure to the applicant’s case?\n\n(2) Are there other methods available for obtaining it?\n\n(3) Does the material sought impinge upon or undermine some important procedural limitation in this jurisdiction such as, for example, the unwillingness of the Court to permit fishing expeditions or, perhaps, the general unwillingness of this Court to order depositions?\n\n(4) What is the cost involved in the process for the parties before this Court?\n\n(5) Is that cost a proportionate burden having regard to the significance of the material?\n\n(6) Is the proposed proceeding under § 1782 in the District Court frivolous or obviously doomed to fail?\n\n(7) How long might the applications take to resolve and what impact might they have upon the timely preparation of the matter before this Court for trial?\n\n(8) Is there any need to impose conditions upon the endorsement so as to address any issues arising from (1)-(7) above?\n\n#### 3. Consideration\n\n[20] A consideration of these matters suggests that in this case approval should be granted subject to a minor condition.\n\n[21] The material sought from the Southern District is important material for the disposition of the proceeding before this Court. The Applicants’ primary claim for loss and damage appears at paragraphs [170]-[181] of the Further Amended Statement of Claim (‘the FASOC’) under the heading ‘Damages and Causation: Loss of Specific Opportunities in 2010’. There are three cases pleaded further and in the alternative to the claims pleaded in the paragraphs above. Those are pursued at paragraphs [182]-[192] of the FASOC; but the primary case remains the case pleaded at paragraphs [170]-[181]. Those paragraphs are as follows:\n\n> Damages and Causation: Loss of Specific Opportunities in April 2010\n\n> 170 From no later than September 2009, Daniel Lavecky and Sunil Sharma (and the other shareholder in Pure Commerce, Holdings and PCL) (Prospective Vendors and Applicants) had as an objective to enter into a transaction with an acquirer involving the sale of all, or a substantial portion, of the Prospective Vendors’ shares in Pure Commerce (and/or Holdings and PCL) for:\n\n> (i) cash; and/or\n\n> (ii) valuable stock issued by the acquiring company.\n\n> (the Contemplated Transaction)\n\n> 171 On or around 11 September 2009, Holdings engaged Jefferies & Co lnc, an investment bank (Jefferies), as a financial advisor in relation to a possible transaction involving the shares or assets of Pure Commerce or its related entities (Jefferies Engagement).\n\n> 172 From around September 2009 onwards, pursuant to the Jefferies Engagement, Jefferies (in collaboration with the management of Pure Commerce) engaged in a process of:\n\n> (a) identifying companies who may be interested in acquiring Pure Commerce and/or its related entities (Prospective Acquirers); and\n\n> (b) communicating with the Prospective Acquirers, including by the making of presentations to the Prospective Acquirers.\n\n> 173 By April 2010 the list of Prospective Acquirers had been narrowed to a list of two Prospective Acquirers.\n\n> 174 By late-April 2010 representatives of each of the two Prospective Acquirers had each separately stated that they intended to make some form of an acquisition offer in relation to Pure Commerce (Two Potential Acquirers) and the Contemplated Transaction with one of them had a material prospect of taking place.\n\n> Particulars\n\n> Particulars of likely acquirers and expression of interest\n\n> To be disclosed subject to a confidentiality regime being agreed.\n\n> 175 In the premises, by April 2010, the Prospective Vendors had a valuable opportunity to enter into the Contemplated Transaction (Valuable Opportunity) with:\n\n> (a) one of the Two Potential Acquirers; and/or\n\n> (b) another (as yet unknown) acquirer, from among the Prospective Acquirers.\n\n> 176 Each of the Two Potential Acquirers learned, by early May 2010, of the substance of the changes to the VIOR in Australia and/or elsewhere, either:\n\n> (a) by being notified by Pure Commerce itself; and/or\n\n> (b) by independently acquiring knowledge of the VIOR changes.\n\n> 177 Due to the Part IV Infringements:\n\n> (a) each of the Two Potential Acquirers learned of the changes to the VIOR.\n\n> (b) it can be inferred that each of the Two Potential Acquirers revised and downgraded their view about the prospects of the Pure Commerce DCC Business.\n\n> (c) each of the Two Potential Acquirers ceased expressing any interest making an offer to acquire the shares in Pure Commerce.\n\n> (d) neither of the Two Potential Acquirers made an offer to the Prospective Vendors to acquire the shares in Pure Commerce.\n\n> 178. In the premises, the Valuable Opportunity was lost due to Visa Group’s Conduct (Loss of Opportunity).\n\n> 179 On or around 4 January 2013, Daniel Lavecky, Sunil Sharma and Cibalis Pty Limited (together, the 2013 Vendors) entered into an agreement under which they sold their shares in Pure Commerce to epay Australia Holdings Pty Limited (Share Sale Agreement).\n\n> Particulars\n\n> Particulars of Share Sale Agreement\n\n> Particulars of the Share Sale Agreement will be provided after a confidentiality regime is entered into.\n\n> 180 The value to the 2013 Vendors of their consideration under the Share Sale Agreement was lower than the value (adjusted to account for the time-value of funds from 2010) of the price and terms they would have obtained in 2010, in the absence of the Loss of Opportunity (Loss of Opportunity Difference).\n\n> 181 The Loss of Opportunity Difference is damage or loss within the meaning of s.82 of the Act.\n\n[22] It will be seen that a central part of the case on damages is the allegation in paragraph 174 that the two prospective acquirers (Atos and Global Payments) had stated that they intended to make some form of acquisition offer. It will also be seen that the pleading suggests that particulars for this allegation will be forthcoming upon the agreement of an appropriate confidentiality regime. Apparently, this has not proved to be so and no such particulars have yet been provided.\n\n[23] Nevertheless, on the application before this Court, the solicitor for the Applicants, Mr Milner, gave evidence on information and belief (based on discussions he had had with the First Applicant, Mr Lavecky) as to what took place in relation to the allegation in paragraph 174. That evidence was to the following effect:\n\na) In November 2009, Jefferies was engaged as Pure Commerce’s financial advisor in relation to a potential sale transaction.\n\nb) By January 2010, Jefferies had identified a list of potential purchasers that it proposed to contact, and communicated that list to Pure Commerce.\n\nc) By 22 January 2010, several potential purchasers had signed possible negotiated transaction non-disclosure agreements and had been provided with access to confidential information such as management presentations, historical financials and financial forecasts. Atos was one of the parties which had signed such an agreement.\n\nd) As of 2 March 2010, the two parties that were most advanced in the sale process were Atos and Global Payments.\n\ne) The Applicants made a presentation to senior executives of Global Payments on or about 26 January 2010 in Atlanta, and to senior executives of Atos in early February 2010.\n\nf) Between 9 and 11 February 2010, Sidharth Singh of Global Payments and Mr Lavecky exchanged emails about a proposed pilot program to be established between Global Payments and Pure Commerce as part of Global Payments’ due diligence.\n\ng) Between February 2010 and April 2010, Pure Commerce, on the one hand, and Atos and Global Payments, on the other, exchanged correspondence in relation to a number of due diligence queries.\n\nh) In March 2010, in response to further due diligence questions from Global Payments, the Applicants provided it with further information via a telephone call.\n\ni) Atos asked additional due diligence questions in April 2010, which were answered by way of a presentation made to it by the Applicants in Belgium.\n\nj) A final due diligence call with Atos was held on 29 April 2010. The attendees from Atos included Dirk de Cock (CEO of Atos Worldline in Belgium), Nicholas Maldan (Director of M&A at Atos), and Patrick Byron (who held a senior M&A related role at Atos at that time).\n\nk) Mr Lavecky recalls that one or more representatives of Atos said words to the following effect during the 29 April 2010 call:\n\n‘We will come back to you with an offer.’\n\n[24] Accepting this evidence for the purposes of the present application, it is reasonably arguable that there would exist documentation within Atos, Jefferies, and Global Payments reflecting the existence of these communications. Indeed, Mr Milner’s evidence explicitly refers to the existence of such documents at (b) and (g) above. Further, Mr Milner’s evidence establishes the existence of a case to be tried that Atos and Global Payments were on the cusp of deciding to make the acquisition in Pure Commerce. The Respondents’ submission that Mr Milner’s evidence is somehow to be discounted because it is hearsay has little traction in an interlocutory debate such as the present.\n\n[25] The proposed application under § 1782 is not, therefore, a stab in the dark hoping to connect with some unknown target, but rather a directed strike at a perceived and visible forensic reality. Further, the material in question will be important to the outcome of the trial for, if available, it will provide documentary corroboration for what are at the moment largely uncorroborated assertions by way of proposed oral testimony. It is correct to say, therefore, that the material sought under the § 1782 procedure is likely to be significant for the outcome of the trial in this Court. It will follow, contrary to the submissions of the Respondents, that the Applicants are not engaged in what the authorities sometimes refer to as a fishing expedition: cf. Associated Dominions Assurance Society Pty Ltd v John Fairfax & Sons Pty Ltd (1955) 72 WN (NSW) 250 at 254 per Owen J. Here, Mr Milner’s evidence clearly shows that this pond has fish in it.\n\n[26] Further, not only is this material potentially important for the outcome of this litigation, but there appears to be no other way that it can be brought before this Court. None of Jefferies, Atos or Global Payments are located within Australia. It was not suggested by the Respondents that a subpoena might be issued to them out of this Court or that this Court’s third party discovery procedure in Rule 20.23 of the Federal Court Rules 2011 (Cth) (‘FCR’) might be utilised against parties not resident within the jurisdiction.\n\n[27] In fact, the procedure in FCR 20.23 is also important to the present application for a different reason. It shows that seeking discovery of documents from a third party, unlike the seeking of depositions, is not alien to the processes of this Court. FCR 20.23 provides:\n\n> 20.23 Discovery from non-party\n\n> (1) If a party believes that a person who is not a party has or is likely to have, or has had or is likely to have had, in the person’s control, documents that are directly relevant to an issue raised on the pleadings or affidavits, the party may apply to the Court for an order that the person make discovery of the documents to the party.\n\n> (2) An application under this rule must:\n\n> (a) be served personally on the person; and\n\n> (b) be accompanied by an affidavit:\n\n> (i) stating the facts on which the applicant relies; and\n\n> (ii) identifying, as precisely as possible, the documents, or categories of documents to which the application relates.\n\n> (3) A copy of the accompanying affidavit for an application must be served on each person on whom the application is served.\n\n> (4) In subrule (1), a reference to an affidavit is a reference to:\n\n> (a) an affidavit accompanying an originating application; and\n\n> (b) an affidavit in response to the affidavit accompanying the originating application.\n\n[28] What the Applicants therefore propose in the District Court has an analogy with procedures which this Court could, in its discretion, make available in the case of Jefferies, Atos and Global Payments, if they were situated in this jurisdiction. In that regard, the current case differs from Treasury Wine - and other cases under § 1782 dealing with depositions - where efforts were made to use § 1782 to achieve a procedural outcome against which this Court, thus far, has turned its face. The Full Court appeared to be somewhat hostile to the idea of this Court permitting the seeking of depositions under § 1782 or at least doing so in circumstances which were not exceptional: see 118-19 [48]. Those statements were, as I have already observed, in obiter. There is at present no such application before this Court and hence no occasion for me to consider the matter either. I would note, however, that the House of Lords did permit such a course under § 1782 in South Carolina Insurance Company v Assurantie Maatschappij De Zeven Provincien NV [1987] AC 24.\n\n[29] A hurdle that the Applicants face in relation to Atos is that it is unclear which of the many members of the worldwide Atos group is the entity which would have possession, custody or control of the documents in question. This is, it should be noted, not a problem in the case of Jefferies and Global Payments in respect of which there was no suggestion by the Respondents that they were not within the reach of § 1782.\n\n[30] Atos itself is the holding company for the Atos group. With any large group, such as the Atos group, it is possible that there may be some documents in the possession, custody or control of individual group members. It is also possible that the electronic document management system for the group is provided, within the group, by a single entity to the other entities. So too, it is impossible to know in advance just precisely how this group operates across international borders. The Applicants’ proposed joinder of the holding company reflects an assumption – or perhaps even a gamble – that the holding company will have sufficient legal authority to instruct its subsidiaries as to document production. In fact, there are two gambles concealed in this position. The first is that being a parent company of a subsidiary will be sufficient for the purposes of US law to enliven § 1782. The second is that by selecting the holding company for the group, the Applicants will succeed in persuading the District Court that the holding company is resident in the Southern District or there to be ‘found’ within the meaning of § 1782.\n\n[31] It was urged upon this Court by the Respondents that I should conclude that the Applicants would fail on these issues before the District Court and that this was a good reason to decline to grant this Court’s permission to make such an application which, on this view, would be doomed.\n\n[32] This submission should be measured against the requirements of case management. It is by no means obvious that Atos will necessarily wish to ventilate these issues before the District Court. Not being enmeshed in this litigation, it may be willing to produce the material without complaint. Furthermore, there is much to be said for the view that the District Court is better qualified to express views about the operation of § 1782 than this Court is. In that regard, both sides elicited extensive expert evidence about the intricacies of US federal procedure on the present application. I do not think that this Court should enter that fray. Beyond satisfying itself that what proposed is not obviously a waste of time, this Court should not spend any of its time on that topic.\n\n[33] It would need to be strikingly obvious that an application such as the present was not permitted under foreign law, before this Court would consider working out the procedural law of foreign courts which are much better placed to do so. The material before this Court about the operation of § 1782 as a matter of US federal law did not begin to approach that kind of standard. Further, factual issues such as where Atos is ‘found’, how its group is structured and operates on a transnational basis, or how the group’s documents are managed across international borders, are ones on which it might reasonably be expected that the evidence of Atos would throw some light. If Atos decides to oppose the application, presumably it may put that kind of material before the District Court - if there is anything in the point. That evidence would be a much more reliable way of working out the § 1782 issues than via the through-a-glass-darkly approach adopted on the present application. Again, this points to the instrumental advantages the District Court has over this Court on these issues. Analogous reasoning disposes of the Respondents’ further contention that the § 1782 application in relation to Atos will subvert French procedural law. In any event, the evidence before this Court on the content of French law was essentially non-existent.\n\n[34] There is no question that the procedure being adopted is going to be expensive for the Applicants and perhaps for Atos, Jefferies and Global Payments. So far as the Applicants are concerned, they are not troubled by this expense (or, perhaps more accurately, not sufficiently troubled not to pursue the procedure). The expense to Atos, Jefferies and Global Payments is not an expense in the proceedings before me and therefore does not directly have an impact on the parties to the litigation in this Court, although the inconvenience to them is something this Court should acknowledge. Notwithstanding the expense that will be involved, I am satisfied given the significant and complex nature of the case that the invocation of the § 1782 procedure is a proportionate response to the problems faced by the Applicants.\n\n[35] The position of the Respondents is more complex. They have signalled a desire to be as actively involved as possible in the Applicants’ applications under § 1782. Indeed, they seek to have this Court impose requirements upon the Applicants, inter alia, that they consent in the proceedings in the District Court to the Respondents’ participation in those proceedings. I can see no reason why this Court should do that. In terms of the management of these proceedings, I perceive no need for the Respondents to be involved in the § 1782 proceedings which are between the Applicants and the three parties against whom it wishes to apply. Whether the District Court wishes to hear from the Respondents on those applications is a matter for it and it would be discourteous for this Court indirectly to influence how the District Court wishes to conduct the litigation before it.\n\n[36] It is not necessary for this Court in the management of the proceedings before it to have any position on that issue. It follows that the costs that the Respondents may incur in relation to the § 1782 procedure will be to their own account.\n\n[37] There is no doubt that the utilisation of the § 1782 procedure is likely to prolong the proceedings in this Court, in the sense that I expect that once it is under way it may take some time to resolve. It is true also that if permission were refused this would probably expedite the proceedings to a degree. However, the expeditious hearing of proceedings, whilst very much a worthy aim, is not the sole aim of litigation in this Court. Section 37M of the FCAA also explicitly invokes ‘just’ outcomes. Here I am satisfied that the seeking of the material in question is sufficiently significant to the outcome of the litigation that the delay that its seeking will engender is warranted.\n\n#### 4. Conditions\n\n[38] I turn then to whether I should impose conditions upon the grant of permission. The case management requirements of this Court do not necessitate the involvement of the Respondents in the District Court and I will not require the Applicant to pay the Respondents’ costs of any such foray. The Respondents should, I think, be put in much the same position that they would be if the Applicants were making an application under FCR 20.23 for discovery from a non-party. That rule does not require service of the application on the other parties to the litigation, but the electronic court file means that parties such as the Respondents would be immediately aware of the application having been made (unless it was for some reason subject to a suppression order). The rule also makes no provision for the right of another party to be heard and whether that is a useful course would generally be for the judge hearing the application to determine based on the circumstances of the particular case. In this case, the only condition that should be imposed is that the Applicants provide the Respondents with the proposed application and any material in support at least 21 days before its filing in the District Court. This will put them in a similar position to that which would have existed by reason of the electronic court file if an application under FCR 20.23 had been made.\n\n#### 5. Conclusion\n\n[39] I will make the following orders:\n\n(1) The Court approves the Applicants making applications for orders under §1782 of Title 28 of the United States Code seeking documents from Global Payments Inc, Jefferies LLC and Atos SE. in substantially the same form as those exhibited to the Affidavit of Jonathan Milner of 9 February 2017 on condition that any such proposed application be served on the Respondents at least 21 days before it is filed in the United States.\n\n(2) Costs of the hearing on 11 April 2017 be costs in the cause.\n\nI certify that the preceding thirty-nine (39) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Perram.\n\nAssociate:\n\nDated: 8 May 2017\n\n### SCHEDULE OF PARTIES\n\n|  | NSD 557 of 2016 |\n|---|---|\n| Respondents |  |\n| Fourth Respondent: | VISA AP (AUSTRALIA) PTY LTD (ACN 134 885 564) |\n| Fifth Respondent: | VISA INTERNATIONAL SERVICE ASSOCIATION |\n",
+ "source_sha256": "644e25ba45644777cfedc89f20b47c03746c31529e4afbeb6cc74c61193e7e17"
+}
