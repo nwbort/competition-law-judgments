@@ -3,10 +3,10 @@ name: Collect Competition Law file numbers
 on:
   workflow_dispatch:
     inputs:
-      years:
-        description: "How many years back to search"
+      start:
+        description: "Earliest filing date to search (YYYY-MM-DD)"
         required: false
-        default: "5"
+        default: "2000-01-01"
   schedule:
     - cron: "17 19 * * 0" # weekly, Monday ~6am AEDT
 
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -31,7 +31,7 @@ jobs:
       - name: Collect file numbers (90-day windows)
         run: |
           python scripts/collect_file_numbers.py \
-            --years "${{ github.event.inputs.years || '5' }}" \
+            --start "${{ github.event.inputs.start || '2000-01-01' }}" \
             --output data/competition_law_file_numbers.json
 
       - name: Commit results if changed
