@@ -241,7 +241,7 @@ def main():
 
     existing = load_json(args.output, {}) or {}
     judgments: dict = existing.get("judgments", {})
-    numbers = args.only or load_json(args.file_numbers)["file_numbers"]
+    numbers = args.only or ([] if args.no_scan else load_json(args.file_numbers)["file_numbers"])
 
     def save():
         with_j = {k: v for k, v in judgments.items() if v}
