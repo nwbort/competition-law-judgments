@@ -165,6 +165,12 @@ def main():
         before = set(existing["file_numbers"])
         new = all_nums - before
         print(f"{len(new)} new file numbers: {sorted(new)}", file=sys.stderr)
+        if not new and start >= date.fromisoformat(existing["filed_after"]):
+            # Nothing new (and no earlier backfill): leave the file and its
+            # dates untouched. The next incremental run re-searches from the
+            # unchanged filed_before.
+            print(f"No changes; leaving {args.output} as is", file=sys.stderr)
+            return
         all_nums |= before
         covered_from = min(start, date.fromisoformat(existing["filed_after"]))
         covered_to = max(end, date.fromisoformat(existing["filed_before"]))
