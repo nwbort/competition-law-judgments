@@ -245,7 +245,7 @@ def main():
 
     def save():
         with_j = {k: v for k, v in judgments.items() if v}
-        write_json(args.output, {
+        out = {
             "source": ORDER_LIST_URL.format(file_number="{file_number}"),
             "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
             "files_checked": len(judgments),
@@ -253,7 +253,12 @@ def main():
             "judgment_count": len({j["url"] for v in with_j.values() for j in v}),
             "downloaded_count": len({j["file"] for v in with_j.values() for j in v if j.get("file")}),
             "judgments": judgments,
-        })
+        }
+        # Keep the previous timestamp when nothing else has changed.
+        prev = load_json(args.output, {}) or {}
+        if prev.get("generated_at") and {**out, "generated_at": prev["generated_at"]} == prev:
+            return
+        write_json(args.output, out)
 
     scan_errors = []
     if not args.no_scan:
